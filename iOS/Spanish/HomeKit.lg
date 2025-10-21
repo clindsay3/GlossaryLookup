@@ -8,7 +8,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION_VOICEOVER_SPEAKINGRATESECTION_SPEAKINGRATE</Position>
       <TranslationSet>
         <base loc="en">Speaking Rate</base>
-        <tran loc="es">Velocidad de habla</tran>
+        <tran loc="es-419">Velocidad de lectura en voz alta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ROOT_SIRI_ALLOWHEYSIRI</Position>
       <TranslationSet>
         <base loc="en">Listen for “Hey Siri”</base>
-        <tran loc="es">Al oír “Oye Siri”</tran>
+        <tran loc="es-419">Escuchar “Oye Siri”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>ROOT_SIRI_LIGHTWHENUSINGSIRI</Position>
       <TranslationSet>
         <base loc="en">Light When Using Siri</base>
-        <tran loc="es">Luz al usar Siri</tran>
+        <tran loc="es-419">Luz al usar Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>ROOT_SIRI_IDENTIFYVOICE</Position>
       <TranslationSet>
         <base loc="en">Recognize My Voice</base>
-        <tran loc="es">Reconocer mi voz</tran>
+        <tran loc="es-419">Reconocer mi voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_HOLDDURATION_SECONDS</Position>
       <TranslationSet>
         <base loc="en">Seconds</base>
-        <tran loc="es">Segundos</tran>
+        <tran loc="es-419">Segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_IGNOREREPEAT_SECONDS</Position>
       <TranslationSet>
         <base loc="en">Seconds</base>
-        <tran loc="es">Segundos</tran>
+        <tran loc="es-419">Segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION_VOICEOVER_DOUBLETAPSETTINGS_TIMEOUTSETTINGS_TIMEOUTINTERVAL</Position>
       <TranslationSet>
         <base loc="en">Seconds</base>
-        <tran loc="es">Segundos</tran>
+        <tran loc="es-419">Segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>ROOT_MUSIC_PLAYBACKINFLUENCESFORYOU</Position>
       <TranslationSet>
         <base loc="en">Update Listening History</base>
-        <tran loc="es">Actualizar historial de reproducción</tran>
+        <tran loc="es-419">Actualizar historial de música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>ROOT_SIRI_TAPTOACCESS</Position>
       <TranslationSet>
         <base loc="en">Touch and Hold for Siri</base>
-        <tran loc="es">Al mantener pulsado</tran>
+        <tran loc="es-419">Usar al mantener presionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_IGNOREREPEAT_ENABLED</Position>
       <TranslationSet>
         <base loc="en">Ignore Repeat</base>
-        <tran loc="es">Ignorar repetición</tran>
+        <tran loc="es-419">Ignorar repetición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>ROOT_LOCATIONSERVICES_ENABLED</Position>
       <TranslationSet>
         <base loc="en">Location Services</base>
-        <tran loc="es">Localización</tran>
+        <tran loc="es-419">Localización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_TAPASSISTANCE_SELECTION</Position>
       <TranslationSet>
         <base loc="en">Tap Assistance</base>
-        <tran loc="es">Asistencia para pulsación</tran>
+        <tran loc="es-419">Ayuda táctil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_HOLDDURATION_ENABLED</Position>
       <TranslationSet>
         <base loc="en">Hold Duration</base>
-        <tran loc="es">Mantener pulsado</tran>
+        <tran loc="es-419">Duración de presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>ROOT_GENERAL_ANALYTICS_SHARESIRIANALYTICS</Position>
       <TranslationSet>
         <base loc="en">Improve Siri &amp; Dictation</base>
-        <tran loc="es">Mejorar “Siri y Dictado”</tran>
+        <tran loc="es-419">Mejorar Siri y el dictado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>ROOT_MUSIC_ALLOWEXPLICITCONTENT</Position>
       <TranslationSet>
         <base loc="en">Allow Explicit Content</base>
-        <tran loc="es">Permitir contenido explícito</tran>
+        <tran loc="es-419">Permitir contenido explícito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION_VOICEOVER_ENABLED</Position>
       <TranslationSet>
         <base loc="en">VoiceOver</base>
-        <tran loc="es">VoiceOver</tran>
+        <tran loc="es-419">VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>ROOT_SIRI_SOUNDALERT</Position>
       <TranslationSet>
         <base loc="en">Sound When Using Siri</base>
-        <tran loc="es">Sonido al usar Siri</tran>
+        <tran loc="es-419">Sonido al usar Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>ROOT_SIRI_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Language</base>
-        <tran loc="es">Idioma</tran>
+        <tran loc="es-419">Idioma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>ROOT_MUSIC_SOUNDCHECK</Position>
       <TranslationSet>
         <base loc="en">Sound Check</base>
-        <tran loc="es">Ajuste de volumen</tran>
+        <tran loc="es-419">Ajuste de volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>ROOT_GENERAL_ANALYTICS_SHARESPEAKERANALYTICS</Position>
       <TranslationSet>
         <base loc="en">Share HomePod Analytics</base>
-        <tran loc="es">Enviar análisis del HomePod</tran>
+        <tran loc="es-419">Compartir análisis (HomePod)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_ENABLED</Position>
       <TranslationSet>
         <base loc="en">Touch Accommodations</base>
-        <tran loc="es">Facilidades táctiles</tran>
+        <tran loc="es-419">Adaptaciones táctiles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION_VOICEOVER_AUDIODUCKINGENABLED</Position>
       <TranslationSet>
         <base loc="en">Audio Ducking</base>
-        <tran loc="es">Atenuación de audio</tran>
+        <tran loc="es-419">Atenuar audio</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -193,7 +193,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">HomeKit</base>
-        <tran loc="es">HomeKit</tran>
+        <tran loc="es-419">HomeKit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">HomeKitDaemon</base>
-        <tran loc="es">HomeKitDaemon</tran>
+        <tran loc="es-419">HomeKitDaemon</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>NSLocationAlwaysUsageDescription</Position>
       <TranslationSet>
         <base loc="en">Home uses the location of this device to connect to and automate HomeKit-enabled accessories.</base>
-        <tran loc="es">Casa utiliza la ubicación de este dispositivo para conectarse a los accesorios compatibles con HomeKit y automatizarlos.</tran>
+        <tran loc="es-419">Casa usa la ubicación de este dispositivo para conectar y automatizar los accesorios compatibles con HomeKit.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -220,7 +220,7 @@
       <Position>APPLE_TV_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Apple TV</base>
-        <tran loc="es">Apple TV</tran>
+        <tran loc="es-419">Apple TV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>AIRPORT_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">AirPort</base>
-        <tran loc="es">AirPort</tran>
+        <tran loc="es-419">AirPort</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -242,7 +242,7 @@
       <Position>SPEAKER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Speaker</base>
-        <tran loc="es">Altavoz</tran>
+        <tran loc="es-419">Altavoz</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -253,7 +253,7 @@
       <Position>MODEL_CHR</Position>
       <TranslationSet>
         <base loc="en">Model</base>
-        <tran loc="es">Modelo</tran>
+        <tran loc="es-419">Modelo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -261,7 +261,7 @@
       <Position>RECURRENCE_TOO_SMALL</Position>
       <TranslationSet>
         <base loc="en">Recurrence is too small.</base>
-        <tran loc="es">Repetición demasiado baja.</tran>
+        <tran loc="es-419">Repetición demasiado breve.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -269,7 +269,7 @@
       <Position>IMAGE_SNAPSHOT</Position>
       <TranslationSet>
         <base loc="en">Image Snapshot</base>
-        <tran loc="es">Captura de la imagen</tran>
+        <tran loc="es-419">Instantánea de la imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -277,7 +277,7 @@
       <Position>AIR_PURIFIER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Air Purifier</base>
-        <tran loc="es">Purificador de aire</tran>
+        <tran loc="es-419">Purificador de aire</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -285,7 +285,7 @@
       <Position>AIR_PURIFIER_SVC</Position>
       <TranslationSet>
         <base loc="en">Air Purifier</base>
-        <tran loc="es">Purificador de aire</tran>
+        <tran loc="es-419">Purificador de aire</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -293,7 +293,7 @@
       <Position>FAUCET_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Faucet</base>
-        <tran loc="es">Grifo</tran>
+        <tran loc="es-419">Llave de agua</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -301,7 +301,7 @@
       <Position>FAUCET_SVC</Position>
       <TranslationSet>
         <base loc="en">Faucet</base>
-        <tran loc="es">Grifo</tran>
+        <tran loc="es-419">Llave de agua</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -309,7 +309,7 @@
       <Position>ROOM_FOR_HOME_CANNOT_BE_UPDATED</Position>
       <TranslationSet>
         <base loc="en">Room for home cannot be updated.</base>
-        <tran loc="es">No se puede actualizar la habitación de la casa.</tran>
+        <tran loc="es-419">No se puede actualizar la habitación de la casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -317,7 +317,7 @@
       <Position>INCOMPATIBLE_ACCESSORY</Position>
       <TranslationSet>
         <base loc="en">Accessory is not compatible</base>
-        <tran loc="es">El accesorio no es compatible</tran>
+        <tran loc="es-419">El accesorio no es compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>STATUS_LOW_BATTERY_CHR</Position>
       <TranslationSet>
         <base loc="en">Status Low Battery</base>
-        <tran loc="es">tiene batería baja</tran>
+        <tran loc="es-419">Estado batería baja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>OWNERSHIP_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Incorrect ownership token.</base>
-        <tran loc="es">Identificador de propiedad incorrecto.</tran>
+        <tran loc="es-419">Identificador incorrecto de propiedad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>CANNOT_REMOVE_NON_BRIDGE_ACCESSORY</Position>
       <TranslationSet>
         <base loc="en">Cannot remove non-bridge accessory.</base>
-        <tran loc="es">No se puede eliminar un accesorio sin puente.</tran>
+        <tran loc="es-419">No se puede eliminar el accesorio que no es de puente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>VALUE_LOWER_THAN_MINIMUM</Position>
       <TranslationSet>
         <base loc="en">Value is lower than minimum.</base>
-        <tran loc="es">Valor inferior al mínimo permitido.</tran>
+        <tran loc="es-419">Valor que no alcanza el mínimo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>COOLING_THRESHOLD_TEMPERATURE_CHR</Position>
       <TranslationSet>
         <base loc="en">Cooling Threshold Temperature</base>
-        <tran loc="es">Umbral de temperatura de refrigeración</tran>
+        <tran loc="es-419">Temperatura de umbral de enfriamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>ROUTER_CATEGORY_WIFI</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi Router</base>
-        <tran loc="es">Router Wi-Fi</tran>
+        <tran loc="es-419">Router Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>TARGET_LIST</Position>
       <TranslationSet>
         <base loc="en">Target List</base>
-        <tran loc="es">Lista de destinos</tran>
+        <tran loc="es-419">Lista de objetivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>KEYCHAIN_SYNC_NOT_ENABLED</Position>
       <TranslationSet>
         <base loc="en">User does not have iCloud Keychain sync enabled.</base>
-        <tran loc="es">El usuario no tiene activada la sincronización del llavero de iCloud.</tran>
+        <tran loc="es-419">El usuario no activó la sincronización del llavero de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>ACCESSORY_PAIRING_FAILED</Position>
       <TranslationSet>
         <base loc="en">Pairing with accessory failed.</base>
-        <tran loc="es">Error al establecer el enlace con el accesorio.</tran>
+        <tran loc="es-419">Error al enlazar el accesorio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>VALVE_TYPE</Position>
       <TranslationSet>
         <base loc="en">Valve Type</base>
-        <tran loc="es">Tipo de válvula</tran>
+        <tran loc="es-419">Tipo de válvula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>ADD_ACCESSORY_FAILED</Position>
       <TranslationSet>
         <base loc="en">Failed to add the accessory.</base>
-        <tran loc="es">Error al añadir el accesorio.</tran>
+        <tran loc="es-419">Error al agregar el accesorio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +413,7 @@
       <Position>SUPP_RTP_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Supported RTP Configuration</base>
-        <tran loc="es">Configuración del RTP compatible</tran>
+        <tran loc="es-419">Configuración de RTP compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +421,7 @@
       <Position>TARGET_RELATIVE_HUMIDITY_CHR</Position>
       <TranslationSet>
         <base loc="en">Target Relative Humidity</base>
-        <tran loc="es">Humedad relativa final</tran>
+        <tran loc="es-419">Humedad relativa objetivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>IN_USE</Position>
       <TranslationSet>
         <base loc="en">In Use</base>
-        <tran loc="es">En uso</tran>
+        <tran loc="es-419">en uso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -437,7 +437,7 @@
       <Position>AIR_CONDITIONER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Air Conditioner</base>
-        <tran loc="es">Aire acondicionado</tran>
+        <tran loc="es-419">Aire acondicionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -445,7 +445,7 @@
       <Position>FILTER_LIFE_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Filter Life Level</base>
-        <tran loc="es">Nivel de uso del filtro</tran>
+        <tran loc="es-419">Nivel de vida del filtro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -453,7 +453,7 @@
       <Position>METADATA_SERIALIZATION_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Error serializing HAP metadata.</base>
-        <tran loc="es">Error al serializar los metadatos HAP.</tran>
+        <tran loc="es-419">Error al serializar metadatos HAP.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -461,7 +461,7 @@
       <Position>CURRENT_POSITION_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Position</base>
-        <tran loc="es">Posición actual</tran>
+        <tran loc="es-419">Posición actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -469,7 +469,7 @@
       <Position>BATTERY_SVC</Position>
       <TranslationSet>
         <base loc="en">Battery</base>
-        <tran loc="es">Batería</tran>
+        <tran loc="es-419">Batería</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -477,7 +477,7 @@
       <Position>SUPP_CAMERA_RECORDING_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Supported Camera Recording Configuration</base>
-        <tran loc="es">Configuración de grabación de la cámara compatible</tran>
+        <tran loc="es-419">Configuración de grabación de la cámara compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -485,7 +485,7 @@
       <Position>VERSION_CHR</Position>
       <TranslationSet>
         <base loc="en">Version</base>
-        <tran loc="es">Versión</tran>
+        <tran loc="es-419">Versión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -493,7 +493,7 @@
       <Position>ACCESSORY_RESPONSE_ERROR</Position>
       <TranslationSet>
         <base loc="en">Accessory response error when communicating with accessory.</base>
-        <tran loc="es">Error de respuesta del accesorio al establecer comunicación con él.</tran>
+        <tran loc="es-419">Error en la respuesta del accesorio al intentar comunicarse con él.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -501,7 +501,7 @@
       <Position>SHOWER_HEAD_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Shower Head</base>
-        <tran loc="es">Alcachofa de ducha</tran>
+        <tran loc="es-419">Regadera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -509,7 +509,7 @@
       <Position>CURRENT_SLAT_STATE</Position>
       <TranslationSet>
         <base loc="en">Current Slat State</base>
-        <tran loc="es">Estado actual de la lama</tran>
+        <tran loc="es-419">Estado actual de las rejillas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -517,7 +517,7 @@
       <Position>TARGET_FAN_STATE</Position>
       <TranslationSet>
         <base loc="en">Target Fan State</base>
-        <tran loc="es">Estado final del ventilador</tran>
+        <tran loc="es-419">Estado esperado del ventilador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -525,7 +525,7 @@
       <Position>SELECT_AUDIO_STREAM_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Selected Audio Stream Configuration</base>
-        <tran loc="es">Configuración de la transmisión de audio seleccionada</tran>
+        <tran loc="es-419">Configuración de transmisión de audio seleccionada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -533,7 +533,7 @@
       <Position>SWING_MODE</Position>
       <TranslationSet>
         <base loc="en">Swing Mode</base>
-        <tran loc="es">Modo de oscilación</tran>
+        <tran loc="es-419">Modo oscilatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -541,7 +541,7 @@
       <Position>FIRE_DATE_IN_PAST</Position>
       <TranslationSet>
         <base loc="en">Fire date is in the past.</base>
-        <tran loc="es">La fecha de activación ya ha pasado.</tran>
+        <tran loc="es-419">La fecha de activación debe ser futura.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -549,7 +549,7 @@
       <Position>NIL_PARAMETER</Position>
       <TranslationSet>
         <base loc="en">Nil parameter specified.</base>
-        <tran loc="es">Parámetro nulo especificado.</tran>
+        <tran loc="es-419">Ningún parámetro especificado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -557,7 +557,7 @@
       <Position>TARGET_HEATER_COOLER_STATE</Position>
       <TranslationSet>
         <base loc="en">Target Heater Cooler State</base>
-        <tran loc="es">Estado final del calefactor/refrigerador</tran>
+        <tran loc="es-419">Estado esperado del enfriador/calentador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -565,7 +565,7 @@
       <Position>HOME_WITH_SIMILAR_NAME_EXISTS</Position>
       <TranslationSet>
         <base loc="en">Home with similar name exists.</base>
-        <tran loc="es">Ya existe una casa con un nombre similar.</tran>
+        <tran loc="es-419">Ya existe una casa con un nombre similar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +573,7 @@
       <Position>USER_DECLINED_INVITE</Position>
       <TranslationSet>
         <base loc="en">User declined invite to access home.</base>
-        <tran loc="es">El usuario ha rechazado la invitación para acceder a la casa.</tran>
+        <tran loc="es-419">El usuario declinó acceder a la casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -581,7 +581,7 @@
       <Position>MESSAGE_AUTHENTICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Authentication failed.</base>
-        <tran loc="es">Error de autenticación.</tran>
+        <tran loc="es-419">Error de autenticación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -589,7 +589,7 @@
       <Position>SPRINKLER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Sprinkler</base>
-        <tran loc="es">Aspersor</tran>
+        <tran loc="es-419">Aspersor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -597,7 +597,7 @@
       <Position>CONTACT_SENSOR_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Contact Sensor State</base>
-        <tran loc="es">Estado del sensor de contacto</tran>
+        <tran loc="es-419">Estado del sensor de contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -605,7 +605,7 @@
       <Position>OBJECT_ASSOCIATED_TO_ANOTHER_HOME</Position>
       <TranslationSet>
         <base loc="en">Object is already associated with another home.</base>
-        <tran loc="es">Objeto ya asociado a otra casa.</tran>
+        <tran loc="es-419">Objeto ya asociado con otra casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -613,7 +613,7 @@
       <Position>PM10_DENSITY</Position>
       <TranslationSet>
         <base loc="en">PM10 Density</base>
-        <tran loc="es">Densidad de material particulado grueso</tran>
+        <tran loc="es-419">Densidad de partículas finas PM10</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -621,7 +621,7 @@
       <Position>BATTERY_LEVEL_CHR</Position>
       <TranslationSet>
         <base loc="en">Battery Level</base>
-        <tran loc="es">Nivel de batería</tran>
+        <tran loc="es-419">Nivel de batería</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -629,7 +629,7 @@
       <Position>CARBON_DIOXIDE_DETECTED_CHR</Position>
       <TranslationSet>
         <base loc="en">Carbon dioxide Detected</base>
-        <tran loc="es">Dióxido de carbono detectado</tran>
+        <tran loc="es-419">Se detectó dióxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -637,7 +637,7 @@
       <Position>NAME_CHR</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -645,7 +645,7 @@
       <Position>LOCK_MANAGEMENT_SVC</Position>
       <TranslationSet>
         <base loc="en">Lock Management</base>
-        <tran loc="es">Gestión de la cerradura</tran>
+        <tran loc="es-419">Control de chapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -653,7 +653,7 @@
       <Position>SATURATION_CHR</Position>
       <TranslationSet>
         <base loc="en">Saturation</base>
-        <tran loc="es">Saturación</tran>
+        <tran loc="es-419">Saturación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -661,7 +661,7 @@
       <Position>NO_COMPATIBLE_HOME_HUB</Position>
       <TranslationSet>
         <base loc="en">No Compatible HomeHub</base>
-        <tran loc="es">Ninguna central de accesorios compatible</tran>
+        <tran loc="es-419">Sin HomeHub compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -669,7 +669,7 @@
       <Position>SELECT_STREAM_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Selected Stream Configuration</base>
-        <tran loc="es">Configuración de la transmisión seleccionada</tran>
+        <tran loc="es-419">Configuración de transmisión seleccionada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -677,7 +677,7 @@
       <Position>RECURRENCE_MUST_BE_ON_SPECIFIED_BOUNDARIES</Position>
       <TranslationSet>
         <base loc="en">Timer trigger recurrence must be on specified boundaries.</base>
-        <tran loc="es">La repetición de la activación del temporizador debe estar entre los límites especificados.</tran>
+        <tran loc="es-419">La repetición de la activación programada debe situarse entre límites especificados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -685,7 +685,7 @@
       <Position>NO_REGISTERED_ACTION_SETS</Position>
       <TranslationSet>
         <base loc="en">No registered action sets for trigger.</base>
-        <tran loc="es">No hay ningún conjunto de acciones registrado para activarse.</tran>
+        <tran loc="es-419">No hay acciones definidas registradas para la activación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -693,7 +693,7 @@
       <Position>CAMERA_CTRL_SVC</Position>
       <TranslationSet>
         <base loc="en">Camera Control</base>
-        <tran loc="es">Control de la cámara</tran>
+        <tran loc="es-419">Control de la cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -701,7 +701,7 @@
       <Position>CHARGING_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Charging State</base>
-        <tran loc="es">Estado de carga</tran>
+        <tran loc="es-419">Cargando estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -709,7 +709,7 @@
       <Position>NO_ACTIONS_IN_ACTION_SET</Position>
       <TranslationSet>
         <base loc="en">No actions in action set.</base>
-        <tran loc="es">Ninguna acción en el conjunto de acciones.</tran>
+        <tran loc="es-419">Ninguna acción en el conjunto de acciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -717,7 +717,7 @@
       <Position>NOT_AUTHORIZED_FOR_LOCATION_SERVICES</Position>
       <TranslationSet>
         <base loc="en">Application is not authorized for Location Services.</base>
-        <tran loc="es">La aplicación no tiene autorización para usar Localización.</tran>
+        <tran loc="es-419">La app no tiene autorización para usar Localización.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -725,7 +725,7 @@
       <Position>CARBON_MONOXIDE_LEVEL_CHR</Position>
       <TranslationSet>
         <base loc="en">Carbon monoxide Level</base>
-        <tran loc="es">Nivel de monóxido de carbono</tran>
+        <tran loc="es-419">Nivel de monóxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -733,7 +733,7 @@
       <Position>IMAGE_ROTATION</Position>
       <TranslationSet>
         <base loc="en">Image Rotation</base>
-        <tran loc="es">Rotación de la imagen</tran>
+        <tran loc="es-419">Rotación de la imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -741,7 +741,7 @@
       <Position>TARGET_CONTROL_SVC</Position>
       <TranslationSet>
         <base loc="en">Target Control</base>
-        <tran loc="es">Control del destino</tran>
+        <tran loc="es-419">Control de objetivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -749,7 +749,7 @@
       <Position>CARBON_DIOXIDE_PEAK_LEVEL_CHR</Position>
       <TranslationSet>
         <base loc="en">Carbon dioxide Peak Level</base>
-        <tran loc="es">Nivel máximo de dióxido de carbono</tran>
+        <tran loc="es-419">Nivel máximo de dióxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -757,7 +757,7 @@
       <Position>DOOR_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Door</base>
-        <tran loc="es">Puerta</tran>
+        <tran loc="es-419">Puerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -765,7 +765,7 @@
       <Position>DOOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Door</base>
-        <tran loc="es">Puerta</tran>
+        <tran loc="es-419">Puerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -773,7 +773,7 @@
       <Position>LIGHTBULB_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Lightbulb</base>
-        <tran loc="es">Bombilla</tran>
+        <tran loc="es-419">Foco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -781,7 +781,7 @@
       <Position>LIGHTBULB_SVC</Position>
       <TranslationSet>
         <base loc="en">Lightbulb</base>
-        <tran loc="es">Bombilla</tran>
+        <tran loc="es-419">Foco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -789,7 +789,7 @@
       <Position>ACTIVE</Position>
       <TranslationSet>
         <base loc="en">Active</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Activo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -797,7 +797,7 @@
       <Position>OBJECT_WITH_SIMILAR_NAME_EXISTS</Position>
       <TranslationSet>
         <base loc="en">Object with similar name exists.</base>
-        <tran loc="es">Ya existe un objeto con un nombre similar.</tran>
+        <tran loc="es-419">Ya existe un objeto con un nombre similar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -805,7 +805,7 @@
       <Position>CURRENT_HEATER_COOLER_STATE</Position>
       <TranslationSet>
         <base loc="en">Current Heater Cooler State</base>
-        <tran loc="es">Estado actual del calefactor/refrigerador</tran>
+        <tran loc="es-419">Estado actual del enfriador/calentador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -813,7 +813,7 @@
       <Position>TARGET_SECURITY_SYSTEM_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Target Security System State</base>
-        <tran loc="es">Estado final del sistema de seguridad</tran>
+        <tran loc="es-419">Estado objetivo del sistema de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -821,7 +821,7 @@
       <Position>REFER_TO_USER_MANUAL</Position>
       <TranslationSet>
         <base loc="en">Refer to User Manual.</base>
-        <tran loc="es">Consulta el manual del usuario.</tran>
+        <tran loc="es-419">Consulta el manual del usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -829,7 +829,7 @@
       <Position>BRIDGE_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Bridge</base>
-        <tran loc="es">Puente</tran>
+        <tran loc="es-419">Puente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -837,7 +837,7 @@
       <Position>CARBON_DIOXIDE_LEVEL_CHR</Position>
       <TranslationSet>
         <base loc="en">Carbon dioxide Level</base>
-        <tran loc="es">Nivel de dióxido de carbono</tran>
+        <tran loc="es-419">Nivel de dióxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -845,7 +845,7 @@
       <Position>RENAME_WITH_SIMILAR_NAME</Position>
       <TranslationSet>
         <base loc="en">Cannot rename to similar name.</base>
-        <tran loc="es">No se puede cambiar el nombre por uno similar.</tran>
+        <tran loc="es-419">No se puede cambiar el nombre a uno similar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -853,7 +853,7 @@
       <Position>OUTLET_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Outlet</base>
-        <tran loc="es">Enchufe</tran>
+        <tran loc="es-419">Contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -861,7 +861,7 @@
       <Position>OUTLET_SVC</Position>
       <TranslationSet>
         <base loc="en">Outlet</base>
-        <tran loc="es">Enchufe</tran>
+        <tran loc="es-419">Contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -869,7 +869,7 @@
       <Position>DATA_STREAM_TRANSPORT_MGMT_SVC</Position>
       <TranslationSet>
         <base loc="en">Data Stream Transport Management</base>
-        <tran loc="es">Gestión del transporte de la secuencia de datos</tran>
+        <tran loc="es-419">Administración de transportación de datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -877,7 +877,7 @@
       <Position>DATA_RESET_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Data reset failed.</base>
-        <tran loc="es">Error al restablecer los datos.</tran>
+        <tran loc="es-419">Error al restablecer los datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -885,7 +885,7 @@
       <Position>PASSWORD_WEAK</Position>
       <TranslationSet>
         <base loc="en">Password is too weak.</base>
-        <tran loc="es">La contraseña es poco segura.</tran>
+        <tran loc="es-419">La contraseña no es segura.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -893,7 +893,7 @@
       <Position>WIFI_CREDENTIAL_GENERATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Network credential generation failed.</base>
-        <tran loc="es">Error al generar las credenciales de red.</tran>
+        <tran loc="es-419">Error al generar credenciales de la red.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -901,7 +901,7 @@
       <Position>HOLD_POSITION_CHR</Position>
       <TranslationSet>
         <base loc="en">Hold Position</base>
-        <tran loc="es">Posición de espera</tran>
+        <tran loc="es-419">Mantener la posición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -909,7 +909,7 @@
       <Position>CARBON_MONOXIDE_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Carbon monoxide Sensor</base>
-        <tran loc="es">Sensor de monóxido de carbono</tran>
+        <tran loc="es-419">Sensor de monóxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -917,7 +917,7 @@
       <Position>HEATER_COOLER_SVC</Position>
       <TranslationSet>
         <base loc="en">Heater-Cooler</base>
-        <tran loc="es">Calefactor/refrigerador</tran>
+        <tran loc="es-419">Calentador/enfriador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -925,7 +925,7 @@
       <Position>REMAINING_DURATION</Position>
       <TranslationSet>
         <base loc="en">Remaining Duration</base>
-        <tran loc="es">Tiempo restante</tran>
+        <tran loc="es-419">Duración restante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -933,7 +933,7 @@
       <Position>INCOMPATIBLE_WIFI_NETWORK</Position>
       <TranslationSet>
         <base loc="en">Incompatible network.</base>
-        <tran loc="es">Red incompatible.</tran>
+        <tran loc="es-419">Red incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -941,7 +941,7 @@
       <Position>CLIENT_REQUEST_ERROR</Position>
       <TranslationSet>
         <base loc="en">Client request error when communicating with accessory.</base>
-        <tran loc="es">Error de solicitud del cliente al establecer comunicación con el accesorio.</tran>
+        <tran loc="es-419">Error en la respuesta del cliente al intentar comunicarse con el accesorio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -949,7 +949,7 @@
       <Position>STRING_SHORTER_THAN_MINIMUM</Position>
       <TranslationSet>
         <base loc="en">String is shorter than the minimum length.</base>
-        <tran loc="es">Cadena más corta de lo permitido.</tran>
+        <tran loc="es-419">No se alcanza la longitud mínima.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -957,7 +957,7 @@
       <Position>REQUEST_NOT_HANDLED</Position>
       <TranslationSet>
         <base loc="en">Request was not handled.</base>
-        <tran loc="es">La solicitud no se ha gestionado.</tran>
+        <tran loc="es-419">No se manejó la solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -965,7 +965,7 @@
       <Position>THERMOSTAT_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Thermostat</base>
-        <tran loc="es">Termostato</tran>
+        <tran loc="es-419">Termostato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -973,7 +973,7 @@
       <Position>THERMOSTAT_SVC</Position>
       <TranslationSet>
         <base loc="en">Thermostat</base>
-        <tran loc="es">Termostato</tran>
+        <tran loc="es-419">Termostato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -981,7 +981,7 @@
       <Position>MUTE</Position>
       <TranslationSet>
         <base loc="en">Mute</base>
-        <tran loc="es">Silenciar</tran>
+        <tran loc="es-419">Silenciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -989,7 +989,7 @@
       <Position>ACTION_SET_EXECUTION_IN_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Action set execution in progress.</base>
-        <tran loc="es">Ejecución del conjunto de acciones en curso.</tran>
+        <tran loc="es-419">Se está ejecutando la acción definida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +997,7 @@
       <Position>ACCESSORY_IS_BUSY</Position>
       <TranslationSet>
         <base loc="en">Accessory is busy.</base>
-        <tran loc="es">Accesorio ocupado.</tran>
+        <tran loc="es-419">Accesorio ocupado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1005,7 +1005,7 @@
       <Position>ROTATION_SPEED_CHR</Position>
       <TranslationSet>
         <base loc="en">Rotation Speed</base>
-        <tran loc="es">Velocidad de rotación</tran>
+        <tran loc="es-419">Velocidad de la rotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1013,7 +1013,7 @@
       <Position>AUDIO_FEEDBACK_CHR</Position>
       <TranslationSet>
         <base loc="en">Audio Feedback</base>
-        <tran loc="es">Respuesta de audio</tran>
+        <tran loc="es-419">Retroalimentación de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1021,7 +1021,7 @@
       <Position>STATEFUL_PROGRAMMABLE_SWITCH_SVC</Position>
       <TranslationSet>
         <base loc="en">Stateful Programmable Switch</base>
-        <tran loc="es">Interruptor programable con estados</tran>
+        <tran loc="es-419">Interruptor programable con estados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@
       <Position>INVITATION_ALREADY_ACCEPTED</Position>
       <TranslationSet>
         <base loc="en">Invitation has already been accepted.</base>
-        <tran loc="es">La invitación ya se ha aceptado.</tran>
+        <tran loc="es-419">Ya se había aceptado la invitación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@
       <Position>INVALID_ASSOCIATED_SERVICE_TYPE</Position>
       <TranslationSet>
         <base loc="en">Invalid associated service type.</base>
-        <tran loc="es">Tipo de servicio asociado no válido.</tran>
+        <tran loc="es-419">Tipos de servicios asociados no válidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@
       <Position>CURRENT_LOCK_MECHANISM_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Lock Mechanism Current State</base>
-        <tran loc="es">Estado actual del mecanismo de la cerradura</tran>
+        <tran loc="es-419">Estado actual del mecanismo de chapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1053,7 @@
       <Position>WATER_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Water Level</base>
-        <tran loc="es">Nivel de agua</tran>
+        <tran loc="es-419">Nivel del agua</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1061,7 @@
       <Position>COMMUNICATION_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Network or other communication failure occurred.</base>
-        <tran loc="es">Se ha producido un error de red u otro fallo de comunicación.</tran>
+        <tran loc="es-419">Ocurrió un error de redes o de otra comunicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1069,7 @@
       <Position>TARGET_CONTROL_MANAGEMENT_SVC</Position>
       <TranslationSet>
         <base loc="en">Target Control Management</base>
-        <tran loc="es">Gestión del control del destino</tran>
+        <tran loc="es-419">Administración de control de objetivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1077,7 +1077,7 @@
       <Position>ACCESSORY_NOT_REACHABLE</Position>
       <TranslationSet>
         <base loc="en">Accessory is not reachable.</base>
-        <tran loc="es">Accesorio inaccesible.</tran>
+        <tran loc="es-419">El accesorio no está en el rango.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1085,7 +1085,7 @@
       <Position>PROGRAMMABLE_SWITCH_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Programmable Switch</base>
-        <tran loc="es">Interruptor programable</tran>
+        <tran loc="es-419">Interruptor programable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1093,7 +1093,7 @@
       <Position>TARGET_DOOR_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Target Door State</base>
-        <tran loc="es">Estado final de la puerta</tran>
+        <tran loc="es-419">Estado objetivo de la puerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1101,7 +1101,7 @@
       <Position>OBJECT_ALREADY_ASSOCIATED_TO_HOME</Position>
       <TranslationSet>
         <base loc="en">Object already exists in the home.</base>
-        <tran loc="es">Objeto ya existente en la casa.</tran>
+        <tran loc="es-419">El objeto ya existe en la casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1109,7 +1109,7 @@
       <Position>HUMIDITY_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Humidity Sensor</base>
-        <tran loc="es">Sensor de humedad</tran>
+        <tran loc="es-419">Sensor de humedad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1117,7 +1117,7 @@
       <Position>SELECTED_CAMERA_RECORDING_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Selected Camera Recording Configuration</base>
-        <tran loc="es">Configuración de grabación de la cámara seleccionada</tran>
+        <tran loc="es-419">Configuración de grabación de la cámara seleccionada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1125,7 +1125,7 @@
       <Position>ACCESSORY_SENT_INVALID_RESPONSE</Position>
       <TranslationSet>
         <base loc="en">Accessory sent an invalid response.</base>
-        <tran loc="es">Respuesta no válida enviada por el accesorio.</tran>
+        <tran loc="es-419">El accesorio envió una respuesta no válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1133,7 +1133,7 @@
       <Position>LOCK_MECHANISM_LAST_KNOWN_ACTION_CHR</Position>
       <TranslationSet>
         <base loc="en">Lock Mechanism Last Known Action</base>
-        <tran loc="es">Última acción conocida del mecanismo de la cerradura</tran>
+        <tran loc="es-419">Última acción conocida del mecanismo de chapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1141,7 +1141,7 @@
       <Position>REMOTE_VIEW_SERVICE_CREATION_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Failed to create remote view service.</base>
-        <tran loc="es">No se ha podido crear el servicio de visualización remoto.</tran>
+        <tran loc="es-419">No se pudo crear un servicio de visualización remota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1149,7 +1149,7 @@
       <Position>BUTTON_EVENT</Position>
       <TranslationSet>
         <base loc="en">Button Event</base>
-        <tran loc="es">Evento de botón</tran>
+        <tran loc="es-419">Evento de botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1157,7 +1157,7 @@
       <Position>AIR_PARTICULATE_DENSITY_CHR</Position>
       <TranslationSet>
         <base loc="en">Air Particulate Density</base>
-        <tran loc="es">Densidad partículas aire</tran>
+        <tran loc="es-419">Densidad de partículas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1165,7 +1165,7 @@
       <Position>OBJECT_NOT_ASSOCIATED_TO_ANY_HOME</Position>
       <TranslationSet>
         <base loc="en">Object is not associated with a home.</base>
-        <tran loc="es">Objeto no asociado a una casa.</tran>
+        <tran loc="es-419">Objeto no asociado con una casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1173,7 +1173,7 @@
       <Position>SUPP_AUDIO_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Supported Audio Stream Configuration</base>
-        <tran loc="es">Configuración de la transmisión de audio compatible</tran>
+        <tran loc="es-419">Configuración de transmisión de audio compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1181,7 +1181,7 @@
       <Position>GARAGE_DOOR_OPENER_SVC</Position>
       <TranslationSet>
         <base loc="en">Garage Door Opener</base>
-        <tran loc="es">Apertura de la puerta del garaje</tran>
+        <tran loc="es-419">Control de puerta del garage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1189,7 +1189,7 @@
       <Position>DIGITAL_ZOOM</Position>
       <TranslationSet>
         <base loc="en">Digital Zoom</base>
-        <tran loc="es">Zoom digital</tran>
+        <tran loc="es-419">Zoom digital</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1197,7 +1197,7 @@
       <Position>SLATS_SVC</Position>
       <TranslationSet>
         <base loc="en">Slats</base>
-        <tran loc="es">Lamas</tran>
+        <tran loc="es-419">Rejillas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1205,7 +1205,7 @@
       <Position>INVALID_CLASS</Position>
       <TranslationSet>
         <base loc="en">Invalid class.</base>
-        <tran loc="es">Clase no válida.</tran>
+        <tran loc="es-419">Clase no válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1213,7 +1213,7 @@
       <Position>NETWORK_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Network is unavailable.</base>
-        <tran loc="es">La red no está disponible.</tran>
+        <tran loc="es-419">La red no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1221,7 +1221,7 @@
       <Position>NO_HOME_HUB</Position>
       <TranslationSet>
         <base loc="en">No HomeHub</base>
-        <tran loc="es">Ninguna central de accesorios</tran>
+        <tran loc="es-419">Sin HomeHub</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1229,7 +1229,7 @@
       <Position>CANNOT_ACTIVATE_TRIGGER_TOO_FAR_IN_FUTURE</Position>
       <TranslationSet>
         <base loc="en">Cannot activate a timer trigger that is too far in the future.</base>
-        <tran loc="es">No se puede activar un temporizador tan lejano en el tiempo.</tran>
+        <tran loc="es-419">No se puede programar una activación para un horario tan lejano.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1237,7 +1237,7 @@
       <Position>LEAK_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Leak Sensor</base>
-        <tran loc="es">Sensor de fuga</tran>
+        <tran loc="es-419">Sensor de fugas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1245,7 +1245,7 @@
       <Position>MOTION_DETECTED_CHR</Position>
       <TranslationSet>
         <base loc="en">Motion Detected</base>
-        <tran loc="es">Movimiento detectado</tran>
+        <tran loc="es-419">Se detectó movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1253,7 +1253,7 @@
       <Position>CURRENT_VERTICAL_TILT_ANGLE_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Vertical Tilt Angle</base>
-        <tran loc="es">Ángulo de inclinación vertical actual</tran>
+        <tran loc="es-419">Ángulo actual de inclinación vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1261,7 +1261,7 @@
       <Position>OPERATION_NOT_SUPPORTED</Position>
       <TranslationSet>
         <base loc="en">Operation is not supported.</base>
-        <tran loc="es">Operación no admitida.</tran>
+        <tran loc="es-419">Operación no admitida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1269,7 +1269,7 @@
       <Position>LABEL_SVC</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1277,7 +1277,7 @@
       <Position>NOTIFICATION_ALREADY_ENABLED</Position>
       <TranslationSet>
         <base loc="en">Characteristic notification already enabled.</base>
-        <tran loc="es">Notificación de características ya activada.</tran>
+        <tran loc="es-419">La notificación característica ya se había activado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1285,7 +1285,7 @@
       <Position>TARGET_HORIZONTAL_TILT_ANGLE_CHR</Position>
       <TranslationSet>
         <base loc="en">Target Horizontal Tilt Angle</base>
-        <tran loc="es">Ángulo de inclinación horizontal final</tran>
+        <tran loc="es-419">Ángulo objetivo de inclinación horizontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1293,7 +1293,7 @@
       <Position>FIRMWARE_VERSION_CHR</Position>
       <TranslationSet>
         <base loc="en">Firmware Version</base>
-        <tran loc="es">Versión del firmware</tran>
+        <tran loc="es-419">Versión del firmware</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1301,7 +1301,7 @@
       <Position>DOOR_LOCK_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Door Lock</base>
-        <tran loc="es">Cerradura de la puerta</tran>
+        <tran loc="es-419">Chapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1309,7 +1309,7 @@
       <Position>USER_MANAGEMENT_FAILED</Position>
       <TranslationSet>
         <base loc="en">User management failed.</base>
-        <tran loc="es">Error de gestión de usuarios.</tran>
+        <tran loc="es-419">Error al administrar usuarios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1317,7 +1317,7 @@
       <Position>CURRENT_HEATING_COOLING_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Heating Cooling State</base>
-        <tran loc="es">Estado actual de la calefacción/refrigeración</tran>
+        <tran loc="es-419">Estado actual de enfriamiento de la calefacción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1325,7 +1325,7 @@
       <Position>READ_WRITE_PARTIAL_SUCCESS</Position>
       <TranslationSet>
         <base loc="en">Read/Write operation partially succeeded.</base>
-        <tran loc="es">Operación de lectura/escritura completada parcialmente.</tran>
+        <tran loc="es-419">Lectura o escritura realizada parcialmente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1333,7 +1333,7 @@
       <Position>MEDIA_REMOTE_ERROR</Position>
       <TranslationSet>
         <base loc="en">Media Remote error.</base>
-        <tran loc="es">Error del mando a distancia multimedia.</tran>
+        <tran loc="es-419">Error de contenido remoto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1341,7 +1341,7 @@
       <Position>MICROPHONE_SVC</Position>
       <TranslationSet>
         <base loc="en">Microphone</base>
-        <tran loc="es">Micrófono</tran>
+        <tran loc="es-419">Micrófono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1349,7 +1349,7 @@
       <Position>FILTER_CHANGE_INDICATION</Position>
       <TranslationSet>
         <base loc="en">Filter Change Indication</base>
-        <tran loc="es">Indicación de cambio de filtro</tran>
+        <tran loc="es-419">Indicación de cambio de filtro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1357,7 +1357,7 @@
       <Position>SUPP_VIDEO_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Supported Video Stream Configuration</base>
-        <tran loc="es">Configuración de la transmisión de vídeo compatible</tran>
+        <tran loc="es-419">Configuración de transmisión de video compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1365,7 +1365,7 @@
       <Position>LOGS_CHR</Position>
       <TranslationSet>
         <base loc="en">Logs</base>
-        <tran loc="es">Registros</tran>
+        <tran loc="es-419">Registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1373,7 +1373,7 @@
       <Position>LOCK_PHYSICAL_CONTROLS</Position>
       <TranslationSet>
         <base loc="en">Lock Physical Controls</base>
-        <tran loc="es">Bloquear controles físicos</tran>
+        <tran loc="es-419">Bloquear controles físicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1381,7 +1381,7 @@
       <Position>HUE_CHR</Position>
       <TranslationSet>
         <base loc="en">Hue</base>
-        <tran loc="es">Tono</tran>
+        <tran loc="es-419">Matiz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1389,7 +1389,7 @@
       <Position>WINDOW_COVERING_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Window Covering</base>
-        <tran loc="es">Persianas</tran>
+        <tran loc="es-419">Cubierta de ventana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1397,7 +1397,7 @@
       <Position>WINDOW_COVERING_SVC</Position>
       <TranslationSet>
         <base loc="en">Window Covering</base>
-        <tran loc="es">Persianas</tran>
+        <tran loc="es-419">Cubierta de ventana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1405,7 +1405,7 @@
       <Position>IP_CAMERA_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">IP Camera</base>
-        <tran loc="es">Cámara IP</tran>
+        <tran loc="es-419">Cámara de IP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1413,7 +1413,7 @@
       <Position>TARGET_VERTICAL_TILT_ANGLE_CHR</Position>
       <TranslationSet>
         <base loc="en">Target Vertical Tilt Angle</base>
-        <tran loc="es">Ángulo de inclinación vertical final</tran>
+        <tran loc="es-419">Ángulo objetivo de inclinación vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1421,7 +1421,7 @@
       <Position>MOTION_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Motion Sensor</base>
-        <tran loc="es">Sensor de movimiento</tran>
+        <tran loc="es-419">Sensor de movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1429,7 +1429,7 @@
       <Position>LOCK_MANAGEMENT_AUTO_SECURITY_TIMEOUT_CHR</Position>
       <TranslationSet>
         <base loc="en">Lock Management Auto Security Timeout</base>
-        <tran loc="es">Tiempo límite de seguridad para la gestión de la cerradura</tran>
+        <tran loc="es-419">Tiempo automático de espera de seguridad del control de chapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1437,7 +1437,7 @@
       <Position>CONTACT_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Contact Sensor</base>
-        <tran loc="es">Sensor de contacto</tran>
+        <tran loc="es-419">Sensor de contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1445,7 +1445,7 @@
       <Position>INVALID_PARAMETER</Position>
       <TranslationSet>
         <base loc="en">Invalid parameter.</base>
-        <tran loc="es">Parámetro no válido.</tran>
+        <tran loc="es-419">Parámetro no válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1453,7 +1453,7 @@
       <Position>ACTION_SET_EXECUTION_PARTIAL_SUCCESS</Position>
       <TranslationSet>
         <base loc="en">Action set execution partially succeeded.</base>
-        <tran loc="es">Ejecución del conjunto de acciones completada parcialmente.</tran>
+        <tran loc="es-419">La acción definida se ejecutó parcialmente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1461,7 +1461,7 @@
       <Position>FILTER_RESET_CHANGE_INDICATION</Position>
       <TranslationSet>
         <base loc="en">Filter Reset Change Indication</base>
-        <tran loc="es">Restablecer indicación de cambio de filtro</tran>
+        <tran loc="es-419">Restablecer indicación de cambio de filtro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1469,7 +1469,7 @@
       <Position>INVITATION_ALREADY_DECLINED</Position>
       <TranslationSet>
         <base loc="en">Invitation has already been declined.</base>
-        <tran loc="es">La invitación ya se ha rechazado.</tran>
+        <tran loc="es-419">Ya se había rechazado la invitación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1477,7 +1477,7 @@
       <Position>AUDIO_STREAM_MGMT_SVC</Position>
       <TranslationSet>
         <base loc="en">Audio Stream Management Service</base>
-        <tran loc="es">Servicio de gestión de secuencias de audio</tran>
+        <tran loc="es-419">Servicio de administración de transmisión de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1485,7 +1485,7 @@
       <Position>INVALID_DATA_FORMAT_SPECIFIED</Position>
       <TranslationSet>
         <base loc="en">Invalid data format.</base>
-        <tran loc="es">Formato de datos no válido.</tran>
+        <tran loc="es-419">Formato de datos no válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1493,7 +1493,7 @@
       <Position>SECURITY_SYSTEM_ALARM_TYPE_CHR</Position>
       <TranslationSet>
         <base loc="en">Security System Alarm Type</base>
-        <tran loc="es">Tipo de alarma del sistema de seguridad</tran>
+        <tran loc="es-419">Tipo de alarma del sistema de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1501,7 +1501,7 @@
       <Position>ACCESSORY_INFORMATION_SVC</Position>
       <TranslationSet>
         <base loc="en">Accessory Information Service</base>
-        <tran loc="es">Servicio de información de los accesorios</tran>
+        <tran loc="es-419">Servicio de información de accesorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1509,7 +1509,7 @@
       <Position>VOICE_SHORTCUT_WITH_SIMILAR_NAME_EXISTS</Position>
       <TranslationSet>
         <base loc="en">Voice Shortcut with similar name exists.</base>
-        <tran loc="es">Ya existe una función rápida por voz con un nombre similar.</tran>
+        <tran loc="es-419">Ya existe un atajo con un nombre similar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1517,7 +1517,7 @@
       <Position>CURRENT_TILT_ANGLE</Position>
       <TranslationSet>
         <base loc="en">Current Tilt Angle</base>
-        <tran loc="es">Ángulo de inclinación actual</tran>
+        <tran loc="es-419">Ángulo actual de inclinación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1525,7 +1525,7 @@
       <Position>STATUS_JAMMED_CHR</Position>
       <TranslationSet>
         <base loc="en">Status Jammed</base>
-        <tran loc="es">Estado atascado</tran>
+        <tran loc="es-419">Estado bloqueada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1533,7 +1533,7 @@
       <Position>OZONE_DENSITY</Position>
       <TranslationSet>
         <base loc="en">Ozone Density</base>
-        <tran loc="es">Densidad de ozono</tran>
+        <tran loc="es-419">Densidad de ozono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1541,7 +1541,7 @@
       <Position>CLOUD_DATA_SYNC_IN_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Cloud data sync is in progress.</base>
-        <tran loc="es">Sincronización de datos en la nube en curso.</tran>
+        <tran loc="es-419">Sincronizando datos de la nube.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1549,7 +1549,7 @@
       <Position>CURRENT_LIGHT_LEVEL_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Light Level</base>
-        <tran loc="es">Nivel de luz actual</tran>
+        <tran loc="es-419">Nivel actual de luz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1557,7 +1557,7 @@
       <Position>DEHUMIDIFIER_THRESHOLD</Position>
       <TranslationSet>
         <base loc="en">Dehumidifier Threshold</base>
-        <tran loc="es">Umbral del deshumidificador</tran>
+        <tran loc="es-419">Umbral del deshumidificador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1565,7 +1565,7 @@
       <Position>OCCUPANCY_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Occupancy Sensor</base>
-        <tran loc="es">Sensor de ocupación</tran>
+        <tran loc="es-419">Sensor de ocupación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1573,7 +1573,7 @@
       <Position>UNEXPECTED_ERROR</Position>
       <TranslationSet>
         <base loc="en">Unexpected error.</base>
-        <tran loc="es">Error inesperado.</tran>
+        <tran loc="es-419">Error inesperado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1581,7 +1581,7 @@
       <Position>AIR_DEHUMIDIFIER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Air Dehumidifier</base>
-        <tran loc="es">Deshumidificador</tran>
+        <tran loc="es-419">Deshumidificador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1589,7 +1589,7 @@
       <Position>NOTIFICATION_NOT_SUPPORTED</Position>
       <TranslationSet>
         <base loc="en">Notification is not supported.</base>
-        <tran loc="es">Notificación no admitida.</tran>
+        <tran loc="es-419">No se admiten los avisos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1597,7 +1597,7 @@
       <Position>ACCESSORY_IS_BLOCKED</Position>
       <TranslationSet>
         <base loc="en">Accessory is blocked.</base>
-        <tran loc="es">Accesorio bloqueado.</tran>
+        <tran loc="es-419">El accesorio está bloqueado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1605,7 +1605,7 @@
       <Position>PROGRAM_MODE</Position>
       <TranslationSet>
         <base loc="en">Program Mode</base>
-        <tran loc="es">Modo de programa</tran>
+        <tran loc="es-419">Modo de programación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1613,7 +1613,7 @@
       <Position>TARGET_HUMIDIFIER_DEHUMIDIFIER_STATE</Position>
       <TranslationSet>
         <base loc="en">Target Humidifier Dehumidifier State</base>
-        <tran loc="es">Estado final del humidificador/deshumidificador</tran>
+        <tran loc="es-419">Estado esperado del humidificador/deshumidificador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1621,7 @@
       <Position>TEMPERATURE_UNITS_CHR</Position>
       <TranslationSet>
         <base loc="en">Temperature Display Units</base>
-        <tran loc="es">Visores de temperatura</tran>
+        <tran loc="es-419">Unidades de temperatura mostradas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1629,7 @@
       <Position>CURRENT_RELATIVE_HUMIDITY_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Relative Humidity</base>
-        <tran loc="es">Humedad relativa actual</tran>
+        <tran loc="es-419">Humedad relativa actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1637,7 @@
       <Position>SUPP_AUDIO_RECORDING_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Supported Audio Recording Configuration</base>
-        <tran loc="es">Configuración de grabación de audio compatible</tran>
+        <tran loc="es-419">Configuración de grabación de audio compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1645,7 @@
       <Position>VOC_DENSITY</Position>
       <TranslationSet>
         <base loc="en">Volatile Organic Compound Density</base>
-        <tran loc="es">Densidad de compuesto orgánico volátil</tran>
+        <tran loc="es-419">Dens. de comp. orgánico volátil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1653,7 @@
       <Position>OPERATION_STARTED</Position>
       <TranslationSet>
         <base loc="en">Requested operation has started</base>
-        <tran loc="es">Se ha iniciado la operación solicitada</tran>
+        <tran loc="es-419">La operación solicitada ya empezó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1661,7 +1661,7 @@
       <Position>LABEL_INDEX</Position>
       <TranslationSet>
         <base loc="en">Label Index</base>
-        <tran loc="es">Índice de etiquetas</tran>
+        <tran loc="es-419">Índice de etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1669,7 +1669,7 @@
       <Position>INVITATION_EXPIRED</Position>
       <TranslationSet>
         <base loc="en">Invitation has expired.</base>
-        <tran loc="es">La invitación ha caducado.</tran>
+        <tran loc="es-419">La invitación venció.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1677,7 +1677,7 @@
       <Position>CAMERA_RECORDING_MGMT_SVC</Position>
       <TranslationSet>
         <base loc="en">Camera Recording Management</base>
-        <tran loc="es">Gestión de la grabación de la cámara</tran>
+        <tran loc="es-419">Administración de grabación de la cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1685,7 +1685,7 @@
       <Position>NIGHT_VISION</Position>
       <TranslationSet>
         <base loc="en">Night Vision</base>
-        <tran loc="es">Visión nocturna</tran>
+        <tran loc="es-419">Visión nocturna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1693,7 +1693,7 @@
       <Position>NAME_CONTAINS_PROHIBITED_CHARACTERS</Position>
       <TranslationSet>
         <base loc="en">Name contains prohibited characters.</base>
-        <tran loc="es">El nombre contiene caracteres prohibidos.</tran>
+        <tran loc="es-419">El nombre contiene caracteres prohibidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1701,7 +1701,7 @@
       <Position>OBSTRUCTION_DETECTED_CHR</Position>
       <TranslationSet>
         <base loc="en">Obstruction Detected</base>
-        <tran loc="es">Obstrucción detectada</tran>
+        <tran loc="es-419">Se detectó una obstrucción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1709,7 +1709,7 @@
       <Position>CARBON_DIOXIDE_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Carbon dioxide Sensor</base>
-        <tran loc="es">Sensor de dióxido de carbono</tran>
+        <tran loc="es-419">Sensor de dióxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1717,7 +1717,7 @@
       <Position>SETUP_DATA_STREAM_TRANSFER</Position>
       <TranslationSet>
         <base loc="en">Setup Data Stream Transfer</base>
-        <tran loc="es">Configurar la transferencia del flujo de datos</tran>
+        <tran loc="es-419">Configurar transferencia de transmisión de datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1725,7 +1725,7 @@
       <Position>AIR_PARTICULATE_SIZE_CHR</Position>
       <TranslationSet>
         <base loc="en">Air Particulate Size</base>
-        <tran loc="es">Tamaño partículas aire</tran>
+        <tran loc="es-419">Tamaño de partículas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1733,7 +1733,7 @@
       <Position>LEAK_DETECTED_CHR</Position>
       <TranslationSet>
         <base loc="en">Leak Detected</base>
-        <tran loc="es">Fuga detectada</tran>
+        <tran loc="es-419">Se detectó una fuga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1741,7 +1741,7 @@
       <Position>ACTIVE_IDENTIFIER</Position>
       <TranslationSet>
         <base loc="en">Active Identifier</base>
-        <tran loc="es">Identificador activo</tran>
+        <tran loc="es-419">Identificador activo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1749,7 +1749,7 @@
       <Position>USER_DECLINED_ADDING_USER</Position>
       <TranslationSet>
         <base loc="en">Add user was declined.</base>
-        <tran loc="es">Se ha rechazado la adición de un usuario.</tran>
+        <tran loc="es-419">Se declinó agregar al usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1757,7 +1757,7 @@
       <Position>POWER_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Power State</base>
-        <tran loc="es">Estado de la alimentación</tran>
+        <tran loc="es-419">Estado de la alimentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1765,7 +1765,7 @@
       <Position>SUPPORTED_TRANSFER_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Supported Data Stream Configuration</base>
-        <tran loc="es">Configuración de la transmisión de datos compatible</tran>
+        <tran loc="es-419">Configuración de transmisión de datos compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1773,7 +1773,7 @@
       <Position>SMOKE_DETECTED_CHR</Position>
       <TranslationSet>
         <base loc="en">Smoke Detected</base>
-        <tran loc="es">Humo detectado</tran>
+        <tran loc="es-419">Se detectó humo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1781,7 +1781,7 @@
       <Position>LABEL_NAMESPACE</Position>
       <TranslationSet>
         <base loc="en">Label Namespace</base>
-        <tran loc="es">Nombre de etiqueta</tran>
+        <tran loc="es-419">Espacio de nombres de etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1789,7 +1789,7 @@
       <Position>VALVE_SVC</Position>
       <TranslationSet>
         <base loc="en">Valve</base>
-        <tran loc="es">Válvula</tran>
+        <tran loc="es-419">Válvula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1797,7 +1797,7 @@
       <Position>DOORBELL_SVC</Position>
       <TranslationSet>
         <base loc="en">Doorbell</base>
-        <tran loc="es">Timbre</tran>
+        <tran loc="es-419">Timbre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1805,7 +1805,7 @@
       <Position>GENERIC_ERROR</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred.</base>
-        <tran loc="es">Se ha producido un error desconocido.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1813,7 +1813,7 @@
       <Position>OPTICAL_ZOOM</Position>
       <TranslationSet>
         <base loc="en">Optical Zoom</base>
-        <tran loc="es">Zoom óptico</tran>
+        <tran loc="es-419">Zoom óptico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1821,7 +1821,7 @@
       <Position>PROGRAMMABLE_SWITCH_EVENT_CHR</Position>
       <TranslationSet>
         <base loc="en">Programmable Switch Event</base>
-        <tran loc="es">Evento de interruptor programable</tran>
+        <tran loc="es-419">Evento programable de interruptor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1829,7 +1829,7 @@
       <Position>CURRENT_HORIZONTAL_TILT_ANGLE_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Horizontal Tilt Angle</base>
-        <tran loc="es">Ángulo de inclinación horizontal actual</tran>
+        <tran loc="es-419">Ángulo actual de inclinación horizontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1837,7 +1837,7 @@
       <Position>CARBON_MONOXIDE_PEAK_LEVEL_CHR</Position>
       <TranslationSet>
         <base loc="en">Carbon monoxide Peak Level</base>
-        <tran loc="es">Nivel máximo de monóxido de carbono</tran>
+        <tran loc="es-419">Nivel máximo de monóxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1845,7 +1845,7 @@
       <Position>SMOKE_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Smoke Sensor</base>
-        <tran loc="es">Sensor de humo</tran>
+        <tran loc="es-419">Sensor de humo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1853,7 +1853,7 @@
       <Position>ACCESS_DENIED</Position>
       <TranslationSet>
         <base loc="en">Access denied.</base>
-        <tran loc="es">Acceso denegado.</tran>
+        <tran loc="es-419">Acceso denegado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1861,7 +1861,7 @@
       <Position>TARGET_TILT_ANGLE</Position>
       <TranslationSet>
         <base loc="en">Target Tilt Angle</base>
-        <tran loc="es">Ángulo de inclinación final</tran>
+        <tran loc="es-419">Ángulo esperado de inclinación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1869,7 +1869,7 @@
       <Position>STATUS_FAULT_CHR</Position>
       <TranslationSet>
         <base loc="en">Status Fault</base>
-        <tran loc="es">se ha averiado</tran>
+        <tran loc="es-419">Estado de error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1877,7 +1877,7 @@
       <Position>ACCESSORY_POWERED_OFF</Position>
       <TranslationSet>
         <base loc="en">Accessory is powered off.</base>
-        <tran loc="es">Accesorio apagado.</tran>
+        <tran loc="es-419">El accesorio está apagado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1885,7 +1885,7 @@
       <Position>TARGET_LOCK_MECHANISM_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Lock Mechanism Target State</base>
-        <tran loc="es">Estado final del mecanismo de la cerradura</tran>
+        <tran loc="es-419">Estado deseado del mecanismo de chapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1893,7 +1893,7 @@
       <Position>VIDEO_DOORBELL_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Video Doorbell</base>
-        <tran loc="es">Timbre con vídeo</tran>
+        <tran loc="es-419">Timbre con video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1901,7 +1901,7 @@
       <Position>TARGET_AIR_PURIFIER_STATE</Position>
       <TranslationSet>
         <base loc="en">Target Air Purifier State</base>
-        <tran loc="es">Estado final del purificador de aire</tran>
+        <tran loc="es-419">Estado esperado del purificador de aire</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1909,7 +1909,7 @@
       <Position>INSUFFICIENT_PRIVILEGES</Position>
       <TranslationSet>
         <base loc="en">Insufficient privileges.</base>
-        <tran loc="es">Privilegios insuficientes.</tran>
+        <tran loc="es-419">Privilegios insuficientes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1917,7 +1917,7 @@
       <Position>TARGET_HEATING_COOLING_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Target Heating Cooling State</base>
-        <tran loc="es">Estado final de la calefacción/refrigeración</tran>
+        <tran loc="es-419">Estado objetivo de enfriamiento de la calefacción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1925,7 +1925,7 @@
       <Position>SETUP_STREAM_ENDPOINT</Position>
       <TranslationSet>
         <base loc="en">Setup Stream Endpoint</base>
-        <tran loc="es">Configurar punto final de la transmisión</tran>
+        <tran loc="es-419">Configuración de final de transmisión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1933,7 +1933,7 @@
       <Position>CUSTOM</Position>
       <TranslationSet>
         <base loc="en">Custom</base>
-        <tran loc="es">Personalizar</tran>
+        <tran loc="es-419">Personalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1941,7 +1941,7 @@
       <Position>HARDWARE_VERSION_CHR</Position>
       <TranslationSet>
         <base loc="en">Hardware Version</base>
-        <tran loc="es">Versión del hardware</tran>
+        <tran loc="es-419">Versión del hardware</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1949,7 +1949,7 @@
       <Position>SUPPORTED_TARGET_CONFIGURATION</Position>
       <TranslationSet>
         <base loc="en">Supported Target Configuration</base>
-        <tran loc="es">Configuración del destino compatible</tran>
+        <tran loc="es-419">Configuración objetivo compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1957,7 +1957,7 @@
       <Position>NOT_FOUND</Position>
       <TranslationSet>
         <base loc="en">Object not found.</base>
-        <tran loc="es">Objeto no encontrado.</tran>
+        <tran loc="es-419">Objeto no encontrado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1965,7 +1965,7 @@
       <Position>CURRENT_DOOR_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Door State</base>
-        <tran loc="es">Estado actual de la puerta</tran>
+        <tran loc="es-419">Estado actual de la puerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1973,7 +1973,7 @@
       <Position>POSITION_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Position State</base>
-        <tran loc="es">Estado de la posición</tran>
+        <tran loc="es-419">Estado de la posición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1981,7 +1981,7 @@
       <Position>OUTLET_IN_USE_CHR</Position>
       <TranslationSet>
         <base loc="en">Outlet In Use</base>
-        <tran loc="es">Enchufe en uso</tran>
+        <tran loc="es-419">Contacto en uso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1989,7 +1989,7 @@
       <Position>CARBON_MONOXIDE_DETECTED_CHR</Position>
       <TranslationSet>
         <base loc="en">Carbon monoxide Detected</base>
-        <tran loc="es">Monóxido de carbono detectado</tran>
+        <tran loc="es-419">Se detectó monóxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1997,7 +1997,7 @@
       <Position>STRING_LONGER_THAN_MAXIMUM</Position>
       <TranslationSet>
         <base loc="en">String is longer than maximum length.</base>
-        <tran loc="es">Cadena más larga de lo permitido.</tran>
+        <tran loc="es-419">Se sobrepasa la longitud máxima.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2005,7 +2005,7 @@
       <Position>RECURRENCE_TOO_LARGE</Position>
       <TranslationSet>
         <base loc="en">Timer trigger recurrence too large.</base>
-        <tran loc="es">Repetición de la activación del temporizador demasiado amplia.</tran>
+        <tran loc="es-419">La repetición de la activación programada es demasiado amplia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2013,7 +2013,7 @@
       <Position>INVALID_MESSAGE_SIZE</Position>
       <TranslationSet>
         <base loc="en">Invalid message size.</base>
-        <tran loc="es">Tamaño del mensaje no válido.</tran>
+        <tran loc="es-419">Tamaño de mensaje no válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2021,7 +2021,7 @@
       <Position>COLOR_TEMPERATURE</Position>
       <TranslationSet>
         <base loc="en">Color Temperature</base>
-        <tran loc="es">Temperatura del color</tran>
+        <tran loc="es-419">Temperatura de los colores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2029,7 +2029,7 @@
       <Position>CAMERA_STREAM_SVC</Position>
       <TranslationSet>
         <base loc="en">Camera Stream Management</base>
-        <tran loc="es">Gestión de la transmisión de la cámara</tran>
+        <tran loc="es-419">Administración de transmisión de la cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2037,7 +2037,7 @@
       <Position>CURRENT_FAN_STATE</Position>
       <TranslationSet>
         <base loc="en">Current Fan State</base>
-        <tran loc="es">Estado actual del ventilador</tran>
+        <tran loc="es-419">Estado actual del ventilador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2045,7 +2045,7 @@
       <Position>PROGRAMMABLE_SWITCH_OUTPUT_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Programmable Switch Output State</base>
-        <tran loc="es">Estado de salida de interruptor programable</tran>
+        <tran loc="es-419">Evento programable de salida de interruptor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2053,7 +2053,7 @@
       <Position>BRIDGED_ACCESSORY_NOT_REACHABLE</Position>
       <TranslationSet>
         <base loc="en">Bridged Accessory not reachable.</base>
-        <tran loc="es">Accesorio puenteado inaccesible.</tran>
+        <tran loc="es-419">El accesorio puenteado no está en el rango.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2061,7 +2061,7 @@
       <Position>ACTION_IN_ANOTHER_ACTION_SET</Position>
       <TranslationSet>
         <base loc="en">Action already associated with another action set.</base>
-        <tran loc="es">Acción ya asociada a otro conjunto de acciones.</tran>
+        <tran loc="es-419">La acción ya estaba asociada con otra acción definida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2069,7 +2069,7 @@
       <Position>INVALID_CHARACTERS</Position>
       <TranslationSet>
         <base loc="en">String contains invalid characters.</base>
-        <tran loc="es">La cadena contiene caracteres no válidos.</tran>
+        <tran loc="es-419">La cadena contiene caracteres no válidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2077,7 +2077,7 @@
       <Position>IRRIGATION_SYSTEM_SVC</Position>
       <TranslationSet>
         <base loc="en">Irrigation System</base>
-        <tran loc="es">Sistema de irrigación</tran>
+        <tran loc="es-419">Sistema de riego</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2085,7 +2085,7 @@
       <Position>UNSUPPORTED_SETUP_PAYLOAD</Position>
       <TranslationSet>
         <base loc="en">Unsupported setup payload.</base>
-        <tran loc="es">Carga de configuración incompatible.</tran>
+        <tran loc="es-419">Carga útil de configuración no compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2093,7 +2093,7 @@
       <Position>METADATA_OLDER_VERSION</Position>
       <TranslationSet>
         <base loc="en">Metadata version older than client version.</base>
-        <tran loc="es">Versión de los metadatos anterior a la versión del cliente.</tran>
+        <tran loc="es-419">Versión de metadatos más antigua que la del cliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2101,7 +2101,7 @@
       <Position>ADMIN_ONLY_ACCESS_CHR</Position>
       <TranslationSet>
         <base loc="en">Administrator Only Access</base>
-        <tran loc="es">Acceso solo para el administrador</tran>
+        <tran loc="es-419">Acceso exclusivo del administrador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2109,7 +2109,7 @@
       <Position>OPERATION_IN_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Operation in progress.</base>
-        <tran loc="es">Operación en curso.</tran>
+        <tran loc="es-419">Operación en curso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2117,7 +2117,7 @@
       <Position>PM2_5_DENSITY</Position>
       <TranslationSet>
         <base loc="en">PM2.5 Density</base>
-        <tran loc="es">Densidad de material particulado fino</tran>
+        <tran loc="es-419">Densidad de partículas finas PM2.5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2125,7 +2125,7 @@
       <Position>IDENTIFY_CHR</Position>
       <TranslationSet>
         <base loc="en">Identify</base>
-        <tran loc="es">Identificar</tran>
+        <tran loc="es-419">Identificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2133,7 +2133,7 @@
       <Position>SULPHURDIOXIDE_DENSITY</Position>
       <TranslationSet>
         <base loc="en">Sulphur dioxide Density</base>
-        <tran loc="es">Densidad de dióxido de azufre</tran>
+        <tran loc="es-419">Densidad de dióxido de sulfuro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2141,7 +2141,7 @@
       <Position>NO_TARGET_ACCESSORY</Position>
       <TranslationSet>
         <base loc="en">No Target Accessory Available</base>
-        <tran loc="es">No hay disponible ningún accesorio de destino</tran>
+        <tran loc="es-419">Sin accesorios objetivo disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2149,7 +2149,7 @@
       <Position>STATELESS_PROGRAMMABLE_SWITCH_SVC</Position>
       <TranslationSet>
         <base loc="en">Stateless Programmable Switch</base>
-        <tran loc="es">Interruptor programable sin estados</tran>
+        <tran loc="es-419">Interruptor programable sin estados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2157,7 +2157,7 @@
       <Position>UNKNOWN_ERROR_CODE</Position>
       <TranslationSet>
         <base loc="en">Unknown Error Code: %@.</base>
-        <tran loc="es">Código de error desconocido: %@.</tran>
+        <tran loc="es-419">Código de error desconocido: %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2165,7 +2165,7 @@
       <Position>CANNOT_REMOVE_BUILTIN_ACTION_SET</Position>
       <TranslationSet>
         <base loc="en">Cannot remove builtin action set.</base>
-        <tran loc="es">No se puede eliminar el conjunto de acciones integrado.</tran>
+        <tran loc="es-419">No se puede eliminar la acción definida integrada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2173,7 +2173,7 @@
       <Position>TARGET_TEMPERATURE_CHR</Position>
       <TranslationSet>
         <base loc="en">Target Temperature</base>
-        <tran loc="es">Temperatura final</tran>
+        <tran loc="es-419">Temperatura objetivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2181,7 +2181,7 @@
       <Position>SET_DURATION</Position>
       <TranslationSet>
         <base loc="en">Set Duration</base>
-        <tran loc="es">Ajustar duración</tran>
+        <tran loc="es-419">Definir duración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2189,7 +2189,7 @@
       <Position>GARAGE_DOOR_OPENER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Garage Door</base>
-        <tran loc="es">Puerta del garaje</tran>
+        <tran loc="es-419">Puerta del garage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2197,7 +2197,7 @@
       <Position>FILTER_MAINTENANCE_SVC</Position>
       <TranslationSet>
         <base loc="en">Filter Maintenance</base>
-        <tran loc="es">Mantenimiento del filtro</tran>
+        <tran loc="es-419">Mantenimiento del filtro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2205,7 +2205,7 @@
       <Position>TARGET_CONTROLLER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Remote</base>
-        <tran loc="es">Mando a distancia</tran>
+        <tran loc="es-419">Remoto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2213,7 +2213,7 @@
       <Position>UNCONFIGURED_PARAMETER</Position>
       <TranslationSet>
         <base loc="en">Unconfigured parameter.</base>
-        <tran loc="es">Parámetro sin configurar.</tran>
+        <tran loc="es-419">Parámetro sin configurar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2221,7 +2221,7 @@
       <Position>NOT_SIGNED_INTO_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">User is not signed into iCloud.</base>
-        <tran loc="es">El usuario no ha iniciado sesión en iCloud.</tran>
+        <tran loc="es-419">El usuario no inició sesión en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2229,7 +2229,7 @@
       <Position>LOCK_MECHANISM_SVC</Position>
       <TranslationSet>
         <base loc="en">Lock Mechanism</base>
-        <tran loc="es">Mecanismo de la cerradura</tran>
+        <tran loc="es-419">Mecanismo de chapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2237,7 +2237,7 @@
       <Position>FAN_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Fan</base>
-        <tran loc="es">Ventilador</tran>
+        <tran loc="es-419">Ventilador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2245,7 +2245,7 @@
       <Position>FAN_SVC</Position>
       <TranslationSet>
         <base loc="en">Fan</base>
-        <tran loc="es">Ventilador</tran>
+        <tran loc="es-419">Ventilador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2253,7 +2253,7 @@
       <Position>VENTILATION_FAN_SVC</Position>
       <TranslationSet>
         <base loc="en">Fan</base>
-        <tran loc="es">Ventilador</tran>
+        <tran loc="es-419">Ventilador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2261,7 +2261,7 @@
       <Position>LIGHT_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Light Sensor</base>
-        <tran loc="es">Sensor de luz</tran>
+        <tran loc="es-419">Sensor de luz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2269,7 +2269,7 @@
       <Position>WINDOW_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Window</base>
-        <tran loc="es">Ventana</tran>
+        <tran loc="es-419">Ventana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2277,7 +2277,7 @@
       <Position>WINDOW_SVC</Position>
       <TranslationSet>
         <base loc="en">Window</base>
-        <tran loc="es">Ventana</tran>
+        <tran loc="es-419">Ventana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2285,7 +2285,7 @@
       <Position>HEATING_THRESHOLD_TEMPERATURE_CHR</Position>
       <TranslationSet>
         <base loc="en">Heating Threshold Temperature</base>
-        <tran loc="es">Umbral de temperatura de calefacción</tran>
+        <tran loc="es-419">Temperatura de umbral de calentamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2293,7 +2293,7 @@
       <Position>WRITE_ONLY_CHARACTERISTIC</Position>
       <TranslationSet>
         <base loc="en">Cannot read from write-only characteristic.</base>
-        <tran loc="es">No se puede leer una característica de solo escritura.</tran>
+        <tran loc="es-419">No se puede leer de la característica de sólo escritura.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2301,7 +2301,7 @@
       <Position>RANGE_EXTENDER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Range Extender</base>
-        <tran loc="es">Amplificador de alcance</tran>
+        <tran loc="es-419">Ampliador de alcance</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2309,7 +2309,7 @@
       <Position>AIR_HUMIDIFIER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Air Humidifier</base>
-        <tran loc="es">Humidificador</tran>
+        <tran loc="es-419">Humidificador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2317,7 +2317,7 @@
       <Position>CURRENT_AIR_PURIFIER_STATE</Position>
       <TranslationSet>
         <base loc="en">Current Air Purifier State</base>
-        <tran loc="es">Estado actual del purificador de aire</tran>
+        <tran loc="es-419">Estado actual del purificador de aire</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2325,7 +2325,7 @@
       <Position>NITROGENDIOXIDE_DENSITY</Position>
       <TranslationSet>
         <base loc="en">Nitrogen dioxide Density</base>
-        <tran loc="es">Densidad de dióxido de nitrógeno</tran>
+        <tran loc="es-419">Densidad de dióxido de carbono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2333,7 +2333,7 @@
       <Position>SLAT_TYPE</Position>
       <TranslationSet>
         <base loc="en">Slat Type</base>
-        <tran loc="es">Tipo de lama</tran>
+        <tran loc="es-419">Tipo de rejillas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2341,7 +2341,7 @@
       <Position>OPERATION_TIMED_OUT</Position>
       <TranslationSet>
         <base loc="en">Operation timed out.</base>
-        <tran loc="es">Tiempo para la operación agotado.</tran>
+        <tran loc="es-419">Se agotó el tiempo para la operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2349,7 +2349,7 @@
       <Position>SECURE_ACCESS_DENIED</Position>
       <TranslationSet>
         <base loc="en">Secure access Denied</base>
-        <tran loc="es">Acceso seguro denegado</tran>
+        <tran loc="es-419">Acceso seguro denegado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2357,7 +2357,7 @@
       <Position>STATUS_TAMPERED_CHR</Position>
       <TranslationSet>
         <base loc="en">Status Tampered</base>
-        <tran loc="es">ha sido manipulado</tran>
+        <tran loc="es-419">Forzada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2365,7 +2365,7 @@
       <Position>HOME_ACCESS_NOT_AUTHORIZED</Position>
       <TranslationSet>
         <base loc="en">Access to home data is not authorized.</base>
-        <tran loc="es">Acceso no autorizado a los datos de la casa.</tran>
+        <tran loc="es-419">Acceso no autorizado a los datos de la casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2373,7 +2373,7 @@
       <Position>ACCESSORY_DISCOVERY_FAILED</Position>
       <TranslationSet>
         <base loc="en">Accessory discovery failed.</base>
-        <tran loc="es">Error de detección de accesorios.</tran>
+        <tran loc="es-419">Error al buscar accesorios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2381,7 +2381,7 @@
       <Position>AIR_QUALITY_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Air Quality Sensor</base>
-        <tran loc="es">Sensor de calidad del aire</tran>
+        <tran loc="es-419">Sensor de calidad del aire</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2389,7 +2389,7 @@
       <Position>USER_ID_NOT_EMAIL_ADDRESS</Position>
       <TranslationSet>
         <base loc="en">Invalid email address.</base>
-        <tran loc="es">Dirección de correo electrónico no válida.</tran>
+        <tran loc="es-419">Dirección de correo electrónico no válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2397,7 +2397,7 @@
       <Position>STATUS_ACTIVE_CHR</Position>
       <TranslationSet>
         <base loc="en">Status Active</base>
-        <tran loc="es">Estado activo</tran>
+        <tran loc="es-419">Estado activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2405,7 +2405,7 @@
       <Position>ROOM_FOR_HOME_CANNOT_BE_IN_ZONE</Position>
       <TranslationSet>
         <base loc="en">Room for home cannot be added to a zone.</base>
-        <tran loc="es">No se puede añadir una habitación de la casa a una zona.</tran>
+        <tran loc="es-419">La habitación de la casa no se pudo agregar a una zona.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2413,7 +2413,7 @@
       <Position>TEMPERATURE_SENSOR_SVC</Position>
       <TranslationSet>
         <base loc="en">Temperature Sensor</base>
-        <tran loc="es">Sensor de temperatura</tran>
+        <tran loc="es-419">Sensor de temperatura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2421,7 +2421,7 @@
       <Position>SERIAL_NUMBER_CHR</Position>
       <TranslationSet>
         <base loc="en">Serial Number</base>
-        <tran loc="es">Núm. de serie</tran>
+        <tran loc="es-419">Número de serie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2429,7 +2429,7 @@
       <Position>ALREADY_EXISTS</Position>
       <TranslationSet>
         <base loc="en">Object already exists.</base>
-        <tran loc="es">Objeto ya existente.</tran>
+        <tran loc="es-419">El objeto ya existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2437,7 +2437,7 @@
       <Position>INVALID_VALUE_TYPE</Position>
       <TranslationSet>
         <base loc="en">Invalid value type.</base>
-        <tran loc="es">Tipo de valor no válido.</tran>
+        <tran loc="es-419">Tipo de valor no válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2445,7 +2445,7 @@
       <Position>MANUFACTURER_CHR</Position>
       <TranslationSet>
         <base loc="en">Manufacturer</base>
-        <tran loc="es">Fabricante</tran>
+        <tran loc="es-419">Fabricante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2453,7 +2453,7 @@
       <Position>DATE_MUST_BE_ON_SPECIFIED_BOUNDARIES</Position>
       <TranslationSet>
         <base loc="en">Timer trigger fire date must be on specified boundaries.</base>
-        <tran loc="es">La fecha de activación del temporizador debe estar entre los límites especificados.</tran>
+        <tran loc="es-419">La fecha de la activación programada debe situarse entre límites especificados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2461,7 +2461,7 @@
       <Position>ACTION_SET_EXECUTION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Action set execution failed.</base>
-        <tran loc="es">Error de ejecución del conjunto de acciones.</tran>
+        <tran loc="es-419">Error al ejecutar la acción definida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2469,7 +2469,7 @@
       <Position>MAXIMUM_OBJECT_LIMIT_REACHED</Position>
       <TranslationSet>
         <base loc="en">Reached maximum limit of objects for requested type.</base>
-        <tran loc="es">Se ha alcanzado el límite máximo de objetos del tipo solicitado.</tran>
+        <tran loc="es-419">Se alcanzó el límite máximo de objetos para el tipo solicitado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2477,7 +2477,7 @@
       <Position>CAMERA_RECORDING_SESSION_CONTROL</Position>
       <TranslationSet>
         <base loc="en">Camera Recording Session Control</base>
-        <tran loc="es">Control de la sesión de grabación de la cámara</tran>
+        <tran loc="es-419">Control de sesión de grabación de la cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2485,7 +2485,7 @@
       <Position>MAXIMUM_ACCESSORIES_OF_TYPE_IN_HOME</Position>
       <TranslationSet>
         <base loc="en">Maximum accessories of the type in home.</base>
-        <tran loc="es">Número máximo de accesorios de este tipo en la casa.</tran>
+        <tran loc="es-419">Máximo de accesorios de este tipo en la casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2493,7 +2493,7 @@
       <Position>SENSOR_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Sensor</base>
-        <tran loc="es">Sensor</tran>
+        <tran loc="es-419">Sensor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2501,7 +2501,7 @@
       <Position>AIR_QUALITY_CHR</Position>
       <TranslationSet>
         <base loc="en">Air Quality</base>
-        <tran loc="es">Calidad del aire</tran>
+        <tran loc="es-419">Calidad del aire</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2509,7 +2509,7 @@
       <Position>SWITCH_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Switch</base>
-        <tran loc="es">Interruptor</tran>
+        <tran loc="es-419">Interruptor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2517,7 +2517,7 @@
       <Position>SWITCH_SVC</Position>
       <TranslationSet>
         <base loc="en">Switch</base>
-        <tran loc="es">Interruptor</tran>
+        <tran loc="es-419">Interruptor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2525,7 +2525,7 @@
       <Position>HUMIDIFIER_THRESHOLD</Position>
       <TranslationSet>
         <base loc="en">Humidifier Threshold</base>
-        <tran loc="es">Umbral del humidificador</tran>
+        <tran loc="es-419">Umbral del humidificador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2533,7 +2533,7 @@
       <Position>BRIGHTNESS_CHR</Position>
       <TranslationSet>
         <base loc="en">Brightness</base>
-        <tran loc="es">Brillo</tran>
+        <tran loc="es-419">Brillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2541,7 +2541,7 @@
       <Position>METADATA_PARSE_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Error parsing HAP metadata.</base>
-        <tran loc="es">Error al analizar los metadatos HAP.</tran>
+        <tran loc="es-419">Error al analizar metadatos HAP.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2549,7 +2549,7 @@
       <Position>SECURITY_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Security check failed or action not allowed.</base>
-        <tran loc="es">Error de comprobación de seguridad o acción no permitida.</tran>
+        <tran loc="es-419">Error al revisar la seguridad o no se permitió la acción.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2557,7 +2557,7 @@
       <Position>DEVICE_LOCKED</Position>
       <TranslationSet>
         <base loc="en">Operation requires device to be unlocked.</base>
-        <tran loc="es">Para realizar esta operación el dispositivo debe estar desbloqueado.</tran>
+        <tran loc="es-419">La operación requiere que se desbloquee el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2565,7 +2565,7 @@
       <Position>OPERATION_CANCELLED</Position>
       <TranslationSet>
         <base loc="en">Operation has been canceled.</base>
-        <tran loc="es">La operación se ha cancelado.</tran>
+        <tran loc="es-419">Se canceló la operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2573,7 +2573,7 @@
       <Position>SOFTWARE_VERSION_CHR</Position>
       <TranslationSet>
         <base loc="en">Software Version</base>
-        <tran loc="es">Versión del software</tran>
+        <tran loc="es-419">Versión del software</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2581,7 +2581,7 @@
       <Position>SUPP_VIDEO_RECORDING_CONFIG</Position>
       <TranslationSet>
         <base loc="en">Supported Video Recording Configuration</base>
-        <tran loc="es">Configuración de grabación de vídeo compatible</tran>
+        <tran loc="es-419">Configuración de grabación de video compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2589,7 +2589,7 @@
       <Position>CURRENT_SECURITY_SYSTEM_STATE_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Security System State</base>
-        <tran loc="es">Estado actual del sistema de seguridad</tran>
+        <tran loc="es-419">Estado actual del sistema de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2597,7 +2597,7 @@
       <Position>LOCATION_FOR_HOME_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Location Services for HomeKit is disabled.</base>
-        <tran loc="es">Localización está desactivada para HomeKit.</tran>
+        <tran loc="es-419">Localización desactivada para HomeKit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2605,7 +2605,7 @@
       <Position>SECURITY_SYSTEM_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Security System</base>
-        <tran loc="es">Sistema de seguridad</tran>
+        <tran loc="es-419">Sistema de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2613,7 +2613,7 @@
       <Position>SECURITY_SYSTEM_SVC</Position>
       <TranslationSet>
         <base loc="en">Security System</base>
-        <tran loc="es">Sistema de seguridad</tran>
+        <tran loc="es-419">Sistema de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2621,7 +2621,7 @@
       <Position>ROUTER_CATEGORY_WLAN</Position>
       <TranslationSet>
         <base loc="en">WLAN Router</base>
-        <tran loc="es">Router WLAN</tran>
+        <tran loc="es-419">Router WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2629,7 +2629,7 @@
       <Position>IMAGE_MIRRORING</Position>
       <TranslationSet>
         <base loc="en">Image Mirroring</base>
-        <tran loc="es">Duplicación de la imagen</tran>
+        <tran loc="es-419">Duplicación de la imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2637,7 +2637,7 @@
       <Position>CURRENT_TEMPERATURE_CHR</Position>
       <TranslationSet>
         <base loc="en">Current Temperature</base>
-        <tran loc="es">Temperatura actual</tran>
+        <tran loc="es-419">Temperatura actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2645,7 +2645,7 @@
       <Position>SPEAKER_SVC</Position>
       <TranslationSet>
         <base loc="en">Speaker</base>
-        <tran loc="es">Altavoz</tran>
+        <tran loc="es-419">Altavoz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2653,7 +2653,7 @@
       <Position>ROTATION_DIRECTION_CHR</Position>
       <TranslationSet>
         <base loc="en">Rotation Direction</base>
-        <tran loc="es">Sentido de la rotación</tran>
+        <tran loc="es-419">Dirección de la rotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2661,7 +2661,7 @@
       <Position>MISSING_ENTITLEMENT</Position>
       <TranslationSet>
         <base loc="en">Missing entitlement for API.</base>
-        <tran loc="es">Falta la autorización para la API.</tran>
+        <tran loc="es-419">Derechos faltantes para API.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2669,7 +2669,7 @@
       <Position>NAME_DOES_NOT_START_WITH_VALID_CHARACTERS</Position>
       <TranslationSet>
         <base loc="en">Name does not start with valid characters.</base>
-        <tran loc="es">Los caracteres del principio del nombre no son válidos.</tran>
+        <tran loc="es-419">El nombre no empieza con caracteres válidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2677,7 +2677,7 @@
       <Position>VOLUME</Position>
       <TranslationSet>
         <base loc="en">Volume</base>
-        <tran loc="es">Volumen</tran>
+        <tran loc="es-419">Volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2685,7 +2685,7 @@
       <Position>NAME_DOES_NOT_END_WITH_VALID_CHARACTERS</Position>
       <TranslationSet>
         <base loc="en">Name does not end with valid characters.</base>
-        <tran loc="es">Los caracteres del final del nombre no son válidos.</tran>
+        <tran loc="es-419">El nombre no termina en caracteres válidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2693,7 +2693,7 @@
       <Position>OBJECT_WITH_SIMILAR_NAME_EXISTS_IN_HOME</Position>
       <TranslationSet>
         <base loc="en">Object with similar name exists in home.</base>
-        <tran loc="es">Ya existe un objeto con un nombre similar en la casa.</tran>
+        <tran loc="es-419">Ya existe un objeto con un nombre similar en la casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2701,7 +2701,7 @@
       <Position>ACCESSORY_OUT_OF_COMPLIANCE</Position>
       <TranslationSet>
         <base loc="en">Accessory is out of compliance.</base>
-        <tran loc="es">Accesorio no conforme a la normativa.</tran>
+        <tran loc="es-419">El accesorio no es compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2709,7 +2709,7 @@
       <Position>READ_ONLY_CHARACTERISTIC</Position>
       <TranslationSet>
         <base loc="en">Cannot write to read-only characteristic.</base>
-        <tran loc="es">No se puede escribir en una característica de solo lectura.</tran>
+        <tran loc="es-419">No se puede escribir en la característica de sólo lectura.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2717,7 +2717,7 @@
       <Position>TARGET_POSITION_CHR</Position>
       <TranslationSet>
         <base loc="en">Target Position</base>
-        <tran loc="es">Posición final</tran>
+        <tran loc="es-419">Posición objetivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2725,7 +2725,7 @@
       <Position>MISSING_PARAMETER</Position>
       <TranslationSet>
         <base loc="en">Missing parameter.</base>
-        <tran loc="es">Parámetro no encontrado.</tran>
+        <tran loc="es-419">Parámetro faltante.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2733,7 +2733,7 @@
       <Position>LOCK_MANAGEMENT_CONTROLPOINT_CHR</Position>
       <TranslationSet>
         <base loc="en">Lock Management Control Point</base>
-        <tran loc="es">Punto de control para la gestión de la cerradura</tran>
+        <tran loc="es-419">Punto de control del control de chapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2741,7 +2741,7 @@
       <Position>INCORRECT_SETUP_CODE</Position>
       <TranslationSet>
         <base loc="en">Incorrect setup code.</base>
-        <tran loc="es">Código de configuración incorrecto.</tran>
+        <tran loc="es-419">Código de configuración incorrecto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2749,7 +2749,7 @@
       <Position>NOT_AUTHORIZED_FOR_MICROPHONE_ACCESS</Position>
       <TranslationSet>
         <base loc="en">Access to microphone is not authorized.</base>
-        <tran loc="es">Acceso al micrófono no autorizado.</tran>
+        <tran loc="es-419">No se autorizó el acceso al micrófono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2757,7 +2757,7 @@
       <Position>METADATA_INCOMPATIBLE_SCHEMA_VERSION</Position>
       <TranslationSet>
         <base loc="en">Metadata schema version incompatible.</base>
-        <tran loc="es">Versión del esquema de metadatos incompatible.</tran>
+        <tran loc="es-419">Versión incompatible del esquema de metadatos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2765,7 +2765,7 @@
       <Position>OCCUPANCY_DETECTED_CHR</Position>
       <TranslationSet>
         <base loc="en">Occupancy Detected</base>
-        <tran loc="es">Ocupación detectada</tran>
+        <tran loc="es-419">Ocupación detectada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2773,7 +2773,7 @@
       <Position>VALUE_HIGHER_THAN_MAXIMUM</Position>
       <TranslationSet>
         <base loc="en">Value is higher than maximum.</base>
-        <tran loc="es">Valor superior al máximo permitido.</tran>
+        <tran loc="es-419">Valor que sobrepasa el máximo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2781,7 +2781,7 @@
       <Position>OTHER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otro</tran>
+        <tran loc="es-419">Otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2789,7 +2789,7 @@
       <Position>CANNOT_UNBLOCK_NON_BRIDGE_ACCESSORY</Position>
       <TranslationSet>
         <base loc="en">Cannot unblock bridged accessories: only bridges may be unblocked.</base>
-        <tran loc="es">No se pueden desbloquear los accesorios puenteados: solo se pueden desbloquear los puentes.</tran>
+        <tran loc="es-419">No se puede desbloquear los accesorios en puente; sólo se pueden desbloquear los puentes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2797,7 +2797,7 @@
       <Position>STREAMING_STATUS</Position>
       <TranslationSet>
         <base loc="en">Streaming Status</base>
-        <tran loc="es">Estado de la transmisión</tran>
+        <tran loc="es-419">Estado de transmisión </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2805,7 +2805,7 @@
       <Position>USER_DECLINED_REMOVING_USER</Position>
       <TranslationSet>
         <base loc="en">Remove user was declined.</base>
-        <tran loc="es">Se ha rechazado la eliminación de un usuario.</tran>
+        <tran loc="es-419">Se declinó eliminar al usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2813,7 +2813,7 @@
       <Position>HUMIDIFIER_DEHUMIDIFIER_SVC</Position>
       <TranslationSet>
         <base loc="en">Humidifier-Dehumidifier</base>
-        <tran loc="es">Humidificador/deshumidificador</tran>
+        <tran loc="es-419">Humidificador/deshumidificador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2821,7 +2821,7 @@
       <Position>ACCESSORY_OUT_OF_RESOURCES</Position>
       <TranslationSet>
         <base loc="en">Accessory is out of resources.</base>
-        <tran loc="es">Accesorio sin recursos.</tran>
+        <tran loc="es-419">El accesorio no tiene recursos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2829,7 +2829,7 @@
       <Position>READ_WRITE_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Read/Write operation failed.</base>
-        <tran loc="es">Error de la operación de lectura/escritura.</tran>
+        <tran loc="es-419">Error al leer o escribir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2837,7 +2837,7 @@
       <Position>CURRENT_HUMIDIFIER_DEHUMIDIFIER_STATE</Position>
       <TranslationSet>
         <base loc="en">Current Humidifier Dehumidifier State</base>
-        <tran loc="es">Estado actual del humidificador/deshumidificador</tran>
+        <tran loc="es-419">Estado actual del humidificador/deshumidificador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2845,7 +2845,7 @@
       <Position>AIR_HEATER_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Air Heater</base>
-        <tran loc="es">Calefactor</tran>
+        <tran loc="es-419">Calentador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2853,7 +2853,7 @@
       <Position>MISSING_OR_INVALID_AUTHORIZATION_DATA</Position>
       <TranslationSet>
         <base loc="en">Missing or invalid authorization data.</base>
-        <tran loc="es">Datos de autorización no encontrados o no válidos.</tran>
+        <tran loc="es-419">Datos de autorización no encontrados o no válidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2861,7 +2861,7 @@
       <Position>IS_CONFIGURED</Position>
       <TranslationSet>
         <base loc="en">Is Configured</base>
-        <tran loc="es">Configurado</tran>
+        <tran loc="es-419">se configuró</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2872,7 +2872,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION_VOICEOVER_SPEAKINGRATESECTION</Position>
       <TranslationSet>
         <base loc="en">Speaking Rate</base>
-        <tran loc="es">Velocidad de habla</tran>
+        <tran loc="es-419">Velocidad de lectura en voz alta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2880,7 +2880,7 @@
       <Position>ROOT_GENERAL_PROFILES</Position>
       <TranslationSet>
         <base loc="en">Profiles &amp; Device Management</base>
-        <tran loc="es">Gestión de perfiles y dispositivos</tran>
+        <tran loc="es-419">Perfiles y dispositivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2888,7 +2888,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION</Position>
       <TranslationSet>
         <base loc="en">Vision</base>
-        <tran loc="es">Visión</tran>
+        <tran loc="es-419">Visión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2896,7 +2896,7 @@
       <Position>ROOT_GENERAL_ANALYTICS</Position>
       <TranslationSet>
         <base loc="en">Analytics &amp; Improvements</base>
-        <tran loc="es">Análisis y mejoras</tran>
+        <tran loc="es-419">Análisis y mejoras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2904,7 +2904,7 @@
       <Position>ROOT_MUSIC</Position>
       <TranslationSet>
         <base loc="en">Music</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2912,7 +2912,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_IGNOREREPEAT</Position>
       <TranslationSet>
         <base loc="en">Ignore Repeat</base>
-        <tran loc="es">Ignorar repetición</tran>
+        <tran loc="es-419">Ignorar repetición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2920,7 +2920,7 @@
       <Position>ROOT_LOCATIONSERVICES</Position>
       <TranslationSet>
         <base loc="en">Location Services</base>
-        <tran loc="es">Localización</tran>
+        <tran loc="es-419">Localización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2928,7 +2928,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_TAPASSISTANCE</Position>
       <TranslationSet>
         <base loc="en">Tap Assistance</base>
-        <tran loc="es">Asistencia para pulsación</tran>
+        <tran loc="es-419">Ayuda táctil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2936,7 +2936,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS_HOLDDURATION</Position>
       <TranslationSet>
         <base loc="en">Hold Duration</base>
-        <tran loc="es">Mantener pulsado</tran>
+        <tran loc="es-419">Duración de presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2950,7 +2950,7 @@
       <Position>ROOT_GENERAL</Position>
       <TranslationSet>
         <base loc="en">General</base>
-        <tran loc="es">General</tran>
+        <tran loc="es-419">General</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2958,7 +2958,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION_VOICEOVER</Position>
       <TranslationSet>
         <base loc="en">VoiceOver</base>
-        <tran loc="es">VoiceOver</tran>
+        <tran loc="es-419">VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2966,7 +2966,7 @@
       <Position>ROOT_SIRI</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2974,7 +2974,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION_VOICEOVER_DOUBLETAPSETTINGS</Position>
       <TranslationSet>
         <base loc="en">Double-tap Timeout</base>
-        <tran loc="es">Límite para doble pulsación</tran>
+        <tran loc="es-419">Intervalo entre dos toques</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2982,7 +2982,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_VISION_VOICEOVER_DOUBLETAPSETTINGS_TIMEOUTSETTINGS</Position>
       <TranslationSet>
         <base loc="en">Double-tap Timeout</base>
-        <tran loc="es">Límite para doble pulsación</tran>
+        <tran loc="es-419">Intervalo entre dos toques</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2990,7 +2990,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION</Position>
       <TranslationSet>
         <base loc="en">Interaction</base>
-        <tran loc="es">Interacción</tran>
+        <tran loc="es-419">Interacción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2998,7 +2998,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY</Position>
       <TranslationSet>
         <base loc="en">Accessibility</base>
-        <tran loc="es">Accesibilidad</tran>
+        <tran loc="es-419">Accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3006,7 +3006,7 @@
       <Position>ROOT_GENERAL_ACCESSIBILITY_INTERACTION_TOUCHACCOMMODATIONS</Position>
       <TranslationSet>
         <base loc="en">Touch Accommodations</base>
-        <tran loc="es">Facilidades táctiles</tran>
+        <tran loc="es-419">Adaptaciones táctiles</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3017,7 +3017,7 @@
       <Position>PICTURE_MODE</Position>
       <TranslationSet>
         <base loc="en">Picture Mode</base>
-        <tran loc="es">Modo de imagen</tran>
+        <tran loc="es-419">Modo de imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3025,7 +3025,7 @@
       <Position>CLOSED_CAPTIONS</Position>
       <TranslationSet>
         <base loc="en">Closed Captions</base>
-        <tran loc="es">Subtítulos opcionales</tran>
+        <tran loc="es-419">Subtítulos opcionales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3038,7 +3038,7 @@
       <Position>INPUT_SOURCE_TYPE</Position>
       <TranslationSet>
         <base loc="en">Input Source Type</base>
-        <tran loc="es">Tipo de fuente de entrada</tran>
+        <tran loc="es-419">Ingresar tipo de fuente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3046,7 +3046,7 @@
       <Position>CURRENT_VISIBILITY_STATE</Position>
       <TranslationSet>
         <base loc="en">Current Visibility State</base>
-        <tran loc="es">Estado actual de la visibilidad</tran>
+        <tran loc="es-419">Estado actual de visibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3054,7 +3054,7 @@
       <Position>IDENTIFIER</Position>
       <TranslationSet>
         <base loc="en">Identifier</base>
-        <tran loc="es">Identificador</tran>
+        <tran loc="es-419">Identificador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3062,7 +3062,7 @@
       <Position>SLEEP_DISCOVERY_MODE</Position>
       <TranslationSet>
         <base loc="en">Sleep Discovery Mode</base>
-        <tran loc="es">Modo de detección de reposo</tran>
+        <tran loc="es-419">Modo de descubrimiento durante la espera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3070,7 +3070,7 @@
       <Position>VOLUME_SELECTOR</Position>
       <TranslationSet>
         <base loc="en">Volume Selector</base>
-        <tran loc="es">Selector de volumen</tran>
+        <tran loc="es-419">Selector de volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3078,7 +3078,7 @@
       <Position>POWER_MODE_SELECTION</Position>
       <TranslationSet>
         <base loc="en">Power Mode Selection</base>
-        <tran loc="es">Selección del modo de consumo</tran>
+        <tran loc="es-419">Selección de modo de energía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3086,7 +3086,7 @@
       <Position>CURRENT_MEDIA_STATE</Position>
       <TranslationSet>
         <base loc="en">Current Media State</base>
-        <tran loc="es">Estado actual del contenido</tran>
+        <tran loc="es-419">Estado actual del contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3094,7 +3094,7 @@
       <Position>TARGET_VISIBILITY_STATE</Position>
       <TranslationSet>
         <base loc="en">Target Visibility State</base>
-        <tran loc="es">Estado final de la visibilidad</tran>
+        <tran loc="es-419">Estado de visibilidad objetivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3102,7 +3102,7 @@
       <Position>REMOTE_KEY</Position>
       <TranslationSet>
         <base loc="en">Remote Key</base>
-        <tran loc="es">Tecla del mando</tran>
+        <tran loc="es-419">Tecla de control remoto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3110,7 +3110,7 @@
       <Position>VOLUME_CONTROL_TYPE</Position>
       <TranslationSet>
         <base loc="en">Volume Control Type</base>
-        <tran loc="es">Tipo de control del volumen</tran>
+        <tran loc="es-419">Tipo de control de volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3118,7 +3118,7 @@
       <Position>INPUT_DEVICE_TYPE</Position>
       <TranslationSet>
         <base loc="en">Input Device Type</base>
-        <tran loc="es">Tipo de dispositivo de entrada</tran>
+        <tran loc="es-419">Ingresar tipo de dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3126,7 +3126,7 @@
       <Position>TARGET_MEDIA_STATE</Position>
       <TranslationSet>
         <base loc="en">Target Media State</base>
-        <tran loc="es">Estado final del contenido</tran>
+        <tran loc="es-419">Estado objetivo del contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3134,7 +3134,7 @@
       <Position>CONFIGURED_NAME</Position>
       <TranslationSet>
         <base loc="en">Configured Name</base>
-        <tran loc="es">Nombre configurado</tran>
+        <tran loc="es-419">Nombre configurado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3145,7 +3145,7 @@
       <Position>/BULLETIN_ALARM_AND_UNLOCK_ACTION_TITLE:dict/lockCount:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Disarm Alarm and Unlock Door</base>
-        <tran loc="es">Desconectar la alarma y desbloquear la puerta</tran>
+        <tran loc="es-419">Desactivar alarma y quitar cerrojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3153,7 +3153,7 @@
       <Position>/BULLETIN_ALARM_AND_UNLOCK_ACTION_TITLE:dict/lockCount:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Disarm Alarm and Unlock Doors</base>
-        <tran loc="es">Desconectar la alarma y desbloquear las puertas</tran>
+        <tran loc="es-419">Desactivar alarma y quitar cerrojos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3161,7 +3161,7 @@
       <Position>/BULLETIN_UNLOCK_ACTION_TITLE:dict/lockCount:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Unlock Doors</base>
-        <tran loc="es">Desbloquear puertas</tran>
+        <tran loc="es-419">Quitar cerrojos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3169,7 +3169,7 @@
       <Position>/BULLETIN_LIGHTS_ACTION_TITLE:dict/lightCount:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Lights</base>
-        <tran loc="es">Luces</tran>
+        <tran loc="es-419">Luces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3177,7 +3177,7 @@
       <Position>/ACCESSORY_FIRMWARE_UPDATE_AVAILABLE_BODY_MULTIPLE:dict/accessoryCount:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Updates available for %d accessories.</base>
-        <tran loc="es">Actualizaciones disponibles para %d accesorios.</tran>
+        <tran loc="es-419">Actualización disponible para %d accesorios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3185,7 +3185,7 @@
       <Position>/ACCESSORY_FIRMWARE_UPDATE_AVAILABLE_BODY_MULTIPLE:dict/accessoryCount:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Updates available for %d accessories.</base>
-        <tran loc="es">Actualizaciones disponibles para %d accesorios.</tran>
+        <tran loc="es-419">Actualizaciones disponibles para %d accesorios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3193,7 +3193,7 @@
       <Position>/BULLETIN_LIGHTS_ACTION_TITLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@lightCount@</base>
-        <tran loc="es">%#@lightCount@</tran>
+        <tran loc="es-419">%#@lightCount@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3201,7 +3201,7 @@
       <Position>/BULLETIN_UNLOCK_ACTION_TITLE:dict/lockCount:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Unlock Door</base>
-        <tran loc="es">Desbloquear puerta</tran>
+        <tran loc="es-419">Quitar cerrojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3209,7 +3209,7 @@
       <Position>/BULLETIN_LIGHTS_ACTION_TITLE:dict/lightCount:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Light</base>
-        <tran loc="es">Luz</tran>
+        <tran loc="es-419">Luz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3217,7 +3217,7 @@
       <Position>/ACCESSORY_FIRMWARE_UPDATE_AVAILABLE_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@accessoryCount@</base>
-        <tran loc="es">%#@accessoryCount@</tran>
+        <tran loc="es-419">%#@accessoryCount@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3225,7 +3225,7 @@
       <Position>/BULLETIN_ALARM_AND_UNLOCK_ACTION_TITLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@lockCount@</base>
-        <tran loc="es">%#@lockCount@</tran>
+        <tran loc="es-419">%#@lockCount@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3233,7 +3233,7 @@
       <Position>/BULLETIN_UNLOCK_ACTION_TITLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@lockCount@</base>
-        <tran loc="es">%#@lockCount@</tran>
+        <tran loc="es-419">%#@lockCount@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3244,7 +3244,7 @@
       <Position>DEFAULT_FAUCET_VALVE</Position>
       <TranslationSet>
         <base loc="en">Faucet</base>
-        <tran loc="es">Grifo</tran>
+        <tran loc="es-419">Llave de agua</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3252,7 +3252,7 @@
       <Position>ACCESSORY_INCOMPATIBLE_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Accessory is not compatible</base>
-        <tran loc="es">El accesorio no es compatible</tran>
+        <tran loc="es-419">El accesorio no es compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3260,7 +3260,7 @@
       <Position>USE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Use iCloud</base>
-        <tran loc="es">Usar iCloud</tran>
+        <tran loc="es-419">Usar iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3268,7 +3268,7 @@
       <Position>TRIGGER_EXECUTION_ERROR_BODY_PARTIAL_SUCCESS</Position>
       <TranslationSet>
         <base loc="en">Some accessories in “%1$@” are not responding.</base>
-        <tran loc="es">Algunos accesorios de “%1$@” no responden.</tran>
+        <tran loc="es-419">Algunos accesorios en “%1$@“ no están respondiendo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3276,7 +3276,7 @@
       <Position>INVITE_REQUEST_TITLE</Position>
       <TranslationSet>
         <base loc="en">Home Invitation</base>
-        <tran loc="es">Invitación de Casa</tran>
+        <tran loc="es-419">Invitación de Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3284,7 +3284,7 @@
       <Position>BULLETIN_CATEGORY_STATE_ARMED_STAY</Position>
       <TranslationSet>
         <base loc="en">armed for stay</base>
-        <tran loc="es">conectado parcialmente</tran>
+        <tran loc="es-419">activado al estar en la casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3292,7 +3292,7 @@
       <Position>ACCESSORY_NOAUTH_DETAIL</Position>
       <TranslationSet>
         <base loc="en">This accessory is not certified for HomeKit and may not work reliably or securely with this iOS device.</base>
-        <tran loc="es">Este accesorio no está certificado para HomeKit, por lo que es posible que no funcione de forma correcta o segura con este dispositivo iOS.</tran>
+        <tran loc="es-419">Este accesorio no está certificado para HomeKit, por lo que es posible que no funcione segura o correctamente con este dispositivo iOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3300,7 +3300,7 @@
       <Position>CAMERA_MODE_CHANGE_UNOCCUPIED</Position>
       <TranslationSet>
         <base loc="en">everyone has left home</base>
-        <tran loc="es">alguien ha salido de la casa</tran>
+        <tran loc="es-419">todos salieron de casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3308,7 +3308,7 @@
       <Position>CONFIRM_EXECUTE_SECURE_TRIGGER_ACTION_YES</Position>
       <TranslationSet>
         <base loc="en">Run</base>
-        <tran loc="es">Ejecutar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3316,7 +3316,7 @@
       <Position>ACCEPT</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3324,7 +3324,7 @@
       <Position>ROUTER_REMOVAL_CONFIRM_TITLE_WIFI</Position>
       <TranslationSet>
         <base loc="en">Remove Wi-Fi Router?</base>
-        <tran loc="es">¿Eliminar router Wi-Fi?</tran>
+        <tran loc="es-419">¿Eliminar router Wi-Fi?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3332,7 +3332,7 @@
       <Position>ENABLE_ICLOUD_SWITCH_TITLE</Position>
       <TranslationSet>
         <base loc="en">HomeKit Setup</base>
-        <tran loc="es">Configuración de HomeKit</tran>
+        <tran loc="es-419">Configuración de HomeKit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3340,7 +3340,7 @@
       <Position>ENABLE_KEYCHAIN_SYNC_TITLE</Position>
       <TranslationSet>
         <base loc="en">HomeKit Setup</base>
-        <tran loc="es">Configuración de HomeKit</tran>
+        <tran loc="es-419">Configuración de HomeKit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3348,7 +3348,7 @@
       <Position>KEYCHAIN_SYNC_INFO</Position>
       <TranslationSet>
         <base loc="en">Turn on iCloud Keychain in Settings to edit home users and accessories on all your devices.</base>
-        <tran loc="es">Activa el llavero de iCloud en Ajustes para editar los usuarios y accesorios de la casa en todos tus dispositivos.</tran>
+        <tran loc="es-419">Activa el llavero de iCloud en Configuración para editar los accesorios y los usuarios de la casa en todos tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3356,7 +3356,7 @@
       <Position>BULLETIN_ACTION_DOORBELL</Position>
       <TranslationSet>
         <base loc="en">%@ doorbell rang.</base>
-        <tran loc="es">Han llamado al timbre de la puerta de %@.</tran>
+        <tran loc="es-419">Sonó el timbre de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3364,7 +3364,7 @@
       <Position>DO_NOT_DELETE</Position>
       <TranslationSet>
         <base loc="en">Don’t reset home data</base>
-        <tran loc="es">No restablecer datos de casa</tran>
+        <tran loc="es-419">No reiniciar los datos de la casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3372,7 +3372,7 @@
       <Position>TRIGGER_EXECUTION_ERROR_TITLE_PARTIAL_SUCCESS</Position>
       <TranslationSet>
         <base loc="en">Could Not Complete Automation</base>
-        <tran loc="es">No se ha podido completar la automatización</tran>
+        <tran loc="es-419">No se pudo finalizar la automatización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3380,7 +3380,7 @@
       <Position>BULLETIN_CATEGORY_STATE_LOCKED</Position>
       <TranslationSet>
         <base loc="en">locked</base>
-        <tran loc="es">bloqueado</tran>
+        <tran loc="es-419">con cerrojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3388,7 +3388,7 @@
       <Position>BULLETIN_MICROPHONE_ACTION</Position>
       <TranslationSet>
         <base loc="en">Intercom</base>
-        <tran loc="es">Interfono</tran>
+        <tran loc="es-419">Interfón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3396,7 +3396,7 @@
       <Position>BULLETIN_CATEGORY_STATE_UNLOCKED</Position>
       <TranslationSet>
         <base loc="en">unlocked</base>
-        <tran loc="es">desbloqueado</tran>
+        <tran loc="es-419">sin cerrojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3404,7 +3404,7 @@
       <Position>BULLETIN_CATEGORY_STATE_ARMED_NIGHT</Position>
       <TranslationSet>
         <base loc="en">armed for night</base>
-        <tran loc="es">conectado de noche</tran>
+        <tran loc="es-419">activado para la noche</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3412,7 +3412,7 @@
       <Position>CAMERA_MODE_CHANGE_OCCUPIED</Position>
       <TranslationSet>
         <base loc="en">someone arrived home</base>
-        <tran loc="es">alguien ha llegado a casa</tran>
+        <tran loc="es-419">alguien llegó a casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3420,7 +3420,7 @@
       <Position>HOME_DELETION_CONFIRM_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Delete “%@”</base>
-        <tran loc="es">Eliminar “%@”</tran>
+        <tran loc="es-419">Eliminar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3428,7 +3428,7 @@
       <Position>ACCESSORY_CONFIRM_UNKNOWN_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Product information not available - Do you want to add %1$@ anyway ?</base>
-        <tran loc="es">Información de producto no disponible. ¿Quieres añadir %1$@ aun así?</tran>
+        <tran loc="es-419">La información del producto no está disponible. ¿Quieres agregar %1$@ de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3436,7 +3436,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3444,7 +3444,7 @@
       <Position>BULLETIN_ACTION_SENSOR_CO2</Position>
       <TranslationSet>
         <base loc="en">Carbon dioxide abnormal in %@.</base>
-        <tran loc="es">Nivel anormal de dióxido de carbono en %@.</tran>
+        <tran loc="es-419">Nivel anormal de dióxido de carbono en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3452,7 +3452,7 @@
       <Position>BULLETIN_CATEGORY_STATE_PRESSED</Position>
       <TranslationSet>
         <base loc="en">pressed</base>
-        <tran loc="es">pulsado</tran>
+        <tran loc="es-419">presionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3460,7 +3460,7 @@
       <Position>ADD</Position>
       <TranslationSet>
         <base loc="en">Add</base>
-        <tran loc="es">Añadir</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3468,7 +3468,7 @@
       <Position>OPEN_HOME_APP</Position>
       <TranslationSet>
         <base loc="en">Open Home</base>
-        <tran loc="es">Abrir Casa</tran>
+        <tran loc="es-419">Abrir Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3476,7 +3476,7 @@
       <Position>TRIGGER_EXECUTION_ERROR_BODY</Position>
       <TranslationSet>
         <base loc="en">“%1$@” did not run.</base>
-        <tran loc="es">“%1$@” no se ha ejecutado.</tran>
+        <tran loc="es-419">No se ejecutó “%1$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3484,7 +3484,7 @@
       <Position>THIS_DEVICE</Position>
       <TranslationSet>
         <base loc="en">This device</base>
-        <tran loc="es">Este dispositivo</tran>
+        <tran loc="es-419">Este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3492,7 +3492,7 @@
       <Position>ROUTER_REMOVAL_CONFIRM_DETAIL_WLAN</Position>
       <TranslationSet>
         <base loc="en">HomeKit Accessory Security will be turned off, and network activity will revert to the previous level of WLAN security.</base>
-        <tran loc="es">La opción “Seguridad de los accesorios de HomeKit” se desactivará y se volverá al nivel anterior de seguridad WLAN de la actividad de red.</tran>
+        <tran loc="es-419">Se apagará la Seguridad de accesorios de HomeKit y la actividad de la red se revertirá al nivel anterior de seguridad de WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3500,7 +3500,7 @@
       <Position>BULLETIN_CATEGORY_STATE_TRIGGERED</Position>
       <TranslationSet>
         <base loc="en">triggered</base>
-        <tran loc="es">activado</tran>
+        <tran loc="es-419">activado(a)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3508,7 +3508,7 @@
       <Position>CONFIRM_EXECUTE_SECURE_TRIGGER_ACTION_NO</Position>
       <TranslationSet>
         <base loc="en">Don’t run</base>
-        <tran loc="es">No ejecutar</tran>
+        <tran loc="es-419">No activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3516,7 +3516,7 @@
       <Position>ALLOW</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3524,7 +3524,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3533,7 +3533,7 @@
       <Position>HOME_APP_DISPLAY_NAME</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Casa</tran>
+        <tran loc="es-419">Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3541,7 +3541,7 @@
       <Position>AND</Position>
       <TranslationSet>
         <base loc="en"> and </base>
-        <tran loc="es"> y </tran>
+        <tran loc="es-419"> y </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3549,7 +3549,7 @@
       <Position>PERSON</Position>
       <TranslationSet>
         <base loc="en">a person</base>
-        <tran loc="es">una persona</tran>
+        <tran loc="es-419">una persona</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3557,7 +3557,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3565,7 +3565,7 @@
       <Position>CAMERA_PROVIDE_RECORDING_FEEDBACK</Position>
       <TranslationSet>
         <base loc="en">Provide Recording Feedback</base>
-        <tran loc="es">Envía comentarios sobre la grabación</tran>
+        <tran loc="es-419">Realizar comentarios sobre la grabación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3574,7 +3574,7 @@
       <Position>CAMERA_MODE_CHANGED_NOTIFICATION</Position>
       <TranslationSet>
         <base loc="en">The “%@” camera changed to %@%@.</base>
-        <tran loc="es">La cámara “%@” ha cambiado a %@%@.</tran>
+        <tran loc="es-419">La cámara “%@” cambió al %@ porque %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3582,7 +3582,7 @@
       <Position>DEFAULT_ROOM</Position>
       <TranslationSet>
         <base loc="en">Default Room</base>
-        <tran loc="es">Habitación</tran>
+        <tran loc="es-419">Habitación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3590,7 +3590,7 @@
       <Position>ALL_DEVICES_AND_CLOUD</Position>
       <TranslationSet>
         <base loc="en">iCloud and all devices</base>
-        <tran loc="es">iCloud y todos los dispositivos</tran>
+        <tran loc="es-419">iCloud y todos los dispositivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3598,7 +3598,7 @@
       <Position>BULLETIN_ACTION_SENSOR_MOTION</Position>
       <TranslationSet>
         <base loc="en">Motion detected by %@.</base>
-        <tran loc="es">Movimiento detectado por %@.</tran>
+        <tran loc="es-419">Se detectó movimiento en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3606,7 +3606,7 @@
       <Position>NO</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3614,7 +3614,7 @@
       <Position>BULLETIN_DISMISS_ACTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3622,7 +3622,7 @@
       <Position>HOME_DELETION_CONFIRM_TITLE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete your “%@” home? This will remove all accessories from this home and cannot be undone.</base>
-        <tran loc="es">¿Seguro que quieres eliminar tu casa “%@”? Esta acción eliminarán todos los accesorios de la casa y no se puede deshacer.</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar tu casa "%@"? Se eliminarán todos los accesorios de esta casa y esto no se puede deshacer.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3630,7 +3630,7 @@
       <Position>REPORT_ACCESSORY_TITLE</Position>
       <TranslationSet>
         <base loc="en">The HomeKit accessory “%1$@” is having a problem with iCloud remote access.</base>
-        <tran loc="es">El accesorio de HomeKit “%1$@” tiene problemas con el acceso remoto a iCloud.</tran>
+        <tran loc="es-419">El accesorio “%1$@” de HomeKit tiene problemas con el acceso remoto de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3638,7 +3638,7 @@
       <Position>ROUTER_REMOVAL_CONFIRM_TITLE_WLAN</Position>
       <TranslationSet>
         <base loc="en">Remove WLAN Router?</base>
-        <tran loc="es">¿Eliminar router WLAN?</tran>
+        <tran loc="es-419">¿Eliminar router WLAN?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3646,7 +3646,7 @@
       <Position>ROUTER_REMOVAL_CONFIRM_MANUAL_RECONFIGURATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Manual Reconfiguration Will Be Required</base>
-        <tran loc="es">Reconfiguración manual necesaria</tran>
+        <tran loc="es-419">Será necesario reconfigurar manualmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3654,7 +3654,7 @@
       <Position>BULLETIN_ACTION_WINDOW_COVERING</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@.</base>
-        <tran loc="es">%1$@: %2$@</tran>
+        <tran loc="es-419">%1$@: %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3662,7 +3662,7 @@
       <Position>CLOSE</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3671,7 +3671,7 @@
       <Position>ACCESSORY_SETUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add HomeKit Accessory</base>
-        <tran loc="es">Añadir accesorio de HomeKit</tran>
+        <tran loc="es-419">Agregar accesorio HomeKit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3679,7 +3679,7 @@
       <Position>BULLETIN_CATEGORY_STATE_DISARMED</Position>
       <TranslationSet>
         <base loc="en">disarmed</base>
-        <tran loc="es">desconectado</tran>
+        <tran loc="es-419">desactivada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3687,7 +3687,7 @@
       <Position>ACCESSORY_CONFIRM_PPID_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Do you want to add %1$@ from %2$@ ?</base>
-        <tran loc="es">¿Quieres añadir %1$@ desde %2$@?</tran>
+        <tran loc="es-419">¿Quieres agregar al número %1$@ de %2$@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3695,7 +3695,7 @@
       <Position>REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3703,7 +3703,7 @@
       <Position>CONFIRM_INVITE_TO_HOME</Position>
       <TranslationSet>
         <base loc="en">“%1$@” invited you to share “%2$@”.</base>
-        <tran loc="es">“%1$@” te ha invitado compartir “%2$@”.</tran>
+        <tran loc="es-419">“%1$@” te invitó a compartir “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3711,7 +3711,7 @@
       <Position>WAKEUP</Position>
       <TranslationSet>
         <base loc="en">Good Morning</base>
-        <tran loc="es">Buenos días</tran>
+        <tran loc="es-419">Buenos días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3719,7 +3719,7 @@
       <Position>DECLINE</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Rechazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3727,7 +3727,7 @@
       <Position>ROUTER_REMOVAL_CONFIRM_DETAIL_WIFI</Position>
       <TranslationSet>
         <base loc="en">HomeKit Accessory Security will be turned off, and network activity will revert to the previous level of Wi-Fi security.</base>
-        <tran loc="es">La opción “Seguridad de los accesorios de HomeKit” se desactivará y se volverá al nivel anterior de seguridad Wi-Fi de la actividad de red.</tran>
+        <tran loc="es-419">Se apagará la Seguridad de accesorios de HomeKit y la actividad de la red se revertirá al nivel anterior de seguridad de Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3735,7 +3735,7 @@
       <Position>ACCESSORY_CONFIRM_PPID_INFO_TITLE</Position>
       <TranslationSet>
         <base loc="en">Confirm accessory</base>
-        <tran loc="es">Confirmar accesorio</tran>
+        <tran loc="es-419">Confirmar accesorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3743,7 +3743,7 @@
       <Position>VEHICLE</Position>
       <TranslationSet>
         <base loc="en">a vehicle</base>
-        <tran loc="es">un vehículo</tran>
+        <tran loc="es-419">un vehículo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3752,7 +3752,7 @@
       <Position>ACCESSORY_FIRMWARE_UPDATE_AVAILABLE_BODY_SINGLE</Position>
       <TranslationSet>
         <base loc="en">Update available for “%1$@”.</base>
-        <tran loc="es">Actualización disponible para “%1$@”.</tran>
+        <tran loc="es-419">Actualización disponible para "%1$@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3760,7 +3760,7 @@
       <Position>NOT_NOW</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3768,7 +3768,7 @@
       <Position>ACCESSORY_HUD_SUBTITLE_REMOTE_DISCONNECTED</Position>
       <TranslationSet>
         <base loc="en">Disconnected</base>
-        <tran loc="es">Desconectado</tran>
+        <tran loc="es-419">Desconectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3776,7 +3776,7 @@
       <Position>REPORT_PROBLEM</Position>
       <TranslationSet>
         <base loc="en">Report Problem</base>
-        <tran loc="es">Informar de un problema</tran>
+        <tran loc="es-419">Reportar un problema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3784,7 +3784,7 @@
       <Position>ACCESSORY_LEGACYWAC_DETAIL_WIFI</Position>
       <TranslationSet>
         <base loc="en">You’ll need to allow this accessory (“%1$@”) to access your Wi-Fi network before you add it to Home.</base>
-        <tran loc="es">Debes permitir que este accesorio (“%1$@”) acceda a tu red Wi-Fi para poder añadirlo a Casa.</tran>
+        <tran loc="es-419">Debes permitir que este accesorio (“%1$@”) acceda a tu red Wi-Fi antes de agregarlo a Casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3792,7 +3792,7 @@
       <Position>BULLETIN_CATEGORY_STATE_JAMMED</Position>
       <TranslationSet>
         <base loc="en">jammed</base>
-        <tran loc="es">atascado</tran>
+        <tran loc="es-419">atorada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3800,7 +3800,7 @@
       <Position>ACCESSORY_LEGACYWAC_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add Accessory to Network?</base>
-        <tran loc="es">¿Añadir accesorio a la red?</tran>
+        <tran loc="es-419">¿Agregar el accesorio a la red?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3808,7 +3808,7 @@
       <Position>HOME_ARRIVAL</Position>
       <TranslationSet>
         <base loc="en">Arrive Home</base>
-        <tran loc="es">Llegar a casa</tran>
+        <tran loc="es-419">Llegar a la casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3816,7 +3816,7 @@
       <Position>CONFIRM_EXECUTE_SECURE_TRIGGER_BODY</Position>
       <TranslationSet>
         <base loc="en">Do you want “%1$@” to run “%2$@” now?</base>
-        <tran loc="es">¿Quieres que “%1$@” ejecute “%2$@” ahora?</tran>
+        <tran loc="es-419">¿Quieres que "%1$@" active ahora “%2$@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3824,7 +3824,7 @@
       <Position>CAMERA_RECORDING_SIGNIFICANT_MESSAGE_EVENT_DETECTED</Position>
       <TranslationSet>
         <base loc="en">The “%@” camera has detected %@.</base>
-        <tran loc="es">La cámara “%@“ ha detectado %@.</tran>
+        <tran loc="es-419">La cámara “%@“ detectó %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3832,7 +3832,7 @@
       <Position>BULLETIN_CATEGORY_STATE_MOTION_DETECTED</Position>
       <TranslationSet>
         <base loc="en">motion detected</base>
-        <tran loc="es">movimiento detectado</tran>
+        <tran loc="es-419">se detectó movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3840,7 +3840,7 @@
       <Position>BULLETIN_ACTION_SENSOR_CO</Position>
       <TranslationSet>
         <base loc="en">Carbon monoxide abnormal in %@.</base>
-        <tran loc="es">Nivel anormal de monóxido de carbono en %@.</tran>
+        <tran loc="es-419">Nivel anormal de monóxido de carbono en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3848,7 +3848,7 @@
       <Position>DONT_ALLOW</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3856,7 +3856,7 @@
       <Position>ICLOUD_SWITCH_INFO</Position>
       <TranslationSet>
         <base loc="en">iCloud for HomeKit must be enabled when signed into an iCloud account.</base>
-        <tran loc="es">iCloud para HomeKit debe estar activado al iniciar sesión en una cuenta de iCloud.</tran>
+        <tran loc="es-419">Se debe activar iCloud para HomeKit al iniciar sesión en una cuenta de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3864,7 +3864,7 @@
       <Position>BULLETIN_CATEGORY_STATE_UNKNOWN</Position>
       <TranslationSet>
         <base loc="en">unknown</base>
-        <tran loc="es">desconocido</tran>
+        <tran loc="es-419">estado desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3872,7 +3872,7 @@
       <Position>CAMERA_MODE_STREAM_ONLY</Position>
       <TranslationSet>
         <base loc="en">Stream</base>
-        <tran loc="es">Transmisión</tran>
+        <tran loc="es-419">Secuencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3880,7 +3880,7 @@
       <Position>BULLETIN_DISARM_SECURITY_ACTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Disarm Security System</base>
-        <tran loc="es">Desconectar el sistema de seguridad</tran>
+        <tran loc="es-419">Desactivar sistema de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3888,7 +3888,7 @@
       <Position>SETUP</Position>
       <TranslationSet>
         <base loc="en">Set Up</base>
-        <tran loc="es">Configurar</tran>
+        <tran loc="es-419">Configurar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3896,7 +3896,7 @@
       <Position>COMMA</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3904,7 +3904,7 @@
       <Position>ACCESSORY_CONFIRM_UNCERTIFIED_PPID_INFO_TITLE</Position>
       <TranslationSet>
         <base loc="en">Accessory NOT CERTIFIED</base>
-        <tran loc="es">Accesorio NO CERTIFICADO</tran>
+        <tran loc="es-419">Accesorio NO CERTIFICADO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3912,7 +3912,7 @@
       <Position>CAMERA_MODE_CHANGE_BECAUSE</Position>
       <TranslationSet>
         <base loc="en"> because %@</base>
-        <tran loc="es"> porque %@</tran>
+        <tran loc="es-419"> porque %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3920,7 +3920,7 @@
       <Position>CAMERA_MODE_DETECT_ACTIVITY</Position>
       <TranslationSet>
         <base loc="en">Detect Activity</base>
-        <tran loc="es">Detectar actividad</tran>
+        <tran loc="es-419">Detectar movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3928,7 +3928,7 @@
       <Position>YES</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3936,7 +3936,7 @@
       <Position>ANIMAL</Position>
       <TranslationSet>
         <base loc="en">an animal</base>
-        <tran loc="es">un animal</tran>
+        <tran loc="es-419">un animal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3944,7 +3944,7 @@
       <Position>ACCESSORY_HUD_TITLE_REMOTE</Position>
       <TranslationSet>
         <base loc="en">Remote</base>
-        <tran loc="es">Mando a distancia</tran>
+        <tran loc="es-419">Remoto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3952,7 +3952,7 @@
       <Position>BULLETIN_ACTION_SENSOR_OCCUPANCY</Position>
       <TranslationSet>
         <base loc="en">Occupancy detected in %@.</base>
-        <tran loc="es">Ocupación detectada en %@.</tran>
+        <tran loc="es-419">Se detectó ocupación en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3960,7 +3960,7 @@
       <Position>ACCESSORY_INCOMPATIBLE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Incompatible accessory</base>
-        <tran loc="es">Accesorio incompatible</tran>
+        <tran loc="es-419">Accesorio incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3968,7 +3968,7 @@
       <Position>ACCESSORY_HUD_SUBTITLE_REMOTE_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Connected</base>
-        <tran loc="es">Conectado</tran>
+        <tran loc="es-419">Se conectó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3976,7 +3976,7 @@
       <Position>ADD_ANYWAY</Position>
       <TranslationSet>
         <base loc="en">Add Anyway</base>
-        <tran loc="es">Añadir de todos modos</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3984,7 +3984,7 @@
       <Position>HOME_DEPARTURE</Position>
       <TranslationSet>
         <base loc="en">Leave Home</base>
-        <tran loc="es">Salir de casa</tran>
+        <tran loc="es-419">Salir de la casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3992,7 +3992,7 @@
       <Position>BULLETIN_CATEGORY_STATE_ARMED_AWAY</Position>
       <TranslationSet>
         <base loc="en">armed for away</base>
-        <tran loc="es">conectado totalmente</tran>
+        <tran loc="es-419">activado al estar fuera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4000,7 +4000,7 @@
       <Position>TRIGGER_EXECUTION_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Could Not Run Automation</base>
-        <tran loc="es">No se ha podido ejecutar la automatización</tran>
+        <tran loc="es-419">No se pudo ejecutar la automatización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4008,7 +4008,7 @@
       <Position>ROUTER_REMOVAL_CONFIRM_MANUAL_RECONFIGURATION_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Some accessories do not support auto-configuration and will need to be manually reset and re-added to Home – %@.</base>
-        <tran loc="es">Algunos accesorios no admiten la autoconfiguración y tendrán que restablecerse manualmente y volverlos a añadir a Casa: %@.</tran>
+        <tran loc="es-419">Algunos accesorios no son compatibles con la configuración automática de modo que será necesario restablecerlos y volver a agregarlos manualmente a Casa – %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4017,7 +4017,7 @@
       <Position>BULLETIN_ACTION_ROOM_SERVICE</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%2$@ de %1$@</tran>
+        <tran loc="es-419">%2$@ %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4025,7 +4025,7 @@
       <Position>BULLETIN_ACTION_SENSOR_SMOKE</Position>
       <TranslationSet>
         <base loc="en">Smoke detected in %@.</base>
-        <tran loc="es">Humo detectado en %@.</tran>
+        <tran loc="es-419">Se detectó humo en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4033,7 +4033,7 @@
       <Position>FOLLOW_UP_ITEM_DEVICE_SETUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Finish Home Set Up</base>
-        <tran loc="es">Termina de configurar Casa</tran>
+        <tran loc="es-419">Terminar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4041,7 +4041,7 @@
       <Position>DEFAULT_SPRINKLER_VALVE</Position>
       <TranslationSet>
         <base loc="en">Zone</base>
-        <tran loc="es">Zona</tran>
+        <tran loc="es-419">Zona</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4049,7 +4049,7 @@
       <Position>REPORT_ACCESSORY_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Would you like to report this problem to Apple? This may include information such as the manufacturer, model, and version of the accessory.</base>
-        <tran loc="es">¿Quieres informar de este problema a Apple? Puede que en el informe se incluya información como el fabricante, el modelo y la versión del accesorio.</tran>
+        <tran loc="es-419">¿Quieres reportar este problema a Apple? Se podría incluir información como fabricante, modelo y versión del accesorio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4057,7 +4057,7 @@
       <Position>ACCESSORY_NOAUTH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Uncertified Accessory</base>
-        <tran loc="es">Accesorio no certificado</tran>
+        <tran loc="es-419">Accesorio sin certificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4065,7 +4065,7 @@
       <Position>CAMERA_MODE_STREAM_AND_RECORD</Position>
       <TranslationSet>
         <base loc="en">Stream &amp; Allow Recording</base>
-        <tran loc="es">Transmitir y permitir grabaciones</tran>
+        <tran loc="es-419">Transmitir y permitir grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4073,7 +4073,7 @@
       <Position>MOTION</Position>
       <TranslationSet>
         <base loc="en">motion</base>
-        <tran loc="es">movimiento</tran>
+        <tran loc="es-419">movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4081,7 +4081,7 @@
       <Position>ACCESSORY_LEGACYWAC_DETAIL_WLAN</Position>
       <TranslationSet>
         <base loc="en">You’ll need to allow this accessory (“%1$@”) to access your WLAN network before you add it to Home.</base>
-        <tran loc="es">Debes permitir que este accesorio (“%1$@”) acceda a tu red WLAN para poder añadirlo a Casa.</tran>
+        <tran loc="es-419">Debes permitir que este accesorio (“%1$@”) acceda a tu red WLAN antes de agregarlo a Casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4089,7 +4089,7 @@
       <Position>BULLETIN_CATEGORY_STATE_CLOSED</Position>
       <TranslationSet>
         <base loc="en">closed</base>
-        <tran loc="es">cerrado</tran>
+        <tran loc="es-419">cerrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4097,7 +4097,7 @@
       <Position>BULLETIN_ACTION_SENSOR_LEAK</Position>
       <TranslationSet>
         <base loc="en">Leak detected in %@.</base>
-        <tran loc="es">Fuga detectada en %@.</tran>
+        <tran loc="es-419">Se detectó una fuga en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4105,7 +4105,7 @@
       <Position>BULLETIN_CATEGORY_STATE_OPENED</Position>
       <TranslationSet>
         <base loc="en">opened</base>
-        <tran loc="es">abierto</tran>
+        <tran loc="es-419">abierta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4113,7 +4113,7 @@
       <Position>ACCESSORY_PAIRING_CODE</Position>
       <TranslationSet>
         <base loc="en">Enter the code for “%1$@” to add it to “%2$@”.</base>
-        <tran loc="es">Introduce el código de “%1$@” para añadirlo a “%2$@”.</tran>
+        <tran loc="es-419">Ingresa el código de “%1$@” para agregarlo a “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4121,7 +4121,7 @@
       <Position>BULLETIN_ACTION_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">%1$@ was %2$@.</base>
-        <tran loc="es">Estado de “%1$@”: %2$@.</tran>
+        <tran loc="es-419">%1$@: %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4129,7 +4129,7 @@
       <Position>CONFIRM_EXECUTE_SECURE_TRIGGER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Run Automation?</base>
-        <tran loc="es">¿Ejecutar la automatización?</tran>
+        <tran loc="es-419">¿Activar automatización?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4137,7 +4137,7 @@
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4145,7 +4145,7 @@
       <Position>SLEEP</Position>
       <TranslationSet>
         <base loc="en">Good Night</base>
-        <tran loc="es">Buenas noches</tran>
+        <tran loc="es-419">Buenas noches</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4153,7 +4153,7 @@
       <Position>CAMERA_MODE_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivada</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -4164,7 +4164,7 @@
       <Position>INPUT_SOURCE_SVC</Position>
       <TranslationSet>
         <base loc="en">Input Source</base>
-        <tran loc="es">Fuente de entrada</tran>
+        <tran loc="es-419">Fuente de entrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4177,7 +4177,7 @@
       <Position>TELEVISION_SVC</Position>
       <TranslationSet>
         <base loc="en">Television</base>
-        <tran loc="es">Televisor</tran>
+        <tran loc="es-419">Televisión</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -4193,7 +4193,7 @@
       <Position>TELEVISION_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">Television</base>
-        <tran loc="es">Televisor</tran>
+        <tran loc="es-419">Televisión</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -4210,7 +4210,7 @@
       <Position>HOMEPOD_CATEGORY</Position>
       <TranslationSet>
         <base loc="en">HomePod</base>
-        <tran loc="es">HomePod</tran>
+        <tran loc="es-419">HomePod</tran>
       </TranslationSet>
     </TextItem>
   </File>

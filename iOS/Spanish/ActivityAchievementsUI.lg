@@ -8,7 +8,7 @@
       <Position>/MOVE_MINUTES:dict/move_minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Move Minutes</base>
-        <tran loc="es">%lu minutos de movimiento</tran>
+        <tran loc="es-419">%lu minutos de Moverse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/MOVE_MINUTES:dict/move_minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Move Minute</base>
-        <tran loc="es">%lu minuto de movimiento</tran>
+        <tran loc="es-419">%lu minutos de Moverse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/MOVE_MINUTES:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@move_minutes@</base>
-        <tran loc="es">%#@move_minutes@</tran>
+        <tran loc="es-419">%#@move_minutes@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -35,7 +35,7 @@
       <Position>EARNED_BY_NAME_%@_ON_DATE_%@_MC</Position>
       <TranslationSet>
         <base loc="en">Earned by %@\nin %@</base>
-        <tran loc="es">Conseguido por %@\nen %@</tran>
+        <tran loc="es-419">Obtenido por\n%@ en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>GO_FOR_IT</Position>
       <TranslationSet>
         <base loc="en">Go For It</base>
-        <tran loc="es">¡Vamos!</tran>
+        <tran loc="es-419">¡Vamos!</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>EARNED_BY_NAME_%@_ON_DATE_%@_SMALL</Position>
       <TranslationSet>
         <base loc="en">%@\n%@</base>
-        <tran loc="es">%@\n%@</tran>
+        <tran loc="es-419">%@\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>COMPETITIONS</Position>
       <TranslationSet>
         <base loc="en">Competitions</base>
-        <tran loc="es">Competiciones</tran>
+        <tran loc="es-419">Competencias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>EARNED_BY_NAME_%@_ON_DATE_%@</Position>
       <TranslationSet>
         <base loc="en">Earned by %@\non %@</base>
-        <tran loc="es">Ganado por %@\nel %@</tran>
+        <tran loc="es-419">Obtenido por \n%@ el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>EARNED_ON_DATE_%@_MC</Position>
       <TranslationSet>
         <base loc="en">Earned in\n%@</base>
-        <tran loc="es">Ganado el\n%@</tran>
+        <tran loc="es-419">Obtenido el\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>WORKOUTS</Position>
       <TranslationSet>
         <base loc="en">Workouts</base>
-        <tran loc="es">Entrenos</tran>
+        <tran loc="es-419">Entrenamientos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>RECENT</Position>
       <TranslationSet>
         <base loc="en">Recent</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>LIMITED_EDITION_WATCH</Position>
       <TranslationSet>
         <base loc="en">Limited Edition</base>
-        <tran loc="es">Edición limitada</tran>
+        <tran loc="es-419">Edición limitada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>EARNED_ON_DATE_%@</Position>
       <TranslationSet>
         <base loc="en">Earned on\n%@</base>
-        <tran loc="es">Ganado el\n%@</tran>
+        <tran loc="es-419">Obtenido el\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>ACTIVITY</Position>
       <TranslationSet>
         <base loc="en">Close Your Rings</base>
-        <tran loc="es">Cierra los anillos</tran>
+        <tran loc="es-419">Cierra tus círculos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>AWARDS</Position>
       <TranslationSet>
         <base loc="en">Awards</base>
-        <tran loc="es">Premios</tran>
+        <tran loc="es-419">Premios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>EARNED_ON_DATE_%@_SMALL</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>MONTHLY_CHALLENGES</Position>
       <TranslationSet>
         <base loc="en">Monthly Challenges</base>
-        <tran loc="es">Retos mensuales</tran>
+        <tran loc="es-419">Retos mensuales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>LIMITED_EDITION</Position>
       <TranslationSet>
         <base loc="en">Limited Edition Challenges</base>
-        <tran loc="es">Retos de la edición limitada</tran>
+        <tran loc="es-419">Retos de edición limitada</tran>
       </TranslationSet>
     </TextItem>
   </File>

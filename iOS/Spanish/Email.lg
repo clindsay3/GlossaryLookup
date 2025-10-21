@@ -8,7 +8,7 @@
       <Position>8yoHVH</Position>
       <TranslationSet>
         <base loc="en">Body</base>
-        <tran loc="es">Cuerpo</tran>
+        <tran loc="es-419">Cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>lG9ouR</Position>
       <TranslationSet>
         <base loc="en">Body</base>
-        <tran loc="es">Cuerpo</tran>
+        <tran loc="es-419">Cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>mtzZs0</Position>
       <TranslationSet>
         <base loc="en">Body</base>
-        <tran loc="es">Cuerpo</tran>
+        <tran loc="es-419">Cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>bNHtR7</Position>
       <TranslationSet>
         <base loc="en">Subject: ${subject}</base>
-        <tran loc="es">Asunto: ${subject}</tran>
+        <tran loc="es-419">Asunto: ${subject}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>bbzJMA</Position>
       <TranslationSet>
         <base loc="en">Subject: ${subject}</base>
-        <tran loc="es">Asunto: ${subject}</tran>
+        <tran loc="es-419">Asunto: ${subject}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -49,7 +49,7 @@
       <TranslationSet>
         <base loc="en">Subject: ${subject}
 ${body}</base>
-        <tran loc="es">Asunto: ${subject}
+        <tran loc="es-419">Asunto: ${subject}
 ${body}</tran>
       </TranslationSet>
     </TextItem>
@@ -59,7 +59,7 @@ ${body}</tran>
       <TranslationSet>
         <base loc="en">Subject: ${subject}
 ${body}</base>
-        <tran loc="es">Asunto: ${subject}
+        <tran loc="es-419">Asunto: ${subject}
 ${body}</tran>
       </TranslationSet>
     </TextItem>
@@ -69,7 +69,7 @@ ${body}</tran>
       <TranslationSet>
         <base loc="en">Subject: ${subject}
 ${body}</base>
-        <tran loc="es">Asunto: ${subject}
+        <tran loc="es-419">Asunto: ${subject}
 ${body}</tran>
       </TranslationSet>
     </TextItem>
@@ -78,7 +78,7 @@ ${body}</tran>
       <Position>md2vQv</Position>
       <TranslationSet>
         <base loc="en">Status</base>
-        <tran loc="es">Estado</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@ ${body}</tran>
       <Position>E73xMf</Position>
       <TranslationSet>
         <base loc="en">Save as Draft</base>
-        <tran loc="es">Guardar como borrador</tran>
+        <tran loc="es-419">Guardar como borrador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@ ${body}</tran>
       <Position>3L8Dzh</Position>
       <TranslationSet>
         <base loc="en">Read Status</base>
-        <tran loc="es">Estado: leído</tran>
+        <tran loc="es-419">Estado: leído</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@ ${body}</tran>
       <Position>SQ9yhM</Position>
       <TranslationSet>
         <base loc="en">What kind of emails do you want to search for?</base>
-        <tran loc="es">¿Qué tipo de correos quieres buscar?</tran>
+        <tran loc="es-419">¿Qué tipo de correos quieres buscar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@ ${body}</tran>
       <Position>yMeLBB</Position>
       <TranslationSet>
         <base loc="en">Unread</base>
-        <tran loc="es">No leído</tran>
+        <tran loc="es-419">No leídos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@ ${body}</tran>
       <Position>D4R9iq</Position>
       <TranslationSet>
         <base loc="en">Bcc</base>
-        <tran loc="es">Cco</tran>
+        <tran loc="es-419">Cco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@ ${body}</tran>
       <Position>vW7XZM</Position>
       <TranslationSet>
         <base loc="en">Bcc</base>
-        <tran loc="es">Cco</tran>
+        <tran loc="es-419">Cco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@ ${body}</tran>
       <Position>lDkUYI</Position>
       <TranslationSet>
         <base loc="en">To</base>
-        <tran loc="es">Para</tran>
+        <tran loc="es-419">Para</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@ ${body}</tran>
       <Position>qa3hVi</Position>
       <TranslationSet>
         <base loc="en">To</base>
-        <tran loc="es">Para</tran>
+        <tran loc="es-419">Para</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@ ${body}</tran>
       <Position>ABx10m</Position>
       <TranslationSet>
         <base loc="en">Airplane Mode is on. The email has been placed in your Outbox and will be sent later.</base>
-        <tran loc="es">El modo Avión está activado. El mensaje se ha colocado en el buzón de salida y se enviará más tarde.</tran>
+        <tran loc="es-419">“Modo de vuelo” está activado. El mensaje se colocó en la bandeja de salida y se enviará más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@ ${body}</tran>
       <Position>JYG99B</Position>
       <TranslationSet>
         <base loc="en">What attachments do you want to include?</base>
-        <tran loc="es">¿Qué archivo quieres adjuntar?</tran>
+        <tran loc="es-419">¿Cuáles archivos quieres adjuntar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@ ${body}</tran>
       <Position>Ds2BbX</Position>
       <TranslationSet>
         <base loc="en">What do you want to search for?</base>
-        <tran loc="es">¿Qué quieres buscar?</tran>
+        <tran loc="es-419">¿Qué quieres buscar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@ ${body}</tran>
       <Position>j2YUgU</Position>
       <TranslationSet>
         <base loc="en">Attachments</base>
-        <tran loc="es">Archivos adjuntos</tran>
+        <tran loc="es-419">Archivos adjuntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@ ${body}</tran>
       <Position>oNy47a</Position>
       <TranslationSet>
         <base loc="en">Who should be in cc?</base>
-        <tran loc="es">¿A quién quieres poner en copia?</tran>
+        <tran loc="es-419">¿A quién quieres enviarle una copia?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@ ${body}</tran>
       <Position>pK4jOa</Position>
       <TranslationSet>
         <base loc="en">Do you want to save this as a draft?</base>
-        <tran loc="es">¿Quieres guardar esto como borrador?</tran>
+        <tran loc="es-419">¿Quieres guardar esto como un borrador?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@ ${body}</tran>
       <Position>nJL1KA</Position>
       <TranslationSet>
         <base loc="en">Which email account do you want to use?</base>
-        <tran loc="es">¿Qué cuenta de correo quieres utilizar?</tran>
+        <tran loc="es-419">¿Cuál cuenta quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@ ${body}</tran>
       <Position>sCMShJ</Position>
       <TranslationSet>
         <base loc="en">Emails</base>
-        <tran loc="es">Correos electrónicos</tran>
+        <tran loc="es-419">Correos electrónicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@ ${body}</tran>
       <Position>QCNYwt</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@ ${body}</tran>
       <Position>qFd2oU-yMeLBB</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Unread’?</base>
-        <tran loc="es">Para confirmar, ¿quieres “No leído”?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “no leídos”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@ ${body}</tran>
       <Position>M2Kfex</Position>
       <TranslationSet>
         <base loc="en">Who should be in bcc?</base>
-        <tran loc="es">¿A quién quieres poner en copia oculta?</tran>
+        <tran loc="es-419">¿A quién quieres enviarle una copia oculta?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@ ${body}</tran>
       <Position>0uh4U6</Position>
       <TranslationSet>
         <base loc="en">User Typed Content</base>
-        <tran loc="es">Contenido introducido por el usuario</tran>
+        <tran loc="es-419">Contenido tecleado por el usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@ ${body}</tran>
       <Position>nGxQ3N</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}; Cc ${cc}; Bcc ${bcc}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}; Cc ${cc}; Bcc ${bcc}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}, Cc: ${cc}; Cco ${bcc}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@ ${body}</tran>
       <Position>3vIsAb</Position>
       <TranslationSet>
         <base loc="en">Sent</base>
-        <tran loc="es">Enviado</tran>
+        <tran loc="es-419">Enviado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@ ${body}</tran>
       <Position>79eA1L</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@ ${body}</tran>
       <Position>DT0d7L</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@ ${body}</tran>
       <Position>cUyX6c</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@ ${body}</tran>
       <Position>YRUX5U</Position>
       <TranslationSet>
         <base loc="en">Who do you want to send it to?</base>
-        <tran loc="es">¿A quién se lo quieres enviar?</tran>
+        <tran loc="es-419">¿A quién quieres enviárselo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@ ${body}</tran>
       <Position>GHRHuE</Position>
       <TranslationSet>
         <base loc="en">Cc</base>
-        <tran loc="es">Cc</tran>
+        <tran loc="es-419">Cc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@ ${body}</tran>
       <Position>k3upGx</Position>
       <TranslationSet>
         <base loc="en">Cc</base>
-        <tran loc="es">Cc</tran>
+        <tran loc="es-419">Cc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@ ${body}</tran>
       <Position>G1XRZq</Position>
       <TranslationSet>
         <base loc="en">Who do you want to search for?</base>
-        <tran loc="es">¿A quién quieres buscar?</tran>
+        <tran loc="es-419">¿A quién quieres buscar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@ ${body}</tran>
       <Position>vHD1WI</Position>
       <TranslationSet>
         <base loc="en">Who do you want to search for?</base>
-        <tran loc="es">¿A quién quieres buscar?</tran>
+        <tran loc="es-419">¿A quién quieres buscar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@ ${body}</tran>
       <Position>XaWi9R-yMeLBB</Position>
       <TranslationSet>
         <base loc="en">There are ${count} options matching ‘Unread’.</base>
-        <tran loc="es">Hay ${count} coincidencias con “No leído”.</tran>
+        <tran loc="es-419">Existen ${count} opciones correspondientes a “no leídos”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@ ${body}</tran>
       <Position>SAZwHu</Position>
       <TranslationSet>
         <base loc="en">What is the subject of the email?</base>
-        <tran loc="es">¿Cuál es el asunto del correo?</tran>
+        <tran loc="es-419">¿Cuál es el asunto del correo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@ ${body}</tran>
       <Position>emRCR2</Position>
       <TranslationSet>
         <base loc="en">Recipient</base>
-        <tran loc="es">Destinatario</tran>
+        <tran loc="es-419">Destinatario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@ ${body}</tran>
       <Position>XHuuIL</Position>
       <TranslationSet>
         <base loc="en">Get ${readStatus} mail</base>
-        <tran loc="es">Obtener correo ${readStatus}</tran>
+        <tran loc="es-419">Obtener correo ${readStatus}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@ ${body}</tran>
       <Position>eMdB1Q</Position>
       <TranslationSet>
         <base loc="en">What should the email say?</base>
-        <tran loc="es">¿Qué quieres decir en el correo?</tran>
+        <tran loc="es-419">¿Qué contenido debe tener el correo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@ ${body}</tran>
       <Position>jw2yQV</Position>
       <TranslationSet>
         <base loc="en">Read</base>
-        <tran loc="es">Leído</tran>
+        <tran loc="es-419">Leído</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@ ${body}</tran>
       <Position>lRTTzu</Position>
       <TranslationSet>
         <base loc="en">Get Mail</base>
-        <tran loc="es">Recibir</tran>
+        <tran loc="es-419">Recibir correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@ ${body}</tran>
       <Position>qFd2oU-jw2yQV</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Read’?</base>
-        <tran loc="es">Para confirmar, ¿quieres “Leído”?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “leídos”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@ ${body}</tran>
       <Position>XaWi9R-jw2yQV</Position>
       <TranslationSet>
         <base loc="en">There are ${count} options matching ‘Read’.</base>
-        <tran loc="es">Hay ${count} coincidencias con “Leído”.</tran>
+        <tran loc="es-419">Existen ${count} opciones correspondientes a “leídos”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@ ${body}</tran>
       <Position>8qU1oM</Position>
       <TranslationSet>
         <base loc="en">Send Email</base>
-        <tran loc="es">Enviar mensaje de correo</tran>
+        <tran loc="es-419">Enviar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@ ${body}</tran>
       <Position>ITMunN</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}; Cc ${cc}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}, Cc: ${cc}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@ ${body}</tran>
       <Position>JHPpi7</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}; Cc ${cc}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}, Cc: ${cc}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -422,7 +422,7 @@ ${body}</tran>
       <Position>cBX51t</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}; Cc ${cc}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}, Cc: ${cc}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -430,7 +430,7 @@ ${body}</tran>
       <Position>90hbXM</Position>
       <TranslationSet>
         <base loc="en">From</base>
-        <tran loc="es">De</tran>
+        <tran loc="es-419">De</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@ ${body}</tran>
       <Position>jSdXtA</Position>
       <TranslationSet>
         <base loc="en">From</base>
-        <tran loc="es">De</tran>
+        <tran loc="es-419">De</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -446,7 +446,7 @@ ${body}</tran>
       <Position>wawnJh</Position>
       <TranslationSet>
         <base loc="en">From</base>
-        <tran loc="es">De</tran>
+        <tran loc="es-419">De</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@ ${body}</tran>
       <Position>kr0O5c</Position>
       <TranslationSet>
         <base loc="en">Which one?</base>
-        <tran loc="es">¿Cuál?</tran>
+        <tran loc="es-419">¿Cuál?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@ ${body}</tran>
       <Position>G2465r</Position>
       <TranslationSet>
         <base loc="en">Subject</base>
-        <tran loc="es">Asunto</tran>
+        <tran loc="es-419">Asunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@ ${body}</tran>
       <Position>GkknPJ</Position>
       <TranslationSet>
         <base loc="en">Subject</base>
-        <tran loc="es">Asunto</tran>
+        <tran loc="es-419">Asunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -478,7 +478,7 @@ ${body}</tran>
       <Position>vk61Xk</Position>
       <TranslationSet>
         <base loc="en">Subject</base>
-        <tran loc="es">Asunto</tran>
+        <tran loc="es-419">Asunto</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -489,7 +489,7 @@ ${body}</tran>
       <Position>Email</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@ ${body}</tran>
       <Position>Email %@</Position>
       <TranslationSet>
         <base loc="en">Email %@</base>
-        <tran loc="es">Correo %@</tran>
+        <tran loc="es-419">Correos: %@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -508,7 +508,7 @@ ${body}</tran>
       <Position>and %@</Position>
       <TranslationSet>
         <base loc="en">and %@</base>
-        <tran loc="es">y %@</tran>
+        <tran loc="es-419">y %@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -519,7 +519,7 @@ ${body}</tran>
       <Position>/and %zu others:dict/Addresses:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">and one other</base>
-        <tran loc="es">y 1 más</tran>
+        <tran loc="es-419">y 1 más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +527,7 @@ ${body}</tran>
       <Position>/and %zu others:dict/Addresses:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">and %zu others</base>
-        <tran loc="es">y %zu más</tran>
+        <tran loc="es-419">y %zu más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -535,7 +535,7 @@ ${body}</tran>
       <Position>/and %zu others:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Addresses@</base>
-        <tran loc="es">%#@Addresses@</tran>
+        <tran loc="es-419">%#@Addresses@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -546,7 +546,7 @@ ${body}</tran>
       <Position>To or CC</Position>
       <TranslationSet>
         <base loc="en">To or CC</base>
-        <tran loc="es">Para o Cc</tran>
+        <tran loc="es-419">Para o Cc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -554,7 +554,7 @@ ${body}</tran>
       <Position>Subscriptions</Position>
       <TranslationSet>
         <base loc="en">Subscriptions</base>
-        <tran loc="es">Suscripciones</tran>
+        <tran loc="es-419">Suscripciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -562,7 +562,7 @@ ${body}</tran>
       <Position>VIP</Position>
       <TranslationSet>
         <base loc="en">VIP</base>
-        <tran loc="es">VIP</tran>
+        <tran loc="es-419">VIP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -570,7 +570,7 @@ ${body}</tran>
       <Position>Mute Threads</Position>
       <TranslationSet>
         <base loc="en">Mute Threads</base>
-        <tran loc="es">Hilos silenciados</tran>
+        <tran loc="es-419">Silenciar cadenas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -578,7 +578,7 @@ ${body}</tran>
       <Position>Unread</Position>
       <TranslationSet>
         <base loc="en">Unread</base>
-        <tran loc="es">No leído</tran>
+        <tran loc="es-419">No leídos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -586,7 +586,7 @@ ${body}</tran>
       <Position>Unsubscribe from Mailing List?</Position>
       <TranslationSet>
         <base loc="en">Unsubscribe from Mailing List?</base>
-        <tran loc="es">¿Anular la suscripción a la lista de correo?</tran>
+        <tran loc="es-419">¿Cancelar suscripción?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -594,7 +594,7 @@ ${body}</tran>
       <Position>Apple Mail sent this email to unsubscribe from the message “%@”.</Position>
       <TranslationSet>
         <base loc="en">Apple Mail sent this email to unsubscribe from the message “%@”.</base>
-        <tran loc="es">La app Mail de Apple ha enviado este mensaje de correo para cancelar la suscripción al mensaje “%@”.</tran>
+        <tran loc="es-419">Apple Mail envió este correo para cancelar la suscripción del mensaje “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -602,7 +602,7 @@ ${body}</tran>
       <Position>Attachments</Position>
       <TranslationSet>
         <base loc="en">Attachments</base>
-        <tran loc="es">Adjuntos</tran>
+        <tran loc="es-419">Archivos adjuntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -610,7 +610,7 @@ ${body}</tran>
       <Position>Dismiss</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -618,7 +618,7 @@ ${body}</tran>
       <Position>Unsubscribe</Position>
       <TranslationSet>
         <base loc="en">Unsubscribe</base>
-        <tran loc="es">Anular suscripción</tran>
+        <tran loc="es-419">Cancelar suscripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@ ${body}</tran>
       <Position>Mail will send a message from “%@” to unsubscribe from this mailing list.</Position>
       <TranslationSet>
         <base loc="en">Mail will send a message from “%@” to unsubscribe from this mailing list.</base>
-        <tran loc="es">Mail enviará un mensaje desde “%@” para anular tu suscripción a esta lista de correo.</tran>
+        <tran loc="es-419">Mail enviará un mensaje desde “%@” para cancelar la suscripción a esta lista de correos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -634,7 +634,7 @@ ${body}</tran>
       <Position>Today</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -642,7 +642,7 @@ ${body}</tran>
       <Position>Downloading %lld of %lld</Position>
       <TranslationSet>
         <base loc="en">Downloading %lld of %lld</base>
-        <tran loc="es">Descargando %lld de %lld</tran>
+        <tran loc="es-419">Descargando %lld de %lld</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -650,7 +650,7 @@ ${body}</tran>
       <Position>This message is from a mailing list.</Position>
       <TranslationSet>
         <base loc="en">This message is from a mailing list.</base>
-        <tran loc="es">Mensaje de una lista de correo</tran>
+        <tran loc="es-419">Mensaje de una lista de correos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -658,7 +658,7 @@ ${body}</tran>
       <Position>Not Implemented</Position>
       <TranslationSet>
         <base loc="en">Not Implemented</base>
-        <tran loc="es">No implementado</tran>
+        <tran loc="es-419">No implementado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -666,7 +666,7 @@ ${body}</tran>
       <Position>Thread Notifications</Position>
       <TranslationSet>
         <base loc="en">Thread Notifications</base>
-        <tran loc="es">Avisos de hilos</tran>
+        <tran loc="es-419">Avisos de cadenas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -674,7 +674,7 @@ ${body}</tran>
       <Position>Flagged</Position>
       <TranslationSet>
         <base loc="en">Flagged</base>
-        <tran loc="es">Marcado</tran>
+        <tran loc="es-419">Con indicador</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -685,7 +685,7 @@ ${body}</tran>
       <Position>NTLM</Position>
       <TranslationSet>
         <base loc="en">NTLM</base>
-        <tran loc="es">NTLM</tran>
+        <tran loc="es-419">NTLM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -693,7 +693,7 @@ ${body}</tran>
       <Position>Fwd: </Position>
       <TranslationSet>
         <base loc="en">Fwd: </base>
-        <tran loc="es">Fwd: </tran>
+        <tran loc="es-419">Fwd: </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -701,7 +701,7 @@ ${body}</tran>
       <Position>Authenticated POP (APOP)</Position>
       <TranslationSet>
         <base loc="en">Authenticated POP (APOP)</base>
-        <tran loc="es">Autenticado POP (APOP)</tran>
+        <tran loc="es-419">Autenticado POP (APOP)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -709,7 +709,7 @@ ${body}</tran>
       <Position>OAuth2</Position>
       <TranslationSet>
         <base loc="en">OAuth2</base>
-        <tran loc="es">OAuth2</tran>
+        <tran loc="es-419">OAuth2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -717,7 +717,7 @@ ${body}</tran>
       <Position>Kerberos Version 5 (GSSAPI)</Position>
       <TranslationSet>
         <base loc="en">Kerberos Version 5 (GSSAPI)</base>
-        <tran loc="es">Kerberos versión 5 (GSSAPI)</tran>
+        <tran loc="es-419">Kerberos versión 5 (GSSAPI)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -725,7 +725,7 @@ ${body}</tran>
       <Position>Apple Token</Position>
       <TranslationSet>
         <base loc="en">Apple Token</base>
-        <tran loc="es">Identificador de Apple</tran>
+        <tran loc="es-419">Identificador de Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -733,7 +733,7 @@ ${body}</tran>
       <Position>MD5 Challenge-Response</Position>
       <TranslationSet>
         <base loc="en">MD5 Challenge-Response</base>
-        <tran loc="es">MD5 Challenge-Response</tran>
+        <tran loc="es-419">MD5 Challenge-Response</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -741,7 +741,7 @@ ${body}</tran>
       <Position>HTTP MD5 Digest</Position>
       <TranslationSet>
         <base loc="en">HTTP MD5 Digest</base>
-        <tran loc="es">HTTP MD5 Digest</tran>
+        <tran loc="es-419">HTTP MD5 Digest</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -749,7 +749,7 @@ ${body}</tran>
       <Position>Password</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -757,7 +757,7 @@ ${body}</tran>
       <Position>Re: </Position>
       <TranslationSet>
         <base loc="en">Re: </base>
-        <tran loc="es">Re: </tran>
+        <tran loc="es-419">Re: </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -765,7 +765,7 @@ ${body}</tran>
       <Position>External (TLS Client Certificate)</Position>
       <TranslationSet>
         <base loc="en">External (TLS Client Certificate)</base>
-        <tran loc="es">Externa (certificado de Cliente TLS)</tran>
+        <tran loc="es-419">Externa (certificado de Cliente TLS)</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -776,7 +776,7 @@ ${body}</tran>
       <Position>/%1$ld%2$@Subscriptions:dict/Subscriptions:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%2$@ Subscriptions</base>
-        <tran loc="es">%2$@ suscripciones</tran>
+        <tran loc="es-419">%2$@ suscripciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@ ${body}</tran>
       <Position>/%1$ld%2$@Subscriptions:dict/Subscriptions:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">1 Subscription</base>
-        <tran loc="es">1 suscripción</tran>
+        <tran loc="es-419">Una suscripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@ ${body}</tran>
       <Position>/%1$ld%2$@Subscriptions:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Subscriptions@</base>
-        <tran loc="es">%#@Subscriptions@</tran>
+        <tran loc="es-419">%#@Subscriptions@</tran>
       </TranslationSet>
     </TextItem>
   </File>

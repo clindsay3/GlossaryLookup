@@ -8,7 +8,7 @@
       <Position>FMD_ABOUT_FMIP_PRIVACY_LINK_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">About Find My iPhone and Privacy…</base>
-        <tran loc="es">Acerca de Buscar mi iPhone y la privacidad…</tran>
+        <tran loc="es-419">Acerca de Buscar Mi iPhone y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>FMD_DISABLE_OFFLINE_FINDING_ALERT_MESSAGE_WIFI</Position>
       <TranslationSet>
         <base loc="en">You will lose the ability to find your devices when they're not connected to cellular or Wi-Fi.</base>
-        <tran loc="es">No se podrán encontrar tus dispositivos cuando no dispongan de datos móviles o no estén conectados a una red Wi‐Fi.</tran>
+        <tran loc="es-419">No podrás buscar tus dispositivos si no están conectados a una red Wi-Fi o de datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>FMD_ABOUT_FMIP_PRIVACY_VIEW_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Find My iPod touch and Privacy</base>
-        <tran loc="es">Buscar mi iPod y la privacidad</tran>
+        <tran loc="es-419">Acerca de Buscar Mi iPod touch y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_NEEDED_FOOTER_IPAD</Position>
       <TranslationSet>
         <base loc="en">Locating your iPad on a map is disabled. Turn on Location Services to enable it.</base>
-        <tran loc="es">La localización de tu iPad en el mapa está desactivada. Para disponer de esta opción, activa Localización.</tran>
+        <tran loc="es-419">La localización de tu iPad en el mapa está desactivada. Para disponer de esta opción, activa Localización.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>FMD_ICLOUD_SETTINGS_SEND_LAST_LOCATION_FOOTER_IPOD</Position>
       <TranslationSet>
         <base loc="en">Automatically send the location of this iPod touch to Apple when the battery is critically low.</base>
-        <tran loc="es">Se enviará automáticamente a Apple la ubicación de este iPod touch cuando el nivel de batería sea muy bajo.</tran>
+        <tran loc="es-419">Enviar automáticamente la ubicación de este iPod touch a Apple cuando la batería esté casi agotada por completo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>FMD_ICLOUD_SETTINGS_FMIP_GROUP_FOOTER_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Locate, lock, or erase your iPhone and supported accessories. Your iPhone cannot be erased and reactivated without your password.</base>
-        <tran loc="es">Localiza, bloquea o borra tu iPhone y los accesorios compatibles. El iPhone no se podrá borrar ni reactivar sin tu contraseña.</tran>
+        <tran loc="es-419">Localiza, bloquea o borra tu iPhone y los accesorios compatibles. No se puede borrar ni reactivar sin tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>FMD_ABOUT_FMIP_PRIVACY_LINK_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">About Find My iPad and Privacy…</base>
-        <tran loc="es">Acerca de Buscar mi iPad y la privacidad…</tran>
+        <tran loc="es-419">Acerca de Buscar Mi iPad y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>FMM_DONE_BUTTON_TTLE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>FMM_DISABLE_OFFLINE_FINDING_DESCRIPTION_WLAN</Position>
       <TranslationSet>
         <base loc="en">You will lose the ability to find your devices when they're not connected to WLAN.</base>
-        <tran loc="es">No se podrán encontrar tus dispositivos cuando no estén conectados a una red WLAN.</tran>
+        <tran loc="es-419">No podrás buscar tus dispositivos si no están conectados a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>FMD_DISABLE_OFFLINE_FINDING_ALERT_MESSAGE_WLAN</Position>
       <TranslationSet>
         <base loc="en">You will lose the ability to find your devices when they're not connected to cellular or WLAN.</base>
-        <tran loc="es">No se podrán encontrar tus dispositivos cuando no dispongan de datos móviles o no estén conectados a una red WLAN.</tran>
+        <tran loc="es-419">No podrás buscar tus dispositivos si no están conectados a una red WLAN o de datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>FMD_FMM_OFFLINE_ERROR_TEXT</Position>
       <TranslationSet>
         <base loc="en">You must connect to internet to proceed with the operation.</base>
-        <tran loc="es">Debes conectarte a internet para continuar con la operación.</tran>
+        <tran loc="es-419">Debes conectarte a Internet para continuar con la operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>FMD_ICLOUD_SETTINGS_OFFLINE_FINDING_FOOTER_WIFI</Position>
       <TranslationSet>
         <base loc="en">Offline finding enables your devices to be found when not connected to Wi-Fi or cellular.</base>
-        <tran loc="es">Con “Encontrar sin conexión” podrás encontrar tus dispositivos cuando no estén conectados a una red Wi‑Fi o no tengan acceso a datos móviles.</tran>
+        <tran loc="es-419">La búsqueda sin conexión permite encontrar tus dispositivos cuando no están conectados a una red Wi-Fi o de datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>FMD_ICLOUD_SETTINGS_SWITCH_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone</base>
-        <tran loc="es">Buscar mi iPhone</tran>
+        <tran loc="es-419">Buscar Mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>FMD_ICLOUD_SETTINGS_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone</base>
-        <tran loc="es">Buscar mi iPhone</tran>
+        <tran loc="es-419">Buscar Mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_OFF_ALERT_TEXT_IPAD</Position>
       <TranslationSet>
         <base loc="en">To allow Find My iPhone to locate this iPad on a map, make sure Location Services is turned on.</base>
-        <tran loc="es">Para que Buscar mi iPhone pueda localizar este iPad en un mapa, asegúrate de que la función Localización está activada.</tran>
+        <tran loc="es-419">Para permitir que Buscar Mi iPhone ubique este iPad en un mapa, asegúrate de activar Localización.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>FMD_TURN_OFF_FMIP_PROGRESS_MSG_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Turning Off Find My iPhone…</base>
-        <tran loc="es">Desactivando Buscar mi iPhone…</tran>
+        <tran loc="es-419">Desactivando Buscar Mi iPhone…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>FMD_ICLOUD_SETTINGS_SEND_LAST_LOCATION_SWITCH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Send Last Location</base>
-        <tran loc="es">Enviar última ubicación</tran>
+        <tran loc="es-419">Enviar última ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>FMD_TURN_OFF_FMIP_PROGRESS_MSG_IPOD</Position>
       <TranslationSet>
         <base loc="en">Turning Off Find My iPod touch…</base>
-        <tran loc="es">Desactivando Buscar mi iPod…</tran>
+        <tran loc="es-419">Desactivando Buscar Mi iPod touch…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>FMD_ICLOUD_SETTINGS_SWITCH_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Find My iPod</base>
-        <tran loc="es">Buscar mi iPod</tran>
+        <tran loc="es-419">Buscar Mi iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>FMD_ICLOUD_SETTINGS_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Find My iPod</base>
-        <tran loc="es">Buscar mi iPod</tran>
+        <tran loc="es-419">Buscar Mi iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_NEEDED_FOOTER_IPOD</Position>
       <TranslationSet>
         <base loc="en">Locating your iPod touch on a map is disabled. Turn on Location Services to enable it.</base>
-        <tran loc="es">La localización de tu iPod touch en el mapa está desactivada. Para disponer de esta opción, activa Localización.</tran>
+        <tran loc="es-419">La localización de tu iPod touch en el mapa está desactivada. Para disponer de esta opción, activa Localización.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>FMD_OFFLINE_FINDING_ACCOUNT_UPGRADE_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This feature requires additional security to keep your location data private and secure. Upgrade your account security to continue.</base>
-        <tran loc="es">Esta función requiere seguridad adicional para proteger la privacidad y la seguridad de tus datos de ubicación. Mejora la seguridad de tu cuenta para continuar.</tran>
+        <tran loc="es-419">Esta función requiere seguridad adicional para mantener tus datos de ubicación privados y seguros. Actualiza la seguridad de tu cuenta para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>FMD_ABOUT_FMIP_PRIVACY_VIEW_ERROR_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_OFF_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>FMD_FMM_TURN_OFF_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter Apple ID password for “%@“ to turn off Find My Mac.</base>
-        <tran loc="es">Introduce la contraseña del ID de Apple “%@” para desactivar Buscar mi Mac.</tran>
+        <tran loc="es-419">Ingresa la contraseña del Apple ID “%@” para desactivar Buscar Mi Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_OFF_ALERT_TEXT_IPOD</Position>
       <TranslationSet>
         <base loc="en">To allow Find My iPhone to locate this iPod touch on a map, make sure Location Services is turned on.</base>
-        <tran loc="es">Para que Buscar mi iPhone pueda localizar este iPod touch en un mapa, asegúrate de que la función Localización está activada.</tran>
+        <tran loc="es-419">Para permitir que Buscar Mi iPhone ubique este iPod touch en un mapa, asegúrate de activar Localización.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>FMM_ENABLE_OFFLINE_FINDING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Offline Finding:</base>
-        <tran loc="es">Encontrar sin conexión:</tran>
+        <tran loc="es-419">Buscar sin Internet:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>FMD_ABOUT_FMIP_PRIVACY_VIEW_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone and Privacy</base>
-        <tran loc="es">Buscar mi iPhone y la privacidad</tran>
+        <tran loc="es-419">Buscar Mi iPhone y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>FMM_ENABLE_OFFLINE_FINDING_DESCRIPTION_WIFI</Position>
       <TranslationSet>
         <base loc="en">Offline finding enables your devices to be found when not connected to Wi-Fi.</base>
-        <tran loc="es">Con “Encontrar sin conexión” podrás encontrar tus dispositivos cuando no estén conectados a una red Wi‑Fi.</tran>
+        <tran loc="es-419">La búsqueda sin conexión permite encontrar tus dispositivos cuando no están conectados a Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>FMD_DISABLE_OFFLINE_FINDING_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>FMD_FMM_TURN_OFF_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>FMD_OFFLINE_FINDING_ACCOUNT_UPGRADE_CONTINUE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>FMM_TURN_OFF_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn Off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>FMD_ICLOUD_SETTINGS_OFFLINE_FINDING_SWITCH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enable Offline Finding</base>
-        <tran loc="es">Encontrar sin conexión</tran>
+        <tran loc="es-419">Activar búsqueda sin conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>FMD_DISABLE_OFFLINE_FINDING_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Disable Offline Finding?</base>
-        <tran loc="es">¿Desactivar “Encontrar sin conexión”?</tran>
+        <tran loc="es-419">¿Desactivar búsqueda sin conexión?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>FMD_ICLOUD_SETTINGS_SEND_LAST_LOCATION_FOOTER_IPAD</Position>
       <TranslationSet>
         <base loc="en">Automatically send the location of this iPad to Apple when the battery is critically low.</base>
-        <tran loc="es">Se enviará automáticamente a Apple la ubicación de este iPad cuando el nivel de batería sea muy bajo.</tran>
+        <tran loc="es-419">Enviar automáticamente la ubicación de este iPad a Apple cuando la batería esté casi agotada por completo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>FMM_TURN_OFF_PLUS_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn Off…</base>
-        <tran loc="es">Desactivar…</tran>
+        <tran loc="es-419">Desactivar…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_OFF_ALERT_TEXT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">To allow Find My iPhone to locate this iPhone on a map, make sure Location Services is turned on.</base>
-        <tran loc="es">Para que Buscar mi iPhone pueda localizar este iPhone en un mapa, asegúrate de que la función Localización está activada.</tran>
+        <tran loc="es-419">Para permitir que Buscar Mi iPhone ubique este iPhone en un mapa, asegúrate de activar Localización.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>FMM_TURN_ON_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_OFF_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On Location Services</base>
-        <tran loc="es">Activar localización</tran>
+        <tran loc="es-419">Activar Localización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>FMD_OFFLINE_FINDING_ACCOUNT_UPGRADE_NOT_NOT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>FMD_FMM_TURN_OFF_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID Password</base>
-        <tran loc="es">Contraseña del ID de Apple</tran>
+        <tran loc="es-419">Contraseña del Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>FMD_ICLOUD_SETTINGS_SWITCH_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Find My iPad</base>
-        <tran loc="es">Buscar mi iPad</tran>
+        <tran loc="es-419">Buscar Mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>FMD_ICLOUD_SETTINGS_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Find My iPad</base>
-        <tran loc="es">Buscar mi iPad</tran>
+        <tran loc="es-419">Buscar Mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>FMM_FIND_MY_MAC_PRIVACY_PAGE_LINK</Position>
       <TranslationSet>
         <base loc="en">About Find My Mac and Privacy…</base>
-        <tran loc="es">Acerca de “Buscar mi Mac” y la privacidad…</tran>
+        <tran loc="es-419">Acerca de Buscar Mi Mac y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>FMD_OFFLINE_FINDING_ACCOUNT_UPGRADE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Upgrade Account Security</base>
-        <tran loc="es">Actualizar la seguridad de la cuenta</tran>
+        <tran loc="es-419">Actualizar seguridad de la cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>FMD_ICLOUD_SETTINGS_FMIP_GROUP_FOOTER_IPOD</Position>
       <TranslationSet>
         <base loc="en">Locate, lock, or erase your iPod touch and supported accessories. Your iPod touch cannot be erased and reactivated without your password.</base>
-        <tran loc="es">Localiza, bloquea o borra tu iPod touch y los accesorios compatibles. El iPod touch no se podrá borrar ni reactivar sin tu contraseña.</tran>
+        <tran loc="es-419">Localiza, bloquea o borra tu iPod touch y los accesorios compatibles. No se puede borrar ni reactivar sin tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>FMM_DISABLE_OFFLINE_FINDING_DESCRIPTION_WIFI</Position>
       <TranslationSet>
         <base loc="en">You will lose the ability to find your devices when they're not connected to Wi-Fi.</base>
-        <tran loc="es">No se podrán encontrar tus dispositivos cuando no estén conectados a una red Wi‐Fi.</tran>
+        <tran loc="es-419">No podrás buscar tus dispositivos si no están conectados a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>FMM_FIND_MY_MAC_TITLE</Position>
       <TranslationSet>
         <base loc="en">Find My Mac:</base>
-        <tran loc="es">Buscar mi Mac:</tran>
+        <tran loc="es-419">Buscar mi Mac:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>FMD_ICLOUD_SETTINGS_FMIP_GROUP_FOOTER_IPAD</Position>
       <TranslationSet>
         <base loc="en">Locate, lock, or erase your iPad and supported accessories. Your iPad cannot be erased and reactivated without your password.</base>
-        <tran loc="es">Localiza, bloquea o borra tu iPad y los accesorios compatibles. El iPad no se podrá borrar ni reactivar sin tu contraseña.</tran>
+        <tran loc="es-419">Localiza, bloquea o borra tu iPad y los accesorios compatibles. No se puede borrar ni reactivar sin tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>FMD_DISABLE_OFFLINE_FINDING_ALERT_DISABLE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Disable</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>FMD_ABOUT_FMIP_PRIVACY_VIEW_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Could Not Connect to iCloud</base>
-        <tran loc="es">Imposible conectarse a iCloud</tran>
+        <tran loc="es-419">No se pudo conectar a iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>FMM_OFFLINE_FINDING_OPTION_ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>FMM_OPTION_ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>FMD_TURN_OFF_FMIP_PROGRESS_MSG_IPAD</Position>
       <TranslationSet>
         <base loc="en">Turning Off Find My iPad…</base>
-        <tran loc="es">Desactivando Buscar mi iPad…</tran>
+        <tran loc="es-419">Desactivando Buscar Mi iPad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>FMM_ENABLE_OFFLINE_FINDING_DESCRIPTION_WLAN</Position>
       <TranslationSet>
         <base loc="en">Offline finding enables your devices to be found when not connected to WLAN.</base>
-        <tran loc="es">Con “Encontrar sin conexión” podrás encontrar tus dispositivos cuando no estén conectados a una red WLAN.</tran>
+        <tran loc="es-419">La búsqueda sin conexión permite encontrar tus dispositivos cuando no están conectados a WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>FMM_FIND_MY_MAC_PRIVACY_PAGE_URL</Position>
       <TranslationSet>
         <base loc="en">http://www.apple.com</base>
-        <tran loc="es">http://www.apple.com/es</tran>
+        <tran loc="es-419">http://www.apple.com/la</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>FMD_ABOUT_FMIP_PRIVACY_LINK_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">About Find My iPod touch and Privacy…</base>
-        <tran loc="es">Acerca de Buscar mi iPod y la privacidad…</tran>
+        <tran loc="es-419">Acerca de Buscar Mi iPod touch y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_NEEDED_FOOTER_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Locating your iPhone on a map is disabled. Turn on Location Services to enable it.</base>
-        <tran loc="es">La localización de tu iPhone en el mapa está desactivada. Para disponer de esta opción, activa Localización.</tran>
+        <tran loc="es-419">La localización de tu iPhone en el mapa está desactivada. Para disponer de esta opción, activa Localización.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>FMD_ICLOUD_SETTINGS_OFFLINE_FINDING_FOOTER_WLAN</Position>
       <TranslationSet>
         <base loc="en">Offline finding enables your devices to be found when not connected to WLAN or cellular.</base>
-        <tran loc="es">Con “Encontrar sin conexión” podrás encontrar tus dispositivos cuando no estén conectados a una red WLAN o no tengan acceso a datos móviles.</tran>
+        <tran loc="es-419">La búsqueda sin conexión permite encontrar tus dispositivos cuando no están conectados a una red WLAN o de datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>FMD_ICLOUD_SETTINGS_SEND_LAST_LOCATION_FOOTER_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Automatically send the location of this iPhone to Apple when the battery is critically low.</base>
-        <tran loc="es">Se enviará automáticamente a Apple la ubicación de este iPhone cuando el nivel de batería sea muy bajo.</tran>
+        <tran loc="es-419">Enviar automáticamente la ubicación de este iPhone a Apple cuando la batería esté casi agotada por completo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>FMD_ICLOUD_SETTINGS_LOCATION_SERVICES_OFF_ALERT_SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>FMM_OFFLINE_FINDING_OPTION_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>FMM_OPTION_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>FMM_FIND_MY_MAC_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Locate, lock, or erase your Mac and supported accessories. Your Mac cannot be erased and reactivated without a password.</base>
-        <tran loc="es">Localiza, bloquea o borra tu Mac y los accesorios compatibles. El Mac no se podrá borrar ni reactivar sin una contraseña.</tran>
+        <tran loc="es-419">Localiza, bloquea o borra tu Mac y los accesorios compatibles. No se puede borrar ni reactivar tu Mac sin una contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>FMD_ABOUT_FMIP_PRIVACY_VIEW_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Find My iPad and Privacy</base>
-        <tran loc="es">Buscar mi iPad y la privacidad</tran>
+        <tran loc="es-419">Buscar Mi iPad y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -539,7 +539,7 @@
       <Position>ERASED_IPHONE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Erased iPhone</base>
-        <tran loc="es">iPhone borrado</tran>
+        <tran loc="es-419">iPhone borrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>ERASED_IPAD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Erased iPad</base>
-        <tran loc="es">iPad borrado</tran>
+        <tran loc="es-419">iPad borrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>LOST_IPOD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Lost iPod</base>
-        <tran loc="es">iPod perdido</tran>
+        <tran loc="es-419">iPod perdido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>LOCATED_IPHONE_TITLE</Position>
       <TranslationSet>
         <base loc="en">iPhone Located</base>
-        <tran loc="es">iPhone localizado</tran>
+        <tran loc="es-419">iPhone localizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>LOCATED_IPOD_TITLE</Position>
       <TranslationSet>
         <base loc="en">iPod Located</base>
-        <tran loc="es">iPod localizado</tran>
+        <tran loc="es-419">iPod localizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +579,7 @@
       <Position>CONTINUE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -587,7 +587,7 @@
       <Position>LOST_IPHONE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Lost iPhone</base>
-        <tran loc="es">iPhone perdido</tran>
+        <tran loc="es-419">iPhone perdido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>LOST_IPAD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Lost iPad</base>
-        <tran loc="es">iPad perdido</tran>
+        <tran loc="es-419">iPad perdido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -603,7 +603,7 @@
       <Position>DEFAULT_MANAGED_FOOTNOTE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Please bring your device to an administrator to unlock.</base>
-        <tran loc="es">Dale el dispositivo a un administrador para que lo desbloquee.</tran>
+        <tran loc="es-419">Regrésale el dispositivo a un administrador para que lo desbloquee.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -611,7 +611,7 @@
       <Position>LOCATED_IPAD_TITLE</Position>
       <TranslationSet>
         <base loc="en">iPad Located</base>
-        <tran loc="es">iPad localizado</tran>
+        <tran loc="es-419">iPad localizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -619,7 +619,7 @@
       <Position>TAP_TO_CALL</Position>
       <TranslationSet>
         <base loc="en">Call</base>
-        <tran loc="es">Llamar</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -627,7 +627,7 @@
       <Position>ERASED_IPOD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Erased iPod</base>
-        <tran loc="es">iPod borrado</tran>
+        <tran loc="es-419">iPod borrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>EMERGENCY_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Emergency</base>
-        <tran loc="es">Emergencia</tran>
+        <tran loc="es-419">Emergencia</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>REMOTE_IDENTIFIER</Position>
       <TranslationSet>
         <base loc="en">Remote ID</base>
-        <tran loc="es">ID remoto</tran>
+        <tran loc="es-419">ID remoto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ENCRYPTION_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Encryption Level</base>
-        <tran loc="es">Encriptación</tran>
+        <tran loc="es-419">Encriptación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>ENCRYPTION_LEVEL_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Encryption Level</base>
-        <tran loc="es">Nivel de encriptación</tran>
+        <tran loc="es-419">Nivel de encriptación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>ADD_VPN</Position>
       <TranslationSet>
         <base loc="en">Add Configuration</base>
-        <tran loc="es">Añadir configuración</tran>
+        <tran loc="es-419">Agregar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>ADD_VPN_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Add Configuration</base>
-        <tran loc="es">Añadir configuración</tran>
+        <tran loc="es-419">Agregar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>DELETE_VPN_CONFIRMATION</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>PROXY_TYPE</Position>
       <TranslationSet>
         <base loc="en">Type</base>
-        <tran loc="es">Tipo</tran>
+        <tran loc="es-419">Tipo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>VPN_GRADE</Position>
       <TranslationSet>
         <base loc="en">Type</base>
-        <tran loc="es">Tipo</tran>
+        <tran loc="es-419">Tipo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>PROXY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Proxy</base>
-        <tran loc="es">Proxy</tran>
+        <tran loc="es-419">Proxy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>DELETE_VPN?</Position>
       <TranslationSet>
         <base loc="en">Delete VPN?</base>
-        <tran loc="es">¿Eliminar VPN?</tran>
+        <tran loc="es-419">¿Eliminar VPN?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>ACCOUNT_NAME</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>LOCAL_IDENTIFIER</Position>
       <TranslationSet>
         <base loc="en">Local ID</base>
-        <tran loc="es">ID local</tran>
+        <tran loc="es-419">ID local</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>AUTO</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automática</tran>
+        <tran loc="es-419">Automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Auto</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automát.</tran>
+        <tran loc="es-419">Automát.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>ALWAYSON</Position>
       <TranslationSet>
         <base loc="en">Always On</base>
-        <tran loc="es">Siempre activada</tran>
+        <tran loc="es-419">Siempre activa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>PASS_HINT</Position>
       <TranslationSet>
         <base loc="en">Ask Every Time</base>
-        <tran loc="es">Preguntar cada vez</tran>
+        <tran loc="es-419">Preguntar cada vez</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>PROXY_SERVER</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>SERVER</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>Manual</Position>
       <TranslationSet>
         <base loc="en">Manual</base>
-        <tran loc="es">Manual</tran>
+        <tran loc="es-419">Manual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>EAP_RSA</Position>
       <TranslationSet>
         <base loc="en">RSA SecurID</base>
-        <tran loc="es">RSA SecurID</tran>
+        <tran loc="es-419">RSA SecurID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>GROUP_NAME</Position>
       <TranslationSet>
         <base loc="en">Group Name</base>
-        <tran loc="es">Nombre del grupo</tran>
+        <tran loc="es-419">Nombre del grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>CERTIFICATE_BASED</Position>
       <TranslationSet>
         <base loc="en">Use Certificate</base>
-        <tran loc="es">Usar certificado</tran>
+        <tran loc="es-419">Usar certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>CERTIFICATE_IKEV2</Position>
       <TranslationSet>
         <base loc="en">Use Certificate</base>
-        <tran loc="es">Usar certificado</tran>
+        <tran loc="es-419">Usar certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>SECRET</Position>
       <TranslationSet>
         <base loc="en">Secret</base>
-        <tran loc="es">Secreto</tran>
+        <tran loc="es-419">Secreto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>SHARED_SECRET</Position>
       <TranslationSet>
         <base loc="en">Secret</base>
-        <tran loc="es">Secreto</tran>
+        <tran loc="es-419">Secreto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>EAP_TYPE</Position>
       <TranslationSet>
         <base loc="en">User Authentication</base>
-        <tran loc="es">Autenticación de usuario</tran>
+        <tran loc="es-419">Autenticación del usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>PROXY_URL</Position>
       <TranslationSet>
         <base loc="en">URL</base>
-        <tran loc="es">URL</tran>
+        <tran loc="es-419">URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>AUTHENTICATION</Position>
       <TranslationSet>
         <base loc="en">Authentication</base>
-        <tran loc="es">Autenticación</tran>
+        <tran loc="es-419">Autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>PROXY_AUTHENTICATION</Position>
       <TranslationSet>
         <base loc="en">Authentication</base>
-        <tran loc="es">Autenticación</tran>
+        <tran loc="es-419">Autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>DISPLAY_NAME</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>PROXY_PORT</Position>
       <TranslationSet>
         <base loc="en">Port</base>
-        <tran loc="es">Puerto</tran>
+        <tran loc="es-419">Puerto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>PROXY_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>SEND_ALL_TRAFFIC</Position>
       <TranslationSet>
         <base loc="en">Send All Traffic</base>
-        <tran loc="es">Enviar todo el tráfico</tran>
+        <tran loc="es-419">Enviar todo el tráfico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>CERTIFICATE</Position>
       <TranslationSet>
         <base loc="en">Certificate</base>
-        <tran loc="es">Certificado</tran>
+        <tran loc="es-419">Certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>CERTIFICATE_LIST</Position>
       <TranslationSet>
         <base loc="en">Certificate</base>
-        <tran loc="es">Certificado</tran>
+        <tran loc="es-419">Certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>ON_DEMAND</Position>
       <TranslationSet>
         <base loc="en">Connect On Demand</base>
-        <tran loc="es">Conectar por petición</tran>
+        <tran loc="es-419">Conectar por solicitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>VPN</Position>
       <TranslationSet>
         <base loc="en">VPN</base>
-        <tran loc="es">VPN</tran>
+        <tran loc="es-419">VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>PROXY_USERNAME</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>DELETE_VPN</Position>
       <TranslationSet>
         <base loc="en">Delete VPN</base>
-        <tran loc="es">Eliminar VPN</tran>
+        <tran loc="es-419">Eliminar VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>ENCRYPTION</Position>
       <TranslationSet>
         <base loc="en">Encryption</base>
-        <tran loc="es">Encriptación</tran>
+        <tran loc="es-419">Encriptación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>Off</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>MAXIMUM</Position>
       <TranslationSet>
         <base loc="en">Maximum</base>
-        <tran loc="es">Máxima</tran>
+        <tran loc="es-419">Máxima</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -379,7 +379,7 @@
       <Position>TUNNEL_TYPE</Position>
       <TranslationSet>
         <base loc="en">Tunnel Type</base>
-        <tran loc="es">Tipo de túnel</tran>
+        <tran loc="es-419">Tipo de túnel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>ONHOLD</Position>
       <TranslationSet>
         <base loc="en">On Hold…</base>
-        <tran loc="es">En espera…</tran>
+        <tran loc="es-419">En espera…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>NEW_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">New Connection</base>
-        <tran loc="es">Nueva conexión</tran>
+        <tran loc="es-419">Nueva conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>ENCRYPTION_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Encryption Level</base>
-        <tran loc="es">Nivel de encriptación</tran>
+        <tran loc="es-419">Nivel de encriptación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>ENCRYPTION_LEVEL_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Encryption Level</base>
-        <tran loc="es">Encriptación</tran>
+        <tran loc="es-419">Encriptación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -419,7 +419,7 @@
       <Position>VPN_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">VPN Connection</base>
-        <tran loc="es">Conexión VPN</tran>
+        <tran loc="es-419">Conexión VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -427,7 +427,7 @@
       <Position>ADD_VPN</Position>
       <TranslationSet>
         <base loc="en">Add Configuration</base>
-        <tran loc="es">Añadir configuración</tran>
+        <tran loc="es-419">Agregar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -435,7 +435,7 @@
       <Position>ADD_VPN_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Add Configuration</base>
-        <tran loc="es">Añadir configuración</tran>
+        <tran loc="es-419">Agregar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -443,7 +443,7 @@
       <Position>DELETE_VPN_CONFIRMATION</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -451,7 +451,7 @@
       <Position>VPN_GRADE</Position>
       <TranslationSet>
         <base loc="en">Type</base>
-        <tran loc="es">Tipo</tran>
+        <tran loc="es-419">Tipo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -459,7 +459,7 @@
       <Position>ALWAYS_ON_TEXT</Position>
       <TranslationSet>
         <base loc="en">“%@” will automatically connect whenever a network connection is available. If the VPN cannot connect, all network traffic will be blocked.</base>
-        <tran loc="es">“%@” se conectará automáticamente siempre que haya una conexión de red disponible. Si no se puede conectar la VPN, se bloqueará todo el tráfico de red.</tran>
+        <tran loc="es-419">"%@" se conectará automáticamente al encontrar una conexión de red disponible. Si la VPN no se puede conectar, se bloqueará todo el tráfico de redes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -467,7 +467,7 @@
       <Position>STATUS</Position>
       <TranslationSet>
         <base loc="en">Status</base>
-        <tran loc="es">Estado</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -475,7 +475,7 @@
       <Position>EDIT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Edit your VPN account information.</base>
-        <tran loc="es">Edita la información de la cuenta VPN.</tran>
+        <tran loc="es-419">Edita la información de la cuenta VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -483,7 +483,7 @@
       <Position>VIEW_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">View your VPN account information.</base>
-        <tran loc="es">Visualiza la información de la cuenta VPN.</tran>
+        <tran loc="es-419">Visualiza la información de la cuenta VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -491,7 +491,7 @@
       <Position>VPN_RESTRICTED</Position>
       <TranslationSet>
         <base loc="en">Adding new VPN configurations is restricted.</base>
-        <tran loc="es">La adición de nuevas configuraciones de VPN está restringida.</tran>
+        <tran loc="es-419">Se restringió agregar configuraciones de VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -499,7 +499,7 @@
       <Position>INACTIVE</Position>
       <TranslationSet>
         <base loc="en">Inactive</base>
-        <tran loc="es">Inactiva</tran>
+        <tran loc="es-419">Inactiva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -507,7 +507,7 @@
       <Position>SETUP_VPN</Position>
       <TranslationSet>
         <base loc="en">Setup VPN</base>
-        <tran loc="es">Ajustar VPN</tran>
+        <tran loc="es-419">Configurar VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +515,7 @@
       <Position>RESET_SHEET_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to reset your VPN settings?</base>
-        <tran loc="es">¿Seguro que quieres restablecer los ajustes de VPN?</tran>
+        <tran loc="es-419">¿Seguro que quieres restablecer la configuración VPN?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +523,7 @@
       <Position>RENEW_CERTIFICATE</Position>
       <TranslationSet>
         <base loc="en">Renew Certificate</base>
-        <tran loc="es">Renovar certificado</tran>
+        <tran loc="es-419">Renovar certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>ON_DEMAND_TEXT</Position>
       <TranslationSet>
         <base loc="en">“%@” will connect on demand.</base>
-        <tran loc="es">“%@” se conectará por petición.</tran>
+        <tran loc="es-419">"%@" se conectará por solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>VPN_SAVE_FAILURE_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Unable to save VPN configuration.</base>
-        <tran loc="es">No se ha podido guardar la configuración VPN.</tran>
+        <tran loc="es-419">No se pudo guardar la configuración de VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>PPTP_WARNING</Position>
       <TranslationSet>
         <base loc="en">When using PPTP, your password and any data sent or received over this connection may be read by your Internet provider.</base>
-        <tran loc="es">Al usar PPTP, las contraseñas y demás datos enviados o recibidos a través de esta conexión pueden ser visibles para tu proveedor de internet.</tran>
+        <tran loc="es-419">Cuando usas PPTP, tu proveedor de Internet podría leer tu contraseña y cualquier información enviada o recibida mediante esta conexión. </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>FINISH</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>DELETE_VPN?</Position>
       <TranslationSet>
         <base loc="en">Delete VPN?</base>
-        <tran loc="es">¿Eliminar VPN?</tran>
+        <tran loc="es-419">¿Eliminar VPN?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>CONNECTED_TO</Position>
       <TranslationSet>
         <base loc="en">Connected to %@</base>
-        <tran loc="es">Conectado a %@</tran>
+        <tran loc="es-419">Conectado a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +579,7 @@
       <Position>SSL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To connect using “%@”, use the “%@“ application.</base>
-        <tran loc="es">Para conectarse mediante “%@”, usa la aplicación “%@”.</tran>
+        <tran loc="es-419">Para conectarte mediante "%@", usa la app %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -587,7 +587,7 @@
       <Position>VPN_CONNECTING</Position>
       <TranslationSet>
         <base loc="en">VPN Connecting…</base>
-        <tran loc="es">Conectando VPN…</tran>
+        <tran loc="es-419">Conectando a VPN…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>ACCOUNT_NAME</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -603,7 +603,7 @@
       <Position>ETHERNET</Position>
       <TranslationSet>
         <base loc="en">Ethernet</base>
-        <tran loc="es">Ethernet</tran>
+        <tran loc="es-419">Ethernet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -611,7 +611,7 @@
       <Position>ENTER_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Enter your VPN account information.</base>
-        <tran loc="es">Introduce la información de la cuenta VPN.</tran>
+        <tran loc="es-419">Ingresa la información de la cuenta VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -619,7 +619,7 @@
       <Position>DELETE_THIS_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Delete this Account</base>
-        <tran loc="es">Eliminar esta cuenta</tran>
+        <tran loc="es-419">Eliminar esta cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -627,7 +627,7 @@
       <Position>CELLULAR</Position>
       <TranslationSet>
         <base loc="en">Cellular</base>
-        <tran loc="es">Móvil</tran>
+        <tran loc="es-419">Datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -643,7 +643,7 @@
       <Position>TIME_HMS</Position>
       <TranslationSet>
         <base loc="en">%1.1d:%2.2d:%2.2d</base>
-        <tran loc="es">%1.1d:%2.2d:%2.2d</tran>
+        <tran loc="es-419">%1.1d:%2.2d:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -651,7 +651,7 @@
       <Position>INTERFACE_TYPE</Position>
       <TranslationSet>
         <base loc="en">Interface</base>
-        <tran loc="es">Interfaz</tran>
+        <tran loc="es-419">Interfaz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>AIRPLANE_SHEET_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>PPTP_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>RESET_SHEET_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>CHOOSE</Position>
       <TranslationSet>
         <base loc="en">Select VPN Configuration</base>
-        <tran loc="es">Seleccionar configuración de VPN</tran>
+        <tran loc="es-419">Seleccionar configuración de VPN...</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>MISSING_PROVIDER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” must be updated by the developer before “%@” can be connected.</base>
-        <tran loc="es">El desarrollador debe actualizar “%@” para poder conectar “%@”.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar “%@” antes de que se pueda conectar “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>VPN_ERROR</Position>
       <TranslationSet>
         <base loc="en">VPN Error</base>
-        <tran loc="es">Error de VPN</tran>
+        <tran loc="es-419">Error de VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -715,7 +715,7 @@
       <Position>WIFI</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi</base>
-        <tran loc="es">Wi-Fi</tran>
+        <tran loc="es-419">Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -723,7 +723,7 @@
       <Position>INCLUDED_APPS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Included Apps</base>
-        <tran loc="es">Apps incluidas</tran>
+        <tran loc="es-419">Apps incluidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -731,7 +731,7 @@
       <Position>DISCONNECTING</Position>
       <TranslationSet>
         <base loc="en">Disconnecting…</base>
-        <tran loc="es">Desconectando…</tran>
+        <tran loc="es-419">Desconectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -739,7 +739,7 @@
       <Position>AUTHENTICATING</Position>
       <TranslationSet>
         <base loc="en">Authenticating…</base>
-        <tran loc="es">Autenticando…</tran>
+        <tran loc="es-419">Autenticando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -747,7 +747,7 @@
       <Position>RESET_SHEET_OK</Position>
       <TranslationSet>
         <base loc="en">Reset</base>
-        <tran loc="es">Restablecer</tran>
+        <tran loc="es-419">Restablecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -755,7 +755,7 @@
       <Position>AIRPLANE_SHEET_OK</Position>
       <TranslationSet>
         <base loc="en">Turn Airplane Mode Off</base>
-        <tran loc="es">Desactivar el modo Avión</tran>
+        <tran loc="es-419">Desactivar “Modo de vuelo”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -763,7 +763,7 @@
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -771,7 +771,7 @@
       <Position>CERTIFICATE_RENEWAL_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Unable to renew certificate. Try Settings-&gt;General-&gt;Profile.</base>
-        <tran loc="es">Imposible renovar el certificado. Inténtalo en Ajustes &gt; General &gt; Perfil.</tran>
+        <tran loc="es-419">Imposible renovar el certificado. Intenta en Configuración &gt; General &gt; Perfil.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -779,7 +779,7 @@
       <Position>SERVER</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -787,7 +787,7 @@
       <Position>NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -795,7 +795,7 @@
       <Position>SPLIT_TUNNEL</Position>
       <TranslationSet>
         <base loc="en">Split Tunnel</base>
-        <tran loc="es">Túnel dividido</tran>
+        <tran loc="es-419">Túnel dividido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -803,7 +803,7 @@
       <Position>UPDATE_VPN</Position>
       <TranslationSet>
         <base loc="en">Edit VPN Configuration</base>
-        <tran loc="es">Editar configuración de VPN</tran>
+        <tran loc="es-419">Editar configuración de VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -811,7 +811,7 @@
       <Position>ENABLED</Position>
       <TranslationSet>
         <base loc="en">Enabled</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>MULTIPLE_DOMAINS</Position>
       <TranslationSet>
         <base loc="en">Multiple Domains</base>
-        <tran loc="es">Varios dominios</tran>
+        <tran loc="es-419">Varios dominios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>UPDATING</Position>
       <TranslationSet>
         <base loc="en">Updating</base>
-        <tran loc="es">Actualizando</tran>
+        <tran loc="es-419">Actualizando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>APP_VPN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Per-App VPN</base>
-        <tran loc="es">VPN por app</tran>
+        <tran loc="es-419">VPN por app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -843,7 +843,7 @@
       <Position>CERTIFICATE_EXPIRED</Position>
       <TranslationSet>
         <base loc="en">Certificate Expired</base>
-        <tran loc="es">Certificado caducado</tran>
+        <tran loc="es-419">Certificado vencido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -851,7 +851,7 @@
       <Position>UPDATE_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Edit Password</base>
-        <tran loc="es">Editar contraseña</tran>
+        <tran loc="es-419">Editar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -859,7 +859,7 @@
       <Position>LOCAL_IP</Position>
       <TranslationSet>
         <base loc="en">Address</base>
-        <tran loc="es">Dirección</tran>
+        <tran loc="es-419">Dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -867,7 +867,7 @@
       <Position>TIME_MMS</Position>
       <TranslationSet>
         <base loc="en">%2.2d:%2.2d</base>
-        <tran loc="es">%2.2d:%2.2d</tran>
+        <tran loc="es-419">%2.2d:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -875,7 +875,7 @@
       <Position>VPN_TYPE</Position>
       <TranslationSet>
         <base loc="en">VPN Type</base>
-        <tran loc="es">Tipo de VPN</tran>
+        <tran loc="es-419">Tipo de VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -883,7 +883,7 @@
       <Position>ESTABLISHING_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Starting…</base>
-        <tran loc="es">Iniciando…</tran>
+        <tran loc="es-419">Iniciando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -891,7 +891,7 @@
       <Position>NOT_CONFIGURED</Position>
       <TranslationSet>
         <base loc="en">Not Configured</base>
-        <tran loc="es">Sin configurar</tran>
+        <tran loc="es-419">Sin configurar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -899,7 +899,7 @@
       <Position>DELETE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Reset VPN Settings</base>
-        <tran loc="es">Restablecer los ajustes de VPN</tran>
+        <tran loc="es-419">Restablecer la configuración VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@
       <Position>SHARED_SECRET</Position>
       <TranslationSet>
         <base loc="en">Secret</base>
-        <tran loc="es">Secreto</tran>
+        <tran loc="es-419">Secreto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -915,7 +915,7 @@
       <Position>ALWAYS_ON_DISABLED_TEXT</Position>
       <TranslationSet>
         <base loc="en">“%@” will never connect. All network traffic will be blocked.</base>
-        <tran loc="es">“%@” no se conectará nunca. Se bloqueará todo el tráfico de red.</tran>
+        <tran loc="es-419">"%@" nunca se conectará. Se bloqueará todo el tráfico de red.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -923,7 +923,7 @@
       <Position>CONNECT_AUTOMATICALLY</Position>
       <TranslationSet>
         <base loc="en">Connect Automatically</base>
-        <tran loc="es">Conexión automática</tran>
+        <tran loc="es-419">Conectarse automáticamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -931,7 +931,7 @@
       <Position>VPN_SAVE_FAILURE_NAME_CONFLICT</Position>
       <TranslationSet>
         <base loc="en">Cannot have two VPN configurations with the same name.</base>
-        <tran loc="es">No puedes tener dos configuraciones VPN con el mismo nombre.</tran>
+        <tran loc="es-419">No puedes tener dos configuraciones de VPN con el mismo nombre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -939,7 +939,7 @@
       <Position>AUTHENTICATION</Position>
       <TranslationSet>
         <base loc="en">Authentication</base>
-        <tran loc="es">Autenticación</tran>
+        <tran loc="es-419">Autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -947,7 +947,7 @@
       <Position>APP_CONFIG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To configure the settings for “%@”, use the “%@“ application.</base>
-        <tran loc="es">Para configurar los ajustes de “%@”, usa la aplicación “%@”.</tran>
+        <tran loc="es-419">Para definir la configuración de "%@", usa la app %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -955,7 +955,7 @@
       <Position>CERTIFICATE_ERROR</Position>
       <TranslationSet>
         <base loc="en">Certificate Error</base>
-        <tran loc="es">Error de certificado</tran>
+        <tran loc="es-419">Error de certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -963,7 +963,7 @@
       <Position>TIME_S</Position>
       <TranslationSet>
         <base loc="en">0:%2.2d</base>
-        <tran loc="es">0:%2.2d</tran>
+        <tran loc="es-419">0:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -971,7 +971,7 @@
       <Position>ON_DEMAND_DISCONNECT</Position>
       <TranslationSet>
         <base loc="en">“%@” will not connect on the current network.</base>
-        <tran loc="es">“%@” no se conectará a la red actual.</tran>
+        <tran loc="es-419">"%@" no se conectará en la red actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -979,7 +979,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -987,7 +987,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -995,7 +995,7 @@
       <Position>TIME_MS</Position>
       <TranslationSet>
         <base loc="en">%1.1d:%2.2d</base>
-        <tran loc="es">%1.1d:%2.2d</tran>
+        <tran loc="es-419">%1.1d:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1003,7 +1003,7 @@
       <Position>CUSTOM</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1011,7 +1011,7 @@
       <Position>UNKNOWN</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1019,7 +1019,7 @@
       <Position>MISSING_PROVIDER_ALERT</Position>
       <TranslationSet>
         <base loc="en">Update Required</base>
-        <tran loc="es">Actualización necesaria</tran>
+        <tran loc="es-419">Se requiere actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1027,7 +1027,7 @@
       <Position>TIME_HHMS</Position>
       <TranslationSet>
         <base loc="en">%2.2d:%2.2d:%2.2d</base>
-        <tran loc="es">%2.2d:%2.2d:%2.2d</tran>
+        <tran loc="es-419">%2.2d:%2.2d:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1035,7 +1035,7 @@
       <Position>CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Connected</base>
-        <tran loc="es">Conectado</tran>
+        <tran loc="es-419">Conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1043,7 +1043,7 @@
       <Position>L2TP_IPSEC</Position>
       <TranslationSet>
         <base loc="en">L2TP over IPsec</base>
-        <tran loc="es">L2TP sobre IPsec</tran>
+        <tran loc="es-419">L2TP sobre IPsec</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1051,7 +1051,7 @@
       <Position>CONNECTION_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Connection Failure</base>
-        <tran loc="es">Error de conexión</tran>
+        <tran loc="es-419">Error de conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1059,7 +1059,7 @@
       <Position>DISCONNECT</Position>
       <TranslationSet>
         <base loc="en">Disconnect</base>
-        <tran loc="es">Desconectar</tran>
+        <tran loc="es-419">Desconectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1067,7 +1067,7 @@
       <Position>DISCONNECT_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Disconnect</base>
-        <tran loc="es">Desconectar</tran>
+        <tran loc="es-419">Desconectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1075,7 +1075,7 @@
       <Position>WLAN</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1083,7 +1083,7 @@
       <Position>APP_TITLE</Position>
       <TranslationSet>
         <base loc="en">VPN</base>
-        <tran loc="es">VPN</tran>
+        <tran loc="es-419">VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1091,7 +1091,7 @@
       <Position>VPN</Position>
       <TranslationSet>
         <base loc="en">VPN</base>
-        <tran loc="es">VPN</tran>
+        <tran loc="es-419">VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1099,7 +1099,7 @@
       <Position>CONNECT_TIME</Position>
       <TranslationSet>
         <base loc="en">Connect Time</base>
-        <tran loc="es">Tiempo de conexión</tran>
+        <tran loc="es-419">Tiempo de conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1107,7 +1107,7 @@
       <Position>STARTING</Position>
       <TranslationSet>
         <base loc="en">Starting</base>
-        <tran loc="es">Iniciando</tran>
+        <tran loc="es-419">Iniciando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1115,7 +1115,7 @@
       <Position>PERSONAL_VPN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Personal VPN</base>
-        <tran loc="es">VPN personal</tran>
+        <tran loc="es-419">VPN personal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1123,7 +1123,7 @@
       <Position>ACTIVATE_CONFIGURATION</Position>
       <TranslationSet>
         <base loc="en">Activate Configuration</base>
-        <tran loc="es">Activar configuración</tran>
+        <tran loc="es-419">Activar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1131,7 +1131,7 @@
       <Position>AIRPLANE_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">VPN requires a network connection. Do you want to turn Airplane Mode off?</base>
-        <tran loc="es">VPN requiere una conexión de red. ¿Quieres desactivar el modo Avión?</tran>
+        <tran loc="es-419">VPN requiere una conexión de red. ¿Quieres desactivar “Modo de vuelo”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1139,7 +1139,7 @@
       <Position>CANCEL_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Cancel VPN</base>
-        <tran loc="es">Cancelar VPN</tran>
+        <tran loc="es-419">Cancelar VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1147,7 +1147,7 @@
       <Position>CONNECT</Position>
       <TranslationSet>
         <base loc="en">Connect</base>
-        <tran loc="es">Conectar</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1155,7 +1155,7 @@
       <Position>START_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Connect</base>
-        <tran loc="es">Conectar</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1163,7 +1163,7 @@
       <Position>ALWAYSON</Position>
       <TranslationSet>
         <base loc="en">Always-On VPN</base>
-        <tran loc="es">VPN siempre activada</tran>
+        <tran loc="es-419">VPN Siempre activa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1171,7 +1171,7 @@
       <Position>ALWAYS_ON_VPN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Always-On VPN</base>
-        <tran loc="es">VPN siempre activada</tran>
+        <tran loc="es-419">VPN Siempre activa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1179,7 +1179,7 @@
       <Position>NOT_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Not Connected</base>
-        <tran loc="es">Sin conexión</tran>
+        <tran loc="es-419">Sin conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1187,7 +1187,7 @@
       <Position>DELETE_VPN</Position>
       <TranslationSet>
         <base loc="en">Delete VPN</base>
-        <tran loc="es">Eliminar VPN</tran>
+        <tran loc="es-419">Eliminar VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1195,7 +1195,7 @@
       <Position>CONFIGURATIONS_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Choose a Configuration:</base>
-        <tran loc="es">Selecciona una configuración:</tran>
+        <tran loc="es-419">Selecciona una configuración:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1203,7 +1203,7 @@
       <Position>FULL_TUNNEL</Position>
       <TranslationSet>
         <base loc="en">Full Tunnel</base>
-        <tran loc="es">Túnel completo</tran>
+        <tran loc="es-419">Túnel completo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1211,7 +1211,7 @@
       <Position>PPTP</Position>
       <TranslationSet>
         <base loc="en">PPTP</base>
-        <tran loc="es">PPTP</tran>
+        <tran loc="es-419">PPTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1219,7 +1219,7 @@
       <Position>ENTERPRISE_VPN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">VPN Configurations</base>
-        <tran loc="es">Configuraciones de VPN</tran>
+        <tran loc="es-419">Configuraciones de VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1227,7 +1227,7 @@
       <Position>OTHER</Position>
       <TranslationSet>
         <base loc="en">Add VPN Configuration…</base>
-        <tran loc="es">Añadir configuración VPN…</tran>
+        <tran loc="es-419">Agregar configuración de VPN…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1235,7 +1235,7 @@
       <Position>OTHER_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Add VPN Configuration…</base>
-        <tran loc="es">Añadir configuración VPN…</tran>
+        <tran loc="es-419">Agregar configuración de VPN…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1243,7 +1243,7 @@
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1251,7 +1251,7 @@
       <Position>CONNECTING</Position>
       <TranslationSet>
         <base loc="en">Connecting…</base>
-        <tran loc="es">Conectando…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1259,7 +1259,7 @@
       <Position>REMOTE_IP</Position>
       <TranslationSet>
         <base loc="en">Server Address</base>
-        <tran loc="es">Dirección del servidor</tran>
+        <tran loc="es-419">Dirección de servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1267,7 +1267,7 @@
       <Position>PPTP_WARNING_TITLE</Position>
       <TranslationSet>
         <base loc="en">VPN Using PPTP May Not Be Secure</base>
-        <tran loc="es">Una conexión VPN por PPTP puede no ser segura</tran>
+        <tran loc="es-419">La VPN con PPTP podría no ser segura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1275,7 +1275,7 @@
       <Position>AIRPLANE_SHEET_OK_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1283,7 +1283,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1291,7 +1291,7 @@
       <Position>PPTP_SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1302,7 +1302,7 @@
       <Position>TUNNEL_TYPE</Position>
       <TranslationSet>
         <base loc="en">Tunnel Type</base>
-        <tran loc="es">Tipo de túnel</tran>
+        <tran loc="es-419">Tipo de túnel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1310,7 +1310,7 @@
       <Position>ONHOLD</Position>
       <TranslationSet>
         <base loc="en">On Hold…</base>
-        <tran loc="es">En espera…</tran>
+        <tran loc="es-419">En espera…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1318,7 +1318,7 @@
       <Position>NEW_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">New Connection</base>
-        <tran loc="es">Nueva conexión</tran>
+        <tran loc="es-419">Nueva conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1326,7 +1326,7 @@
       <Position>ENCRYPTION_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Encryption Level</base>
-        <tran loc="es">Nivel de encriptación</tran>
+        <tran loc="es-419">Nivel de encriptación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1334,7 +1334,7 @@
       <Position>ENCRYPTION_LEVEL_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Encryption Level</base>
-        <tran loc="es">Encriptación</tran>
+        <tran loc="es-419">Encriptación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1342,7 +1342,7 @@
       <Position>VPN_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">VPN Connection</base>
-        <tran loc="es">Conexión VPN</tran>
+        <tran loc="es-419">Conexión VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1350,7 +1350,7 @@
       <Position>ADD_VPN</Position>
       <TranslationSet>
         <base loc="en">Add Configuration</base>
-        <tran loc="es">Añadir configuración</tran>
+        <tran loc="es-419">Agregar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1358,7 +1358,7 @@
       <Position>ADD_VPN_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Add Configuration</base>
-        <tran loc="es">Añadir configuración</tran>
+        <tran loc="es-419">Agregar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1366,7 +1366,7 @@
       <Position>DELETE_VPN_CONFIRMATION</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1374,7 +1374,7 @@
       <Position>VPN_GRADE</Position>
       <TranslationSet>
         <base loc="en">Type</base>
-        <tran loc="es">Tipo</tran>
+        <tran loc="es-419">Tipo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1382,7 +1382,7 @@
       <Position>ALWAYS_ON_TEXT</Position>
       <TranslationSet>
         <base loc="en">“%@” will automatically connect whenever a network connection is available. If the VPN cannot connect, all network traffic will be blocked.</base>
-        <tran loc="es">“%@” se conectará automáticamente siempre que haya una conexión de red disponible. Si no se puede conectar la VPN, se bloqueará todo el tráfico de red.</tran>
+        <tran loc="es-419">"%@" se conectará automáticamente al encontrar una conexión de red disponible. Si la VPN no se puede conectar, se bloqueará todo el tráfico de redes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1390,7 +1390,7 @@
       <Position>STATUS</Position>
       <TranslationSet>
         <base loc="en">Status</base>
-        <tran loc="es">Estado</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1398,7 +1398,7 @@
       <Position>EDIT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Edit your VPN account information.</base>
-        <tran loc="es">Edita la información de la cuenta VPN.</tran>
+        <tran loc="es-419">Edita la información de la cuenta VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1406,7 +1406,7 @@
       <Position>VIEW_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">View your VPN account information.</base>
-        <tran loc="es">Visualiza la información de la cuenta VPN.</tran>
+        <tran loc="es-419">Visualiza la información de la cuenta VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1414,7 +1414,7 @@
       <Position>VPN_RESTRICTED</Position>
       <TranslationSet>
         <base loc="en">Adding new VPN configurations is restricted.</base>
-        <tran loc="es">La adición de nuevas configuraciones de VPN está restringida.</tran>
+        <tran loc="es-419">Se restringió agregar configuraciones de VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1422,7 +1422,7 @@
       <Position>INACTIVE</Position>
       <TranslationSet>
         <base loc="en">Inactive</base>
-        <tran loc="es">Inactiva</tran>
+        <tran loc="es-419">Inactiva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1430,7 +1430,7 @@
       <Position>SETUP_VPN</Position>
       <TranslationSet>
         <base loc="en">Setup VPN</base>
-        <tran loc="es">Ajustar VPN</tran>
+        <tran loc="es-419">Configurar VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1438,7 +1438,7 @@
       <Position>RESET_SHEET_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to reset your VPN settings?</base>
-        <tran loc="es">¿Seguro que quieres restablecer los ajustes de VPN?</tran>
+        <tran loc="es-419">¿Seguro que quieres restablecer la configuración VPN?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1446,7 +1446,7 @@
       <Position>RENEW_CERTIFICATE</Position>
       <TranslationSet>
         <base loc="en">Renew Certificate</base>
-        <tran loc="es">Renovar certificado</tran>
+        <tran loc="es-419">Renovar certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1454,7 +1454,7 @@
       <Position>ON_DEMAND_TEXT</Position>
       <TranslationSet>
         <base loc="en">“%@” will connect on demand.</base>
-        <tran loc="es">“%@” se conectará por petición.</tran>
+        <tran loc="es-419">"%@" se conectará por solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1462,7 +1462,7 @@
       <Position>VPN_SAVE_FAILURE_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Unable to save VPN configuration.</base>
-        <tran loc="es">No se ha podido guardar la configuración VPN.</tran>
+        <tran loc="es-419">No se pudo guardar la configuración de VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1470,7 +1470,7 @@
       <Position>PPTP_WARNING</Position>
       <TranslationSet>
         <base loc="en">When using PPTP, your password and any data sent or received over this connection may be read by your Internet provider.</base>
-        <tran loc="es">Al usar PPTP, las contraseñas y demás datos enviados o recibidos a través de esta conexión pueden ser visibles para tu proveedor de internet.</tran>
+        <tran loc="es-419">Cuando usas PPTP, tu proveedor de Internet podría leer tu contraseña y cualquier información enviada o recibida mediante esta conexión. </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1478,7 +1478,7 @@
       <Position>FINISH</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1486,7 +1486,7 @@
       <Position>DELETE_VPN?</Position>
       <TranslationSet>
         <base loc="en">Delete VPN?</base>
-        <tran loc="es">¿Eliminar VPN?</tran>
+        <tran loc="es-419">¿Eliminar VPN?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1494,7 +1494,7 @@
       <Position>CONNECTED_TO</Position>
       <TranslationSet>
         <base loc="en">Connected to %@</base>
-        <tran loc="es">Conectado a %@</tran>
+        <tran loc="es-419">Conectado a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1502,7 +1502,7 @@
       <Position>SSL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To connect using “%@”, use the “%@“ application.</base>
-        <tran loc="es">Para conectarse mediante “%@”, usa la aplicación “%@”.</tran>
+        <tran loc="es-419">Para conectarte mediante "%@", usa la app %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1510,7 +1510,7 @@
       <Position>VPN_CONNECTING</Position>
       <TranslationSet>
         <base loc="en">VPN Connecting…</base>
-        <tran loc="es">Conectando VPN…</tran>
+        <tran loc="es-419">Conectando a VPN…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1518,7 +1518,7 @@
       <Position>ACCOUNT_NAME</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1526,7 +1526,7 @@
       <Position>ETHERNET</Position>
       <TranslationSet>
         <base loc="en">Ethernet</base>
-        <tran loc="es">Ethernet</tran>
+        <tran loc="es-419">Ethernet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1534,7 +1534,7 @@
       <Position>ENTER_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Enter your VPN account information.</base>
-        <tran loc="es">Introduce la información de la cuenta VPN.</tran>
+        <tran loc="es-419">Ingresa la información de la cuenta VPN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1542,7 +1542,7 @@
       <Position>DELETE_THIS_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Delete this Account</base>
-        <tran loc="es">Eliminar esta cuenta</tran>
+        <tran loc="es-419">Eliminar esta cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1550,7 +1550,7 @@
       <Position>CELLULAR</Position>
       <TranslationSet>
         <base loc="en">Cellular</base>
-        <tran loc="es">Móvil</tran>
+        <tran loc="es-419">Datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1558,7 +1558,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1566,7 +1566,7 @@
       <Position>TIME_HMS</Position>
       <TranslationSet>
         <base loc="en">%1.1d:%2.2d:%2.2d</base>
-        <tran loc="es">%1.1d:%2.2d:%2.2d</tran>
+        <tran loc="es-419">%1.1d:%2.2d:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1574,7 +1574,7 @@
       <Position>INTERFACE_TYPE</Position>
       <TranslationSet>
         <base loc="en">Interface</base>
-        <tran loc="es">Interfaz</tran>
+        <tran loc="es-419">Interfaz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1582,7 +1582,7 @@
       <Position>AIRPLANE_SHEET_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1590,7 +1590,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1598,7 +1598,7 @@
       <Position>PPTP_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1606,7 +1606,7 @@
       <Position>RESET_SHEET_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1614,7 +1614,7 @@
       <Position>CHOOSE</Position>
       <TranslationSet>
         <base loc="en">Select VPN Configuration</base>
-        <tran loc="es">Seleccionar configuración de VPN</tran>
+        <tran loc="es-419">Seleccionar configuración de VPN...</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1622,7 +1622,7 @@
       <Position>MISSING_PROVIDER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” must be updated by the developer before “%@” can be connected.</base>
-        <tran loc="es">El desarrollador debe actualizar “%@” para poder conectar “%@”.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar “%@” antes de que se pueda conectar “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1630,7 +1630,7 @@
       <Position>VPN_ERROR</Position>
       <TranslationSet>
         <base loc="en">VPN Error</base>
-        <tran loc="es">Error de VPN</tran>
+        <tran loc="es-419">Error de VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1638,7 +1638,7 @@
       <Position>WIFI</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi</base>
-        <tran loc="es">Wi-Fi</tran>
+        <tran loc="es-419">Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1646,7 +1646,7 @@
       <Position>INCLUDED_APPS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Included Apps</base>
-        <tran loc="es">Apps incluidas</tran>
+        <tran loc="es-419">Apps incluidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1654,7 +1654,7 @@
       <Position>DISCONNECTING</Position>
       <TranslationSet>
         <base loc="en">Disconnecting…</base>
-        <tran loc="es">Desconectando…</tran>
+        <tran loc="es-419">Desconectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1662,7 +1662,7 @@
       <Position>AUTHENTICATING</Position>
       <TranslationSet>
         <base loc="en">Authenticating…</base>
-        <tran loc="es">Autenticando…</tran>
+        <tran loc="es-419">Autenticando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1670,7 +1670,7 @@
       <Position>RESET_SHEET_OK</Position>
       <TranslationSet>
         <base loc="en">Reset</base>
-        <tran loc="es">Restablecer</tran>
+        <tran loc="es-419">Restablecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1678,7 +1678,7 @@
       <Position>AIRPLANE_SHEET_OK</Position>
       <TranslationSet>
         <base loc="en">Turn Airplane Mode Off</base>
-        <tran loc="es">Desactivar el modo Avión</tran>
+        <tran loc="es-419">Desactivar “Modo de vuelo”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1686,7 +1686,7 @@
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1694,7 +1694,7 @@
       <Position>CERTIFICATE_RENEWAL_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Unable to renew certificate. Try Settings-&gt;General-&gt;Profile.</base>
-        <tran loc="es">Imposible renovar el certificado. Inténtalo en Ajustes &gt; General &gt; Perfil.</tran>
+        <tran loc="es-419">Imposible renovar el certificado. Intenta en Configuración &gt; General &gt; Perfil.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1702,7 +1702,7 @@
       <Position>SERVER</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1710,7 +1710,7 @@
       <Position>NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1718,7 +1718,7 @@
       <Position>SPLIT_TUNNEL</Position>
       <TranslationSet>
         <base loc="en">Split Tunnel</base>
-        <tran loc="es">Túnel dividido</tran>
+        <tran loc="es-419">Túnel dividido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1726,7 +1726,7 @@
       <Position>UPDATE_VPN</Position>
       <TranslationSet>
         <base loc="en">Edit VPN Configuration</base>
-        <tran loc="es">Editar configuración de VPN</tran>
+        <tran loc="es-419">Editar configuración de VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1734,7 +1734,7 @@
       <Position>ENABLED</Position>
       <TranslationSet>
         <base loc="en">Enabled</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1742,7 +1742,7 @@
       <Position>MULTIPLE_DOMAINS</Position>
       <TranslationSet>
         <base loc="en">Multiple Domains</base>
-        <tran loc="es">Varios dominios</tran>
+        <tran loc="es-419">Varios dominios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1750,7 +1750,7 @@
       <Position>UPDATING</Position>
       <TranslationSet>
         <base loc="en">Updating</base>
-        <tran loc="es">Actualizando</tran>
+        <tran loc="es-419">Actualizando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1758,7 +1758,7 @@
       <Position>APP_VPN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Per-App VPN</base>
-        <tran loc="es">VPN por app</tran>
+        <tran loc="es-419">VPN por app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1766,7 +1766,7 @@
       <Position>CERTIFICATE_EXPIRED</Position>
       <TranslationSet>
         <base loc="en">Certificate Expired</base>
-        <tran loc="es">Certificado caducado</tran>
+        <tran loc="es-419">Certificado vencido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1774,7 +1774,7 @@
       <Position>UPDATE_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Edit Password</base>
-        <tran loc="es">Editar contraseña</tran>
+        <tran loc="es-419">Editar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1782,7 +1782,7 @@
       <Position>LOCAL_IP</Position>
       <TranslationSet>
         <base loc="en">Address</base>
-        <tran loc="es">Dirección</tran>
+        <tran loc="es-419">Dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1790,7 +1790,7 @@
       <Position>TIME_MMS</Position>
       <TranslationSet>
         <base loc="en">%2.2d:%2.2d</base>
-        <tran loc="es">%2.2d:%2.2d</tran>
+        <tran loc="es-419">%2.2d:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1798,7 +1798,7 @@
       <Position>VPN_TYPE</Position>
       <TranslationSet>
         <base loc="en">VPN Type</base>
-        <tran loc="es">Tipo de VPN</tran>
+        <tran loc="es-419">Tipo de VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1806,7 +1806,7 @@
       <Position>ESTABLISHING_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Starting…</base>
-        <tran loc="es">Iniciando…</tran>
+        <tran loc="es-419">Iniciando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1814,7 +1814,7 @@
       <Position>NOT_CONFIGURED</Position>
       <TranslationSet>
         <base loc="en">Not Configured</base>
-        <tran loc="es">Sin configurar</tran>
+        <tran loc="es-419">Sin configurar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1822,7 +1822,7 @@
       <Position>DELETE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Reset VPN Settings</base>
-        <tran loc="es">Restablecer los ajustes de VPN</tran>
+        <tran loc="es-419">Restablecer la configuración VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1830,7 +1830,7 @@
       <Position>SHARED_SECRET</Position>
       <TranslationSet>
         <base loc="en">Secret</base>
-        <tran loc="es">Secreto</tran>
+        <tran loc="es-419">Secreto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1838,7 +1838,7 @@
       <Position>ALWAYS_ON_DISABLED_TEXT</Position>
       <TranslationSet>
         <base loc="en">“%@” will never connect. All network traffic will be blocked.</base>
-        <tran loc="es">“%@” no se conectará nunca. Se bloqueará todo el tráfico de red.</tran>
+        <tran loc="es-419">"%@" nunca se conectará. Se bloqueará todo el tráfico de red.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1846,7 +1846,7 @@
       <Position>CONNECT_AUTOMATICALLY</Position>
       <TranslationSet>
         <base loc="en">Connect Automatically</base>
-        <tran loc="es">Conexión automática</tran>
+        <tran loc="es-419">Conectarse automáticamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1854,7 +1854,7 @@
       <Position>VPN_SAVE_FAILURE_NAME_CONFLICT</Position>
       <TranslationSet>
         <base loc="en">Cannot have two VPN configurations with the same name.</base>
-        <tran loc="es">No puedes tener dos configuraciones VPN con el mismo nombre.</tran>
+        <tran loc="es-419">No puedes tener dos configuraciones de VPN con el mismo nombre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1862,7 +1862,7 @@
       <Position>AUTHENTICATION</Position>
       <TranslationSet>
         <base loc="en">Authentication</base>
-        <tran loc="es">Autenticación</tran>
+        <tran loc="es-419">Autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1870,7 +1870,7 @@
       <Position>APP_CONFIG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To configure the settings for “%@”, use the “%@“ application.</base>
-        <tran loc="es">Para configurar los ajustes de “%@”, usa la aplicación “%@”.</tran>
+        <tran loc="es-419">Para definir la configuración de "%@", usa la app %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1878,7 +1878,7 @@
       <Position>CERTIFICATE_ERROR</Position>
       <TranslationSet>
         <base loc="en">Certificate Error</base>
-        <tran loc="es">Error de certificado</tran>
+        <tran loc="es-419">Error de certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1886,7 +1886,7 @@
       <Position>TIME_S</Position>
       <TranslationSet>
         <base loc="en">0:%2.2d</base>
-        <tran loc="es">0:%2.2d</tran>
+        <tran loc="es-419">0:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1894,7 +1894,7 @@
       <Position>ON_DEMAND_DISCONNECT</Position>
       <TranslationSet>
         <base loc="en">“%@” will not connect on the current network.</base>
-        <tran loc="es">“%@” no se conectará a la red actual.</tran>
+        <tran loc="es-419">"%@" no se conectará en la red actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1902,7 +1902,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1910,7 +1910,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1918,7 +1918,7 @@
       <Position>TIME_MS</Position>
       <TranslationSet>
         <base loc="en">%1.1d:%2.2d</base>
-        <tran loc="es">%1.1d:%2.2d</tran>
+        <tran loc="es-419">%1.1d:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1926,7 +1926,7 @@
       <Position>CUSTOM</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1934,7 +1934,7 @@
       <Position>UNKNOWN</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1942,7 +1942,7 @@
       <Position>MISSING_PROVIDER_ALERT</Position>
       <TranslationSet>
         <base loc="en">Update Required</base>
-        <tran loc="es">Actualización necesaria</tran>
+        <tran loc="es-419">Se requiere actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1950,7 +1950,7 @@
       <Position>TIME_HHMS</Position>
       <TranslationSet>
         <base loc="en">%2.2d:%2.2d:%2.2d</base>
-        <tran loc="es">%2.2d:%2.2d:%2.2d</tran>
+        <tran loc="es-419">%2.2d:%2.2d:%2.2d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1958,7 +1958,7 @@
       <Position>CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Connected</base>
-        <tran loc="es">Conectado</tran>
+        <tran loc="es-419">Conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1966,7 +1966,7 @@
       <Position>L2TP_IPSEC</Position>
       <TranslationSet>
         <base loc="en">L2TP over IPsec</base>
-        <tran loc="es">L2TP sobre IPsec</tran>
+        <tran loc="es-419">L2TP sobre IPsec</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1974,7 +1974,7 @@
       <Position>CONNECTION_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Connection Failure</base>
-        <tran loc="es">Error de conexión</tran>
+        <tran loc="es-419">Error de conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1982,7 +1982,7 @@
       <Position>DISCONNECT</Position>
       <TranslationSet>
         <base loc="en">Disconnect</base>
-        <tran loc="es">Desconectar</tran>
+        <tran loc="es-419">Desconectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1990,7 +1990,7 @@
       <Position>DISCONNECT_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Disconnect</base>
-        <tran loc="es">Desconectar</tran>
+        <tran loc="es-419">Desconectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1998,7 +1998,7 @@
       <Position>WLAN</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2006,7 +2006,7 @@
       <Position>APP_TITLE</Position>
       <TranslationSet>
         <base loc="en">VPN</base>
-        <tran loc="es">VPN</tran>
+        <tran loc="es-419">VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2014,7 +2014,7 @@
       <Position>VPN</Position>
       <TranslationSet>
         <base loc="en">VPN</base>
-        <tran loc="es">VPN</tran>
+        <tran loc="es-419">VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2022,7 +2022,7 @@
       <Position>CONNECT_TIME</Position>
       <TranslationSet>
         <base loc="en">Connect Time</base>
-        <tran loc="es">Tiempo de conexión</tran>
+        <tran loc="es-419">Tiempo de conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2030,7 +2030,7 @@
       <Position>STARTING</Position>
       <TranslationSet>
         <base loc="en">Starting</base>
-        <tran loc="es">Iniciando</tran>
+        <tran loc="es-419">Iniciando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2038,7 +2038,7 @@
       <Position>PERSONAL_VPN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Personal VPN</base>
-        <tran loc="es">VPN personal</tran>
+        <tran loc="es-419">VPN personal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2046,7 +2046,7 @@
       <Position>ACTIVATE_CONFIGURATION</Position>
       <TranslationSet>
         <base loc="en">Activate Configuration</base>
-        <tran loc="es">Activar configuración</tran>
+        <tran loc="es-419">Activar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2054,7 +2054,7 @@
       <Position>AIRPLANE_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">VPN requires a network connection. Do you want to turn Airplane Mode off?</base>
-        <tran loc="es">VPN requiere una conexión de red. ¿Quieres desactivar el modo Avión?</tran>
+        <tran loc="es-419">VPN requiere una conexión de red. ¿Quieres desactivar “Modo de vuelo”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2062,7 +2062,7 @@
       <Position>CANCEL_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Cancel VPN</base>
-        <tran loc="es">Cancelar VPN</tran>
+        <tran loc="es-419">Cancelar VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2070,7 +2070,7 @@
       <Position>CONNECT</Position>
       <TranslationSet>
         <base loc="en">Connect</base>
-        <tran loc="es">Conectar</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2078,7 +2078,7 @@
       <Position>START_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Connect</base>
-        <tran loc="es">Conectar</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2086,7 +2086,7 @@
       <Position>ALWAYSON</Position>
       <TranslationSet>
         <base loc="en">Always-On VPN</base>
-        <tran loc="es">VPN siempre activada</tran>
+        <tran loc="es-419">VPN Siempre activa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2094,7 +2094,7 @@
       <Position>ALWAYS_ON_VPN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Always-On VPN</base>
-        <tran loc="es">VPN siempre activada</tran>
+        <tran loc="es-419">VPN Siempre activa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2102,7 +2102,7 @@
       <Position>NOT_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Not Connected</base>
-        <tran loc="es">Sin conexión</tran>
+        <tran loc="es-419">Sin conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2110,7 +2110,7 @@
       <Position>DELETE_VPN</Position>
       <TranslationSet>
         <base loc="en">Delete VPN</base>
-        <tran loc="es">Eliminar VPN</tran>
+        <tran loc="es-419">Eliminar VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2118,7 +2118,7 @@
       <Position>CONFIGURATIONS_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Choose a Configuration:</base>
-        <tran loc="es">Selecciona una configuración:</tran>
+        <tran loc="es-419">Selecciona una configuración:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2126,7 +2126,7 @@
       <Position>FULL_TUNNEL</Position>
       <TranslationSet>
         <base loc="en">Full Tunnel</base>
-        <tran loc="es">Túnel completo</tran>
+        <tran loc="es-419">Túnel completo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2134,7 +2134,7 @@
       <Position>PPTP</Position>
       <TranslationSet>
         <base loc="en">PPTP</base>
-        <tran loc="es">PPTP</tran>
+        <tran loc="es-419">PPTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2142,7 +2142,7 @@
       <Position>ENTERPRISE_VPN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">VPN Configurations</base>
-        <tran loc="es">Configuraciones de VPN</tran>
+        <tran loc="es-419">Configuraciones de VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2150,7 +2150,7 @@
       <Position>OTHER</Position>
       <TranslationSet>
         <base loc="en">Add VPN Configuration…</base>
-        <tran loc="es">Añadir configuración VPN…</tran>
+        <tran loc="es-419">Agregar configuración de VPN…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2158,7 +2158,7 @@
       <Position>OTHER_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Add VPN Configuration…</base>
-        <tran loc="es">Añadir configuración VPN…</tran>
+        <tran loc="es-419">Agregar configuración de VPN…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2166,7 +2166,7 @@
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2174,7 +2174,7 @@
       <Position>CONNECTING</Position>
       <TranslationSet>
         <base loc="en">Connecting…</base>
-        <tran loc="es">Conectando…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2182,7 +2182,7 @@
       <Position>REMOTE_IP</Position>
       <TranslationSet>
         <base loc="en">Server Address</base>
-        <tran loc="es">Dirección del servidor</tran>
+        <tran loc="es-419">Dirección de servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2190,7 +2190,7 @@
       <Position>PPTP_WARNING_TITLE</Position>
       <TranslationSet>
         <base loc="en">VPN Using PPTP May Not Be Secure</base>
-        <tran loc="es">Una conexión VPN por PPTP puede no ser segura</tran>
+        <tran loc="es-419">La VPN con PPTP podría no ser segura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2198,7 +2198,7 @@
       <Position>AIRPLANE_SHEET_OK_ABBREVIATED</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2206,7 +2206,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2214,7 +2214,7 @@
       <Position>PPTP_SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>

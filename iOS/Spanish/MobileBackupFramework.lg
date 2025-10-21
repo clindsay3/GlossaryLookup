@@ -8,7 +8,7 @@
       <Position>MBS_RESTORE_WARN_ALERT_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone has not been backed up recently because it has not finished being restored. Would you like to finish downloading any remaining purchases and media before backing up, or delete them along with any app data?</base>
-        <tran loc="es">No hay ninguna copia de seguridad reciente de este iPhone porque no se ha finalizado su restauración. ¿Quieres completar la descarga de las compras y los contenidos pendientes antes de realizar la copia de seguridad o eliminarlos junto con los datos de las apps?</tran>
+        <tran loc="es-419">No hay ningún respaldo reciente de este iPhone porque no se finalizó su restauración. ¿Quieres completar la descarga de las compras y los contenidos pendientes antes de realizar el respaldo o eliminarlos junto con los datos de las app?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>MISSING_BACKUP_ALERT_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone hasn’t been backed up. Backups happen when this iPhone is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">No se ha realizado ninguna copia de seguridad de este iPhone. Las copias de seguridad se realizan cuando el iPhone está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Este iPhone no se ha respaldado. Los respaldos se realizan cuando el iPhone está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>MBS_RESTORE_WARN_ALERT_DOWNLOAD_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Download</base>
-        <tran loc="es">Descargar</tran>
+        <tran loc="es-419">Descargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>MBS_RESTORE_WARN_ALERT_DELETE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>INCOMPLETE_RESTORE_NO_ITEMS_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Some items could not be restored from the iCloud Backup.</base>
-        <tran loc="es">Algunos ítems no se han podido restaurar de la copia de seguridad de iCloud.</tran>
+        <tran loc="es-419">Algunos elementos no se pudieron restaurar del respaldo de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>INCOMPLETE_BUNDLE</Position>
       <TranslationSet>
         <base loc="en">• </base>
-        <tran loc="es">• </tran>
+        <tran loc="es-419">• </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>MISSING_BACKUP_ALERT_DESCRIPTION_CH_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad hasn’t been backed up. Backups happen when this iPad is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">No se ha realizado ninguna copia de seguridad de este iPad. Las copias de seguridad se realizan cuando el iPad está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Este iPad no se ha respaldado. Los respaldos se realizan cuando el iPad está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>MBS_RESTORE_WARN_ALERT_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad has not been backed up recently because it has not finished being restored. Would you like to finish downloading any remaining purchases and media before backing up, or delete them along with any app data?</base>
-        <tran loc="es">No hay ninguna copia de seguridad reciente de este iPad porque no se ha finalizado su restauración. ¿Quieres completar la descarga de las compras y los contenidos pendientes antes de realizar la copia de seguridad o eliminarlos junto con los datos de las apps?</tran>
+        <tran loc="es-419">No hay ningún respaldo reciente de este iPad porque no se finalizó su restauración. ¿Quieres completar la descarga de las compras y los contenidos pendientes antes de realizar el respaldo o eliminarlos junto con los datos de las app?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_DAYS_CH_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone hasn’t been backed up in %@ days. Backups happen when this iPhone is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">Hace %@ días que no se realiza una copia de seguridad de este iPhone. Las copias de seguridad se realizan cuando el iPhone está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Hace %@ días que no se respalda este iPhone. Los respaldos se realizan cuando el iPhone está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>LATE_ITUNES_BACKUP_ALERT_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone hasn’t backed up to iTunes in %@ weeks. Backups happen when this iPhone is connected to power and synced with iTunes.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad en iTunes de este iPhone. Las copias de seguridad se realizan cuando el iPhone está enchufado a la corriente y sincronizado con iTunes.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPhone en iTunes. Los respaldos se realizan cuando el iPhone está conectado y sincronizado con iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>MBS_WIFI_NEEDED_ALERT_SETTINGS_BUTTON_CH</Position>
       <TranslationSet>
         <base loc="en">Use WLAN</base>
-        <tran loc="es">Usar WLAN</tran>
+        <tran loc="es-419">Usar WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>LOW_DISK_SPACE_DISMISS</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>MISSING_BACKUP_ALERT_DESCRIPTION_CH_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch hasn’t been backed up. Backups happen when this iPod touch is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">No se ha realizado ninguna copia de seguridad de este iPod touch. Las copias de seguridad se realizan cuando el iPod touch está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Este iPod touch no se ha respaldado. Los respaldos se realizan cuando el iPod touch está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>LATE_ITUNES_BACKUP_ALERT_DESCRIPTION_CH_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad hasn’t been backed up in %@ weeks. Backups happen when this iPad is connected to power, locked and synced with iTunes.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPad. Las copias de seguridad se realizan cuando el iPad está enchufado a la corriente, bloqueado y sincronizado con iTunes.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPad. Los respaldos se realizan cuando el iPad está conectado, bloqueado y sincronizado con iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>LATE_ITUNES_BACKUP_ALERT_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad hasn’t been backed up in %@ weeks. Backups happen when this iPad is connected to power, locked and synced with iTunes.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPad. Las copias de seguridad se realizan cuando el iPad está enchufado a la corriente, bloqueado y sincronizado con iTunes.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPad. Los respaldos se realizan cuando el iPad está conectado, bloqueado y sincronizado con iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>MBCK_RESTORE_WARN_ALERT_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch has not been backed up recently because it is still restoring from an iCloud backup. You can cancel this restore in iCloud settings.</base>
-        <tran loc="es">No hay ninguna copia de seguridad reciente de este iPod touch porque todavía se está restaurando una copia de seguridad de iCloud. Puedes cancelar la restauración desde los ajustes de iCloud.</tran>
+        <tran loc="es-419">No existe un respaldo reciente del iPod touch porque se está restaurando mediante un respaldo en iCloud. Puedes cancelar la restauración en la configuración de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>INCOMPLETE_RESTORE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Restore Incomplete</base>
-        <tran loc="es">Restauración incompleta</tran>
+        <tran loc="es-419">Restauración incompleta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>MBS_WIFI_NEEDED_ALERT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">A Wi-Fi connection is required to download your apps and media.</base>
-        <tran loc="es">Para descargar las apps y los contenidos se requiere conexión Wi-Fi.</tran>
+        <tran loc="es-419">Para descargar las apps y los contenidos se requiere conexión Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>UNVERIFIED_ACCOUNT_ALERT_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad cannot back up to iCloud without a verified email address.</base>
-        <tran loc="es">No se puede realizar una copia de seguridad de este iPad en iCloud sin una dirección de correo verificada.</tran>
+        <tran loc="es-419">No se puede realizar un respaldo de este iPad en iCloud sin una dirección de correo verificada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>MBS_WIFI_NEEDED_ALERT_DESCRIPTION_CH</Position>
       <TranslationSet>
         <base loc="en">A WLAN connection is required to download your apps and media.</base>
-        <tran loc="es">Para descargar las apps y los contenidos se requiere conexión WLAN.</tran>
+        <tran loc="es-419">Para descargar las apps y los contenidos se requiere conexión WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>RESTORE_COMPLETED_ALERT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Your settings have been restored. Connect to power to save battery while apps and media are downloading.</base>
-        <tran loc="es">Se han restaurado los ajustes. Conecta el dispositivo a una fuente de alimentación para ahorrar batería mientras se descargan las apps y los contenidos.</tran>
+        <tran loc="es-419">Se restauró tu configuración. Conéctate a la corriente eléctrica para ahorrar batería mientras se descargan las apps y el contenido multimedia. </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>LOW_DISK_SPACE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Storage Almost Full</base>
-        <tran loc="es">Almacenamiento casi lleno</tran>
+        <tran loc="es-419">Almacenamiento casi lleno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>UNVERIFIED_ACCOUNT_ALERT_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch cannot back up to iCloud without a verified email address.</base>
-        <tran loc="es">No se puede realizar una copia de seguridad de este iPod touch en iCloud sin una dirección de correo verificada.</tran>
+        <tran loc="es-419">No se puede realizar un respaldo de este iPod touch en iCloud sin una dirección de correo verificada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch hasn’t been backed up in %@ weeks. Backups happen when this iPod touch is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPod touch. Las copias de seguridad se realizan cuando el iPod touch está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPod touch. Los respaldos se realizan cuando el iPod touch está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_CH_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch hasn’t been backed up in %@ weeks. Backups happen when this iPod touch is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPod touch. Las copias de seguridad se realizan cuando el iPod touch está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPod touch. Los respaldos se realizan cuando el iPod touch está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>LATE_ITUNES_BACKUP_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">iTunes Backup</base>
-        <tran loc="es">Copia de seguridad de iTunes</tran>
+        <tran loc="es-419">Respaldo en iTunes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad hasn’t been backed up in %@ weeks. Backups happen when this iPad is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPad. Las copias de seguridad se realizan cuando el iPad está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPad. Los respaldos se realizan cuando el iPad está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>MISSING_BACKUP_ALERT_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad hasn’t been backed up. Backups happen when this iPad is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">No se ha realizado ninguna copia de seguridad de este iPad. Las copias de seguridad se realizan cuando el iPad está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Este iPad no se ha respaldado. Los respaldos se realizan cuando el iPad está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>INCOMPLETE_RESTORE_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>LATE_BACKUP_OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>MBCK_RESTORE_WARN_ALERT_OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>RESTORE_COMPLETED_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>RESTORE_OVER_BUDGET_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>RESTORE_OVER_BUDGET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Connect to Power to Restore</base>
-        <tran loc="es">Conéctalo a la alimentación para restaurarlo</tran>
+        <tran loc="es-419">Conéctate a la corriente para restaurar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>LOW_DISK_SPACE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You can manage your storage in Settings.</base>
-        <tran loc="es">Puedes gestionar el almacenamiento desde Ajustes.</tran>
+        <tran loc="es-419">Puedes administrar el almacenamiento desde Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>LATE_ITUNES_BACKUP_ALERT_DESCRIPTION_CH_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch hasn’t been backed up in %@ weeks. Backups happen when this iPod touch is connected to power and synced with iTunes.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPod touch. Las copias de seguridad se realizan cuando el iPod touch está enchufado a la corriente y sincronizado con iTunes.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPod touch. Los respaldos se realizan cuando el iPod touch está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>LATE_ITUNES_BACKUP_ALERT_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch hasn’t been backed up in %@ weeks. Backups happen when this iPod touch is connected to power and synced with iTunes.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPod touch. Las copias de seguridad se realizan cuando el iPod touch está enchufado a la corriente y sincronizado con iTunes.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPod touch. Los respaldos se realizan cuando el iPod touch está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_DAYS_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch hasn’t been backed up in %@ days. Backups happen when this iPod touch is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">Hace %@ días que no se realiza una copia de seguridad de este iPod touch. Las copias de seguridad se realizan cuando el iPod touch está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Hace %@ días que no se respalda este iPod touch. Los respaldos se realizan cuando el iPod touch está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone hasn’t been backed up in %@ weeks. Backups happen when this iPhone is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPhone. Las copias de seguridad se realizan cuando el iPhone está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPhone. Los respaldos se realizan cuando el iPhone está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>UNVERIFIED_ACCOUNT_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Back Up</base>
-        <tran loc="es">Imposible realizar copia de seguridad</tran>
+        <tran loc="es-419">Imposible realizar respaldo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>MISSING_BACKUP_ALERT_DESCRIPTION_CH_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone hasn’t been backed up. Backups happen when this iPhone is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">No se ha realizado ninguna copia de seguridad de este iPhone. Las copias de seguridad se realizan cuando el iPhone está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Este iPhone no se ha respaldado. Los respaldos se realizan cuando el iPhone está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>MBS_WIFI_NEEDED_ALERT_SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Use Wi-Fi</base>
-        <tran loc="es">Usar Wi-Fi</tran>
+        <tran loc="es-419">Usar Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>MISSING_BACKUP_ALERT_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone Not Backed Up</base>
-        <tran loc="es">iPhone sin copia de seguridad</tran>
+        <tran loc="es-419">iPhone sin respaldo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>MBCK_RESTORE_WARN_ALERT_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone has not been backed up recently because it is still restoring from an iCloud backup. You can cancel this restore in iCloud settings.</base>
-        <tran loc="es">No hay ninguna copia de seguridad reciente de este iPhone porque todavía se está restaurando una copia de seguridad de iCloud. Puedes cancelar la restauración desde los ajustes de iCloud.</tran>
+        <tran loc="es-419">No existe un respaldo reciente del iPhone porque se está restaurando mediante un respaldo en iCloud. Puedes cancelar la restauración en la configuración de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_CH_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone hasn’t been backed up in %@ weeks. Backups happen when this iPhone is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPhone. Las copias de seguridad se realizan cuando el iPhone está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPhone. Los respaldos se realizan cuando el iPhone está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_DAYS_CH_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch hasn’t been backed up in %@ days. Backups happen when this iPod touch is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">Hace %@ días que no se realiza una copia de seguridad de este iPod touch. Las copias de seguridad se realizan cuando el iPod touch está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Hace %@ días que no se respalda este iPod touch. Los respaldos se realizan cuando el iPod touch está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>UNVERIFIED_ACCOUNT_ALERT_BACKUP_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Backup Settings</base>
-        <tran loc="es">Ajustes de copia de seguridad</tran>
+        <tran loc="es-419">Configuración de respaldo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>MBS_WIFI_NEEDED_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use Wi-Fi to Restore</base>
-        <tran loc="es">Usar Wi-Fi para la restauración</tran>
+        <tran loc="es-419">Usar Wi-Fi para la restauración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>MBCK_RESTORE_WARN_ALERT_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad has not been backed up recently because it is still restoring from an iCloud backup. You can cancel this restore in iCloud settings.</base>
-        <tran loc="es">No hay ninguna copia de seguridad reciente de este iPad porque todavía se está restaurando una copia de seguridad de iCloud. Puedes cancelar la restauración desde los ajustes de iCloud.</tran>
+        <tran loc="es-419">No existe un respaldo reciente del iPad porque se está restaurando mediante un respaldo en iCloud. Puedes cancelar la restauración en la configuración de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>MISSING_BACKUP_ALERT_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod touch Not Backed Up</base>
-        <tran loc="es">iPod touch sin copia de seguridad</tran>
+        <tran loc="es-419">iPod touch sin respaldo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>UNVERIFIED_ACCOUNT_ALERT_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone cannot back up to iCloud without a verified email address.</base>
-        <tran loc="es">No se puede realizar una copia de seguridad de este iPhone en iCloud sin una dirección de correo verificada.</tran>
+        <tran loc="es-419">No se puede realizar un respaldo de este iPhone en iCloud sin una dirección de correo verificada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>RESTORE_OVER_BUDGET_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Connect to power to continue downloading your apps and media.</base>
-        <tran loc="es">Conecta el dispositivo a una toma de alimentación para seguir descargando las apps y los contenidos.</tran>
+        <tran loc="es-419">Conéctate a la corriente para seguir descargando apps y contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>LATE_ITUNES_BACKUP_ALERT_DESCRIPTION_CH_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone hasn’t been backed up in %@ weeks. Backups happen when this iPhone is connected to power and synced with iTunes.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPhone. Las copias de seguridad se realizan cuando el iPhone está enchufado a la corriente y sincronizado con iTunes.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPhone. Los respaldos se realizan cuando el iPhone está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>LOGGING_CONSENT</Position>
       <TranslationSet>
         <base loc="en">With backup logging enabled, some personally identifiable information such as the names of your applications and documents (amongst other things) might be present in the logs. Logging can also have an impact on backup performance and will take up space on your device.</base>
-        <tran loc="es">Con el registro de copias de seguridad activado, determinada información identificable personalmente, como el nombre de tus aplicaciones y documentos (entre otras cosas), podrían incluirse en los registros. El registro puede afectar también al rendimiento del ordenador al realizar las copias de seguridad y ocupará espacio en el dispositivo.</tran>
+        <tran loc="es-419">Si se activó el registro de respaldos, puede que con los registros se incluya cierta información que puede identificarte personalmente como los nombres de tus aplicaciones y documentos (entre otros). Los registros también pueden afectar el rendimiento en los respaldos y ocupar espacio en tu dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>MISSING_BACKUP_ALERT_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch hasn’t been backed up. Backups happen when this iPod touch is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">No se ha realizado ninguna copia de seguridad de este iPod touch. Las copias de seguridad se realizan cuando el iPod touch está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Este iPod touch no se ha respaldado. Los respaldos se realizan cuando el iPod touch está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@
       <Position>LATE_BACKUP_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Backup</base>
-        <tran loc="es">Copia de seguridad de iCloud</tran>
+        <tran loc="es-419">Respaldo en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@
       <Position>MBS_UNAUTHORIZED_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Backup</base>
-        <tran loc="es">Copia de seguridad de iCloud</tran>
+        <tran loc="es-419">Respaldo en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@
       <Position>INCOMPLETE_RESTORE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Some items could not be restored from the iCloud Backup:</base>
-        <tran loc="es">Algunos ítems no se han podido restaurar de la copia de seguridad de iCloud:</tran>
+        <tran loc="es-419">Algunos elementos no se pudieron restaurar del respaldo en iCloud:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -478,7 +478,7 @@
       <Position>MBS_UNAUTHORIZED_ALERT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">iCloud Backup is unable to access the account “%@”. Review your account information in Settings.</base>
-        <tran loc="es">La copia de seguridad de iCloud no puede acceder a la cuenta “%@”. Revisa la información de la cuenta en Ajustes.</tran>
+        <tran loc="es-419">El respaldo en iCloud no puede acceder a la cuenta “%@”. Revisa la información de la cuenta en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -486,7 +486,7 @@
       <Position>MBS_UNAUTHORIZED_ALERT_IGNORE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Ignore</base>
-        <tran loc="es">Ignorar</tran>
+        <tran loc="es-419">Ignorar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -494,7 +494,7 @@
       <Position>VERIFY_ICLOUD_PASSWORD_ALERT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">iCloud Backup requires that you verify your password.</base>
-        <tran loc="es">La copia de seguridad en iCloud requiere que verifiques tu contraseña.</tran>
+        <tran loc="es-419">El respaldo de iCloud requiere que verifiques tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -502,7 +502,7 @@
       <Position>MBS_WIFI_NEEDED_ALERT_IGNORE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Later</base>
-        <tran loc="es">Más tarde</tran>
+        <tran loc="es-419">Más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -510,7 +510,7 @@
       <Position>UNVERIFIED_ACCOUNT_ALERT_LATER</Position>
       <TranslationSet>
         <base loc="en">Later</base>
-        <tran loc="es">Más tarde</tran>
+        <tran loc="es-419">Más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -518,7 +518,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_DAYS_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad hasn’t been backed up in %@ days. Backups happen when this iPad is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">Hace %@ días que no se realiza una copia de seguridad de este iPad. Las copias de seguridad se realizan cuando el iPad está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Hace %@ días que no se respalda este iPad. Los respaldos se realizan cuando el iPad está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -526,7 +526,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_CH_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad hasn’t been backed up in %@ weeks. Backups happen when this iPad is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">Hace %@ semanas que no se realiza una copia de seguridad de este iPad. Las copias de seguridad se realizan cuando el iPad está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Hace %@ semanas que no se respalda este iPad. Los respaldos se realizan cuando el iPad está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -534,7 +534,7 @@
       <Position>MBS_WIFI_NEEDED_ALERT_TITLE_CH</Position>
       <TranslationSet>
         <base loc="en">Use WLAN to Restore</base>
-        <tran loc="es">Usar WLAN para la restauración</tran>
+        <tran loc="es-419">Usar WLAN para la restauración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -542,7 +542,7 @@
       <Position>INCOMPLETE_SYSTEM_CONFIGURATION</Position>
       <TranslationSet>
         <base loc="en">Configuration settings</base>
-        <tran loc="es">Ajuste de configuración</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -550,7 +550,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_DAYS_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone hasn’t been backed up in %@ days. Backups happen when this iPhone is connected to power, locked, and on Wi-Fi.</base>
-        <tran loc="es">Hace %@ días que no se realiza una copia de seguridad de este iPhone. Las copias de seguridad se realizan cuando el iPhone está enchufado a la corriente, bloqueado y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Hace %@ días que no se respalda este iPhone. Los respaldos se realizan cuando el iPhone está bloqueado y conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -558,7 +558,7 @@
       <Position>RESTORE_COMPLETED_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Restoring Apps and Media</base>
-        <tran loc="es">Restaurando apps y contenidos</tran>
+        <tran loc="es-419">Restaurando apps y contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -566,7 +566,7 @@
       <Position>MBS_RESTORE_WARN_ALERT_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch has not been backed up recently because it has not finished being restored. Would you like to finish downloading any remaining purchases and media before backing up, or delete them along with any app data?</base>
-        <tran loc="es">No hay ninguna copia de seguridad reciente de este iPod touch porque no se ha finalizado su restauración. ¿Quieres completar la descarga de las compras y los contenidos pendientes antes de realizar la copia de seguridad o eliminarlos junto con los datos de las apps?</tran>
+        <tran loc="es-419">No hay ningún respaldo reciente de este iPod touch porque no se finalizó su restauración. ¿Quieres completar la descarga de las compras y los contenidos pendientes antes de realizar el respaldo o eliminarlos junto con los datos de las app?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -574,7 +574,7 @@
       <Position>MISSING_BACKUP_ALERT_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Not Backed Up</base>
-        <tran loc="es">iPad sin copia de seguridad</tran>
+        <tran loc="es-419">iPad sin respaldo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -582,7 +582,7 @@
       <Position>MBCK_RESTORE_WARN_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Continue Restoring?</base>
-        <tran loc="es">¿Continuar restauración?</tran>
+        <tran loc="es-419">¿Continuar restauración?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -590,7 +590,7 @@
       <Position>MBS_RESTORE_WARN_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Continue Restoring?</base>
-        <tran loc="es">¿Continuar restauración?</tran>
+        <tran loc="es-419">¿Continuar restauración?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -598,7 +598,7 @@
       <Position>LOW_DISK_SPACE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -606,7 +606,7 @@
       <Position>MBCK_RESTORE_WARN_ALERT_SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -614,7 +614,7 @@
       <Position>MBS_UNAUTHORIZED_ALERT_SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -622,7 +622,7 @@
       <Position>UNVERIFIED_ACCOUNT_ALERT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -630,7 +630,7 @@
       <Position>LATE_BACKUP_ALERT_DESCRIPTION_DAYS_CH_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad hasn’t been backed up in %@ days. Backups happen when this iPad is connected to power, locked, and on WLAN.</base>
-        <tran loc="es">Hace %@ días que no se realiza una copia de seguridad de este iPad. Las copias de seguridad se realizan cuando el iPad está enchufado a la corriente, bloqueado y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Hace %@ días que no se respalda este iPad. Los respaldos se realizan cuando el iPad está bloqueado y conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
   </File>

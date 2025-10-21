@@ -8,7 +8,7 @@
       <Position>CBMessageAcceptButton</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>CBMessageBody</Position>
       <TranslationSet>
         <base loc="en">New settings required for your device have been installed.</base>
-        <tran loc="es">Se han configurado nuevos ajustes necesarios para tu dispositivo.</tran>
+        <tran loc="es-419">Se instalaron las nuevas configuraciones necesarias para tu dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>CBMessageTitle</Position>
       <TranslationSet>
         <base loc="en">Carrier Settings Updated</base>
-        <tran loc="es">Actualización de los ajustes del operador</tran>
+        <tran loc="es-419">Configuración del operador actualizada</tran>
       </TranslationSet>
     </TextItem>
   </File>

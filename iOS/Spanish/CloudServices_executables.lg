@@ -8,7 +8,7 @@
       <Position>RESET_CONFIRMATION_MESSAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Reset and Turn Off iCloud Keychain?</base>
-        <tran loc="es">¿Restablecer y desactivar el llavero de iCloud?</tran>
+        <tran loc="es-419">¿Restablecer y desactivar el llavero de iCloud?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>CREATENEWCODE</Position>
       <TranslationSet>
         <base loc="en">Create New Code</base>
-        <tran loc="es">Crear nuevo código</tran>
+        <tran loc="es-419">Crear nuevo código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>RESETKEYCHAIN</Position>
       <TranslationSet>
         <base loc="en">Reset &amp; Turn Off Keychain</base>
-        <tran loc="es">Restablecer y desactivar llavero</tran>
+        <tran loc="es-419">Restablecer y desactivar llavero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>DETAILS</Position>
       <TranslationSet>
         <base loc="en">Details</base>
-        <tran loc="es">Detalles</tran>
+        <tran loc="es-419">Detalles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>LEARNMORE</Position>
       <TranslationSet>
         <base loc="en">Learn More</base>
-        <tran loc="es">Más información</tran>
+        <tran loc="es-419">Más información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>UPDATE</Position>
       <TranslationSet>
         <base loc="en">Update</base>
-        <tran loc="es">Actualizar</tran>
+        <tran loc="es-419">Actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>UPDATECODE</Position>
       <TranslationSet>
         <base loc="en">Update Security Code</base>
-        <tran loc="es">Actualizar código de seguridad</tran>
+        <tran loc="es-419">Actualizar código de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>kEscrowSecurityAlertServer</Position>
       <TranslationSet>
         <base loc="en">A new iCloud Security Code must be created.</base>
-        <tran loc="es">Es necesario crear un nuevo código de seguridad de iCloud.</tran>
+        <tran loc="es-419">Es necesario crear un nuevo código de seguridad de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>RESET_CONFIRMATION_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">All passwords in iCloud Keychain will be deleted, and iCloud Keychain will be turned off on all your devices.</base>
-        <tran loc="es">Se eliminarán todas las contraseñas del llavero de iCloud y se desactivará en todos tus dispositivos.</tran>
+        <tran loc="es-419">Se eliminarán todas las contraseñas del llavero de iCloud, y éste se desactivará en todos tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>NOTNOW</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>ESCROW_ELE_ALERT_MESSAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Create New iCloud Security Code</base>
-        <tran loc="es">Crear nuevo código de seguridad de iCloud</tran>
+        <tran loc="es-419">Crear nuevo código de seguridad de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>RECORD_BURNED_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your security code was incorrectly entered too many times on one of your other devices and can no longer be used.</base>
-        <tran loc="es">El código de seguridad se ha introducido demasiadas veces en uno de tus otros dispositivos, por lo que ya no se puede utilizar.</tran>
+        <tran loc="es-419">El código de seguridad se ingresó incorrectamente demasiadas veces en uno de tus otros dispositivos, por lo que ya no se puede utilizar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>LATER</Position>
       <TranslationSet>
         <base loc="en">Later</base>
-        <tran loc="es">Más tarde</tran>
+        <tran loc="es-419">Más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>KEYCHAIN_BACKUP_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Keychain Backup Alert</base>
-        <tran loc="es">Aviso de copia de seguridad del llavero</tran>
+        <tran loc="es-419">Aviso de respaldo del llavero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>RECORD_BURNED_ALERT_MESSAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Update Your iCloud Security Code</base>
-        <tran loc="es">Actualiza el código de seguridad de iCloud</tran>
+        <tran loc="es-419">Actualiza el código de seguridad de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>ICLOUD_KEYCHAIN_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Keychain</base>
-        <tran loc="es">Llavero de iCloud</tran>
+        <tran loc="es-419">Llavero de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>CREATE</Position>
       <TranslationSet>
         <base loc="en">Create</base>
-        <tran loc="es">Crear</tran>
+        <tran loc="es-419">Crear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -159,7 +159,7 @@
       <Position>kEscrowSecurityAlertRecord</Position>
       <TranslationSet>
         <base loc="en">Your previous code was entered incorrectly too many times.</base>
-        <tran loc="es">Has introducido el código anterior incorrectamente demasiadas veces.</tran>
+        <tran loc="es-419">Ingresaste el código anterior incorrectamente demasiadas veces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -167,7 +167,7 @@
       <Position>ESCROW_ELE_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A new security code must be created because of a change to iCloud Keychain servers.</base>
-        <tran loc="es">Es necesario crear un nuevo código de seguridad porque se ha producido un cambio en los servidores del llavero de iCloud.</tran>
+        <tran loc="es-419">Es necesario crear un nuevo código de seguridad porque hubo un cambio en los servidores del llavero de iCloud.</tran>
       </TranslationSet>
     </TextItem>
   </File>

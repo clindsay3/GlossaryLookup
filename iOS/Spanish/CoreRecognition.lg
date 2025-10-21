@@ -8,7 +8,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Error</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Position Card in this Frame</Position>
       <TranslationSet>
         <base loc="en">Position your card in the frame.</base>
-        <tran loc="es">Sitúa la tarjeta en el recuadro.</tran>
+        <tran loc="es-419">Sitúa tu tarjeta dentro del marco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Note</Position>
       <TranslationSet>
         <base loc="en">Note</base>
-        <tran loc="es">Nota</tran>
+        <tran loc="es-419">Nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Success</Position>
       <TranslationSet>
         <base loc="en">Success</base>
-        <tran loc="es">Correcto</tran>
+        <tran loc="es-419">Correcto</tran>
       </TranslationSet>
     </TextItem>
   </File>

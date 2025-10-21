@@ -8,7 +8,7 @@
       <Position>AUDIO_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">Audio Messages</base>
-        <tran loc="es">Mensajes de audio</tran>
+        <tran loc="es-419">Mensajes de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>REPEAT_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Repeat Alerts</base>
-        <tran loc="es">Repetir avisos</tran>
+        <tran loc="es-419">Repetir alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>SEND_READ_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Send Read Receipts</base>
-        <tran loc="es">Notificar lectura</tran>
+        <tran loc="es-419">Notificar lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>DEFAULT_REPLIES</Position>
       <TranslationSet>
         <base loc="en">Default Replies</base>
-        <tran loc="es">Respuestas por omisión</tran>
+        <tran loc="es-419">Respuestas predeterminadas</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -49,7 +49,7 @@
       <Position>READ_RECEIPTS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Allow others to be notified when you have read their messages.</base>
-        <tran loc="es">Permitir que se notifique a los demás cuando hayas leído sus mensajes.</tran>
+        <tran loc="es-419">Permitir que se notifique a los demás cuando hayas leído sus mensajes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>READ_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Send Read Receipts</base>
-        <tran loc="es">Notificar lectura</tran>
+        <tran loc="es-419">Notificar lectura</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -75,7 +75,7 @@
       <Position>ALERT_1_TIME</Position>
       <TranslationSet>
         <base loc="en">Once</base>
-        <tran loc="es">1 vez</tran>
+        <tran loc="es-419">1 vez</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>DONT_SHOW_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Don’t show alerts</base>
-        <tran loc="es">No mostrar avisos</tran>
+        <tran loc="es-419">No mostrar alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -93,7 +93,7 @@
       <Position>REPEAT_ALERT_SUMMARY_BULLET</Position>
       <TranslationSet>
         <base loc="en">• </base>
-        <tran loc="es">• </tran>
+        <tran loc="es-419">• </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -101,7 +101,7 @@
       <Position>ALERT_10_TIMES</Position>
       <TranslationSet>
         <base loc="en">%d Times</base>
-        <tran loc="es">%d veces</tran>
+        <tran loc="es-419">%d veces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -109,7 +109,7 @@
       <Position>ALERT_3_TIMES</Position>
       <TranslationSet>
         <base loc="en">%d Times</base>
-        <tran loc="es">%d veces</tran>
+        <tran loc="es-419">%d veces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -117,7 +117,7 @@
       <Position>ALERT_5_TIMES</Position>
       <TranslationSet>
         <base loc="en">%d Times</base>
-        <tran loc="es">%d veces</tran>
+        <tran loc="es-419">%d veces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -125,7 +125,7 @@
       <Position>REPEAT_ALERT</Position>
       <TranslationSet>
         <base loc="en">Repeat Alerts</base>
-        <tran loc="es">Repetir avisos</tran>
+        <tran loc="es-419">Repetir alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -133,7 +133,7 @@
       <Position>DONT_SEND_READ_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Don’t send read receipts</base>
-        <tran loc="es">No notificar lectura</tran>
+        <tran loc="es-419">No notificar lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -141,7 +141,7 @@
       <Position>REPEAT_ALERT_SUMMARY_COLON</Position>
       <TranslationSet>
         <base loc="en">: </base>
-        <tran loc="es">: </tran>
+        <tran loc="es-419">: </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -149,7 +149,7 @@
       <Position>MADRID_FILTER_LABEL</Position>
       <TranslationSet>
         <base loc="en">Filter Messages</base>
-        <tran loc="es">Filtrar mensajes</tran>
+        <tran loc="es-419">Filtrar mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -157,7 +157,7 @@
       <Position>MADRID_FILTER_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Don’t filter out messages from iMessage addresses that are not in Contacts.</base>
-        <tran loc="es">No se descartarán los mensajes de direcciones de iMessage que no estén en Contactos.</tran>
+        <tran loc="es-419">No filtrar los mensajes de las direcciones de iMessage que no estén en Contactos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -165,7 +165,7 @@
       <Position>SEND_READ_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Send read receipts</base>
-        <tran loc="es">Notificar lectura</tran>
+        <tran loc="es-419">Notificar lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -173,7 +173,7 @@
       <Position>MADRID_FILTER</Position>
       <TranslationSet>
         <base loc="en">Filter out messages from iMessage addresses that are not in Contacts.</base>
-        <tran loc="es">Se descartarán los mensajes de direcciones de iMessage que no estén en Contactos.</tran>
+        <tran loc="es-419">Filtrar los mensajes de las direcciones de iMessage que no estén en Contactos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -181,7 +181,7 @@
       <Position>MADRID_FILTER_ENABLED</Position>
       <TranslationSet>
         <base loc="en">Filter out messages from iMessage addresses that are not in Contacts.</base>
-        <tran loc="es">Se descartarán los mensajes de direcciones de iMessage que no estén en Contactos.</tran>
+        <tran loc="es-419">Filtrar los mensajes de las direcciones de iMessage que no estén en Contactos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -189,7 +189,7 @@
       <Position>DEFAULT_REPLIES_HELP</Position>
       <TranslationSet>
         <base loc="en">You can select one of these default replies when you compose or reply to a message, or you can change them to anything you like.</base>
-        <tran loc="es">Puedes seleccionar una de estas respuestas por omisión cuando escribas o respondas a un mensaje, o puedes cambiarlas por las que quieras.</tran>
+        <tran loc="es-419">Puedes seleccionar una de estas respuestas predeterminadas al redactar o escribir un mensaje, o puedes personalizarlas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -197,7 +197,7 @@
       <Position>ALERT_2_TIMES</Position>
       <TranslationSet>
         <base loc="en">Twice</base>
-        <tran loc="es">2 veces</tran>
+        <tran loc="es-419">2 veces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -212,7 +212,7 @@
       <Position>ALERT_0_TIMES</Position>
       <TranslationSet>
         <base loc="en">Never</base>
-        <tran loc="es">Nunca</tran>
+        <tran loc="es-419">Nunca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -220,7 +220,7 @@
       <Position>NANO_APP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>DEFAULT_REPLIES</Position>
       <TranslationSet>
         <base loc="en">Default Replies</base>
-        <tran loc="es">Respuestas por omisión</tran>
+        <tran loc="es-419">Respuestas predeterminadas</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -239,7 +239,7 @@
       <Position>/NEW_MESSAGES_FORMAT:dict/Messages:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu New Messages</base>
-        <tran loc="es">%lu nuevos</tran>
+        <tran loc="es-419">%lu mensajes nuevos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -247,7 +247,7 @@
       <Position>/NEW_MESSAGES_FORMAT:dict/Messages:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu New Message</base>
-        <tran loc="es">%lu mensaje nuevo</tran>
+        <tran loc="es-419">%lu mensaje nuevo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -255,7 +255,7 @@
       <Position>/UNREAD_MESSAGES_FORMAT:dict/Messages:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No Unread</base>
-        <tran loc="es">0 sin leer</tran>
+        <tran loc="es-419">No leídos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -263,7 +263,7 @@
       <Position>/NEW_MESSAGES_FORMAT:dict/Messages:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No New Messages</base>
-        <tran loc="es">0 mensajes nuevos</tran>
+        <tran loc="es-419">0 mensajes nuevos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -271,7 +271,7 @@
       <Position>/NEW_MESSAGES_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Messages@</base>
-        <tran loc="es">%#@Messages@</tran>
+        <tran loc="es-419">%#@Messages@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -279,7 +279,7 @@
       <Position>/UNREAD_MESSAGES_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Messages@</base>
-        <tran loc="es">%#@Messages@</tran>
+        <tran loc="es-419">%#@Messages@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -287,7 +287,7 @@
       <Position>/UNREAD_MESSAGES_FORMAT:dict/Messages:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Unread</base>
-        <tran loc="es">%lu sin leer</tran>
+        <tran loc="es-419">%lu no leído</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -295,7 +295,7 @@
       <Position>/UNREAD_MESSAGES_FORMAT:dict/Messages:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Unread</base>
-        <tran loc="es">%lu sin leer</tran>
+        <tran loc="es-419">%lu no leídos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -306,7 +306,7 @@
       <Position>DONT_SHOW_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Don’t show alerts</base>
-        <tran loc="es">No mostrar avisos</tran>
+        <tran loc="es-419">No mostrar alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>TRANSCRIPT</Position>
       <TranslationSet>
         <base loc="en">Transcript</base>
-        <tran loc="es">Transcripción</tran>
+        <tran loc="es-419">Transcripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>DONT_SEND_READ_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Don’t send read receipts</base>
-        <tran loc="es">No notificar lectura</tran>
+        <tran loc="es-419">No notificar lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -330,7 +330,7 @@
       <Position>SEND_READ_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Send read receipts</base>
-        <tran loc="es">Notificar lectura</tran>
+        <tran loc="es-419">Notificar lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -338,7 +338,7 @@
       <Position>AUDIO</Position>
       <TranslationSet>
         <base loc="en">Audio</base>
-        <tran loc="es">Audio</tran>
+        <tran loc="es-419">Audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>DICTATED_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">Dictated Messages</base>
-        <tran loc="es">Mensajes dictados</tran>
+        <tran loc="es-419">Mensajes dictados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>DICTATED_MESSAGES_FOOTER</Position>
       <TranslationSet>
         <base loc="en">By default, when you’re done dictating a message, Apple Watch sends a written transcript of what you said. You can change this setting to send an audio clip instead, or to choose which option you want every time you dictate a message.</base>
-        <tran loc="es">Por defecto, después de dictar un mensaje, el Apple Watch envía la transcripción de lo que has dicho. Puedes modificar este ajuste para que se envíe un clip de audio o para elegir la opción que prefieras cada vez que dictes un mensaje.</tran>
+        <tran loc="es-419">De forma predeterminada, el Apple Watch envía una transcripción de lo que hayas terminado de dictar. Puedes reemplazarla con un fragmento de audio o elegir qué opción prefieres cada que dictes un mensaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>DEFAULT_REPLIES_HELP</Position>
       <TranslationSet>
         <base loc="en">You can select one of these default replies when you compose or reply to a message, or you can change them to anything you like.</base>
-        <tran loc="es">Puedes seleccionar una de estas respuestas por omisión cuando escribas o respondas a un mensaje, o puedes cambiarlas por las que quieras.</tran>
+        <tran loc="es-419">Puedes seleccionar una de estas respuestas predeterminadas al redactar o escribir un mensaje, o puedes personalizarlas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>NANO_APP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>DEFAULT_REPLIES</Position>
       <TranslationSet>
         <base loc="en">Default Replies</base>
-        <tran loc="es">Respuestas por omisión</tran>
+        <tran loc="es-419">Respuestas predeterminadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>TRANSCRIPT_OR_AUDIO</Position>
       <TranslationSet>
         <base loc="en">Transcript or Audio</base>
-        <tran loc="es">Transcripción o audio</tran>
+        <tran loc="es-419">Transcripción o audio</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -410,7 +410,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -421,7 +421,7 @@
       <Position>UTILITY_UNLOCK_TO_VIEW</Position>
       <TranslationSet>
         <base loc="en">UNLOCK TO VIEW</base>
-        <tran loc="es">DESBLOQUEAR</tran>
+        <tran loc="es-419">DESBLOQUEAR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>99+_UNREAD</Position>
       <TranslationSet>
         <base loc="en">%1$ld+</base>
-        <tran loc="es">+%1$ld</tran>
+        <tran loc="es-419">%1$ld+</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -443,7 +443,7 @@
       <Position>MESSAGES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
   </File>

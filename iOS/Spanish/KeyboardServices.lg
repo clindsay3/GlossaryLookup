@@ -8,7 +8,7 @@
       <Position>DefaultPhrase</Position>
       <TranslationSet>
         <base loc="en">On my way!</base>
-        <tran loc="es">porque</tran>
+        <tran loc="es-419">porque</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>DefaultShortcut</Position>
       <TranslationSet>
         <base loc="en">omw</base>
-        <tran loc="es">pq</tran>
+        <tran loc="es-419">pq</tran>
       </TranslationSet>
     </TextItem>
   </File>

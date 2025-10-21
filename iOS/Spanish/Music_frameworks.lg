@@ -8,7 +8,7 @@
       <Position>/%d Minute(s):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Minutes@</base>
-        <tran loc="es">%#@Minutes@</tran>
+        <tran loc="es-419">%#@Minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/%d Minute(s):dict/Minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Minutes</base>
-        <tran loc="es">%d minutos</tran>
+        <tran loc="es-419">%d minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/%d Song(s):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Songs@</base>
-        <tran loc="es">%#@Songs@</tran>
+        <tran loc="es-419">%#@Songs@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>/%d Song(s):dict/Songs:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Songs</base>
-        <tran loc="es">%d canciones</tran>
+        <tran loc="es-419">%d canciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>/%d Song(s):dict/Songs:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Song</base>
-        <tran loc="es">%d canción</tran>
+        <tran loc="es-419">%d canción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>/%d Minute(s):dict/Minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Minute</base>
-        <tran loc="es">%d minuto</tran>
+        <tran loc="es-419">%d minuto</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -59,7 +59,7 @@
       <Position>Album</Position>
       <TranslationSet>
         <base loc="en">Album</base>
-        <tran loc="es">Álbum</tran>
+        <tran loc="es-419">Álbum</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>DISLIKE_TRACK_DEFAULT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Dislike This Track</base>
-        <tran loc="es">No me gusta esta pista</tran>
+        <tran loc="es-419">No te gusta esta pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>More cell</Position>
       <TranslationSet>
         <base loc="en">Ask Siri for More While Driving</base>
-        <tran loc="es">Pídele más a Siri mientras conduces</tran>
+        <tran loc="es-419">Pídele más a Siri mientras manejas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>Try Again</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>Song</Position>
       <TranslationSet>
         <base loc="en">Song</base>
-        <tran loc="es">Canción</tran>
+        <tran loc="es-419">Canción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>UNKNOWN_ALBUM_ARTIST</Position>
       <TranslationSet>
         <base loc="en">Unknown Artist</base>
-        <tran loc="es">Artista desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>ALBUM_DETAIL_FORMAT_FULL</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>Unable to connect to “%@.”</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to “%@.”</base>
-        <tran loc="es">No se ha podido establecer conexión con %@.</tran>
+        <tran loc="es-419">No se puede conectar con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>PLAYBACK_RATE_SPEED_HALF</Position>
       <TranslationSet>
         <base loc="en">½×</base>
-        <tran loc="es">×½</tran>
+        <tran loc="es-419">½×</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>POSITION_IN_PLAYLIST_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ of %2$@</base>
-        <tran loc="es">%1$@ de %2$@</tran>
+        <tran loc="es-419">%1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>MUSIC_LIMITED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Music access is limited</base>
-        <tran loc="es">Acceso limitado a la música</tran>
+        <tran loc="es-419">Acceso limitado a Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>RECENTLY_PLAYED_GENRES</Position>
       <TranslationSet>
         <base loc="en">Recently Played Genres</base>
-        <tran loc="es">Géneros reproducidos recientemente</tran>
+        <tran loc="es-419">Géneros escuchados recientemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>Now Playing tab</Position>
       <TranslationSet>
         <base loc="en">Now\nPlaying</base>
-        <tran loc="es">En\nreproducción</tran>
+        <tran loc="es-419">Ahora\nsuena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>LIVE_STREAMING</Position>
       <TranslationSet>
         <base loc="en">Live Streaming</base>
-        <tran loc="es">Transmisión en directo</tran>
+        <tran loc="es-419">Transmisión en vivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>PLAYBACK_RATE_SPEED_THREE_QUARTERS</Position>
       <TranslationSet>
         <base loc="en">¾×</base>
-        <tran loc="es">×0,75</tran>
+        <tran loc="es-419">¾×</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>iAd</Position>
       <TranslationSet>
         <base loc="en">iAd</base>
-        <tran loc="es">iAd</tran>
+        <tran loc="es-419">iAd</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>RECENTLY_PLAYED_ARTISTS</Position>
       <TranslationSet>
         <base loc="en">Recently Played Artists</base>
-        <tran loc="es">Artistas reproducidos recientemente</tran>
+        <tran loc="es-419">Artistas escuchados recientemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>STATION_UNAVAILABLE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Station Unavailable</base>
-        <tran loc="es">Emisora no disponible</tran>
+        <tran loc="es-419">Estación no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>ADD_STATION_FAILED_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A station cannot be started with this song.</base>
-        <tran loc="es">No se puede iniciar una emisora con esta canción.</tran>
+        <tran loc="es-419">No se puede iniciar una estación con esta canción.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>PLAYBACK_RATE</Position>
       <TranslationSet>
         <base loc="en">%@×</base>
-        <tran loc="es">×%@</tran>
+        <tran loc="es-419">%@×</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -236,7 +236,7 @@
       <Position>NO_CONTENT_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Find your favorites in iTunes, then come back and enjoy them here.</base>
-        <tran loc="es">Busca tus temas favoritos en iTunes y, a continuación, vuelve aquí para disfrutar de ellos.</tran>
+        <tran loc="es-419">Busca tus favoritas en iTunes y vuelve para disfrutarlas aquí.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +244,7 @@
       <Position>LIKE_TRACK_DEFAULT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Like This Track</base>
-        <tran loc="es">Me gusta esta pista</tran>
+        <tran loc="es-419">Me gusta esta pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +252,7 @@
       <Position>Featured Stations</Position>
       <TranslationSet>
         <base loc="en">Featured Stations</base>
-        <tran loc="es">Emisoras destacadas</tran>
+        <tran loc="es-419">Estaciones destacadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -260,7 +260,7 @@
       <Position>Now Playing</Position>
       <TranslationSet>
         <base loc="en">Now Playing</base>
-        <tran loc="es">En reproducción</tran>
+        <tran loc="es-419">Ahora suena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -268,7 +268,7 @@
       <Position>An Error Occurred</Position>
       <TranslationSet>
         <base loc="en">An Error Occurred</base>
-        <tran loc="es">Se ha producido un error</tran>
+        <tran loc="es-419">Ocurrió un error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -276,7 +276,7 @@
       <Position>STATION_UNAVAILABLE_ALERT_BODY_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ is temporarily unavailable. Try again later.</base>
-        <tran loc="es">%@ no está disponible temporalmente. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">%@ no está disponible temporalmente. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -284,7 +284,7 @@
       <Position>PROGRESS_TIME_WITH_NEGATIVE_PREFIX</Position>
       <TranslationSet>
         <base loc="en">-%@</base>
-        <tran loc="es">-%@</tran>
+        <tran loc="es-419">-%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -292,7 +292,7 @@
       <Position>RECENTLY_PLAYED_ALBUMS</Position>
       <TranslationSet>
         <base loc="en">Recently Played Albums</base>
-        <tran loc="es">Álbumes reproducidos recientemente</tran>
+        <tran loc="es-419">Álbumes escuchados recientemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -300,7 +300,7 @@
       <Position>PROMINENT_STATION_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Worldwide. Always On.</base>
-        <tran loc="es">En todo el mundo. A todas horas.</tran>
+        <tran loc="es-419">En todo el mundo, a toda hora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -308,7 +308,7 @@
       <Position>LOADING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -316,7 +316,7 @@
       <Position>FUSE_CELLULAR_DATA_RESTRICTED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cellular data for streaming is off</base>
-        <tran loc="es">Los datos móviles están desactivados para la transmisión</tran>
+        <tran loc="es-419">Datos celulares desactivados para transmitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -324,7 +324,7 @@
       <Position>ERROR_LOADING_ITEM</Position>
       <TranslationSet>
         <base loc="en">There was a problem loading this content.</base>
-        <tran loc="es">Se ha producido un problema al cargar este contenido.</tran>
+        <tran loc="es-419">Ocurrió un problema al cargar este contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -332,7 +332,7 @@
       <Position>PLAYBACK_RATE_SPEED_ONE_AND_QUARTER</Position>
       <TranslationSet>
         <base loc="en">1¼×</base>
-        <tran loc="es">×1,25</tran>
+        <tran loc="es-419">1¼×</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -340,7 +340,7 @@
       <Position>RECENTLY_PLAYED_SONGS</Position>
       <TranslationSet>
         <base loc="en">Recently Played Songs</base>
-        <tran loc="es">Canciones reproducidas recientemente</tran>
+        <tran loc="es-419">Canciones escuchadas recientemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -348,7 +348,7 @@
       <Position>PLAYBACK_RATE_SPEED_ONE_AND_HALF</Position>
       <TranslationSet>
         <base loc="en">1½×</base>
-        <tran loc="es">×1½</tran>
+        <tran loc="es-419">1½×</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -356,7 +356,7 @@
       <Position>All Genres</Position>
       <TranslationSet>
         <base loc="en">All Genres</base>
-        <tran loc="es">Todos los géneros</tran>
+        <tran loc="es-419">Todos los géneros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -364,7 +364,7 @@
       <Position>NO_CONTENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Don’t Miss a Beat</base>
-        <tran loc="es">No pierdas el ritmo</tran>
+        <tran loc="es-419">No pierdas el ritmo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -372,7 +372,7 @@
       <Position>ADD_STATION_FAILED_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to Start Station</base>
-        <tran loc="es">Imposible iniciar la emisora</tran>
+        <tran loc="es-419">No se pudo iniciar la estación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -380,7 +380,7 @@
       <Position>FUSE_TIMEOUT_TITLE</Position>
       <TranslationSet>
         <base loc="en">There was a problem connecting to Apple Music.</base>
-        <tran loc="es">No se ha podido establecer conexión con Apple Music.</tran>
+        <tran loc="es-419">No se pudo conectar con Apple Music.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -388,7 +388,7 @@
       <Position>%@ — %@</Position>
       <TranslationSet>
         <base loc="en">%1$@ — %2$@</base>
-        <tran loc="es">%1$@ — %2$@</tran>
+        <tran loc="es-419">%1$@ — %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -396,7 +396,7 @@
       <Position>AppName_PlaybackQueue</Position>
       <TranslationSet>
         <base loc="en">%1$@ — %2$@</base>
-        <tran loc="es">%1$@ — %2$@</tran>
+        <tran loc="es-419">%1$@ — %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -404,7 +404,7 @@
       <Position>Add to Library</Position>
       <TranslationSet>
         <base loc="en">Add to Library</base>
-        <tran loc="es">Añadir a la biblioteca</tran>
+        <tran loc="es-419">Agregar a la biblioteca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -412,7 +412,7 @@
       <Position>RECENTLY_PLAYED_PLAYLISTS</Position>
       <TranslationSet>
         <base loc="en">Recently Played Playlists</base>
-        <tran loc="es">Listas reproducidas recientemente</tran>
+        <tran loc="es-419">Playlists escuchadas recientemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -420,7 +420,7 @@
       <Position>,\n</Position>
       <TranslationSet>
         <base loc="en">,\n</base>
-        <tran loc="es">,\n</tran>
+        <tran loc="es-419">,\n</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -428,7 +428,7 @@
       <Position>PLAYBACK_QUEUE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Up Next</base>
-        <tran loc="es">A continuación</tran>
+        <tran loc="es-419">A continuación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -436,7 +436,7 @@
       <Position>RECENTLY_PLAYED_COMPOSERS</Position>
       <TranslationSet>
         <base loc="en">Recently Played Composers</base>
-        <tran loc="es">Compositores reproducidos recientemente</tran>
+        <tran loc="es-419">Compositores escuchados recientemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -444,7 +444,7 @@
       <Position>There was a problem loading %@.</Position>
       <TranslationSet>
         <base loc="en">There was a problem loading %@.</base>
-        <tran loc="es">Ha ocurrido un problema al cargar %@.</tran>
+        <tran loc="es-419">Ocurrió un problema al cargar %@.</tran>
       </TranslationSet>
     </TextItem>
   </File>

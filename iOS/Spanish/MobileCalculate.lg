@@ -8,7 +8,7 @@
       <Position>/UnitPluralSupport_squareinch:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square inch</base>
-        <tran loc="es">%g pulgada cuadrada</tran>
+        <tran loc="es-419">%g pulgada cuadrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/UnitPluralSupport_footpersecond:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g foot per second</base>
-        <tran loc="es">%g pie por segundo</tran>
+        <tran loc="es-419">%g pie por segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/UnitPluralSupport_teaspoon:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g teaspoon</base>
-        <tran loc="es">%g cucharadita</tran>
+        <tran loc="es-419">%g cuchara cafetera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>/UnitPluralSupport_kilowatt:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilowatt</base>
-        <tran loc="es">%g kilovatio</tran>
+        <tran loc="es-419">%g kilowatt</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>/UnitPluralSupport_Torr:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g Torrs</base>
-        <tran loc="es">%g milímetros de mercurio</tran>
+        <tran loc="es-419">%g torrs</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>/UnitPluralSupport_cup:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g cup</base>
-        <tran loc="es">%g taza</tran>
+        <tran loc="es-419">%g taza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>/UnitPluralSupport_fluiddram:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g fluid drams</base>
-        <tran loc="es">%g dracmas líquidos</tran>
+        <tran loc="es-419">%g dracmas líquidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>/UnitPluralSupport_newtonmeter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g newton meters</base>
-        <tran loc="es">%g newton metros</tran>
+        <tran loc="es-419">%g newtons-metros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>/UnitPluralSupport_squarefoot:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square foot</base>
-        <tran loc="es">%g pie cuadrado</tran>
+        <tran loc="es-419">%g pies cuadrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>/UnitPluralSupport_second:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g seconds</base>
-        <tran loc="es">%g segundos</tran>
+        <tran loc="es-419">%g segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>/UnitPluralSupport_byte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g byte</base>
-        <tran loc="es">%g byte</tran>
+        <tran loc="es-419">%g byte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>/UnitPluralSupport_cubiccentimeter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g cubic centimeters</base>
-        <tran loc="es">%g centímetros cúbicos</tran>
+        <tran loc="es-419">%g centímetros cúbicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>/UnitPluralSupport_kilobyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilobytes</base>
-        <tran loc="es">%g kilobytes</tran>
+        <tran loc="es-419">%g kilobytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>/UnitPluralSupport_hectare:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g hectares</base>
-        <tran loc="es">%g hectáreas</tran>
+        <tran loc="es-419">%g hectáreas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>/UnitPluralSupport_foot:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g feet</base>
-        <tran loc="es">%g pies</tran>
+        <tran loc="es-419">%g pies</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>/UnitPluralSupport_meter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g meters</base>
-        <tran loc="es">%g metros</tran>
+        <tran loc="es-419">%g metros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>/UnitPluralSupport_mebibyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g mebibytes</base>
-        <tran loc="es">%g mebibytes</tran>
+        <tran loc="es-419">%g mebibytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>/UnitPluralSupport_shortton:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g short ton</base>
-        <tran loc="es">%g tonelada corta</tran>
+        <tran loc="es-419">%g tonelada corta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>/UnitPluralSupport_liter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g liter</base>
-        <tran loc="es">%g litro</tran>
+        <tran loc="es-419">%g litro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>/UnitPluralSupport_calorie:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g calorie</base>
-        <tran loc="es">%g caloría</tran>
+        <tran loc="es-419">%g caloría</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>/UnitPluralSupport_Pascal:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g Pascals</base>
-        <tran loc="es">%g pascales</tran>
+        <tran loc="es-419">%g pascales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>/UnitPluralSupport_day:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g days</base>
-        <tran loc="es">%g días</tran>
+        <tran loc="es-419">%g días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>/UnitPluralSupport_stone:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g stone</base>
-        <tran loc="es">%g stone</tran>
+        <tran loc="es-419">%g stone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>/UnitPluralSupport_kilopascal:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilopascal</base>
-        <tran loc="es">%g kilopascal</tran>
+        <tran loc="es-419">%g kilopascal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>/UnitPluralSupport_milliliter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g milliliter</base>
-        <tran loc="es">%g mililitro</tran>
+        <tran loc="es-419">%g mililitro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>/UnitPluralSupport_kilometerperhour:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilometer per hour</base>
-        <tran loc="es">%g kilómetro por hora</tran>
+        <tran loc="es-419">%g kilómetro por hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>/UnitPluralSupport_kelvin:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kelvins</base>
-        <tran loc="es">%g kélvines</tran>
+        <tran loc="es-419">%g kelvin</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>/UnitPluralSupport_millimeter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g millimeters</base>
-        <tran loc="es">%g milímetros</tran>
+        <tran loc="es-419">%g milímetros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>/UnitPluralSupport_calorie:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g calories</base>
-        <tran loc="es">%g calorías</tran>
+        <tran loc="es-419">%g calorías</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>/UnitPluralSupport_gibibyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gibibyte</base>
-        <tran loc="es">%g gibibyte</tran>
+        <tran loc="es-419">%g gibibyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>/UnitPluralSupport_megabyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g megabytes</base>
-        <tran loc="es">%g megabytes</tran>
+        <tran loc="es-419">%g megabytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>/UnitPluralSupport_acre:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g acre</base>
-        <tran loc="es">%g acre</tran>
+        <tran loc="es-419">%g acre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>/UnitPluralSupport_day:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g day</base>
-        <tran loc="es">%g día</tran>
+        <tran loc="es-419">%g día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>/UnitPluralSupport_gallonper100miles:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gallon per 100 miles</base>
-        <tran loc="es">%g galón por 100 millas</tran>
+        <tran loc="es-419">%g galón por 100 millas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>/UnitPluralSupport_parsec:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g parsecs</base>
-        <tran loc="es">%g parsecs</tran>
+        <tran loc="es-419">%g pársecs</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>/UnitPluralSupport_nanosecond:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g nanoseconds</base>
-        <tran loc="es">%g nanosegundos</tran>
+        <tran loc="es-419">%g nanosegundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>/UnitPluralSupport_squareyard:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square yard</base>
-        <tran loc="es">%g yarda cuadrada</tran>
+        <tran loc="es-419">%g yarda cuadrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>/UnitPluralSupport_kilometer:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilometer</base>
-        <tran loc="es">%g kilómetro</tran>
+        <tran loc="es-419">%g kilómetro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>/UnitPluralSupport_petabyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g petabyte</base>
-        <tran loc="es">%g petabyte</tran>
+        <tran loc="es-419">%g petabyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>/UnitPluralSupport_kilogram:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilograms</base>
-        <tran loc="es">%g kilogramos</tran>
+        <tran loc="es-419">%g kilogramos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>/UnitPluralSupport_kilopascal:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilopascals</base>
-        <tran loc="es">%g kilopascales</tran>
+        <tran loc="es-419">%g kilopascales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>/UnitPluralSupport_kilowatthour:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilowatt hours</base>
-        <tran loc="es">%g kilovatios hora</tran>
+        <tran loc="es-419">%g kilowatt-horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>/UnitPluralSupport_kilogram:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilogram</base>
-        <tran loc="es">%g kilogramo</tran>
+        <tran loc="es-419">%g kilogramo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>/UnitPluralSupport_squarekilometer:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square kilometers</base>
-        <tran loc="es">%g kilómetros cuadrados</tran>
+        <tran loc="es-419">%g kilómetros cuadrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>/UnitPluralSupport_gallonper100miles:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gallons per 100 miles</base>
-        <tran loc="es">%g galones por 100 millas</tran>
+        <tran loc="es-419">%g galones por 100 millas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>/UnitPluralSupport_shortton:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g short tons</base>
-        <tran loc="es">%g toneladas cortas</tran>
+        <tran loc="es-419">%g toneladas cortas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>/UnitPluralSupport_pound:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g pounds</base>
-        <tran loc="es">%g libras</tran>
+        <tran loc="es-419">%g libras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>/UnitPluralSupport_kibibyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kibibytes</base>
-        <tran loc="es">%g kibibytes</tran>
+        <tran loc="es-419">%g kibibytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>/UnitPluralSupport_squareyard:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square yards</base>
-        <tran loc="es">%g yardas cuadradas</tran>
+        <tran loc="es-419">%g yardas cuadradas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>/UnitPluralSupport_pebibyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g pebibyte</base>
-        <tran loc="es">%g pebibyte</tran>
+        <tran loc="es-419">%g pebibyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>/UnitPluralSupport_kilometerperhour:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilometers per hour</base>
-        <tran loc="es">%g kilómetros por hora</tran>
+        <tran loc="es-419">%g kilómetros por hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>/UnitPluralSupport_year:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g year</base>
-        <tran loc="es">%g año</tran>
+        <tran loc="es-419">%g año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>/UnitPluralSupport_squaremillimeter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square millimeters</base>
-        <tran loc="es">%g milímetros cuadrados</tran>
+        <tran loc="es-419">%g milímetros cuadrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>/UnitPluralSupport_tablespoon:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g tablespoons</base>
-        <tran loc="es">%g cucharadas</tran>
+        <tran loc="es-419">%g cucharas soperas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>/UnitPluralSupport_meter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g meter</base>
-        <tran loc="es">%g metro</tran>
+        <tran loc="es-419">%g metro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>/UnitPluralSupport_kilocalorie:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilocalorie</base>
-        <tran loc="es">%g kilocaloría</tran>
+        <tran loc="es-419">%g kilocaloría</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>/UnitPluralSupport_PSI:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g PSIs</base>
-        <tran loc="es">%g psi</tran>
+        <tran loc="es-419">%g PSI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>/UnitPluralSupport_milliliter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g milliliters</base>
-        <tran loc="es">%g mililitros</tran>
+        <tran loc="es-419">%g mililitros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>/UnitPluralSupport_ounce:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g ounce</base>
-        <tran loc="es">%g onza</tran>
+        <tran loc="es-419">%g onza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>/UnitPluralSupport_lightyear:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g light years</base>
-        <tran loc="es">%g años luz</tran>
+        <tran loc="es-419">%g años luz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>/UnitPluralSupport_cubicmeter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g cubic meters</base>
-        <tran loc="es">%g metros cúbicos</tran>
+        <tran loc="es-419">%g metros cúbicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>/UnitPluralSupport_gram:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g grams</base>
-        <tran loc="es">%g gramos</tran>
+        <tran loc="es-419">%g gramos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>/UnitPluralSupport_hectare:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g hectare</base>
-        <tran loc="es">%g hectárea</tran>
+        <tran loc="es-419">%g hectárea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>/UnitPluralSupport_microsecond:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g microseconds</base>
-        <tran loc="es">%g microsegundos</tran>
+        <tran loc="es-419">%g microsegundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>/UnitPluralSupport_stremma:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g stremmas</base>
-        <tran loc="es">%g stremmas</tran>
+        <tran loc="es-419">%g stremmas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>/UnitPluralSupport_milligram:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g milligrams</base>
-        <tran loc="es">%g miligramos</tran>
+        <tran loc="es-419">%g miligramos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>/UnitPluralSupport_squaremeter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square meters</base>
-        <tran loc="es">%g metros cuadrados</tran>
+        <tran loc="es-419">%g metros cuadrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>/UnitPluralSupport_mile:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g mile</base>
-        <tran loc="es">%g milla</tran>
+        <tran loc="es-419">%g milla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>/UnitPluralSupport_hour:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g hours</base>
-        <tran loc="es">%g horas</tran>
+        <tran loc="es-419">%g horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>/UnitPluralSupport_footpound:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g foot pound</base>
-        <tran loc="es">%g pie libra</tran>
+        <tran loc="es-419">%g pie-libra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>/UnitPluralSupport_kilowatthour:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilowatt hour</base>
-        <tran loc="es">%g kilovatio hora</tran>
+        <tran loc="es-419">%g kilowatt-hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>/UnitPluralSupport_stremma:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g stremma</base>
-        <tran loc="es">%g stremma</tran>
+        <tran loc="es-419">%g stremma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>/UnitPluralSupport_BTUperminute:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g BTUs per minute</base>
-        <tran loc="es">%g BTU por minuto</tran>
+        <tran loc="es-419">%g UTB por minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>/UnitPluralSupport_mebibyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g mebibyte</base>
-        <tran loc="es">%g mebibyte</tran>
+        <tran loc="es-419">%g mebibyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>/UnitPluralSupport_mileperhour:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g miles per hour</base>
-        <tran loc="es">%g millas por hora</tran>
+        <tran loc="es-419">%g millas por hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>/UnitPluralSupport_millimeter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g millimeter</base>
-        <tran loc="es">%g milímetro</tran>
+        <tran loc="es-419">%g milímetro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>/UnitPluralSupport_literper100kilometers:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g liters per 100 kilometers</base>
-        <tran loc="es">%g litros por 100 kilómetros</tran>
+        <tran loc="es-419">%g litros por 100 kilómetros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>/UnitPluralSupport_liter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g liters</base>
-        <tran loc="es">%g litros</tran>
+        <tran loc="es-419">%g litros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>/UnitPluralSupport_kilometerperliter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilometers per liter</base>
-        <tran loc="es">%g kilómetros por litro</tran>
+        <tran loc="es-419">%g kilómetros por litro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>/UnitPluralSupport_are:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g ares</base>
-        <tran loc="es">%g áreas</tran>
+        <tran loc="es-419">%g áreas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>/UnitPluralSupport_byte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g bytes</base>
-        <tran loc="es">%g bytes</tran>
+        <tran loc="es-419">%g bytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>/UnitPluralSupport_mile:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g miles</base>
-        <tran loc="es">%g millas</tran>
+        <tran loc="es-419">%g millas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>/UnitPluralSupport_terabyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g terabyte</base>
-        <tran loc="es">%g terabyte</tran>
+        <tran loc="es-419">%g terabyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>/UnitPluralSupport_milepergallon:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g miles per gallon</base>
-        <tran loc="es">%g millas por galón</tran>
+        <tran loc="es-419">%g millas por galón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>/UnitPluralSupport_cubicfoot:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g cubic foot</base>
-        <tran loc="es">%g pie cúbico</tran>
+        <tran loc="es-419">%g pie cúbico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>/UnitPluralSupport_metrictonne:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g metric tonne</base>
-        <tran loc="es">%g tonelada métrica</tran>
+        <tran loc="es-419">%g tonelada métrica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>/UnitPluralSupport_squarecentimeter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square centimeter</base>
-        <tran loc="es">%g centímetro cuadrado</tran>
+        <tran loc="es-419">%g centímetro cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>/UnitPluralSupport_slug:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g slugs</base>
-        <tran loc="es">%g slugs</tran>
+        <tran loc="es-419">%g slugs</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>/UnitPluralSupport_meterpersecond:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g meter per second</base>
-        <tran loc="es">%g metro por segundo</tran>
+        <tran loc="es-419">%g metro por segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>/UnitPluralSupport_ounce:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g ounces</base>
-        <tran loc="es">%g onzas</tran>
+        <tran loc="es-419">%g onzas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>/UnitPluralSupport_HP:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g HPs</base>
-        <tran loc="es">%g HP</tran>
+        <tran loc="es-419">%g caballos de fuerza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>/UnitPluralSupport_tablespoon:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g tablespoon</base>
-        <tran loc="es">%g cucharada</tran>
+        <tran loc="es-419">%g cuchara sopera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>/UnitPluralSupport_cubiccentimeter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g cubic centimeter</base>
-        <tran loc="es">%g centímetro cúbico</tran>
+        <tran loc="es-419">%g centímetro cúbico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>/UnitPluralSupport_week:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g weeks</base>
-        <tran loc="es">%g semanas</tran>
+        <tran loc="es-419">%g semanas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>/UnitPluralSupport_year:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g years</base>
-        <tran loc="es">%g años</tran>
+        <tran loc="es-419">%g años</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>/UnitPluralSupport_centimeter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g centimeters</base>
-        <tran loc="es">%g centímetros</tran>
+        <tran loc="es-419">%g centímetros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>/UnitPluralSupport_centimeter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g centimeter</base>
-        <tran loc="es">%g centímetro</tran>
+        <tran loc="es-419">%g centímetro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>/UnitPluralSupport_squaremeter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square meter</base>
-        <tran loc="es">%g metro cuadrado</tran>
+        <tran loc="es-419">%g metro cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>/UnitPluralSupport_quart:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g quart</base>
-        <tran loc="es">%g cuarto</tran>
+        <tran loc="es-419">%g cuarto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>/UnitPluralSupport_britishthermalunit:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g british thermal units</base>
-        <tran loc="es">%g unidades térmicas británicas</tran>
+        <tran loc="es-419">%g unidades térmicas británicas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>/UnitPluralSupport_metrictonne:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g metric tonnes</base>
-        <tran loc="es">%g toneladas métricas</tran>
+        <tran loc="es-419">%g toneladas métricas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>/UnitPluralSupport_longton:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g long ton</base>
-        <tran loc="es">%g tonelada larga</tran>
+        <tran loc="es-419">%g tonelada larga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>/UnitPluralSupport_footpound:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g foot pounds</base>
-        <tran loc="es">%g pies libra</tran>
+        <tran loc="es-419">%g pies-libras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>/UnitPluralSupport_teaspoon:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g teaspoons</base>
-        <tran loc="es">%g cucharaditas</tran>
+        <tran loc="es-419">%g cucharas cafeteras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>/UnitPluralSupport_pound:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g pound</base>
-        <tran loc="es">%g libra</tran>
+        <tran loc="es-419">%g libra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>/UnitPluralSupport_squaremile:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square mile</base>
-        <tran loc="es">%g milla cuadrada</tran>
+        <tran loc="es-419">%g milla cuadrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>/UnitPluralSupport_lightyear:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g light year</base>
-        <tran loc="es">%g año luz</tran>
+        <tran loc="es-419">%g año luz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>/UnitPluralSupport_knot:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g knots</base>
-        <tran loc="es">%g nudos</tran>
+        <tran loc="es-419">%g nudos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>/UnitPluralSupport_nauticalmile:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g nautical miles</base>
-        <tran loc="es">%g millas náuticas</tran>
+        <tran loc="es-419">%g millas náuticas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>/UnitPluralSupport_cubicfoot:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g cubic feet</base>
-        <tran loc="es">%g pies cúbicos</tran>
+        <tran loc="es-419">%g pies cúbicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>/UnitPluralSupport_squaremillimeter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square millimeter</base>
-        <tran loc="es">%g milímetro cuadrado</tran>
+        <tran loc="es-419">%g milímetro cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>/UnitPluralSupport_PSI:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g PSI</base>
-        <tran loc="es">%g psi</tran>
+        <tran loc="es-419">%g PSI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>/UnitPluralSupport_Pascal:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g Pascal</base>
-        <tran loc="es">%g pascal</tran>
+        <tran loc="es-419">%g pascal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>/UnitPluralSupport_Torr:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g Torr</base>
-        <tran loc="es">%g milímetro de mercurio</tran>
+        <tran loc="es-419">%g torr</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>/UnitPluralSupport_acre:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g acres</base>
-        <tran loc="es">%g acres</tran>
+        <tran loc="es-419">%g acres</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +928,7 @@
       <Position>/UnitPluralSupport_millisecond:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g millisecond</base>
-        <tran loc="es">%g milisegundo</tran>
+        <tran loc="es-419">%g milisegundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +936,7 @@
       <Position>/UnitPluralSupport_gram:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gram</base>
-        <tran loc="es">%g gramo</tran>
+        <tran loc="es-419">%g gramo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +944,7 @@
       <Position>/UnitPluralSupport_atmosphere:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g atmospheres</base>
-        <tran loc="es">%g atmósferas</tran>
+        <tran loc="es-419">%g atmósferas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +952,7 @@
       <Position>/UnitPluralSupport_millisecond:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g milliseconds</base>
-        <tran loc="es">%g milisegundos</tran>
+        <tran loc="es-419">%g milisegundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +960,7 @@
       <Position>/UnitPluralSupport_squareinch:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square inches</base>
-        <tran loc="es">%g pulgadas cuadradas</tran>
+        <tran loc="es-419">%g pulgadas cuadradas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -968,7 +968,7 @@
       <Position>/UnitPluralSupport_watt:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g watts</base>
-        <tran loc="es">%g vatios</tran>
+        <tran loc="es-419">%g watts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -976,7 +976,7 @@
       <Position>/UnitPluralSupport_milepergallon:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g mile per gallon</base>
-        <tran loc="es">%g milla por galón</tran>
+        <tran loc="es-419">%g milla por galón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -984,7 +984,7 @@
       <Position>/UnitPluralSupport_kibibyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kibibyte</base>
-        <tran loc="es">%g kibibyte</tran>
+        <tran loc="es-419">%g kibibyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -992,7 +992,7 @@
       <Position>/UnitPluralSupport_bar:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g bar</base>
-        <tran loc="es">%g bar</tran>
+        <tran loc="es-419">%g bar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1000,7 +1000,7 @@
       <Position>/UnitPluralSupport_gigabyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gigabytes</base>
-        <tran loc="es">%g gigabytes</tran>
+        <tran loc="es-419">%g gigabytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1008,7 +1008,7 @@
       <Position>/UnitPluralSupport_yard:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g yards</base>
-        <tran loc="es">%g yardas</tran>
+        <tran loc="es-419">%g yardas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1016,7 +1016,7 @@
       <Position>/UnitPluralSupport_HP:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g HP</base>
-        <tran loc="es">%g HP</tran>
+        <tran loc="es-419">%g caballo de fuerza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1024,7 +1024,7 @@
       <Position>/UnitPluralSupport_newtonmeter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g newton meter</base>
-        <tran loc="es">%g newton metro</tran>
+        <tran loc="es-419">%g newton-metro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1032,7 +1032,7 @@
       <Position>/UnitPluralSupport_second:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g second</base>
-        <tran loc="es">%g segundo</tran>
+        <tran loc="es-419">%g segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1040,7 +1040,7 @@
       <Position>/UnitPluralSupport_gibibyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gibibytes</base>
-        <tran loc="es">%g gibibytes</tran>
+        <tran loc="es-419">%g gibibytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1048,7 +1048,7 @@
       <Position>/UnitPluralSupport_squaremile:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square miles</base>
-        <tran loc="es">%g millas cuadradas</tran>
+        <tran loc="es-419">%g millas cuadradas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1056,7 +1056,7 @@
       <Position>/UnitPluralSupport_squarekilometer:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square kilometer</base>
-        <tran loc="es">%g kilómetro cuadrado</tran>
+        <tran loc="es-419">%g kilómetro cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1064,7 @@
       <Position>/UnitPluralSupport_bit:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g bit</base>
-        <tran loc="es">%g bit</tran>
+        <tran loc="es-419">%g bit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1072,7 +1072,7 @@
       <Position>/UnitPluralSupport_celsius:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g ℃</base>
-        <tran loc="es">%g ℃</tran>
+        <tran loc="es-419">%g ℃</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1080,7 +1080,7 @@
       <Position>/UnitPluralSupport_celsius:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g ℃</base>
-        <tran loc="es">%g ℃</tran>
+        <tran loc="es-419">%g ℃</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1088,7 @@
       <Position>/UnitPluralSupport_tebibyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g tebibytes</base>
-        <tran loc="es">%g tebibytes</tran>
+        <tran loc="es-419">%g tebibytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1096,7 @@
       <Position>/UnitPluralSupport_footpersecond:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g feet per second</base>
-        <tran loc="es">%g pies por segundo</tran>
+        <tran loc="es-419">%g pies por segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1104,7 @@
       <Position>/UnitPluralSupport_fluiddram:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g fluid dram</base>
-        <tran loc="es">%g dracma líquido</tran>
+        <tran loc="es-419">%g dracma líquido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1112,7 @@
       <Position>/UnitPluralSupport_kelvin:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kelvin</base>
-        <tran loc="es">%g kelvin</tran>
+        <tran loc="es-419">%g kelvin</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1120,7 @@
       <Position>/UnitPluralSupport_pint:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g pint</base>
-        <tran loc="es">%g pinta</tran>
+        <tran loc="es-419">%g pinta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1128,7 @@
       <Position>/UnitPluralSupport_joule:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g joules</base>
-        <tran loc="es">%g julios</tran>
+        <tran loc="es-419">%g joules</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1136,7 @@
       <Position>/UnitPluralSupport_bit:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g bits</base>
-        <tran loc="es">%g bits</tran>
+        <tran loc="es-419">%g bits</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1144,7 @@
       <Position>/UnitPluralSupport_gallon:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gallons</base>
-        <tran loc="es">%g galones</tran>
+        <tran loc="es-419">%g galones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1152,7 @@
       <Position>/UnitPluralSupport_quart:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g quarts</base>
-        <tran loc="es">%g cuartos</tran>
+        <tran loc="es-419">%g cuartos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1160,7 @@
       <Position>/UnitPluralSupport_longton:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g long tons</base>
-        <tran loc="es">%g toneladas largas</tran>
+        <tran loc="es-419">%g toneladas largas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1168,7 @@
       <Position>/UnitPluralSupport_literper100kilometers:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g liter per 100 kilometers</base>
-        <tran loc="es">%g litro por 100 kilómetros</tran>
+        <tran loc="es-419">%g litro por 100 kilómetros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1176,7 @@
       <Position>/UnitPluralSupport_gigabyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gigabyte</base>
-        <tran loc="es">%g gigabyte</tran>
+        <tran loc="es-419">%g gigabyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1184,7 @@
       <Position>/UnitPluralSupport_atmosphere:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g atmosphere</base>
-        <tran loc="es">%g atmósfera</tran>
+        <tran loc="es-419">%g atmósfera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1192,7 +1192,7 @@
       <Position>/UnitPluralSupport_fluidounce:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g fluid ounce</base>
-        <tran loc="es">%g onza líquida</tran>
+        <tran loc="es-419">%g onza líquida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1200,7 @@
       <Position>/UnitPluralSupport_kilometer:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilometers</base>
-        <tran loc="es">%g kilómetros</tran>
+        <tran loc="es-419">%g kilómetros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1208,7 @@
       <Position>/UnitPluralSupport_kilocalorie:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilocalories</base>
-        <tran loc="es">%g kilocalorías</tran>
+        <tran loc="es-419">%g kilocalorías</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1216,7 @@
       <Position>/UnitPluralSupport_slug:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g slug</base>
-        <tran loc="es">%g slug</tran>
+        <tran loc="es-419">%g slug</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1224,7 @@
       <Position>/UnitPluralSupport_hour:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g hour</base>
-        <tran loc="es">%g hora</tran>
+        <tran loc="es-419">%g hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1232,7 @@
       <Position>/UnitPluralSupport_inchofmercury:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g inch of mercury</base>
-        <tran loc="es">%g pulgada de mercurio</tran>
+        <tran loc="es-419">%g pulgada de mercurio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1240,7 @@
       <Position>/UnitPluralSupport_centiliter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g centiliter</base>
-        <tran loc="es">%g centilitro</tran>
+        <tran loc="es-419">%g centilitro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@
       <Position>/UnitPluralSupport_cup:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g cups</base>
-        <tran loc="es">%g tazas</tran>
+        <tran loc="es-419">%g tazas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@
       <Position>/UnitPluralSupport_cubicmeter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g cubic meter</base>
-        <tran loc="es">%g metro cúbico</tran>
+        <tran loc="es-419">%g metro cúbico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@
       <Position>/UnitPluralSupport_pint:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g pints</base>
-        <tran loc="es">%g pintas</tran>
+        <tran loc="es-419">%g pintas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@
       <Position>/UnitPluralSupport_microsecond:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g microsecond</base>
-        <tran loc="es">%g microsegundo</tran>
+        <tran loc="es-419">%g microsegundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@
       <Position>/UnitPluralSupport_tebibyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g tebibyte</base>
-        <tran loc="es">%g tebibyte</tran>
+        <tran loc="es-419">%g tebibyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@
       <Position>/UnitPluralSupport_BTUperminute:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@
       <Position>/UnitPluralSupport_HP:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@
       <Position>/UnitPluralSupport_PSI:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@
       <Position>/UnitPluralSupport_Pascal:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>/UnitPluralSupport_Torr:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>/UnitPluralSupport_acre:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>/UnitPluralSupport_are:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>/UnitPluralSupport_atmosphere:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>/UnitPluralSupport_bar:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>/UnitPluralSupport_bit:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>/UnitPluralSupport_britishthermalunit:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@
       <Position>/UnitPluralSupport_byte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@
       <Position>/UnitPluralSupport_calorie:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1392,7 @@
       <Position>/UnitPluralSupport_celsius:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1400,7 @@
       <Position>/UnitPluralSupport_centiliter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1408,7 @@
       <Position>/UnitPluralSupport_centimeter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1416,7 @@
       <Position>/UnitPluralSupport_cubiccentimeter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1424,7 @@
       <Position>/UnitPluralSupport_cubicfoot:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@
       <Position>/UnitPluralSupport_cubicmeter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@
       <Position>/UnitPluralSupport_cup:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@
       <Position>/UnitPluralSupport_day:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>/UnitPluralSupport_decare:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@
       <Position>/UnitPluralSupport_dram:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>/UnitPluralSupport_fahrenheit:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>/UnitPluralSupport_fluiddram:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>/UnitPluralSupport_fluidounce:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>/UnitPluralSupport_foot:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>/UnitPluralSupport_footpersecond:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>/UnitPluralSupport_footpound:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1520,7 @@
       <Position>/UnitPluralSupport_gallon:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@
       <Position>/UnitPluralSupport_gallonper100miles:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@
       <Position>/UnitPluralSupport_gibibyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@
       <Position>/UnitPluralSupport_gigabyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@
       <Position>/UnitPluralSupport_gram:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@
       <Position>/UnitPluralSupport_hectare:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@
       <Position>/UnitPluralSupport_hour:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@
       <Position>/UnitPluralSupport_inch:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@
       <Position>/UnitPluralSupport_inchofmercury:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@
       <Position>/UnitPluralSupport_joule:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@
       <Position>/UnitPluralSupport_kelvin:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1608,7 @@
       <Position>/UnitPluralSupport_kibibyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1616,7 +1616,7 @@
       <Position>/UnitPluralSupport_kilobyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1624,7 +1624,7 @@
       <Position>/UnitPluralSupport_kilocalorie:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1632,7 +1632,7 @@
       <Position>/UnitPluralSupport_kilogram:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1640,7 +1640,7 @@
       <Position>/UnitPluralSupport_kilometer:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1648,7 +1648,7 @@
       <Position>/UnitPluralSupport_kilometerperhour:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1656,7 +1656,7 @@
       <Position>/UnitPluralSupport_kilometerperliter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1664,7 +1664,7 @@
       <Position>/UnitPluralSupport_kilopascal:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1672,7 +1672,7 @@
       <Position>/UnitPluralSupport_kilowatt:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1680,7 +1680,7 @@
       <Position>/UnitPluralSupport_kilowatthour:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1688,7 +1688,7 @@
       <Position>/UnitPluralSupport_knot:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1696,7 +1696,7 @@
       <Position>/UnitPluralSupport_lightyear:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1704,7 +1704,7 @@
       <Position>/UnitPluralSupport_liter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1712,7 +1712,7 @@
       <Position>/UnitPluralSupport_literper100kilometers:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1720,7 +1720,7 @@
       <Position>/UnitPluralSupport_longton:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1728,7 +1728,7 @@
       <Position>/UnitPluralSupport_mebibyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1736,7 @@
       <Position>/UnitPluralSupport_megabyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1744,7 @@
       <Position>/UnitPluralSupport_meter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1752,7 @@
       <Position>/UnitPluralSupport_meterpersecond:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1760,7 +1760,7 @@
       <Position>/UnitPluralSupport_metrictonne:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1768,7 +1768,7 @@
       <Position>/UnitPluralSupport_microsecond:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1776,7 +1776,7 @@
       <Position>/UnitPluralSupport_mile:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1784,7 +1784,7 @@
       <Position>/UnitPluralSupport_milepergallon:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1792,7 +1792,7 @@
       <Position>/UnitPluralSupport_mileperhour:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1800,7 +1800,7 @@
       <Position>/UnitPluralSupport_milligram:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1808,7 +1808,7 @@
       <Position>/UnitPluralSupport_milliliter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1816,7 +1816,7 @@
       <Position>/UnitPluralSupport_millimeter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1824,7 +1824,7 @@
       <Position>/UnitPluralSupport_millisecond:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1832,7 +1832,7 @@
       <Position>/UnitPluralSupport_minute:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1840,7 @@
       <Position>/UnitPluralSupport_nanosecond:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>/UnitPluralSupport_nauticalmile:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>/UnitPluralSupport_newtonmeter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1864,7 @@
       <Position>/UnitPluralSupport_ounce:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1872,7 @@
       <Position>/UnitPluralSupport_parsec:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1880,7 @@
       <Position>/UnitPluralSupport_pebibyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1888,7 @@
       <Position>/UnitPluralSupport_petabyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1896,7 @@
       <Position>/UnitPluralSupport_pint:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1904,7 @@
       <Position>/UnitPluralSupport_pound:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1912,7 @@
       <Position>/UnitPluralSupport_quart:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1920,7 @@
       <Position>/UnitPluralSupport_second:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1928,7 @@
       <Position>/UnitPluralSupport_shortton:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1936,7 @@
       <Position>/UnitPluralSupport_slug:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1944,7 @@
       <Position>/UnitPluralSupport_squarecentimeter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1952,7 @@
       <Position>/UnitPluralSupport_squarefoot:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1960,7 +1960,7 @@
       <Position>/UnitPluralSupport_squareinch:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1968,7 +1968,7 @@
       <Position>/UnitPluralSupport_squarekilometer:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1976,7 +1976,7 @@
       <Position>/UnitPluralSupport_squaremeter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1984,7 +1984,7 @@
       <Position>/UnitPluralSupport_squaremile:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1992,7 +1992,7 @@
       <Position>/UnitPluralSupport_squaremillimeter:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2000,7 +2000,7 @@
       <Position>/UnitPluralSupport_squareyard:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2008,7 +2008,7 @@
       <Position>/UnitPluralSupport_stone:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2016,7 +2016,7 @@
       <Position>/UnitPluralSupport_stremma:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2024,7 +2024,7 @@
       <Position>/UnitPluralSupport_tablespoon:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2032,7 +2032,7 @@
       <Position>/UnitPluralSupport_teaspoon:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2040,7 +2040,7 @@
       <Position>/UnitPluralSupport_tebibyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2048,7 +2048,7 @@
       <Position>/UnitPluralSupport_terabyte:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2056,7 +2056,7 @@
       <Position>/UnitPluralSupport_watt:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2064,7 @@
       <Position>/UnitPluralSupport_week:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2072,7 @@
       <Position>/UnitPluralSupport_yard:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2080,7 @@
       <Position>/UnitPluralSupport_year:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@number_and_unit@</base>
-        <tran loc="es">%#@number_and_unit@</tran>
+        <tran loc="es-419">%#@number_and_unit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2088,7 @@
       <Position>/UnitPluralSupport_decare:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g decares</base>
-        <tran loc="es">%g decáreas</tran>
+        <tran loc="es-419">%g decáreas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2096,7 @@
       <Position>/UnitPluralSupport_meterpersecond:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g meters per second</base>
-        <tran loc="es">%g metros por segundo</tran>
+        <tran loc="es-419">%g metros por segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2104,7 @@
       <Position>/UnitPluralSupport_watt:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g watt</base>
-        <tran loc="es">%g vatio</tran>
+        <tran loc="es-419">%g watt</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2112,7 @@
       <Position>/UnitPluralSupport_dram:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g dram</base>
-        <tran loc="es">%g dracma</tran>
+        <tran loc="es-419">%g dracma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2120,7 @@
       <Position>/UnitPluralSupport_petabyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g petabytes</base>
-        <tran loc="es">%g petabytes</tran>
+        <tran loc="es-419">%g petabytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2128,7 @@
       <Position>/UnitPluralSupport_nauticalmile:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g nautical mile</base>
-        <tran loc="es">%g milla náutica</tran>
+        <tran loc="es-419">%g milla náutica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2136,7 @@
       <Position>/UnitPluralSupport_milligram:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g milligram</base>
-        <tran loc="es">%g miligramo</tran>
+        <tran loc="es-419">%g miligramo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2144,7 @@
       <Position>/UnitPluralSupport_stone:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g stones</base>
-        <tran loc="es">%g stones</tran>
+        <tran loc="es-419">%g stones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2152,7 @@
       <Position>/UnitPluralSupport_terabyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g terabytes</base>
-        <tran loc="es">%g terabytes</tran>
+        <tran loc="es-419">%g terabytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2160,7 @@
       <Position>/UnitPluralSupport_joule:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g joule</base>
-        <tran loc="es">%g julio</tran>
+        <tran loc="es-419">%g joule</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2168,7 @@
       <Position>/UnitPluralSupport_week:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g week</base>
-        <tran loc="es">%g semana</tran>
+        <tran loc="es-419">%g semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2176,7 @@
       <Position>/UnitPluralSupport_yard:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g yard</base>
-        <tran loc="es">%g yarda</tran>
+        <tran loc="es-419">%g yarda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2184,7 @@
       <Position>/UnitPluralSupport_kilometerperliter:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilometer per liter</base>
-        <tran loc="es">%g kilómetro por litro</tran>
+        <tran loc="es-419">%g kilómetro por litro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@
       <Position>/UnitPluralSupport_decare:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g decare</base>
-        <tran loc="es">%g decárea</tran>
+        <tran loc="es-419">%g decárea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2200,7 @@
       <Position>/UnitPluralSupport_kilobyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilobyte</base>
-        <tran loc="es">%g kilobyte</tran>
+        <tran loc="es-419">%g kilobyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2208,7 +2208,7 @@
       <Position>/UnitPluralSupport_mileperhour:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g mile per hour</base>
-        <tran loc="es">%g milla por hora</tran>
+        <tran loc="es-419">%g milla por hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2216,7 +2216,7 @@
       <Position>/UnitPluralSupport_gallon:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g gallon</base>
-        <tran loc="es">%g galón</tran>
+        <tran loc="es-419">%g galón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2224,7 +2224,7 @@
       <Position>/UnitPluralSupport_foot:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g foot</base>
-        <tran loc="es">%g pie</tran>
+        <tran loc="es-419">%g pie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2232,7 +2232,7 @@
       <Position>/UnitPluralSupport_are:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g are</base>
-        <tran loc="es">%g área</tran>
+        <tran loc="es-419">%g área</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2240,7 +2240,7 @@
       <Position>/UnitPluralSupport_inchofmercury:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g inches of mercury</base>
-        <tran loc="es">%g pulgadas de mercurio</tran>
+        <tran loc="es-419">%g pulgadas de mercurio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2248,7 +2248,7 @@
       <Position>/UnitPluralSupport_inch:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g inches</base>
-        <tran loc="es">%g pulgadas</tran>
+        <tran loc="es-419">%g pulgadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2256,7 +2256,7 @@
       <Position>/UnitPluralSupport_knot:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g knot</base>
-        <tran loc="es">%g nudo</tran>
+        <tran loc="es-419">%g nudo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2264,7 +2264,7 @@
       <Position>/UnitPluralSupport_inch:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g inch</base>
-        <tran loc="es">%g pulgada</tran>
+        <tran loc="es-419">%g pulgada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2272,7 +2272,7 @@
       <Position>/UnitPluralSupport_BTUperminute:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g BTU per minute</base>
-        <tran loc="es">%g BTU por minuto</tran>
+        <tran loc="es-419">%g UTB por minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2280,7 +2280,7 @@
       <Position>/UnitPluralSupport_dram:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g drams</base>
-        <tran loc="es">%g dracmas</tran>
+        <tran loc="es-419">%g dracmas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2288,7 +2288,7 @@
       <Position>/UnitPluralSupport_squarecentimeter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square centimeters</base>
-        <tran loc="es">%g centímetros cuadrados</tran>
+        <tran loc="es-419">%g centímetros cuadrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2296,7 +2296,7 @@
       <Position>/UnitPluralSupport_pebibyte:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g pebibytes</base>
-        <tran loc="es">%g pebibytes</tran>
+        <tran loc="es-419">%g pebibytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2304,7 +2304,7 @@
       <Position>/UnitPluralSupport_minute:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g minute</base>
-        <tran loc="es">%g minuto</tran>
+        <tran loc="es-419">%g minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2312,7 +2312,7 @@
       <Position>/UnitPluralSupport_megabyte:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g megabyte</base>
-        <tran loc="es">%g megabyte</tran>
+        <tran loc="es-419">%g megabyte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2320,7 +2320,7 @@
       <Position>/UnitPluralSupport_bar:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g bars</base>
-        <tran loc="es">%g bares</tran>
+        <tran loc="es-419">%g bares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2328,7 +2328,7 @@
       <Position>/UnitPluralSupport_centiliter:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g centiliters</base>
-        <tran loc="es">%g centilitros</tran>
+        <tran loc="es-419">%g centilitros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2336,7 +2336,7 @@
       <Position>/UnitPluralSupport_parsec:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g parsec</base>
-        <tran loc="es">%g parsec</tran>
+        <tran loc="es-419">%g pársec</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2344,7 +2344,7 @@
       <Position>/UnitPluralSupport_kilowatt:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g kilowatts</base>
-        <tran loc="es">%g kilovatios</tran>
+        <tran loc="es-419">%g kilowatts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2352,7 +2352,7 @@
       <Position>/UnitPluralSupport_fahrenheit:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g ℉</base>
-        <tran loc="es">%g ℉</tran>
+        <tran loc="es-419">%g ℉</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2360,7 +2360,7 @@
       <Position>/UnitPluralSupport_fahrenheit:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g ℉</base>
-        <tran loc="es">%g ℉</tran>
+        <tran loc="es-419">%g ℉</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2368,7 +2368,7 @@
       <Position>/UnitPluralSupport_nanosecond:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g nanosecond</base>
-        <tran loc="es">%g nanosegundo</tran>
+        <tran loc="es-419">%g nanosegundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2376,7 +2376,7 @@
       <Position>/UnitPluralSupport_minute:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g minutes</base>
-        <tran loc="es">%g minutos</tran>
+        <tran loc="es-419">%g minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2384,7 +2384,7 @@
       <Position>/UnitPluralSupport_fluidounce:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g fluid ounces</base>
-        <tran loc="es">%g onzas líquidas</tran>
+        <tran loc="es-419">%g onzas líquidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2392,7 +2392,7 @@
       <Position>/UnitPluralSupport_britishthermalunit:dict/number_and_unit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g british thermal unit</base>
-        <tran loc="es">%g unidad térmica británica</tran>
+        <tran loc="es-419">%g unidad térmica británica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2400,7 +2400,7 @@
       <Position>/UnitPluralSupport_squarefoot:dict/number_and_unit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%g square feet</base>
-        <tran loc="es">%g pies cuadrados</tran>
+        <tran loc="es-419">%g pie cuadrado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2411,7 +2411,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Calculate</base>
-        <tran loc="es">Calcular</tran>
+        <tran loc="es-419">Calcular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2419,7 +2419,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Copyright 2006 Apple Computer Inc.,\n All rights reserved.</base>
-        <tran loc="es">© Copyright 2006 Apple Computer Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">© Copyright 2006 Apple Computer Inc., \nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2430,7 +2430,7 @@
       <Position>FEET_AND_INCHES</Position>
       <TranslationSet>
         <base loc="en">feet &amp; inches</base>
-        <tran loc="es">pies y pulgadas</tran>
+        <tran loc="es-419">pies y pulgadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2438,7 +2438,7 @@
       <Position>FEET_AND_INCHES_SHORT_NOTATION</Position>
       <TranslationSet>
         <base loc="en">%g’ %@”</base>
-        <tran loc="es">%g’ %@”</tran>
+        <tran loc="es-419">%g’ %@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2457,7 +2457,7 @@
       <Position>CONVERSION_SYNTAX</Position>
       <TranslationSet>
         <base loc="en">_number_and_unit_from_ (in|to) _unit_to_</base>
-        <tran loc="es">_number_and_unit_from_ (en|a) _unit_to_</tran>
+        <tran loc="es-419">_number_and_unit_from_ (a) _unit_to_</tran>
       </TranslationSet>
     </TextItem>
   </File>

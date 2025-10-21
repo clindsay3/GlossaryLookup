@@ -8,7 +8,7 @@
       <Position>THIS_DEVICE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone</base>
-        <tran loc="es">iPhone</tran>
+        <tran loc="es-419">iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>LEGAL_AND_REGULATORY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Legal &amp; Regulatory</base>
-        <tran loc="es">Marco jurídico y normativo</tran>
+        <tran loc="es-419">Disposiciones legales y normativas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>REGULATORY_CERTIFICATION</Position>
       <TranslationSet>
         <base loc="en">Regulatory Certification</base>
-        <tran loc="es">Certificación de normativas</tran>
+        <tran loc="es-419">Certificación reglamentaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>ROHS_COMPLIANCE</Position>
       <TranslationSet>
         <base loc="en">RoHS Compliance</base>
-        <tran loc="es">Conformidad con RoHS</tran>
+        <tran loc="es-419">Cumplimiento con RoHS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>REGULATORY</Position>
       <TranslationSet>
         <base loc="en">Regulatory</base>
-        <tran loc="es">Regulaciones</tran>
+        <tran loc="es-419">Normas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>WARRANTY</Position>
       <TranslationSet>
         <base loc="en">Warranty</base>
-        <tran loc="es">Garantía</tran>
+        <tran loc="es-419">Garantía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>BUILTIN_APPS</Position>
       <TranslationSet>
         <base loc="en">Built-in Apps</base>
-        <tran loc="es">Apps integradas</tran>
+        <tran loc="es-419">Apps integradas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>RF_EXPOSURE</Position>
       <TranslationSet>
         <base loc="en">RF Exposure</base>
-        <tran loc="es">Exposición a RF</tran>
+        <tran loc="es-419">Exposición a RF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>AX_REGULATORY_INFORMATION</Position>
       <TranslationSet>
         <base loc="en">Regulatory Information</base>
-        <tran loc="es">Información sobre normativas</tran>
+        <tran loc="es-419">Información reglamentaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>THIS_DEVICE_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod touch</base>
-        <tran loc="es">iPod touch</tran>
+        <tran loc="es-419">iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>THIS_DEVICE_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad</base>
-        <tran loc="es">iPad</tran>
+        <tran loc="es-419">iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>LICENSE</Position>
       <TranslationSet>
         <base loc="en">License</base>
-        <tran loc="es">Licencia</tran>
+        <tran loc="es-419">Licencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>AX_DEVICE_SERIAL_QRCODE</Position>
       <TranslationSet>
         <base loc="en">Device Serial Number QR Code</base>
-        <tran loc="es">Código QR del número de serie del dispositivo</tran>
+        <tran loc="es-419">Código QR del número de serie del dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>LEGAL</Position>
       <TranslationSet>
         <base loc="en">Legal Notices</base>
-        <tran loc="es">Avisos legales</tran>
+        <tran loc="es-419">Avisos legales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>HOMEPOD</Position>
       <TranslationSet>
         <base loc="en">HomePod</base>
-        <tran loc="es">HomePod</tran>
+        <tran loc="es-419">HomePod</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -14,7 +14,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Family</base>
-        <tran loc="es">Familia</tran>
+        <tran loc="es-419">Familia</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -25,7 +25,7 @@
       <Position>ACTION_APPROVE_ROW</Position>
       <TranslationSet>
         <base loc="en">Purchase</base>
-        <tran loc="es">Comprar</tran>
+        <tran loc="es-419">Comprar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -33,7 +33,7 @@
       <Position>AUTHENTICATION_OPTIN_DIALOG_BODY_FACEID</Position>
       <TranslationSet>
         <base loc="en">You can use Face\U00A0ID instead of your password when approving requests.</base>
-        <tran loc="es">Puedes usar Face ID en vez de tu contraseña para aprobar las solicitudes.</tran>
+        <tran loc="es-419">Puedes usar Face\U00A0ID en lugar de tu contraseña para aprobar solicitudes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +41,7 @@
       <Position>AUTHENTICATION_OPTIN_DIALOG_TITLE_TOUCHID</Position>
       <TranslationSet>
         <base loc="en">Enable Touch\U00A0ID for\nFamily Sharing?</base>
-        <tran loc="es">¿Activar Touch ID para\n“En familia”?</tran>
+        <tran loc="es-419">¿Activar Touch\U00A0ID para\n“Compartir en familia”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -49,7 +49,7 @@
       <Position>AUTHENTICATION_PROMPT_TITLE_APPROVE_REMOTE</Position>
       <TranslationSet>
         <base loc="en">Sign In to Approve</base>
-        <tran loc="es">Iniciar sesión para aprobación</tran>
+        <tran loc="es-419">Inicia sesión para aprobar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>AUTHENTICATION_OPTIN_DIALOG_BUTTON_APPROVE</Position>
       <TranslationSet>
         <base loc="en">Enable</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>NOTIFICATION_ACTION_DETAILS</Position>
       <TranslationSet>
         <base loc="en">Details</base>
-        <tran loc="es">Detalles</tran>
+        <tran loc="es-419">Detalles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -85,7 +85,7 @@
       <Position>ACTION_APPROVE</Position>
       <TranslationSet>
         <base loc="en">Approve</base>
-        <tran loc="es">Aprobar</tran>
+        <tran loc="es-419">Aprobar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -93,7 +93,7 @@
       <Position>PRODUCT_WINDOW_TITLE</Position>
       <TranslationSet>
         <base loc="en">Family</base>
-        <tran loc="es">Familia</tran>
+        <tran loc="es-419">Familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -101,7 +101,7 @@
       <Position>AUTHENTICATION_PROMPT_TITLE_APPROVE_LOCAL</Position>
       <TranslationSet>
         <base loc="en">Approve on This Device</base>
-        <tran loc="es">Aprobar en este dispositivo</tran>
+        <tran loc="es-419">Aprobar en este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -109,7 +109,7 @@
       <Position>AUTHENTICATION_PROMPT_BODY_LOCAL</Position>
       <TranslationSet>
         <base loc="en">A parent or guardian must enter their iCloud Apple\U00A0ID and password to approve this purchase.</base>
-        <tran loc="es">Para aprobar esta compra, uno de los padres o el tutor debe introducir su ID de Apple y su contraseña para iCloud.</tran>
+        <tran loc="es-419">Un padre o tutor debe ingresar su Apple\U00A0ID y contraseña de iCloud para aprobar esta compra.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -117,7 +117,7 @@
       <Position>AUTHENTICATION_ACTION_APPROVE</Position>
       <TranslationSet>
         <base loc="en">approve</base>
-        <tran loc="es">aprobar</tran>
+        <tran loc="es-419">aprobar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -125,7 +125,7 @@
       <Position>AUTHENTICATION_PROMPT_TITLE_APPROVE_LOCAL_ROW</Position>
       <TranslationSet>
         <base loc="en">Purchase on This Device</base>
-        <tran loc="es">Comprar en este dispositivo</tran>
+        <tran loc="es-419">Comprar en este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -133,7 +133,7 @@
       <Position>DEFAULT_ERROR_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred. Please try again.</base>
-        <tran loc="es">Se ha producido un error desconocido. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -141,7 +141,7 @@
       <Position>ACTION_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -149,7 +149,7 @@
       <Position>DEFAULT_ERROR_ACTION</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -157,7 +157,7 @@
       <Position>AUTHENTICATION_PROMPT_TITLE_APPROVE_REMOTE_ROW</Position>
       <TranslationSet>
         <base loc="en">Sign In to Purchase</base>
-        <tran loc="es">Iniciar sesión para comprar</tran>
+        <tran loc="es-419">Inicia sesión para comprar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -165,7 +165,7 @@
       <Position>NOTIFICATION_TITLE_REQUESTER_APPROVED</Position>
       <TranslationSet>
         <base loc="en">Request approved by %@</base>
-        <tran loc="es">Solicitud aprobada por %@</tran>
+        <tran loc="es-419">Solicitud aprobada por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -173,7 +173,7 @@
       <Position>NOTIFICATION_TITLE_REQUESTER_DECLINED</Position>
       <TranslationSet>
         <base loc="en">Request declined by %@</base>
-        <tran loc="es">Solicitud denegada por %@</tran>
+        <tran loc="es-419">%@ rechazó la solicitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -181,7 +181,7 @@
       <Position>AUTHENTICATION_OPTIN_DIALOG_BODY_TOUCHID</Position>
       <TranslationSet>
         <base loc="en">You can use Touch\U00A0ID instead of your password when approving requests.</base>
-        <tran loc="es">Puedes utilizar Touch ID en vez de tu contraseña para aprobar las solicitudes.</tran>
+        <tran loc="es-419">Puedes usar Touch\U00A0ID en lugar de tu contraseña para aprobar solicitudes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -189,7 +189,7 @@
       <Position>AUTHENTICATION_OPTIN_DIALOG_TITLE_FACEID</Position>
       <TranslationSet>
         <base loc="en">Enable Face\U00A0ID for\nFamily Sharing?</base>
-        <tran loc="es">¿Activar Face ID para\n“En familia”?</tran>
+        <tran loc="es-419">¿Activar Face\U00A0ID para\n“Compartir en familia”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -197,7 +197,7 @@
       <Position>ACTION_DECLINE</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Rechazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -205,7 +205,7 @@
       <Position>AUTHENTICATION_PROMPT_BODY_REMOTE</Position>
       <TranslationSet>
         <base loc="en">Enter the iCloud Apple\U00A0ID password for “%@”</base>
-        <tran loc="es">Introduce la contraseña del ID de Apple para iCloud de “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña del Apple\U00A0ID del iCloud de "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -213,7 +213,7 @@
       <Position>AUTHENTICATION_OPTIN_DIALOG_BUTTON_DECLINE</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -221,7 +221,7 @@
       <Position>NOTIFICATION_ACTION_DISMISS</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -229,7 +229,7 @@
       <Position>AUTHENTICATION_PROMPT_TITLE_DECLINE_REMOTE</Position>
       <TranslationSet>
         <base loc="en">Sign In to Decline</base>
-        <tran loc="es">Iniciar sesión para rechazarla</tran>
+        <tran loc="es-419">Inicia sesión para rechazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -237,7 +237,7 @@
       <Position>DEFAULT_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unknown Error</base>
-        <tran loc="es">Error desconocido</tran>
+        <tran loc="es-419">Error desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -245,7 +245,7 @@
       <Position>AUTHENTICATION_ACTION_APPROVE_ROW</Position>
       <TranslationSet>
         <base loc="en">purchase</base>
-        <tran loc="es">comprar</tran>
+        <tran loc="es-419">comprar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -253,7 +253,7 @@
       <Position>NOTIFICATION_TITLE_APPROVER</Position>
       <TranslationSet>
         <base loc="en">Request from %@</base>
-        <tran loc="es">Solicitud de %@</tran>
+        <tran loc="es-419">Solicitud de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -261,7 +261,7 @@
       <Position>AUTHENTICATION_ACTION_DECLINE</Position>
       <TranslationSet>
         <base loc="en">decline</base>
-        <tran loc="es">rechazar</tran>
+        <tran loc="es-419">rechazar</tran>
       </TranslationSet>
     </TextItem>
   </File>

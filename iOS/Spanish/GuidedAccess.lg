@@ -8,7 +8,7 @@
       <Position>SESSION_RUNNING_NOTE_WITH_TOUCH_ID</Position>
       <TranslationSet>
         <base loc="en">Guided Access is enabled.\nTriple-click the home button or use Touch ID to exit.</base>
-        <tran loc="es">“Acceso guiado” está activado.\nPulsa tres veces el botón de inicio o usa Touch ID para salir.</tran>
+        <tran loc="es-419">Se activó Acceso guiado.\nPresiona tres veces en el botón de inicio o usa Touch ID para salir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>AX_CLOSE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>CANNOT_REUSE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Cannot Reuse Passcode</base>
-        <tran loc="es">No se puede volver a usar el código</tran>
+        <tran loc="es-419">No se puede volver a usar el código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>APP_SELF_LOCK_UNMANAGED_RESTRICTIONS</Position>
       <TranslationSet>
         <base loc="en">Unmanaged Autonomous Single-App Mode Restrictions</base>
-        <tran loc="es">Restricciones del modo de app única autónoma sin gestionar</tran>
+        <tran loc="es-419">Restricciones de modo autónomo de app única sin administrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>SESSION_RUNNING_NOTE</Position>
       <TranslationSet>
         <base loc="en">Guided Access is enabled.\nTriple-click the home button to exit.</base>
-        <tran loc="es">“Acceso guiado” está activado.\nPulsa 3 veces el botón de inicio para salir.</tran>
+        <tran loc="es-419">Acceso Guiado está activado.\nPresiona tres veces en el botón de inicio para salir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>TOUCH_ID_FAILED_NOTE</Position>
       <TranslationSet>
         <base loc="en">Guided Access is enabled.\nTry again with Touch ID.</base>
-        <tran loc="es">“Acceso guiado” está activado.\nInténtalo de nuevo con Touch ID.</tran>
+        <tran loc="es-419">Acceso Guiado está activado.\nIntenta de nuevo con Touch ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>FACE_ID_FAILED_NOTE</Position>
       <TranslationSet>
         <base loc="en">Guided Access is enabled.\nTry again with Face ID.</base>
-        <tran loc="es">“Acceso guiado” está activado.\nInténtalo de nuevo con Face ID.</tran>
+        <tran loc="es-419">Acceso Guiado está activado.\nIntenta de nuevo con Face ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>APP_SELF_LOCK_UNKNOWN_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">an unknown application</base>
-        <tran loc="es">una aplicación desconocida</tran>
+        <tran loc="es-419">una aplicación desconocida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>OPTIONS_FEATURE_HARDWARE</Position>
       <TranslationSet>
         <base loc="en">Hardware Buttons</base>
-        <tran loc="es">Botones físicos</tran>
+        <tran loc="es-419">Botones físicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>AX_RESIZE_BOTTOM_RIGHT</Position>
       <TranslationSet>
         <base loc="en">Bottom Right</base>
-        <tran loc="es">Abajo derecha</tran>
+        <tran loc="es-419">Abajo derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>USER_LOCKED_OUT_VIA_FAIL</Position>
       <TranslationSet>
         <base loc="en">Incorrect passcode.\nYou may try again after %@ seconds.</base>
-        <tran loc="es">Código incorrecto.\nPuedes intentarlo de nuevo dentro de %@ segundos.</tran>
+        <tran loc="es-419">Código incorrecto.\nPuedes intentarlo de nuevo dentro de %@ segundos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>APP_SELF_LOCK_TIMED_OUT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Time Expired.\nYour iPhone is no longer locked to %1$@.</base>
-        <tran loc="es">Tiempo agotado.\nEl iPhone ya no está bloqueado en %1$@.</tran>
+        <tran loc="es-419">Se agotó el tiempo.\nTu iPhone ya no está bloqueado con %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>APP_SELF_LOCK_STARTED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Your iPad is now locked to %1$@.\nYour iPad will be unlocked when %1$@ ends Single App Mode, or after %2$@.</base>
-        <tran loc="es">El iPad está bloqueado en %1$@.\nEl iPad se desbloqueará cuando finalice el modo de app única de %1$@ o después de %2$@.</tran>
+        <tran loc="es-419">Tu iPad está bloqueado con %1$@.\nSe desbloqueará cuando %1$@ finalice el modo de app única o después de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>PINCODE_TITLE_LOCKED</Position>
       <TranslationSet>
         <base loc="en">Enter Passcode</base>
-        <tran loc="es">Introduce el código</tran>
+        <tran loc="es-419">Ingresa el código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>END</Position>
       <TranslationSet>
         <base loc="en">End</base>
-        <tran loc="es">Finalizar</tran>
+        <tran loc="es-419">Finalizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>HARDWARE_FEATURE_LOCK_IPHONE_NHB</Position>
       <TranslationSet>
         <base loc="en">Side Button</base>
-        <tran loc="es">Botón lateral</tran>
+        <tran loc="es-419">Botón lateral</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>HELP_INTEREST_AREA</Position>
       <TranslationSet>
         <base loc="en">Circle areas on the screen you would like to disable.</base>
-        <tran loc="es">Rodea con el dedo las áreas de la pantalla que quieras desactivar.</tran>
+        <tran loc="es-419">Rodea con el dedo las áreas de la pantalla que quieres desactivar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>HELP_GENERAL</Position>
       <TranslationSet>
         <base loc="en">Guided Access restricts system features and touch interaction.</base>
-        <tran loc="es">“Acceso guiado” restringe funciones del sistema y la interacción táctil.</tran>
+        <tran loc="es-419">Acceso Guiado restringe funciones del sistema y la interacción táctil.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>SESSION_STARTED</Position>
       <TranslationSet>
         <base loc="en">Guided Access Started</base>
-        <tran loc="es">“Acceso guiado” iniciado</tran>
+        <tran loc="es-419">Se inició Acceso Guiado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>USER_LOCKED_OUT_VIA_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Passcode entry disabled.\nYou may try again after %@ seconds.</base>
-        <tran loc="es">Introducción de código desactivada.\nPuedes intentarlo de nuevo dentro de %@ segundos.</tran>
+        <tran loc="es-419">Ingreso de código desactivado.\nPuedes intentarlo de nuevo dentro de %@ segundos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>SESSION_ENDED_POWER_BUTTON_EXIT_NOTE</Position>
       <TranslationSet>
         <base loc="en">Triple-click the Side Button to exit</base>
-        <tran loc="es">Pulsa tres veces el botón lateral para salir</tran>
+        <tran loc="es-419">Presionar tres veces el botón lateral para salir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>APP_SELF_LOCK_STARTED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Your iPod touch is now locked to %1$@.\nYour iPod touch will be unlocked when %1$@ ends Single App Mode, or after %2$@.</base>
-        <tran loc="es">El iPod touch está bloqueado en %1$@.\nEl iPod touch se desbloqueará cuando finalice el modo de app única de %1$@ o después de %2$@.</tran>
+        <tran loc="es-419">Tu iPod touch está bloqueado con %1$@.\nSe desbloqueará cuando %1$@ finalice el modo de app única o después de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>SESSION_RUNNING_NOTE_NHB</Position>
       <TranslationSet>
         <base loc="en">Guided Access is enabled.\nTriple-click the side button to exit.</base>
-        <tran loc="es">“Acceso guiado” está activado.\nPulsa tres veces el botón lateral para salir.</tran>
+        <tran loc="es-419">Acceso Guiado está activado.\nPresiona tres veces en el botón lateral para salir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>START</Position>
       <TranslationSet>
         <base loc="en">Start</base>
-        <tran loc="es">Iniciar</tran>
+        <tran loc="es-419">Iniciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>AX_RESIZE_KNOB_HINT</Position>
       <TranslationSet>
         <base loc="en">Double tap and hold, then drag to adjust region</base>
-        <tran loc="es">Pulsa dos veces y mantén pulsado; luego arrastra para ajustar la región</tran>
+        <tran loc="es-419">Toca dos veces sin soltar; luego arrastra para ajustar la región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>AX_RESIZE_TOP_LEFT</Position>
       <TranslationSet>
         <base loc="en">Top Left</base>
-        <tran loc="es">Arriba izquierda</tran>
+        <tran loc="es-419">Arriba izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>APP_SELF_LOCK_DENY_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>APP_SELF_LOCK_TIMED_OUT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Time Expired.\nYour iPod touch is no longer locked to %1$@.</base>
-        <tran loc="es">Tiempo agotado.\nEl iPod touch ya no está bloqueado en %1$@.</tran>
+        <tran loc="es-419">Se agotó el tiempo.\nTu iPod touch ya no está bloqueado con %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>AX_RESIZE_TOP_RIGHT</Position>
       <TranslationSet>
         <base loc="en">Top Right</base>
-        <tran loc="es">Arriba derecha</tran>
+        <tran loc="es-419">Arriba derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>APP_SELF_LOCK_CONFIRM_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%1$@ wants to start Single App Mode. You will be unable to use other apps on %2$@ until %1$@ ends Single App Mode. Do you want to allow this?</base>
-        <tran loc="es">%1$@ quiere iniciar el modo de app única. No podrás usar otras apps en el %2$@ hasta que finalice modo de app única de %1$@. ¿Quieres permitirlo?</tran>
+        <tran loc="es-419">El %1$@ quiere activar el modo de app única. No podrás usar otras apps en %2$@ sino hasta que %1$@ finalice el modo. ¿Quieres permitirlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>AX_RESIZE_BOTTOM_LEFT</Position>
       <TranslationSet>
         <base loc="en">Bottom Left</base>
-        <tran loc="es">Abajo izquierda</tran>
+        <tran loc="es-419">Abajo izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>PINCODE_TITLE_SETUP</Position>
       <TranslationSet>
         <base loc="en">Set Passcode</base>
-        <tran loc="es">Definir código</tran>
+        <tran loc="es-419">Definir código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>GAX_TIME_RESTRICTION_LOCKOUT_VIEW_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">A time limit of %@ has been set for Guided Access. Triple-click to enter the Guided Access passcode.</base>
-        <tran loc="es">Se ha definido un límite de tiempo de %@ para “Acceso guiado”. Pulsa 3 veces para introducir el código de “Acceso guiado”.</tran>
+        <tran loc="es-419">Se estableció un tiempo límite de %@ para Acceso Guiado. Presiona tres veces para ingresar el código de Acceso Guiado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>OPTIONS</Position>
       <TranslationSet>
         <base loc="en">Options</base>
-        <tran loc="es">Opciones</tran>
+        <tran loc="es-419">Opciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>APP_SELF_LOCK_ENDED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Your iPad is no longer locked to %1$@.</base>
-        <tran loc="es">El iPad ya no está bloqueado en %1$@.</tran>
+        <tran loc="es-419">Tu iPad ya no está bloqueado con %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>GAX_TIME_RESTRICTION_LOCKOUT_VIEW_TITLE</Position>
       <TranslationSet>
         <base loc="en">Time Expired</base>
-        <tran loc="es">Tiempo agotado</tran>
+        <tran loc="es-419">Tiempo agotado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>RESUME</Position>
       <TranslationSet>
         <base loc="en">Resume</base>
-        <tran loc="es">Reanudar</tran>
+        <tran loc="es-419">Reanudar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>GUIDED_ACCESS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Guided Access</base>
-        <tran loc="es">Acceso guiado</tran>
+        <tran loc="es-419">Acceso Guiado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>APP_SELF_LOCK_TIMED_OUT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Time Expired.\nYour iPad is no longer locked to %1$@.</base>
-        <tran loc="es">Tiempo agotado.\nEl iPad ya no está bloqueado en %1$@.</tran>
+        <tran loc="es-419">Se agotó el tiempo.\nTu iPad ya no está bloqueado con %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>SYS_FEATURE_KEYBOARD_TEXT_INPUT</Position>
       <TranslationSet>
         <base loc="en">Keyboards</base>
-        <tran loc="es">Teclados</tran>
+        <tran loc="es-419">Teclados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>HARDWARE_FEATURE_VOLUME</Position>
       <TranslationSet>
         <base loc="en">Volume Buttons</base>
-        <tran loc="es">Botones de volumen</tran>
+        <tran loc="es-419">Botones de volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>AX_RESIZE_KNOB</Position>
       <TranslationSet>
         <base loc="en">Resize</base>
-        <tran loc="es">Cambiar tamaño</tran>
+        <tran loc="es-419">Cambiar tamaño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>APP_SELF_LOCK_ALLOW_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>SESSION_ENDED</Position>
       <TranslationSet>
         <base loc="en">Guided Access Ended</base>
-        <tran loc="es">“Acceso guiado” se ha cerrado</tran>
+        <tran loc="es-419">Acceso Guiado se cerró</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>AX_APPLICATION</Position>
       <TranslationSet>
         <base loc="en">Application</base>
-        <tran loc="es">Aplicación</tran>
+        <tran loc="es-419">Aplicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>SESSION_RUNNING_NOTE_WITH_FACE_ID</Position>
       <TranslationSet>
         <base loc="en">Guided Access is enabled.\nTriple-click the side button or use Face ID to exit.</base>
-        <tran loc="es">“Acceso guiado” está activado.\nPulsa tres veces el botón lateral o usa Face ID para salir.</tran>
+        <tran loc="es-419">Se activó Acceso guiado.\nPresiona tres veces en el botón lateral o usa Face ID para salir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@
       <Position>SYS_FEATURE_MOTION</Position>
       <TranslationSet>
         <base loc="en">Motion</base>
-        <tran loc="es">Movimiento</tran>
+        <tran loc="es-419">Movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@
       <Position>DEVICE_IS_RESTRICTED</Position>
       <TranslationSet>
         <base loc="en">Guided Access app unavailable. Please contact your administrator</base>
-        <tran loc="es">La app “Acceso guiado” no está disponible. Ponte en contacto con el administrador.</tran>
+        <tran loc="es-419">La app Acceso Guiado no está disponible. Ponte en contacto con el administrador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -422,7 +422,7 @@
       <Position>SYS_FEATURE_TOUCH</Position>
       <TranslationSet>
         <base loc="en">Touch</base>
-        <tran loc="es">Tacto</tran>
+        <tran loc="es-419">Tacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -430,7 +430,7 @@
       <Position>INCOMING_CALL_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">incoming call</base>
-        <tran loc="es">llamada entrante</tran>
+        <tran loc="es-419">Llamada entrante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@
       <Position>OPTIONS_FEATURE</Position>
       <TranslationSet>
         <base loc="en">%@ Options</base>
-        <tran loc="es">Opciones de %@</tran>
+        <tran loc="es-419">Opciones de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -446,7 +446,7 @@
       <Position>CONFIRMATION_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Passcodes did not match</base>
-        <tran loc="es">Los códigos no coinciden</tran>
+        <tran loc="es-419">Los códigos no coinciden</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@
       <Position>TIME_RESTRICTION_FEATURE</Position>
       <TranslationSet>
         <base loc="en">Time Limit</base>
-        <tran loc="es">Límite de tiempo</tran>
+        <tran loc="es-419">Límite de tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@
       <Position>TIME_RESTRICTION_APP_TIME_REMAINING_TOP_BANNER</Position>
       <TranslationSet>
         <base loc="en">%@ remaining</base>
-        <tran loc="es">Tiempo restante: %@</tran>
+        <tran loc="es-419">%@ restante(s)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@
       <Position>GAX_TIME_RESTRICTION_DID_EXPIRE_SPEECH_STRIMG</Position>
       <TranslationSet>
         <base loc="en">Guided Access time has ended</base>
-        <tran loc="es">El tiempo con “Acceso guiado” se ha agotado</tran>
+        <tran loc="es-419">Se agotó el tiempo para Acceso Guiado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -478,7 +478,7 @@
       <Position>APP_SELF_LOCK_CONFIRM_TITLE</Position>
       <TranslationSet>
         <base loc="en">Confirm App Self-Lock</base>
-        <tran loc="es">Confirmar autobloqueo en app</tran>
+        <tran loc="es-419">Confirmar autobloqueo de app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -486,7 +486,7 @@
       <Position>TIME_RESTRICTION_APP_TIME_REMAINING_CENTER_BANNER</Position>
       <TranslationSet>
         <base loc="en">Time Limit\n%@</base>
-        <tran loc="es">Límite de tiempo\n%@</tran>
+        <tran loc="es-419">Duración:\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -494,7 +494,7 @@
       <Position>HARDWARE_FEATURE_LOCK_IPAD</Position>
       <TranslationSet>
         <base loc="en">Sleep/Wake Button</base>
-        <tran loc="es">Botón de activación/reposo</tran>
+        <tran loc="es-419">Botón de activación/reposo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -502,7 +502,7 @@
       <Position>HARDWARE_FEATURE_LOCK_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Sleep/Wake Button</base>
-        <tran loc="es">Botón de activación/reposo</tran>
+        <tran loc="es-419">Botón de activación/reposo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -510,7 +510,7 @@
       <Position>HARDWARE_FEATURE_LOCK_IPOD</Position>
       <TranslationSet>
         <base loc="en">Sleep/Wake Button</base>
-        <tran loc="es">Botón de activación/reposo</tran>
+        <tran loc="es-419">Botón de activación/reposo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -518,7 +518,7 @@
       <Position>PINCODE_TITLE_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Confirm Passcode</base>
-        <tran loc="es">Confirmar código</tran>
+        <tran loc="es-419">Confirmar código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -526,7 +526,7 @@
       <Position>APP_SELF_LOCK_ENDED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Your iPhone is no longer locked to %1$@.</base>
-        <tran loc="es">El iPhone ya no está bloqueado en %1$@.</tran>
+        <tran loc="es-419">Tu iPhone ya no está bloqueado con %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -534,7 +534,7 @@
       <Position>APP_SELF_LOCK_ENDED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Your iPod touch is no longer locked to %1$@.</base>
-        <tran loc="es">El iPod touch ya no está bloqueado en %1$@.</tran>
+        <tran loc="es-419">Tu iPod touch ya no está bloqueado con %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -542,7 +542,7 @@
       <Position>APP_SELF_LOCK_STARTED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Your iPhone is now locked to %1$@.\nYour iPhone will be unlocked when %1$@ ends Single App Mode, or after %2$@.</base>
-        <tran loc="es">El iPhone está bloqueado en %1$@.\nEl iPhone se desbloqueará cuando finalice el modo de app única de %1$@ o después de %2$@.</tran>
+        <tran loc="es-419">Tu iPhone está bloqueado con %1$@.\nSe desbloqueará cuando %1$@ finalice el modo de app única o después de %2$@.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -553,7 +553,7 @@
       <Position>/AX_INTEREST_AREA_COUNT:dict/areas:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d areas</base>
-        <tran loc="es">%d áreas</tran>
+        <tran loc="es-419">%d áreas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>/AX_INTEREST_AREA_COUNT:dict/areas:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d area</base>
-        <tran loc="es">%d área</tran>
+        <tran loc="es-419">%d área</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>/AX_INTEREST_AREA_COUNT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@areas@</base>
-        <tran loc="es">%#@areas@</tran>
+        <tran loc="es-419">%#@areas@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>/AX_INTEREST_AREA_COUNT:dict/areas:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">no areas</base>
-        <tran loc="es">ningún área</tran>
+        <tran loc="es-419">0 áreas</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -588,7 +588,7 @@
       <Position>DICTIONARY_LOOKUP</Position>
       <TranslationSet>
         <base loc="en">Dictionary Lookup</base>
-        <tran loc="es">Búsqueda en el diccionario</tran>
+        <tran loc="es-419">Búsqueda en el diccionario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -596,7 +596,7 @@
       <Position>ERROR_RESETTING_AX_FEATURES_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Cannot reset Accessibility features.</base>
-        <tran loc="es">No se pueden restablecer las funciones de accesibilidad.</tran>
+        <tran loc="es-419">No se pudo restablecer las funciones de Accesibildad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -604,7 +604,7 @@
       <Position>ERROR_REQUESTING_SESSION</Position>
       <TranslationSet>
         <base loc="en">An unexpected error occurred when attempting to start a Guided Access session.</base>
-        <tran loc="es">Se ha producido un error inesperado al intentar iniciar una sesión de acceso guiado.</tran>
+        <tran loc="es-419">Ocurrió un error inesperado al intentar iniciar una sesión de Acceso Guiado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -612,7 +612,7 @@
       <Position>ERROR_ENDING_SESSION</Position>
       <TranslationSet>
         <base loc="en">An unexpected error occurred when attempting to end a Guided Access session.</base>
-        <tran loc="es">Se ha producido un error inesperado al intentar finalizar una sesión de acceso guiado.</tran>
+        <tran loc="es-419">Ocurrió un error inesperado al intentar finalizar una sesión de Acceso Guiado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -620,7 +620,7 @@
       <Position>ERROR_RESETTING_AX_FEATURES_NOT_LOCKED_IN_SAM</Position>
       <TranslationSet>
         <base loc="en">Cannot reset Accessibility features: app is not locked into SAM</base>
-        <tran loc="es">No se pueden restablecer las funciones de accesibilidad: la app no está bloqueada en el modo de app única</tran>
+        <tran loc="es-419">No se pudo restablecer las funciones de Accesibildad: la app no está bloqueada en SAM</tran>
       </TranslationSet>
     </TextItem>
   </File>

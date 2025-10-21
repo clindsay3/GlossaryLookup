@@ -9,7 +9,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2002-2009 Apple Inc.\nAll rights reserved.</base>
-        <tran loc="es">Copyright © 2002-2009 Apple Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2002-2009 Apple Inc.\nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -21,7 +21,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2002-2009 Apple Inc.\nAll rights reserved.</base>
-        <tran loc="es">Copyright © 2002-2009 Apple Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2002-2009 Apple Inc.\nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -32,7 +32,7 @@
       <Position>iMessage</Position>
       <TranslationSet>
         <base loc="en">iMessage</base>
-        <tran loc="es">iMessage</tran>
+        <tran loc="es-419">iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>iCloud, iMessage, and FaceTime</Position>
       <TranslationSet>
         <base loc="en">iCloud, iMessage, and FaceTime</base>
-        <tran loc="es">iCloud, iMessage y FaceTime</tran>
+        <tran loc="es-419">iCloud, iMessage y FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Apple ID</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>The password for this Apple ID needs to be updated.</Position>
       <TranslationSet>
         <base loc="en">The password for this Apple ID needs to be updated.</base>
-        <tran loc="es">Debes actualizar la contraseña de este ID de Apple.</tran>
+        <tran loc="es-419">La contraseña de este Apple ID necesita actualizarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>This email address was recently added to your Apple ID \\U201C%@\\U201D on \\U201C%@\\U201D.</Position>
       <TranslationSet>
         <base loc="en">This email address was recently added to your Apple ID “%@” on “%@”.</base>
-        <tran loc="es">Esta dirección de correo se ha añadido recientemente a tu ID de Apple “%@” en “%@”.</tran>
+        <tran loc="es-419">Esta dirección de correo se agregó recientemente a tu Apple ID “%@” en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>FaceTime</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Your %@ is now being used for %@ on a new iPod touch.</Position>
       <TranslationSet>
         <base loc="en">Your %@ is now being used for %@ on a new iPod touch.</base>
-        <tran loc="es">Tu %@ se está utilizando para %@ en un iPod touch nuevo.</tran>
+        <tran loc="es-419">Se está utilizando tu %@ para %@ en un nuevo iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Your %@ are now being used for %@ on a new Apple Watch.</Position>
       <TranslationSet>
         <base loc="en">Your %@ are now being used for %@ on a new Apple Watch.</base>
-        <tran loc="es">%@ se están utilizando para %@ en un Apple Watch nuevo.</tran>
+        <tran loc="es-419">Se están utilizando tus %@ para %@ en un nuevo Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>This email address was recently added to your Apple ID \\U201C%@\\U201D.</Position>
       <TranslationSet>
         <base loc="en">This email address was recently added to your Apple ID “%@”.</base>
-        <tran loc="es">Esta dirección de correo se ha añadido recientemente a tu ID de Apple “%@”.</tran>
+        <tran loc="es-419">Esta dirección de correo se agregó recientemente a tu Apple ID “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>FaceTime and iMessage Activation</Position>
       <TranslationSet>
         <base loc="en">FaceTime and iMessage Activation</base>
-        <tran loc="es">Activación de FaceTime y iMessage</tran>
+        <tran loc="es-419">Activación de FaceTime y iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Do you want to add %@ to %@?</Position>
       <TranslationSet>
         <base loc="en">Do you want to add %@ to %@?</base>
-        <tran loc="es">¿Quieres añadir %@ a %@?</tran>
+        <tran loc="es-419">¿Quieres agregar el número %@ a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>If you recently signed into \\U201C%@\\U201D you can ignore this notification.</Position>
       <TranslationSet>
         <base loc="en">If you recently signed into “%@” you can ignore this notification.</base>
-        <tran loc="es">Si hace poco que has iniciado sesión en “%@”, puedes ignorar esta notificación.</tran>
+        <tran loc="es-419">Puedes ignorar esta notificación si iniciaste sesión recientemente en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Your %@ is now being used for %@ on a new Apple TV.</Position>
       <TranslationSet>
         <base loc="en">Your %@ is now being used for %@ on a new Apple TV.</base>
-        <tran loc="es">Tu %@ se está utilizando para %@ en un Apple TV nuevo.</tran>
+        <tran loc="es-419">Se está utilizando tu %@ para %@ en un nuevo Apple TV.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>Your %@ is now being used for %@ on a new iPad.</Position>
       <TranslationSet>
         <base loc="en">Your %@ is now being used for %@ on a new iPad.</base>
-        <tran loc="es">Tu %@ se está utilizando para %@ en un iPad nuevo.</tran>
+        <tran loc="es-419">Se está utilizando tu %@ para %@ en un nuevo iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>phone number</Position>
       <TranslationSet>
         <base loc="en">phone number</base>
-        <tran loc="es">número de teléfono</tran>
+        <tran loc="es-419">número de teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>iMessage and %@</Position>
       <TranslationSet>
         <base loc="en">iMessage and %@</base>
-        <tran loc="es">iMessage y %@</tran>
+        <tran loc="es-419">iMessage y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>Your carrier may charge for SMS messages used to activate iCloud.</Position>
       <TranslationSet>
         <base loc="en">Your carrier may charge for SMS messages used to activate iCloud.</base>
-        <tran loc="es">Puede que los mensajes de texto necesarios para activar iCloud sean de pago.</tran>
+        <tran loc="es-419">Puede que los mensajes de texto necesarios para activar iCloud sean de pago.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>FaceTime and iMessage</Position>
       <TranslationSet>
         <base loc="en">FaceTime and iMessage</base>
-        <tran loc="es">FaceTime y iMessage</tran>
+        <tran loc="es-419">FaceTime y iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>Your Apple ID</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID</base>
-        <tran loc="es">Tu ID de Apple</tran>
+        <tran loc="es-419">Tu Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>%@ and %@</Position>
       <TranslationSet>
         <base loc="en">%@ and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>\\U201D</Position>
       <TranslationSet>
         <base loc="en">”</base>
-        <tran loc="es">”</tran>
+        <tran loc="es-419">”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>Your %@ is now being used for %@ on a new iPhone.</Position>
       <TranslationSet>
         <base loc="en">Your %@ is now being used for %@ on a new iPhone.</base>
-        <tran loc="es">Tu %@ se está utilizando para %@ en un iPhone nuevo.</tran>
+        <tran loc="es-419">Se está utilizando tu %@ para %@ en un nuevo iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Your carrier may charge for SMS messages used to activate FaceTime and iMessage.</Position>
       <TranslationSet>
         <base loc="en">Your carrier may charge for SMS messages used to activate FaceTime and iMessage.</base>
-        <tran loc="es">Puede que los mensajes de texto necesarios para activar FaceTime y iMessage sean de pago.</tran>
+        <tran loc="es-419">Puede que los mensajes de texto necesarios para activar FaceTime y iMessage sean de pago.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>No</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>The provided Apple ID needs some additional information in order to proceed.</Position>
       <TranslationSet>
         <base loc="en">The provided Apple ID needs some additional information in order to proceed.</base>
-        <tran loc="es">Para poder continuar, debes introducir información adicional acerca del ID de Apple.</tran>
+        <tran loc="es-419">Para poder continuar, debes ingresar información adicional acerca del Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>iCloud and %@</Position>
       <TranslationSet>
         <base loc="en">iCloud and %@</base>
-        <tran loc="es">iCloud y %@</tran>
+        <tran loc="es-419">iCloud y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>Your %@ are now being used for %@ on a new iPhone.</Position>
       <TranslationSet>
         <base loc="en">Your %@ are now being used for %@ on a new iPhone.</base>
-        <tran loc="es">%@ se están utilizando para %@ en un iPhone nuevo.</tran>
+        <tran loc="es-419">Se están utilizando tus %@ para %@ en un nuevo iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>Your %@ is now being used for %@ on a new Mac.</Position>
       <TranslationSet>
         <base loc="en">Your %@ is now being used for %@ on a new Mac.</base>
-        <tran loc="es">Tu %@ se está utilizando para %@ en un Mac nuevo.</tran>
+        <tran loc="es-419">Se está utilizando tu %@ para %@ en una nueva Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>%@, and %@</Position>
       <TranslationSet>
         <base loc="en">%@, and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>FaceTime Activation</Position>
       <TranslationSet>
         <base loc="en">FaceTime Activation</base>
-        <tran loc="es">Activación de FaceTime</tran>
+        <tran loc="es-419">Activación de FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>Your %@ are now being used for %@ on a new Mac.</Position>
       <TranslationSet>
         <base loc="en">Your %@ are now being used for %@ on a new Mac.</base>
-        <tran loc="es">%@ se están utilizando para %@ en un Mac nuevo.</tran>
+        <tran loc="es-419">Se están utilizando tus %@ para %@ en una nueva Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>This phone number was associated with the Apple ID \\U201C%@\\U201D on \\U201C%@\\U201D.</Position>
       <TranslationSet>
         <base loc="en">This phone number was associated with the Apple ID “%@” on “%@”.</base>
-        <tran loc="es">Este número de teléfono se ha asociado al ID de Apple “%@” en “%@”.</tran>
+        <tran loc="es-419">Este número de teléfono se asoció al Apple ID “%@” en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>%@, %@, and %@</Position>
       <TranslationSet>
         <base loc="en">%@, %@, and %@</base>
-        <tran loc="es">%@, %@ y %@</tran>
+        <tran loc="es-419">%@, %@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>Add %@ for %@?</Position>
       <TranslationSet>
         <base loc="en">Add %@ for %@?</base>
-        <tran loc="es">¿Añadir %@ a %@?</tran>
+        <tran loc="es-419">¿Agregar %@ a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>Your carrier may charge for SMS messages used to activate iMessage.</Position>
       <TranslationSet>
         <base loc="en">Your carrier may charge for SMS messages used to activate iMessage.</base>
-        <tran loc="es">Puede que los mensajes de texto necesarios para activar iMessage sean de pago.</tran>
+        <tran loc="es-419">Puede que los mensajes de texto necesarios para activar iMessage sean de pago.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>Apple ID and phone number</Position>
       <TranslationSet>
         <base loc="en">Apple ID and phone number</base>
-        <tran loc="es">Tu ID de Apple y tu número de teléfono</tran>
+        <tran loc="es-419">Apple ID y número telefónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>Add \\U201C%@\\U201D for %@</Position>
       <TranslationSet>
         <base loc="en">Add “%@” for %@</base>
-        <tran loc="es">Añadir “%@” para %@</tran>
+        <tran loc="es-419">Agregar “%@” para %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>Your %@ is now being used for %@ on a new Apple Watch.</Position>
       <TranslationSet>
         <base loc="en">Your %@ is now being used for %@ on a new Apple Watch.</base>
-        <tran loc="es">Tu %@ se está utilizando para %@ en un Apple Watch nuevo.</tran>
+        <tran loc="es-419">Se está utilizando tu %@ para %@ en un nuevo Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>Yes</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>iMessage Activation</Position>
       <TranslationSet>
         <base loc="en">iMessage Activation</base>
-        <tran loc="es">Activación de iMessage</tran>
+        <tran loc="es-419">Activación de iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>iCloud</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>Your %@ are now being used for %@ on a new Apple TV.</Position>
       <TranslationSet>
         <base loc="en">Your %@ are now being used for %@ on a new Apple TV.</base>
-        <tran loc="es">%@ se están utilizando para %@ en un Apple TV nuevo.</tran>
+        <tran loc="es-419">Se están utilizando tus %@ para %@ en un nuevo Apple TV.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>This phone number was associated with the Apple ID \\U201C%@\\U201D.</Position>
       <TranslationSet>
         <base loc="en">This phone number was associated with the Apple ID “%@”.</base>
-        <tran loc="es">Este número de teléfono se ha asociado al ID de Apple “%@”.</tran>
+        <tran loc="es-419">Este número de teléfono se asoció al Apple ID “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>Your %@ are now being used for %@ on a new iPod touch.</Position>
       <TranslationSet>
         <base loc="en">Your %@ are now being used for %@ on a new iPod touch.</base>
-        <tran loc="es">%@ se están utilizando para %@ en un iPod touch nuevo.</tran>
+        <tran loc="es-419">Se están utilizando tus %@ para %@ en un nuevo iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>Your carrier may charge for SMS messages used to activate FaceTime.</Position>
       <TranslationSet>
         <base loc="en">Your carrier may charge for SMS messages used to activate FaceTime.</base>
-        <tran loc="es">Puede que los mensajes de texto necesarios para activar FaceTime sean de pago.</tran>
+        <tran loc="es-419">Puede que los mensajes de texto necesarios para activar FaceTime sean de pago.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>Your %@ are now being used for %@ on a new iPad.</Position>
       <TranslationSet>
         <base loc="en">Your %@ are now being used for %@ on a new iPad.</base>
-        <tran loc="es">%@ se están utilizando para %@ en un iPad nuevo.</tran>
+        <tran loc="es-419">Se están utilizando tus %@ para %@ en un nuevo iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>Do you want to add \\U201C%@\\U201D to %@?</Position>
       <TranslationSet>
         <base loc="en">Do you want to add “%@” to %@?</base>
-        <tran loc="es">¿Quieres añadir “%@” a %@?</tran>
+        <tran loc="es-419">¿Quieres agregar a “%@” a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>\\U201C</Position>
       <TranslationSet>
         <base loc="en">“</base>
-        <tran loc="es">“</tran>
+        <tran loc="es-419">“</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -442,7 +442,7 @@
       <Position>Your Date &amp; Time settings need to be updated.</Position>
       <TranslationSet>
         <base loc="en">Your Date &amp; Time settings need to be updated.</base>
-        <tran loc="es">Debes actualizar los ajustes de fecha y hora.</tran>
+        <tran loc="es-419">Debes actualizar la configuración de fecha y hora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -450,7 +450,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -458,7 +458,7 @@
       <Position>iMessage Failed</Position>
       <TranslationSet>
         <base loc="en">iMessage Failed</base>
-        <tran loc="es">Error de iMessage</tran>
+        <tran loc="es-419">Error de iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -466,7 +466,7 @@
       <Position>Settings</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -477,7 +477,7 @@
       <Position>The password for \\U201C%@\\U201D needs to be updated.</Position>
       <TranslationSet>
         <base loc="en">The password for “%@” needs to be updated.</base>
-        <tran loc="es">Debes actualizar la contraseña de “%@”.</tran>
+        <tran loc="es-419">Se debe actualizar la contraseña de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -485,7 +485,7 @@
       <Position>iCloud</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -497,7 +497,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2002-2009 Apple Inc.\nAll rights reserved.</base>
-        <tran loc="es">Copyright © 2002-2009 Apple Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2002-2009 Apple Inc.\nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -509,7 +509,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2002-2012 Apple Inc.\nAll rights reserved.</base>
-        <tran loc="es">Copyright © 2002-2012 Apple Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2002-2012 Apple Inc.\nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -521,7 +521,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2002-2009 Apple Inc.\nAll rights reserved.</base>
-        <tran loc="es">Copyright © 2002-2009 Apple Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2002-2009 Apple Inc.\nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -533,7 +533,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2002-2010 Apple Inc.\nAll rights reserved.</base>
-        <tran loc="es">Copyright © 2002-2010 Apple Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2002-2010 Apple Inc.\nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -545,7 +545,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2002-2011 Apple Inc.\nAll rights reserved.</base>
-        <tran loc="es">Copyright © 2002-2011 Apple Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2002-2011 Apple Inc.\nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -557,7 +557,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2002-2010 Apple Inc.\nAll rights reserved.</base>
-        <tran loc="es">Copyright © 2002-2010 Apple Inc.\nTodos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2002-2010 Apple Inc.\nTodos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>

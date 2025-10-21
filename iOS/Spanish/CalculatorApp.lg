@@ -8,7 +8,7 @@
       <Position>Error</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>COPY_LAST_RESULT_SHORTCUT_ITEM_TITLE</Position>
       <TranslationSet>
         <base loc="en">Copy Last Result</base>
-        <tran loc="es">Copiar último valor</tran>
+        <tran loc="es-419">Copiar último valor</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -27,7 +27,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple, 2007</base>
-        <tran loc="es">© Apple, 2007</tran>
+        <tran loc="es-419">© Apple, 2007</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calculator</base>
-        <tran loc="es">Calculadora</tran>
+        <tran loc="es-419">Calculadora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Calculator</base>
-        <tran loc="es">Calculadora</tran>
+        <tran loc="es-419">Calculadora</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -54,7 +54,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple, 2007</base>
-        <tran loc="es">© Apple, 2007</tran>
+        <tran loc="es-419">© Apple, 2007</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calculator</base>
-        <tran loc="es">Calculadora</tran>
+        <tran loc="es-419">Calculadora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Calculator</base>
-        <tran loc="es">Calculadora</tran>
+        <tran loc="es-419">Calculadora</tran>
       </TranslationSet>
     </TextItem>
   </File>

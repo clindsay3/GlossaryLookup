@@ -8,7 +8,7 @@
       <Position>GESTURES_TAP</Position>
       <TranslationSet>
         <base loc="en">Tap</base>
-        <tran loc="es">Pulsar</tran>
+        <tran loc="es-419">Toca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>GESTURES_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Keyboard Gestures disabled</base>
-        <tran loc="es">Gestos del teclado desactivados</tran>
+        <tran loc="es-419">Se desactivaron los gestos del teclado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>NO_ACTIONS</Position>
       <TranslationSet>
         <base loc="en">No actions available</base>
-        <tran loc="es">No hay acciones disponibles</tran>
+        <tran loc="es-419">Sin acciones disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>GESTURES_HEADER</Position>
       <TranslationSet>
         <base loc="en">Keyboard Gestures</base>
-        <tran loc="es">Gestos del teclado</tran>
+        <tran loc="es-419">Gestos del teclado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>GESTURES_ZOOM_COMMAND</Position>
       <TranslationSet>
         <base loc="en">⌘↑/↓</base>
-        <tran loc="es">⌘↑/↓</tran>
+        <tran loc="es-419">⌘↑/↓</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>GESTURES_TWO_FINGERS</Position>
       <TranslationSet>
         <base loc="en">Hold Shift for two finger Taps and Swipes</base>
-        <tran loc="es">Mantén pulsado el botón Mayúsculas para realizar las acciones de deslizar y pulsar con dos dedos</tran>
+        <tran loc="es-419">Sostén Mayúsculas para realizar toques con dos dedos y deslizamientos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>GESTURES_SWIPE_COMMAND</Position>
       <TranslationSet>
         <base loc="en">←/↑/↓/→</base>
-        <tran loc="es">←/↑/↓/→</tran>
+        <tran loc="es-419">←/↑/↓/→</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>GESTURES_TAP_COMMAND</Position>
       <TranslationSet>
         <base loc="en">Space</base>
-        <tran loc="es">Espacio</tran>
+        <tran loc="es-419">Espacio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>KEYBOARD_NAVIGATION</Position>
       <TranslationSet>
         <base loc="en">Keyboard Navigation</base>
-        <tran loc="es">Navegación con teclado</tran>
+        <tran loc="es-419">Navegación del teclado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>GESTURES_ROTATE_COMMAND</Position>
       <TranslationSet>
         <base loc="en">⌘←/→</base>
-        <tran loc="es">⌘←/→</tran>
+        <tran loc="es-419">⌘←/→</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>GESTURES_ZOOM</Position>
       <TranslationSet>
         <base loc="en">Zoom In/Out</base>
-        <tran loc="es">Aumentar o reducir zoom</tran>
+        <tran loc="es-419">Acercar/alejar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>GESTURES_SWIPE</Position>
       <TranslationSet>
         <base loc="en">Swipe</base>
-        <tran loc="es">Deslizar</tran>
+        <tran loc="es-419">Desliza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>GESTURES_ROTATE</Position>
       <TranslationSet>
         <base loc="en">Rotate Left/Right</base>
-        <tran loc="es">Rotar a la izquierda o derecha</tran>
+        <tran loc="es-419">Girar a la izquierda/derecha</tran>
       </TranslationSet>
     </TextItem>
   </File>

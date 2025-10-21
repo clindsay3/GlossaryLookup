@@ -8,7 +8,7 @@
       <Position>kSSAppleCareAddToClipboardMessage</Position>
       <TranslationSet>
         <base loc="en">AppleCare would like to add this to your clipboard:</base>
-        <tran loc="es">AppleCare quiere añadir esto a tu portapapeles:</tran>
+        <tran loc="es-419">AppleCare quiere agregar esto a tu portapapeles:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>AppleCare-is viewing your screen</Position>
       <TranslationSet>
         <base loc="en">is viewing your screen</base>
-        <tran loc="es">está viendo tu pantalla</tran>
+        <tran loc="es-419">está viendo tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>is viewing your screen</Position>
       <TranslationSet>
         <base loc="en">is viewing your screen</base>
-        <tran loc="es">está viendo tu pantalla</tran>
+        <tran loc="es-419">está viendo tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>would like to view your screen</Position>
       <TranslationSet>
         <base loc="en">would like to view your screen</base>
-        <tran loc="es">quiere ver tu pantalla</tran>
+        <tran loc="es-419">quiere ver tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Pause Screen Sharing</Position>
       <TranslationSet>
         <base loc="en">Pause Screen Sharing</base>
-        <tran loc="es">Poner pantalla compartida en pausa</tran>
+        <tran loc="es-419">Pausar la pantalla compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Share your screen with AppleCare?</Position>
       <TranslationSet>
         <base loc="en">Share your screen with AppleCare?</base>
-        <tran loc="es">¿Compartir tu pantalla con AppleCare?</tran>
+        <tran loc="es-419">¿Quieres compartir tu pantalla con AppleCare?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Accept</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Resume Screen Sharing</Position>
       <TranslationSet>
         <base loc="en">Resume Screen Sharing</base>
-        <tran loc="es">Reanudar pantalla compartida</tran>
+        <tran loc="es-419">Reanudar la pantalla compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>KSSAskToResumeMessage</Position>
       <TranslationSet>
         <base loc="en">would like to resume the screen sharing session</base>
-        <tran loc="es">quiere reanudar la sesión de pantalla compartida</tran>
+        <tran loc="es-419">quiere continuar la sesión de pantalla compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>kSSAppleCareAskToResumeMessage</Position>
       <TranslationSet>
         <base loc="en">AppleCare would like to resume viewing your screen</base>
-        <tran loc="es">AppleCare quiere reanudar la sesión de pantalla compartida</tran>
+        <tran loc="es-419">AppleCare quiere continuar viendo tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -90,7 +90,7 @@
       <Position>3Linefeed</Position>
       <TranslationSet>
         <base loc="en">\n\n\n</base>
-        <tran loc="es">\n\n\n</tran>
+        <tran loc="es-419">\n\n\n</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -98,7 +98,7 @@
       <Position>AppleCare</Position>
       <TranslationSet>
         <base loc="en">AppleCare</base>
-        <tran loc="es">AppleCare</tran>
+        <tran loc="es-419">AppleCare</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -106,7 +106,7 @@
       <Position>End Screen Sharing</Position>
       <TranslationSet>
         <base loc="en">End Screen Sharing</base>
-        <tran loc="es">Dejar de compartir pantalla</tran>
+        <tran loc="es-419">Dejar de compartir pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -114,7 +114,7 @@
       <Position>kSSAppleCareSentMessage</Position>
       <TranslationSet>
         <base loc="en">AppleCare sent a message:</base>
-        <tran loc="es">AppleCare te ha enviado un mensaje:</tran>
+        <tran loc="es-419">AppleCare envió un mensaje:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -122,7 +122,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -130,7 +130,7 @@
       <Position>kSSAppleCareOpenURLMessage</Position>
       <TranslationSet>
         <base loc="en">AppleCare would like to open:</base>
-        <tran loc="es">AppleCare quiere abrir:</tran>
+        <tran loc="es-419">AppleCare quiere abrir:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -138,7 +138,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -146,7 +146,7 @@
       <Position>kSSAppleCarePaused</Position>
       <TranslationSet>
         <base loc="en">AppleCare paused screen sharing</base>
-        <tran loc="es">AppleCare ha puesto la sesión de pantalla compartida en pausa</tran>
+        <tran loc="es-419">AppleCare pausó la pantalla compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -154,7 +154,7 @@
       <Position>If you tap Accept, AppleCare will be able to see everything on your screen during this support session.</Position>
       <TranslationSet>
         <base loc="en">If you tap Accept, AppleCare will be able to see everything on your screen during this support session.</base>
-        <tran loc="es">Si pulsas Aceptar, AppleCare podrá ver toda tu pantalla durante esta sesión de asistencia técnica.</tran>
+        <tran loc="es-419">Si tocas Aceptar, AppleCare podrá ver todo lo que suceda en tu pantalla durante esta sesión de soporte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -162,7 +162,7 @@
       <Position>Decline</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Rechazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -170,7 +170,7 @@
       <Position>Resume</Position>
       <TranslationSet>
         <base loc="en">Resume</base>
-        <tran loc="es">Reanudar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -178,7 +178,7 @@
       <Position>Copy</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -186,7 +186,7 @@
       <Position>Screen Sharing is paused</Position>
       <TranslationSet>
         <base loc="en">Screen Sharing is paused</base>
-        <tran loc="es">Pantalla compartida en pausa</tran>
+        <tran loc="es-419">Se pausó compartir pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -194,7 +194,7 @@
       <Position>has disconnected</Position>
       <TranslationSet>
         <base loc="en">has disconnected</base>
-        <tran loc="es">se ha desconectado</tran>
+        <tran loc="es-419">se desconectó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -202,7 +202,7 @@
       <Position>Open</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -213,7 +213,7 @@
       <Position>GGh-qh-CV2.title</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">No acepto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -221,7 +221,7 @@
       <Position>2DG-Nz-LgE.text</Position>
       <TranslationSet>
         <base loc="en">This session will be recorded for quality and service purposes and may be held for up to two years on our systems in a manner that could be associated with you. If there is anything you don’t want Apple to see on your screen, remove it from view before your session begins. Click Agree to accept the terms provided here.</base>
-        <tran loc="es">Esta sesión se grabará con fines de calidad y servicio; puede que la conservemos en nuestros sistemas durante hasta dos años de una manera que podría asociarse a ti. Si hay algo en la pantalla que no deseas que Apple vea, elimínalo de la vista antes de que se inicie la sesión. Haz clic en Acepto para aceptar los términos especificados aquí.</tran>
+        <tran loc="es-419">Esta sesión se grabará con propósitos de calidad y servicio, y se podría almacenar hasta por dos años en nuestros sistemas de una manera en la que se podría asociar contigo. Si hay algo en tu pantalla que no quisieras que Apple vea, ocúltalo antes de que comience tu sesión de soporte. Toca Acepto para aceptar los términos descritos aquí.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -229,7 +229,7 @@
       <Position>Ta9-Zm-SGm.title</Position>
       <TranslationSet>
         <base loc="en">Agree</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Acepto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -237,7 +237,7 @@
       <Position>W40-ua-B9q.text</Position>
       <TranslationSet>
         <base loc="en">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</base>
-        <tran loc="es">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</tran>
+        <tran loc="es-419">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -245,7 +245,7 @@
       <Position>tTk-q7-cFZ.text</Position>
       <TranslationSet>
         <base loc="en">AppleCare Terms and Conditions</base>
-        <tran loc="es">Términos y condiciones de AppleCare</tran>
+        <tran loc="es-419">Términos y condiciones de AppleCare</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -256,7 +256,7 @@
       <Position>oJ9-4q-FsV.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Launch</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -267,7 +267,7 @@
       <Position>kSSAppleCareAddToClipboardMessage</Position>
       <TranslationSet>
         <base loc="en">AppleCare would like to add this to your clipboard:</base>
-        <tran loc="es">AppleCare quiere añadir esto a tu portapapeles:</tran>
+        <tran loc="es-419">AppleCare quiere agregar esto a tu portapapeles:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>AppleCare-is viewing your screen</Position>
       <TranslationSet>
         <base loc="en">is viewing your screen</base>
-        <tran loc="es">está viendo tu pantalla</tran>
+        <tran loc="es-419">está viendo tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>is viewing your screen</Position>
       <TranslationSet>
         <base loc="en">is viewing your screen</base>
-        <tran loc="es">está viendo tu pantalla</tran>
+        <tran loc="es-419">está viendo tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>would like to view your screen</Position>
       <TranslationSet>
         <base loc="en">would like to view your screen</base>
-        <tran loc="es">quiere ver tu pantalla</tran>
+        <tran loc="es-419">quiere ver tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>Pause Screen Sharing</Position>
       <TranslationSet>
         <base loc="en">Pause Screen Sharing</base>
-        <tran loc="es">Poner pantalla compartida en pausa</tran>
+        <tran loc="es-419">Pausar la pantalla compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>Share your screen with AppleCare?</Position>
       <TranslationSet>
         <base loc="en">Share your screen with AppleCare?</base>
-        <tran loc="es">¿Compartir tu pantalla con AppleCare?</tran>
+        <tran loc="es-419">¿Quieres compartir tu pantalla con AppleCare?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>Accept</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>Resume Screen Sharing</Position>
       <TranslationSet>
         <base loc="en">Resume Screen Sharing</base>
-        <tran loc="es">Reanudar pantalla compartida</tran>
+        <tran loc="es-419">Reanudar la pantalla compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>KSSAskToResumeMessage</Position>
       <TranslationSet>
         <base loc="en">would like to resume the screen sharing session</base>
-        <tran loc="es">quiere reanudar la sesión de pantalla compartida</tran>
+        <tran loc="es-419">quiere continuar la sesión de pantalla compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>kSSAppleCareAskToResumeMessage</Position>
       <TranslationSet>
         <base loc="en">AppleCare would like to resume viewing your screen</base>
-        <tran loc="es">AppleCare quiere reanudar la sesión de pantalla compartida</tran>
+        <tran loc="es-419">AppleCare quiere continuar viendo tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>3Linefeed</Position>
       <TranslationSet>
         <base loc="en">\n\n\n</base>
-        <tran loc="es">\n\n\n</tran>
+        <tran loc="es-419">\n\n\n</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>AppleCare</Position>
       <TranslationSet>
         <base loc="en">AppleCare</base>
-        <tran loc="es">AppleCare</tran>
+        <tran loc="es-419">AppleCare</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>End Screen Sharing</Position>
       <TranslationSet>
         <base loc="en">End Screen Sharing</base>
-        <tran loc="es">Dejar de compartir pantalla</tran>
+        <tran loc="es-419">Dejar de compartir pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>kSSAppleCareSentMessage</Position>
       <TranslationSet>
         <base loc="en">AppleCare sent a message:</base>
-        <tran loc="es">AppleCare te ha enviado un mensaje:</tran>
+        <tran loc="es-419">AppleCare envió un mensaje:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>kSSAppleCareOpenURLMessage</Position>
       <TranslationSet>
         <base loc="en">AppleCare would like to open:</base>
-        <tran loc="es">AppleCare quiere abrir:</tran>
+        <tran loc="es-419">AppleCare quiere abrir:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>kSSAppleCarePaused</Position>
       <TranslationSet>
         <base loc="en">AppleCare paused screen sharing</base>
-        <tran loc="es">AppleCare ha puesto la sesión de pantalla compartida en pausa</tran>
+        <tran loc="es-419">AppleCare pausó la pantalla compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +413,7 @@
       <Position>If you tap Accept, AppleCare will be able to see everything on your screen during this support session.</Position>
       <TranslationSet>
         <base loc="en">If you tap Accept, AppleCare will be able to see everything on your screen during this support session.</base>
-        <tran loc="es">Si pulsas Aceptar, AppleCare podrá ver toda tu pantalla durante esta sesión de asistencia técnica.</tran>
+        <tran loc="es-419">Si tocas Aceptar, AppleCare podrá ver todo lo que suceda en tu pantalla durante esta sesión de soporte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +421,7 @@
       <Position>Decline</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Rechazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>Resume</Position>
       <TranslationSet>
         <base loc="en">Resume</base>
-        <tran loc="es">Reanudar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -437,7 +437,7 @@
       <Position>Copy</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -445,7 +445,7 @@
       <Position>Screen Sharing is paused</Position>
       <TranslationSet>
         <base loc="en">Screen Sharing is paused</base>
-        <tran loc="es">Pantalla compartida en pausa</tran>
+        <tran loc="es-419">Se pausó compartir pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -453,7 +453,7 @@
       <Position>has disconnected</Position>
       <TranslationSet>
         <base loc="en">has disconnected</base>
-        <tran loc="es">se ha desconectado</tran>
+        <tran loc="es-419">se desconectó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -461,7 +461,7 @@
       <Position>Open</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
   </File>

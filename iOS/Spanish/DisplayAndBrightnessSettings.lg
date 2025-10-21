@@ -8,7 +8,7 @@
       <Position>HDR_COLOR_SETTING_FOOTER</Position>
       <TranslationSet>
         <base loc="en">HDR requires a high-speed HDMI cable and compatible adaptor. If you see black, sparkles, static, or other display problems, try a different cable or choose a different display setting.</base>
-        <tran loc="es">HDR requiere un cable HDMI de alta velocidad y un adaptador compatible. Si ves la pantalla en negro, destellos, ruido de pantalla u otros problemas de visualización, usa otro cable o selecciona un ajuste de pantalla distinto.</tran>
+        <tran loc="es-419">El modo HDR requiere un cable HDMI de alta velocidad y un adaptador compatible. Si la pantalla se ve negra o presenta estática, destellos u otros problemas, intenta con otro cable o elige otra configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>EXTERNAL_DISPLAY</Position>
       <TranslationSet>
         <base loc="en">External Display</base>
-        <tran loc="es">Pantalla externa</tran>
+        <tran loc="es-419">Pantalla externa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>CONNECTED_DISPLAYS</Position>
       <TranslationSet>
         <base loc="en">Connected Displays</base>
-        <tran loc="es">Pantallas conectadas</tran>
+        <tran loc="es-419">Pantallas conectadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>STANDARD_DYNAMIC_RANGE</Position>
       <TranslationSet>
         <base loc="en">Standard Dynamic Range (SDR)</base>
-        <tran loc="es">Rango dinámico estándar (SDR)</tran>
+        <tran loc="es-419">Rango dinámico estándar (SDR)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>SDR_COLOR_SETTING_FOOTER</Position>
       <TranslationSet>
         <base loc="en">If you expect your display to support HDR, try a different HDMI cable or adaptor.</base>
-        <tran loc="es">Si crees que la pantalla es compatible con el formato HDR, prueba con otro adaptador o cable HDMI.</tran>
+        <tran loc="es-419">Si crees que tu pantalla es compatible con HDR, intenta con otro adaptador o cable HDMI.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>LIMIT_REFRESH_RATE_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Use Dolby Vision at 30Hz</base>
-        <tran loc="es">Usar Dolby Vision a 30 Hz</tran>
+        <tran loc="es-419">Usar Dolby Vision a 30 Hz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>LIMIT_REFRESH_RATE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Choosing Dolby Vision for this display will limit the refresh rate to 30Hz. A refresh rate of 60 Hz or more is recommended for an optimal experience.</base>
-        <tran loc="es">Si seleccionas Dolby Vision para esta pantalla, la frecuencia de actualización se limitará a 30 Hz. Se recomienda una frecuencia de actualización de 60 Hz o más para una experiencia óptima.</tran>
+        <tran loc="es-419">Al elegir Dolby Vision para esta pantalla se limitará la frecuencia de actualización a 30 Hz. Para obtener una experiencia óptima, se recomienda una frecuencia de 60 Hz o más.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>DOLBY_COLOR_SETTING_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Dolby Vision and HDR require a high-speed HDMI cable and compatible adaptor. If you see black, sparkles, static, or other display problems, try a different cable or choose a different display setting.</base>
-        <tran loc="es">Dolby Vision y HDR requieren un cable HDMI de alta velocidad y un adaptador compatible. Si ves la pantalla en negro, destellos, ruido de pantalla u otros problemas de visualización, usa otro cable o selecciona un ajuste de pantalla distinto.</tran>
+        <tran loc="es-419">El modo HDR y Dolby Vision requieren un cable HDMI de alta velocidad y un adaptador compatible. Si la pantalla no muestra nada o presenta estática, destellos u otros problemas, intenta con otro cable o elige otra configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>REFRESH_RATE_LIMITED</Position>
       <TranslationSet>
         <base loc="en">Refresh rate limited to 30Hz</base>
-        <tran loc="es">Frecuencia de actualización limitada a 30 Hz</tran>
+        <tran loc="es-419">Limitar frecuencia de actualización a 30 Hz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>LIMIT_REFRESH_RATE_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>RECOMMENDED</Position>
       <TranslationSet>
         <base loc="en">Recommended</base>
-        <tran loc="es">Recomendada</tran>
+        <tran loc="es-419">Recomendada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>MATCH_CONTENT_FOOTER</Position>
       <TranslationSet>
         <base loc="en">When this is on, the display mode will change to match the dynamic range and framerate of the content you're viewing. This may result in flickering or long periods of black whenever content changes.</base>
-        <tran loc="es">Si esta opción está activada, el modo de visualización cambiará para ajustarse al rango dinámico y a la frecuencia de fotogramas del contenido que estés viendo, por lo que la pantalla podría parpadear o verse en negro durante un tiempo prolongado cada vez que cambie el contenido.</tran>
+        <tran loc="es-419">Si se activa, el modo de visualización cambiará para corresponder al rango dinámico y a la frecuencia de cuadros del contenido actual. Esto podría ocasionar que la pantalla parpadee o no muestre nada cuando se cambia de contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>EXTERNAL_AUTO_BRIGHTNESS</Position>
       <TranslationSet>
         <base loc="en">Auto-Brightness</base>
-        <tran loc="es">Brillo automático</tran>
+        <tran loc="es-419">Brillo automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>HIGH_DYNAMIC_RANGE</Position>
       <TranslationSet>
         <base loc="en">High Dynamic Range (HDR)</base>
-        <tran loc="es">Alto rango dinámico (HDR)</tran>
+        <tran loc="es-419">Alto rango dinámico (HDR)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>PREFERRED_COLOR_SETTING</Position>
       <TranslationSet>
         <base loc="en">Preferred Display Setting</base>
-        <tran loc="es">Ajuste de pantalla preferido</tran>
+        <tran loc="es-419">Configuración de pantalla preferida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>LIMIT_REFRESH_RATE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Limit Refresh Rate?</base>
-        <tran loc="es">¿Limitar la frecuencia de actualización?</tran>
+        <tran loc="es-419">¿Limitar frecuencia de actualización?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>COLOR_SETTING</Position>
       <TranslationSet>
         <base loc="en">Display Setting</base>
-        <tran loc="es">Ajuste de pantalla</tran>
+        <tran loc="es-419">Configuración de pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>MOST_COMPATIBLE</Position>
       <TranslationSet>
         <base loc="en">Most compatible</base>
-        <tran loc="es">Más compatible</tran>
+        <tran loc="es-419">Más compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -162,7 +162,7 @@
       <Position>MATCH_CONTENT</Position>
       <TranslationSet>
         <base loc="en">Allow Display Mode Changes</base>
-        <tran loc="es">Permitir cambiar el modo de visualización</tran>
+        <tran loc="es-419">Permitir cambiar modo de visualización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -170,7 +170,7 @@
       <Position>GOOD</Position>
       <TranslationSet>
         <base loc="en">Good</base>
-        <tran loc="es">Buena</tran>
+        <tran loc="es-419">Buena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -180,7 +180,7 @@
       <Position>BRIGHTNESS_GROUP</Position>
       <TranslationSet>
         <base loc="en">Brightness</base>
-        <tran loc="es">Brillo</tran>
+        <tran loc="es-419">Brillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>DOLBY_VISION</Position>
       <TranslationSet>
         <base loc="en">Dolby Vision</base>
-        <tran loc="es">Dolby Vision</tran>
+        <tran loc="es-419">Dolby Vision</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -201,7 +201,7 @@
       <Position>SCHEDULE</Position>
       <TranslationSet>
         <base loc="en">Custom Schedule</base>
-        <tran loc="es">Horario personalizado</tran>
+        <tran loc="es-419">Personalizar horario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -215,7 +215,7 @@
       <Position>APPEARANCE_SCHEDULE</Position>
       <TranslationSet>
         <base loc="en">Appearance Schedule</base>
-        <tran loc="es">Programación del aspecto</tran>
+        <tran loc="es-419">Horario de aspectos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -223,7 +223,7 @@
       <Position>LIGHT_APPEARANCE</Position>
       <TranslationSet>
         <base loc="en">Light Appearance</base>
-        <tran loc="es">Aspecto claro</tran>
+        <tran loc="es-419">Aspecto claro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -231,7 +231,7 @@
       <Position>APPEARANCE_SCHEDULE_FOOTER_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Schedule times to change appearance automatically. iPhone may wait to transition until you are not using the screen.</base>
-        <tran loc="es">Programa las horas a las que cambiar automáticamente el aspecto. El iPhone esperará a realizar la transición cuando no estés usando la pantalla.</tran>
+        <tran loc="es-419">Programa el horario para cambiar el aspecto automáticamente. El iPhone podría esperar a pasar de uno a otro hasta que dejes de usar la pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -239,7 +239,7 @@
       <Position>DARK_APPEARANCE</Position>
       <TranslationSet>
         <base loc="en">Dark Appearance</base>
-        <tran loc="es">Aspecto oscuro</tran>
+        <tran loc="es-419">Aspecto obscuro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -247,7 +247,7 @@
       <Position>APPEARANCE_SCHEDULE_FOOTER_IPOD</Position>
       <TranslationSet>
         <base loc="en">Schedule times to change appearance automatically. iPod may wait to transition until you are not using the screen.</base>
-        <tran loc="es">Programa las horas a las que cambiar automáticamente el aspecto. El iPod esperará a realizar la transición cuando no estés usando la pantalla.</tran>
+        <tran loc="es-419">Programa el horario para cambiar el aspecto automáticamente. El iPod podría esperar a pasar de uno a otro hasta que dejes de usar la pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -255,7 +255,7 @@
       <Position>APPEARANCE_SCHEDULE_FOOTER_IPAD</Position>
       <TranslationSet>
         <base loc="en">Schedule times to change appearance automatically. iPad may wait to transition until you are not using the screen.</base>
-        <tran loc="es">Programa las horas a las que cambiar automáticamente el aspecto. El iPad esperará a realizar la transición cuando no estés usando la pantalla.</tran>
+        <tran loc="es-419">Programa el horario para cambiar el aspecto automáticamente. El iPad podría esperar a pasar de uno a otro hasta que dejes de usar la pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -263,7 +263,7 @@
       <Position>FROM_SUNSET_TO_SUNRISE</Position>
       <TranslationSet>
         <base loc="en">Sunset to Sunrise</base>
-        <tran loc="es">De la puesta a la salida del sol</tran>
+        <tran loc="es-419">Del atardecer al amanecer</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -274,7 +274,7 @@
       <Position>DYNAMIC_TYPE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Apps that support Dynamic Type will adjust to your preferred reading size below.</base>
-        <tran loc="es">Las apps compatibles con el tamaño de letra dinámico se ajustarán a tu tamaño de lectura preferido.</tran>
+        <tran loc="es-419">Las apps compatibles con “Tamaño de letra dinámico” se ajustarán a tu tamaño de lectura preferido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>LARGER_DYNAMIC_TYPE</Position>
       <TranslationSet>
         <base loc="en">Larger Accessibility Sizes</base>
-        <tran loc="es">Tamaños más grandes</tran>
+        <tran loc="es-419">Tamaños más legibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>DYNAMIC_TYPE_SLIDER_INDICATOR</Position>
       <TranslationSet>
         <base loc="en">A</base>
-        <tran loc="es">A</tran>
+        <tran loc="es-419">A</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>DYNAMIC_TYPE_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">Apps that support Dynamic Type will adjust to your preferred reading size above.</base>
-        <tran loc="es">Las apps compatibles con el tamaño de letra dinámico se ajustarán a tu tamaño de lectura preferido.</tran>
+        <tran loc="es-419">Las apps compatibles con “Tamaño de letra dinámico” se ajustarán a tu tamaño de lectura preferido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>LARGER_SIZES_HELP_TEXT</Position>
       <TranslationSet>
         <base loc="en">Larger sizes are available in Accessibility Settings.</base>
-        <tran loc="es">En los ajustes de accesibilidad puedes seleccionar tamaños más grandes.</tran>
+        <tran loc="es-419">Hay tamaños más legibles en la configuración de Accesibilidad.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -317,7 +317,7 @@
       <Position>ZOOMED</Position>
       <TranslationSet>
         <base loc="en">Zoomed</base>
-        <tran loc="es">Zoom</tran>
+        <tran loc="es-419">Aumentado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>STANDARD</Position>
       <TranslationSet>
         <base loc="en">Standard</base>
-        <tran loc="es">Estándar</tran>
+        <tran loc="es-419">Estándar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>CONFIRMATION_PROMPT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Changing Display Zoom will restart iPad.</base>
-        <tran loc="es">Al cambiar la opción de zoom de pantalla, se reiniciará el iPad.</tran>
+        <tran loc="es-419">Cambiar el tamaño de la pantalla reiniciará el iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>CONFIRMATION_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>DISPLAY_ZOOM</Position>
       <TranslationSet>
         <base loc="en">Display Zoom</base>
-        <tran loc="es">Zoom de pantalla</tran>
+        <tran loc="es-419">Tamaño de pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>EASY_REACH</Position>
       <TranslationSet>
         <base loc="en">Easy Reach</base>
-        <tran loc="es">Fácil alcance</tran>
+        <tran loc="es-419">Alcance fácil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>CONFIRMATION_PROMPT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Changing Display Zoom will restart iPhone.</base>
-        <tran loc="es">Al cambiar la opción de zoom de pantalla, se reiniciará el iPhone.</tran>
+        <tran loc="es-419">Cambiar el tamaño de pantalla reiniciará el iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>CONFIRMATION_USE_ZOOMED</Position>
       <TranslationSet>
         <base loc="en">Use Zoomed</base>
-        <tran loc="es">Usar Zoom</tran>
+        <tran loc="es-419">Usar "aumentado"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>CONFIRMATION_USE_STANDARD</Position>
       <TranslationSet>
         <base loc="en">Use Standard</base>
-        <tran loc="es">Usar Estándar</tran>
+        <tran loc="es-419">Usar "estándar"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>SET</Position>
       <TranslationSet>
         <base loc="en">Set</base>
-        <tran loc="es">Definir</tran>
+        <tran loc="es-419">Definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>CONFIRMATION_USE_ZOOMED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Use Zoomed?</base>
-        <tran loc="es">¿Usar Zoom?</tran>
+        <tran loc="es-419">¿Usar "aumentado"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>CONFIRMATION_USE_STANDARD_IPAD</Position>
       <TranslationSet>
         <base loc="en">Use Standard?</base>
-        <tran loc="es">¿Usar Estándar?</tran>
+        <tran loc="es-419">¿Usar "estándar"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +413,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -424,7 +424,7 @@
       <Position>CUSTOMIZE_TODAY_VIEW</Position>
       <TranslationSet>
         <base loc="en">Customize Today View</base>
-        <tran loc="es">Personalizar la visualización de hoy</tran>
+        <tran loc="es-419">Personalizar la visualización Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>TODAY_VIEW_HEADER</Position>
       <TranslationSet>
         <base loc="en">Today View</base>
-        <tran loc="es">Visualización Hoy</tran>
+        <tran loc="es-419">Visualización Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>APP_ICON_SIZE_FOOTER</Position>
       <TranslationSet>
         <base loc="en">\"More\" shows up to 30 icons on each page with the option to keep the Today View on the Home Screen. \"Bigger\" shows up to 20 app icons.</base>
-        <tran loc="es">“Más” muestra hasta 30 iconos en cada página con la opción de mantener la visualización de hoy en la pantalla de inicio. “Más grande” muestra hasta 20 iconos de apps.</tran>
+        <tran loc="es-419">"Más" muestra hasta 30 íconos por página con la opción de mantener la visualización Hoy en la pantalla de Inicio. "Enfocados" muestra hasta 20 íconos de apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>TODAY_VIEW_ON_HOME_SCREEN</Position>
       <TranslationSet>
         <base loc="en">Keep Today View on Home Screen</base>
-        <tran loc="es">Mantener la visualización de hoy en la pantalla de inicio</tran>
+        <tran loc="es-419">Mantener la visualización Hoy en Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@
       <Position>HOME_SCREEN_DOCK</Position>
       <TranslationSet>
         <base loc="en">Home Screen</base>
-        <tran loc="es">Pantalla de inicio</tran>
+        <tran loc="es-419">Pantalla de inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@
       <Position>MORE</Position>
       <TranslationSet>
         <base loc="en">More</base>
-        <tran loc="es">Más</tran>
+        <tran loc="es-419">Más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -478,7 +478,7 @@
       <Position>APP_ICON_SIZE_HEADER</Position>
       <TranslationSet>
         <base loc="en">App Icons</base>
-        <tran loc="es">Iconos de apps</tran>
+        <tran loc="es-419">Íconos de la app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -486,7 +486,7 @@
       <Position>MULTITASKING_DOCK_HEADER</Position>
       <TranslationSet>
         <base loc="en">Multitasking &amp; Dock</base>
-        <tran loc="es">Multitarea y el Dock</tran>
+        <tran loc="es-419">Multitareas y Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -494,7 +494,7 @@
       <Position>MULTITASKING</Position>
       <TranslationSet>
         <base loc="en">Multitasking</base>
-        <tran loc="es">Multitarea</tran>
+        <tran loc="es-419">Multitarea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -502,7 +502,7 @@
       <Position>ALLOW_RECENTS</Position>
       <TranslationSet>
         <base loc="en">Show Suggested and Recent Apps in Dock</base>
-        <tran loc="es">Mostrar apps recientes y sugeridas en el Dock</tran>
+        <tran loc="es-419">Mostrar apps recientes y sugerencias en el Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -510,7 +510,7 @@
       <Position>BIGGER</Position>
       <TranslationSet>
         <base loc="en">Bigger</base>
-        <tran loc="es">Más grande</tran>
+        <tran loc="es-419">Enfocados</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -521,7 +521,7 @@
       <Position>GESTURES</Position>
       <TranslationSet>
         <base loc="en">Gestures</base>
-        <tran loc="es">Gestos</tran>
+        <tran loc="es-419">Gestos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>AUTO_PIP_FOOTER</Position>
       <TranslationSet>
         <base loc="en">When this is on, videos will continue playing in an overlay, even when you press the Home button.</base>
-        <tran loc="es">Cuando esta opción está activada, los vídeos continuarán reproduciéndose en una capa superpuesta aunque pulses el botón de inicio.</tran>
+        <tran loc="es-419">Si se activa, los videos continuarán reproduciéndose en una ventana sobrepuesta, incluso si presionas el botón Inicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>MULTITASKING</Position>
       <TranslationSet>
         <base loc="en">Multitasking</base>
-        <tran loc="es">Multitarea</tran>
+        <tran loc="es-419">Multitarea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>MULTIPLE_APPS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Drag applications from the Dock or Home screen to create Split View and Slide Over apps. Swipe from the right edge to reveal your last Slide Over app.</base>
-        <tran loc="es">Arrastra las apps desde el Dock o la pantalla de inicio para mostrarlas en Slide Over o en Split View. Desliza un dedo desde el borde derecho de la pantalla para ver la última app mostrada en Slide Over.</tran>
+        <tran loc="es-419">Arrastra apps desde el Dock o la pantalla de inicio para abrir apps con Split View y Slide Over. Desliza desde el borde derecho para mostrar tu última app con Slide Over.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -559,7 +559,7 @@
       <Position>ALLOW_MULTIPLE_APPS</Position>
       <TranslationSet>
         <base loc="en">Allow Multiple Apps</base>
-        <tran loc="es">Permitir varias apps</tran>
+        <tran loc="es-419">Permitir varias apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -567,7 +567,7 @@
       <Position>ALLOW_PIP</Position>
       <TranslationSet>
         <base loc="en">Picture in Picture</base>
-        <tran loc="es">Imagen dentro de imagen</tran>
+        <tran loc="es-419">Imagen dentro de otra (PIP)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -575,7 +575,7 @@
       <Position>MULTIPLE_APPS_FOOTER_LEGACY_RTL</Position>
       <TranslationSet>
         <base loc="en">When you swipe from the right edge of the screen, you can pull in a temporary overlay of another app.</base>
-        <tran loc="es">Al deslizar un dedo desde el borde derecho de la pantalla, puedes ver temporalmente una pantalla superpuesta de otra app.</tran>
+        <tran loc="es-419">Puedes desplazar y sobreponer una ventana temporal de otra app al deslizar el dedo desde la orilla derecha de la pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -583,7 +583,7 @@
       <Position>AUTO_PIP_SWIPE_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Allows videos you're playing and FaceTime video calls to continue when you swipe up to go Home and use other apps.</base>
-        <tran loc="es">Permite seguir viendo vídeos en reproducción y llamadas FaceTime de vídeo al deslizar el dedo hacia arriba para ir a la pantalla de inicio y usar otras apps.</tran>
+        <tran loc="es-419">Permite que los videos en reproducción y las llamadas de video de FaceTime continúen cuando deslizas hacia arriba para ir a Inicio y uses otras apps.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -594,7 +594,7 @@
       <Position>SCHEDULE</Position>
       <TranslationSet>
         <base loc="en">Custom Schedule</base>
-        <tran loc="es">Horario personalizado</tran>
+        <tran loc="es-419">Personalizar horario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -602,7 +602,7 @@
       <Position>TURN_ON_AT</Position>
       <TranslationSet>
         <base loc="en">Turn On At</base>
-        <tran loc="es">Activar a las</tran>
+        <tran loc="es-419">Activar a la(s)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -610,7 +610,7 @@
       <Position>TURN_OFF_AT</Position>
       <TranslationSet>
         <base loc="en">Turn Off At</base>
-        <tran loc="es">Desactivar a las</tran>
+        <tran loc="es-419">Desactivar a la(s)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -618,7 +618,7 @@
       <Position>BLUE_LIGHT_REDUCTION_SCHEDULE</Position>
       <TranslationSet>
         <base loc="en">Automate Schedule:</base>
-        <tran loc="es">Horario programado:</tran>
+        <tran loc="es-419">Automatizar horario:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@
       <Position>FROM_SUNSET_TO_SUNRISE</Position>
       <TranslationSet>
         <base loc="en">Sunset to Sunrise</base>
-        <tran loc="es">De la puesta a la salida del sol</tran>
+        <tran loc="es-419">Del atardecer al amanecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>SCHEDULE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Schedule</base>
-        <tran loc="es">Horario</tran>
+        <tran loc="es-419">Horario</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -651,7 +651,7 @@
       <Position>AUTOLOCK</Position>
       <TranslationSet>
         <base loc="en">Auto-Lock</base>
-        <tran loc="es">Bloqueo automático</tran>
+        <tran loc="es-419">Bloqueo automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>RAISE_TO_WAKE</Position>
       <TranslationSet>
         <base loc="en">Raise to Wake</base>
-        <tran loc="es">Levantar para activar</tran>
+        <tran loc="es-419">Levantar para reactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>DISABLE_AX_FILTERS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enable True Tone</base>
-        <tran loc="es">Activar “True Tone”</tran>
+        <tran loc="es-419">Activar True Tone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>AUTOMATIC</Position>
       <TranslationSet>
         <base loc="en">Automatic</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>WHITE_BALANCE_FOOTER_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Automatically adapt iPhone display based on ambient lighting conditions to make colors appear consistent in different environments.</base>
-        <tran loc="es">La visualización de los colores de la pantalla del iPhone se adapta automáticamente a las distintas condiciones de luz ambiental.</tran>
+        <tran loc="es-419">Adapta automáticamente la pantalla del iPhone según las condiciones de luz ambiental para que los colores se muestren consistentes en entornos diferentes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>CUSTOM_SCHEDULE_LIGHT</Position>
       <TranslationSet>
         <base loc="en">Light Until %@</base>
-        <tran loc="es">Claro hasta las %@</tran>
+        <tran loc="es-419">Claro hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>DISABLE_AX_FILTERS_ENABLE</Position>
       <TranslationSet>
         <base loc="en">Enable</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>AUTOLOCK_LPM_FOOTER</Position>
       <TranslationSet>
         <base loc="en">When in Low Power Mode, auto-lock is restricted to 30 seconds.</base>
-        <tran loc="es">En el modo de bajo consumo, el bloqueo automático se limitará a 30 segundos.</tran>
+        <tran loc="es-419">"Ahorrar batería" restringe el bloqueo automático a 30 segundos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -715,7 +715,7 @@
       <Position>DARK</Position>
       <TranslationSet>
         <base loc="en">Dark</base>
-        <tran loc="es">Oscuro</tran>
+        <tran loc="es-419">Obscuro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -723,7 +723,7 @@
       <Position>WHITE_BALANCE_FOOTER_IPOD</Position>
       <TranslationSet>
         <base loc="en">Automatically adapt iPod touch display based on ambient lighting conditions to make colors appear consistent in different environments.</base>
-        <tran loc="es">La visualización de los colores de la pantalla del iPod touch se adapta automáticamente a las distintas condiciones de luz ambiental.</tran>
+        <tran loc="es-419">Adapta automáticamente la pantalla del iPod touch según las condiciones de luz ambiental para que los colores se muestren consistentes en entornos diferentes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -731,7 +731,7 @@
       <Position>WHITE_BALANCE</Position>
       <TranslationSet>
         <base loc="en">True Tone</base>
-        <tran loc="es">True Tone</tran>
+        <tran loc="es-419">True Tone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -739,7 +739,7 @@
       <Position>SMART_CASE_LOCK_FOOTER_IPOD</Position>
       <TranslationSet>
         <base loc="en">Automatically lock and unlock your iPod touch when you close and open the iPod touch cover.</base>
-        <tran loc="es">Bloquea y desbloquea automáticamente el iPod touch al cerrar y abrir la tapa.</tran>
+        <tran loc="es-419">Bloquea y desbloquea automáticamente tu iPod touch al cerrar y abrir la cubierta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -747,7 +747,7 @@
       <Position>VIEW</Position>
       <TranslationSet>
         <base loc="en">View</base>
-        <tran loc="es">Visualización</tran>
+        <tran loc="es-419">Tamaño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -755,7 +755,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -763,7 +763,7 @@
       <Position>DISABLE_AX_FILTERS_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -771,7 +771,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -779,7 +779,7 @@
       <Position>BLUE_LIGHT_REDUCTION</Position>
       <TranslationSet>
         <base loc="en">Night Shift</base>
-        <tran loc="es">Night Shift</tran>
+        <tran loc="es-419">Night Shift</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -787,7 +787,7 @@
       <Position>DISPLAY_AND_BRIGHTNESS</Position>
       <TranslationSet>
         <base loc="en">Display &amp; Brightness</base>
-        <tran loc="es">Pantalla y brillo</tran>
+        <tran loc="es-419">Pantalla y brillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -795,7 +795,7 @@
       <Position>30_SECONDS</Position>
       <TranslationSet>
         <base loc="en">%@ Seconds</base>
-        <tran loc="es">%@ segundos</tran>
+        <tran loc="es-419">%@ segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -803,7 +803,7 @@
       <Position>d_SECONDS</Position>
       <TranslationSet>
         <base loc="en">%@ Seconds</base>
-        <tran loc="es">%@ segundos</tran>
+        <tran loc="es-419">%@ segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -811,7 +811,7 @@
       <Position>BOLD_TEXT_RESTART_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Applying Bold Text…</base>
-        <tran loc="es">Aplicando negrita…</tran>
+        <tran loc="es-419">Aplicando negritas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>DISPLAY_ZOOM</Position>
       <TranslationSet>
         <base loc="en">Display Zoom</base>
-        <tran loc="es">Zoom de pantalla</tran>
+        <tran loc="es-419">Tamaño de pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>APPEARANCE</Position>
       <TranslationSet>
         <base loc="en">Appearance</base>
-        <tran loc="es">Aspecto</tran>
+        <tran loc="es-419">Apariencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>BLUE_LIGHT_LOW_POWER_MODE_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Night Shift is disabled in low power mode.</base>
-        <tran loc="es">La función “Night Shift” está desactivada en el modo de bajo consumo.</tran>
+        <tran loc="es-419">Night Shift se desactiva en "Ahorrar batería".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -843,7 +843,7 @@
       <Position>BOLD_TEXT</Position>
       <TranslationSet>
         <base loc="en">Bold Text</base>
-        <tran loc="es">Texto en negrita</tran>
+        <tran loc="es-419">Negritas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -851,7 +851,7 @@
       <Position>APPEARANCE_OPTIONS</Position>
       <TranslationSet>
         <base loc="en">Options</base>
-        <tran loc="es">Opciones</tran>
+        <tran loc="es-419">Opciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -859,7 +859,7 @@
       <Position>10_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%@ Minutes</base>
-        <tran loc="es">%@ minutos</tran>
+        <tran loc="es-419">%@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -867,7 +867,7 @@
       <Position>15_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%@ Minutes</base>
-        <tran loc="es">%@ minutos</tran>
+        <tran loc="es-419">%@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -875,7 +875,7 @@
       <Position>2_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%@ Minutes</base>
-        <tran loc="es">%@ minutos</tran>
+        <tran loc="es-419">%@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -883,7 +883,7 @@
       <Position>3_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%@ Minutes</base>
-        <tran loc="es">%@ minutos</tran>
+        <tran loc="es-419">%@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -891,7 +891,7 @@
       <Position>4_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%@ Minutes</base>
-        <tran loc="es">%@ minutos</tran>
+        <tran loc="es-419">%@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -899,7 +899,7 @@
       <Position>5_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%@ Minutes</base>
-        <tran loc="es">%@ minutos</tran>
+        <tran loc="es-419">%@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@
       <Position>d_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%@ Minutes</base>
-        <tran loc="es">%@ minutos</tran>
+        <tran loc="es-419">%@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -915,7 +915,7 @@
       <Position>DISPLAY_ZOOM_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">Choose a view for iPad. Zoomed shows larger controls. Standard shows more content.</base>
-        <tran loc="es">Selecciona una visualización para el iPad: Zoom, que muestra los controles más grandes, o Estándar, que muestra más contenido.</tran>
+        <tran loc="es-419">Elige cómo ver el iPad. Aumentado muestra controles más grandes. Estándar permite ver más elementos en pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -923,7 +923,7 @@
       <Position>DISPLAY_ZOOM_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Choose a view for iPhone. Zoomed shows larger controls. Standard shows more content.</base>
-        <tran loc="es">Selecciona una visualización para el iPhone: Zoom, que muestra los controles más grandes, o Estándar, que muestra más contenido.</tran>
+        <tran loc="es-419">Elige cómo ver el iPhone. “Aumentado” muestra controles más grandes. “Estándar” permite ver más elementos en pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -932,7 +932,7 @@
       <Position>NO_DIGIT_NEEDED_1_MINUTE</Position>
       <TranslationSet>
         <base loc="en">1 Minute</base>
-        <tran loc="es">1 minuto</tran>
+        <tran loc="es-419">1 minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -940,7 +940,7 @@
       <Position>LIGHT</Position>
       <TranslationSet>
         <base loc="en">Light</base>
-        <tran loc="es">Claro</tran>
+        <tran loc="es-419">Claro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -948,7 +948,7 @@
       <Position>TEXT_SIZE</Position>
       <TranslationSet>
         <base loc="en">Text Size</base>
-        <tran loc="es">Tamaño del texto</tran>
+        <tran loc="es-419">Tamaño del texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -956,7 +956,7 @@
       <Position>CUSTOM_SCHEDULE_DARK</Position>
       <TranslationSet>
         <base loc="en">Dark Until %@</base>
-        <tran loc="es">Oscuro hasta las %@</tran>
+        <tran loc="es-419">Obscuro hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -964,7 +964,7 @@
       <Position>START_TIME_TO_STOP_TIME</Position>
       <TranslationSet>
         <base loc="en">%@ to %@</base>
-        <tran loc="es">%@ a %@</tran>
+        <tran loc="es-419">de %@ a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -972,7 +972,7 @@
       <Position>DARK_UNTIL_SUNRISE</Position>
       <TranslationSet>
         <base loc="en">Dark Until Sunrise</base>
-        <tran loc="es">Oscuro hasta amanecer</tran>
+        <tran loc="es-419">Obscuro hasta el amanecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -980,7 +980,7 @@
       <Position>1_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%@ Minute</base>
-        <tran loc="es">%@ minuto</tran>
+        <tran loc="es-419">%@ minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -988,7 +988,7 @@
       <Position>DISABLE_AX_FILTERS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enabling True Tone will disable Invert Colors. Would you like to enable True Tone?</base>
-        <tran loc="es">Si activas la opción “True Tone”, se desactivará la inversión de colores. ¿Quieres activar “True Tone”?</tran>
+        <tran loc="es-419">Al activar True Tone se desactivará "Invertir colores". ¿Quieres activarlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -996,7 +996,7 @@
       <Position>NEVER</Position>
       <TranslationSet>
         <base loc="en">Never</base>
-        <tran loc="es">Nunca</tran>
+        <tran loc="es-419">Nunca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1004,7 +1004,7 @@
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1012,7 +1012,7 @@
       <Position>SMART_CASE_LOCK_FOOTER_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Automatically lock and unlock your iPhone when you close and open the iPhone cover.</base>
-        <tran loc="es">Bloquea y desbloquea automáticamente el iPhone al cerrar y abrir la tapa.</tran>
+        <tran loc="es-419">Bloquea y desbloquea automáticamente tu iPhone al cerrar y abrir la cubierta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1020,7 +1020,7 @@
       <Position>SMART_CASE_LOCK_FOOTER_IPAD</Position>
       <TranslationSet>
         <base loc="en">Automatically lock and unlock your iPad when you close and open the iPad cover.</base>
-        <tran loc="es">Bloquea y desbloquea automáticamente el iPad al cerrar y abrir la tapa.</tran>
+        <tran loc="es-419">Bloquea y desbloquea automáticamente tu iPad al cerrar y abrir la cubierta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1028,7 +1028,7 @@
       <Position>LIGHT_UNTIL_SUNSET</Position>
       <TranslationSet>
         <base loc="en">Light Until Sunset</base>
-        <tran loc="es">Claro hasta anochecer</tran>
+        <tran loc="es-419">Claro hasta el atardecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1036,7 +1036,7 @@
       <Position>BRIGHTNESS</Position>
       <TranslationSet>
         <base loc="en">Brightness</base>
-        <tran loc="es">Brillo</tran>
+        <tran loc="es-419">Brillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1044,7 +1044,7 @@
       <Position>SMART_CASE_LOCK</Position>
       <TranslationSet>
         <base loc="en">Lock / Unlock</base>
-        <tran loc="es">Bloquear/desbloquear</tran>
+        <tran loc="es-419">Bloquear/desbloquear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1052,7 +1052,7 @@
       <Position>WHITE_BALANCE_FOOTER_IPAD</Position>
       <TranslationSet>
         <base loc="en">Automatically adapt iPad display based on ambient lighting conditions to make colors appear consistent in different environments.</base>
-        <tran loc="es">La visualización de los colores de la pantalla del iPad se adapta automáticamente a las distintas condiciones de luz ambiental.</tran>
+        <tran loc="es-419">Adapta automáticamente la pantalla del iPad según las condiciones de luz ambiental para que los colores se muestren consistentes en entornos diferentes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1060,7 +1060,7 @@
       <Position>SUNSET_TO_SUNRISE</Position>
       <TranslationSet>
         <base loc="en">Sunset to Sunrise</base>
-        <tran loc="es">De la puesta a la salida del sol</tran>
+        <tran loc="es-419">Del atardecer al amanecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1068,7 +1068,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1079,7 +1079,7 @@
       <Position>COLOR_TEMPERATURE_MOTION_WARNING</Position>
       <TranslationSet>
         <base loc="en">Warmer settings may affect the appearance of some onscreen motion.</base>
-        <tran loc="es">Los ajustes de más calidez pueden determinar la apariencia de algún movimiento en pantalla.</tran>
+        <tran loc="es-419">La configuración cálida podría afectar la apariencia de ciertos movimientos en la pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1087,7 +1087,7 @@
       <Position>NIGHT_SHIFT_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Night Shift automatically shifts the colors of your display to the warmer end of the color spectrum after dark. This may help you get a better night’s sleep.</base>
-        <tran loc="es">El modo “Night Shift” cambia automáticamente los colores de la pantalla a tonos más cálidos cuando se hace de noche para ayudarte a dormir mejor.</tran>
+        <tran loc="es-419">Night Shift cambia automáticamente los colores de tu pantalla volviéndolos más cálidos después del atardecer, lo cual podría ayudarte a dormir mejor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1095,7 +1095,7 @@
       <Position>COOLER</Position>
       <TranslationSet>
         <base loc="en">Less Warm</base>
-        <tran loc="es">Menos cálida</tran>
+        <tran loc="es-419">Menos cálidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1103,7 +1103,7 @@
       <Position>SCHEDULED</Position>
       <TranslationSet>
         <base loc="en">Scheduled</base>
-        <tran loc="es">Programado</tran>
+        <tran loc="es-419">Por horario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1111,7 +1111,7 @@
       <Position>DISABLE_AX_FILTERS_ENABLE</Position>
       <TranslationSet>
         <base loc="en">Enable</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1119,7 +1119,7 @@
       <Position>DISABLE_AX_FILTERS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enable Night Shift</base>
-        <tran loc="es">Activar “Night Shift”</tran>
+        <tran loc="es-419">Activar Night Shift</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1127,7 +1127,7 @@
       <Position>MANUAL</Position>
       <TranslationSet>
         <base loc="en">Manually Enable Until Tomorrow</base>
-        <tran loc="es">Activar hasta mañana</tran>
+        <tran loc="es-419">Activar hasta mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1135,7 +1135,7 @@
       <Position>TO</Position>
       <TranslationSet>
         <base loc="en">To</base>
-        <tran loc="es">Hasta</tran>
+        <tran loc="es-419">Fin:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1143,7 +1143,7 @@
       <Position>DISABLE_AX_FILTERS_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1151,7 +1151,7 @@
       <Position>WARMER</Position>
       <TranslationSet>
         <base loc="en">More Warm</base>
-        <tran loc="es">Más cálida</tran>
+        <tran loc="es-419">Más cálidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1165,7 +1165,7 @@
       <Position>NIGHT_SHIFT</Position>
       <TranslationSet>
         <base loc="en">Night Shift</base>
-        <tran loc="es">Night Shift</tran>
+        <tran loc="es-419">Night Shift</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1173,7 +1173,7 @@
       <Position>COLOR_TEMPERATURE</Position>
       <TranslationSet>
         <base loc="en">Color Temperature</base>
-        <tran loc="es">Temperatura del color</tran>
+        <tran loc="es-419">Temperatura de los colores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1181,7 +1181,7 @@
       <Position>SUNSET</Position>
       <TranslationSet>
         <base loc="en">Sunset</base>
-        <tran loc="es">Puesta del sol</tran>
+        <tran loc="es-419">Atardecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1189,7 +1189,7 @@
       <Position>SUNRISE</Position>
       <TranslationSet>
         <base loc="en">Sunrise</base>
-        <tran loc="es">Salida del sol</tran>
+        <tran loc="es-419">Amanecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1197,7 +1197,7 @@
       <Position>DISABLE_AX_FILTERS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enabling Night Shift will disable Invert Colors. Would you like to enable Night Shift?</base>
-        <tran loc="es">Si activas la opción “Night Shift”, se desactivará la inversión de colores. ¿Quieres activar “Night Shift”?</tran>
+        <tran loc="es-419">Al activar Night Shift se desactivará “Invertir colores”. ¿Quieres activarlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1205,7 +1205,7 @@
       <Position>FROM</Position>
       <TranslationSet>
         <base loc="en">From</base>
-        <tran loc="es">Desde</tran>
+        <tran loc="es-419">Inicio:</tran>
       </TranslationSet>
     </TextItem>
   </File>

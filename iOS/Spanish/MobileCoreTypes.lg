@@ -8,7 +8,7 @@
       <Position>PowerBook G4</Position>
       <TranslationSet>
         <base loc="en">PowerBook G4</base>
-        <tran loc="es">PowerBook G4</tran>
+        <tran loc="es-419">PowerBook G4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>assembly source code</Position>
       <TranslationSet>
         <base loc="en">assembly source code</base>
-        <tran loc="es">código fuente del lenguaje ensamblador</tran>
+        <tran loc="es-419">código fuente del lenguaje ensamblador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>comma-separated values</Position>
       <TranslationSet>
         <base loc="en">comma-separated values</base>
-        <tran loc="es">valores separados por comas</tran>
+        <tran loc="es-419">valores separados por comas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Full Trash</Position>
       <TranslationSet>
         <base loc="en">Full Trash</base>
-        <tran loc="es">Papelera llena</tran>
+        <tran loc="es-419">Basurero lleno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Travel</Position>
       <TranslationSet>
         <base loc="en">Travel</base>
-        <tran loc="es">Viajes</tran>
+        <tran loc="es-419">Viajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>iPhone 8 Plus</Position>
       <TranslationSet>
         <base loc="en">iPhone 8 Plus</base>
-        <tran loc="es">iPhone 8 Plus</tran>
+        <tran loc="es-419">iPhone 8 Plus</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Productivity</Position>
       <TranslationSet>
         <base loc="en">Productivity</base>
-        <tran loc="es">Productividad</tran>
+        <tran loc="es-419">Productividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>content</Position>
       <TranslationSet>
         <base loc="en">content</base>
-        <tran loc="es">contenido</tran>
+        <tran loc="es-419">contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Bzip2 archive</Position>
       <TranslationSet>
         <base loc="en">Bzip2 archive</base>
-        <tran loc="es">Archivo comprimido Bzip2</tran>
+        <tran loc="es-419">Archivo comprimido Bzip2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>AAC audio</Position>
       <TranslationSet>
         <base loc="en">AAC audio</base>
-        <tran loc="es">Audio AAC</tran>
+        <tran loc="es-419">Audio AAC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>XML text</Position>
       <TranslationSet>
         <base loc="en">XML text</base>
-        <tran loc="es">Texto XML</tran>
+        <tran loc="es-419">Texto XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Java source code</Position>
       <TranslationSet>
         <base loc="en">Java source code</base>
-        <tran loc="es">Código fuente Java</tran>
+        <tran loc="es-419">Código fuente Java</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Users Folder</Position>
       <TranslationSet>
         <base loc="en">Users Folder</base>
-        <tran loc="es">Carpeta Usuarios</tran>
+        <tran loc="es-419">Carpeta Usuarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Sort Ascending</Position>
       <TranslationSet>
         <base loc="en">Sort Ascending</base>
-        <tran loc="es">Orden ascendente</tran>
+        <tran loc="es-419">Orden ascendente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>source code</Position>
       <TranslationSet>
         <base loc="en">source code</base>
-        <tran loc="es">código fuente</tran>
+        <tran loc="es-419">código fuente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>alias</Position>
       <TranslationSet>
         <base loc="en">alias</base>
-        <tran loc="es">alias</tran>
+        <tran loc="es-419">alias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>Toolbar Favorites</Position>
       <TranslationSet>
         <base loc="en">Toolbar Favorites</base>
-        <tran loc="es">Carpeta Favoritos de la barra de herramientas</tran>
+        <tran loc="es-419">Carpeta Favoritos de la barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>Scripts Folder</Position>
       <TranslationSet>
         <base loc="en">Scripts Folder</base>
-        <tran loc="es">Carpeta Scripts</tran>
+        <tran loc="es-419">Carpeta Scripts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>OpenOffice.org 1.0 Spreadsheet Template</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Spreadsheet Template</base>
-        <tran loc="es">Plantilla de hoja de cálculo de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Plantilla de hoja de cálculo de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>MIDI audio</Position>
       <TranslationSet>
         <base loc="en">MIDI audio</base>
-        <tran loc="es">Audio MIDI</tran>
+        <tran loc="es-419">Audio MIDI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>iPhone 8</Position>
       <TranslationSet>
         <base loc="en">iPhone 8</base>
-        <tran loc="es">iPhone 8</tran>
+        <tran loc="es-419">iPhone 8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>Multiple Picture Object image</Position>
       <TranslationSet>
         <base loc="en">Multiple Picture Object image</base>
-        <tran loc="es">Imagen MPO</tran>
+        <tran loc="es-419">Imagen MPO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>ascii property list</Position>
       <TranslationSet>
         <base loc="en">ASCII property list</base>
-        <tran loc="es">Lista de propiedades ASCII</tran>
+        <tran loc="es-419">Lista de propiedades ASCII</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>Utilities</Position>
       <TranslationSet>
         <base loc="en">Utilities</base>
-        <tran loc="es">Utilidades</tran>
+        <tran loc="es-419">Utilidades</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>XHTML</Position>
       <TranslationSet>
         <base loc="en">XHTML</base>
-        <tran loc="es">XHTML</tran>
+        <tran loc="es-419">XHTML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>certificate (X.509)</Position>
       <TranslationSet>
         <base loc="en">certificate (X.509)</base>
-        <tran loc="es">certificado (X.509)</tran>
+        <tran loc="es-419">certificado (X.509)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>precompiled C++ header</Position>
       <TranslationSet>
         <base loc="en">precompiled C++ header</base>
-        <tran loc="es">cabecera C++ precompilada</tran>
+        <tran loc="es-419">encabezado C++ precompilado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Adobe Acrobat Forms Document (XFDF)</Position>
       <TranslationSet>
         <base loc="en">Adobe Acrobat Forms Document (XFDF)</base>
-        <tran loc="es">Formulario de Acrobat (XFDF) de Adobe</tran>
+        <tran loc="es-419">Formulario de Acrobat (XFDF) de Adobe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>VCS File</Position>
       <TranslationSet>
         <base loc="en">VCS File</base>
-        <tran loc="es">Archivo VCS</tran>
+        <tran loc="es-419">Archivo VCS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>downloadable sound</Position>
       <TranslationSet>
         <base loc="en">downloadable sound</base>
-        <tran loc="es">sonido descargable</tran>
+        <tran loc="es-419">sonido descargable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>eFax fax</Position>
       <TranslationSet>
         <base loc="en">eFax fax</base>
-        <tran loc="es">Fax eFax</tran>
+        <tran loc="es-419">Fax eFax</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>Font suitcase</Position>
       <TranslationSet>
         <base loc="en">Font suitcase</base>
-        <tran loc="es">Maleta tipográfica</tran>
+        <tran loc="es-419">Maleta tipográfica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>presentation</Position>
       <TranslationSet>
         <base loc="en">presentation</base>
-        <tran loc="es">presentación</tran>
+        <tran loc="es-419">presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>Scenarist Closed Caption</Position>
       <TranslationSet>
         <base loc="en">Scenarist Closed Caption</base>
-        <tran loc="es">SCC (Scenarist Closed Caption)</tran>
+        <tran loc="es-419">Subtítulos opcionales de Scenerist</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>audiovisual content</Position>
       <TranslationSet>
         <base loc="en">audiovisual content</base>
-        <tran loc="es">contenido audiovisual</tran>
+        <tran loc="es-419">contenido audiovisual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>Digital Asset Exchange (DAE)</Position>
       <TranslationSet>
         <base loc="en">Digital Asset Exchange (DAE)</base>
-        <tran loc="es">Intercambio de componentes digitales (DAE)</tran>
+        <tran loc="es-419">Intercambio de componentes digitales (DAE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>PlugInKit plug-in</Position>
       <TranslationSet>
         <base loc="en">PlugInKit plug-in</base>
-        <tran loc="es">Módulo PlugInKit</tran>
+        <tran loc="es-419">Módulo PlugInKit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>J2 fax</Position>
       <TranslationSet>
         <base loc="en">J2 fax</base>
-        <tran loc="es">Fax J2</tran>
+        <tran loc="es-419">Fax J2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>Microsoft Excel add-in</Position>
       <TranslationSet>
         <base loc="en">Microsoft Excel add-in</base>
-        <tran loc="es">Complemento de Microsoft Excel</tran>
+        <tran loc="es-419">Complemento de Microsoft Excel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>Device</Position>
       <TranslationSet>
         <base loc="en">Device</base>
-        <tran loc="es">Dispositivo</tran>
+        <tran loc="es-419">Dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>web internet location</Position>
       <TranslationSet>
         <base loc="en">web internet location</base>
-        <tran loc="es">dirección web de internet</tran>
+        <tran loc="es-419">dirección web de Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>Puzzle Games</Position>
       <TranslationSet>
         <base loc="en">Puzzle Games</base>
-        <tran loc="es">Puzles</tran>
+        <tran loc="es-419">Rompecabezas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>HEIF Image Sequence</Position>
       <TranslationSet>
         <base loc="en">HEIF Image Sequence</base>
-        <tran loc="es">Secuencia de imágenes HEIF</tran>
+        <tran loc="es-419">Secuencia de imágenes de HEIF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>JavaScript source code</Position>
       <TranslationSet>
         <base loc="en">JavaScript source code</base>
-        <tran loc="es">Código fuente JavaScript</tran>
+        <tran loc="es-419">Código fuente JavaScript</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>Apple Menu</Position>
       <TranslationSet>
         <base loc="en">Apple Menu</base>
-        <tran loc="es">Menú Apple</tran>
+        <tran loc="es-419">Menú Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>User</Position>
       <TranslationSet>
         <base loc="en">User</base>
-        <tran loc="es">Usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>Promised file content type</Position>
       <TranslationSet>
         <base loc="en">Promised file content type</base>
-        <tran loc="es">Tipo de contenido del archivo prometido</tran>
+        <tran loc="es-419">Tipo de contenido del archivo prometido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>Card Games</Position>
       <TranslationSet>
         <base loc="en">Card Games</base>
-        <tran loc="es">Juegos de cartas</tran>
+        <tran loc="es-419">Juegos de cartas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>Icon Decoration Drop Folder Badge</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Drop Folder Badge</base>
-        <tran loc="es">Distintivo de carpeta Drop Folder de decoración de iconos</tran>
+        <tran loc="es-419">Indicador de carpeta de destino de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>XML property list</Position>
       <TranslationSet>
         <base loc="en">XML property list</base>
-        <tran loc="es">Lista de propiedades XML</tran>
+        <tran loc="es-419">Lista de propiedades XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>Office Open XML presentation</Position>
       <TranslationSet>
         <base loc="en">Office Open XML presentation</base>
-        <tran loc="es">Presentación Office Open XML</tran>
+        <tran loc="es-419">Presentación Office Open XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>Shortcut</Position>
       <TranslationSet>
         <base loc="en">Shortcut</base>
-        <tran loc="es">Función rápida</tran>
+        <tran loc="es-419">Función rápida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>Finance</Position>
       <TranslationSet>
         <base loc="en">Finance</base>
-        <tran loc="es">Finanzas</tran>
+        <tran loc="es-419">Finanzas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>Locked Badge</Position>
       <TranslationSet>
         <base loc="en">Locked Badge</base>
-        <tran loc="es">Distintivo bloqueado</tran>
+        <tran loc="es-419">Distintivo bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>iPhone</Position>
       <TranslationSet>
         <base loc="en">iPhone</base>
-        <tran loc="es">iPhone</tran>
+        <tran loc="es-419">iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>Rez source code</Position>
       <TranslationSet>
         <base loc="en">Rez source code</base>
-        <tran loc="es">Código fuente Rez</tran>
+        <tran loc="es-419">Código fuente Rez</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>Kernel Extension</Position>
       <TranslationSet>
         <base loc="en">Kernel Extension</base>
-        <tran loc="es">Extensión del kernel</tran>
+        <tran loc="es-419">Extensión del kernel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>Trash</Position>
       <TranslationSet>
         <base loc="en">Trash</base>
-        <tran loc="es">Papelera</tran>
+        <tran loc="es-419">Basurero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>Locked</Position>
       <TranslationSet>
         <base loc="en">Locked</base>
-        <tran loc="es">Bloqueado</tran>
+        <tran loc="es-419">Bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>Burn Folder</Position>
       <TranslationSet>
         <base loc="en">Burn Folder</base>
-        <tran loc="es">Carpeta de grabación</tran>
+        <tran loc="es-419">Carpeta de grabación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>AIFF-C audio</Position>
       <TranslationSet>
         <base loc="en">AIFF-C audio</base>
-        <tran loc="es">Audio AIFF-C</tran>
+        <tran loc="es-419">Audio AIFF-C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>OpenOffice.org 1.0 Drawing</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Drawing</base>
-        <tran loc="es">Dibujo de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Dibujo de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>TrueType collection</Position>
       <TranslationSet>
         <base loc="en">TrueType® collection</base>
-        <tran loc="es">Colección TrueType®</tran>
+        <tran loc="es-419">Colección TrueType®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>Books</Position>
       <TranslationSet>
         <base loc="en">Books</base>
-        <tran loc="es">Libros</tran>
+        <tran loc="es-419">Libros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>Alert Caution Badge</Position>
       <TranslationSet>
         <base loc="en">Alert Caution Badge</base>
-        <tran loc="es">Distintivo de advertencia de alerta</tran>
+        <tran loc="es-419">Distintivo de advertencia de alerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>property list</Position>
       <TranslationSet>
         <base loc="en">property list</base>
-        <tran loc="es">Lista de propiedades</tran>
+        <tran loc="es-419">Lista de propiedades</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>Low Overhead MPEG-4 Audio Stream</Position>
       <TranslationSet>
         <base loc="en">Low Overhead MPEG-4 Audio Stream</base>
-        <tran loc="es">Secuencia de audio MPEG-4 con poca sobrecarga</tran>
+        <tran loc="es-419">Audio MPEG-4 en secuencia de baja sobrecarga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>Windows Internet shortcut</Position>
       <TranslationSet>
         <base loc="en">Windows Internet shortcut</base>
-        <tran loc="es">Acceso rápido a internet para Windows</tran>
+        <tran loc="es-419">Función rápida para Internet de Windows</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>Arcade Games</Position>
       <TranslationSet>
         <base loc="en">Arcade Games</base>
-        <tran loc="es">Juegos de arcade</tran>
+        <tran loc="es-419">Juegos de arcade</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>Adobe Digital Editions (ETD)</Position>
       <TranslationSet>
         <base loc="en">Adobe Digital Editions (ETD)</base>
-        <tran loc="es">Digital Editions (ETD) de Adobe</tran>
+        <tran loc="es-419">Digital Editions (ETD) de Adobe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>Audible.com Audio</Position>
       <TranslationSet>
         <base loc="en">Audible.com Audio</base>
-        <tran loc="es">Audio de Audible.com</tran>
+        <tran loc="es-419">Audio de Audible.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>Sharing Privs Read/Write</Position>
       <TranslationSet>
         <base loc="en">Sharing Privs Read/Write</base>
-        <tran loc="es">Privilegios de compartición Lectura/Escritura</tran>
+        <tran loc="es-419">Privilegios para compartir Lectura/Escritura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>Racing Games</Position>
       <TranslationSet>
         <base loc="en">Racing Games</base>
-        <tran loc="es">Juegos de carreras</tran>
+        <tran loc="es-419">Juegos de carreras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>Alert Caution</Position>
       <TranslationSet>
         <base loc="en">Alert Caution</base>
-        <tran loc="es">Advertencia de alerta</tran>
+        <tran loc="es-419">Advertencia de alerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>Alias Badge</Position>
       <TranslationSet>
         <base loc="en">Alias Badge</base>
-        <tran loc="es">Distintivo de alias</tran>
+        <tran loc="es-419">Distintivo de alias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>Keynote document</Position>
       <TranslationSet>
         <base loc="en">Keynote document</base>
-        <tran loc="es">Documento de Keynote</tran>
+        <tran loc="es-419">Documento de Keynote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>Office Open XML slide show</Position>
       <TranslationSet>
         <base loc="en">Office Open XML slide show</base>
-        <tran loc="es">Pase de diapositivas Office Open XML</tran>
+        <tran loc="es-419">Presentación de diapositivas Office Open XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>Alembic 3D Scene</Position>
       <TranslationSet>
         <base loc="en">Alembic 3D Scene</base>
-        <tran loc="es">Escena 3D Alembic</tran>
+        <tran loc="es-419">Escena en 3D Alembic</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>Icon Decoration Read-Only Folder Badge</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Read-Only Folder Badge</base>
-        <tran loc="es">Distintivo de carpeta de solo lectura de decoración de iconos</tran>
+        <tran loc="es-419">Indicador de carpeta de sólo lectura de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>neighborhood</Position>
       <TranslationSet>
         <base loc="en">neighborhood</base>
-        <tran loc="es">entorno</tran>
+        <tran loc="es-419">entorno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>symbol export list</Position>
       <TranslationSet>
         <base loc="en">symbol export list</base>
-        <tran loc="es">lista de exportación de símbolos</tran>
+        <tran loc="es-419">lista de exportación de símbolos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>Open Media Framework interchange format</Position>
       <TranslationSet>
         <base loc="en">Open Media Framework interchange format</base>
-        <tran loc="es">Formato Open Media Framework Interchange</tran>
+        <tran loc="es-419">Formato Open Media Framework Interchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>Power Mac G5</Position>
       <TranslationSet>
         <base loc="en">Power Mac G5</base>
-        <tran loc="es">Power Mac G5</tran>
+        <tran loc="es-419">Power Mac G5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>Microsoft Excel 97-2004 workspace</Position>
       <TranslationSet>
         <base loc="en">Microsoft Excel 97-2004 workspace</base>
-        <tran loc="es">Área de trabajo de Microsoft Excel 97-2004</tran>
+        <tran loc="es-419">Área de trabajo de Microsoft Excel 97-2004</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>video</Position>
       <TranslationSet>
         <base loc="en">video</base>
-        <tran loc="es">vídeo</tran>
+        <tran loc="es-419">video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>Disabled Startup Items Folder</Position>
       <TranslationSet>
         <base loc="en">Disabled Startup Items Folder</base>
-        <tran loc="es">Carpeta Disabled Startup Items</tran>
+        <tran loc="es-419">Carpeta Disabled Startup Items</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>HTTP Internet Location</Position>
       <TranslationSet>
         <base loc="en">HTTP Internet Location</base>
-        <tran loc="es">Ubicación de internet HTTP</tran>
+        <tran loc="es-419">Ubicación de Internet HTTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>QuickDraw picture</Position>
       <TranslationSet>
         <base loc="en">QuickDraw picture</base>
-        <tran loc="es">Imagen QuickDraw</tran>
+        <tran loc="es-419">Imagen QuickDraw</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>Lex source code</Position>
       <TranslationSet>
         <base loc="en">Lex source code</base>
-        <tran loc="es">Código fuente Lex</tran>
+        <tran loc="es-419">Código fuente Lex</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>AIFF audio</Position>
       <TranslationSet>
         <base loc="en">AIFF audio</base>
-        <tran loc="es">Audio AIFF</tran>
+        <tran loc="es-419">Audio AIFF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>FTP internet location</Position>
       <TranslationSet>
         <base loc="en">FTP internet location</base>
-        <tran loc="es">dirección de internet FTP</tran>
+        <tran loc="es-419">dirección de Internet FTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>Clipping</Position>
       <TranslationSet>
         <base loc="en">Clipping</base>
-        <tran loc="es">Recorte</tran>
+        <tran loc="es-419">Recorte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>Windows icon image</Position>
       <TranslationSet>
         <base loc="en">Windows icon image</base>
-        <tran loc="es">Imagen de icono de Windows</tran>
+        <tran loc="es-419">Imagen de ícono de Windows</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>MPEG movie</Position>
       <TranslationSet>
         <base loc="en">MPEG movie</base>
-        <tran loc="es">Vídeo MPEG</tran>
+        <tran loc="es-419">Video MPEG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>Mac mini</Position>
       <TranslationSet>
         <base loc="en">Mac mini</base>
-        <tran loc="es">Mac mini</tran>
+        <tran loc="es-419">Mac mini</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>MacPaint image</Position>
       <TranslationSet>
         <base loc="en">MacPaint image</base>
-        <tran loc="es">Imagen MacPaint</tran>
+        <tran loc="es-419">Imagen MacPaint</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>preprocessed Objective-C++ source code</Position>
       <TranslationSet>
         <base loc="en">preprocessed Objective-C++ source code</base>
-        <tran loc="es">código fuente en C++ orientado a objetos preprocesado</tran>
+        <tran loc="es-419">código fuente en C++ orientado a objetos preprocesado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>Installer package</Position>
       <TranslationSet>
         <base loc="en">Installer package</base>
-        <tran loc="es">Paquete del instalador</tran>
+        <tran loc="es-419">Paquete del Instalador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>URL name</Position>
       <TranslationSet>
         <base loc="en">URL name</base>
-        <tran loc="es">Nombre de URL</tran>
+        <tran loc="es-419">Nombre de URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>Bzip2 compressed tar archive</Position>
       <TranslationSet>
         <base loc="en">Bzip2 compressed tar archive</base>
-        <tran loc="es">Archivo tar comprimido con Bzip2</tran>
+        <tran loc="es-419">Archivo tar comprimido con Bzip2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>Notifications</Position>
       <TranslationSet>
         <base loc="en">Notifications</base>
-        <tran loc="es">Notificaciones</tran>
+        <tran loc="es-419">Notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>iOS device</Position>
       <TranslationSet>
         <base loc="en">iOS device</base>
-        <tran loc="es">Dispositivo iOS</tran>
+        <tran loc="es-419">Dispositivo iOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>Objective-C source code</Position>
       <TranslationSet>
         <base loc="en">Objective-C source code</base>
-        <tran loc="es">Código fuente Objective-C</tran>
+        <tran loc="es-419">Código fuente Objective-C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>Shared Library</Position>
       <TranslationSet>
         <base loc="en">Shared Library</base>
-        <tran loc="es">Biblioteca compartida</tran>
+        <tran loc="es-419">Biblioteca compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>Group</Position>
       <TranslationSet>
         <base loc="en">Group</base>
-        <tran loc="es">Grupo</tran>
+        <tran loc="es-419">Grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>Photo &amp; Video</Position>
       <TranslationSet>
         <base loc="en">Photo &amp; Video</base>
-        <tran loc="es">Fotos y vídeos</tran>
+        <tran loc="es-419">Foto y video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>3D Content</Position>
       <TranslationSet>
         <base loc="en">3D Content</base>
-        <tran loc="es">Contenido 3D</tran>
+        <tran loc="es-419">Contenido en 3D</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>Fonts Folder</Position>
       <TranslationSet>
         <base loc="en">Fonts Folder</base>
-        <tran loc="es">Carpeta Fonts</tran>
+        <tran loc="es-419">Carpeta Fonts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>Magnifying Glass</Position>
       <TranslationSet>
         <base loc="en">Magnifying Glass</base>
-        <tran loc="es">Lupa</tran>
+        <tran loc="es-419">Lupa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>news internet location</Position>
       <TranslationSet>
         <base loc="en">news internet location</base>
-        <tran loc="es">dirección de internet de noticias</tran>
+        <tran loc="es-419">dirección de Internet de noticias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>System Menu Extra</Position>
       <TranslationSet>
         <base loc="en">System Menu Extra</base>
-        <tran loc="es">Menú extra del sistema</tran>
+        <tran loc="es-419">Menú extra del sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>Open Document text master</Position>
       <TranslationSet>
         <base loc="en">Open Document text master</base>
-        <tran loc="es">Texto maestro Open Document</tran>
+        <tran loc="es-419">Texto maestro Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>AirPort Extreme</Position>
       <TranslationSet>
         <base loc="en">AirPort Extreme</base>
-        <tran loc="es">AirPort Extreme</tran>
+        <tran loc="es-419">AirPort Extreme</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>IPFileServer</Position>
       <TranslationSet>
         <base loc="en">IPFileServer</base>
-        <tran loc="es">IPFileServer</tran>
+        <tran loc="es-419">IPFileServer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>Assistants Folder</Position>
       <TranslationSet>
         <base loc="en">Assistants Folder</base>
-        <tran loc="es">Carpeta Assistants</tran>
+        <tran loc="es-419">Carpeta Assistants</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +928,7 @@
       <Position>PKZip archive</Position>
       <TranslationSet>
         <base loc="en">PKZip archive</base>
-        <tran loc="es">Archivo PKZip</tran>
+        <tran loc="es-419">Archivo PKZip</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +936,7 @@
       <Position>sharepoint</Position>
       <TranslationSet>
         <base loc="en">sharepoint</base>
-        <tran loc="es">punto compartido</tran>
+        <tran loc="es-419">punto compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +944,7 @@
       <Position>Icon Decoration Position</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Position</base>
-        <tran loc="es">Posición de decoración de iconos</tran>
+        <tran loc="es-419">Posición de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +952,7 @@
       <Position>Installer package archive</Position>
       <TranslationSet>
         <base loc="en">Installer package archive</base>
-        <tran loc="es">Archivo del paquete del instalador</tran>
+        <tran loc="es-419">Archivo del paquete del Instalador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +960,7 @@
       <Position>Apple Wireless Device</Position>
       <TranslationSet>
         <base loc="en">Apple Wireless Device</base>
-        <tran loc="es">Dispositivo inalámbrico Apple</tran>
+        <tran loc="es-419">Dispositivo inalámbrico Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -968,7 +968,7 @@
       <Position>Toolbar Applications Folder</Position>
       <TranslationSet>
         <base loc="en">Toolbar Applications Folder</base>
-        <tran loc="es">Carpeta Aplicaciones de la barra de herramientas</tran>
+        <tran loc="es-419">Carpeta Aplicaciones de la barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -976,7 +976,7 @@
       <Position>Favorite Items</Position>
       <TranslationSet>
         <base loc="en">Favorite Items</base>
-        <tran loc="es">Ítems favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -984,7 +984,7 @@
       <Position>AppleTalk Zone</Position>
       <TranslationSet>
         <base loc="en">AppleTalk Zone</base>
-        <tran loc="es">Zona AppleTalk</tran>
+        <tran loc="es-419">Zona AppleTalk</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -992,7 +992,7 @@
       <Position>Open Document formula template</Position>
       <TranslationSet>
         <base loc="en">Open Document formula template</base>
-        <tran loc="es">Plantilla de fórmulas Open Document</tran>
+        <tran loc="es-419">Plantilla de fórmulas Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1000,7 +1000,7 @@
       <Position>Music</Position>
       <TranslationSet>
         <base loc="en">Music</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1008,7 +1008,7 @@
       <Position>Open Document image template</Position>
       <TranslationSet>
         <base loc="en">Open Document image template</base>
-        <tran loc="es">Plantilla de imágenes Open Document</tran>
+        <tran loc="es-419">Plantilla de imágenes Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1016,7 +1016,7 @@
       <Position>Apple Haptics Audio Pattern</Position>
       <TranslationSet>
         <base loc="en">Apple Haptics Audio Pattern</base>
-        <tran loc="es">Patrón de vibración con sonido de Apple</tran>
+        <tran loc="es-419">Patrón de audio al vibrar de Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1024,7 +1024,7 @@
       <Position>Keep Arranged</Position>
       <TranslationSet>
         <base loc="en">Keep Arranged</base>
-        <tran loc="es">Mantener orden</tran>
+        <tran loc="es-419">Mantener orden</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1032,7 +1032,7 @@
       <Position>M3U Playlist</Position>
       <TranslationSet>
         <base loc="en">M3U Playlist</base>
-        <tran loc="es">Lista de reproducción de audio M3U</tran>
+        <tran loc="es-419">Playlist de audio M3U</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1040,7 +1040,7 @@
       <Position>Ruby script</Position>
       <TranslationSet>
         <base loc="en">Ruby script</base>
-        <tran loc="es">Script Ruby</tran>
+        <tran loc="es-419">Script Ruby</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1048,7 +1048,7 @@
       <Position>TrueType datafork font</Position>
       <TranslationSet>
         <base loc="en">TrueType® datafork font</base>
-        <tran loc="es">Tipo de Data Fork TrueType®</tran>
+        <tran loc="es-419">Tipo de Data Fork TrueType®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1056,7 +1056,7 @@
       <Position>Board Games</Position>
       <TranslationSet>
         <base loc="en">Board Games</base>
-        <tran loc="es">Juegos de tablero</tran>
+        <tran loc="es-419">Juegos de tablero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1064,7 @@
       <Position>Pages template</Position>
       <TranslationSet>
         <base loc="en">Pages template</base>
-        <tran loc="es">Plantilla de Pages</tran>
+        <tran loc="es-419">Plantilla de Pages</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1072,7 +1072,7 @@
       <Position>HTML text</Position>
       <TranslationSet>
         <base loc="en">HTML text</base>
-        <tran loc="es">Texto HTML</tran>
+        <tran loc="es-419">Texto HTML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1080,7 +1080,7 @@
       <Position>Package</Position>
       <TranslationSet>
         <base loc="en">Package</base>
-        <tran loc="es">Paquete</tran>
+        <tran loc="es-419">Paquete</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1088,7 @@
       <Position>Apple TV</Position>
       <TranslationSet>
         <base loc="en">Apple TV</base>
-        <tran loc="es">Apple TV</tran>
+        <tran loc="es-419">Apple TV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1096,7 @@
       <Position>3GPP movie</Position>
       <TranslationSet>
         <base loc="en">3GPP movie</base>
-        <tran loc="es">Vídeo 3GPP</tran>
+        <tran loc="es-419">Video 3GPP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1104,7 @@
       <Position>Numbers template</Position>
       <TranslationSet>
         <base loc="en">Numbers template</base>
-        <tran loc="es">Plantilla de Numbers</tran>
+        <tran loc="es-419">Plantilla de Numbers</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1112,7 @@
       <Position>Movie Folder</Position>
       <TranslationSet>
         <base loc="en">Movie Folder</base>
-        <tran loc="es">Carpeta Vídeos</tran>
+        <tran loc="es-419">Carpeta Videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1120,7 @@
       <Position>C Shell script</Position>
       <TranslationSet>
         <base loc="en">C Shell script</base>
-        <tran loc="es">Script de shell C</tran>
+        <tran loc="es-419">Script de shell C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1128,7 @@
       <Position>Screen Slide Saver</Position>
       <TranslationSet>
         <base loc="en">Screen Slide Saver</base>
-        <tran loc="es">Salvapantallas de diapositivas</tran>
+        <tran loc="es-419">Protector de pantalla de diapositivas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1136,7 @@
       <Position>Action Games</Position>
       <TranslationSet>
         <base loc="en">Action Games</base>
-        <tran loc="es">Juegos de acción</tran>
+        <tran loc="es-419">Juegos de acción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1144,7 @@
       <Position>IOKit Interface Generator source code</Position>
       <TranslationSet>
         <base loc="en">IOKit Interface Generator source code</base>
-        <tran loc="es">Código fuente del generador de interfaces de IOKit</tran>
+        <tran loc="es-419">Código fuente de generador de interfaz de IOKit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1152,7 @@
       <Position>Sites Folder</Position>
       <TranslationSet>
         <base loc="en">Sites Folder</base>
-        <tran loc="es">Carpeta Web</tran>
+        <tran loc="es-419">Carpeta Web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1160,7 @@
       <Position>Mail Internet Location</Position>
       <TranslationSet>
         <base loc="en">Mail Internet Location</base>
-        <tran loc="es">Dirección de internet de correo</tran>
+        <tran loc="es-419">Dirección de Internet de correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1168,7 @@
       <Position>Shared Folder</Position>
       <TranslationSet>
         <base loc="en">Shared Folder</base>
-        <tran loc="es">Carpeta Compartido</tran>
+        <tran loc="es-419">Carpeta Compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1176,7 @@
       <Position>Icon Decoration</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration</base>
-        <tran loc="es">Decoración de iconos</tran>
+        <tran loc="es-419">Decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1184,7 @@
       <Position>Library Folder</Position>
       <TranslationSet>
         <base loc="en">Library Folder</base>
-        <tran loc="es">Carpeta Biblioteca</tran>
+        <tran loc="es-419">Carpeta Biblioteca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1192,7 +1192,7 @@
       <Position>CDAudioVolume</Position>
       <TranslationSet>
         <base loc="en">CDAudioVolume</base>
-        <tran loc="es">CDAudioVolume</tran>
+        <tran loc="es-419">CDAudioVolume</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1200,7 @@
       <Position>CPIO archive</Position>
       <TranslationSet>
         <base loc="en">CPIO archive</base>
-        <tran loc="es">Archivo CPIO</tran>
+        <tran loc="es-419">Archivo CPIO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1208,7 @@
       <Position>StuffIt X archive</Position>
       <TranslationSet>
         <base loc="en">StuffIt X archive</base>
-        <tran loc="es">Archivo comprimido de StuffIt X</tran>
+        <tran loc="es-419">Archivo comprimido de StuffIt X</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1216,7 @@
       <Position>HEIF Image</Position>
       <TranslationSet>
         <base loc="en">HEIF Image</base>
-        <tran loc="es">Imagen HEIF</tran>
+        <tran loc="es-419">Imagen HEIF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1224,7 @@
       <Position>PHP script</Position>
       <TranslationSet>
         <base loc="en">PHP script</base>
-        <tran loc="es">Script PHP</tran>
+        <tran loc="es-419">Script PHP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1232,7 @@
       <Position>MPEG-4 audio</Position>
       <TranslationSet>
         <base loc="en">MPEG-4 audio</base>
-        <tran loc="es">Audio MPEG-4</tran>
+        <tran loc="es-419">Audio MPEG-4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1240,7 @@
       <Position>AppleSingle archive</Position>
       <TranslationSet>
         <base loc="en">AppleSingle archive</base>
-        <tran loc="es">Archivo AppleSingle</tran>
+        <tran loc="es-419">Archivo AppleSingle</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@
       <Position>Low-overhead MPEG-4 Audio Transport Multiplex</Position>
       <TranslationSet>
         <base loc="en">Low-overhead MPEG-4 Audio Transport Multiplex</base>
-        <tran loc="es">Multiplexación de transporte de audio MPEG-4 con poca sobrecarga</tran>
+        <tran loc="es-419">Transporte de audio MPEG-4 múltiple de baja sobrecarga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@
       <Position>Screen Saver</Position>
       <TranslationSet>
         <base loc="en">Screen Saver</base>
-        <tran loc="es">Salvapantallas</tran>
+        <tran loc="es-419">Protector de pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@
       <Position>Customize Toolbar</Position>
       <TranslationSet>
         <base loc="en">Customize Toolbar</base>
-        <tran loc="es">Personalizar barra de herramientas</tran>
+        <tran loc="es-419">Personalizar barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@
       <Position>iPhone 8 (Model A1863, A1905, A1906, A1907)</Position>
       <TranslationSet>
         <base loc="en">iPhone 8 (Model A1863, A1905, A1906, A1907)</base>
-        <tran loc="es">iPhone 8 (modelos A1863, A1905, A1906 y A1907)</tran>
+        <tran loc="es-419">iPhone 8 (modelo A1863, A1905, A1906 y A1907)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@
       <Position>personal information exchange (PKCS#12)</Position>
       <TranslationSet>
         <base loc="en">personal information exchange (PKCS#12)</base>
-        <tran loc="es">intercambio de información personal (PKCS#12)</tran>
+        <tran loc="es-419">intercambio de información personal (PKCS#12)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@
       <Position>Mounted Folder</Position>
       <TranslationSet>
         <base loc="en">Mounted Folder</base>
-        <tran loc="es">Carpeta montada</tran>
+        <tran loc="es-419">Carpeta montada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@
       <Position>Microsoft Excel 97-2004 template</Position>
       <TranslationSet>
         <base loc="en">Microsoft Excel 97-2004 template</base>
-        <tran loc="es">Plantilla de Microsoft Excel 97-2004</tran>
+        <tran loc="es-419">Plantilla de Microsoft Excel 97-2004</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@
       <Position>Sound Clipping</Position>
       <TranslationSet>
         <base loc="en">Sound Clipping</base>
-        <tran loc="es">Recorte de sonido</tran>
+        <tran loc="es-419">Recorte de sonido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@
       <Position>Burn</Position>
       <TranslationSet>
         <base loc="en">Burn</base>
-        <tran loc="es">Grabar</tran>
+        <tran loc="es-419">Grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>database</Position>
       <TranslationSet>
         <base loc="en">database</base>
-        <tran loc="es">base de datos</tran>
+        <tran loc="es-419">base de datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>iPhone X</Position>
       <TranslationSet>
         <base loc="en">iPhone X</base>
-        <tran loc="es">iPhone X</tran>
+        <tran loc="es-419">iPhone X</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>Yacc source code</Position>
       <TranslationSet>
         <base loc="en">Yacc source code</base>
-        <tran loc="es">Código fuente Yacc</tran>
+        <tran loc="es-419">Código fuente Yacc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>preprocessed C source code</Position>
       <TranslationSet>
         <base loc="en">preprocessed C source code</base>
-        <tran loc="es">código fuente en C preprocesado</tran>
+        <tran loc="es-419">código fuente en C preprocesado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>Internet PlugIn Folder</Position>
       <TranslationSet>
         <base loc="en">Internet PlugIn Folder</base>
-        <tran loc="es">Carpeta Internet Plugin</tran>
+        <tran loc="es-419">Carpeta Internet Plugin</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>Adobe Photoshop large document</Position>
       <TranslationSet>
         <base loc="en">Adobe Photoshop large document</base>
-        <tran loc="es">Documento grande de Adobe Photoshop</tran>
+        <tran loc="es-419">Documento grande de Adobe Photoshop</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>Open Document graphics template</Position>
       <TranslationSet>
         <base loc="en">Open Document graphics template</base>
-        <tran loc="es">Plantilla de gráficos Open Document</tran>
+        <tran loc="es-419">Plantilla de gráficos Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@
       <Position>Weather</Position>
       <TranslationSet>
         <base loc="en">Weather</base>
-        <tran loc="es">Tiempo</tran>
+        <tran loc="es-419">Clima</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@
       <Position>DICOM</Position>
       <TranslationSet>
         <base loc="en">DICOM</base>
-        <tran loc="es">DICOM</tran>
+        <tran loc="es-419">DICOM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1392,7 @@
       <Position>audio unit preset</Position>
       <TranslationSet>
         <base loc="en">audio unit preset</base>
-        <tran loc="es">Preajuste de Audio Unit</tran>
+        <tran loc="es-419">Preaj. de Audio Unit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1400,7 @@
       <Position>Unix executable</Position>
       <TranslationSet>
         <base loc="en">Unix executable</base>
-        <tran loc="es">Ejecutable Unix</tran>
+        <tran loc="es-419">Archivo ejecutable Unix</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1408,7 @@
       <Position>Protected System Folder</Position>
       <TranslationSet>
         <base loc="en">Protected System Folder</base>
-        <tran loc="es">Carpeta Protected System</tran>
+        <tran loc="es-419">Carpeta Protected System</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1416,7 @@
       <Position>Sharing Privs Writable</Position>
       <TranslationSet>
         <base loc="en">Sharing Privs Writable</base>
-        <tran loc="es">Privilegios de compartición modificables</tran>
+        <tran loc="es-419">Privilegios para compartir modificables</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1424,7 @@
       <Position>XPC Service</Position>
       <TranslationSet>
         <base loc="en">XPC Service</base>
-        <tran loc="es">Servicio XPC</tran>
+        <tran loc="es-419">Servicio XPC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@
       <Position>file URL</Position>
       <TranslationSet>
         <base loc="en">file URL</base>
-        <tran loc="es">URL del archivo</tran>
+        <tran loc="es-419">URL del archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@
       <Position>alias data</Position>
       <TranslationSet>
         <base loc="en">alias data</base>
-        <tran loc="es">datos de alias</tran>
+        <tran loc="es-419">datos de alias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@
       <Position>web archive</Position>
       <TranslationSet>
         <base loc="en">web archive</base>
-        <tran loc="es">archivo web</tran>
+        <tran loc="es-419">archivo web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>Keynote theme</Position>
       <TranslationSet>
         <base loc="en">Keynote theme</base>
-        <tran loc="es">Tema de Keynote</tran>
+        <tran loc="es-419">Tema de Keynote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@
       <Position>Color</Position>
       <TranslationSet>
         <base loc="en">Color</base>
-        <tran loc="es">Color</tran>
+        <tran loc="es-419">Color</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>Text Encodings Folder</Position>
       <TranslationSet>
         <base loc="en">Text Encodings Folder</base>
-        <tran loc="es">Carpeta Text Encodings</tran>
+        <tran loc="es-419">Carpeta Text Encodings</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>JPEG 2000 image</Position>
       <TranslationSet>
         <base loc="en">JPEG 2000 image</base>
-        <tran loc="es">Imagen JPEG2000</tran>
+        <tran loc="es-419">Imagen JPEG2000</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>preprocessed C++ source code</Position>
       <TranslationSet>
         <base loc="en">preprocessed C++ source code</base>
-        <tran loc="es">código fuente en C++ preprocesado</tran>
+        <tran loc="es-419">código fuente en C++ preprocesado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>uLaw audio</Position>
       <TranslationSet>
         <base loc="en">µLaw audio</base>
-        <tran loc="es">audio µLaw</tran>
+        <tran loc="es-419">audio µLaw</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>MacBook Pro</Position>
       <TranslationSet>
         <base loc="en">MacBook Pro</base>
-        <tran loc="es">MacBook Pro</tran>
+        <tran loc="es-419">MacBook Pro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>Casino Games</Position>
       <TranslationSet>
         <base loc="en">Casino Games</base>
-        <tran loc="es">Juegos de casino</tran>
+        <tran loc="es-419">Juegos de casino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1520,7 @@
       <Position>Audiovisual Collection</Position>
       <TranslationSet>
         <base loc="en">Audiovisual Collection</base>
-        <tran loc="es">Colección audiovisual</tran>
+        <tran loc="es-419">Colección audiovisual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@
       <Position>Developer Tools</Position>
       <TranslationSet>
         <base loc="en">Developer Tools</base>
-        <tran loc="es">Herramientas para desarrolladores</tran>
+        <tran loc="es-419">Herramientas para desarrolladores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@
       <Position>Protected Application Folder</Position>
       <TranslationSet>
         <base loc="en">Protected Application Folder</base>
-        <tran loc="es">Carpeta Protected Application</tran>
+        <tran loc="es-419">Carpeta Protected Application</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@
       <Position>MacBook Air</Position>
       <TranslationSet>
         <base loc="en">MacBook Air</base>
-        <tran loc="es">MacBook Air</tran>
+        <tran loc="es-419">MacBook Air</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@
       <Position>Music Games</Position>
       <TranslationSet>
         <base loc="en">Music Games</base>
-        <tran loc="es">Juegos musicales</tran>
+        <tran loc="es-419">Juegos musicales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@
       <Position>font</Position>
       <TranslationSet>
         <base loc="en">font</base>
-        <tran loc="es">tipo de letra</tran>
+        <tran loc="es-419">tipo de letra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@
       <Position>VNC Internet Location</Position>
       <TranslationSet>
         <base loc="en">VNC Internet Location</base>
-        <tran loc="es">Dirección de internet VNC</tran>
+        <tran loc="es-419">Dirección de Internet VNC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@
       <Position>Open Document chart template</Position>
       <TranslationSet>
         <base loc="en">Open Document chart template</base>
-        <tran loc="es">Plantilla de gráficas Open Document</tran>
+        <tran loc="es-419">Plantilla de gráficas Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@
       <Position>Open Document graphics</Position>
       <TranslationSet>
         <base loc="en">Open Document graphics</base>
-        <tran loc="es">Gráfico Open Document</tran>
+        <tran loc="es-419">Gráfico Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@
       <Position>rich text with attachments (RTFD) data</Position>
       <TranslationSet>
         <base loc="en">rich text with attachments (RTFD) data</base>
-        <tran loc="es">datos de texto enriquecido con inserciones (RTFD)</tran>
+        <tran loc="es-419">datos de texto enriquecido con inserciones (RTFD)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@
       <Position>No Write</Position>
       <TranslationSet>
         <base loc="en">No Write</base>
-        <tran loc="es">Ninguna grabación</tran>
+        <tran loc="es-419">Ninguna grabación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1608,7 @@
       <Position>Disabled System Extension Folder</Position>
       <TranslationSet>
         <base loc="en">Disabled System Extension Folder</base>
-        <tran loc="es">Carpeta Disabled System Extension</tran>
+        <tran loc="es-419">Carpeta Disabled System Extension</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1616,7 +1616,7 @@
       <Position>ColorSync profile</Position>
       <TranslationSet>
         <base loc="en">ColorSync profile</base>
-        <tran loc="es">Perfil ColorSync</tran>
+        <tran loc="es-419">Perfil ColorSync</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1624,7 +1624,7 @@
       <Position>Office Open XML spreadsheet (macro enabled)</Position>
       <TranslationSet>
         <base loc="en">Office Open XML spreadsheet (macro enabled)</base>
-        <tran loc="es">Hoja de cálculos Office Open XML (macro activada)</tran>
+        <tran loc="es-419">Hoja de cálculo Office Open XML (macro activada)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1632,7 +1632,7 @@
       <Position>Date (Structured Text)</Position>
       <TranslationSet>
         <base loc="en">Date (Structured Text)</base>
-        <tran loc="es">Fecha (texto estructurado)</tran>
+        <tran loc="es-419">Fecha (texto estructurado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1640,7 +1640,7 @@
       <Position>Office Open XML</Position>
       <TranslationSet>
         <base loc="en">Office Open XML</base>
-        <tran loc="es">Office Open XML</tran>
+        <tran loc="es-419">Office Open XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1648,7 +1648,7 @@
       <Position>Office Open XML presentation template</Position>
       <TranslationSet>
         <base loc="en">Office Open XML presentation template</base>
-        <tran loc="es">Plantilla de presentación Office Open XML</tran>
+        <tran loc="es-419">Plantilla de presentación Office Open XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1656,7 +1656,7 @@
       <Position>Private Folder</Position>
       <TranslationSet>
         <base loc="en">Private Folder</base>
-        <tran loc="es">Carpeta Private</tran>
+        <tran loc="es-419">Carpeta Private</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1664,7 +1664,7 @@
       <Position>Games</Position>
       <TranslationSet>
         <base loc="en">Games</base>
-        <tran loc="es">Juegos</tran>
+        <tran loc="es-419">Juegos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1672,7 +1672,7 @@
       <Position>BD Video Disc</Position>
       <TranslationSet>
         <base loc="en">BD Video Disc</base>
-        <tran loc="es">Disco de vídeo BD</tran>
+        <tran loc="es-419">Disco de video BD</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1680,7 +1680,7 @@
       <Position>PNG image</Position>
       <TranslationSet>
         <base loc="en">PNG image</base>
-        <tran loc="es">Imagen PNG</tran>
+        <tran loc="es-419">Imagen PNG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1688,7 +1688,7 @@
       <Position>Windows media audio</Position>
       <TranslationSet>
         <base loc="en">Windows media audio</base>
-        <tran loc="es">WMA</tran>
+        <tran loc="es-419">WMA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1696,7 +1696,7 @@
       <Position>Open Document presentation template</Position>
       <TranslationSet>
         <base loc="en">Open Document presentation template</base>
-        <tran loc="es">Plantilla de presentación Open Document</tran>
+        <tran loc="es-419">Plantilla de presentación Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1704,7 +1704,7 @@
       <Position>Picture Clipping</Position>
       <TranslationSet>
         <base loc="en">Picture Clipping</base>
-        <tran loc="es">Recorte de imagen</tran>
+        <tran loc="es-419">Recorte de imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1712,7 +1712,7 @@
       <Position>Toolbar Public Folder</Position>
       <TranslationSet>
         <base loc="en">Toolbar Public Folder</base>
-        <tran loc="es">Carpeta Pública de la barra de herramientas</tran>
+        <tran loc="es-419">Carpeta Pública de la barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1720,7 +1720,7 @@
       <Position>Advanced Authoring Format</Position>
       <TranslationSet>
         <base loc="en">Advanced Authoring Format</base>
-        <tran loc="es">Formato de creación avanzado</tran>
+        <tran loc="es-419">Formato de creación avanzado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1728,7 +1728,7 @@
       <Position>tab-separated values</Position>
       <TranslationSet>
         <base loc="en">tab-separated values</base>
-        <tran loc="es">valores separados por tabulaciones</tran>
+        <tran loc="es-419">valores separados por tabulaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1736,7 @@
       <Position>Xserve G5</Position>
       <TranslationSet>
         <base loc="en">Xserve G5</base>
-        <tran loc="es">Xserve G5</tran>
+        <tran loc="es-419">Xserve G5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1744,7 @@
       <Position>Sharing Privs Not Applicable</Position>
       <TranslationSet>
         <base loc="en">Sharing Privs Not Applicable</base>
-        <tran loc="es">Privilegios de compartición no aplicables</tran>
+        <tran loc="es-419">Privilegios para compartir no aplicables</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1752,7 @@
       <Position>Word Games</Position>
       <TranslationSet>
         <base loc="en">Word Games</base>
-        <tran loc="es">Juegos de palabras</tran>
+        <tran loc="es-419">Juegos de palabras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1760,7 +1760,7 @@
       <Position>calendar event</Position>
       <TranslationSet>
         <base loc="en">calendar event</base>
-        <tran loc="es">evento de calendario</tran>
+        <tran loc="es-419">evento de calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1768,7 +1768,7 @@
       <Position>disk image</Position>
       <TranslationSet>
         <base loc="en">disk image</base>
-        <tran loc="es">imagen de disco</tran>
+        <tran loc="es-419">imagen de disco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1776,7 +1776,7 @@
       <Position>audio</Position>
       <TranslationSet>
         <base loc="en">audio</base>
-        <tran loc="es">audio</tran>
+        <tran loc="es-419">audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1784,7 +1784,7 @@
       <Position>Pictures Folder</Position>
       <TranslationSet>
         <base loc="en">Pictures Folder</base>
-        <tran loc="es">Carpeta Imágenes</tran>
+        <tran loc="es-419">Carpeta Imágenes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1792,7 +1792,7 @@
       <Position>Folder</Position>
       <TranslationSet>
         <base loc="en">Folder</base>
-        <tran loc="es">Carpeta</tran>
+        <tran loc="es-419">Carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1800,7 +1800,7 @@
       <Position>OpenOffice.org 1.0 Drawing Template</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Drawing Template</base>
-        <tran loc="es">Plantilla de dibujo de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Plantilla de dibujo de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1808,7 +1808,7 @@
       <Position>AR Reference Object</Position>
       <TranslationSet>
         <base loc="en">AR Reference Object</base>
-        <tran loc="es">Objeto de referencia de realidad aumentada</tran>
+        <tran loc="es-419">Objeto de referencia AR.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1816,7 +1816,7 @@
       <Position>Apple Logo</Position>
       <TranslationSet>
         <base loc="en">Apple Logo</base>
-        <tran loc="es">Logotipo de Apple</tran>
+        <tran loc="es-419">Logotipo de Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1824,7 +1824,7 @@
       <Position>Disabled Extensions Folder</Position>
       <TranslationSet>
         <base loc="en">Disabled Extensions Folder</base>
-        <tran loc="es">Carpeta Disabled Extensions</tran>
+        <tran loc="es-419">Carpeta Disabled Extensions</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1832,7 +1832,7 @@
       <Position>Read-Only Folder</Position>
       <TranslationSet>
         <base loc="en">Read-Only Folder</base>
-        <tran loc="es">Carpeta de solo lectura</tran>
+        <tran loc="es-419">Carpeta de sólo lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1840,7 @@
       <Position>BOM-generated compressed CPIO archive</Position>
       <TranslationSet>
         <base loc="en">BOM-generated compressed CPIO archive</base>
-        <tran loc="es">Archivo CPIO comprimido generado por BOM</tran>
+        <tran loc="es-419">Archivo CPIO comprimido generado por BOM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>Darwin kernel trace file</Position>
       <TranslationSet>
         <base loc="en">Darwin kernel trace file</base>
-        <tran loc="es">Archivo de seguimiento del kernel Darwin</tran>
+        <tran loc="es-419">archivo de rastreo de kernel de Darwin</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>GarageBand Project</Position>
       <TranslationSet>
         <base loc="en">GarageBand Project</base>
-        <tran loc="es">Proyecto de GarageBand</tran>
+        <tran loc="es-419">Proyecto de GarageBand</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1864,7 @@
       <Position>Icon Decoration Emboss</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Emboss</base>
-        <tran loc="es">Relieve de decoración de iconos</tran>
+        <tran loc="es-419">Relieve de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1872,7 @@
       <Position>AVCHD Collection</Position>
       <TranslationSet>
         <base loc="en">AVCHD Collection</base>
-        <tran loc="es">Colección AVCHD</tran>
+        <tran loc="es-419">Colección AVCHD</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1880,7 @@
       <Position>Bookmarks</Position>
       <TranslationSet>
         <base loc="en">Bookmarks</base>
-        <tran loc="es">Marcadores</tran>
+        <tran loc="es-419">Marcadores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1888,7 @@
       <Position>AFP internet location</Position>
       <TranslationSet>
         <base loc="en">AFP internet location</base>
-        <tran loc="es">Dirección de internet AFP</tran>
+        <tran loc="es-419">Dirección de Internet AFP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1896,7 @@
       <Position>OpenOffice.org 1.0 Text Template</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Text Template</base>
-        <tran loc="es">Plantilla de texto de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Plantilla de texto de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1904,7 @@
       <Position>TrueType font</Position>
       <TranslationSet>
         <base loc="en">TrueType® font</base>
-        <tran loc="es">Tipo TrueType®</tran>
+        <tran loc="es-419">Tipo TrueType®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1912,7 @@
       <Position>Music Folder</Position>
       <TranslationSet>
         <base loc="en">Music Folder</base>
-        <tran loc="es">Carpeta Música</tran>
+        <tran loc="es-419">Carpeta Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1920,7 @@
       <Position>Icon Set</Position>
       <TranslationSet>
         <base loc="en">Icon Set</base>
-        <tran loc="es">Grupo de iconos</tran>
+        <tran loc="es-419">Grupo de íconos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1928,7 @@
       <Position>bookmark</Position>
       <TranslationSet>
         <base loc="en">bookmark</base>
-        <tran loc="es">marcadores</tran>
+        <tran loc="es-419">favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1936,7 @@
       <Position>Apple MPEG-4 movie</Position>
       <TranslationSet>
         <base loc="en">Apple MPEG-4 movie</base>
-        <tran loc="es">Vídeo MPEG-4 Apple</tran>
+        <tran loc="es-419">Video MPEG-4 Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1944,7 @@
       <Position>script</Position>
       <TranslationSet>
         <base loc="en">script</base>
-        <tran loc="es">script</tran>
+        <tran loc="es-419">script</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1952,7 @@
       <Position>Promised file URL</Position>
       <TranslationSet>
         <base loc="en">Promised file URL</base>
-        <tran loc="es">URL del archivo prometido</tran>
+        <tran loc="es-419">URL del archivo prometido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1960,7 +1960,7 @@
       <Position>Office Open XML spreadsheet template</Position>
       <TranslationSet>
         <base loc="en">Office Open XML spreadsheet template</base>
-        <tran loc="es">Plantilla de hoja de cálculos Office Open XML</tran>
+        <tran loc="es-419">Plantilla de hoja de cálculo Office Open XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1968,7 +1968,7 @@
       <Position>Office Open XML spreadsheet template (macro enabled)</Position>
       <TranslationSet>
         <base loc="en">Office Open XML spreadsheet template (macro enabled)</base>
-        <tran loc="es">Plantilla de hoja de cálculos Office Open XML (macro activada)</tran>
+        <tran loc="es-419">Plantilla de hoja de cálculo Office Open XML (macro activada)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1976,7 +1976,7 @@
       <Position>MP3 audio</Position>
       <TranslationSet>
         <base loc="en">MP3 audio</base>
-        <tran loc="es">Audio MP3</tran>
+        <tran loc="es-419">Audio MP3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1984,7 +1984,7 @@
       <Position>Service</Position>
       <TranslationSet>
         <base loc="en">Service</base>
-        <tran loc="es">Servicio</tran>
+        <tran loc="es-419">Servicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1992,7 +1992,7 @@
       <Position>JSON</Position>
       <TranslationSet>
         <base loc="en">JSON</base>
-        <tran loc="es">JSON</tran>
+        <tran loc="es-419">JSON</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2000,7 +2000,7 @@
       <Position>Forward Arrow</Position>
       <TranslationSet>
         <base loc="en">Forward Arrow</base>
-        <tran loc="es">Flecha adelante</tran>
+        <tran loc="es-419">Flecha adelante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2008,7 +2008,7 @@
       <Position>Icon Decoration Position Trailing Bottom</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Position Trailing Bottom</base>
-        <tran loc="es">Posición inferior final de decoración de iconos</tran>
+        <tran loc="es-419">Fondo al inicio de posición de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2016,7 +2016,7 @@
       <Position>PostScript OpenType font</Position>
       <TranslationSet>
         <base loc="en">PostScript® OpenType® font</base>
-        <tran loc="es">Tipo PostScript® OpenType®</tran>
+        <tran loc="es-419">Tipo PostScript® OpenType®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2024,7 +2024,7 @@
       <Position>ColorSync Folder</Position>
       <TranslationSet>
         <base loc="en">ColorSync Folder</base>
-        <tran loc="es">Carpeta ColorSync</tran>
+        <tran loc="es-419">Carpeta ColorSync</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2032,7 +2032,7 @@
       <Position>OpenOffice.org 1.0 Text</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Text</base>
-        <tran loc="es">Texto de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Texto de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2040,7 +2040,7 @@
       <Position>Office Open XML presentation template (macros enabled)</Position>
       <TranslationSet>
         <base loc="en">Office Open XML presentation template (macros enabled)</base>
-        <tran loc="es">Plantilla de presentación Office Open XML (macros activadas)</tran>
+        <tran loc="es-419">Plantilla de presentación Office Open XML (macros activadas)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2048,7 +2048,7 @@
       <Position>iPhone 4</Position>
       <TranslationSet>
         <base loc="en">iPhone 4</base>
-        <tran loc="es">iPhone 4</tran>
+        <tran loc="es-419">iPhone 4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2056,7 +2056,7 @@
       <Position>MPEG-2 video</Position>
       <TranslationSet>
         <base loc="en">MPEG-2 video</base>
-        <tran loc="es">Vídeo MPEG-2</tran>
+        <tran loc="es-419">Video MPEG-2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2064,7 @@
       <Position>Toolbar Home</Position>
       <TranslationSet>
         <base loc="en">Toolbar Home</base>
-        <tran loc="es">Carpeta de inicio de la barra de herramientas</tran>
+        <tran loc="es-419">Carpeta de inicio de la barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2072,7 @@
       <Position>fax</Position>
       <TranslationSet>
         <base loc="en">fax</base>
-        <tran loc="es">fax</tran>
+        <tran loc="es-419">fax</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2080,7 @@
       <Position>Disabled Control Panel Folder</Position>
       <TranslationSet>
         <base loc="en">Disabled Control Panel Folder</base>
-        <tran loc="es">Carpeta Disabled Control Panel</tran>
+        <tran loc="es-419">Carpeta Disabled Control Panel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2088,7 @@
       <Position>Control Panel Folder</Position>
       <TranslationSet>
         <base loc="en">Control Panel Folder</base>
-        <tran loc="es">Carpeta Paneles de Control</tran>
+        <tran loc="es-419">Carpeta Panel de Control</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2096,7 @@
       <Position>Live Photo</Position>
       <TranslationSet>
         <base loc="en">Live Photo</base>
-        <tran loc="es">Live Photo</tran>
+        <tran loc="es-419">Live Photo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2104,7 @@
       <Position>Open Document presentation</Position>
       <TranslationSet>
         <base loc="en">Open Document presentation</base>
-        <tran loc="es">Presentación Open Document</tran>
+        <tran loc="es-419">Presentación Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2112,7 @@
       <Position>precompiled C header</Position>
       <TranslationSet>
         <base loc="en">precompiled C header</base>
-        <tran loc="es">cabecera C precompilada</tran>
+        <tran loc="es-419">encabezado C precompilado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2120,7 @@
       <Position>directory</Position>
       <TranslationSet>
         <base loc="en">directory</base>
-        <tran loc="es">directorio</tran>
+        <tran loc="es-419">directorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2128,7 @@
       <Position>Microsoft PowerPoint 97-2004 template</Position>
       <TranslationSet>
         <base loc="en">Microsoft PowerPoint 97-2004 template</base>
-        <tran loc="es">Plantilla de Microsoft PowerPoint 97-2004</tran>
+        <tran loc="es-419">Plantilla de Microsoft PowerPoint 97-2004</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2136,7 @@
       <Position>Icon Decoration Alert Caution</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Alert Caution</base>
-        <tran loc="es">Advertencia de alerta de decoración de iconos</tran>
+        <tran loc="es-419">Alerta de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2144,7 @@
       <Position>PDF document</Position>
       <TranslationSet>
         <base loc="en">PDF document</base>
-        <tran loc="es">Documento PDF</tran>
+        <tran loc="es-419">Documento PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2152,7 @@
       <Position>Storage</Position>
       <TranslationSet>
         <base loc="en">Storage</base>
-        <tran loc="es">Almacenamiento</tran>
+        <tran loc="es-419">Almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2160,7 @@
       <Position>Standard Tesselated Geometry File Format</Position>
       <TranslationSet>
         <base loc="en">Standard Tesselated Geometry File Format</base>
-        <tran loc="es">Formato de archivo de geometría teselada estándar</tran>
+        <tran loc="es-419">Formato de archivo de geometría estándar de teselados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2168,7 @@
       <Position>Startup Folder</Position>
       <TranslationSet>
         <base loc="en">Startup Folder</base>
-        <tran loc="es">Carpeta Startup</tran>
+        <tran loc="es-419">Carpeta Startup</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2176,7 @@
       <Position>protected MPEG-4 audio</Position>
       <TranslationSet>
         <base loc="en">protected MPEG-4 audio</base>
-        <tran loc="es">Audio MPEG-4 protegido</tran>
+        <tran loc="es-419">Audio MPEG-4 protegido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2184,7 @@
       <Position>resolvable</Position>
       <TranslationSet>
         <base loc="en">resolvable</base>
-        <tran loc="es">resolvible</tran>
+        <tran loc="es-419">resolvible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@
       <Position>Adventure Games</Position>
       <TranslationSet>
         <base loc="en">Adventure Games</base>
-        <tran loc="es">Juegos de aventuras</tran>
+        <tran loc="es-419">Juegos de aventuras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2200,7 @@
       <Position>Photography</Position>
       <TranslationSet>
         <base loc="en">Photography</base>
-        <tran loc="es">Fotografía</tran>
+        <tran loc="es-419">Fotografía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2208,7 +2208,7 @@
       <Position>TrueType collection font</Position>
       <TranslationSet>
         <base loc="en">TrueType® collection font</base>
-        <tran loc="es">Tipo de la colección TrueType®</tran>
+        <tran loc="es-419">Tipo de la colección TrueType®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2216,7 +2216,7 @@
       <Position>Mounted Badge</Position>
       <TranslationSet>
         <base loc="en">Mounted Badge</base>
-        <tran loc="es">Distintivo montado</tran>
+        <tran loc="es-419">Distintivo montado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2224,7 +2224,7 @@
       <Position>Open Document image</Position>
       <TranslationSet>
         <base loc="en">Open Document image</base>
-        <tran loc="es">Imagen Open Document</tran>
+        <tran loc="es-419">Imagen Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2232,7 +2232,7 @@
       <Position>Mig definition source code</Position>
       <TranslationSet>
         <base loc="en">Mig definition source code</base>
-        <tran loc="es">Código fuente de definición Mig</tran>
+        <tran loc="es-419">Código fuente de definición Mig</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2240,7 +2240,7 @@
       <Position>Classic System Folder</Position>
       <TranslationSet>
         <base loc="en">Classic System Folder</base>
-        <tran loc="es">Carpeta del Sistema de Classic</tran>
+        <tran loc="es-419">Carpeta del Sistema de Classic</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2248,7 +2248,7 @@
       <Position>Icon Decoration Alias</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Alias</base>
-        <tran loc="es">Alias de decoración de iconos</tran>
+        <tran loc="es-419">Alias de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2256,7 +2256,7 @@
       <Position>XIP Secure Archive</Position>
       <TranslationSet>
         <base loc="en">XIP Secure Archive</base>
-        <tran loc="es">Archivo comprimido seguro XIP</tran>
+        <tran loc="es-419">Archivo comprimido seguro XIP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2264,7 +2264,7 @@
       <Position>Apple Script Badge</Position>
       <TranslationSet>
         <base loc="en">Apple Script Badge</base>
-        <tran loc="es">Distintivo de AppleScript</tran>
+        <tran loc="es-419">Distintivo de AppleScript</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2272,7 +2272,7 @@
       <Position>OpenOffice.org 1.0 Presentation</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Presentation</base>
-        <tran loc="es">Presentación de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Presentación de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2280,7 +2280,7 @@
       <Position>Dice Games</Position>
       <TranslationSet>
         <base loc="en">Dice Games</base>
-        <tran loc="es">Juegos de dados</tran>
+        <tran loc="es-419">Juegos de dados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2288,7 +2288,7 @@
       <Position>Reference</Position>
       <TranslationSet>
         <base loc="en">Reference</base>
-        <tran loc="es">Referencia</tran>
+        <tran loc="es-419">Referencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2296,7 +2296,7 @@
       <Position>StuffIt archive family</Position>
       <TranslationSet>
         <base loc="en">StuffIt archive family</base>
-        <tran loc="es">Familia de archivos comprimidos de StuffIt</tran>
+        <tran loc="es-419">Familia de archivos comprimidos de StuffIt</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2304,7 +2304,7 @@
       <Position>NSPasteboard type</Position>
       <TranslationSet>
         <base loc="en">NSPasteboard type</base>
-        <tran loc="es">Tipo de NSPasteboard</tran>
+        <tran loc="es-419">Tipo de NSPasteboard</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2312,7 +2312,7 @@
       <Position>Printer Driver Folder</Position>
       <TranslationSet>
         <base loc="en">Printer Driver Folder</base>
-        <tran loc="es">Carpeta Printer Driver</tran>
+        <tran loc="es-419">Carpeta Printer Driver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2320,7 +2320,7 @@
       <Position>Icon Decoration Unsupported</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Unsupported</base>
-        <tran loc="es">Decoración de iconos incompatible</tran>
+        <tran loc="es-419">Decoración de ícono no compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2328,7 +2328,7 @@
       <Position>BOM-compatible archive</Position>
       <TranslationSet>
         <base loc="en">BOM-compatible archive</base>
-        <tran loc="es">Archivo compatible con BOM</tran>
+        <tran loc="es-419">Archivo compatible con BOM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2336,7 +2336,7 @@
       <Position>MINC Image</Position>
       <TranslationSet>
         <base loc="en">MINC Image</base>
-        <tran loc="es">Imagen MINC</tran>
+        <tran loc="es-419">Imagen MINC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2344,7 +2344,7 @@
       <Position>Unknown Object</Position>
       <TranslationSet>
         <base loc="en">Unknown Object</base>
-        <tran loc="es">Objeto desconocido</tran>
+        <tran loc="es-419">Objeto desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2352,7 +2352,7 @@
       <Position>shell script</Position>
       <TranslationSet>
         <base loc="en">shell script</base>
-        <tran loc="es">script de shell</tran>
+        <tran loc="es-419">script de shell</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2360,7 +2360,7 @@
       <Position>iDisk</Position>
       <TranslationSet>
         <base loc="en">iDisk</base>
-        <tran loc="es">iDisk</tran>
+        <tran loc="es-419">iDisk</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2368,7 +2368,7 @@
       <Position>file internet location</Position>
       <TranslationSet>
         <base loc="en">file internet location</base>
-        <tran loc="es">dirección de internet del archivo</tran>
+        <tran loc="es-419">dirección de Internet del archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2376,7 +2376,7 @@
       <Position>Pages document</Position>
       <TranslationSet>
         <base loc="en">Pages document</base>
-        <tran loc="es">Documento de Pages</tran>
+        <tran loc="es-419">Documento de Pages</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2384,7 +2384,7 @@
       <Position>Icon Decoration Badge</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Badge</base>
-        <tran loc="es">Distintivo de decoración de iconos</tran>
+        <tran loc="es-419">Indicador de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2392,7 +2392,7 @@
       <Position>MPEG-2 Transport Stream</Position>
       <TranslationSet>
         <base loc="en">MPEG-2 Transport Stream</base>
-        <tran loc="es">Secuencia de transporte MPEG-2</tran>
+        <tran loc="es-419">Secuencia de transporte MPEG-2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2400,7 +2400,7 @@
       <Position>Preferences Document</Position>
       <TranslationSet>
         <base loc="en">Preferences Document</base>
-        <tran loc="es">Documento de preferencias</tran>
+        <tran loc="es-419">Documento de preferencias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2408,7 +2408,7 @@
       <Position>Preferences Folder</Position>
       <TranslationSet>
         <base loc="en">Preferences Folder</base>
-        <tran loc="es">Carpeta Preferences</tran>
+        <tran loc="es-419">Carpeta Preferences</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2416,7 +2416,7 @@
       <Position>Internet Location</Position>
       <TranslationSet>
         <base loc="en">Internet Location</base>
-        <tran loc="es">Dirección de internet</tran>
+        <tran loc="es-419">Dirección de Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2424,7 +2424,7 @@
       <Position>delimited text values</Position>
       <TranslationSet>
         <base loc="en">delimited text values</base>
-        <tran loc="es">valores de texto delimitados</tran>
+        <tran loc="es-419">valores de texto delimitados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2432,7 +2432,7 @@
       <Position>folder</Position>
       <TranslationSet>
         <base loc="en">folder</base>
-        <tran loc="es">carpeta</tran>
+        <tran loc="es-419">carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2440,7 +2440,7 @@
       <Position>Finder</Position>
       <TranslationSet>
         <base loc="en">Finder</base>
-        <tran loc="es">Finder</tran>
+        <tran loc="es-419">Finder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2448,7 +2448,7 @@
       <Position>localized PDF</Position>
       <TranslationSet>
         <base loc="en">localized PDF</base>
-        <tran loc="es">PDF localizado</tran>
+        <tran loc="es-419">PDF localizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2456,7 +2456,7 @@
       <Position>Numbers document</Position>
       <TranslationSet>
         <base loc="en">Numbers document</base>
-        <tran loc="es">Documento de Numbers</tran>
+        <tran loc="es-419">Documento de Numbers</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2464,7 +2464,7 @@
       <Position>Navigation</Position>
       <TranslationSet>
         <base loc="en">Navigation</base>
-        <tran loc="es">Navegación</tran>
+        <tran loc="es-419">Navegación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2472,7 +2472,7 @@
       <Position>protected MPEG-4 movie</Position>
       <TranslationSet>
         <base loc="en">protected MPEG-4 movie</base>
-        <tran loc="es">Vídeo MPEG-4 protegido</tran>
+        <tran loc="es-419">Video MPEG-4 protegido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2480,7 +2480,7 @@
       <Position>Perl script</Position>
       <TranslationSet>
         <base loc="en">Perl script</base>
-        <tran loc="es">Script Perl</tran>
+        <tran loc="es-419">Script Perl</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2488,7 +2488,7 @@
       <Position>Adaptive Multi-rate audio</Position>
       <TranslationSet>
         <base loc="en">Adaptive Multi-rate audio</base>
-        <tran loc="es">Audio multifrecuencia adaptable</tran>
+        <tran loc="es-419">Audio multifrecuencia adaptable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2496,7 +2496,7 @@
       <Position>AppleScript text</Position>
       <TranslationSet>
         <base loc="en">AppleScript text</base>
-        <tran loc="es">Texto de AppleScript</tran>
+        <tran loc="es-419">Texto de AppleScript</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2504,7 +2504,7 @@
       <Position>PostScript</Position>
       <TranslationSet>
         <base loc="en">PostScript</base>
-        <tran loc="es">PostScript</tran>
+        <tran loc="es-419">PostScript</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2512,7 +2512,7 @@
       <Position>Reality File</Position>
       <TranslationSet>
         <base loc="en">Reality File</base>
-        <tran loc="es">Reality File</tran>
+        <tran loc="es-419">Reality File</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2520,7 +2520,7 @@
       <Position>Sports</Position>
       <TranslationSet>
         <base loc="en">Sports</base>
-        <tran loc="es">Deportes</tran>
+        <tran loc="es-419">Deportes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2528,7 +2528,7 @@
       <Position>Public Folder</Position>
       <TranslationSet>
         <base loc="en">Public Folder</base>
-        <tran loc="es">Carpeta Pública</tran>
+        <tran loc="es-419">Carpeta Pública</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2536,7 +2536,7 @@
       <Position>Microsoft PowerPoint 97-2004 slide show</Position>
       <TranslationSet>
         <base loc="en">Microsoft PowerPoint 97-2004 slide show</base>
-        <tran loc="es">Pase de diapositivas de Microsoft PowerPoint 97-2004</tran>
+        <tran loc="es-419">Presentación de diapositivas de Microsoft PowerPoint 97-2004</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2544,7 +2544,7 @@
       <Position>3GPP2 movie</Position>
       <TranslationSet>
         <base loc="en">3GPP2 movie</base>
-        <tran loc="es">Vídeo 3GPP2</tran>
+        <tran loc="es-419">Video 3GPP2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2552,7 +2552,7 @@
       <Position>Family Games</Position>
       <TranslationSet>
         <base loc="en">Family Games</base>
-        <tran loc="es">Juegos familiares</tran>
+        <tran loc="es-419">Juegos familiares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2560,7 +2560,7 @@
       <Position>Script bundle</Position>
       <TranslationSet>
         <base loc="en">Script bundle</base>
-        <tran loc="es">Paquete de scripts</tran>
+        <tran loc="es-419">Paquetes de scripts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2568,7 +2568,7 @@
       <Position>FlashPix image</Position>
       <TranslationSet>
         <base loc="en">FlashPix image</base>
-        <tran loc="es">Imagen FlashPix</tran>
+        <tran loc="es-419">Imagen FlashPix</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2576,7 +2576,7 @@
       <Position>Office Open XML word processing document</Position>
       <TranslationSet>
         <base loc="en">Office Open XML word processing document</base>
-        <tran loc="es">Documento de procesamiento de texto Office Open XML</tran>
+        <tran loc="es-419">Documento de procesamiento de texto Office Open XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2584,7 +2584,7 @@
       <Position>Sharing Privs ReadOnly</Position>
       <TranslationSet>
         <base loc="en">Sharing Privs ReadOnly</base>
-        <tran loc="es">Privilegios de compartición de solo lectura</tran>
+        <tran loc="es-419">Privilegios para compartir de sólo lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2592,7 +2592,7 @@
       <Position>Enhanced AC-3 audio</Position>
       <TranslationSet>
         <base loc="en">Enhanced AC-3 audio</base>
-        <tran loc="es">Audio AC-3 mejorado</tran>
+        <tran loc="es-419">Audio AC-3 mejorado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2600,7 +2600,7 @@
       <Position>PostScript font</Position>
       <TranslationSet>
         <base loc="en">PostScript® font</base>
-        <tran loc="es">Tipo PostScript®</tran>
+        <tran loc="es-419">Tipo PostScript®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2608,7 +2608,7 @@
       <Position>Lifestyle</Position>
       <TranslationSet>
         <base loc="en">Lifestyle</base>
-        <tran loc="es">Estilo de vida</tran>
+        <tran loc="es-419">Estilo de vida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2616,7 +2616,7 @@
       <Position>Objective-C++ source code</Position>
       <TranslationSet>
         <base loc="en">Objective-C++ source code</base>
-        <tran loc="es">Código fuente Objective-C++</tran>
+        <tran loc="es-419">Código fuente Objective-C++</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2624,7 +2624,7 @@
       <Position>Sort Descending</Position>
       <TranslationSet>
         <base loc="en">Sort Descending</base>
-        <tran loc="es">Orden descendente</tran>
+        <tran loc="es-419">Orden descendente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2632,7 +2632,7 @@
       <Position>preprocessed Objective-C source code</Position>
       <TranslationSet>
         <base loc="en">preprocessed Objective-C source code</base>
-        <tran loc="es">código fuente en C orientado a objetos preprocesado</tran>
+        <tran loc="es-419">código fuente en C orientado a objetos preprocesado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2640,7 +2640,7 @@
       <Position>file archive</Position>
       <TranslationSet>
         <base loc="en">file archive</base>
-        <tran loc="es">archivo comprimido de ficheros</tran>
+        <tran loc="es-419">archivo comprimido de ficheros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2648,7 +2648,7 @@
       <Position>Pascal source code</Position>
       <TranslationSet>
         <base loc="en">Pascal source code</base>
-        <tran loc="es">Código fuente Pascal</tran>
+        <tran loc="es-419">Código fuente Pascal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2656,7 +2656,7 @@
       <Position>Open Document spreadsheet</Position>
       <TranslationSet>
         <base loc="en">Open Document spreadsheet</base>
-        <tran loc="es">Hoja de cálculo Open Document</tran>
+        <tran loc="es-419">Hoja de cálculo Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2664,7 +2664,7 @@
       <Position>AFP Server</Position>
       <TranslationSet>
         <base loc="en">AFP Server</base>
-        <tran loc="es">Servidor AFP</tran>
+        <tran loc="es-419">Servidor AFP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2672,7 +2672,7 @@
       <Position>Haptics content</Position>
       <TranslationSet>
         <base loc="en">Haptics content</base>
-        <tran loc="es">Contenido con vibraciones</tran>
+        <tran loc="es-419">Contenido de vibraciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2680,7 +2680,7 @@
       <Position>Alert Stop</Position>
       <TranslationSet>
         <base loc="en">Alert Stop</base>
-        <tran loc="es">Paro de alerta</tran>
+        <tran loc="es-419">Paro de alerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2688,7 +2688,7 @@
       <Position>Smart Folder</Position>
       <TranslationSet>
         <base loc="en">Smart Folder</base>
-        <tran loc="es">Carpeta inteligente</tran>
+        <tran loc="es-419">Carpeta inteligente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2696,7 +2696,7 @@
       <Position>RealMedia Audio</Position>
       <TranslationSet>
         <base loc="en">RealMedia Audio</base>
-        <tran loc="es">Audio RealMedia</tran>
+        <tran loc="es-419">Audio RealMedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2704,7 +2704,7 @@
       <Position>Z archive</Position>
       <TranslationSet>
         <base loc="en">Z archive</base>
-        <tran loc="es">Archivo Z</tran>
+        <tran loc="es-419">Archivo Z</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2712,7 +2712,7 @@
       <Position>Open Document</Position>
       <TranslationSet>
         <base loc="en">Open Document</base>
-        <tran loc="es">Open Document</tran>
+        <tran loc="es-419">Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2720,7 +2720,7 @@
       <Position>mail internet location</Position>
       <TranslationSet>
         <base loc="en">mail internet location</base>
-        <tran loc="es">dirección de internet de correo</tran>
+        <tran loc="es-419">dirección de Internet de correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2728,7 +2728,7 @@
       <Position>C++ Inline Header</Position>
       <TranslationSet>
         <base loc="en">C++ Inline Header</base>
-        <tran loc="es">Cabecera C++ inline</tran>
+        <tran loc="es-419">Encabezado Inline C++</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2736,7 +2736,7 @@
       <Position>Application Support Folder</Position>
       <TranslationSet>
         <base loc="en">Application Support Folder</base>
-        <tran loc="es">Carpeta Application Support</tran>
+        <tran loc="es-419">Carpeta Application Support</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2744,7 +2744,7 @@
       <Position>symbolic link</Position>
       <TranslationSet>
         <base loc="en">symbolic link</base>
-        <tran loc="es">enlace simbólico</tran>
+        <tran loc="es-419">enlace simbólico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2752,7 +2752,7 @@
       <Position>Ringtone</Position>
       <TranslationSet>
         <base loc="en">Ringtone</base>
-        <tran loc="es">Tono</tran>
+        <tran loc="es-419">Tono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2760,7 +2760,7 @@
       <Position>Office Open XML word processing template (macro enabled)</Position>
       <TranslationSet>
         <base loc="en">Office Open XML word processing template (macro enabled)</base>
-        <tran loc="es">Plantilla de procesamiento de texto Office Open XML (macro activada)</tran>
+        <tran loc="es-419">Plantilla de procesamiento de texto Office Open XML (macro activada)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2768,7 +2768,7 @@
       <Position>iCloud synchronization file</Position>
       <TranslationSet>
         <base loc="en">iCloud synchronization file</base>
-        <tran loc="es">Archivo de sincronización con iCloud</tran>
+        <tran loc="es-419">Archivo de sincronización de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2776,7 +2776,7 @@
       <Position>Structured Text</Position>
       <TranslationSet>
         <base loc="en">Structured Text</base>
-        <tran loc="es">Texto estructurado</tran>
+        <tran loc="es-419">Texto estructurado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2784,7 +2784,7 @@
       <Position>Tenex C Shell script</Position>
       <TranslationSet>
         <base loc="en">Tenex C Shell script</base>
-        <tran loc="es">Script de shell Tenex C</tran>
+        <tran loc="es-419">Script de shell Tenex C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2792,7 +2792,7 @@
       <Position>Documents Folder</Position>
       <TranslationSet>
         <base loc="en">Documents Folder</base>
-        <tran loc="es">Carpeta Documentos</tran>
+        <tran loc="es-419">Carpeta Documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2800,7 +2800,7 @@
       <Position>Python script</Position>
       <TranslationSet>
         <base loc="en">Python script</base>
-        <tran loc="es">Script Python</tran>
+        <tran loc="es-419">Script Python</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2808,7 +2808,7 @@
       <Position>System Extension</Position>
       <TranslationSet>
         <base loc="en">System Extension</base>
-        <tran loc="es">Extensión del sistema</tran>
+        <tran loc="es-419">Extensión del sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2816,7 +2816,7 @@
       <Position>Printer Description Folder</Position>
       <TranslationSet>
         <base loc="en">Printer Description Folder</base>
-        <tran loc="es">Carpeta Printer Description</tran>
+        <tran loc="es-419">Carpeta Printer Description</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2824,7 +2824,7 @@
       <Position>Toolbar Music Folder</Position>
       <TranslationSet>
         <base loc="en">Toolbar Music Folder</base>
-        <tran loc="es">Carpeta Música de la barra de herramientas</tran>
+        <tran loc="es-419">Carpeta Música de la barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2832,7 +2832,7 @@
       <Position>No Files</Position>
       <TranslationSet>
         <base loc="en">No Files</base>
-        <tran loc="es">Ningún archivo</tran>
+        <tran loc="es-419">Ningún archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2840,7 +2840,7 @@
       <Position>TGA image</Position>
       <TranslationSet>
         <base loc="en">TGA image</base>
-        <tran loc="es">Imagen TGA</tran>
+        <tran loc="es-419">Imagen TGA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2848,7 +2848,7 @@
       <Position>Social Networking</Position>
       <TranslationSet>
         <base loc="en">Social Networking</base>
-        <tran loc="es">Redes sociales</tran>
+        <tran loc="es-419">Redes sociales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2856,7 +2856,7 @@
       <Position>four-character code</Position>
       <TranslationSet>
         <base loc="en">four-character code</base>
-        <tran loc="es">código de cuatro caracteres</tran>
+        <tran loc="es-419">código de cuatro caracteres</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2864,7 +2864,7 @@
       <Position>OpenOffice.org 1.0 Formula</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Formula</base>
-        <tran loc="es">Fórmula de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Fórmula de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2872,7 +2872,7 @@
       <Position>Right Container Arrow</Position>
       <TranslationSet>
         <base loc="en">Right Container Arrow</base>
-        <tran loc="es">Flecha contenedora derecha</tran>
+        <tran loc="es-419">Flecha contenedora derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2880,7 +2880,7 @@
       <Position>Eject Media</Position>
       <TranslationSet>
         <base loc="en">Eject Media</base>
-        <tran loc="es">Expulsar soporte</tran>
+        <tran loc="es-419">Expulsar soporte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2888,7 +2888,7 @@
       <Position>Apple MPEG-4 audio</Position>
       <TranslationSet>
         <base loc="en">Apple MPEG-4 audio</base>
-        <tran loc="es">Audio MPEG-4 Apple</tran>
+        <tran loc="es-419">Audio MPEG-4 Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2896,7 +2896,7 @@
       <Position>Dylan source code</Position>
       <TranslationSet>
         <base loc="en">Dylan source code</base>
-        <tran loc="es">Código fuente Dylan</tran>
+        <tran loc="es-419">Código fuente Dylan</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2904,7 +2904,7 @@
       <Position>CSS</Position>
       <TranslationSet>
         <base loc="en">CSS</base>
-        <tran loc="es">CSS</tran>
+        <tran loc="es-419">CSS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2912,7 +2912,7 @@
       <Position>GIF image</Position>
       <TranslationSet>
         <base loc="en">GIF image</base>
-        <tran loc="es">Imagen GIF</tran>
+        <tran loc="es-419">Imagen GIF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2920,7 +2920,7 @@
       <Position>Apple Menu Folder</Position>
       <TranslationSet>
         <base loc="en">Apple Menu Folder</base>
-        <tran loc="es">Carpeta Apple Menu</tran>
+        <tran loc="es-419">Carpeta Apple Menu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2928,7 +2928,7 @@
       <Position>Owned Folder</Position>
       <TranslationSet>
         <base loc="en">Owned Folder</base>
-        <tran loc="es">Carpeta con propietario</tran>
+        <tran loc="es-419">Carpeta con propietario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2936,7 +2936,7 @@
       <Position>patch file</Position>
       <TranslationSet>
         <base loc="en">patch file</base>
-        <tran loc="es">Archivo de corrección</tran>
+        <tran loc="es-419">Archivo de corrección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2944,7 +2944,7 @@
       <Position>Microsoft Word 97-2004 template</Position>
       <TranslationSet>
         <base loc="en">Microsoft Word 97-2004 template</base>
-        <tran loc="es">Plantilla de Microsoft Word 97-2004</tran>
+        <tran loc="es-419">Plantilla de Microsoft Word 97-2004</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2952,7 +2952,7 @@
       <Position>Log file</Position>
       <TranslationSet>
         <base loc="en">Log file</base>
-        <tran loc="es">Archivo de registro</tran>
+        <tran loc="es-419">Archivo de registro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2960,7 +2960,7 @@
       <Position>Open Document text template</Position>
       <TranslationSet>
         <base loc="en">Open Document text template</base>
-        <tran loc="es">Plantilla texto Open Document</tran>
+        <tran loc="es-419">Plantilla texto Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2968,7 +2968,7 @@
       <Position>AU audio</Position>
       <TranslationSet>
         <base loc="en">AU audio</base>
-        <tran loc="es">Audio AU</tran>
+        <tran loc="es-419">Audio AU</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2976,7 +2976,7 @@
       <Position>Universal Scene Description</Position>
       <TranslationSet>
         <base loc="en">Universal Scene Description</base>
-        <tran loc="es">Universal Scene Description</tran>
+        <tran loc="es-419">Universal Scene Description</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2984,7 +2984,7 @@
       <Position>message</Position>
       <TranslationSet>
         <base loc="en">message</base>
-        <tran loc="es">mensaje</tran>
+        <tran loc="es-419">mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2992,7 +2992,7 @@
       <Position>C source code</Position>
       <TranslationSet>
         <base loc="en">C source code</base>
-        <tran loc="es">Código fuente C</tran>
+        <tran loc="es-419">Código fuente C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3000,7 +3000,7 @@
       <Position>preprocessed source code</Position>
       <TranslationSet>
         <base loc="en">preprocessed source code</base>
-        <tran loc="es">código fuente preprocesado</tran>
+        <tran loc="es-419">código fuente preprocesado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3008,7 +3008,7 @@
       <Position>Address (Structured Text)</Position>
       <TranslationSet>
         <base loc="en">Address (Structured Text)</base>
-        <tran loc="es">Dirección (texto estructurado)</tran>
+        <tran loc="es-419">Dirección (texto estructurado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3016,7 +3016,7 @@
       <Position>Mac</Position>
       <TranslationSet>
         <base loc="en">Mac</base>
-        <tran loc="es">Mac</tran>
+        <tran loc="es-419">Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3024,7 +3024,7 @@
       <Position>Korn Shell script</Position>
       <TranslationSet>
         <base loc="en">Korn Shell script</base>
-        <tran loc="es">Script de shell Korn</tran>
+        <tran loc="es-419">Script de shell Korn</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3032,7 +3032,7 @@
       <Position>XML Form (XFD)</Position>
       <TranslationSet>
         <base loc="en">XML Form (XFD)</base>
-        <tran loc="es">Formulario XML (XFD)</tran>
+        <tran loc="es-419">Formulario XML (XFD)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3040,7 +3040,7 @@
       <Position>Scripting Additions Folder</Position>
       <TranslationSet>
         <base loc="en">Scripting Additions Folder</base>
-        <tran loc="es">Carpeta Scripting Additions</tran>
+        <tran loc="es-419">Carpeta Scripting Additions</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3048,7 +3048,7 @@
       <Position>Office Open XML word processing document (macro enabled)</Position>
       <TranslationSet>
         <base loc="en">Office Open XML word processing document (macro enabled)</base>
-        <tran loc="es">Documento de procesamiento de texto Office Open XML (macro activada)</tran>
+        <tran loc="es-419">Documento de procesamiento de texto Office Open XML (macro activada)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3056,7 +3056,7 @@
       <Position>StuffIt archive</Position>
       <TranslationSet>
         <base loc="en">StuffIt archive</base>
-        <tran loc="es">Archivo comprimido de StuffIt</tran>
+        <tran loc="es-419">Archivo comprimido de StuffIt</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3064,7 +3064,7 @@
       <Position>QuickTime image</Position>
       <TranslationSet>
         <base loc="en">QuickTime image</base>
-        <tran loc="es">Imagen QuickTime</tran>
+        <tran loc="es-419">Imagen QuickTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3072,7 +3072,7 @@
       <Position>Help Folder</Position>
       <TranslationSet>
         <base loc="en">Help Folder</base>
-        <tran loc="es">Carpeta Help</tran>
+        <tran loc="es-419">Carpeta Help</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3080,7 +3080,7 @@
       <Position>Graphics n Design</Position>
       <TranslationSet>
         <base loc="en">Graphics &amp; Design</base>
-        <tran loc="es">Diseño gráfico</tran>
+        <tran loc="es-419">Diseño gráfico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3088,7 +3088,7 @@
       <Position>Time Capsule</Position>
       <TranslationSet>
         <base loc="en">Time Capsule</base>
-        <tran loc="es">Time Capsule</tran>
+        <tran loc="es-419">Time Capsule</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3096,7 +3096,7 @@
       <Position>Healthcare n Fitness</Position>
       <TranslationSet>
         <base loc="en">Healthcare &amp; Fitness</base>
-        <tran loc="es">Salud y forma física</tran>
+        <tran loc="es-419">Salud y condición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3104,7 +3104,7 @@
       <Position>Office Open XML slide show (macros enabled)</Position>
       <TranslationSet>
         <base loc="en">Office Open XML slide show (macros enabled)</base>
-        <tran loc="es">Pase de diapositivas Office Open XML (macros activadas)</tran>
+        <tran loc="es-419">Presentación de diapositivas Office Open XML (macros activadas)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3112,7 +3112,7 @@
       <Position>UUEncoded archive</Position>
       <TranslationSet>
         <base loc="en">UUEncoded archive</base>
-        <tran loc="es">Archivo UUEncoded</tran>
+        <tran loc="es-419">Archivo UUEncoded</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3120,7 +3120,7 @@
       <Position>Map Item</Position>
       <TranslationSet>
         <base loc="en">Map Item</base>
-        <tran loc="es">Ítem del mapa</tran>
+        <tran loc="es-419">Elemento de mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3128,7 +3128,7 @@
       <Position>Plug-in</Position>
       <TranslationSet>
         <base loc="en">Plug-in</base>
-        <tran loc="es">Módulo</tran>
+        <tran loc="es-419">Módulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3136,7 +3136,7 @@
       <Position>Connect To</Position>
       <TranslationSet>
         <base loc="en">Connect To</base>
-        <tran loc="es">Conectar con</tran>
+        <tran loc="es-419">Conectar con</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3144,7 +3144,7 @@
       <Position>FLAC audio</Position>
       <TranslationSet>
         <base loc="en">FLAC audio</base>
-        <tran loc="es">Audio FLAC</tran>
+        <tran loc="es-419">Audio FLAC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3152,7 +3152,7 @@
       <Position>data</Position>
       <TranslationSet>
         <base loc="en">data</base>
-        <tran loc="es">datos</tran>
+        <tran loc="es-419">datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3160,7 +3160,7 @@
       <Position>iPod touch</Position>
       <TranslationSet>
         <base loc="en">iPod touch</base>
-        <tran loc="es">iPod touch</tran>
+        <tran loc="es-419">iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3168,7 +3168,7 @@
       <Position>Zip archive</Position>
       <TranslationSet>
         <base loc="en">Zip archive</base>
-        <tran loc="es">archivo Zip</tran>
+        <tran loc="es-419">archivo Zip</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3176,7 +3176,7 @@
       <Position>item</Position>
       <TranslationSet>
         <base loc="en">item</base>
-        <tran loc="es">ítem</tran>
+        <tran loc="es-419">elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3184,7 +3184,7 @@
       <Position>Erasing</Position>
       <TranslationSet>
         <base loc="en">Erasing</base>
-        <tran loc="es">Borrando</tran>
+        <tran loc="es-419">Borrando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3192,7 +3192,7 @@
       <Position>Recent Servers Folder</Position>
       <TranslationSet>
         <base loc="en">Recent Servers Folder</base>
-        <tran loc="es">Carpeta Recent Servers</tran>
+        <tran loc="es-419">Carpeta Recent Servers</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3200,7 +3200,7 @@
       <Position>XAR Archive</Position>
       <TranslationSet>
         <base loc="en">XAR Archive</base>
-        <tran loc="es">Archivo comprimido XAR</tran>
+        <tran loc="es-419">Archivo comprimido XAR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3208,7 +3208,7 @@
       <Position>Computer</Position>
       <TranslationSet>
         <base loc="en">Computer</base>
-        <tran loc="es">Ordenador</tran>
+        <tran loc="es-419">Computadora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3216,7 +3216,7 @@
       <Position>System Folder</Position>
       <TranslationSet>
         <base loc="en">System Folder</base>
-        <tran loc="es">Carpeta Sistema</tran>
+        <tran loc="es-419">Carpeta Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3224,7 +3224,7 @@
       <Position>PostScript OpenType collection font</Position>
       <TranslationSet>
         <base loc="en">PostScript® OpenType® collection font</base>
-        <tran loc="es">Tipo de la colección PostScript® OpenType®</tran>
+        <tran loc="es-419">Tipo de la colección PostScript® OpenType®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3232,7 +3232,7 @@
       <Position>Encapsulated PostScript</Position>
       <TranslationSet>
         <base loc="en">Encapsulated PostScript</base>
-        <tran loc="es">PostScript encapsulado</tran>
+        <tran loc="es-419">PostScript encapsulado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3240,7 +3240,7 @@
       <Position>Adobe DRM Activation Key (EDN)</Position>
       <TranslationSet>
         <base loc="en">Adobe DRM Activation Key (EDN)</base>
-        <tran loc="es">Clave de activación de DRM (EDN) de Adobe</tran>
+        <tran loc="es-419">Clave de activación de DRM (EDN) de Adobe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3248,7 +3248,7 @@
       <Position>System Preference pane</Position>
       <TranslationSet>
         <base loc="en">System Preference pane</base>
-        <tran loc="es">Panel de Preferencias del Sistema</tran>
+        <tran loc="es-419">Panel de Preferencias del Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3256,7 +3256,7 @@
       <Position>User iDisk</Position>
       <TranslationSet>
         <base loc="en">User iDisk</base>
-        <tran loc="es">iDisk del usuario</tran>
+        <tran loc="es-419">iDisk del usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3264,7 +3264,7 @@
       <Position>AFP Internet Location</Position>
       <TranslationSet>
         <base loc="en">AFP Internet Location</base>
-        <tran loc="es">Dirección de internet AFP</tran>
+        <tran loc="es-419">Dirección de Internet AFP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3272,7 +3272,7 @@
       <Position>News</Position>
       <TranslationSet>
         <base loc="en">News</base>
-        <tran loc="es">Noticias</tran>
+        <tran loc="es-419">Noticias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3280,7 +3280,7 @@
       <Position>movie</Position>
       <TranslationSet>
         <base loc="en">movie</base>
-        <tran loc="es">vídeo</tran>
+        <tran loc="es-419">video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3288,7 +3288,7 @@
       <Position>Sharing Privs Unknown</Position>
       <TranslationSet>
         <base loc="en">Sharing Privs Unknown</base>
-        <tran loc="es">Privilegios de compartición desconocidos</tran>
+        <tran loc="es-419">Privilegios para compartir desconocidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3296,7 +3296,7 @@
       <Position>FTP Server</Position>
       <TranslationSet>
         <base loc="en">FTP Server</base>
-        <tran loc="es">Servidor FTP</tran>
+        <tran loc="es-419">Servidor FTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3304,7 +3304,7 @@
       <Position>DV movie</Position>
       <TranslationSet>
         <base loc="en">DV movie</base>
-        <tran loc="es">Vídeo DV</tran>
+        <tran loc="es-419">Video DV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3312,7 +3312,7 @@
       <Position>Intelligent Suggestions assets</Position>
       <TranslationSet>
         <base loc="en">Intelligent Suggestions assets</base>
-        <tran loc="es">Componentes de sugerencias inteligentes</tran>
+        <tran loc="es-419">Activos de sugerencias inteligentes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3320,7 +3320,7 @@
       <Position>URL</Position>
       <TranslationSet>
         <base loc="en">URL</base>
-        <tran loc="es">URL</tran>
+        <tran loc="es-419">URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3328,7 +3328,7 @@
       <Position>Educational Games</Position>
       <TranslationSet>
         <base loc="en">Educational Games</base>
-        <tran loc="es">Juegos educativos</tran>
+        <tran loc="es-419">Juegos educativos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3336,7 +3336,7 @@
       <Position>internet location</Position>
       <TranslationSet>
         <base loc="en">internet location</base>
-        <tran loc="es">dirección de internet</tran>
+        <tran loc="es-419">dirección de Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3344,7 +3344,7 @@
       <Position>Swift Source Code</Position>
       <TranslationSet>
         <base loc="en">Swift Source Code</base>
-        <tran loc="es">Código fuente en Swift</tran>
+        <tran loc="es-419">Código fuente Swift</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3352,7 +3352,7 @@
       <Position>Open Document spreadsheet template</Position>
       <TranslationSet>
         <base loc="en">Open Document spreadsheet template</base>
-        <tran loc="es">Plantilla de hoja de cálculo Open Document</tran>
+        <tran loc="es-419">Plantilla de hoja de cálculo Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3360,7 +3360,7 @@
       <Position>Pass</Position>
       <TranslationSet>
         <base loc="en">Pass</base>
-        <tran loc="es">Tarjeta</tran>
+        <tran loc="es-419">Tarjeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3368,7 +3368,7 @@
       <Position>picture clipping</Position>
       <TranslationSet>
         <base loc="en">picture clipping</base>
-        <tran loc="es">recorte de imagen</tran>
+        <tran loc="es-419">recorte de imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3376,7 +3376,7 @@
       <Position>mount point</Position>
       <TranslationSet>
         <base loc="en">mount point</base>
-        <tran loc="es">punto de montaje</tran>
+        <tran loc="es-419">punto de montaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3384,7 +3384,7 @@
       <Position>Icon Decoration New Folder</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration New Folder</base>
-        <tran loc="es">Nueva carpeta de decoración de iconos</tran>
+        <tran loc="es-419">Nueva carpeta de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3392,7 +3392,7 @@
       <Position>Open Folder</Position>
       <TranslationSet>
         <base loc="en">Open Folder</base>
-        <tran loc="es">Abrir carpeta</tran>
+        <tran loc="es-419">Abrir carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3400,7 +3400,7 @@
       <Position>JPEG image</Position>
       <TranslationSet>
         <base loc="en">JPEG image</base>
-        <tran loc="es">Imagen JPEG</tran>
+        <tran loc="es-419">Imagen JPEG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3408,7 +3408,7 @@
       <Position>Kids Games</Position>
       <TranslationSet>
         <base loc="en">Kids Games</base>
-        <tran loc="es">Juegos infantiles</tran>
+        <tran loc="es-419">Juegos infantiles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3416,7 +3416,7 @@
       <Position>C++ header code</Position>
       <TranslationSet>
         <base loc="en">C++ header code</base>
-        <tran loc="es">Código de cabecera C++</tran>
+        <tran loc="es-419">Código de encabezado C++</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3424,7 +3424,7 @@
       <Position>PostScript Type 1 outline font</Position>
       <TranslationSet>
         <base loc="en">PostScript® Type 1 outline font</base>
-        <tran loc="es">Tipo esquemático PostScript® Type 1</tran>
+        <tran loc="es-419">Tipo esquemático PostScript® Type 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3432,7 +3432,7 @@
       <Position>Entertainment</Position>
       <TranslationSet>
         <base loc="en">Entertainment</base>
-        <tran loc="es">Entretenimiento</tran>
+        <tran loc="es-419">Entretenimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3440,7 +3440,7 @@
       <Position>File Internet Location</Position>
       <TranslationSet>
         <base loc="en">File Internet Location</base>
-        <tran loc="es">Dirección de internet del archivo</tran>
+        <tran loc="es-419">Dirección de Internet del archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3448,7 +3448,7 @@
       <Position>RealMedia Variable Bitrate</Position>
       <TranslationSet>
         <base loc="en">RealMedia Variable Bitrate</base>
-        <tran loc="es">Velocidad de bits variable de RealMedia</tran>
+        <tran loc="es-419">Velocidad de bits variable de RealMedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3456,7 +3456,7 @@
       <Position>Application and System Extension</Position>
       <TranslationSet>
         <base loc="en">Application and System Extension</base>
-        <tran loc="es">Extensión de aplicaciones y del sistema</tran>
+        <tran loc="es-419">Extensión de sistema y de aplicaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3464,7 +3464,7 @@
       <Position>Executable Binary</Position>
       <TranslationSet>
         <base loc="en">Executable Binary</base>
-        <tran loc="es">Binario ejecutable</tran>
+        <tran loc="es-419">Binario ejecutable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3472,7 +3472,7 @@
       <Position>Power Mac G4</Position>
       <TranslationSet>
         <base loc="en">Power Mac G4</base>
-        <tran loc="es">Power Mac G4</tran>
+        <tran loc="es-419">Power Mac G4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3480,7 +3480,7 @@
       <Position>MPEG-4 movie</Position>
       <TranslationSet>
         <base loc="en">MPEG-4 movie</base>
-        <tran loc="es">Vídeo MPEG-4</tran>
+        <tran loc="es-419">Video MPEG-4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3488,7 +3488,7 @@
       <Position>AC-3 audio</Position>
       <TranslationSet>
         <base loc="en">AC-3 audio</base>
-        <tran loc="es">Audio AC-3</tran>
+        <tran loc="es-419">Audio AC-3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3496,7 +3496,7 @@
       <Position>QuickLook preview generator</Position>
       <TranslationSet>
         <base loc="en">QuickLook preview generator</base>
-        <tran loc="es">Generador de previsualización QuickLook</tran>
+        <tran loc="es-419">Generador de previsualización QuickLook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3504,7 +3504,7 @@
       <Position>AppleScript</Position>
       <TranslationSet>
         <base loc="en">AppleScript</base>
-        <tran loc="es">AppleScript</tran>
+        <tran loc="es-419">AppleScript</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3512,7 +3512,7 @@
       <Position>Power Mac</Position>
       <TranslationSet>
         <base loc="en">Power Mac</base>
-        <tran loc="es">Power Mac</tran>
+        <tran loc="es-419">Power Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3520,7 +3520,7 @@
       <Position>Waveform audio</Position>
       <TranslationSet>
         <base loc="en">Waveform audio</base>
-        <tran loc="es">Audio de onda</tran>
+        <tran loc="es-419">Audio de onda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3528,7 +3528,7 @@
       <Position>Recent Applications Folder</Position>
       <TranslationSet>
         <base loc="en">Recent Applications Folder</base>
-        <tran loc="es">Carpeta Recent Applications</tran>
+        <tran loc="es-419">Carpeta Recent Applications</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3536,7 +3536,7 @@
       <Position>TIFF image</Position>
       <TranslationSet>
         <base loc="en">TIFF image</base>
-        <tran loc="es">Imagen TIFF</tran>
+        <tran loc="es-419">Imagen TIFF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3544,7 +3544,7 @@
       <Position>Role Playing Games</Position>
       <TranslationSet>
         <base loc="en">Role Playing Games</base>
-        <tran loc="es">Juegos de rol</tran>
+        <tran loc="es-419">Juegos de rol</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3552,7 +3552,7 @@
       <Position>Toolbar Documents Folder</Position>
       <TranslationSet>
         <base loc="en">Toolbar Documents Folder</base>
-        <tran loc="es">Carpeta Documentos de la barra de herramientas</tran>
+        <tran loc="es-419">Carpeta Documentos de la barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3560,7 +3560,7 @@
       <Position>AppleTalk</Position>
       <TranslationSet>
         <base loc="en">AppleTalk</base>
-        <tran loc="es">AppleTalk</tran>
+        <tran loc="es-419">AppleTalk</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3568,7 +3568,7 @@
       <Position>Icon Decoration Private Folder Badge</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Private Folder Badge</base>
-        <tran loc="es">Distintivo de carpeta privada de decoración de iconos</tran>
+        <tran loc="es-419">Indicador de carpeta privada de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3576,7 +3576,7 @@
       <Position>Silicon Graphics image</Position>
       <TranslationSet>
         <base loc="en">Silicon Graphics image</base>
-        <tran loc="es">Imagen de Silicon Graphics</tran>
+        <tran loc="es-419">Imagen de Silicon Graphics</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3584,7 +3584,7 @@
       <Position>Backward Arrow</Position>
       <TranslationSet>
         <base loc="en">Backward Arrow</base>
-        <tran loc="es">Flecha atrás</tran>
+        <tran loc="es-419">Flecha atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3592,7 +3592,7 @@
       <Position>SoundFont audio</Position>
       <TranslationSet>
         <base loc="en">SoundFont audio</base>
-        <tran loc="es">Audio SoundFont</tran>
+        <tran loc="es-419">Audio SoundFont</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3600,7 +3600,7 @@
       <Position>Status Bar Trash</Position>
       <TranslationSet>
         <base loc="en">Status Bar Trash</base>
-        <tran loc="es">Papelera en la barra de estado</tran>
+        <tran loc="es-419">Basurero en la barra de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3608,7 +3608,7 @@
       <Position>electronic business card</Position>
       <TranslationSet>
         <base loc="en">electronic business card</base>
-        <tran loc="es">tarjeta de visita electrónica</tran>
+        <tran loc="es-419">tarjeta electrónica de negocios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3616,7 +3616,7 @@
       <Position>iTunes store URL</Position>
       <TranslationSet>
         <base loc="en">iTunes store URL</base>
-        <tran loc="es">URL de iTunes Store</tran>
+        <tran loc="es-419">URL de iTunes Store</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3624,7 +3624,7 @@
       <Position>mobile configuration</Position>
       <TranslationSet>
         <base loc="en">mobile configuration</base>
-        <tran loc="es">configuración móvil</tran>
+        <tran loc="es-419">configuración celular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3632,7 +3632,7 @@
       <Position>NetBootVolume</Position>
       <TranslationSet>
         <base loc="en">NetBootVolume</base>
-        <tran loc="es">NetBootVolume</tran>
+        <tran loc="es-419">NetBootVolume</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3640,7 +3640,7 @@
       <Position>Delete Alias</Position>
       <TranslationSet>
         <base loc="en">Delete Alias</base>
-        <tran loc="es">Eliminar alias</tran>
+        <tran loc="es-419">Eliminar alias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3648,7 +3648,7 @@
       <Position>RSS web feed</Position>
       <TranslationSet>
         <base loc="en">RSS web feed</base>
-        <tran loc="es">Canal web RSS</tran>
+        <tran loc="es-419">Canal web RSS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3656,7 +3656,7 @@
       <Position>Disconnected File Server</Position>
       <TranslationSet>
         <base loc="en">Disconnected File Server</base>
-        <tran loc="es">Servidor de archivos desconectado</tran>
+        <tran loc="es-419">Servidor de archivos desconectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3664,7 +3664,7 @@
       <Position>Medical</Position>
       <TranslationSet>
         <base loc="en">Medical</base>
-        <tran loc="es">Medicina</tran>
+        <tran loc="es-419">Medicina</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3672,7 +3672,7 @@
       <Position>Network</Position>
       <TranslationSet>
         <base loc="en">Network</base>
-        <tran loc="es">Red</tran>
+        <tran loc="es-419">Red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3680,7 +3680,7 @@
       <Position>Question Mark</Position>
       <TranslationSet>
         <base loc="en">Question Mark</base>
-        <tran loc="es">Interrogante</tran>
+        <tran loc="es-419">Interrogante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3688,7 +3688,7 @@
       <Position>Ada source code</Position>
       <TranslationSet>
         <base loc="en">Ada source code</base>
-        <tran loc="es">Código fuente Ada</tran>
+        <tran loc="es-419">Código fuente Ada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3696,7 +3696,7 @@
       <Position>Open Document database</Position>
       <TranslationSet>
         <base loc="en">Open Document database</base>
-        <tran loc="es">Abrir base de datos de documentos</tran>
+        <tran loc="es-419">Abrir base de datos de documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3704,7 +3704,7 @@
       <Position>EPUB publication</Position>
       <TranslationSet>
         <base loc="en">EPUB publication</base>
-        <tran loc="es">Publicación EPUB</tran>
+        <tran loc="es-419">Publicación EPUB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3712,7 +3712,7 @@
       <Position>Microsoft Excel 2007 spreadsheet (macros enabled)</Position>
       <TranslationSet>
         <base loc="en">Microsoft Excel 2007 spreadsheet (macros enabled)</base>
-        <tran loc="es">Hoja de cálculo de Microsoft Excel 2007 (macros activadas)</tran>
+        <tran loc="es-419">Hoja de cálculo de Microsoft Excel 2007 (macros activadas)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3720,7 +3720,7 @@
       <Position>iPhone 3G</Position>
       <TranslationSet>
         <base loc="en">iPhone 3G</base>
-        <tran loc="es">iPhone 3G</tran>
+        <tran loc="es-419">iPhone 3G</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3728,7 +3728,7 @@
       <Position>text with multimedia</Position>
       <TranslationSet>
         <base loc="en">text with multimedia</base>
-        <tran loc="es">texto con contenido multimedia</tran>
+        <tran loc="es-419">texto con contenido multimedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3736,7 +3736,7 @@
       <Position>Telephone Number (Structured Text)</Position>
       <TranslationSet>
         <base loc="en">Telephone Number (Structured Text)</base>
-        <tran loc="es">Número de teléfono (texto estructurado)</tran>
+        <tran loc="es-419">Número telefónico (texto estructurado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3744,7 +3744,7 @@
       <Position>Trivia Games</Position>
       <TranslationSet>
         <base loc="en">Trivia Games</base>
-        <tran loc="es">Juegos de preguntas</tran>
+        <tran loc="es-419">Juegos de preguntas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3752,7 +3752,7 @@
       <Position>Grid</Position>
       <TranslationSet>
         <base loc="en">Grid</base>
-        <tran loc="es">Retícula</tran>
+        <tran loc="es-419">Retícula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3760,7 +3760,7 @@
       <Position>binary property list</Position>
       <TranslationSet>
         <base loc="en">binary property list</base>
-        <tran loc="es">Lista de propiedades binarias</tran>
+        <tran loc="es-419">Lista de propiedades binarias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3768,7 +3768,7 @@
       <Position>MacBook</Position>
       <TranslationSet>
         <base loc="en">MacBook</base>
-        <tran loc="es">MacBook</tran>
+        <tran loc="es-419">MacBook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3776,7 +3776,7 @@
       <Position>Apple Drawing Format</Position>
       <TranslationSet>
         <base loc="en">Apple Drawing Format</base>
-        <tran loc="es">Formato del diseño de Apple</tran>
+        <tran loc="es-419">Formato de dibujo de Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3784,7 +3784,7 @@
       <Position>iPhone X (Model A1865, A1901, A1902, A1903)</Position>
       <TranslationSet>
         <base loc="en">iPhone X (Model A1865, A1901, A1902, A1903)</base>
-        <tran loc="es">iPhone X (modelos A1865, A1901, A1902 y A1903)</tran>
+        <tran loc="es-419">iPhone X (modelo A1865, A1901, A1902 y A1903)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3792,7 +3792,7 @@
       <Position>Office Open XML word processing template</Position>
       <TranslationSet>
         <base loc="en">Office Open XML word processing template</base>
-        <tran loc="es">Plantilla de procesamiento de texto Office Open XML</tran>
+        <tran loc="es-419">Plantilla de procesamiento de texto Office Open XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3800,7 +3800,7 @@
       <Position>Bundle</Position>
       <TranslationSet>
         <base loc="en">Bundle</base>
-        <tran loc="es">Paquete</tran>
+        <tran loc="es-419">Paquete</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3808,7 +3808,7 @@
       <Position>text clipping</Position>
       <TranslationSet>
         <base loc="en">text clipping</base>
-        <tran loc="es">recorte de texto</tran>
+        <tran loc="es-419">recorte de texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3816,7 +3816,7 @@
       <Position>C header code</Position>
       <TranslationSet>
         <base loc="en">C header code</base>
-        <tran loc="es">Código de cabecera C</tran>
+        <tran loc="es-419">Código de encabezado C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3824,7 +3824,7 @@
       <Position>OpenOffice.org 1.0 Master</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Master</base>
-        <tran loc="es">Documento maestro de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Documento maestro de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3832,7 +3832,7 @@
       <Position>Recent Items</Position>
       <TranslationSet>
         <base loc="en">Recent Items</base>
-        <tran loc="es">Ítems recientes</tran>
+        <tran loc="es-419">Elementos recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3840,7 +3840,7 @@
       <Position>MIME type</Position>
       <TranslationSet>
         <base loc="en">MIME type</base>
-        <tran loc="es">Tipo MIME</tran>
+        <tran loc="es-419">Tipo MIME</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3848,7 +3848,7 @@
       <Position>YAML</Position>
       <TranslationSet>
         <base loc="en">YAML</base>
-        <tran loc="es">YAML</tran>
+        <tran loc="es-419">YAML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3856,7 +3856,7 @@
       <Position>Window</Position>
       <TranslationSet>
         <base loc="en">Window</base>
-        <tran loc="es">Ventana</tran>
+        <tran loc="es-419">Ventana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3864,7 +3864,7 @@
       <Position>Desktop Folder</Position>
       <TranslationSet>
         <base loc="en">Desktop Folder</base>
-        <tran loc="es">Carpeta Escritorio</tran>
+        <tran loc="es-419">Carpeta Escritorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3872,7 +3872,7 @@
       <Position>AVI movie</Position>
       <TranslationSet>
         <base loc="en">AVI movie</base>
-        <tran loc="es">Vídeo AVI</tran>
+        <tran loc="es-419">Video AVI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3880,7 +3880,7 @@
       <Position>Icon Decoration Locked Badge</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Locked Badge</base>
-        <tran loc="es">Distintivo bloqueado de decoración de iconos</tran>
+        <tran loc="es-419">Indicador bloqueado de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3888,7 +3888,7 @@
       <Position>Transit Information (Structured Text)</Position>
       <TranslationSet>
         <base loc="en">Transit Information (Structured Text)</base>
-        <tran loc="es">Información de transporte público (texto estructurado)</tran>
+        <tran loc="es-419">Información de tránsito (texto estructurado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3896,7 +3896,7 @@
       <Position>OpenType font</Position>
       <TranslationSet>
         <base loc="en">OpenType® font</base>
-        <tran loc="es">Tipo OpenType®</tran>
+        <tran loc="es-419">Tipo OpenType®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3904,7 +3904,7 @@
       <Position>rich text (RTF)</Position>
       <TranslationSet>
         <base loc="en">rich text (RTF)</base>
-        <tran loc="es">texto enriquecido (RTF)</tran>
+        <tran loc="es-419">texto enriquecido (RTF)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3912,7 +3912,7 @@
       <Position>Adobe Illustrator document</Position>
       <TranslationSet>
         <base loc="en">Adobe Illustrator document</base>
-        <tran loc="es">Documento de Adobe Illustrator</tran>
+        <tran loc="es-419">Documento de Adobe Illustrator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3920,7 +3920,7 @@
       <Position>.Mac Neighborhood</Position>
       <TranslationSet>
         <base loc="en">.Mac Neighborhood</base>
-        <tran loc="es">Entorno .Mac</tran>
+        <tran loc="es-419">Entorno .Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3928,7 +3928,7 @@
       <Position>RealMedia</Position>
       <TranslationSet>
         <base loc="en">RealMedia</base>
-        <tran loc="es">RealMedia</tran>
+        <tran loc="es-419">RealMedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3936,7 +3936,7 @@
       <Position>WebVTT Format</Position>
       <TranslationSet>
         <base loc="en">WebVTT Format</base>
-        <tran loc="es">Formato WebVTT</tran>
+        <tran loc="es-419">Formato WebVTT</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3944,7 +3944,7 @@
       <Position>Office Open XML spreadsheet</Position>
       <TranslationSet>
         <base loc="en">Office Open XML spreadsheet</base>
-        <tran loc="es">Hoja de cálculos Office Open XML</tran>
+        <tran loc="es-419">Hoja de cálculo Office Open XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3952,7 +3952,7 @@
       <Position>Application</Position>
       <TranslationSet>
         <base loc="en">Application</base>
-        <tran loc="es">Aplicación</tran>
+        <tran loc="es-419">Aplicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3960,7 +3960,7 @@
       <Position>PLS Playlist</Position>
       <TranslationSet>
         <base loc="en">PLS Playlist</base>
-        <tran loc="es">Lista de reproducción PLS</tran>
+        <tran loc="es-419">Playlist PLS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3968,7 +3968,7 @@
       <Position>Toolbar Movie Folder</Position>
       <TranslationSet>
         <base loc="en">Toolbar Movie Folder</base>
-        <tran loc="es">Carpeta Vídeos de la barra de herramientas</tran>
+        <tran loc="es-419">Carpeta Videos de la barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3976,7 +3976,7 @@
       <Position>iCloud</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3984,7 +3984,7 @@
       <Position>Internet Folder</Position>
       <TranslationSet>
         <base loc="en">Internet Folder</base>
-        <tran loc="es">Carpeta Internet</tran>
+        <tran loc="es-419">Carpeta Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3992,7 +3992,7 @@
       <Position>plug-in</Position>
       <TranslationSet>
         <base loc="en">plug-in</base>
-        <tran loc="es">módulo</tran>
+        <tran loc="es-419">módulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4000,7 +4000,7 @@
       <Position>File Vault</Position>
       <TranslationSet>
         <base loc="en">FileVault</base>
-        <tran loc="es">FileVault</tran>
+        <tran loc="es-419">FileVault</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4008,7 +4008,7 @@
       <Position>Apple icon image</Position>
       <TranslationSet>
         <base loc="en">Apple icon image</base>
-        <tran loc="es">Imagen de icono de Apple</tran>
+        <tran loc="es-419">Imagen de ícono de Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4016,7 +4016,7 @@
       <Position>Delete Toolbar</Position>
       <TranslationSet>
         <base loc="en">Delete Toolbar</base>
-        <tran loc="es">Eliminar barra de herramientas</tran>
+        <tran loc="es-419">Eliminar barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4024,7 +4024,7 @@
       <Position>volume</Position>
       <TranslationSet>
         <base loc="en">volume</base>
-        <tran loc="es">volumen</tran>
+        <tran loc="es-419">volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4032,7 +4032,7 @@
       <Position>Active Webpage</Position>
       <TranslationSet>
         <base loc="en">Active Webpage</base>
-        <tran loc="es">Página web activa</tran>
+        <tran loc="es-419">Página web activa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4040,7 +4040,7 @@
       <Position>iMovie Theater</Position>
       <TranslationSet>
         <base loc="en">iMovie Theater</base>
-        <tran loc="es">iMovie Theater</tran>
+        <tran loc="es-419">iMovie Theater</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4048,7 +4048,7 @@
       <Position>Microsoft Word 2003 XML document</Position>
       <TranslationSet>
         <base loc="en">Microsoft Word 2003 XML document</base>
-        <tran loc="es">Documento de Microsoft Word 2003 XML</tran>
+        <tran loc="es-419">Documento de Microsoft Word 2003 XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4056,7 +4056,7 @@
       <Position>Microsoft PowerPoint 97-2004 presentation</Position>
       <TranslationSet>
         <base loc="en">Microsoft PowerPoint 97-2004 presentation</base>
-        <tran loc="es">Presentación de Microsoft PowerPoint 97-2004</tran>
+        <tran loc="es-419">Presentación de Microsoft PowerPoint 97-2004</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4064,7 +4064,7 @@
       <Position>file name extension</Position>
       <TranslationSet>
         <base loc="en">file name extension</base>
-        <tran loc="es">extensión de nombre de archivo</tran>
+        <tran loc="es-419">extensión de nombre de archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4072,7 +4072,7 @@
       <Position>OpenOffice.org 1.0 Presentation Template</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Presentation Template</base>
-        <tran loc="es">Plantilla de presentación de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Plantilla de presentación de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4080,7 +4080,7 @@
       <Position>Fortran source code</Position>
       <TranslationSet>
         <base loc="en">Fortran source code</base>
-        <tran loc="es">Código fuente Fortran</tran>
+        <tran loc="es-419">Código fuente Fortran</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4088,7 +4088,7 @@
       <Position>rich text with attachments (RTFD)</Position>
       <TranslationSet>
         <base loc="en">rich text with attachments (RTFD)</base>
-        <tran loc="es">texto enriquecido con inserciones (RTFD)</tran>
+        <tran loc="es-419">texto enriquecido con inserciones (RTFD)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4096,7 +4096,7 @@
       <Position>File Server</Position>
       <TranslationSet>
         <base loc="en">File Server</base>
-        <tran loc="es">Servidor de archivos</tran>
+        <tran loc="es-419">Servidor de archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4104,7 +4104,7 @@
       <Position>Owner</Position>
       <TranslationSet>
         <base loc="en">Owner</base>
-        <tran loc="es">Propietario</tran>
+        <tran loc="es-419">Propietario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4112,7 +4112,7 @@
       <Position>Drop Folder</Position>
       <TranslationSet>
         <base loc="en">Drop Folder</base>
-        <tran loc="es">Carpeta Drop Folder</tran>
+        <tran loc="es-419">Carpeta Drop Folder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4120,7 +4120,7 @@
       <Position>RAM Disk</Position>
       <TranslationSet>
         <base loc="en">RAM Disk</base>
-        <tran loc="es">Disco RAM</tran>
+        <tran loc="es-419">Disco RAM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4128,7 +4128,7 @@
       <Position>Flash video</Position>
       <TranslationSet>
         <base loc="en">Flash video</base>
-        <tran loc="es">Vídeo Flash</tran>
+        <tran loc="es-419">Video Flash</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4136,7 +4136,7 @@
       <Position>Microsoft Word 97-2004 document</Position>
       <TranslationSet>
         <base loc="en">Microsoft Word 97-2004 document</base>
-        <tran loc="es">Documento de Microsoft Word 97-2004</tran>
+        <tran loc="es-419">Documento de Microsoft Word 97-2004</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4144,7 +4144,7 @@
       <Position>Locales Folder</Position>
       <TranslationSet>
         <base loc="en">Locales Folder</base>
-        <tran loc="es">Carpeta Locales</tran>
+        <tran loc="es-419">Carpeta Locales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4152,7 +4152,7 @@
       <Position>text</Position>
       <TranslationSet>
         <base loc="en">text</base>
-        <tran loc="es">texto</tran>
+        <tran loc="es-419">texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4160,7 +4160,7 @@
       <Position>Developer Folder</Position>
       <TranslationSet>
         <base loc="en">Developer Folder</base>
-        <tran loc="es">Carpeta Developer</tran>
+        <tran loc="es-419">Carpeta Developer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4168,7 +4168,7 @@
       <Position>writing</Position>
       <TranslationSet>
         <base loc="en">writing</base>
-        <tran loc="es">grabación</tran>
+        <tran loc="es-419">grabación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4176,7 +4176,7 @@
       <Position>iMac</Position>
       <TranslationSet>
         <base loc="en">iMac</base>
-        <tran loc="es">iMac</tran>
+        <tran loc="es-419">iMac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4184,7 +4184,7 @@
       <Position>Geometry Definition File Format</Position>
       <TranslationSet>
         <base loc="en">Geometry Definition File Format</base>
-        <tran loc="es">Formato de archivo de definición de geometría</tran>
+        <tran loc="es-419">Formato de archivo de definición geométrica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4192,7 +4192,7 @@
       <Position>mobile provision</Position>
       <TranslationSet>
         <base loc="en">mobile provision</base>
-        <tran loc="es">datos móviles</tran>
+        <tran loc="es-419">datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4200,7 +4200,7 @@
       <Position>Xserve</Position>
       <TranslationSet>
         <base loc="en">Xserve</base>
-        <tran loc="es">Xserve</tran>
+        <tran loc="es-419">Xserve</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4208,7 +4208,7 @@
       <Position>Print Monitor Folder</Position>
       <TranslationSet>
         <base loc="en">Print Monitor Folder</base>
-        <tran loc="es">Carpeta Print Monitor</tran>
+        <tran loc="es-419">Carpeta Print Monitor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4216,7 +4216,7 @@
       <Position>iPhone 3GS</Position>
       <TranslationSet>
         <base loc="en">iPhone 3GS</base>
-        <tran loc="es">iPhone 3GS</tran>
+        <tran loc="es-419">iPhone 3GS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4224,7 +4224,7 @@
       <Position>Bourne-Again Shell script</Position>
       <TranslationSet>
         <base loc="en">Bourne-Again Shell script</base>
-        <tran loc="es">Script de shell Bash</tran>
+        <tran loc="es-419">Script de shell Bash</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4232,7 +4232,7 @@
       <Position>News Internet Location</Position>
       <TranslationSet>
         <base loc="en">News Internet Location</base>
-        <tran loc="es">Dirección de internet de noticias</tran>
+        <tran loc="es-419">Dirección de Internet de noticias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4240,7 +4240,7 @@
       <Position>Apple device</Position>
       <TranslationSet>
         <base loc="en">Apple device</base>
-        <tran loc="es">Dispositivo Apple</tran>
+        <tran loc="es-419">Dispositivo Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4248,7 +4248,7 @@
       <Position>Sound Designer II audio</Position>
       <TranslationSet>
         <base loc="en">Sound Designer II audio</base>
-        <tran loc="es">Audio Sound Designer II</tran>
+        <tran loc="es-419">Audio Sound Designer II</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4256,7 +4256,7 @@
       <Position>X bitmap image</Position>
       <TranslationSet>
         <base loc="en">X bitmap image</base>
-        <tran loc="es">Imagen de mapa de bits X</tran>
+        <tran loc="es-419">Imagen de mapa de bits X</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4264,7 +4264,7 @@
       <Position>Education</Position>
       <TranslationSet>
         <base loc="en">Education</base>
-        <tran loc="es">Educación</tran>
+        <tran loc="es-419">Educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4272,7 +4272,7 @@
       <Position>Spotlight importer</Position>
       <TranslationSet>
         <base loc="en">Spotlight importer</base>
-        <tran loc="es">Importador de Spotlight</tran>
+        <tran loc="es-419">Importador de Spotlight</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4280,7 +4280,7 @@
       <Position>Spreadsheet</Position>
       <TranslationSet>
         <base loc="en">Spreadsheet</base>
-        <tran loc="es">Hoja de cálculo</tran>
+        <tran loc="es-419">Hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4288,7 +4288,7 @@
       <Position>Icon Decoration System</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration System</base>
-        <tran loc="es">Sistema de decoración de iconos</tran>
+        <tran loc="es-419">Sistema de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4296,7 +4296,7 @@
       <Position>Edition File</Position>
       <TranslationSet>
         <base loc="en">Edition File</base>
-        <tran loc="es">Archivo de edición</tran>
+        <tran loc="es-419">Archivo de edición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4304,7 +4304,7 @@
       <Position>iMovie Library</Position>
       <TranslationSet>
         <base loc="en">iMovie Library</base>
-        <tran loc="es">Biblioteca de iMovie</tran>
+        <tran loc="es-419">Biblioteca de iMovie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4312,7 +4312,7 @@
       <Position>Home Folder</Position>
       <TranslationSet>
         <base loc="en">Home Folder</base>
-        <tran loc="es">Carpeta de inicio</tran>
+        <tran loc="es-419">Carpeta de inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4320,7 +4320,7 @@
       <Position>MP2 audio</Position>
       <TranslationSet>
         <base loc="en">MP2 audio</base>
-        <tran loc="es">Audio MP2</tran>
+        <tran loc="es-419">Audio MP2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4328,7 +4328,7 @@
       <Position>SVG image</Position>
       <TranslationSet>
         <base loc="en">SVG image</base>
-        <tran loc="es">Imagen SVG</tran>
+        <tran loc="es-419">Imagen SVG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4336,7 +4336,7 @@
       <Position>Help document</Position>
       <TranslationSet>
         <base loc="en">Help document</base>
-        <tran loc="es">Documento de ayuda</tran>
+        <tran loc="es-419">Documento de ayuda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4344,7 +4344,7 @@
       <Position>bundle</Position>
       <TranslationSet>
         <base loc="en">bundle</base>
-        <tran loc="es">paquete</tran>
+        <tran loc="es-419">paquete</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4352,7 +4352,7 @@
       <Position>Mac Pro</Position>
       <TranslationSet>
         <base loc="en">Mac Pro</base>
-        <tran loc="es">Mac Pro</tran>
+        <tran loc="es-419">Mac Pro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4360,7 +4360,7 @@
       <Position>DVD Video Disc</Position>
       <TranslationSet>
         <base loc="en">DVD Video Disc</base>
-        <tran loc="es">Disco de vídeo DVD</tran>
+        <tran loc="es-419">Disco de video DVD</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4368,7 +4368,7 @@
       <Position>FTP Internet Location</Position>
       <TranslationSet>
         <base loc="en">FTP Internet Location</base>
-        <tran loc="es">Dirección de internet FTP</tran>
+        <tran loc="es-419">Dirección de Internet FTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4376,7 +4376,7 @@
       <Position>iPhone 8 Plus (Model A1864, A1897, A1898, A1899)</Position>
       <TranslationSet>
         <base loc="en">iPhone 8 Plus (Model A1864, A1897, A1898, A1899)</base>
-        <tran loc="es">iPhone 8 Plus (modelos A1864, A1897, A1898 y A1899)</tran>
+        <tran loc="es-419">iPhone 8 Plus (modelo A1864, A1897, A1898 y A1899)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4384,7 +4384,7 @@
       <Position>Component</Position>
       <TranslationSet>
         <base loc="en">Component</base>
-        <tran loc="es">Componente</tran>
+        <tran loc="es-419">Componente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4392,7 +4392,7 @@
       <Position>Toolbar Pictures Folder</Position>
       <TranslationSet>
         <base loc="en">Toolbar Pictures Folder</base>
-        <tran loc="es">Carpeta Imágenes de la barra de herramientas</tran>
+        <tran loc="es-419">Carpeta Imágenes de la barra de herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4400,7 +4400,7 @@
       <Position>Video</Position>
       <TranslationSet>
         <base loc="en">Video</base>
-        <tran loc="es">Vídeo</tran>
+        <tran loc="es-419">Video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4408,7 +4408,7 @@
       <Position>Contextual Menu Items Folder</Position>
       <TranslationSet>
         <base loc="en">Contextual Menu Items Folder</base>
-        <tran loc="es">Carpeta Contextual Menu Items</tran>
+        <tran loc="es-419">Carpeta Contextual Menu Items</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4416,7 +4416,7 @@
       <Position>C++ source code</Position>
       <TranslationSet>
         <base loc="en">C++ source code</base>
-        <tran loc="es">Código fuente C++</tran>
+        <tran loc="es-419">Código fuente C++</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4424,7 +4424,7 @@
       <Position>OpenOffice.org 1.0 Spreadsheet</Position>
       <TranslationSet>
         <base loc="en">OpenOffice.org 1.0 Spreadsheet</base>
-        <tran loc="es">Hoja de cálculo de OpenOffice.org 1.0</tran>
+        <tran loc="es-419">Hoja de cálculo de OpenOffice.org 1.0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4432,7 +4432,7 @@
       <Position>TrueType OpenType font</Position>
       <TranslationSet>
         <base loc="en">TrueType® OpenType® font</base>
-        <tran loc="es">Tipo TrueType® OpenType®</tran>
+        <tran loc="es-419">Tipo TrueType® OpenType®</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4440,7 +4440,7 @@
       <Position>Microsoft Excel 97-2004 worksheet</Position>
       <TranslationSet>
         <base loc="en">Microsoft Excel 97-2004 worksheet</base>
-        <tran loc="es">Hoja de cálculo de Microsoft Excel 97-2004</tran>
+        <tran loc="es-419">Hoja de cálculo de Microsoft Excel 97-2004</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4448,7 +4448,7 @@
       <Position>Adobe Photoshop document</Position>
       <TranslationSet>
         <base loc="en">Adobe Photoshop document</base>
-        <tran loc="es">Documento de Adobe Photoshop</tran>
+        <tran loc="es-419">Documento de Adobe Photoshop</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4456,7 +4456,7 @@
       <Position>GZip archive</Position>
       <TranslationSet>
         <base loc="en">GZip archive</base>
-        <tran loc="es">Archivo comprimido GZip</tran>
+        <tran loc="es-419">Archivo comprimido GZip</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4464,7 +4464,7 @@
       <Position>Open Document HTML template</Position>
       <TranslationSet>
         <base loc="en">Open Document HTML template</base>
-        <tran loc="es">Plantilla HTML Open Document</tran>
+        <tran loc="es-419">Plantilla HTML Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4472,7 +4472,7 @@
       <Position>Open Document text</Position>
       <TranslationSet>
         <base loc="en">Open Document text</base>
-        <tran loc="es">Texto Open Document</tran>
+        <tran loc="es-419">Texto Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4480,7 +4480,7 @@
       <Position>Speaker</Position>
       <TranslationSet>
         <base loc="en">Speaker</base>
-        <tran loc="es">Altavoz</tran>
+        <tran loc="es-419">Bocina</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4488,7 +4488,7 @@
       <Position>framework</Position>
       <TranslationSet>
         <base loc="en">framework</base>
-        <tran loc="es">estructura</tran>
+        <tran loc="es-419">estructura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4496,7 +4496,7 @@
       <Position>Apple CoreAudio format</Position>
       <TranslationSet>
         <base loc="en">Apple CoreAudio format</base>
-        <tran loc="es">Formato Apple CoreAudio</tran>
+        <tran loc="es-419">Formato Apple CoreAudio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4504,7 +4504,7 @@
       <Position>Status Bar CD ROM</Position>
       <TranslationSet>
         <base loc="en">Status Bar CD ROM</base>
-        <tran loc="es">CD ROM en la barra de estado</tran>
+        <tran loc="es-419">CD ROM en la barra de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4512,7 +4512,7 @@
       <Position>Driver Extension</Position>
       <TranslationSet>
         <base loc="en">Driver Extension</base>
-        <tran loc="es">Extensión de la unidad</tran>
+        <tran loc="es-419">Extensión de controlador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4520,7 +4520,7 @@
       <Position>clipping</Position>
       <TranslationSet>
         <base loc="en">clipping</base>
-        <tran loc="es">recorte</tran>
+        <tran loc="es-419">recorte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4528,7 +4528,7 @@
       <Position>Shared Badge</Position>
       <TranslationSet>
         <base loc="en">Shared Badge</base>
-        <tran loc="es">Distintivo compartido</tran>
+        <tran loc="es-419">Distintivo compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4536,7 +4536,7 @@
       <Position>Themes Folder</Position>
       <TranslationSet>
         <base loc="en">Themes Folder</base>
-        <tran loc="es">Carpeta Themes</tran>
+        <tran loc="es-419">Carpeta Themes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4544,7 +4544,7 @@
       <Position>Icon Decoration Position Leading Bottom</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Position Leading Bottom</base>
-        <tran loc="es">Posición inferior inicial de decoración de iconos</tran>
+        <tran loc="es-419">Fondo al final de posición de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4552,7 +4552,7 @@
       <Position>NIfTI-1</Position>
       <TranslationSet>
         <base loc="en">NIfTI-1</base>
-        <tran loc="es">NIfTI-1</tran>
+        <tran loc="es-419">NIfTI-1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4560,7 +4560,7 @@
       <Position>ICS File</Position>
       <TranslationSet>
         <base loc="en">ICS File</base>
-        <tran loc="es">Archivo ICS</tran>
+        <tran loc="es-419">Archivo ICS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4568,7 +4568,7 @@
       <Position>Document</Position>
       <TranslationSet>
         <base loc="en">Document</base>
-        <tran loc="es">Documento</tran>
+        <tran loc="es-419">Documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4576,7 +4576,7 @@
       <Position>StuffIt X index</Position>
       <TranslationSet>
         <base loc="en">StuffIt X index</base>
-        <tran loc="es">Índice de StuffIt X</tran>
+        <tran loc="es-419">Índice de StuffIt X</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4584,7 +4584,7 @@
       <Position>Recent Documents Folder</Position>
       <TranslationSet>
         <base loc="en">Recent Documents Folder</base>
-        <tran loc="es">Carpeta Recent Documents</tran>
+        <tran loc="es-419">Carpeta Recent Documents</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4592,7 +4592,7 @@
       <Position>Office Open XML presentation (macros enabled)</Position>
       <TranslationSet>
         <base loc="en">Office Open XML presentation (macros enabled)</base>
-        <tran loc="es">Presentación Office Open XML (macros activadas)</tran>
+        <tran loc="es-419">Presentación Office Open XML (macros activadas)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4600,7 +4600,7 @@
       <Position>image</Position>
       <TranslationSet>
         <base loc="en">image</base>
-        <tran loc="es">imagen</tran>
+        <tran loc="es-419">imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4608,7 +4608,7 @@
       <Position>Guest User</Position>
       <TranslationSet>
         <base loc="en">Guest User</base>
-        <tran loc="es">Usuario invitado</tran>
+        <tran loc="es-419">Usuario invitado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4616,7 +4616,7 @@
       <Position>font suitcase</Position>
       <TranslationSet>
         <base loc="en">font suitcase</base>
-        <tran loc="es">maleta tipográfica</tran>
+        <tran loc="es-419">maleta tipográfica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4624,7 +4624,7 @@
       <Position>Adobe Acrobat Forms Document (FDF)</Position>
       <TranslationSet>
         <base loc="en">Adobe Acrobat Forms Document (FDF)</base>
-        <tran loc="es">Formulario de Acrobat (FDF) de Adobe</tran>
+        <tran loc="es-419">Formulario de Acrobat (FDF) de Adobe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4632,7 +4632,7 @@
       <Position>No Folder</Position>
       <TranslationSet>
         <base loc="en">No Folder</base>
-        <tran loc="es">Ninguna carpeta</tran>
+        <tran loc="es-419">Ninguna carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4640,7 +4640,7 @@
       <Position>Stationery</Position>
       <TranslationSet>
         <base loc="en">Stationery</base>
-        <tran loc="es">Plantilla</tran>
+        <tran loc="es-419">Plantilla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4648,7 +4648,7 @@
       <Position>Open Document formula</Position>
       <TranslationSet>
         <base loc="en">Open Document formula</base>
-        <tran loc="es">Fórmula Open Document</tran>
+        <tran loc="es-419">Fórmula Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4656,7 +4656,7 @@
       <Position>SceneKit serialized format</Position>
       <TranslationSet>
         <base loc="en">SceneKit serialized format</base>
-        <tran loc="es">Formato serializado SceneKit</tran>
+        <tran loc="es-419">Formato serializado SceneKit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4664,7 +4664,7 @@
       <Position>FLC animation</Position>
       <TranslationSet>
         <base loc="en">FLC animation</base>
-        <tran loc="es">Animación FLC</tran>
+        <tran loc="es-419">Animación FLC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4672,7 +4672,7 @@
       <Position>OpenEXR image</Position>
       <TranslationSet>
         <base loc="en">OpenEXR image</base>
-        <tran loc="es">Imagen OpenEXR</tran>
+        <tran loc="es-419">Imagen OpenEXR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4680,7 +4680,7 @@
       <Position>Z Shell script</Position>
       <TranslationSet>
         <base loc="en">Z Shell script</base>
-        <tran loc="es">Script de shell Z</tran>
+        <tran loc="es-419">Script de shell Z</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4688,7 +4688,7 @@
       <Position>application</Position>
       <TranslationSet>
         <base loc="en">application</base>
-        <tran loc="es">aplicación</tran>
+        <tran loc="es-419">aplicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4696,7 +4696,7 @@
       <Position>contact information</Position>
       <TranslationSet>
         <base loc="en">contact information</base>
-        <tran loc="es">datos de contacto</tran>
+        <tran loc="es-419">información de contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4704,7 +4704,7 @@
       <Position>Simulation Games</Position>
       <TranslationSet>
         <base loc="en">Simulation Games</base>
-        <tran loc="es">Juegos de simulación</tran>
+        <tran loc="es-419">Juegos de simulación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4712,7 +4712,7 @@
       <Position>iOS Simulator</Position>
       <TranslationSet>
         <base loc="en">iOS Simulator</base>
-        <tran loc="es">Simulador iOS</tran>
+        <tran loc="es-419">Simulador iOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4720,7 +4720,7 @@
       <Position>Unlocked</Position>
       <TranslationSet>
         <base loc="en">Unlocked</base>
-        <tran loc="es">Desbloqueado</tran>
+        <tran loc="es-419">Desbloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4728,7 +4728,7 @@
       <Position>PC</Position>
       <TranslationSet>
         <base loc="en">PC</base>
-        <tran loc="es">PC</tran>
+        <tran loc="es-419">PC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4736,7 +4736,7 @@
       <Position>Business</Position>
       <TranslationSet>
         <base loc="en">Business</base>
-        <tran loc="es">Empresa</tran>
+        <tran loc="es-419">Empresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4744,7 +4744,7 @@
       <Position>Text Clipping</Position>
       <TranslationSet>
         <base loc="en">Text Clipping</base>
-        <tran loc="es">Recorte de texto</tran>
+        <tran loc="es-419">Recorte de texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4752,7 +4752,7 @@
       <Position>Polygon File Format</Position>
       <TranslationSet>
         <base loc="en">Polygon File Format</base>
-        <tran loc="es">Formato de archivo de polígono</tran>
+        <tran loc="es-419">Formato de archivo de polígonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4760,7 +4760,7 @@
       <Position>Group Folder</Position>
       <TranslationSet>
         <base loc="en">Group Folder</base>
-        <tran loc="es">Carpeta Group</tran>
+        <tran loc="es-419">Carpeta Group</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4768,7 +4768,7 @@
       <Position>Disabled Shutdown Items Folder</Position>
       <TranslationSet>
         <base loc="en">Disabled Shutdown Items Folder</base>
-        <tran loc="es">Carpeta Disabled Shutdown Items</tran>
+        <tran loc="es-419">Carpeta Disabled Shutdown Items</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4776,7 +4776,7 @@
       <Position>Open Document chart</Position>
       <TranslationSet>
         <base loc="en">Open Document chart</base>
-        <tran loc="es">Gráfica Open Document</tran>
+        <tran loc="es-419">Gráfica Open Document</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4784,7 +4784,7 @@
       <Position>QuickTime movie</Position>
       <TranslationSet>
         <base loc="en">QuickTime movie</base>
-        <tran loc="es">Vídeo QuickTime</tran>
+        <tran loc="es-419">Video QuickTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4792,7 +4792,7 @@
       <Position>Windows BMP image</Position>
       <TranslationSet>
         <base loc="en">Windows BMP image</base>
-        <tran loc="es">Imagen BMP de Windows</tran>
+        <tran loc="es-419">Imagen BMP de Windows</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4800,7 +4800,7 @@
       <Position>Sports Games</Position>
       <TranslationSet>
         <base loc="en">Sports Games</base>
-        <tran loc="es">Juegos de deportes</tran>
+        <tran loc="es-419">Juegos de deportes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4808,7 +4808,7 @@
       <Position>Icon Decoration Position Center</Position>
       <TranslationSet>
         <base loc="en">Icon Decoration Position Center</base>
-        <tran loc="es">Posición central de decoración de iconos</tran>
+        <tran loc="es-419">Centro de posición de decoración de ícono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4816,7 +4816,7 @@
       <Position>Alert Note</Position>
       <TranslationSet>
         <base loc="en">Alert Note</base>
-        <tran loc="es">Nota de alerta</tran>
+        <tran loc="es-419">Nota de alerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4824,7 +4824,7 @@
       <Position>Applications Folder</Position>
       <TranslationSet>
         <base loc="en">Applications Folder</base>
-        <tran loc="es">Carpeta Aplicaciones</tran>
+        <tran loc="es-419">Carpeta Aplicaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4832,7 +4832,7 @@
       <Position>Data-fork font suitcase</Position>
       <TranslationSet>
         <base loc="en">Data-fork font suitcase</base>
-        <tran loc="es">Maleta tipográfica del Data Fork</tran>
+        <tran loc="es-419">Maleta tipográfica del Data Fork</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4840,7 +4840,7 @@
       <Position>HTTP Server</Position>
       <TranslationSet>
         <base loc="en">HTTP Server</base>
-        <tran loc="es">Servidor HTTP</tran>
+        <tran loc="es-419">Servidor HTTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4848,7 +4848,7 @@
       <Position>Strategy Games</Position>
       <TranslationSet>
         <base loc="en">Strategy Games</base>
-        <tran loc="es">Juegos de estrategia</tran>
+        <tran loc="es-419">Juegos de estrategia</tran>
       </TranslationSet>
     </TextItem>
   </File>

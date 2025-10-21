@@ -8,7 +8,7 @@
       <Position>Unsupported format type for -[ARPresentationDescriptor colorPixelFormat].</Position>
       <TranslationSet>
         <base loc="en">Unsupported format type for -[ARPresentationDescriptor colorPixelFormat].</base>
-        <tran loc="es">Tipo de formato no compatible para -[ARPresentationDescriptor colorPixelFormat].</tran>
+        <tran loc="es-419">Tipo de formato no compatible para -[ARPresentationDescriptor colorPixelFormat].</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Unable to read from or write to URL: %@.</Position>
       <TranslationSet>
         <base loc="en">Unable to read from or write to URL: %@.</base>
-        <tran loc="es">No se ha podido leer la URL ni escribir en ella: %@.</tran>
+        <tran loc="es-419">No se puede leer ni escribir a la dirección URL: %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Microphone access not authorized.</Position>
       <TranslationSet>
         <base loc="en">Microphone access not authorized.</base>
-        <tran loc="es">No se dispone de autorización para acceder al micrófono.</tran>
+        <tran loc="es-419">No se autorizó acceso al micrófono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Make sure the bounds of the object are correct, or scan the object further and try again.</Position>
       <TranslationSet>
         <base loc="en">Make sure the bounds of the object are correct, or scan the object further and try again.</base>
-        <tran loc="es">Asegúrate de que los límites del objeto son correctos o analiza más detalladamente el objeto y vuelve a intentarlo.</tran>
+        <tran loc="es-419">Asegúrate de que los bordes del objeto son los correctos, o sigue escaneando el objeto y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>One or more images lack sufficient texture and contrast for accurate detection. Image detection works best when an image contains multiple high-contrast regions distributed across its extent.</Position>
       <TranslationSet>
         <base loc="en">One or more images lack sufficient texture and contrast for accurate detection. Image detection works best when an image contains multiple high-contrast regions distributed across its extent.</base>
-        <tran loc="es">La textura y el contraste de una o varias imágenes no son suficientes para realizar una detección precisa. La detección de imágenes funciona mejor cuando una imagen contiene varias zonas de alto contraste distribuidas por toda su extensión.</tran>
+        <tran loc="es-419">A una o más imágenes les falta textura y contraste suficientes para detectarlas con precisión. La detección de imágenes funciona mejor cuando una imagen contiene diversas regiones con alto contraste distribuidas sobre su extensión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Unsupported -[ARPresentationDisplay presentationMode].</Position>
       <TranslationSet>
         <base loc="en">Unsupported -[ARPresentationDisplay presentationMode].</base>
-        <tran loc="es">No compatible -[ARPresentationDisplay presentationMode].</tran>
+        <tran loc="es-419">No compatible -[ARPresentationDisplay presentationMode].</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Location authorization denied by the user.</Position>
       <TranslationSet>
         <base loc="en">Location authorization denied by the user.</base>
-        <tran loc="es">Autorización de localización rechazada por el usuario.</tran>
+        <tran loc="es-419">El usuario rechazó la autorización de la ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Make sure that tracking has initialized and continue to scan the environment.</Position>
       <TranslationSet>
         <base loc="en">Make sure that tracking has initialized and continue to scan the environment.</base>
-        <tran loc="es">Asegúrate de que se ha inicializado el análisis y sigue analizando el entorno.</tran>
+        <tran loc="es-419">Asegúrate de que inició el registro de características y que se continúa escaneando el entorno.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>No change in the new descriptor</Position>
       <TranslationSet>
         <base loc="en">No change in the new descriptor</base>
-        <tran loc="es">No hay cambios en el nuevo descriptor</tran>
+        <tran loc="es-419">Sin cambios en el nuevo descriptor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>An unknown error occurred while loading ARReferenceImages for detection. Please file a bug report.</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred while loading ARReferenceImages for detection. Please file a bug report.</base>
-        <tran loc="es">Se ha producido un error al cargar ARReferenceImages para la detección. Genera un informe del error.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido al cargar ARReferenceImages para detectar. Genera un reporte de errores.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Object merge failed.</Position>
       <TranslationSet>
         <base loc="en">Object merge failed.</base>
-        <tran loc="es">Error al fusionar los objetos.</tran>
+        <tran loc="es-419">Error al fusionar objetos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Unable to create archive.</Position>
       <TranslationSet>
         <base loc="en">Unable to create archive.</base>
-        <tran loc="es">No se ha podido crear el archivo.</tran>
+        <tran loc="es-419">No se puede crear el archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>AVFoundation failed to deliver the requested metadata object types.</Position>
       <TranslationSet>
         <base loc="en">AVFoundation failed to deliver the requested metadata object types.</base>
-        <tran loc="es">AVFoundation no ha podido proporcionar los tipos de objeto de metadatos solicitados.</tran>
+        <tran loc="es-419">AVFoundation no proporcionó los tipos de objetos de metadatos solicitados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>One or more reference images could not be loaded due to an unknown error: %@</Position>
       <TranslationSet>
         <base loc="en">One or more reference images could not be loaded due to an unknown error: %@</base>
-        <tran loc="es">No se ha podido cargar una o varias imágenes de referencia debido a un error desconocido: %@</tran>
+        <tran loc="es-419">No se pudo cargar una o más imágenes de referencia debido a un error desconocido: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>A required sensor is not available on this device.</Position>
       <TranslationSet>
         <base loc="en">A required sensor is not available on this device.</base>
-        <tran loc="es">Este dispositivo no dispone del sensor necesario.</tran>
+        <tran loc="es-419">Un sensor requerido no está disponible en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Getting the current world map requires that world tracking is configured.</Position>
       <TranslationSet>
         <base loc="en">Getting the current world map requires that world tracking is configured.</base>
-        <tran loc="es">Para obtener el mapa actual tiene que estar configurado el análisis del entorno.</tran>
+        <tran loc="es-419">Para obtener el mapamundi actual, es necesario configurar el registro de mundo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>Make sure that the application has the required privacy settings.</Position>
       <TranslationSet>
         <base loc="en">Make sure that the application has the required privacy settings.</base>
-        <tran loc="es">Comprueba que la aplicación tenga los ajustes de privacidad necesarios.</tran>
+        <tran loc="es-419">Asegúrate de que la app cuenta con la configuración de privacidad requerida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>Make sure that all reference images are greater than 100 pixels and have a positive physical size in meters.</Position>
       <TranslationSet>
         <base loc="en">Make sure that all reference images are greater than 100 pixels and have a positive physical size in meters.</base>
-        <tran loc="es">Asegúrate de que todas las imágenes de referencia tienen más de 100 píxeles y un tamaño físico positivo en metros.</tran>
+        <tran loc="es-419">Asegúrate de que cada imagen de referencia tenga más de 100 pixeles y un tamaño físico positivo en metros.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Not enough matching features were found for the reference objects to be merged.</Position>
       <TranslationSet>
         <base loc="en">Not enough matching features were found for the reference objects to be merged.</base>
-        <tran loc="es">No se han encontrado suficientes características similares para fusionar los objetos de referencia.</tran>
+        <tran loc="es-419">No se encontraron funciones correspondientes para que los objetos de referencia se fusionen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>World tracking cannot determine the device’s position.</Position>
       <TranslationSet>
         <base loc="en">World tracking cannot determine the device’s position.</base>
-        <tran loc="es">El análisis del entorno no puede determinar la posición del dispositivo.</tran>
+        <tran loc="es-419">El rastreo global no puede determinar la posición del dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>&lt;Unnamed&gt;</Position>
       <TranslationSet>
         <base loc="en">&lt;Unnamed&gt;</base>
-        <tran loc="es">&lt;Sin nombre&gt;</tran>
+        <tran loc="es-419">&lt;Unnamed&gt;</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>Microphone use is restricted on this device.</Position>
       <TranslationSet>
         <base loc="en">Microphone use is restricted on this device.</base>
-        <tran loc="es">El uso del micrófono está restringido en este dispositivo.</tran>
+        <tran loc="es-419">El uso del micrófono está restringido en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>Use one of the supported format types for -[ARPresentationDescriptor depthPixelFormat].</Position>
       <TranslationSet>
         <base loc="en">Use one of the supported format types for -[ARPresentationDescriptor depthPixelFormat].</base>
-        <tran loc="es">Usa uno de los tipos de formato compatibles para -[ARPresentationDescriptor depthPixelFormat].</tran>
+        <tran loc="es-419">Usa uno de los tipos de formato compatibles para -[ARPresentationDescriptor depthPixelFormat].</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>Move slowly</Position>
       <TranslationSet>
         <base loc="en">Move slowly</base>
-        <tran loc="es">Muévete despacio</tran>
+        <tran loc="es-419">Muévete lentamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>Invalid configuration.</Position>
       <TranslationSet>
         <base loc="en">Invalid configuration.</base>
-        <tran loc="es">Configuración no válida.</tran>
+        <tran loc="es-419">Configuración no válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>Proximity sensor is not available on this device.</Position>
       <TranslationSet>
         <base loc="en">Proximity sensor is not available on this device.</base>
-        <tran loc="es">El sensor de proximidad no está disponible en este dispositivo.</tran>
+        <tran loc="es-419">El sensor de proximidad no está disponible en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>World tracking failed.</Position>
       <TranslationSet>
         <base loc="en">World tracking failed.</base>
-        <tran loc="es">Error al realizar el análisis del entorno.</tran>
+        <tran loc="es-419">Error del rastreo global.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Unable to initialize tracking.</Position>
       <TranslationSet>
         <base loc="en">Unable to initialize tracking.</base>
-        <tran loc="es">No se puede inicializar el análisis.</tran>
+        <tran loc="es-419">No se pudo iniciar el seguimiento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>Move iPad to start</Position>
       <TranslationSet>
         <base loc="en">Move iPad to start</base>
-        <tran loc="es">Mueve el iPad para empezar</tran>
+        <tran loc="es-419">Lleva el iPad al inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>Make sure that an ARObjectScanningConfiguration is being used.</Position>
       <TranslationSet>
         <base loc="en">Make sure that an ARObjectScanningConfiguration is being used.</base>
-        <tran loc="es">Comprueba que se está utilizando ARObjectScanningConfiguration.</tran>
+        <tran loc="es-419">Asegúrate de que se está utilizando un ARObjectScanningConfiguration.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>Insufficient features.</Position>
       <TranslationSet>
         <base loc="en">Insufficient features.</base>
-        <tran loc="es">Características insuficientes.</tran>
+        <tran loc="es-419">Características insuficientes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>Face tracking failed.</Position>
       <TranslationSet>
         <base loc="en">Face tracking failed.</base>
-        <tran loc="es">Error de seguimiento de cara.</tran>
+        <tran loc="es-419">Error al registrar la cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>Replay URL is not valid AVURLAsset: %@</Position>
       <TranslationSet>
         <base loc="en">Replay URL is not valid AVURLAsset: %@</base>
-        <tran loc="es">La URL de reproducción no es un AVURLAsset válido: %@</tran>
+        <tran loc="es-419">La dirección URL de repetición no es un AVURLAsset válido: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>Not enough features have been recorded to create a reference object at this position.</Position>
       <TranslationSet>
         <base loc="en">Not enough features have been recorded to create a reference object at this position.</base>
-        <tran loc="es">No se han grabado suficientes características para crear un objeto de referencia en esta posición.</tran>
+        <tran loc="es-419">No se han registrado suficientes características para crear un objeto de referencia en esta posición.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>Continue to move iPod touch</Position>
       <TranslationSet>
         <base loc="en">Continue to move iPod touch</base>
-        <tran loc="es">Continúa para mover el iPod touch</tran>
+        <tran loc="es-419">Sigue moviendo el iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>The world map data is not in a format supported by this version of ARWorldMap.</Position>
       <TranslationSet>
         <base loc="en">The world map data is not in a format supported by this version of ARWorldMap.</base>
-        <tran loc="es">Los datos del mapamundi no tienen un formato compatible con esta versión de ARWorldMap.</tran>
+        <tran loc="es-419">Los datos del mapamundi carecen de un formato compatible con esta versión de ARWorldMap.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>Location use is restricted on this device.</Position>
       <TranslationSet>
         <base loc="en">Location use is restricted on this device.</base>
-        <tran loc="es">El uso de la localización está restringido en este dispositivo.</tran>
+        <tran loc="es-419">El uso de la ubicación está restringido en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>Make sure that an ARWorldTrackingConfiguration is being used.</Position>
       <TranslationSet>
         <base loc="en">Make sure that an ARWorldTrackingConfiguration is being used.</base>
-        <tran loc="es">Comprueba que se está utilizando ARWorldTrackingConfiguration.</tran>
+        <tran loc="es-419">Asegúrate de que se está utilizando un ARWorldTrackingConfiguration.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>File IO failed.</Position>
       <TranslationSet>
         <base loc="en">File IO failed.</base>
-        <tran loc="es">Error de ES de archivo.</tran>
+        <tran loc="es-419">Ocurrió un error del archivo IO.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>The reference object data is not in a format supported by this version of ARReferenceObject.</Position>
       <TranslationSet>
         <base loc="en">The reference object data is not in a format supported by this version of ARReferenceObject.</base>
-        <tran loc="es">Los datos del objeto de referencia no tienen un formato compatible con esta versión de ARReferenceObject.</tran>
+        <tran loc="es-419">Los datos del objeto de referencia carecen de un formato compatible con esta versión de ARReferenceObject.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>Move device to start</Position>
       <TranslationSet>
         <base loc="en">Move device to start</base>
-        <tran loc="es">Mueve el dispositivo para empezar</tran>
+        <tran loc="es-419">Mueve el dispositivo para empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>Invalid reference object.</Position>
       <TranslationSet>
         <base loc="en">Invalid reference object.</base>
-        <tran loc="es">Objeto de referencia no válido.</tran>
+        <tran loc="es-419">Objeto de referencia no válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>One or more reference images have insufficient texture: %@</Position>
       <TranslationSet>
         <base loc="en">One or more reference images have insufficient texture: %@</base>
-        <tran loc="es">Una o varias imágenes de referencia no tienen textura suficiente: %@</tran>
+        <tran loc="es-419">Una o más imágenes de referencia tienen texturas insuficientes: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>Required sensor unavailable.</Position>
       <TranslationSet>
         <base loc="en">Required sensor unavailable.</base>
-        <tran loc="es">El sensor necesario no está disponible.</tran>
+        <tran loc="es-419">Sensor requerido no disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>Continue to move device</Position>
       <TranslationSet>
         <base loc="en">Continue to move device</base>
-        <tran loc="es">Sigue moviendo el dispositivo</tran>
+        <tran loc="es-419">Sigue moviendo el dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>Make sure that the application has the required microphone privacy settings.</Position>
       <TranslationSet>
         <base loc="en">Make sure that the application has the required microphone privacy settings.</base>
-        <tran loc="es">Comprueba que la aplicación tenga los ajustes de privacidad del micrófono necesarios.</tran>
+        <tran loc="es-419">Asegúrate de que la app cuenta con la configuración de privacidad requerida del micrófono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>Use one of the supported types for -[ARPresentationDisplay presentationMode].</Position>
       <TranslationSet>
         <base loc="en">Use one of the supported types for -[ARPresentationDisplay presentationMode].</base>
-        <tran loc="es">Usa uno de los tipos compatibles para -[ARPresentationDisplay presentationMode].</tran>
+        <tran loc="es-419">Usa uno de los tipos de formato compatibles para -[ARPresentationDisplay presentationMode].</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>Could not add metadata output to capture session</Position>
       <TranslationSet>
         <base loc="en">Could not add metadata output to capture session</base>
-        <tran loc="es">No se ha podido añadir salida de metadatos a la sesión de captura</tran>
+        <tran loc="es-419">No se pudo agregar salidas de metadatos para capturar la sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>Continue to move iPad</Position>
       <TranslationSet>
         <base loc="en">Continue to move iPad</base>
-        <tran loc="es">Sigue moviendo el iPad</tran>
+        <tran loc="es-419">Sigue moviendo el iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>Move iPod touch to start</Position>
       <TranslationSet>
         <base loc="en">Move iPod touch to start</base>
-        <tran loc="es">Mueve el iPod touch para empezar</tran>
+        <tran loc="es-419">Mueve el iPod touch para empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>Return to the previous area to resume</Position>
       <TranslationSet>
         <base loc="en">Return to the previous area to resume</base>
-        <tran loc="es">Volver al área anterior para reanudar</tran>
+        <tran loc="es-419">Regresa al área anterior para reanudar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>An unknown error occured</Position>
       <TranslationSet>
         <base loc="en">An unknown error occured</base>
-        <tran loc="es">Se ha producido un error desconocido</tran>
+        <tran loc="es-419">Ocurrió un error desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>Reference images could not be loaded due to an unknown error: %d</Position>
       <TranslationSet>
         <base loc="en">Reference images could not be loaded due to an unknown error: %d</base>
-        <tran loc="es">No se han podido cargar las imágenes de referencia debido a un error desconocido: %d</tran>
+        <tran loc="es-419">No se pudo cargar imágenes de referencia debido a un error desconocido: %d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>Creating a reference object requires that object scanning is configured.</Position>
       <TranslationSet>
         <base loc="en">Creating a reference object requires that object scanning is configured.</base>
-        <tran loc="es">Para crear un objeto de referencia tiene que estar configurado el escaneo de objetos.</tran>
+        <tran loc="es-419">Para crear un objeto de referencia es necesario configurar el escaneo de objetos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>A sensor failed to deliver the required input.</Position>
       <TranslationSet>
         <base loc="en">A sensor failed to deliver the required input.</base>
-        <tran loc="es">Un sensor no ha podido proporcionar la entrada necesaria.</tran>
+        <tran loc="es-419">Un sensor no proporcionó la entrada requerida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>Required sensor failed.</Position>
       <TranslationSet>
         <base loc="en">Required sensor failed.</base>
-        <tran loc="es">El sensor necesario ha fallado.</tran>
+        <tran loc="es-419">Error del sensor requerido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>Unsupported configuration.</Position>
       <TranslationSet>
         <base loc="en">Unsupported configuration.</base>
-        <tran loc="es">Configuración incompatible.</tran>
+        <tran loc="es-419">Configuración no compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>Continue to move iPhone</Position>
       <TranslationSet>
         <base loc="en">Continue to move iPhone</base>
-        <tran loc="es">Sigue moviendo el iPhone</tran>
+        <tran loc="es-419">Sigue moviendo el iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>Unsupported sensor data.</Position>
       <TranslationSet>
         <base loc="en">Unsupported sensor data.</base>
-        <tran loc="es">Los datos del sensor son incompatibles.</tran>
+        <tran loc="es-419">Los datos del sensor no son compatibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>No change required.</Position>
       <TranslationSet>
         <base loc="en">No change required.</base>
-        <tran loc="es">No hacen falta cambios.</tran>
+        <tran loc="es-419">No se requieren cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>Unsupported format type for -[ARPresentationDescriptor depthPixelFormat].</Position>
       <TranslationSet>
         <base loc="en">Unsupported format type for -[ARPresentationDescriptor depthPixelFormat].</base>
-        <tran loc="es">Tipo de formato no compatible para - [ARPresentationDescriptor depthPixelFormat].</tran>
+        <tran loc="es-419">Tipo de formato no compatible para -[ARPresentationDescriptor depthPixelFormat].</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>Camera access not authorized.</Position>
       <TranslationSet>
         <base loc="en">Camera access not authorized.</base>
-        <tran loc="es">No se dispone de autorización para acceder a la cámara.</tran>
+        <tran loc="es-419">No se autorizó acceso a la cámara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>The app does not have permission to use the camera.</Position>
       <TranslationSet>
         <base loc="en">The app does not have permission to use the camera.</base>
-        <tran loc="es">La app no tiene permiso para usar la cámara.</tran>
+        <tran loc="es-419">La app no cuenta con permiso para usar la cámara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>Replay URL is not readable: %@</Position>
       <TranslationSet>
         <base loc="en">Replay URL is not readable: %@</base>
-        <tran loc="es">La URL de reproducción no se puede leer: %@</tran>
+        <tran loc="es-419">La dirección URL de repetición no se puede leer: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>Invalid reference image.</Position>
       <TranslationSet>
         <base loc="en">Invalid reference image.</base>
-        <tran loc="es">Imagen de referencia no válida.</tran>
+        <tran loc="es-419">Imagen de referencia no válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>The app does not have permission to use the microphone.</Position>
       <TranslationSet>
         <base loc="en">The app does not have permission to use the microphone.</base>
-        <tran loc="es">La app no tiene permiso para usar el micrófono.</tran>
+        <tran loc="es-419">La app no cuenta con permiso para usar el micrófono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>Move iPhone to start</Position>
       <TranslationSet>
         <base loc="en">Move iPhone to start</base>
-        <tran loc="es">Mueve el iPhone para empezar</tran>
+        <tran loc="es-419">Mueve el iPhone para empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>Start Over</Position>
       <TranslationSet>
         <base loc="en">Start Over</base>
-        <tran loc="es">Volver a empezar</tran>
+        <tran loc="es-419">Volver a empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>Make sure that the application has the required camera privacy settings.</Position>
       <TranslationSet>
         <base loc="en">Make sure that the application has the required camera privacy settings.</base>
-        <tran loc="es">Comprueba que la aplicación tenga los ajustes de privacidad de la cámara necesarios.</tran>
+        <tran loc="es-419">Asegúrate de que la app cuenta con la configuración de privacidad requerida de la cámara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>Use one of the supported format types for -[ARPresentationDescriptor colorPixelFormat].</Position>
       <TranslationSet>
         <base loc="en">Use one of the supported format types for -[ARPresentationDescriptor colorPixelFormat].</base>
-        <tran loc="es">Usa uno de los tipos de formato compatibles para -[ARPresentationDescriptor colorPixelFormat].</tran>
+        <tran loc="es-419">Usa uno de los tipos de formato compatibles para -[ARPresentationDescriptor colorPixelFormat].</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>The provided configuration is not supported on this device.</Position>
       <TranslationSet>
         <base loc="en">The provided configuration is not supported on this device.</base>
-        <tran loc="es">La configuración proporcionada no es compatible con este dispositivo.</tran>
+        <tran loc="es-419">La configuración proporcionada no es compatible con este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>Replay URL is missing or not a fileURL: %@</Position>
       <TranslationSet>
         <base loc="en">Replay URL is missing or not a fileURL: %@</base>
-        <tran loc="es">La URL de reproducción falta o no es una URL: %@</tran>
+        <tran loc="es-419">Falta la dirección URL de repetición o no es una fileURL: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>Collaboration data unavailable.</Position>
       <TranslationSet>
         <base loc="en">Collaboration data unavailable.</base>
-        <tran loc="es">Los datos de colaboración no están disponibles.</tran>
+        <tran loc="es-419">Los datos de colaboración no están disponibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>Invalid world map.</Position>
       <TranslationSet>
         <base loc="en">Invalid world map.</base>
-        <tran loc="es">Mapamundi no válido.</tran>
+        <tran loc="es-419">Mapamundi no válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>Camera use is restricted on this device.</Position>
       <TranslationSet>
         <base loc="en">Camera use is restricted on this device.</base>
-        <tran loc="es">El uso de la cámara está restringido en este dispositivo.</tran>
+        <tran loc="es-419">El uso de la cámara está restringido en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>Not enough features have been recorded to create a world map yet.</Position>
       <TranslationSet>
         <base loc="en">Not enough features have been recorded to create a world map yet.</base>
-        <tran loc="es">Todavía no se han grabado suficientes características para crear un mapa del entorno.</tran>
+        <tran loc="es-419">No se han registrado suficientes características para crear un mapamundi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>Image detection quality estimation could not be performed</Position>
       <TranslationSet>
         <base loc="en">Image detection quality estimation could not be performed</base>
-        <tran loc="es">No se ha podido realizar la estimación de la calidad de detección de la imagen</tran>
+        <tran loc="es-419">No se pudo realizar el cálculo de calidad de la detección de imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>One or more reference images have an invalid size: %@</Position>
       <TranslationSet>
         <base loc="en">One or more reference images have an invalid size: %@</base>
-        <tran loc="es">Una o varias imágenes de referencia no tienen un tamaño válido: %@</tran>
+        <tran loc="es-419">Una o más imágenes de referencia tiene un tamaño no válido: %@</tran>
       </TranslationSet>
     </TextItem>
   </File>

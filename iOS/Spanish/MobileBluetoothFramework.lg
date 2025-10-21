@@ -8,7 +8,7 @@
       <Position>/RECEIVED_ATTACHMENTS:dict/attachments:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u attachment</base>
-        <tran loc="es">%u archivo adjunto</tran>
+        <tran loc="es-419">%u archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/RECEIVED_ATTACHMENTS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@attachments@</base>
-        <tran loc="es">%#@attachments@</tran>
+        <tran loc="es-419">%#@attachments@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/RECEIVED_ATTACHMENTS:dict/attachments:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u attachments</base>
-        <tran loc="es">%u archivos adjuntos</tran>
+        <tran loc="es-419">%u archivos adjuntos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -35,7 +35,7 @@
       <Position>SOLOPRO</Position>
       <TranslationSet>
         <base loc="en">Solo Pro</base>
-        <tran loc="es">Solo Pro</tran>
+        <tran loc="es-419">Solo Pro</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -46,7 +46,7 @@
       <Position>LE_BLACKLIST_ENABLED_HEADER</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to use Bluetooth for new connections</base>
-        <tran loc="es">%@ quiere utilizar Bluetooth para nuevas conexiones</tran>
+        <tran loc="es-419">“%@” quiere usar Bluetooth para crear nuevas conexiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>ANCS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Allow %@ to display your %@ notifications?</base>
-        <tran loc="es">¿Permitir que %@ muestre tus %@ notificaciones?</tran>
+        <tran loc="es-419">¿Permitir que %@ muestre tus notificaciones de %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>APPLE_AUDIO_DEVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">%1$@’s %2$@</base>
-        <tran loc="es">%2$@ de %1$@</tran>
+        <tran loc="es-419">%2$@ de %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>UNKNOWN_ARTIST</Position>
       <TranslationSet>
         <base loc="en">Unknown Artist</base>
-        <tran loc="es">Artista desconocido</tran>
+        <tran loc="es-419">Artista desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>RADIO</Position>
       <TranslationSet>
         <base loc="en">Radio</base>
-        <tran loc="es">Radio</tran>
+        <tran loc="es-419">Radio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>PASSKEY_DISPLAY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to pair with your %@. Enter the code “%06u” on “%@”.</base>
-        <tran loc="es">“%@” quiere enlazar con tu %@. Introduce el código “%06u” en “%@”.</tran>
+        <tran loc="es-419">“%@” quiere enlazarse con tu %@. Ingresa el código “%06u” en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>MY_NUMBER</Position>
       <TranslationSet>
         <base loc="en">My Number</base>
-        <tran loc="es">Mi número</tran>
+        <tran loc="es-419">Mi número</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>ARTISTS</Position>
       <TranslationSet>
         <base loc="en">Artists</base>
-        <tran loc="es">Artistas</tran>
+        <tran loc="es-419">Artistas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>APP_LAUNCH_HEADER_GENERAL</Position>
       <TranslationSet>
         <base loc="en">The “%@” accessory would like to open “%@”</base>
-        <tran loc="es">El accesorio “%@” quiere abrir %@.</tran>
+        <tran loc="es-419">El accesorio “%@” quiere abrir “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>ALBUMS</Position>
       <TranslationSet>
         <base loc="en">Albums</base>
-        <tran loc="es">Álbumes</tran>
+        <tran loc="es-419">Álbumes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>CALL_BACK</Position>
       <TranslationSet>
         <base loc="en">Call Back</base>
-        <tran loc="es">Llamar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>INCOMING_CALL</Position>
       <TranslationSet>
         <base loc="en">Incoming Call</base>
-        <tran loc="es">Llamada entrante</tran>
+        <tran loc="es-419">Llamada entrante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>BEATSSTUDIO3</Position>
       <TranslationSet>
         <base loc="en">Beats Studio³</base>
-        <tran loc="es">Beats Studio³</tran>
+        <tran loc="es-419">Beats Studio³</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>UNPLAYED_EPISODES</Position>
       <TranslationSet>
         <base loc="en">Unplayed Episodes</base>
-        <tran loc="es">Episodios no reproducidos</tran>
+        <tran loc="es-419">Episodios no reproducidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>COMPROMISED_DEVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Security Alert</base>
-        <tran loc="es">Aviso de seguridad de Bluetooth</tran>
+        <tran loc="es-419">Aviso de seguridad de Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>POWERBEATS3</Position>
       <TranslationSet>
         <base loc="en">Powerbeats³</base>
-        <tran loc="es">Powerbeats³</tran>
+        <tran loc="es-419">Powerbeats³</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>LE_BLACKLIST_ENABLED_BODY</Position>
       <TranslationSet>
         <base loc="en">You can allow new connections in Settings.</base>
-        <tran loc="es">Puedes permitir nuevas conexiones en Ajustes.</tran>
+        <tran loc="es-419">Puedes permitir nuevas conexiones en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>COMPILATIONS</Position>
       <TranslationSet>
         <base loc="en">Compilations</base>
-        <tran loc="es">Recopilaciones</tran>
+        <tran loc="es-419">Recopilaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>AUDIOBOOKS</Position>
       <TranslationSet>
         <base loc="en">Audiobooks</base>
-        <tran loc="es">Audiolibros</tran>
+        <tran loc="es-419">Audiolibros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>PLAYLISTS</Position>
       <TranslationSet>
         <base loc="en">Playlists</base>
-        <tran loc="es">Listas</tran>
+        <tran loc="es-419">Playlists</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>MISSED_CALL</Position>
       <TranslationSet>
         <base loc="en">Missed Call</base>
-        <tran loc="es">Llamada perdida</tran>
+        <tran loc="es-419">Llamada perdida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>CLEAR</Position>
       <TranslationSet>
         <base loc="en">Clear</base>
-        <tran loc="es">Borrar</tran>
+        <tran loc="es-419">Borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -239,7 +239,7 @@
       <Position>POWER_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On Bluetooth</base>
-        <tran loc="es">Activar Bluetooth</tran>
+        <tran loc="es-419">Turn On Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -247,7 +247,7 @@
       <Position>VIEW</Position>
       <TranslationSet>
         <base loc="en">View</base>
-        <tran loc="es">Ver</tran>
+        <tran loc="es-419">Ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -255,7 +255,7 @@
       <Position>GENIUS</Position>
       <TranslationSet>
         <base loc="en">Genius</base>
-        <tran loc="es">Genius</tran>
+        <tran loc="es-419">Genius</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -263,7 +263,7 @@
       <Position>COMPOSERS</Position>
       <TranslationSet>
         <base loc="en">Composers</base>
-        <tran loc="es">Compositores</tran>
+        <tran loc="es-419">Compositores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -271,7 +271,7 @@
       <Position>AUTHORIZE</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -279,7 +279,7 @@
       <Position>COMPROMISED_DEVICE_ALLOW</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -287,7 +287,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -295,7 +295,7 @@
       <Position>DIAL</Position>
       <TranslationSet>
         <base loc="en">Dial</base>
-        <tran loc="es">Marcar</tran>
+        <tran loc="es-419">Marcar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -303,7 +303,7 @@
       <Position>PAIR</Position>
       <TranslationSet>
         <base loc="en">Pair</base>
-        <tran loc="es">Enlazar</tran>
+        <tran loc="es-419">Enlazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -311,7 +311,7 @@
       <Position>RECENTLY_ADDED</Position>
       <TranslationSet>
         <base loc="en">Recently Added</base>
-        <tran loc="es">Añadido recientemente</tran>
+        <tran loc="es-419">Agregadas recientemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -319,7 +319,7 @@
       <Position>SOLO3</Position>
       <TranslationSet>
         <base loc="en">Beats Solo³</base>
-        <tran loc="es">Beats Solo³</tran>
+        <tran loc="es-419">Beats Solo³</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -327,7 +327,7 @@
       <Position>BEATSX</Position>
       <TranslationSet>
         <base loc="en">BeatsX</base>
-        <tran loc="es">BeatsX</tran>
+        <tran loc="es-419">BeatsX</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -335,7 +335,7 @@
       <Position>DISMISS</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -343,7 +343,7 @@
       <Position>RECEIVED_ATTACHMENTS</Position>
       <TranslationSet>
         <base loc="en">%u attachment(s)</base>
-        <tran loc="es">%u archivo(s) adjunto(s)</tran>
+        <tran loc="es-419">%u archivo(s) adjunto(s)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +351,7 @@
       <Position>PAIRING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Pairing Request</base>
-        <tran loc="es">Solicitud de enlace Bluetooth</tran>
+        <tran loc="es-419">Solicitud de enlace Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -359,7 +359,7 @@
       <Position>POWERBEATSPRO</Position>
       <TranslationSet>
         <base loc="en">Powerbeats Pro</base>
-        <tran loc="es">Powerbeats Pro</tran>
+        <tran loc="es-419">Powerbeats Pro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -367,7 +367,7 @@
       <Position>CLOSE</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -375,7 +375,7 @@
       <Position>MY_MUSIC</Position>
       <TranslationSet>
         <base loc="en">My Music</base>
-        <tran loc="es">Mi música</tran>
+        <tran loc="es-419">Mi música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +383,7 @@
       <Position>PODCASTS</Position>
       <TranslationSet>
         <base loc="en">Podcasts</base>
-        <tran loc="es">Podcasts</tran>
+        <tran loc="es-419">Podcasts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -391,7 +391,7 @@
       <Position>DECLINE</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Rechazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -399,7 +399,7 @@
       <Position>TURN_ON</Position>
       <TranslationSet>
         <base loc="en">Turn On</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -407,7 +407,7 @@
       <Position>SONGS</Position>
       <TranslationSet>
         <base loc="en">Songs</base>
-        <tran loc="es">Canciones</tran>
+        <tran loc="es-419">Canciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -415,7 +415,7 @@
       <Position>PASSKEY_ENTRY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to pair with your %@. Enter the code shown on “%@”.</base>
-        <tran loc="es">“%@” quiere enlazar con tu %@. Introduce el código que se muestra en “%@”.</tran>
+        <tran loc="es-419">“%@” quiere enlazarse con tu %@. Ingresa el código mostrado en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +423,7 @@
       <Position>JUST_WORKS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to pair with your %@.</base>
-        <tran loc="es">“%@” quiere enlazar con tu %@.</tran>
+        <tran loc="es-419">“%@” quiere enlazarse con tu %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +431,7 @@
       <Position>ANCS_AUTHORIZATION_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">When this accessory is connected, all the notifications you receive will appear on its display.</base>
-        <tran loc="es">Cuando este accesorio esté conectado, todas las notificaciones que recibas aparecerán en la pantalla.</tran>
+        <tran loc="es-419">Cuando este accesorio esté conectado, todas las notificaciones que recibas aparecerán en su pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +439,7 @@
       <Position>POWER_ALERT_BODY</Position>
       <TranslationSet>
         <base loc="en">To pair the connected accessory, Bluetooth must be turned on.</base>
-        <tran loc="es">Para enlazar el accesorio conectado, Bluetooth debe estar activado.</tran>
+        <tran loc="es-419">Para enlazar el accesorio conectado, se debe activar Bluetooth.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +447,7 @@
       <Position>ITUNES_U</Position>
       <TranslationSet>
         <base loc="en">iTunes U</base>
-        <tran loc="es">iTunes U</tran>
+        <tran loc="es-419">iTunes U</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +455,7 @@
       <Position>UNKNOWN_ALBUM</Position>
       <TranslationSet>
         <base loc="en">Unknown Album</base>
-        <tran loc="es">Álbum desconocido</tran>
+        <tran loc="es-419">Álbum desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +463,7 @@
       <Position>NUMERIC_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to pair with your %@. Confirm that the code “%06u” is shown on “%@”.</base>
-        <tran loc="es">“%@” quiere enlazar con tu %@. Confirma que el código “%06u” se muestra en “%@”.</tran>
+        <tran loc="es-419">“%@” quiere enlazarse con tu %@. Confirma que el código “%06u” se muestra en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +471,7 @@
       <Position>AIRPOD_CASE</Position>
       <TranslationSet>
         <base loc="en">AirPod Case</base>
-        <tran loc="es">Estuche de AirPods</tran>
+        <tran loc="es-419">Estuche de AirPods</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -479,7 +479,7 @@
       <Position>COMPROMISED_DEVICE_DONT_ALLOW</Position>
       <TranslationSet>
         <base loc="en">Don't Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -487,7 +487,7 @@
       <Position>UNAUTHORIZE</Position>
       <TranslationSet>
         <base loc="en">Don't Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -495,7 +495,7 @@
       <Position>VOICEMAIL</Position>
       <TranslationSet>
         <base loc="en">Voicemail</base>
-        <tran loc="es">Buzón de voz</tran>
+        <tran loc="es-419">Buzón de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -503,7 +503,7 @@
       <Position>POWERBEATS_PRO_CASE</Position>
       <TranslationSet>
         <base loc="en">Powerbeats Pro Case</base>
-        <tran loc="es">Estuche Powerbeats Pro</tran>
+        <tran loc="es-419">Estuche de Powerbeats Pro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +511,7 @@
       <Position>UNKNOWN_MEDIA_PLAYER</Position>
       <TranslationSet>
         <base loc="en">Unknown Media Player</base>
-        <tran loc="es">Reproductor desconocido</tran>
+        <tran loc="es-419">Reproductor desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -519,7 +519,7 @@
       <Position>COMPROMISED_DEVICE_AUTHORIZATION_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">\"%@\" is trying to connect using an unsecured Bluetooth connection. Unsecured Bluetooth accessories can be used to control your %@ or gain access to your data.</base>
-        <tran loc="es">%@ está intentando conectar usando una conexión Bluetooth no segura. Los accesorios Bluetooth no seguros se pueden usar para controlar tu %@ o acceder a tus datos.</tran>
+        <tran loc="es-419">"%@" está intentando conectarse usando una conexión Bluetooth no segura. Los accesorios Bluetooth no seguros se pueden usar para controlar tu %@ o acceder a tus datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +527,7 @@
       <Position>LE_POWER_OFF_HEADER</Position>
       <TranslationSet>
         <base loc="en">Turn On Bluetooth to Allow “%@” to Connect to Accessories</base>
-        <tran loc="es">Activa Bluetooth para permitir que “%@” se conecte a los accesorios</tran>
+        <tran loc="es-419">Activa Bluetooth para permitir que “%@” se conecte a los accesorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -535,7 +535,7 @@
       <Position>ANSWER</Position>
       <TranslationSet>
         <base loc="en">Answer</base>
-        <tran loc="es">Contestar</tran>
+        <tran loc="es-419">Responder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -543,7 +543,7 @@
       <Position>GENRES</Position>
       <TranslationSet>
         <base loc="en">Genres</base>
-        <tran loc="es">Géneros</tran>
+        <tran loc="es-419">Géneros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -551,7 +551,7 @@
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -559,7 +559,7 @@
       <Position>APP_LAUNCH_HEADER_DISCONNECTED</Position>
       <TranslationSet>
         <base loc="en">The “%@” accessory disconnected. Open “%@” to reconnect.</base>
-        <tran loc="es">El accesorio “%@” se ha desconectado. Abre %@ para volver a conectarlo.</tran>
+        <tran loc="es-419">Se desconectó el accesorio “%@”. Abre “%@” para volver a conectar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -567,7 +567,7 @@
       <Position>AIRPODS</Position>
       <TranslationSet>
         <base loc="en">AirPods</base>
-        <tran loc="es">AirPods</tran>
+        <tran loc="es-419">AirPods</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -578,7 +578,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -586,7 +586,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -594,7 +594,7 @@
       <Position>OLD_DEVICE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Please go to Settings to pair with “%@”</base>
-        <tran loc="es">Ve a Ajustes para enlazar con “%@”</tran>
+        <tran loc="es-419">Abre Configuración para enlazarte con “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -602,7 +602,7 @@
       <Position>OLD_DEVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unsupported Legacy Device</base>
-        <tran loc="es">Dispositivo antiguo incompatible</tran>
+        <tran loc="es-419">Dispositivo antiguo no compatible</tran>
       </TranslationSet>
     </TextItem>
   </File>

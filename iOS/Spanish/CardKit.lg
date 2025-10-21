@@ -8,7 +8,7 @@
       <Position>MESSAGE_RECIPIENTS_DELIMITER</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -23,7 +23,7 @@
       <Position>SEND_MESSAGE_TO_PREFIX</Position>
       <TranslationSet>
         <base loc="en">To: </base>
-        <tran loc="es">Para: </tran>
+        <tran loc="es-419">Para: </tran>
       </TranslationSet>
     </TextItem>
   </File>

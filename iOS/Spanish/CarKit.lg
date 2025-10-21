@@ -8,7 +8,7 @@
       <Position>ENHANCED_INTEGRATION_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Allow “%@” to Check for CarPlay Apps?</base>
-        <tran loc="es">¿Permitir que “%@” compruebe si hay apps de CarPlay?</tran>
+        <tran loc="es-419">¿Permitir a “%@” revisar si hay apps de CarPlay?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>DND_AUTOREPLY_DESC</Position>
       <TranslationSet>
         <base loc="en">Your iPhone can let your Favorites know that you’re driving by sending an automatic reply to incoming messages. You can choose who receives the reply and what it says in Settings.</base>
-        <tran loc="es">El iPhone puede informar a tus contactos favoritos de que estás conduciendo enviando una respuesta automática a los mensajes entrantes. En Ajustes puedes elegir quién recibe la respuesta y qué dice tu mensaje.</tran>
+        <tran loc="es-419">Tu iPhone avisa a tus Favoritos que vas al volante al responder automáticamente los mensajes entrantes. Puedes redactar la respuesta y elegir quién la recibe en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>DND_LEARN_MORE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Learn More</base>
-        <tran loc="es">Más información</tran>
+        <tran loc="es-419">Más información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>USE_CARPLAY_ALERT_ACCEPT_WLAN_ON</Position>
       <TranslationSet>
         <base loc="en">Turn on WLAN &amp; Use CarPlay</base>
-        <tran loc="es">Activar WLAN y usar CarPlay</tran>
+        <tran loc="es-419">Activa WLAN y usa CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>INTERNAL_SMART_WIDGET_SHOW_SCORE</Position>
       <TranslationSet>
         <base loc="en">Show Score for Smart Widget</base>
-        <tran loc="es">Mostrar puntuación del widget inteligente</tran>
+        <tran loc="es-419">Mostrar calificación del widget inteligente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>RECONNECT_OFF_ALERT_TITLE_WLAN</Position>
       <TranslationSet>
         <base loc="en">Turn On WLAN to Use Wireless CarPlay</base>
-        <tran loc="es">Activa WLAN para usar el modo inalámbrico de CarPlay</tran>
+        <tran loc="es-419">Activa WLAN para usar CarPlay inalámbrico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>DND_ALERT_OPT_IN_CALLOUT</Position>
       <TranslationSet>
         <base loc="en">Your iPhone can silence incoming notifications whenever you appear to be driving.</base>
-        <tran loc="es">El iPhone puede silenciar las notificaciones entrantes cuando parezca que estés conduciendo.</tran>
+        <tran loc="es-419">Tu iPhone puede silenciar las notificaciones si detecta que estás al volante.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>PAIRING_CARPLAY_ALERT_ACCEPT_BLUETOOTH_ON</Position>
       <TranslationSet>
         <base loc="en">Turn on Bluetooth &amp; Enable Wireless CarPlay</base>
-        <tran loc="es">Activar Bluetooth y CarPlay inalámbrico</tran>
+        <tran loc="es-419">Activar Bluetooth y permitir CarPlay inalámbrico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>USE_CARPLAY_ALERT_TITLE_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Use CarPlay?</base>
-        <tran loc="es">¿Usar CarPlay?</tran>
+        <tran loc="es-419">¿Usar CarPlay?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>DND_AUTO_REPLY_DEFAULT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">I’m driving with Do Not Disturb While Driving turned on. I’ll see your message when I get where I’m going.</base>
-        <tran loc="es">Estoy conduciendo con el modo “No molestar al conducir” activado. Veré tu mensaje cuando llegue a mi destino.</tran>
+        <tran loc="es-419">Voy al volante y activé "No molestar". Leo tu mensaje cuando llegue a mi destino.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>PAIRING_CARPLAY_ALERT_TITLE_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Use Wireless CarPlay?</base>
-        <tran loc="es">¿Usar CarPlay inalámbrico?</tran>
+        <tran loc="es-419">¿Usar CarPlay inalámbrico?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>PAIRING_CARPLAY_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use Wireless CarPlay with\n“%@”?</base>
-        <tran loc="es">¿Usar CarPlay inalámbrico con\n“%@”?</tran>
+        <tran loc="es-419">¿Usar CarPlay inalámbrico con\n“%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>ENHANCED_INTEGRATION_ALERT_ACCEPT</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>REMEMBER_CARPLAY_ALERT_ACCEPT</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>PAIRING_CARPLAY_ALERT_DONTUSE</Position>
       <TranslationSet>
         <base loc="en">Don’t Use CarPlay</base>
-        <tran loc="es">No usar CarPlay</tran>
+        <tran loc="es-419">No usar CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>USE_CARPLAY_ALERT_ACCEPT_WIFI_ON</Position>
       <TranslationSet>
         <base loc="en">Turn on Wi-Fi &amp; Use CarPlay</base>
-        <tran loc="es">Activar Wi-Fi y usar CarPlay</tran>
+        <tran loc="es-419">Activa Wi-Fi y usa CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>USE_CARPLAY_ALERT_ACCEPT</Position>
       <TranslationSet>
         <base loc="en">Use CarPlay</base>
-        <tran loc="es">Usar CarPlay</tran>
+        <tran loc="es-419">Usar CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>REMEMBER_CARPLAY_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Allow CarPlay with “%@” while phone is locked?</base>
-        <tran loc="es">¿Permitir CarPlay con “%@” mientras el teléfono está bloqueado?</tran>
+        <tran loc="es-419">¿Permitir CarPlay con “%@” mientras el teléfono esté bloqueado?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>PAIRING_CARPLAY_ALERT_DECLINE</Position>
       <TranslationSet>
         <base loc="en">Use USB Only</base>
-        <tran loc="es">Usar solo USB</tran>
+        <tran loc="es-419">Usar sólo USB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>DND_BUTTON_USE</Position>
       <TranslationSet>
         <base loc="en">Turn On While Driving</base>
-        <tran loc="es">Activar al conducir</tran>
+        <tran loc="es-419">Activar al ir al volante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>DND_BUTTON_LATER_SECOND</Position>
       <TranslationSet>
         <base loc="en">Set Up Later in Settings</base>
-        <tran loc="es">Configurar más tarde en Ajustes</tran>
+        <tran loc="es-419">Agregar después en Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>INTERNAL_ASSISTANT</Position>
       <TranslationSet>
         <base loc="en">Assistant</base>
-        <tran loc="es">Asistente</tran>
+        <tran loc="es-419">Asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>RECONNECT_OFF_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>DND_BUTTON_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Customize in Settings</base>
-        <tran loc="es">Personalizar en Ajustes</tran>
+        <tran loc="es-419">Personalizar en configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>REMEMBER_CARPLAY_ALERT_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Your contacts and other information will appear on this car’s display without unlocking your iPhone.</base>
-        <tran loc="es">Tus contactos y otros datos aparecerán en la pantalla de este coche sin necesidad de desbloquear el iPhone.</tran>
+        <tran loc="es-419">Tus contactos y otra información aparecerán en la pantalla de este automóvil sin que desbloquees tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>RECONNECT_OFF_ALERT_ACCEPT_WIFI</Position>
       <TranslationSet>
         <base loc="en">Turn On</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>RECONNECT_OFF_ALERT_ACCEPT_WLAN</Position>
       <TranslationSet>
         <base loc="en">Turn On</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>DND_BUTTON_LATER_FIRST</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>PAIRING_CARPLAY_ALERT_NOTNOW</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>REMEMBER_CARPLAY_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>USE_CARPLAY_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>ENHANCED_INTEGRATION_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Sharing which apps on your iPhone use CarPlay allows this car to quickly switch back to these apps in CarPlay. CarPlay will work without this.</base>
-        <tran loc="es">Compartir qué apps de tu iPhone usan CarPlay permite al coche volver rápidamente a ellas en CarPlay. CarPlay puede funcionar sin esta opción.</tran>
+        <tran loc="es-419">Compartir cuáles apps de tu iPhone pueden usar CarPlay permite que este auto regrese rápidamente a estas apps en CarPlay. CarPlay funciona de todas formas si no lo compartes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>USE_CARPLAY_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use CarPlay with\n“%@”?</base>
-        <tran loc="es">¿Usar CarPlay con\n“%@”?</tran>
+        <tran loc="es-419">¿Usar CarPlay con\n“%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>INTERNAL_SMART_WIDGET_RELAXED_INRANGE</Position>
       <TranslationSet>
         <base loc="en">Relaxed inRange check for Smart Widget</base>
-        <tran loc="es">Verificación inRange relajada del widget inteligente</tran>
+        <tran loc="es-419">Verificación de inRange relajada del widget inteligente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>ENHANCED_INTEGRATION_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>DND_ALERT_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb</base>
-        <tran loc="es">No molestar</tran>
+        <tran loc="es-419">No molestar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>DND_NAV_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb</base>
-        <tran loc="es">No molestar</tran>
+        <tran loc="es-419">No molestar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -313,7 +313,7 @@
       <Position>DND_DESC_1</Position>
       <TranslationSet>
         <base loc="en">Your iPhone can detect when you may be driving and automatically silence your incoming alerts and notifications.</base>
-        <tran loc="es">El iPhone puede detectar si estás conduciendo y silenciar automáticamente los avisos y notificaciones entrantes.</tran>
+        <tran loc="es-419">Tu iPhone puede detectar cuando podrías ir al volante y silenciar automáticamente las alertas y notificaciones entrantes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>INTERNAL_EXTEND_APPS_UNDER_STATUS_BAR</Position>
       <TranslationSet>
         <base loc="en">Extend Apps under Status Bar</base>
-        <tran loc="es">Ampliar apps en la barra de estado</tran>
+        <tran loc="es-419">Ampliar apps debajo de la barra de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>INTERNAL_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Internal Settings</base>
-        <tran loc="es">Ajustes internos</tran>
+        <tran loc="es-419">Configuración interna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>INTERNAL_APPS</Position>
       <TranslationSet>
         <base loc="en">Internal Apps</base>
-        <tran loc="es">Apps internas</tran>
+        <tran loc="es-419">Apps internas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>RECONNECT_OFF_ALERT_TITLE_WIFI</Position>
       <TranslationSet>
         <base loc="en">Turn On Wi-Fi to Use Wireless CarPlay</base>
-        <tran loc="es">Activa Wi-Fi para usar el modo inalámbrico de CarPlay</tran>
+        <tran loc="es-419">Activa Wi-Fi para usar CarPlay inalámbrico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>USE_CARPLAY_ALERT_MESSAGE_USB_IPHONE</Position>
       <TranslationSet>
         <base loc="en">CarPlay automatically connects your iPhone to your car’s built-in display when you plug into USB, and can access your phone while it is locked.</base>
-        <tran loc="es">CarPlay conecta automáticamente el iPhone a la pantalla de tu coche cuando está conectado por USB y te permite acceder al teléfono mientras está bloqueado.</tran>
+        <tran loc="es-419">CarPlay conecta automáticamente tu iPhone con la pantalla integrada del automóvil al conectarlo por USB y puedes acceder a su teléfono mientras esté bloqueado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>CARPLAY_LOCKSCREEN_TITLE</Position>
       <TranslationSet>
         <base loc="en">CarPlay</base>
-        <tran loc="es">CarPlay</tran>
+        <tran loc="es-419">CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>INTERNAL_NOW_PLAYING_ALBUM_ART</Position>
       <TranslationSet>
         <base loc="en">Now Playing Album Art</base>
-        <tran loc="es">Ilustración del álbum en reproducción</tran>
+        <tran loc="es-419">Portada del álbum de “Ahora suena”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>INTERNAL_SMART_WIDGET_GESTURES</Position>
       <TranslationSet>
         <base loc="en">Gestures for Smart Widget</base>
-        <tran loc="es">Gestos para el widget inteligente</tran>
+        <tran loc="es-419">Gestos para el widget inteligente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>DND_BUTTON_DONE</Position>
       <TranslationSet>
         <base loc="en">Turn On Auto-Reply</base>
-        <tran loc="es">Activar respuesta automática</tran>
+        <tran loc="es-419">Activar respuestas automáticas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>REMEMBER_CARPLAY_ALERT_TITLE_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Allow CarPlay while phone is locked?</base>
-        <tran loc="es">¿Permitir CarPlay mientras el teléfono está bloqueado?</tran>
+        <tran loc="es-419">¿Permitir CarPlay mientras el teléfono esté bloqueado?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>DND_AUTOREPLY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Auto-Reply</base>
-        <tran loc="es">Respuesta automática</tran>
+        <tran loc="es-419">Respuesta automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>INTERNAL_DASHBOARD</Position>
       <TranslationSet>
         <base loc="en">Dashboard</base>
-        <tran loc="es">Panel</tran>
+        <tran loc="es-419">Dashboard</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>DND_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb While Driving</base>
-        <tran loc="es">Modo “No molestar al conducir”</tran>
+        <tran loc="es-419">No molestar al ir al volante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>CARPLAY_LOCKSCREEN_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Unlock your iPhone to use CarPlay.</base>
-        <tran loc="es">Para usar CarPlay, desbloquea el iPhone.</tran>
+        <tran loc="es-419">Desbloquea tu iPhone para usar CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>PAIRING_CARPLAY_ALERT_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">CarPlay automatically connects your iPhone to your car’s built-in display, and can access your phone while it is locked.</base>
-        <tran loc="es">CarPlay conecta automáticamente el iPhone a la pantalla de tu coche y te permite acceder al teléfono mientras está bloqueado.</tran>
+        <tran loc="es-419">CarPlay conecta automáticamente tu iPhone con la pantalla integrada del automóvil y puedes acceder a su teléfono aunque esté bloqueado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>USE_CARPLAY_ALERT_MESSAGE_WIRELESS_IPHONE</Position>
       <TranslationSet>
         <base loc="en">CarPlay automatically connects your iPhone to your car’s built-in display, and can access your phone while it is locked.</base>
-        <tran loc="es">CarPlay conecta automáticamente el iPhone a la pantalla de tu coche y te permite acceder al teléfono mientras está bloqueado.</tran>
+        <tran loc="es-419">CarPlay conecta automáticamente tu iPhone con la pantalla integrada del automóvil y puedes acceder a su teléfono aunque esté bloqueado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>PAIRING_CARPLAY_ALERT_ACCEPT</Position>
       <TranslationSet>
         <base loc="en">Enable Wireless CarPlay</base>
-        <tran loc="es">Activar CarPlay inalámbrico</tran>
+        <tran loc="es-419">Activar CarPlay inalámbrico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>DND_BUTTON_LATER_AUTO_REPLY</Position>
       <TranslationSet>
         <base loc="en">Set Up Later</base>
-        <tran loc="es">Configurar más tarde</tran>
+        <tran loc="es-419">Configurar más tarde</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -481,7 +481,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb While Driving</base>
-        <tran loc="es">Modo “No molestar al conducir”</tran>
+        <tran loc="es-419">No molestar al ir al volante</tran>
       </TranslationSet>
     </TextItem>
   </File>

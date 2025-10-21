@@ -8,7 +8,7 @@
       <Position>/%u more upcoming events:dict/notifications_count:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u more upcoming events</base>
-        <tran loc="es">%u eventos próximos más</tran>
+        <tran loc="es-419">%u eventos pendientes más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/%u more upcoming events:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@notifications_count@</base>
-        <tran loc="es">%#@notifications_count@</tran>
+        <tran loc="es-419">%#@notifications_count@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/%u more upcoming events:dict/notifications_count:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u more upcoming event</base>
-        <tran loc="es">%u evento próximo más</tran>
+        <tran loc="es-419">%u evento pendiente más</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -35,7 +35,7 @@
       <Position>(coolcat)</Position>
       <TranslationSet>
         <base loc="en">(coolcat)</base>
-        <tran loc="es">(coolcat)</tran>
+        <tran loc="es-419">(gatito)</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -46,7 +46,7 @@
       <Position>notification.hiddenPreviewsBodyPlaceholder.resourceChange</Position>
       <TranslationSet>
         <base loc="en">Shared Event Change</base>
-        <tran loc="es">Cambio en evento compartido</tran>
+        <tran loc="es-419">Cambio de evento compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>Delete button for a canceled suggested event</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>EventCanceledDeleteButton</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>Flight airline and number format (ie: Delta Airlines DL1583)</Position>
       <TranslationSet>
         <base loc="en">%@ %@</base>
-        <tran loc="es">%@ %@</tran>
+        <tran loc="es-419">%@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>%@ has arrived</Position>
       <TranslationSet>
         <base loc="en">%@ has arrived</base>
-        <tran loc="es">El vuelo %@ ha aterrizado</tran>
+        <tran loc="es-419">%@ ya aterrizó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>Canceled by %@</Position>
       <TranslationSet>
         <base loc="en">Canceled by %@</base>
-        <tran loc="es">Cancelado por %@</tran>
+        <tran loc="es-419">Cancelada por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>EventNotificationEmailSenderButton</Position>
       <TranslationSet>
         <base loc="en">Email Sender</base>
-        <tran loc="es">Enviar correo</tran>
+        <tran loc="es-419">Remitente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>EventInvitationAcceptButton</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>EventInvitationNotificationAcceptButton</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>Suggested Location: %@</Position>
       <TranslationSet>
         <base loc="en">Suggested Location: %@</base>
-        <tran loc="es">Ubicación sugerida: %@</tran>
+        <tran loc="es-419">Ubicación sugerida: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>Snooze</Position>
       <TranslationSet>
         <base loc="en">Snooze</base>
-        <tran loc="es">Posponer</tran>
+        <tran loc="es-419">Posponer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>EventInvitationNotificationReportJunkButton</Position>
       <TranslationSet>
         <base loc="en">Report Junk</base>
-        <tran loc="es">No deseado</tran>
+        <tran loc="es-419">Reportar como no deseado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>SharedCalendarInvitationReportJunkButton</Position>
       <TranslationSet>
         <base loc="en">Report Junk</base>
-        <tran loc="es">No deseado</tran>
+        <tran loc="es-419">Reportar como no deseado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>Invitation to share a calendar with %@.</Position>
       <TranslationSet>
         <base loc="en">Invitation to share a calendar with %@.</base>
-        <tran loc="es">Invitación para compartir un calendario con %@.</tran>
+        <tran loc="es-419">Invitación para compartir un calendario con %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>CalendarNotificationJoinButton</Position>
       <TranslationSet>
         <base loc="en">Join</base>
-        <tran loc="es">Unirme</tran>
+        <tran loc="es-419">Unirme</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>SharedCalendarInvitationJoinButton</Position>
       <TranslationSet>
         <base loc="en">Join</base>
-        <tran loc="es">Unirme</tran>
+        <tran loc="es-419">Unirme</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>Directions</Position>
       <TranslationSet>
         <base loc="en">Directions</base>
-        <tran loc="es">Ruta</tran>
+        <tran loc="es-419">Cómo llegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>Location changed to %@</Position>
       <TranslationSet>
         <base loc="en">Location changed to %@</base>
-        <tran loc="es">La ubicación ha cambiado a %@</tran>
+        <tran loc="es-419">La ubicación cambió a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>CalendarNotificationOKButton</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>Shared Calendar Invitation</Position>
       <TranslationSet>
         <base loc="en">Shared Calendar Invitation</base>
-        <tran loc="es">Invitación del calendario compartido</tran>
+        <tran loc="es-419">Invitación a calendario compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>CalendarNotificationViewButton</Position>
       <TranslationSet>
         <base loc="en">View</base>
-        <tran loc="es">Ver</tran>
+        <tran loc="es-419">Ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>For %@</Position>
       <TranslationSet>
         <base loc="en">For %@</base>
-        <tran loc="es">Para %@</tran>
+        <tran loc="es-419">De %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>%@ is scheduled to depart %@ minutes late</Position>
       <TranslationSet>
         <base loc="en">%@ is scheduled to depart %@ minutes late</base>
-        <tran loc="es">Está programado que el vuelo %@ salga con %@ minutos de retraso</tran>
+        <tran loc="es-419">%@ está programado para salir %@ minutos tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>Reminders</Position>
       <TranslationSet>
         <base loc="en">Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>Unknown Sender</Position>
       <TranslationSet>
         <base loc="en">Unknown Sender</base>
-        <tran loc="es">Remitente desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>Shared Calendar Change</Position>
       <TranslationSet>
         <base loc="en">Shared Calendar Change</base>
-        <tran loc="es">Cambio en calendario compartido</tran>
+        <tran loc="es-419">Cambio en calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>Flight Update</Position>
       <TranslationSet>
         <base loc="en">Flight Update</base>
-        <tran loc="es">Actualización del vuelo</tran>
+        <tran loc="es-419">Actualización de vuelo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>Invitation From %@</Position>
       <TranslationSet>
         <base loc="en">Invitation From %@</base>
-        <tran loc="es">Invitación de %@</tran>
+        <tran loc="es-419">Invitación de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>Add to calendar button for a suggested event</Position>
       <TranslationSet>
         <base loc="en">Add to Calendar</base>
-        <tran loc="es">Añadir a Calendario</tran>
+        <tran loc="es-419">Agregar al calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>notification.hiddenPreviewsBodyPlaceholder.upcomingEvent</Position>
       <TranslationSet>
         <base loc="en">Upcoming Event</base>
-        <tran loc="es">Evento pendiente</tran>
+        <tran loc="es-419">Próximo evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>EventInvitationNotificationDeclineButton</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Declinar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>SharedCalendarInvitationDeclineButton</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Declinar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>%ld notifications for %@</Position>
       <TranslationSet>
         <base loc="en">%ld notifications for %@</base>
-        <tran loc="es">%ld notificaciones para %@</tran>
+        <tran loc="es-419">%ld notificaciones de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>EventInvitationNotificationDefaultTitle</Position>
       <TranslationSet>
         <base loc="en">Invitation</base>
-        <tran loc="es">Invitación</tran>
+        <tran loc="es-419">Invitación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>notification.hiddenPreviewsBodyPlaceholder.calendar.invitation</Position>
       <TranslationSet>
         <base loc="en">Invitation</base>
-        <tran loc="es">Invitación</tran>
+        <tran loc="es-419">Invitación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>notification.hiddenPreviewsBodyPlaceholder.event.invitation</Position>
       <TranslationSet>
         <base loc="en">Invitation</base>
-        <tran loc="es">Invitación</tran>
+        <tran loc="es-419">Invitación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>%@ is scheduled to arrive %@ minutes early</Position>
       <TranslationSet>
         <base loc="en">%@ is scheduled to arrive %@ minutes early</base>
-        <tran loc="es">Está programado que el vuelo %@ llegue con %@ minutos de antelación</tran>
+        <tran loc="es-419">%@ está programado para llegar %@ minutos antes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>EventInvitationNotificationMaybeButton</Position>
       <TranslationSet>
         <base loc="en">Maybe</base>
-        <tran loc="es">Quizá</tran>
+        <tran loc="es-419">Quizá</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>Location removed</Position>
       <TranslationSet>
         <base loc="en">Location removed</base>
-        <tran loc="es">La ubicación se ha eliminado</tran>
+        <tran loc="es-419">La ubicación se eliminó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>Ignore</Position>
       <TranslationSet>
         <base loc="en">Ignore</base>
-        <tran loc="es">Ignorar</tran>
+        <tran loc="es-419">Ignorar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>Ignore button for a suggested event</Position>
       <TranslationSet>
         <base loc="en">Ignore</base>
-        <tran loc="es">Ignorar</tran>
+        <tran loc="es-419">Ignorar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>EventNotificationDefaultTitleAttendeeReply</Position>
       <TranslationSet>
         <base loc="en">Attendee Response</base>
-        <tran loc="es">Respuesta del asistente</tran>
+        <tran loc="es-419">Respuesta del asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>%@ is scheduled to depart %@ minutes early</Position>
       <TranslationSet>
         <base loc="en">%@ is scheduled to depart %@ minutes early</base>
-        <tran loc="es">Está programado que el vuelo %@ salga con %@ minutos de antelación</tran>
+        <tran loc="es-419">%@ está programado para salir %@ minutos antes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>%@ has been canceled</Position>
       <TranslationSet>
         <base loc="en">%@ has been canceled</base>
-        <tran loc="es">El vuelo %@ se ha cancelado</tran>
+        <tran loc="es-419">%@ se canceló</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>%@ is scheduled to arrive %@ minutes late</Position>
       <TranslationSet>
         <base loc="en">%@ is scheduled to arrive %@ minutes late</base>
-        <tran loc="es">Está programado que el vuelo %@ llegue con %@ minutos de retraso</tran>
+        <tran loc="es-419">%@ está programado para llegar %@ minutos tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@
       <Position>Calendar</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@
       <Position>Time changed to %@</Position>
       <TranslationSet>
         <base loc="en">Time changed to %@</base>
-        <tran loc="es">La hora ha cambiado a %@</tran>
+        <tran loc="es-419">Hora cambiada a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -422,7 +422,7 @@
       <Position>Date changed to %@</Position>
       <TranslationSet>
         <base loc="en">Date changed to %@</base>
-        <tran loc="es">La fecha ha cambiado a %@</tran>
+        <tran loc="es-419">Fecha cambiada a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -430,7 +430,7 @@
       <Position>Email sender unknown title</Position>
       <TranslationSet>
         <base loc="en">Event</base>
-        <tran loc="es">Evento</tran>
+        <tran loc="es-419">Evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@
       <Position>Event</Position>
       <TranslationSet>
         <base loc="en">Event</base>
-        <tran loc="es">Evento</tran>
+        <tran loc="es-419">Evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -446,7 +446,7 @@
       <Position>Join Meeting</Position>
       <TranslationSet>
         <base loc="en">Join Meeting</base>
-        <tran loc="es">Unirse a la reunión</tran>
+        <tran loc="es-419">Unirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@
       <Position>notification.hiddenPreviewsBodyPlaceholder.calendar.invitationResponse</Position>
       <TranslationSet>
         <base loc="en">Invitation Response</base>
-        <tran loc="es">Respuesta a la invitación</tran>
+        <tran loc="es-419">Respuesta a la invitación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@
       <Position>notification.hiddenPreviewsBodyPlaceholder.event.invitationResponse</Position>
       <TranslationSet>
         <base loc="en">Invitation Response</base>
-        <tran loc="es">Respuesta a la invitación</tran>
+        <tran loc="es-419">Respuesta a la invitación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@
       <Position>You have %ld unread notifications.</Position>
       <TranslationSet>
         <base loc="en">You have %ld unread notifications.</base>
-        <tran loc="es">Tienes %ld notificaciones sin leer.</tran>
+        <tran loc="es-419">Tienes %ld notificaciones sin leer.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -481,7 +481,7 @@
       <Position>TopicDisplayNameInviteeResponses</Position>
       <TranslationSet>
         <base loc="en">Invitee Responses</base>
-        <tran loc="es">Respuestas de los invitados</tran>
+        <tran loc="es-419">Respuestas de invitados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>TopicDisplayNameInvitations</Position>
       <TranslationSet>
         <base loc="en">Invitations</base>
-        <tran loc="es">Invitaciones</tran>
+        <tran loc="es-419">Invitaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>TopicDisplayNameSiriFoundInApps</Position>
       <TranslationSet>
         <base loc="en">Siri Found in Apps</base>
-        <tran loc="es">Encontrado en apps por Siri</tran>
+        <tran loc="es-419">Siri encontró esto en apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>TopicDisplayNameSharedCalendarChanges</Position>
       <TranslationSet>
         <base loc="en">Shared Calendar Changes</base>
-        <tran loc="es">Cambios en calendarios compartidos</tran>
+        <tran loc="es-419">Cambios en calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -514,7 +514,7 @@
       <Position>TopicDisplayNameUpcomingEvents</Position>
       <TranslationSet>
         <base loc="en">Upcoming Events</base>
-        <tran loc="es">Eventos pendientes</tran>
+        <tran loc="es-419">Eventos próximos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -540,7 +540,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
   </File>

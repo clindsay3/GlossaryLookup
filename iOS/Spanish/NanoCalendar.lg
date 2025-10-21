@@ -8,7 +8,7 @@
       <Position>INVITEE_RESPONSES</Position>
       <TranslationSet>
         <base loc="en">Invitee Responses</base>
-        <tran loc="es">Respuestas de invitados</tran>
+        <tran loc="es-419">Respuestas de invitados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>INVITATIONS</Position>
       <TranslationSet>
         <base loc="en">Invitations</base>
-        <tran loc="es">Invitaciones</tran>
+        <tran loc="es-419">Invitaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>SHARED_CALENDAR_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Shared Calendar Alerts</base>
-        <tran loc="es">Uso compartido</tran>
+        <tran loc="es-419">Calendario compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>UPCOMING_EVENTS</Position>
       <TranslationSet>
         <base loc="en">Upcoming Events</base>
-        <tran loc="es">Eventos próximos</tran>
+        <tran loc="es-419">Próximos eventos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -49,7 +49,7 @@
       <Position>NOTIFICATIONS_GROUP_HEADER</Position>
       <TranslationSet>
         <base loc="en">NOTIFICATIONS</base>
-        <tran loc="es">NOTIFICACIONES</tran>
+        <tran loc="es-419">NOTIFICACIONES</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>SHOW_INVITATION_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Show Invitation Alerts</base>
-        <tran loc="es">Mostrar avisos de invitaciones</tran>
+        <tran loc="es-419">Mostrar alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>CALENDAR_TIME_ZONE</Position>
       <TranslationSet>
         <base loc="en">Time Zone</base>
-        <tran loc="es">Zona horaria</tran>
+        <tran loc="es-419">Zona horaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>DEFAULT_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Default Calendar</base>
-        <tran loc="es">Calendario por omisión</tran>
+        <tran loc="es-419">Calendario por omisión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>DONT_SHOW_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Don’t show alerts</base>
-        <tran loc="es">No mostrar avisos</tran>
+        <tran loc="es-419">No mostrar alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>INVITEE_RESPONSES</Position>
       <TranslationSet>
         <base loc="en">Invitee Responses</base>
-        <tran loc="es">Respuestas de invitados</tran>
+        <tran loc="es-419">Respuestas de invitados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>VIBRATION</Position>
       <TranslationSet>
         <base loc="en">Haptic</base>
-        <tran loc="es">Vibración</tran>
+        <tran loc="es-419">Vibración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>INVITATIONS</Position>
       <TranslationSet>
         <base loc="en">Invitations</base>
-        <tran loc="es">Invitaciones</tran>
+        <tran loc="es-419">Invitaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>SHOW_SHARED_CALENDAR_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Show Shared Calendar Alerts</base>
-        <tran loc="es">Avisar de uso compartido</tran>
+        <tran loc="es-419">Mostrar alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>SHOW_INVITEE_RESPONSE_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Show Invitee Response Alerts</base>
-        <tran loc="es">Avisar de respuestas</tran>
+        <tran loc="es-419">Mostrar alertas de respuesta de invitado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>TIMEZONE_OVERRIDE_TEXT</Position>
       <TranslationSet>
         <base loc="en">The Time Zone Override always shows event dates and times in the selected time zone.\n\nWhen off, events will display according to the time zone of your current location.</base>
-        <tran loc="es">Con la prevalencia de zona horaria activada, las fechas y las horas de los eventos corresponden siempre a la zona horaria seleccionada.\n\nSi la prevalencia de zona horaria está desactivada, los eventos se adaptan a la zona horaria de tu ubicación actual.</tran>
+        <tran loc="es-419">La anulación de zona horaria muestra fechas y horarios de los eventos en la zona horaria seleccionada.\n\nSi se desactiva, los eventos se mostrarán de acuerdo con la zona horaria de tu ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>SOUND</Position>
       <TranslationSet>
         <base loc="en">Sound</base>
-        <tran loc="es">Sonido</tran>
+        <tran loc="es-419">Sonido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>SETTING_DESCRIPTION_LINE_FORMAT_NO_COLON</Position>
       <TranslationSet>
         <base loc="en">• %@\n</base>
-        <tran loc="es">• %@\n</tran>
+        <tran loc="es-419">• %@\n</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>SHOW_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Show alerts</base>
-        <tran loc="es">Mostrar avisos</tran>
+        <tran loc="es-419">Mostrar alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>SHOW_UPCOMING_EVENT_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Show Upcoming Event Alerts</base>
-        <tran loc="es">Avisar de eventos próximos</tran>
+        <tran loc="es-419">Mostrar alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>DEFAULT_CALENDAR_EXPLANATORY</Position>
       <TranslationSet>
         <base loc="en">New events created outside of a specific calendar will default to this calendar.</base>
-        <tran loc="es">Los nuevos eventos creados sin especificar ningún calendario se añadirán por omisión a este.</tran>
+        <tran loc="es-419">Los nuevos eventos creados sin especificar ningún calendario se agregarán a este calendario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>CALENDARS_CUSTOM</Position>
       <TranslationSet>
         <base loc="en">Custom…</base>
-        <tran loc="es">Personalizar…</tran>
+        <tran loc="es-419">Personalizar…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>TIME_ZONE_SUPPORT</Position>
       <TranslationSet>
         <base loc="en">Time Zone Support</base>
-        <tran loc="es">Soporte de zona horaria</tran>
+        <tran loc="es-419">Soporte para zonas horarias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>CALENDARS_MIRROR_MY_COMPANION</Position>
       <TranslationSet>
         <base loc="en">Mirror my iPhone</base>
-        <tran loc="es">Duplicar iPhone</tran>
+        <tran loc="es-419">Duplicar mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>SIRI_FOUND_IN_APPS</Position>
       <TranslationSet>
         <base loc="en">Siri Found in Apps</base>
-        <tran loc="es">Encontrado en apps por Siri</tran>
+        <tran loc="es-419">Siri encontró esto en apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>SHARED_CALENDAR_CHANGES</Position>
       <TranslationSet>
         <base loc="en">Shared Calendar Changes</base>
-        <tran loc="es">Cambios en calendarios compartidos</tran>
+        <tran loc="es-419">Cambios en calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>SHARED_CALENDAR_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Shared Calendar Alerts</base>
-        <tran loc="es">Uso compartido</tran>
+        <tran loc="es-419">Calendario compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>SETTING_DESCRIPTION_LINE_FORMAT_WITH_COLON</Position>
       <TranslationSet>
         <base loc="en">• %@: %@\n</base>
-        <tran loc="es">• %@: %@\n</tran>
+        <tran loc="es-419">• %@: %@\n</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>UPCOMING_EVENTS</Position>
       <TranslationSet>
         <base loc="en">Upcoming Events</base>
-        <tran loc="es">Eventos próximos</tran>
+        <tran loc="es-419">Próximos eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>TIME_ZONE_OVERRIDE_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Time Zone Override</base>
-        <tran loc="es">Prevalencia de zona horaria</tran>
+        <tran loc="es-419">Anulación de zona horaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>CALENDARS_GROUP_HEADER</Position>
       <TranslationSet>
         <base loc="en">CALENDARS</base>
-        <tran loc="es">CALENDARIOS</tran>
+        <tran loc="es-419">CALENDARIOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -271,7 +271,7 @@
       <Position>PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -279,7 +279,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -287,7 +287,7 @@
       <Position>TIMEZONE_REGION_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -295,7 +295,7 @@
       <Position>TIMEZONE_SUPPORT_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -14,7 +14,7 @@
       <Position>fido iPhone Page_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">fido iPhone Page</base>
-        <tran loc="es">Página iPhone de fido</tran>
+        <tran loc="es-419">Página iPhone de fido</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -31,7 +31,7 @@
       <Position>Rogers iPhone Page_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">Rogers iPhone Page</base>
-        <tran loc="es">Página iPhone de Rogers</tran>
+        <tran loc="es-419">Página iPhone de Rogers</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -42,7 +42,7 @@
       <Position>My SoftBank_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">My SoftBank</base>
-        <tran loc="es">My SoftBank</tran>
+        <tran loc="es-419">My SoftBank</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -50,7 +50,7 @@
       <Position>留守番電話設定（ガイダンスへ接続）_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Set up Voicemail</base>
-        <tran loc="es">Configurar buzón de voz</tran>
+        <tran loc="es-419">Configurar buzón de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>留守番電話 ON_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voicemail ON</base>
-        <tran loc="es">Buzón de voz: SÍ</tran>
+        <tran loc="es-419">Buzón de voz: sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>留守番電話 OFF_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voicemail OFF</base>
-        <tran loc="es">Buzón de voz: NO</tran>
+        <tran loc="es-419">Buzón de voz: no</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -83,7 +83,7 @@
       <Position>Pay My Bill_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Pay My Bill</base>
-        <tran loc="es">Pagar factura</tran>
+        <tran loc="es-419">Pagar factura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>Directory Assistance_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Directory Assistance</base>
-        <tran loc="es">Información telefónica</tran>
+        <tran loc="es-419">Información telefónica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>Check Bill Balance_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Check Bill Balance</base>
-        <tran loc="es">Comprobar facturación</tran>
+        <tran loc="es-419">Comprobar facturación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>AT&amp;T MyAccount_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">AT&amp;T MyAccount</base>
-        <tran loc="es">AT&amp;T MyAccount</tran>
+        <tran loc="es-419">AT&amp;T MyAccount</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>Voice Connect_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voice Connect</base>
-        <tran loc="es">Conexión de voz</tran>
+        <tran loc="es-419">Conexión de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>View My Data and Msg_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">View My Data and Msg</base>
-        <tran loc="es">Ver datos y mensajes</tran>
+        <tran loc="es-419">Ver datos y mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>View My Minutes_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">View My Minutes</base>
-        <tran loc="es">Ver minutos</tran>
+        <tran loc="es-419">Ver minutos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -154,7 +154,7 @@
       <Position>Rogers iPhone Page_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">Rogers iPhone Page</base>
-        <tran loc="es">Página iPhone de Rogers</tran>
+        <tran loc="es-419">Página iPhone de Rogers</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -165,7 +165,7 @@
       <Position>Pay My Bill_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Pay My Bill</base>
-        <tran loc="es">Pagar factura</tran>
+        <tran loc="es-419">Pagar factura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -173,7 +173,7 @@
       <Position>Directory Assistance_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Directory Assistance</base>
-        <tran loc="es">Información telefónica</tran>
+        <tran loc="es-419">Información telefónica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>Check Bill Balance_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Check Bill Balance</base>
-        <tran loc="es">Comprobar facturación</tran>
+        <tran loc="es-419">Comprobar facturación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>AT&amp;T MyAccount_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">AT&amp;T MyAccount</base>
-        <tran loc="es">AT&amp;T MyAccount</tran>
+        <tran loc="es-419">AT&amp;T MyAccount</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>Voice Connect_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voice Connect</base>
-        <tran loc="es">Conexión de voz</tran>
+        <tran loc="es-419">Conexión de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>View My Minutes_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">View My Minutes</base>
-        <tran loc="es">Ver minutos</tran>
+        <tran loc="es-419">Ver minutos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -222,7 +222,7 @@
       <Position>My SoftBank_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">My SoftBank</base>
-        <tran loc="es">My SoftBank</tran>
+        <tran loc="es-419">My SoftBank</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>留守番電話設定（ガイダンスへ接続）_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Set up Voicemail</base>
-        <tran loc="es">Configurar buzón de voz</tran>
+        <tran loc="es-419">Configurar buzón de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +244,7 @@
       <Position>留守番電話 ON_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voicemail ON</base>
-        <tran loc="es">Buzón de voz: SÍ</tran>
+        <tran loc="es-419">Buzón de voz: sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +252,7 @@
       <Position>留守番電話 OFF_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voicemail OFF</base>
-        <tran loc="es">Buzón de voz: NO</tran>
+        <tran loc="es-419">Buzón de voz: no</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -269,7 +269,7 @@
       <Position>chatr Page_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">chatr Page</base>
-        <tran loc="es">Página de chatr</tran>
+        <tran loc="es-419">Página de chatr</tran>
       </TranslationSet>
     </TextItem>
   </File>

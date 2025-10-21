@@ -48,7 +48,7 @@
       <Position>BROKEN_BACKHAUL_HEADER_FORMAT</Position>
       <TranslationSet>
         <base loc="en">The Wi-Fi network “%@” does not appear to be connected to the Internet</base>
-        <tran loc="es">La red Wi-Fi “%@” no parece estar conectada a internet</tran>
+        <tran loc="es-419">La red Wi-Fi “%@” no parece tener conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>BROKEN_BACKHAUL_ALTERNATE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Keep Trying Wi-Fi</base>
-        <tran loc="es">Seguir probando Wi-Fi</tran>
+        <tran loc="es-419">Seguir intentando con Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>BROKEN_BACKHAUL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Do you want to temporarily use cellular data?</base>
-        <tran loc="es">¿Quieres usar temporalmente los datos móviles?</tran>
+        <tran loc="es-419">¿Quieres usar datos celulares temporalmente?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>BROKEN_BACKHAUL_MESSAGE_CH</Position>
       <TranslationSet>
         <base loc="en">Do you want to temporarily use cellular data?</base>
-        <tran loc="es">¿Quieres usar temporalmente los datos móviles?</tran>
+        <tran loc="es-419">¿Quieres usar datos celulares temporalmente?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>BROKEN_BACKHAUL_HEADER_FORMAT_CH</Position>
       <TranslationSet>
         <base loc="en">The WLAN network “%@” does not appear to be connected to the Internet</base>
-        <tran loc="es">La red WLAN “%@” no parece estar conectada a internet</tran>
+        <tran loc="es-419">La red WLAN “%@” no parece tener conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>BROKEN_BACKHAUL_ALTERNATE_BUTTON_CH</Position>
       <TranslationSet>
         <base loc="en">Keep Trying WLAN</base>
-        <tran loc="es">Seguir probando WLAN</tran>
+        <tran loc="es-419">Seguir intentando con WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>BROKEN_BACKHAUL_DEFAULT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Use Cellular Data</base>
-        <tran loc="es">Usar datos móviles</tran>
+        <tran loc="es-419">Usar datos celulares</tran>
       </TranslationSet>
     </TextItem>
   </File>

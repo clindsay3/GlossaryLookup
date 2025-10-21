@@ -8,7 +8,7 @@
       <Position>FIT_TEST_WELCOME_DETAIL</Position>
       <TranslationSet>
         <base loc="en">For the best acoustic performance, AirPods ear tips should create a complete seal when placed in your ears.</base>
-        <tran loc="es">Para ofrecer el mejor rendimiento acústico, las almohadillas de los AirPods deben ajustarse perfectamente a tus oídos.</tran>
+        <tran loc="es-419">Para obtener un mejor rendimiento acústico, las almohadillas de los AirPods deben formar un sello que aísle tus oídos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,8 +16,7 @@
       <Position>FIT_TEST_WELCOME_HEADER</Position>
       <TranslationSet>
         <base loc="en">Test the Fit of Your Ear Tips</base>
-        <tran loc="es">Comprueba el ajuste
-de tus almohadillas</tran>
+        <tran loc="es-419">Prueba de ajuste de almohadillas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -25,7 +24,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_POOR_RESULT</Position>
       <TranslationSet>
         <base loc="en">Adjust or Try\n a Different\n Ear Tip</base>
-        <tran loc="es">Ajústatelo\n o cambia la\n almohadilla</tran>
+        <tran loc="es-419">Ajusta o intenta con otra goma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -33,7 +32,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_LEFT_GOOD_RIGHT_POOR_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Try adjusting the right AirPod in your ear, or change the ear tip size and try the test again.\n\nYou should use the ear tip that is most comfortable in each ear.</base>
-        <tran loc="es">Ajústate el AirPod derecho en el oído o utiliza una almohadilla de otro tamaño y vuelve a hacer la prueba.\n\nSe recomienda que uses la almohadilla más cómoda para cada oído.</tran>
+        <tran loc="es-419">Intenta ajustar el AirPod derecho en tu oído, o usa una almohadilla de otro tamaño y vuelve a realizar la prueba.\n\nUsa la almohadilla que sientas más cómoda en cada oreja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +40,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_WELCOME_BULLET2_DETAIL</Position>
       <TranslationSet>
         <base loc="en">A good seal will keep noise from leaking in or out and results in better noise cancellation.</base>
-        <tran loc="es">Un ajuste adecuado impedirá la filtración del ruido, lo que se traduce en una mejor cancelación de ruido.</tran>
+        <tran loc="es-419">Un sello ideal impedirá que se filtren sonidos y mejorará la cancelación de ruido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -49,7 +48,7 @@ de tus almohadillas</tran>
       <Position>NOISE_CONTROL_HEADER</Position>
       <TranslationSet>
         <base loc="en">NOISE CONTROL</base>
-        <tran loc="es">CONTROL DE RUIDO</tran>
+        <tran loc="es-419">CONTROL DE RUIDO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +56,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_BOTH_GOOD_DETAIL</Position>
       <TranslationSet>
         <base loc="en">The ear tips you’re using are a good fit for both ears.</base>
-        <tran loc="es">Las almohadillas que estás usando se adaptan bien a los dos oídos.</tran>
+        <tran loc="es-419">Las almohadillas que estás usando sellan idealmente ambos oídos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +64,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_RESULTS_HEADER</Position>
       <TranslationSet>
         <base loc="en">Ear Tip Fit Results</base>
-        <tran loc="es">Resultado de la prueba de ajuste</tran>
+        <tran loc="es-419">Resultados de la prueba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +72,7 @@ de tus almohadillas</tran>
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +80,7 @@ de tus almohadillas</tran>
       <Position>LEFT</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierdo</tran>
+        <tran loc="es-419">Izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +88,7 @@ de tus almohadillas</tran>
       <Position>ACTIVE_PASS_THROUGH</Position>
       <TranslationSet>
         <base loc="en">Transparency</base>
-        <tran loc="es">Ambiente</tran>
+        <tran loc="es-419">Ambiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +96,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_WELCOME_BULLET1_DETAIL</Position>
       <TranslationSet>
         <base loc="en">A good seal will improve overall audio quality with deeper bass and richer low frequencies.</base>
-        <tran loc="es">Un ajuste adecuado mejorará la calidad de audio general con graves más potentes y frecuencias bajas más intensas.</tran>
+        <tran loc="es-419">Un sello ideal mejorará la calidad de audio general con graves más profundos y bajas frecuencias más robustas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +104,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_GOOD_RESULT</Position>
       <TranslationSet>
         <base loc="en">Good Seal</base>
-        <tran loc="es">Buen ajuste</tran>
+        <tran loc="es-419">Sello ideal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +112,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_WELCOME_BULLET1_HEADER</Position>
       <TranslationSet>
         <base loc="en">Audio Quality</base>
-        <tran loc="es">Calidad de audio</tran>
+        <tran loc="es-419">Calidad del audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +120,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_BOTH_POOR_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Adjust both AirPods in your ears, or try another ear tip size and run the test again.\n\nYou should use the ear tips that are most comfortable in each ear.</base>
-        <tran loc="es">Ajústate los AirPods en los oídos o utiliza almohadillas de otro tamaño y vuelve a hacer la prueba.\n\nSe recomienda que uses las almohadillas más cómodas para cada oído.</tran>
+        <tran loc="es-419">Ajusta los AirPods en tus oídos, o intenta con unas almohadillas de otro tamaño y vuelve a realizar la prueba.\n\nUsa la almohadilla que sientas más cómoda en cada oreja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +128,7 @@ de tus almohadillas</tran>
       <Position>BYPASS_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Turns off noise cancellation and transparency</base>
-        <tran loc="es">Desactiva la cancelación de ruido y el sonido ambiente</tran>
+        <tran loc="es-419">Desactiva la cancelación de ruido y el modo Ambiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +136,7 @@ de tus almohadillas</tran>
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +144,7 @@ de tus almohadillas</tran>
       <Position>ACTIVE_PASS_THROUGH_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Lets in external sounds</base>
-        <tran loc="es">Deja pasar los sonidos externos</tran>
+        <tran loc="es-419">Permite los sonidos externos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +152,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST</Position>
       <TranslationSet>
         <base loc="en">Ear Tip Fit Test</base>
-        <tran loc="es">Prueba de ajuste de almohadillas</tran>
+        <tran loc="es-419">Prueba de almohadillas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +160,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_INIT_HEADER</Position>
       <TranslationSet>
         <base loc="en">Ear Tip Fit Test</base>
-        <tran loc="es">Prueba de ajuste de almohadillas</tran>
+        <tran loc="es-419">Prueba de almohadillas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +168,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_OUT_OF_EAR_WARNING</Position>
       <TranslationSet>
         <base loc="en">Place AirPods In Both Ears</base>
-        <tran loc="es">Ponte los AirPods en los oídos</tran>
+        <tran loc="es-419">Ponte los AirPods en las orejas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +176,7 @@ de tus almohadillas</tran>
       <Position>NOISE_CONTROL_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Press and hold the stem to cycle between the selected noise control modes.</base>
-        <tran loc="es">Mantén pulsada la parte cilíndrica para cambiar entre los modos de control de ruido seleccionados.</tran>
+        <tran loc="es-419">Presiona y sostén el extremo para alternar entre los modos seleccionados de control de ruido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +184,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_INIT_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Place AirPods in both ears so they’re comfortable and secure, then press play to test fit.</base>
-        <tran loc="es">Ajústate bien los AirPods en los oídos y pulsa el botón de reproducción para iniciar la prueba.</tran>
+        <tran loc="es-419">Ajusta los AirPods en ambas orejas de forma cómoda y segura, y toca el botón de reproducción para probar su ajuste.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +192,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_IN_PROGRESS_HEADER</Position>
       <TranslationSet>
         <base loc="en">Do Not Remove AirPods</base>
-        <tran loc="es">No te quites los AirPods</tran>
+        <tran loc="es-419">No te quites los AirPods</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +200,7 @@ de tus almohadillas</tran>
       <Position>RIGHT</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecho</tran>
+        <tran loc="es-419">Derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +208,7 @@ de tus almohadillas</tran>
       <Position>NOISE_CONTROL</Position>
       <TranslationSet>
         <base loc="en">Noise Control</base>
-        <tran loc="es">Control de ruido</tran>
+        <tran loc="es-419">Control de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +216,7 @@ de tus almohadillas</tran>
       <Position>ACTIVE_NOISE_CANCELLATION</Position>
       <TranslationSet>
         <base loc="en">Noise Cancellation</base>
-        <tran loc="es">Cancelación de ruido</tran>
+        <tran loc="es-419">Cancelación de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +224,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_WELCOME_BULLET2_HEADER</Position>
       <TranslationSet>
         <base loc="en">Noise Cancellation</base>
-        <tran loc="es">Cancelar ruido</tran>
+        <tran loc="es-419">Cancelación de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +232,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_CALL_ACTIVE_WARNING</Position>
       <TranslationSet>
         <base loc="en">End Call To Continue Test</base>
-        <tran loc="es">Para continuar con la prueba, finaliza la llamada</tran>
+        <tran loc="es-419">Cuelga para continuar la prueba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +240,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Check the fit of your AirPods ear tips to determine which size provides the best seal and acoustic performance.</base>
-        <tran loc="es">Comprueba el ajuste de las almohadillas de los AirPods para determinar qué tamaño encaja mejor y ofrece el mejor rendimiento acústico.</tran>
+        <tran loc="es-419">Comprueba el ajuste de las almohadillas de tus AirPods para determinar qué tamaño brinda el mejor sello y rendimiento acústico.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +248,7 @@ de tus almohadillas</tran>
       <Position>FIT_TEST_LEFT_POOR_RIGHT_GOOD_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Try adjusting the left AirPod in your ear, or change the ear tip size and try the test again.\n\nYou should use the ear tip that is most comfortable in each ear.</base>
-        <tran loc="es">Ajústate el AirPod izquierdo en el oído o utiliza una almohadilla de otro tamaño y vuelve a hacer la prueba.\n\nSe recomienda que uses la almohadilla más cómoda para cada oído.</tran>
+        <tran loc="es-419">Intenta ajustar el AirPod izquierdo en tu oído, o usa una almohadilla de otro tamaño y vuelve a realizar la prueba.\n\nUsa la almohadilla que sientas más cómoda en cada oreja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +256,7 @@ de tus almohadillas</tran>
       <Position>CLICK_HOLD_HEADER</Position>
       <TranslationSet>
         <base loc="en">PRESS AND HOLD AIRPODS</base>
-        <tran loc="es">AL MANTENER PULSADOS LOS AIRPODS</tran>
+        <tran loc="es-419">MANTÉN PRESIONADOS LOS AIRPODS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +264,7 @@ de tus almohadillas</tran>
       <Position>ACTIVE_NOISE_CANCELLATION_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Blocks out external sounds</base>
-        <tran loc="es">Bloquea los sonidos externos</tran>
+        <tran loc="es-419">Bloquea los sonidos externos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +272,7 @@ de tus almohadillas</tran>
       <Position>BYPASS</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -284,7 +283,7 @@ de tus almohadillas</tran>
       <Position>CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -292,7 +291,7 @@ de tus almohadillas</tran>
       <Position>PAIR_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Pair</base>
-        <tran loc="es">Enlazar</tran>
+        <tran loc="es-419">Enlazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -300,7 +299,7 @@ de tus almohadillas</tran>
       <Position>NUMERIC_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to pair with your %@. Confirm that this code is displayed on “%@”.</base>
-        <tran loc="es">“%@” quiere enlazar con tu %@. Confirma que este código se muestra en “%@”.</tran>
+        <tran loc="es-419">“%@” quiere enlazarse con tu %@. Confirma que este código se muestre en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -308,7 +307,7 @@ de tus almohadillas</tran>
       <Position>PAIRING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Pairing Request</base>
-        <tran loc="es">Solicitud de enlace Bluetooth</tran>
+        <tran loc="es-419">Solicitud de enlace Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -316,7 +315,7 @@ de tus almohadillas</tran>
       <Position>PASSKEY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to pair with your %@. Enter this code on “%@” to pair.</base>
-        <tran loc="es">“%@” quiere enlazar con tu %@. Introduce este código en “%@” para enlazar.</tran>
+        <tran loc="es-419">“%@” quiere enlazarse con tu %@. Ingresa este código en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -324,7 +323,7 @@ de tus almohadillas</tran>
       <Position>JUST_WORKS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to pair with your %@.</base>
-        <tran loc="es">“%@” quiere enlazar con tu %@.</tran>
+        <tran loc="es-419">“%@” quiere enlazarse con tu %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -332,7 +331,7 @@ de tus almohadillas</tran>
       <Position>HID_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter this code on “%@”, followed by the return or enter key.</base>
-        <tran loc="es">Introduce este código en “%@”, seguido de la tecla Retorno o Intro.</tran>
+        <tran loc="es-419">Ingresa este código en “%@”, seguido de la tecla Retorno o Intro.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -343,7 +342,7 @@ de tus almohadillas</tran>
       <Position>MIC_FOOTER</Position>
       <TranslationSet>
         <base loc="en">The active AirPod microphone can automatically change from left to right, or be fixed to one side.</base>
-        <tran loc="es">Puedes definir qué micrófono está activo, el del AirPod derecho o el del izquierdo, o se puede cambiar automáticamente.</tran>
+        <tran loc="es-419">El micrófono activo del AirPod puede cambiar automáticamente de la izquierda a la derecha o permanecer de un lado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +350,7 @@ de tus almohadillas</tran>
       <Position>NEXT_TRACK</Position>
       <TranslationSet>
         <base loc="en">Next Track</base>
-        <tran loc="es">Pista siguiente</tran>
+        <tran loc="es-419">Siguiente pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -359,7 +358,7 @@ de tus almohadillas</tran>
       <Position>SYNC_RECENTS</Position>
       <TranslationSet>
         <base loc="en">Phone Recents</base>
-        <tran loc="es">Recientes del teléfono</tran>
+        <tran loc="es-419">Recientes del teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -367,7 +366,7 @@ de tus almohadillas</tran>
       <Position>MIC_AUTOMATIC_SHORT</Position>
       <TranslationSet>
         <base loc="en">Automatic</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -375,7 +374,7 @@ de tus almohadillas</tran>
       <Position>DEVICE_NAME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +382,7 @@ de tus almohadillas</tran>
       <Position>FORGET_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Forget This Device</base>
-        <tran loc="es">Omitir dispositivo</tran>
+        <tran loc="es-419">Olvidar este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -391,7 +390,7 @@ de tus almohadillas</tran>
       <Position>SHARE_SYSTEM_NOTIFICATIONS</Position>
       <TranslationSet>
         <base loc="en">Share System Notifications</base>
-        <tran loc="es">Compartir notificaciones del sistema</tran>
+        <tran loc="es-419">Compartir notificaciones del sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -399,7 +398,7 @@ de tus almohadillas</tran>
       <Position>DEVICE_NAME_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Device</base>
-        <tran loc="es">Dispositivo Bluetooth</tran>
+        <tran loc="es-419">Dispositivo Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -407,7 +406,7 @@ de tus almohadillas</tran>
       <Position>FORGET_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forget “%@”?</base>
-        <tran loc="es">¿Omitir “%@”?</tran>
+        <tran loc="es-419">¿Olvidar “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -415,7 +414,7 @@ de tus almohadillas</tran>
       <Position>MIC_RIGHT_PB</Position>
       <TranslationSet>
         <base loc="en">Always Right</base>
-        <tran loc="es">Siempre el derecho</tran>
+        <tran loc="es-419">Derecho (siempre)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +422,7 @@ de tus almohadillas</tran>
       <Position>MIC_RIGHT_SHORT</Position>
       <TranslationSet>
         <base loc="en">Always Right</base>
-        <tran loc="es">Derecha siempre</tran>
+        <tran loc="es-419">Siempre el derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +430,7 @@ de tus almohadillas</tran>
       <Position>IED_FOOTER_TEXT</Position>
       <TranslationSet>
         <base loc="en">Automatically transfer the audio route from connected devices to the AirPods when they are placed in your ears.</base>
-        <tran loc="es">Transfiere automáticamente el audio de los dispositivos conectados a los AirPods cuando los lleves puestos.</tran>
+        <tran loc="es-419">Transfiere automáticamente la llamada de audio de los dispositivos conectados a los AirPods cuando estos estén en tus orejas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +438,7 @@ de tus almohadillas</tran>
       <Position>FORGET_MAGIC_PAIRED_DEVICE_WARNING</Position>
       <TranslationSet>
         <base loc="en">Removing %@ from this device will remove it from all the devices on your iCloud account.</base>
-        <tran loc="es">Si eliminas “%@” de este dispositivo, también se eliminará de todos los dispositivos con tu cuenta de iCloud.</tran>
+        <tran loc="es-419">Si eliminas %@ de este dispositivo, se eliminará de todos los de tu cuenta de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +446,7 @@ de tus almohadillas</tran>
       <Position>APPLE_WATCH_APP_LINK</Position>
       <TranslationSet>
         <base loc="en">Apple Watch app</base>
-        <tran loc="es">App Apple Watch</tran>
+        <tran loc="es-419">App Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +454,7 @@ de tus almohadillas</tran>
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +462,7 @@ de tus almohadillas</tran>
       <Position>SYNC_FAVORITES</Position>
       <TranslationSet>
         <base loc="en">Phone Favorites</base>
-        <tran loc="es">Favoritos del teléfono</tran>
+        <tran loc="es-419">Favoritos del teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +470,7 @@ de tus almohadillas</tran>
       <Position>LEFT_AIRPOD</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierdo</tran>
+        <tran loc="es-419">Izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -479,7 +478,7 @@ de tus almohadillas</tran>
       <Position>GROUPS</Position>
       <TranslationSet>
         <base loc="en">Groups</base>
-        <tran loc="es">Grupos</tran>
+        <tran loc="es-419">Grupos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -487,7 +486,7 @@ de tus almohadillas</tran>
       <Position>MIC_FOOTER_PB</Position>
       <TranslationSet>
         <base loc="en">The active Powerbeats Pro microphone can automatically change from left to right, or be fixed to one side.</base>
-        <tran loc="es">Puedes definir qué micrófono está activo, el del Powerbeats Pro derecho o el del izquierdo, o se puede cambiar automáticamente.</tran>
+        <tran loc="es-419">El micrófono activo de los Powerbeats Pro puede cambiar automáticamente de la izquierda a la derecha o permanecer de un lado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -495,7 +494,7 @@ de tus almohadillas</tran>
       <Position>SYNC_SWITCH</Position>
       <TranslationSet>
         <base loc="en">Sync Contacts</base>
-        <tran loc="es">Sincronizar contactos</tran>
+        <tran loc="es-419">Sincronizar contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -503,7 +502,7 @@ de tus almohadillas</tran>
       <Position>IED_FOOTER_TEXT_PB</Position>
       <TranslationSet>
         <base loc="en">Automatically transfer the audio route from connected devices to the Powerbeats Pro when they are placed in your ears.</base>
-        <tran loc="es">Transfiere automáticamente el audio de los dispositivos conectados a los Powerbeats Pro cuando los lleves puestos.</tran>
+        <tran loc="es-419">Transfiere automáticamente la llamada de audio a los dispositivos conectados a los Powerbeats Pro cuando estos estén en tus orejas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +510,7 @@ de tus almohadillas</tran>
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -519,7 +518,7 @@ de tus almohadillas</tran>
       <Position>DOUBLE_TAP_HEADER</Position>
       <TranslationSet>
         <base loc="en">DOUBLE-TAP ON AIRPOD</base>
-        <tran loc="es">PULSAR AIRPOD DOS VECES</tran>
+        <tran loc="es-419">TOCA DOS VECES EL AIRPOD</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +526,7 @@ de tus almohadillas</tran>
       <Position>PREVIOUS_TRACK</Position>
       <TranslationSet>
         <base loc="en">Previous Track</base>
-        <tran loc="es">Pista anterior</tran>
+        <tran loc="es-419">Pista anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -535,7 +534,7 @@ de tus almohadillas</tran>
       <Position>MICROPHONE</Position>
       <TranslationSet>
         <base loc="en">Microphone</base>
-        <tran loc="es">Micrófono</tran>
+        <tran loc="es-419">Micrófono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -543,7 +542,7 @@ de tus almohadillas</tran>
       <Position>FORGET_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Forget Device</base>
-        <tran loc="es">Omitir dispositivo</tran>
+        <tran loc="es-419">Olvidar dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -551,7 +550,7 @@ de tus almohadillas</tran>
       <Position>FORGET_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forget Device</base>
-        <tran loc="es">Omitir dispositivo</tran>
+        <tran loc="es-419">Olvidar dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -559,7 +558,7 @@ de tus almohadillas</tran>
       <Position>SYSTEM_NOTIFICATIONS</Position>
       <TranslationSet>
         <base loc="en">System Notifications</base>
-        <tran loc="es">Notificaciones del sistema</tran>
+        <tran loc="es-419">Notificaciones del sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -567,7 +566,7 @@ de tus almohadillas</tran>
       <Position>MIC_LEFT</Position>
       <TranslationSet>
         <base loc="en">Always Left AirPod</base>
-        <tran loc="es">AirPod izquierdo siempre</tran>
+        <tran loc="es-419">Siempre el AirPod izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -575,7 +574,7 @@ de tus almohadillas</tran>
       <Position>APPLE_WATCH_FOOTER_TEXT</Position>
       <TranslationSet>
         <base loc="en">To manage settings for your Apple Watch, go to the %@.</base>
-        <tran loc="es">Para gestionar los ajustes del Apple Watch, ve a la %@.</tran>
+        <tran loc="es-419">Para configurar tu Apple Watch, abre la %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -583,7 +582,7 @@ de tus almohadillas</tran>
       <Position>MIC_AUTOMATIC_PB</Position>
       <TranslationSet>
         <base loc="en">Automatically Switch</base>
-        <tran loc="es">Cambiar automáticamente</tran>
+        <tran loc="es-419">Cambiar automáticamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -591,7 +590,7 @@ de tus almohadillas</tran>
       <Position>SIRI</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -599,7 +598,7 @@ de tus almohadillas</tran>
       <Position>MIC_AUTOMATIC</Position>
       <TranslationSet>
         <base loc="en">Automatically Switch AirPods</base>
-        <tran loc="es">Cambio de AirPod automático</tran>
+        <tran loc="es-419">Cambio automático de AirPods</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -607,7 +606,7 @@ de tus almohadillas</tran>
       <Position>RIGHT_AIRPOD</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecho</tran>
+        <tran loc="es-419">Derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -615,7 +614,7 @@ de tus almohadillas</tran>
       <Position>ALL_GROUP</Position>
       <TranslationSet>
         <base loc="en">All Contacts</base>
-        <tran loc="es">Todos</tran>
+        <tran loc="es-419">Todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -623,7 +622,7 @@ de tus almohadillas</tran>
       <Position>LISTENING_MODE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Noise Control</base>
-        <tran loc="es">Control de ruido</tran>
+        <tran loc="es-419">Control de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -631,7 +630,7 @@ de tus almohadillas</tran>
       <Position>MAP_SWITCH</Position>
       <TranslationSet>
         <base loc="en">Show Notifications</base>
-        <tran loc="es">Mostrar notificaciones</tran>
+        <tran loc="es-419">Mostrar notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -639,7 +638,7 @@ de tus almohadillas</tran>
       <Position>CARPLAY_SWITCH</Position>
       <TranslationSet>
         <base loc="en">CarPlay</base>
-        <tran loc="es">CarPlay</tran>
+        <tran loc="es-419">CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -647,7 +646,7 @@ de tus almohadillas</tran>
       <Position>PLAY_PAUSE</Position>
       <TranslationSet>
         <base loc="en">Play/Pause</base>
-        <tran loc="es">Reproducir/Pausa</tran>
+        <tran loc="es-419">Reproducir/Pausa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -655,7 +654,7 @@ de tus almohadillas</tran>
       <Position>CARPLAY_FOOTER_TEXT</Position>
       <TranslationSet>
         <base loc="en">When your phone is nearby and you start your car, CarPlay will start automatically.</base>
-        <tran loc="es">Cuando arranques el coche y tengas el teléfono cerca, CarPlay se iniciará automáticamente.</tran>
+        <tran loc="es-419">CarPlay se activará automáticamente cuando tu teléfono esté cerca y arranques el automóvil.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -663,7 +662,7 @@ de tus almohadillas</tran>
       <Position>DISCONNECT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Disconnect</base>
-        <tran loc="es">Desconectar</tran>
+        <tran loc="es-419">Desconectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -671,7 +670,7 @@ de tus almohadillas</tran>
       <Position>DOUBLE_TAP_LEFT_HEADER</Position>
       <TranslationSet>
         <base loc="en">DOUBLE-TAP ON LEFT AIRPOD</base>
-        <tran loc="es">PULSAR AIRPOD IZQUIERDO DOS VECES</tran>
+        <tran loc="es-419">TOCA DOS VECES EL AIRPOD IZQUIERDO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -679,15 +678,7 @@ de tus almohadillas</tran>
       <Position>DOUBLE_TAP_RIGHT_HEADER</Position>
       <TranslationSet>
         <base loc="en">DOUBLE-TAP ON RIGHT AIRPOD</base>
-        <tran loc="es">PULSAR AIRPOD DERECHO DOS VECES</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>IED_SWITCH</Position>
-      <TranslationSet>
-        <base loc="en">Automatic Ear Detection</base>
-        <tran loc="es">Detección automática</tran>
+        <tran loc="es-419">TOCA DOS VECES EL AIRPOD DERECHO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +686,7 @@ de tus almohadillas</tran>
       <Position>MIC_LEFT_PB</Position>
       <TranslationSet>
         <base loc="en">Always Left</base>
-        <tran loc="es">Siempre el izquierdo</tran>
+        <tran loc="es-419">Siempre el izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +694,7 @@ de tus almohadillas</tran>
       <Position>MIC_LEFT_SHORT</Position>
       <TranslationSet>
         <base loc="en">Always Left</base>
-        <tran loc="es">Izquierda siempre</tran>
+        <tran loc="es-419">Siempre el izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +702,7 @@ de tus almohadillas</tran>
       <Position>MIC_RIGHT</Position>
       <TranslationSet>
         <base loc="en">Always Right AirPod</base>
-        <tran loc="es">AirPod derecho siempre</tran>
+        <tran loc="es-419">Siempre el AirPod derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +710,7 @@ de tus almohadillas</tran>
       <Position>FORGET_ALERT_BODY</Position>
       <TranslationSet>
         <base loc="en">Pair with this device to use it again.</base>
-        <tran loc="es">Para volver a usar este dispositivo, deberás enlazar con él.</tran>
+        <tran loc="es-419">Para volver a usar este dispositivo, deberás enlazarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +718,7 @@ de tus almohadillas</tran>
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -738,7 +729,7 @@ de tus almohadillas</tran>
       <Position>SYNC_CONTACTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Allow Contacts and Favorites Sync?</base>
-        <tran loc="es">¿Permitir la sincronización de contactos y favoritos?</tran>
+        <tran loc="es-419">¿Permitir sincronizar Contactos y Favoritos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -746,7 +737,7 @@ de tus almohadillas</tran>
       <Position>ATTACH_APPLE_PENCIL</Position>
       <TranslationSet>
         <base loc="en">Attach Apple Pencil to use it with this iPad.</base>
-        <tran loc="es">Conecta el Apple Pencil para utilizarlo con este iPad.</tran>
+        <tran loc="es-419">Conecta el Apple Pencil para usarlo con este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -754,7 +745,7 @@ de tus almohadillas</tran>
       <Position>CONNECTION_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Connection Unsuccessful</base>
-        <tran loc="es">Error de conexión</tran>
+        <tran loc="es-419">Error de conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -762,7 +753,7 @@ de tus almohadillas</tran>
       <Position>POWER_WARNING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn off Bluetooth?</base>
-        <tran loc="es">¿Desactivar Bluetooth?</tran>
+        <tran loc="es-419">¿Desactivar Bluetooth?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +761,7 @@ de tus almohadillas</tran>
       <Position>BLUETOOTH</Position>
       <TranslationSet>
         <base loc="en">Bluetooth</base>
-        <tran loc="es">Bluetooth</tran>
+        <tran loc="es-419">Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +769,7 @@ de tus almohadillas</tran>
       <Position>ERROR_UNSUPPORTED_DEVICE</Position>
       <TranslationSet>
         <base loc="en">“%@” is not supported.</base>
-        <tran loc="es">“%@” es incompatible.</tran>
+        <tran loc="es-419">“%@” es incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +777,7 @@ de tus almohadillas</tran>
       <Position>POWER_WARNING_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Apple Watch uses Bluetooth to connect to iPhone and receive notifications</base>
-        <tran loc="es">El Apple Watch utiliza Bluetooth para conectarse al iPhone y recibir notificaciones</tran>
+        <tran loc="es-419">Apple Watch se conecta al iPhone y recibe notificaciones a través de Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +785,7 @@ de tus almohadillas</tran>
       <Position>PAIRING_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Pairing Unsuccessful</base>
-        <tran loc="es">Enlace no establecido</tran>
+        <tran loc="es-419">Enlace no establecido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +793,7 @@ de tus almohadillas</tran>
       <Position>DISCOVERABLE</Position>
       <TranslationSet>
         <base loc="en">Now discoverable as “%@”.</base>
-        <tran loc="es">Ahora visible como “%@”.</tran>
+        <tran loc="es-419">Ahora visible como “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +801,7 @@ de tus almohadillas</tran>
       <Position>HOTSPOT_CONNECTED_CLIENTS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Joining the network “%@” will disconnect personal hotspot users.</base>
-        <tran loc="es">Al acceder a la red “%@”, los usuarios del punto de acceso personal se desconectarán.</tran>
+        <tran loc="es-419">Al acceder a la red “%@”, los usuarios de “Compartir Internet” se desconectarán.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +809,7 @@ de tus almohadillas</tran>
       <Position>JOIN</Position>
       <TranslationSet>
         <base loc="en">Join</base>
-        <tran loc="es">Acceder</tran>
+        <tran loc="es-419">Acceder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +817,7 @@ de tus almohadillas</tran>
       <Position>BLACKLIST_FOOTER</Position>
       <TranslationSet>
         <base loc="en">New Bluetooth connections have been turned off from Control Center.</base>
-        <tran loc="es">Se han desactivado las nuevas conexiones Bluetooth en el centro de control.</tran>
+        <tran loc="es-419">Se desactivaron del centro de control las conexiones nuevas por Bluetooth.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -834,7 +825,7 @@ de tus almohadillas</tran>
       <Position>APPLE_WATCH_APP_LINK</Position>
       <TranslationSet>
         <base loc="en">Apple Watch app</base>
-        <tran loc="es">App Apple Watch</tran>
+        <tran loc="es-419">App Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -842,7 +833,7 @@ de tus almohadillas</tran>
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -850,7 +841,7 @@ de tus almohadillas</tran>
       <Position>NO_BLUETOOTH</Position>
       <TranslationSet>
         <base loc="en">Unavailable</base>
-        <tran loc="es">No disponible</tran>
+        <tran loc="es-419">No disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +849,7 @@ de tus almohadillas</tran>
       <Position>SHARING_WITH</Position>
       <TranslationSet>
         <base loc="en">SHARING WITH</base>
-        <tran loc="es">COMPARTIENDO CON</tran>
+        <tran loc="es-419">COMPARTIR CON</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +857,7 @@ de tus almohadillas</tran>
       <Position>MY_DEVICES</Position>
       <TranslationSet>
         <base loc="en">MY DEVICES</base>
-        <tran loc="es">MIS DISPOSITIVOS</tran>
+        <tran loc="es-419">MIS DISPOSITIVOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -874,7 +865,7 @@ de tus almohadillas</tran>
       <Position>SYNC_ALLOW_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -882,7 +873,7 @@ de tus almohadillas</tran>
       <Position>DEVICES</Position>
       <TranslationSet>
         <base loc="en">DEVICES</base>
-        <tran loc="es">DISPOSITIVOS</tran>
+        <tran loc="es-419">DISPOSITIVOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -890,7 +881,7 @@ de tus almohadillas</tran>
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -898,7 +889,7 @@ de tus almohadillas</tran>
       <Position>SYNC_BLUETOOTH_CONTACTS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your car may request your contacts, phone favorites, and recent phone calls over Bluetooth. Do you wish to allow this?</base>
-        <tran loc="es">El coche puede solicitar tus contactos, números de teléfono favoritos y llamadas recientes por Bluetooth. ¿Quieres permitir la sincronización?</tran>
+        <tran loc="es-419">Tu automóvil podría solicitar contactos, favoritos del teléfono y llamadas recientes por Bluetooth. ¿Quieres permitirlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -906,7 +897,7 @@ de tus almohadillas</tran>
       <Position>APPLE_WATCH_FOOTER_TEXT</Position>
       <TranslationSet>
         <base loc="en">To pair an Apple Watch with your iPhone, go to the %@.</base>
-        <tran loc="es">Para enlazar un Apple Watch con tu iPhone, ve a la %@.</tran>
+        <tran loc="es-419">Para enlazar el Apple Watch con tu iPhone, abre la %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -914,7 +905,7 @@ de tus almohadillas</tran>
       <Position>PLUG_IN_APPLE_PENCIL</Position>
       <TranslationSet>
         <base loc="en">Plug in Apple Pencil to use it with this iPad.</base>
-        <tran loc="es">Conecta el Apple Pencil para utilizarlo con este iPad.</tran>
+        <tran loc="es-419">Conecta el Apple Pencil para usarlo con este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -922,7 +913,7 @@ de tus almohadillas</tran>
       <Position>HOTSPOT_CONNECTED_CLIENTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Personal Hotspot</base>
-        <tran loc="es">Punto de acceso personal</tran>
+        <tran loc="es-419">Compartir Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -930,7 +921,7 @@ de tus almohadillas</tran>
       <Position>PAIR</Position>
       <TranslationSet>
         <base loc="en">Pair</base>
-        <tran loc="es">Enlazar</tran>
+        <tran loc="es-419">Enlazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -938,7 +929,7 @@ de tus almohadillas</tran>
       <Position>FORGET_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Forget Device</base>
-        <tran loc="es">Omitir dispositivo</tran>
+        <tran loc="es-419">Olvidar dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -946,7 +937,7 @@ de tus almohadillas</tran>
       <Position>TURN_OFF</Position>
       <TranslationSet>
         <base loc="en">Turn Off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -954,7 +945,7 @@ de tus almohadillas</tran>
       <Position>ERROR_PRO_CONTROLLER_CONNECTION_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Use the controls on “%@” to connect.</base>
-        <tran loc="es">Utiliza los controles de “%@” para conectarte.</tran>
+        <tran loc="es-419">Usa los controles de “%@” para conectarte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -962,7 +953,7 @@ de tus almohadillas</tran>
       <Position>ERROR_PAIRING_TIMEOUT</Position>
       <TranslationSet>
         <base loc="en">Pairing took too long.</base>
-        <tran loc="es">El proceso de enlace duró demasiado.</tran>
+        <tran loc="es-419">El proceso de enlace tardó demasiado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -970,7 +961,7 @@ de tus almohadillas</tran>
       <Position>OTHER_DEVICES</Position>
       <TranslationSet>
         <base loc="en">OTHER DEVICES</base>
-        <tran loc="es">OTROS DISPOSITIVOS</tran>
+        <tran loc="es-419">OTROS DISPOSITIVOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -978,7 +969,7 @@ de tus almohadillas</tran>
       <Position>CLOSE</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -986,7 +977,7 @@ de tus almohadillas</tran>
       <Position>SW_UPDATE_CLOSE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -994,7 +985,7 @@ de tus almohadillas</tran>
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">PIN</base>
-        <tran loc="es">PIN</tran>
+        <tran loc="es-419">PIN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1002,7 +993,7 @@ de tus almohadillas</tran>
       <Position>SYNC_CARPLAY_CONTACTS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your car may request your contacts, phone favorites, and recent phone calls over Bluetooth. Do you wish to allow this? CarPlay will work without syncing.</base>
-        <tran loc="es">El coche puede solicitar tus contactos, números de teléfono favoritos y llamadas recientes por Bluetooth. ¿Quieres permitir la sincronización? CarPlay seguirá funcionando aunque no se sincronice.</tran>
+        <tran loc="es-419">Tu automóvil podría solicitar contactos, favoritos del teléfono y llamadas recientes por Bluetooth. ¿Quieres permitirlo? CarPlay no necesita sincronizar para su funcionamiento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1010,7 +1001,7 @@ de tus almohadillas</tran>
       <Position>POWER_OFF_WARNING</Position>
       <TranslationSet>
         <base loc="en">AirDrop, AirPlay, Find My, and location services use Bluetooth.</base>
-        <tran loc="es">AirDrop, AirPlay, la app Buscar y la función de localización usan Bluetooth.</tran>
+        <tran loc="es-419">Localización, AirDrop y AirPlay usan Bluetooth.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1018,7 +1009,7 @@ de tus almohadillas</tran>
       <Position>PAIRING_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Enter PIN</base>
-        <tran loc="es">Introduce el PIN</tran>
+        <tran loc="es-419">Ingresa el PIN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1026,7 +1017,7 @@ de tus almohadillas</tran>
       <Position>SYNC_DISALLOW_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1034,7 +1025,7 @@ de tus almohadillas</tran>
       <Position>SW_UPDATE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This accessory requires a newer version of iOS.</base>
-        <tran loc="es">Este accesorio requiere una versión de iOS más reciente.</tran>
+        <tran loc="es-419">Este accesorio requiere una versión más reciente de iOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1042,7 +1033,7 @@ de tus almohadillas</tran>
       <Position>ERROR_INCORRECT_PIN</Position>
       <TranslationSet>
         <base loc="en">Make sure “%@” is ready to pair and try entering the code again.</base>
-        <tran loc="es">Asegúrate de que “%@” está preparado para el enlace e intenta introducir el código de nuevo.</tran>
+        <tran loc="es-419">Asegúrate de que “%@” está preparado para el enlace e intenta ingresar el código nuevamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1050,7 +1041,7 @@ de tus almohadillas</tran>
       <Position>SHARING_NOW</Position>
       <TranslationSet>
         <base loc="en">You are temporarily sharing audio with “%@”. If you disconnect, you will need to start sharing again to listen with this device.</base>
-        <tran loc="es">Estás compartiendo el audio temporalmente con “%@”. Si te desconectas, tendrás que volver a compartirlo para escucharlo en este dispositivo.</tran>
+        <tran loc="es-419">Estás compartiendo temporalmente audio con “%@”. Si te desconectas, tendrás que volver a empezar a compartirlo para escucharlo mediante este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1058,7 +1049,7 @@ de tus almohadillas</tran>
       <Position>SW_UPDATE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Software Update</base>
-        <tran loc="es">Actualización de software</tran>
+        <tran loc="es-419">Actualización de software</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1066,7 +1057,7 @@ de tus almohadillas</tran>
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1074,7 +1065,7 @@ de tus almohadillas</tran>
       <Position>PAIRED_AND_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Connected</base>
-        <tran loc="es">Conectado</tran>
+        <tran loc="es-419">Conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1082,7 +1073,7 @@ de tus almohadillas</tran>
       <Position>ALLOW_NEW_CONNECTIONS</Position>
       <TranslationSet>
         <base loc="en">Allow New Connections</base>
-        <tran loc="es">Permitir nuevas conexiones</tran>
+        <tran loc="es-419">Permitir nuevas conexiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1090,7 +1081,7 @@ de tus almohadillas</tran>
       <Position>ACCESSORY</Position>
       <TranslationSet>
         <base loc="en">Accessory</base>
-        <tran loc="es">Accesorio</tran>
+        <tran loc="es-419">Accesorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1098,7 +1089,7 @@ de tus almohadillas</tran>
       <Position>ERROR_MISSING_LINK_KEY</Position>
       <TranslationSet>
         <base loc="en">%@ can no longer connect to “%@”. Forget this device and pair it again.</base>
-        <tran loc="es">%@ ya no se puede conectar a “%@”. Olvida este dispositivo y vuelve a enlazarlo.</tran>
+        <tran loc="es-419">%@ ya no se puede conectar a “%@”. Olvida este dispositivo y vuelve a enlazarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1106,7 +1097,7 @@ de tus almohadillas</tran>
       <Position>SW_UPDATE_CHECK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Check for Update</base>
-        <tran loc="es">Buscar actualización</tran>
+        <tran loc="es-419">Buscar actualizaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1114,7 +1105,7 @@ de tus almohadillas</tran>
       <Position>PAIRED</Position>
       <TranslationSet>
         <base loc="en">Not Connected</base>
-        <tran loc="es">No conectado</tran>
+        <tran loc="es-419">No conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1122,7 +1113,7 @@ de tus almohadillas</tran>
       <Position>ERROR_GEN_PAIRING_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Make sure “%@” is turned on, in range, and is ready to pair.</base>
-        <tran loc="es">Asegúrate de que “%@” está encendido, se encuentra dentro del alcance y está preparado para el enlace.</tran>
+        <tran loc="es-419">Asegúrate de que “%@” está encendido, se encuentra dentro del alcance y está preparado para el enlace.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1130,7 +1121,7 @@ de tus almohadillas</tran>
       <Position>VALIDATING</Position>
       <TranslationSet>
         <base loc="en">Connecting…</base>
-        <tran loc="es">Conectando…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1138,7 +1129,7 @@ de tus almohadillas</tran>
       <Position>APPLE_PENCIL_NOT_CONNECTED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple Pencil Not Connected</base>
-        <tran loc="es">Apple Pencil no conectado</tran>
+        <tran loc="es-419">El Apple Pencil no está conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1146,7 +1137,7 @@ de tus almohadillas</tran>
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1154,7 +1145,26 @@ de tus almohadillas</tran>
       <Position>ERROR_GEN_CONNECTION_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Make sure “%@” is turned on and in range.</base>
-        <tran loc="es">Asegúrate de que “%@” está encendido y se encuentra dentro del alcance.</tran>
+        <tran loc="es-419">Asegúrate de que “%@” está encendido y se encuentra dentro del alcance.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>BluetoothSettings/System/Library/PreferenceBundles/BluetoothSettings.bundle/en.lproj/DeviceConfig.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/IED_SWITCH:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Automatic Ear Detection</base>
+        <tran loc="es_419">Detección autom. de oreja</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/IED_SWITCH:dict/NSStringVariableWidthRuleType:dict/27:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">Automatic Ear Detection</base>
+        <tran loc="es_419">Detección automática de oreja</tran>
       </TranslationSet>
     </TextItem>
   </File>

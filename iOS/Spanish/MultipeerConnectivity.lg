@@ -8,7 +8,7 @@
       <Position>%@ wants to connect.</Position>
       <TranslationSet>
         <base loc="en">‘%@’ wants to connect.</base>
-        <tran loc="es">“%@” quiere conectarse.</tran>
+        <tran loc="es-419">"%@" quiere conectarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Choose %lu invitee:</Position>
       <TranslationSet>
         <base loc="en">Choose %lu invitee:</base>
-        <tran loc="es">Selecciona %lu invitado:</tran>
+        <tran loc="es-419">Elige %lu invitado:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Connecting</Position>
       <TranslationSet>
         <base loc="en">Connecting</base>
-        <tran loc="es">Conectándose</tran>
+        <tran loc="es-419">Conectando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Accept</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Nearby</Position>
       <TranslationSet>
         <base loc="en">Nearby</base>
-        <tran loc="es">Cerca</tran>
+        <tran loc="es-419">Cerca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Done</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Searching...</Position>
       <TranslationSet>
         <base loc="en">Searching…</base>
-        <tran loc="es">Buscando…</tran>
+        <tran loc="es-419">Buscando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Choose %lu to %lu invitees:</Position>
       <TranslationSet>
         <base loc="en">Choose %1$lu to %2$lu invitees:</base>
-        <tran loc="es">Selecciona de %1$lu a %2$lu invitados:</tran>
+        <tran loc="es-419">Elige de %1$lu a %2$lu invitados:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Not connected</Position>
       <TranslationSet>
         <base loc="en">Not connected</base>
-        <tran loc="es">No conectado</tran>
+        <tran loc="es-419">No conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Choose up to %lu more invitees:</Position>
       <TranslationSet>
         <base loc="en">Choose up to %lu more invitees:</base>
-        <tran loc="es">Selecciona hasta %lu invitados más:</tran>
+        <tran loc="es-419">Elige hasta %lu invitados más:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Inviting</Position>
       <TranslationSet>
         <base loc="en">Inviting</base>
-        <tran loc="es">Invitando</tran>
+        <tran loc="es-419">Invitando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Invitees</Position>
       <TranslationSet>
         <base loc="en">Invitees</base>
-        <tran loc="es">Invitados</tran>
+        <tran loc="es-419">Invitados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Declined</Position>
       <TranslationSet>
         <base loc="en">Declined</base>
-        <tran loc="es">Rechazada</tran>
+        <tran loc="es-419">Rechazado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Choose %lu invitees:</Position>
       <TranslationSet>
         <base loc="en">Choose %lu invitees:</base>
-        <tran loc="es">Selecciona %lu invitados:</tran>
+        <tran loc="es-419">Elige %lu invitados:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Decline</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Rechazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Choose up to %lu more invitee:</Position>
       <TranslationSet>
         <base loc="en">Choose up to %lu more invitee:</base>
-        <tran loc="es">Selecciona hasta %lu invitado más:</tran>
+        <tran loc="es-419">Elige hasta %lu invitados más:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>Connected</Position>
       <TranslationSet>
         <base loc="en">Connected</base>
-        <tran loc="es">Conectado</tran>
+        <tran loc="es-419">Conectado</tran>
       </TranslationSet>
     </TextItem>
   </File>

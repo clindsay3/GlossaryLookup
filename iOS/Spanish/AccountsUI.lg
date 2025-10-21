@@ -8,7 +8,7 @@
       <Position>MAIL_WARNING</Position>
       <TranslationSet>
         <base loc="en">mail</base>
-        <tran loc="es">correo</tran>
+        <tran loc="es-419">correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>TURNING_ON_MAIL</Position>
       <TranslationSet>
         <base loc="en">Turning On Mail…</base>
-        <tran loc="es">Activando Mail…</tran>
+        <tran loc="es-419">Activando Mail…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>FROM_MY_COMPUTER_TYPE_MAC_MID_SENTENCE</Position>
       <TranslationSet>
         <base loc="en">from My Mac</base>
-        <tran loc="es">mi Mac</tran>
+        <tran loc="es-419">mi Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>FROM_MY_COMPUTER_TYPE_PC</Position>
       <TranslationSet>
         <base loc="en">From My PC</base>
-        <tran loc="es">De mi PC</tran>
+        <tran loc="es-419">De mi PC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>DELETE_ACCOUNT_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will remove its %1$@ from your iPhone.</base>
-        <tran loc="es">Al eliminar esta cuenta se eliminarán los datos de %1$@ del iPhone.</tran>
+        <tran loc="es-419">Al eliminar esta cuenta, también eliminarás de tu iPhone %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>SAVING</Position>
       <TranslationSet>
         <base loc="en">Saving…</base>
-        <tran loc="es">Guardando…</tran>
+        <tran loc="es-419">Guardando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>DELETE_ACCOUNT_MERGE_SYNC_DATA_IPAD</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPad</base>
-        <tran loc="es">Mantener en el iPad</tran>
+        <tran loc="es-419">Mantener en mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>KEEP_LOCAL_DATA_IPAD</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPad</base>
-        <tran loc="es">Mantener en el iPad</tran>
+        <tran loc="es-419">Mantener en mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>MERGE_SYNC_DATA_IPAD</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPad</base>
-        <tran loc="es">Mantener en el iPad</tran>
+        <tran loc="es-419">Mantener en mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>TURN_OFF</Position>
       <TranslationSet>
         <base loc="en">Turn Off Account</base>
-        <tran loc="es">Desactivar cuenta</tran>
+        <tran loc="es-419">Desactivar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>DELETE_LOCAL_DATA</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>DELETE_ACCOUNT_MERGE_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with %@ on your iPhone when the account is deleted?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %@ del iPhone una vez eliminada la cuenta?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos de %@ en tu iPhone una vez eliminada la cuenta?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>NOTES_WARNING</Position>
       <TranslationSet>
         <base loc="en">notes</base>
-        <tran loc="es">notas</tran>
+        <tran loc="es-419">notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>TURNING_ON_NOTES</Position>
       <TranslationSet>
         <base loc="en">Turning On Notes…</base>
-        <tran loc="es">Activando notas…</tran>
+        <tran loc="es-419">Activando notas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>MAIL_LABEL</Position>
       <TranslationSet>
         <base loc="en">Mail</base>
-        <tran loc="es">Mail</tran>
+        <tran loc="es-419">Correos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>MAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Mail</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>LOSE_NON_UPLOADED_DATA_IN_ONE_APP_WARNING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to turn off %1$@? Some changes in %3$@ have not been uploaded to %2$@. If you turn off %1$@, these changes will be lost.</base>
-        <tran loc="es">¿Seguro que quieres desactivar “%1$@”? Algunos de los cambios efectuados en %3$@ no se han cargado en %2$@. Si desactivas “%1$@”, estos cambios se perderán.</tran>
+        <tran loc="es-419">¿Seguro que quieres apagar %1$@? Ciertos cambios de %3$@ no se cargaron en %2$@. Si apagas %1$@, dichos cambios se perderán.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>CLOUDPHOTOS_WARNING</Position>
       <TranslationSet>
         <base loc="en">photos in iCloud Photos</base>
-        <tran loc="es">fotos en “Fotos en iCloud”</tran>
+        <tran loc="es-419">fotos en “Fotos en iCloud”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>ON_MY_DEVICE_TYPE_IPHONE_SIMULATOR</Position>
       <TranslationSet>
         <base loc="en">On My iPhone Simulator</base>
-        <tran loc="es">Simulador iPhone</tran>
+        <tran loc="es-419">iPhone Simulator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>TURNING_ON_BOOKMARKS</Position>
       <TranslationSet>
         <base loc="en">Turning On Safari Data…</base>
-        <tran loc="es">Activando datos de Safari…</tran>
+        <tran loc="es-419">Activando datos de Safari…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>INACTIVE</Position>
       <TranslationSet>
         <base loc="en">Inactive</base>
-        <tran loc="es">Inactiva</tran>
+        <tran loc="es-419">Inactiva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPHONE_SIMULATOR</Position>
       <TranslationSet>
         <base loc="en">on My iPhone Simulator</base>
-        <tran loc="es">Simulador iPhone</tran>
+        <tran loc="es-419">en iPhone Simulator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with the previously synced %@ on your iPhone?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %@ sincronizados previamente en el iPhone?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos de %@ sincronizados previamente en tu iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>SERVERS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Servers</base>
-        <tran loc="es">Servidores</tran>
+        <tran loc="es-419">Servidores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>WELCOME_TO_MAIL</Position>
       <TranslationSet>
         <base loc="en">Welcome to Mail</base>
-        <tran loc="es">Bienvenido a Mail</tran>
+        <tran loc="es-419">Esto es Mail</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>ENABLE_OTA_WITH_EXISTING_DATA_WARNING_FORMAT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Existing Local %@</base>
-        <tran loc="es">Datos locales existentes de %@</tran>
+        <tran loc="es-419">Datos locales existentes de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Delete Local %@</base>
-        <tran loc="es">Eliminar datos locales de %@</tran>
+        <tran loc="es-419">Eliminar datos locales de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>CLOUDPHOTOS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Photos in iCloud Photos</base>
-        <tran loc="es">Fotos en “Fotos en iCloud”</tran>
+        <tran loc="es-419">Fotos en “Fotos en iCloud”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>COULDNT_DELETE_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">The account may be syncing data. Please try again.</base>
-        <tran loc="es">Puede que se estén sincronizando datos de la cuenta. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Puede que se estén sincronizando datos de la cuenta. Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>CONTACTS_WARNING</Position>
       <TranslationSet>
         <base loc="en">contacts</base>
-        <tran loc="es">contactos</tran>
+        <tran loc="es-419">contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with the previously synced %1$@ %2$@ on your iPad?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %2$@ de %1$@ sincronizados previamente en el iPad?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con %2$@ de %1$@ sincronizados previamente en tu iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>TURNING_OFF_CALENDARS_AND_REMINDERS</Position>
       <TranslationSet>
         <base loc="en">Turning Off Calendars and Reminders…</base>
-        <tran loc="es">Desactivando calendarios y recordatorios…</tran>
+        <tran loc="es-419">Desactivando calendarios y recordatorios…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>COULDNT_DELETE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Delete Account</base>
-        <tran loc="es">No se ha podido eliminar la cuenta</tran>
+        <tran loc="es-419">No se pudo eliminar la cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>DELETE_ACCOUNT_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will remove its %1$@ from your iPod touch.</base>
-        <tran loc="es">Al eliminar esta cuenta se eliminarán los datos de %1$@ del iPod touch.</tran>
+        <tran loc="es-419">Al eliminar esta cuenta, también eliminarás de tu iPod touch %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>FIND_MY_IPHONE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone</base>
-        <tran loc="es">Buscar mi iPhone</tran>
+        <tran loc="es-419">Buscar Mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>FIND_MY_IPHONE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone</base>
-        <tran loc="es">Buscar mi iPhone</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>FIND_MY_IPHONE_WARNING</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone</base>
-        <tran loc="es">Buscar mi iPhone</tran>
+        <tran loc="es-419">Buscar Mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>DELETE_ACCOUNT_SYNC</Position>
       <TranslationSet>
         <base loc="en">Remove From All</base>
-        <tran loc="es">Eliminar de todos</tran>
+        <tran loc="es-419">Eliminar de todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>DELETE_ACCOUNT_MERGE_SYNC_DATA_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPhone</base>
-        <tran loc="es">Mantener en el iPhone</tran>
+        <tran loc="es-419">Mantener en mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>KEEP_LOCAL_DATA_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPhone</base>
-        <tran loc="es">Mantener en el iPhone</tran>
+        <tran loc="es-419">Mantener en mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>MERGE_SYNC_DATA_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPhone</base>
-        <tran loc="es">Mantener en el iPhone</tran>
+        <tran loc="es-419">Mantener en mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>FROM_MY_COMPUTER_TYPE_MAC</Position>
       <TranslationSet>
         <base loc="en">From My Mac</base>
-        <tran loc="es">De mi Mac</tran>
+        <tran loc="es-419">De mi Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>CALENDARS_WARNING</Position>
       <TranslationSet>
         <base loc="en">calendars</base>
-        <tran loc="es">calendarios</tran>
+        <tran loc="es-419">calendarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>SYNCED_WITH_YOUR_COMPUTER_TYPE_MAC_MID_SENTENCE</Position>
       <TranslationSet>
         <base loc="en">synced with your Mac</base>
-        <tran loc="es">los sincronizados con tu Mac</tran>
+        <tran loc="es-419">los sincronizados con tu Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>ACCOUNT_INFO_IPAD</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>ACCOUNT_INFO_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>ACCOUNT_INFO_IPOD</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>DELETING</Position>
       <TranslationSet>
         <base loc="en">Deleting…</base>
-        <tran loc="es">Eliminando…</tran>
+        <tran loc="es-419">Eliminando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>CLOUDDRIVE_LABEL</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>CLOUDDRIVE_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>CALENDARS_AND_REMINDERS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Calendars and Reminders</base>
-        <tran loc="es">Calendarios y recordatorios</tran>
+        <tran loc="es-419">Calendarios y recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>CALENDARS_AND_REMINDERS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Calendars and Reminders</base>
-        <tran loc="es">Calendarios y recordatorios</tran>
+        <tran loc="es-419">Calendarios y recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>LOSE_NON_UPLOADED_DATA_IN_THREE_APPS_WARNING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to turn off %1$@? Some changes in %3$@, %4$@ and %5$@ have not been uploaded to %2$@. If you turn off %1$@, these changes will be lost.</base>
-        <tran loc="es">¿Seguro que quieres desactivar “%1$@”? Algunos de los cambios efectuados en %3$@, %4$@ y %5$@ no se han cargado en %2$@. Si desactivas “%1$@”, estos cambios se perderán.</tran>
+        <tran loc="es-419">¿Seguro que quieres apagar %1$@? Ciertos cambios de %3$@, %4$@ y %5$@ no se cargaron en %2$@. Si apagas %1$@, dichos cambios se perderán.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>INSTALLED</Position>
       <TranslationSet>
         <base loc="en">INSTALLED</base>
-        <tran loc="es">INSTALADO</tran>
+        <tran loc="es-419">INSTALADO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>DELETE_EXISTING_DATA_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All %1$@ %2$@ will be removed from your iPad.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos de %2$@ de %1$@ se eliminarán del iPad.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos de %2$@ de %1$@ se eliminarán de tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>ON_MY_DEVICE_TYPE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">On My iPhone</base>
-        <tran loc="es">iPhone</tran>
+        <tran loc="es-419">iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>REALLY_KEEP_EXISTING_DATA_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">If you keep your current %@ on your iPad, you may see duplicate entries. Are you sure you want to continue?</base>
-        <tran loc="es">Si mantienes los datos actuales de %@ en el iPad, puede que haya entradas duplicadas. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Si mantienes los datos actuales de %@ en tu iPad, puede que haya entradas duplicadas. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>LOSE_NON_UPLOADED_DATA_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Delete from iPhone</base>
-        <tran loc="es">Eliminar del iPhone</tran>
+        <tran loc="es-419">Eliminar del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>MERGE_LOCAL_DATA</Position>
       <TranslationSet>
         <base loc="en">Merge</base>
-        <tran loc="es">Fusionar</tran>
+        <tran loc="es-419">Asociar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with the previously synced %1$@ %2$@ on your iPhone?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %2$@ de %1$@ sincronizados previamente en el iPhone?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con %2$@ de %1$@ sincronizados previamente en tu iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>REALLY_KEEP_EXISTING_DATA_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">If you keep your current %@ on your iPhone, you may see duplicate entries. Are you sure you want to continue?</base>
-        <tran loc="es">Si mantienes los datos actuales de %@ en el iPhone, puede que haya entradas duplicadas. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Si mantienes los datos actuales de %@ en tu iPhone, puede que haya entradas duplicadas. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>DELETE_ACCOUNT_MERGE_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with %@ on your iPod touch when the account is deleted?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %@ del iPod touch una vez eliminada la cuenta?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos de %@ en tu iPod touch una vez eliminada la cuenta?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>BOOKMARKS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Safari</base>
-        <tran loc="es">Safari</tran>
+        <tran loc="es-419">Safari</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>BOOKMARKS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Safari</base>
-        <tran loc="es">Safari</tran>
+        <tran loc="es-419">Safari</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>DISABLE_DATACLASS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn Off %@</base>
-        <tran loc="es">Desactivar %@</tran>
+        <tran loc="es-419">Desactivar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>CERTIFICATES</Position>
       <TranslationSet>
         <base loc="en">Certificates</base>
-        <tran loc="es">Certificados</tran>
+        <tran loc="es-419">Certificados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>LOSE_NON_UPLOADED_DATA_WARNING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to turn off %1$@? Some changes have not been uploaded to %2$@. If you turn off %1$@, these changes will be lost.</base>
-        <tran loc="es">¿Seguro que quieres desactivar “%1$@”? Algunos cambios no se han cargado en %2$@. Si desactivas “%1$@”, estos cambios se perderán.</tran>
+        <tran loc="es-419">¿Seguro que quieres desactivar %1$@? Algunos cambios no se cargaron a %2$@ y se perderán si desactiva %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>SIRI_DELETE_EXISTING_DATA_ACTION_LABEL</Position>
       <TranslationSet>
         <base loc="en">Stop Using Siri with iCloud</base>
-        <tran loc="es">Dejar de usar Siri con iCloud</tran>
+        <tran loc="es-419">Dejar de usar Siri con iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All existing %1$@ will be removed from your iPod touch.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos existentes de %1$@ se eliminarán del iPod touch.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos existentes de %1$@ se eliminarán de tu iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>HOME_LABEL</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Casa</tran>
+        <tran loc="es-419">Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>HOME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Casa</tran>
+        <tran loc="es-419">Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>LAST_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en"> and </base>
-        <tran loc="es"> y </tran>
+        <tran loc="es-419"> y </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>MEDIASTREAM_WARNING</Position>
       <TranslationSet>
         <base loc="en">Photo Stream photos</base>
-        <tran loc="es">Fotos en streaming</tran>
+        <tran loc="es-419">Secuencia de fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>TURNING_ON_CALENDARS_AND_REMINDERS</Position>
       <TranslationSet>
         <base loc="en">Turning On Calendars and Reminders…</base>
-        <tran loc="es">Activando calendarios y recordatorios…</tran>
+        <tran loc="es-419">Activando calendarios y recordatorios…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>ADDING_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Adding Account</base>
-        <tran loc="es">Añadiendo cuenta</tran>
+        <tran loc="es-419">Agregando cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>REMINDERS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>REMINDERS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPAD</Position>
       <TranslationSet>
         <base loc="en">on your iPad</base>
-        <tran loc="es">en tu iPad</tran>
+        <tran loc="es-419">en tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>DELETE_EXISTING_DATA_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All %@ will be removed from your iPad.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos de %@ se eliminarán del iPad.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos de %@ se eliminarán de tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>DELETE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Delete Account</base>
-        <tran loc="es">Eliminar cuenta</tran>
+        <tran loc="es-419">Eliminar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with the previously synced %1$@ %2$@ on your iPod touch?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %2$@ de %1$@ sincronizados previamente en el iPod touch?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con %2$@ de %1$@ sincronizados previamente en tu iPod touch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>FROM_MY_COMPUTER_TYPE_PC_MID_SENTENCE</Position>
       <TranslationSet>
         <base loc="en">from My PC</base>
-        <tran loc="es">mi PC</tran>
+        <tran loc="es-419">mi PC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>ADD_CARDDAV_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add CardDAV Account</base>
-        <tran loc="es">Añadir cuenta CardDAV</tran>
+        <tran loc="es-419">Agregar cuenta CardDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>DELETE_ACCOUNT_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will remove its %1$@ from your iPad.</base>
-        <tran loc="es">Al eliminar esta cuenta se eliminarán los datos de %1$@ del iPad.</tran>
+        <tran loc="es-419">Al eliminar esta cuenta, también eliminarás de tu iPad %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>NO_IDENTITIES_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">No valid certificates found.</base>
-        <tran loc="es">No hay certificados válidos.</tran>
+        <tran loc="es-419">No hay certificados válidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>DELETE_ACCOUNT_SYNC_WARNING_FORMAT_ONE_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will remove its %1$@ from your device and “%2$@“.</base>
-        <tran loc="es">Al eliminar esta cuenta se eliminarán los datos de %1$@ de este dispositivo y de “%2$@“.</tran>
+        <tran loc="es-419">Al eliminar esta cuenta se eliminarán los datos de %1$@ de “%2$@“ y tu dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>BOOKMARKS_WARNING</Position>
       <TranslationSet>
         <base loc="en">Safari data</base>
-        <tran loc="es">Safari</tran>
+        <tran loc="es-419">Safari</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>PHOTOSTREAM_WARNING</Position>
       <TranslationSet>
         <base loc="en">Photo Stream</base>
-        <tran loc="es">Fotos en streaming</tran>
+        <tran loc="es-419">Secuencia de fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,15 @@
       <Position>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All existing %1$@ will be removed from your iPad.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos existentes de %1$@ se eliminarán del iPad.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos existentes de %1$@ se eliminarán de tu iPad.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>PASSWORD_AUTOFILL_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">AutoFill Passwords</base>
+        <tran loc="es-419">Autorrelleno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +768,7 @@
       <Position>SERVERDOCUMENTS_WARNING</Position>
       <TranslationSet>
         <base loc="en">File Sharing</base>
-        <tran loc="es">Compartir archivos</tran>
+        <tran loc="es-419">Compartir archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +776,7 @@
       <Position>REALLY_KEEP_EXISTING_DATA_WARNING_FORMAT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Keep Local %@</base>
-        <tran loc="es">Mantener datos locales de %@</tran>
+        <tran loc="es-419">Mantener datos locales de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +784,7 @@
       <Position>DELETE_SYNC_DATA_IPAD</Position>
       <TranslationSet>
         <base loc="en">Delete from My iPad</base>
-        <tran loc="es">Eliminar del iPad</tran>
+        <tran loc="es-419">Eliminar del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +792,7 @@
       <Position>ADD_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add Account</base>
-        <tran loc="es">Añadir cuenta</tran>
+        <tran loc="es-419">Agregar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +800,7 @@
       <Position>TURNING_OFF_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Turning Off Contacts…</base>
-        <tran loc="es">Desactivando contactos…</tran>
+        <tran loc="es-419">Desactivando contactos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +808,7 @@
       <Position>DELETE_ACCOUNT_MERGE_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with %1$@ %2$@ on your iPod touch when the account is deleted?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %2$@ de %1$@ del iPod touch una vez eliminada la cuenta?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con %2$@ de %1$@ de tu iPod touch una vez eliminada la cuenta?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +816,7 @@
       <Position>DELETE_SYNC_DATA_IPOD</Position>
       <TranslationSet>
         <base loc="en">Delete from My iPod touch</base>
-        <tran loc="es">Eliminar del iPod touch</tran>
+        <tran loc="es-419">Eliminar del iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +824,7 @@
       <Position>STOCKS_WARNING</Position>
       <TranslationSet>
         <base loc="en">Stocks data</base>
-        <tran loc="es">Datos de cotizaciones</tran>
+        <tran loc="es-419">Datos de Bolsa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +832,7 @@
       <Position>ADD_SUBCAL_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add Subscribed Calendar</base>
-        <tran loc="es">Añadir calendario suscrito</tran>
+        <tran loc="es-419">Agregar calendario suscrito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +840,7 @@
       <Position>LOSE_NON_UPLOADED_DATA_IN_TWO_APPS_WARNING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to turn off %1$@? Some changes in %3$@ and %4$@ have not been uploaded to %2$@. If you turn off %1$@, these changes will be lost.</base>
-        <tran loc="es">¿Seguro que quieres desactivar “%1$@”? Algunos de los cambios efectuados en %3$@ y %4$@ no se han cargado en %2$@. Si desactivas “%1$@”, estos cambios se perderán.</tran>
+        <tran loc="es-419">¿Seguro que quieres apagar %1$@? Ciertos cambios de %3$@ y %4$@ no se cargaron en %2$@. Si apagas %1$@, dichos cambios se perderán.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +848,7 @@
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +856,7 @@
       <Position>SIRI_LABEL</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +864,7 @@
       <Position>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPAD</Position>
       <TranslationSet>
         <base loc="en">on My iPad</base>
-        <tran loc="es">mi iPad</tran>
+        <tran loc="es-419">en iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +872,7 @@
       <Position>TURNING_OFF_NOTES</Position>
       <TranslationSet>
         <base loc="en">Turning Off Notes…</base>
-        <tran loc="es">Desactivando notas…</tran>
+        <tran loc="es-419">Desactivando notas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +880,7 @@
       <Position>ENABLE_OTA_WITH_EXISTING_DATA_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with existing local %@ on your iPad?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos locales existentes de %@ en el iPad?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos locales existentes de %@ en tu iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +888,7 @@
       <Position>CALENDARS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Calendars</base>
-        <tran loc="es">Calendarios</tran>
+        <tran loc="es-419">Calendarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +896,7 @@
       <Position>CALENDARS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Calendars</base>
-        <tran loc="es">Calendarios</tran>
+        <tran loc="es-419">Calendarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +904,7 @@
       <Position>FIND_MY_IPAD_LABEL</Position>
       <TranslationSet>
         <base loc="en">Find My iPad</base>
-        <tran loc="es">Buscar mi iPad</tran>
+        <tran loc="es-419">Buscar Mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +912,7 @@
       <Position>FIND_MY_IPAD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Find My iPad</base>
-        <tran loc="es">Buscar mi iPad</tran>
+        <tran loc="es-419">Buscar Mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +920,7 @@
       <Position>FIND_MY_IPAD_WARNING</Position>
       <TranslationSet>
         <base loc="en">Find My iPad</base>
-        <tran loc="es">Buscar mi iPad</tran>
+        <tran loc="es-419">Buscar Mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +928,7 @@
       <Position>ACCOUNTS</Position>
       <TranslationSet>
         <base loc="en">Accounts</base>
-        <tran loc="es">Cuentas</tran>
+        <tran loc="es-419">Cuentas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +936,7 @@
       <Position>BACKUP_LABEL</Position>
       <TranslationSet>
         <base loc="en">Storage &amp; Backup</base>
-        <tran loc="es">Almacenamiento y copia</tran>
+        <tran loc="es-419">Almacenamiento y respaldo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +944,7 @@
       <Position>DELETE_ACCOUNT_MERGE_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with %1$@ %2$@ on your iPad when the account is deleted?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %2$@ de %1$@ del iPad una vez eliminada la cuenta?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con %2$@ de %1$@ de tu iPad una vez eliminada la cuenta?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +952,7 @@
       <Position>DATA</Position>
       <TranslationSet>
         <base loc="en">data</base>
-        <tran loc="es">datos</tran>
+        <tran loc="es-419">datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +960,7 @@
       <Position>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All existing %1$@ will be removed from your iPhone.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos existentes de %1$@ se eliminarán del iPhone.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos existentes de %1$@ se eliminarán de tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +968,7 @@
       <Position>ADD_OTHER_MAIL_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add Mail Account</base>
-        <tran loc="es">Añadir cuenta de correo</tran>
+        <tran loc="es-419">Agregar cuenta de correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -968,7 +976,7 @@
       <Position>TURNING_ON_REMINDERS</Position>
       <TranslationSet>
         <base loc="en">Turning On Reminders…</base>
-        <tran loc="es">Activando recordatorios…</tran>
+        <tran loc="es-419">Activando recordatorios…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -976,7 +984,7 @@
       <Position>FIND_MY_IPOD_LABEL</Position>
       <TranslationSet>
         <base loc="en">Find My iPod touch</base>
-        <tran loc="es">Buscar mi iPod</tran>
+        <tran loc="es-419">Buscar Mi iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -984,7 +992,7 @@
       <Position>FIND_MY_IPOD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Find My iPod touch</base>
-        <tran loc="es">Buscar mi iPod</tran>
+        <tran loc="es-419">Buscar Mi iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -992,7 +1000,7 @@
       <Position>FIND_MY_IPOD_WARNING</Position>
       <TranslationSet>
         <base loc="en">Find My iPod touch</base>
-        <tran loc="es">Buscar mi iPod</tran>
+        <tran loc="es-419">Buscar Mi iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1000,7 +1008,7 @@
       <Position>ENABLE_OTA_WITH_EXISTING_DATA_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with existing local %@ on your iPod touch?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos locales existentes de %@ en el iPod touch?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos locales existentes de %@ en tu iPod touch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1008,7 +1016,7 @@
       <Position>KEEP</Position>
       <TranslationSet>
         <base loc="en">Keep</base>
-        <tran loc="es">Conservar</tran>
+        <tran loc="es-419">Conservar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1016,7 +1024,15 @@
       <Position>AND_N_MORE</Position>
       <TranslationSet>
         <base loc="en"> and %@ more…</base>
-        <tran loc="es"> y %@ más…</tran>
+        <tran loc="es-419"> y %@ más…</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>WEB_AND_APP_PASSWORDS_LABEL</Position>
+      <TranslationSet>
+        <base loc="en">Website &amp; App Passwords</base>
+        <tran loc="es-419">Contraseñas de sitios y apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1024,7 +1040,7 @@
       <Position>NEWS_LABEL</Position>
       <TranslationSet>
         <base loc="en">News</base>
-        <tran loc="es">News</tran>
+        <tran loc="es-419">News</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1032,7 +1048,7 @@
       <Position>NEWS_TITLE</Position>
       <TranslationSet>
         <base loc="en">News</base>
-        <tran loc="es">News</tran>
+        <tran loc="es-419">News</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1040,7 +1056,7 @@
       <Position>HOME_WARNING</Position>
       <TranslationSet>
         <base loc="en">Home data</base>
-        <tran loc="es">Datos de casa</tran>
+        <tran loc="es-419">Datos de la casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1048,7 +1064,7 @@
       <Position>LOSE_NON_UPLOADED_DATA_IPAD</Position>
       <TranslationSet>
         <base loc="en">Delete from iPad</base>
-        <tran loc="es">Eliminar del iPad</tran>
+        <tran loc="es-419">Eliminar del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1056,7 +1072,7 @@
       <Position>NEWS_WARNING</Position>
       <TranslationSet>
         <base loc="en">News data</base>
-        <tran loc="es">Datos de News</tran>
+        <tran loc="es-419">News</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1080,7 @@
       <Position>SYNCED_WITH_YOUR_COMPUTER_TYPE_PC_MID_SENTENCE</Position>
       <TranslationSet>
         <base loc="en">synced with your PC</base>
-        <tran loc="es">los sincronizados con tu PC</tran>
+        <tran loc="es-419">los sincronizados con tu PC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1072,7 +1088,7 @@
       <Position>DELETE_ACCOUNT_MERGE_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with %@ on your iPad when the account is deleted?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %@ del iPad una vez eliminada la cuenta?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos de %@ en tu iPad una vez eliminada la cuenta?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1080,7 +1096,7 @@
       <Position>DELETE_EXISTING_DATA_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All %@ will be removed from your iPod touch.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos de %@ se eliminarán del iPod touch.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos de %@ se eliminarán de tu iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1104,7 @@
       <Position>DELETE_SYNC_DATA_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Delete from My iPhone</base>
-        <tran loc="es">Eliminar del iPhone</tran>
+        <tran loc="es-419">Eliminar del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1112,7 @@
       <Position>CLOUDDRIVE_WARNING</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive documents and data</base>
-        <tran loc="es">Documentos y datos de iCloud Drive</tran>
+        <tran loc="es-419">Datos y documentos de iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1120,7 @@
       <Position>MIDDLE_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1128,7 @@
       <Position>MEDIASTREAM_LABEL</Position>
       <TranslationSet>
         <base loc="en">Photos</base>
-        <tran loc="es">Fotos</tran>
+        <tran loc="es-419">Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1136,7 @@
       <Position>TURNING_ON_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Turning On Contacts…</base>
-        <tran loc="es">Activando contactos…</tran>
+        <tran loc="es-419">Activando contactos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1144,7 @@
       <Position>TURNING_OFF_REMINDERS</Position>
       <TranslationSet>
         <base loc="en">Turning Off Reminders…</base>
-        <tran loc="es">Desactivando recordatorios…</tran>
+        <tran loc="es-419">Desactivando recordatorios…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1152,7 @@
       <Position>TURNING_OFF_MAIL</Position>
       <TranslationSet>
         <base loc="en">Turning Off Mail…</base>
-        <tran loc="es">Desactivando Mail…</tran>
+        <tran loc="es-419">Desactivando Mail…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1160,7 @@
       <Position>DELETE_ACCOUNT_MERGE_SYNC_DATA_IPOD</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPod touch</base>
-        <tran loc="es">Mantener en el iPod touch</tran>
+        <tran loc="es-419">Mantener en mi iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1168,7 @@
       <Position>KEEP_LOCAL_DATA_IPOD</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPod touch</base>
-        <tran loc="es">Mantener en el iPod touch</tran>
+        <tran loc="es-419">Mantener en mi iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1176,7 @@
       <Position>MERGE_SYNC_DATA_IPOD</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPod touch</base>
-        <tran loc="es">Mantener en el iPod touch</tran>
+        <tran loc="es-419">Mantener en mi iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1184,7 @@
       <Position>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPHONE_SIMULATOR</Position>
       <TranslationSet>
         <base loc="en">on your iPhone Simulator</base>
-        <tran loc="es">en tu Simulador iPhone</tran>
+        <tran loc="es-419">en tu iPhone Simulator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1192,7 @@
       <Position>ON_MY_DEVICE_TYPE_IPOD</Position>
       <TranslationSet>
         <base loc="en">On My iPod touch</base>
-        <tran loc="es">iPod touch</tran>
+        <tran loc="es-419">iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1200,7 @@
       <Position>SIRI_DELETE_EXISTING_DATA_WARNING</Position>
       <TranslationSet>
         <base loc="en">If you stop using Siri with iCloud, your Siri settings will no longer sync between your devices, and HomePod speakers in homes you are a member of will no longer be able to recognize your voice or respond to personal requests.</base>
-        <tran loc="es">Si dejas de usar Siri con iCloud, tus ajustes de Siri se dejarán de sincronizar entre tus dispositivos y los altavoces del HomePod en las casas de las que seas miembro ya no podrán reconocer tu voz o responder a peticiones personales.</tran>
+        <tran loc="es-419">Si dejas de usar Siri con iCloud, tu configuración de Siri dejará de sincronizarse entre tus dispositivos, y los HomePod de las casas de las que formas parte ya no reconocerán tu voz ni responderán a tus peticiones personales.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1192,7 +1208,7 @@
       <Position>TURNING_OFF_CALENDARS</Position>
       <TranslationSet>
         <base loc="en">Turning Off Calendars…</base>
-        <tran loc="es">Desactivando calendarios…</tran>
+        <tran loc="es-419">Desactivando calendarios…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1216,7 @@
       <Position>REMINDERS_WARNING</Position>
       <TranslationSet>
         <base loc="en">reminders</base>
-        <tran loc="es">recordatorios</tran>
+        <tran loc="es-419">recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1224,7 @@
       <Position>LOSE_NON_UPLOADED_DATA_IN_MORE_THAN_THREE_APPS_WARNING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to turn off %1$@? Some changes in %3$@, %4$@, %5$@ and %6$@ other apps have not been uploaded to %2$@. If you turn off %1$@, these changes will be lost.</base>
-        <tran loc="es">¿Seguro que quieres desactivar “%1$@”? Algunos de los cambios efectuados en %3$@, %4$@, %5$@ y otras %6$@ apps no se han cargado en %2$@. Si desactivas “%1$@”, estos cambios se perderán.</tran>
+        <tran loc="es-419">¿Seguro que quieres apagar %1$@? Ciertos cambios de %3$@, %4$@, %5$@ y otras %6$@ apps no se cargaron en %2$@. Si apagas %1$@, dichos cambios se perderán.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1232,7 @@
       <Position>LOSE_NON_UPLOADED_DATA_IPOD</Position>
       <TranslationSet>
         <base loc="en">Delete from iPod touch</base>
-        <tran loc="es">Eliminar del iPod touch</tran>
+        <tran loc="es-419">Eliminar del iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1240,7 @@
       <Position>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with the previously synced %@ on your iPad?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %@ sincronizados previamente en el iPad?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos de %@ sincronizados previamente en tu iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1248,7 @@
       <Position>MERGING</Position>
       <TranslationSet>
         <base loc="en">Merging…</base>
-        <tran loc="es">Fusionando…</tran>
+        <tran loc="es-419">Asociando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1256,7 @@
       <Position>COMBINED_STRING</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1264,7 @@
       <Position>CALENDARS_AND_REMINDERS_WARNING</Position>
       <TranslationSet>
         <base loc="en">calendars and reminders</base>
-        <tran loc="es">calendarios y recordatorios</tran>
+        <tran loc="es-419">calendarios y recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1272,7 @@
       <Position>REALLY_KEEP_EXISTING_DATA_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">If you keep your current %@ on your iPod touch, you may see duplicate entries. Are you sure you want to continue?</base>
-        <tran loc="es">Si mantienes los datos actuales de %@ en el iPod touch, puede que haya entradas duplicadas. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Si mantienes los datos actuales de %@ en tu iPod touch, puede que haya entradas duplicadas. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1280,7 @@
       <Position>ACCOUNT_ADDED</Position>
       <TranslationSet>
         <base loc="en">Account Added</base>
-        <tran loc="es">Cuenta añadida</tran>
+        <tran loc="es-419">Cuenta agregada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1288,7 @@
       <Position>CONTINUE_WITHOUT_MAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Continue setting up this account without mail?</base>
-        <tran loc="es">¿Quieres continuar configurando esta cuenta sin correo?</tran>
+        <tran loc="es-419">¿Continuar configurando esta cuenta sin correo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1296,7 @@
       <Position>MESSAGES_LABEL</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1304,7 @@
       <Position>TURNING_ON_CALENDARS</Position>
       <TranslationSet>
         <base loc="en">Turning On Calendars…</base>
-        <tran loc="es">Activando calendarios…</tran>
+        <tran loc="es-419">Activando calendarios…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1312,7 @@
       <Position>ADD_CALDAV_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add CalDAV Account</base>
-        <tran loc="es">Añadir cuenta CalDAV</tran>
+        <tran loc="es-419">Agregar cuenta CalDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1320,7 @@
       <Position>NETWORKVPN_LABEL</Position>
       <TranslationSet>
         <base loc="en">VPN</base>
-        <tran loc="es">VPN</tran>
+        <tran loc="es-419">VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1328,7 @@
       <Position>NETWORKVPN_WARNING</Position>
       <TranslationSet>
         <base loc="en">VPN</base>
-        <tran loc="es">VPN</tran>
+        <tran loc="es-419">VPN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1336,7 @@
       <Position>DISABLE_OTA_WITH_MERGE_OPTION_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with the previously synced %@ on your iPod touch?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %@ sincronizados previamente en el iPod touch?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos de %@ sincronizados previamente en tu iPod touch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1344,7 @@
       <Position>DELETE_EXISTING_DATA_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All %1$@ %2$@ will be removed from your iPhone.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos de %2$@ de %1$@ se eliminarán del iPhone.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos de %2$@ de %1$@ se eliminarán de tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1352,7 @@
       <Position>SHOEBOX_LABEL</Position>
       <TranslationSet>
         <base loc="en">Wallet</base>
-        <tran loc="es">Wallet</tran>
+        <tran loc="es-419">Wallet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1360,7 @@
       <Position>SHOEBOX_WARNING</Position>
       <TranslationSet>
         <base loc="en">Wallet</base>
-        <tran loc="es">Wallet</tran>
+        <tran loc="es-419">Wallet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1368,7 @@
       <Position>KEYCHAINSYNC_WARNING</Position>
       <TranslationSet>
         <base loc="en">Safari passwords</base>
-        <tran loc="es">Contraseñas de Safari</tran>
+        <tran loc="es-419">Contraseñas de Safari</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1376,7 @@
       <Position>DELETE_EXISTING_DATA_WARNING_NO_ACCOUNT_TYPE_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All %@ will be removed from your iPhone.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos de %@ se eliminarán del iPhone.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos de %@ se eliminarán de tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1384,7 @@
       <Position>NOTES_LABEL</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1392,7 @@
       <Position>NOTES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1400,7 @@
       <Position>HEALTH_LABEL</Position>
       <TranslationSet>
         <base loc="en">Health</base>
-        <tran loc="es">Salud</tran>
+        <tran loc="es-419">Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1408,7 @@
       <Position>DELETE_ACCOUNT_SYNC_WARNING_FORMAT_TWO_DEVICES</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will remove its %1$@ from your device, “%2$@“ and “%3$@“.</base>
-        <tran loc="es">Al eliminar esta cuenta se eliminarán los datos de %1$@ de este dispositivo, “%2$@“ y “%3$@“.</tran>
+        <tran loc="es-419">Al eliminar esta cuenta se eliminarán los datos de %1$@ de “%2$@“, “%3$@“ y de tu dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1416,7 @@
       <Position>ON_MY_DEVICE_TYPE_IPAD</Position>
       <TranslationSet>
         <base loc="en">On My iPad</base>
-        <tran loc="es">iPad</tran>
+        <tran loc="es-419">iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1424,7 @@
       <Position>DELETE_ACCOUNT_SYNC_WARNING_FORMAT_THREE_OR_MORE_DEVICES</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will remove its %1$@ from your device, “%2$@“, “%3$@“ and more.</base>
-        <tran loc="es">Al eliminar esta cuenta se eliminarán los datos de %1$@ de este dispositivo, “%2$@“, “%3$@“ y otros.</tran>
+        <tran loc="es-419">Al eliminar esta cuenta se eliminarán los datos de %1$@ de “%2$@“, “%3$@“, tu dispositivo y otros más.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1432,7 @@
       <Position>KEYCHAINSYNC_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Keychain</base>
-        <tran loc="es">Llavero de iCloud</tran>
+        <tran loc="es-419">Llavero de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1440,7 @@
       <Position>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPOD</Position>
       <TranslationSet>
         <base loc="en">on My iPod touch</base>
-        <tran loc="es">mi iPod touch</tran>
+        <tran loc="es-419">en iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1448,7 @@
       <Position>TURNING_OFF_BOOKMARKS</Position>
       <TranslationSet>
         <base loc="en">Turning Off Safari Data…</base>
-        <tran loc="es">Desactivando datos de Safari…</tran>
+        <tran loc="es-419">Desactivando datos de Safari…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1456,7 @@
       <Position>REALLY_KEEP_EXISTING_DATA_WARNING_ACCOUNT_SYNC_FORMAT</Position>
       <TranslationSet>
         <base loc="en">If you keep your current %@ on your devices, you may see duplicate entries. Are you sure you want to continue?</base>
-        <tran loc="es">Si mantienes los datos actuales de %@ en los dispositivos, puede que haya entradas duplicadas. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Si mantiene los datos actuales de %@ en tus dispositivos, puede que haya entradas duplicadas. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1464,7 @@
       <Position>ADD_LDAP_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add LDAP Account</base>
-        <tran loc="es">Añadir cuenta LDAP</tran>
+        <tran loc="es-419">Agregar cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1472,7 @@
       <Position>CONTACTS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1480,7 @@
       <Position>CONTACTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1488,7 @@
       <Position>STOCKS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Stocks</base>
-        <tran loc="es">Bolsa</tran>
+        <tran loc="es-419">Bolsa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1496,7 @@
       <Position>STOCKS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Stocks</base>
-        <tran loc="es">Bolsa</tran>
+        <tran loc="es-419">Bolsa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1504,7 @@
       <Position>REALLY_DELETE_EXISTING_DATA_WARNING_FORMAT_ACCOUNT_SYNC</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All existing %1$@ will be removed from your devices.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos existentes de %1$@ se eliminarán de los dispositivos.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todo el contenido de %1$@ se eliminará de tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1502,7 +1518,7 @@
       <Position>INSTALLNOW</Position>
       <TranslationSet>
         <base loc="en">INSTALL</base>
-        <tran loc="es">INSTALAR</tran>
+        <tran loc="es-419">INSTALAR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1510,7 +1526,7 @@
       <Position>KEYCHAINSYNC_LABEL</Position>
       <TranslationSet>
         <base loc="en">Keychain</base>
-        <tran loc="es">Llavero</tran>
+        <tran loc="es-419">Llavero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1518,7 +1534,7 @@
       <Position>DELETE_ACCOUNT_MERGE_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with %1$@ %2$@ on your iPhone when the account is deleted?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos de %2$@ de %1$@ del iPhone una vez eliminada la cuenta?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con %2$@ de %1$@ de tu iPhone una vez eliminada la cuenta?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1526,7 +1542,7 @@
       <Position>ADD_SERVER_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add macOS Server Account</base>
-        <tran loc="es">Añadir cuenta de macOS Server</tran>
+        <tran loc="es-419">Agregar cuenta de macOS Server</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1534,7 +1550,7 @@
       <Position>CONTINUE_WITHOUT_MAIL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account does not support mail. The other account features you turned on will be set up.</base>
-        <tran loc="es">Esta cuenta no admite correo electrónico. Se configurarán las demás funciones de la cuenta que has activado.</tran>
+        <tran loc="es-419">Esta cuenta no es compatible con correo. Se configurarán las demás funciones de la cuenta que hayas activado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1542,7 +1558,7 @@
       <Position>OTHER</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otra</tran>
+        <tran loc="es-419">Otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1550,7 +1566,7 @@
       <Position>ENABLE_OTA_WITH_EXISTING_DATA_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with existing local %@ on your iPhone?</base>
-        <tran loc="es">¿Qué quieres hacer con los datos locales existentes de %@ en el iPhone?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con los datos locales existentes de %@ en tu iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1558,7 +1574,7 @@
       <Position>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPOD</Position>
       <TranslationSet>
         <base loc="en">on your iPod touch</base>
-        <tran loc="es">en tu iPod touch</tran>
+        <tran loc="es-419">en tu iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1566,7 +1582,7 @@
       <Position>DELETE_EXISTING_DATA_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to continue? All %1$@ %2$@ will be removed from your iPod touch.</base>
-        <tran loc="es">¿Seguro que quieres continuar? Todos los datos de %2$@ de %1$@ se eliminarán del iPod touch.</tran>
+        <tran loc="es-419">¿Seguro que quieres continuar? Todos los datos de %2$@ de %1$@ se eliminarán de tu iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1574,7 +1590,7 @@
       <Position>UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">UNAVAILABLE</base>
-        <tran loc="es">NO DISPONIBLE</tran>
+        <tran loc="es-419">NO DISPONIBLE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1582,7 +1598,7 @@
       <Position>PASSWORD_MANAGERS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Password Managers</base>
-        <tran loc="es">Gestores de contraseñas</tran>
+        <tran loc="es-419">Administradores de contraseñas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1591,7 +1607,7 @@
       <Position>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">on your iPhone</base>
-        <tran loc="es">en tu iPhone</tran>
+        <tran loc="es-419">en tu iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1599,7 +1615,7 @@
       <Position>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">on My iPhone</base>
-        <tran loc="es">mi iPhone</tran>
+        <tran loc="es-419">en iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1607,7 +1623,7 @@
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1618,7 +1634,7 @@
       <Position>30_MIN</Position>
       <TranslationSet>
         <base loc="en">30 min</base>
-        <tran loc="es">30 minutos</tran>
+        <tran loc="es-419">30 minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1626,7 +1642,7 @@
       <Position>MAIL_CONTACTS_CALENDARS_SHORT</Position>
       <TranslationSet>
         <base loc="en">Mail, Contacts…</base>
-        <tran loc="es">Correo, contactos…</tran>
+        <tran loc="es-419">Correo, contactos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1634,7 +1650,7 @@
       <Position>SUBSCRIBED_CALENDARS</Position>
       <TranslationSet>
         <base loc="en">Subscribed Calendars</base>
-        <tran loc="es">Calendarios suscritos</tran>
+        <tran loc="es-419">Calendarios suscritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1642,7 +1658,7 @@
       <Position>15_MIN</Position>
       <TranslationSet>
         <base loc="en">15 min</base>
-        <tran loc="es">15 minutos</tran>
+        <tran loc="es-419">15 minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1650,7 +1666,7 @@
       <Position>ADD_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add Account</base>
-        <tran loc="es">Añadir cuenta</tran>
+        <tran loc="es-419">Agregar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1658,7 +1674,7 @@
       <Position>LOADING_CONTACTS_CALENDARS</Position>
       <TranslationSet>
         <base loc="en">Loading Contacts, Calendars …</base>
-        <tran loc="es">Cargando contactos, calendarios…</tran>
+        <tran loc="es-419">Cargando contactos, calendarios…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1673,7 +1689,7 @@
       <Position>ACCOUNTS</Position>
       <TranslationSet>
         <base loc="en">Accounts</base>
-        <tran loc="es">Cuentas</tran>
+        <tran loc="es-419">Cuentas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1681,7 +1697,7 @@
       <Position>MIDDLE_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1689,7 +1705,7 @@
       <Position>PUSH</Position>
       <TranslationSet>
         <base loc="en">Push</base>
-        <tran loc="es">Push</tran>
+        <tran loc="es-419">Push</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1697,7 +1713,7 @@
       <Position>HOURLY</Position>
       <TranslationSet>
         <base loc="en">Hourly</base>
-        <tran loc="es">Cada hora</tran>
+        <tran loc="es-419">Cada hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1705,7 +1721,7 @@
       <Position>AUTOMATICALLY</Position>
       <TranslationSet>
         <base loc="en">Automatically</base>
-        <tran loc="es">Automáticamente</tran>
+        <tran loc="es-419">Automáticamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1713,7 +1729,7 @@
       <Position>UNAVAILABLE_WHILE_SYNCING</Position>
       <TranslationSet>
         <base loc="en">Accounts are currently syncing.</base>
-        <tran loc="es">Sincronización en curso</tran>
+        <tran loc="es-419">Sincronización en curso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1721,7 +1737,7 @@
       <Position>FETCH_NEW_DATA</Position>
       <TranslationSet>
         <base loc="en">Fetch New Data</base>
-        <tran loc="es">Obtener datos</tran>
+        <tran loc="es-419">Obtener datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1729,7 +1745,7 @@
       <Position>MAIL_CONTACTS_CALENDARS_EXTRA_SHORT</Position>
       <TranslationSet>
         <base loc="en">Mail…</base>
-        <tran loc="es">Correo…</tran>
+        <tran loc="es-419">Correo…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1737,42 +1753,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
-      </TranslationSet>
-    </TextItem>
-  </File>
-  <File>
-    <Filepath>AccountsUI/System/Library/PrivateFrameworks/AccountsUI.framework/en.lproj/Localizable.stringsdict</Filepath>
-    <TextItem>
-      <Description/>
-      <Position>/WEB_AND_APP_PASSWORDS_LABEL:dict/NSStringVariableWidthRuleType:dict/27:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Website &amp; App Passwords</base>
-        <tran loc="es">Contraseñas de webs y apps</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/PASSWORD_AUTOFILL_LABEL:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">AutoFill Passwords</base>
-        <tran loc="es">Autorrellenar contras.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/WEB_AND_APP_PASSWORDS_LABEL:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Website &amp; App Passwords</base>
-        <tran loc="es">Contras. de webs y apps</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/PASSWORD_AUTOFILL_LABEL:dict/NSStringVariableWidthRuleType:dict/27:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">AutoFill Passwords</base>
-        <tran loc="es">Autorrellenar contraseñas</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>

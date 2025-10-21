@@ -8,7 +8,7 @@
       <Position>Reinterleaver</Position>
       <TranslationSet>
         <base loc="en">Reinterleaver</base>
-        <tran loc="es">Entrelazador</tran>
+        <tran loc="es-419">Entrelazador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Sample Rate Converter</Position>
       <TranslationSet>
         <base loc="en">Sample Rate Converter</base>
-        <tran loc="es">Conversor de frecuencia de muestreo</tran>
+        <tran loc="es-419">Conversor de frecuencia de muestreo</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -27,7 +27,7 @@
       <Position>LATM LOAS</Position>
       <TranslationSet>
         <base loc="en">LATM/LOAS</base>
-        <tran loc="es">LATM/LOAS</tran>
+        <tran loc="es-419">LATM/LOAS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>DTS</Position>
       <TranslationSet>
         <base loc="en">DTS</base>
-        <tran loc="es">DTS</tran>
+        <tran loc="es-419">DTS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>WAVE</Position>
       <TranslationSet>
         <base loc="en">WAVE</base>
-        <tran loc="es">WAVE</tran>
+        <tran loc="es-419">WAVE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>AIFF</Position>
       <TranslationSet>
         <base loc="en">AIFF</base>
-        <tran loc="es">AIFF</tran>
+        <tran loc="es-419">AIFF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>MPEG Layer 1</Position>
       <TranslationSet>
         <base loc="en">MPEG Layer 1</base>
-        <tran loc="es">MPEG Layer 1</tran>
+        <tran loc="es-419">MPEG capa 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>Apple MPEG-4 Audio</Position>
       <TranslationSet>
         <base loc="en">Apple MPEG-4 Audio</base>
-        <tran loc="es">Audio MPEG-4 Apple</tran>
+        <tran loc="es-419">Audio MPEG-4 Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>MPEG Layer 3</Position>
       <TranslationSet>
         <base loc="en">MPEG Layer 3</base>
-        <tran loc="es">MPEG Layer 3</tran>
+        <tran loc="es-419">MPEG capa 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>RF64</Position>
       <TranslationSet>
         <base loc="en">WAVE (RF64 for length over 4 GB)</base>
-        <tran loc="es">WAVE (RF64 para una longitud de más de 4 GB)</tran>
+        <tran loc="es-419">WAVE (RF64 para archivos de más de 4 GB)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>MPEG-4 Audio</Position>
       <TranslationSet>
         <base loc="en">MPEG-4 Audio</base>
-        <tran loc="es">Audio MPEG-4</tran>
+        <tran loc="es-419">Audio MPEG-4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>AIFC</Position>
       <TranslationSet>
         <base loc="en">AIFC</base>
-        <tran loc="es">AIFC</tran>
+        <tran loc="es-419">AIFC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>AAC ADTS</Position>
       <TranslationSet>
         <base loc="en">AAC ADTS</base>
-        <tran loc="es">AAC ADTS</tran>
+        <tran loc="es-419">AAC ADTS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>Sound Designer II</Position>
       <TranslationSet>
         <base loc="en">Sound Designer II</base>
-        <tran loc="es">Sound Designer II</tran>
+        <tran loc="es-419">Sound Designer II</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>3GP Audio</Position>
       <TranslationSet>
         <base loc="en">3GP Audio</base>
-        <tran loc="es">Audio 3GP</tran>
+        <tran loc="es-419">Audio 3GP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>3GPP-2 Audio</Position>
       <TranslationSet>
         <base loc="en">3GPP-2 Audio</base>
-        <tran loc="es">Audio 3GPP-2</tran>
+        <tran loc="es-419">Audio 3GPP-2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>MPEG Layer 2</Position>
       <TranslationSet>
         <base loc="en">MPEG Layer 2</base>
-        <tran loc="es">MPEG Layer 2</tran>
+        <tran loc="es-419">MPEG capa 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>NeXT/Sun</Position>
       <TranslationSet>
         <base loc="en">NeXT/Sun</base>
-        <tran loc="es">NeXT/Sun</tran>
+        <tran loc="es-419">NeXT/Sun</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>AMR</Position>
       <TranslationSet>
         <base loc="en">AMR</base>
-        <tran loc="es">AMR</tran>
+        <tran loc="es-419">AMR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>AC3</Position>
       <TranslationSet>
         <base loc="en">AC3</base>
-        <tran loc="es">AC3</tran>
+        <tran loc="es-419">AC3</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -174,7 +174,7 @@
       <Position>Fast</Position>
       <TranslationSet>
         <base loc="en">Fast</base>
-        <tran loc="es">Rápida</tran>
+        <tran loc="es-419">Rápida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>Pre</Position>
       <TranslationSet>
         <base loc="en">Pre</base>
-        <tran loc="es">Pre</tran>
+        <tran loc="es-419">Pre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>Priming Method</Position>
       <TranslationSet>
         <base loc="en">Priming Method</base>
-        <tran loc="es">Método de Priming</tran>
+        <tran loc="es-419">Método de Priming</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>Quality</Position>
       <TranslationSet>
         <base loc="en">Quality</base>
-        <tran loc="es">Calidad</tran>
+        <tran loc="es-419">Calidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>Quality setting for the sample rate converter.</Position>
       <TranslationSet>
         <base loc="en">Quality setting for the sample rate converter.</base>
-        <tran loc="es">Ajuste de la calidad para el conversor de la frecuencia de muestreo.</tran>
+        <tran loc="es-419">Configuración de la calidad para el conversor de la frecuencia de muestreo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>None</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>Better</Position>
       <TranslationSet>
         <base loc="en">Better</base>
-        <tran loc="es">Mejor</tran>
+        <tran loc="es-419">Mejor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -231,7 +231,7 @@
       <Position>Normal</Position>
       <TranslationSet>
         <base loc="en">Normal</base>
-        <tran loc="es">Normal</tran>
+        <tran loc="es-419">Normal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -239,7 +239,7 @@
       <Position>Best</Position>
       <TranslationSet>
         <base loc="en">Best</base>
-        <tran loc="es">Máxima</tran>
+        <tran loc="es-419">Máxima</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -247,7 +247,7 @@
       <Position>Faster</Position>
       <TranslationSet>
         <base loc="en">Faster</base>
-        <tran loc="es">Más rápida</tran>
+        <tran loc="es-419">Más rápida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -255,7 +255,7 @@
       <Position>Priming method for the sample rate converter.</Position>
       <TranslationSet>
         <base loc="en">Priming method for the sample rate converter.</base>
-        <tran loc="es">Método de Priming para el conversor de la frecuencia de muestreo.</tran>
+        <tran loc="es-419">Método de Priming para el conversor de la frecuencia de muestreo.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -266,7 +266,7 @@
       <Position>BTV DIGITAL</Position>
       <TranslationSet>
         <base loc="en">BTV DIGITAL</base>
-        <tran loc="es">BTV DIGITAL</tran>
+        <tran loc="es-419">BTV DIGITAL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -274,7 +274,7 @@
       <Position>DSAT DISPLAY</Position>
       <TranslationSet>
         <base loc="en">DSAT DISPLAY</base>
-        <tran loc="es">DSAT DISPLAY</tran>
+        <tran loc="es-419">DSAT DISPLAY</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>OLICELP</Position>
       <TranslationSet>
         <base loc="en">OLICELP</base>
-        <tran loc="es">OLICELP</tran>
+        <tran loc="es-419">OLICELP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>CANOPUS ATRAC</Position>
       <TranslationSet>
         <base loc="en">CANOPUS ATRAC</base>
-        <tran loc="es">CANOPUS ATRAC</tran>
+        <tran loc="es-419">CANOPUS ATRAC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>CREATIVE FASTSPEECH10</Position>
       <TranslationSet>
         <base loc="en">CREATIVE FASTSPEECH10</base>
-        <tran loc="es">CREATIVE FASTSPEECH10</tran>
+        <tran loc="es-419">CREATIVE FASTSPEECH10</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>OKI ADPCM</Position>
       <TranslationSet>
         <base loc="en">OKI ADPCM</base>
-        <tran loc="es">OKI ADPCM</tran>
+        <tran loc="es-419">OKI ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>MEDIAVISION ADPCM</Position>
       <TranslationSet>
         <base loc="en">MEDIAVISION ADPCM</base>
-        <tran loc="es">MEDIAVISION ADPCM</tran>
+        <tran loc="es-419">MEDIAVISION ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>YAMAHA ADPCM</Position>
       <TranslationSet>
         <base loc="en">YAMAHA ADPCM</base>
-        <tran loc="es">YAMAHA ADPCM</tran>
+        <tran loc="es-419">YAMAHA ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -330,7 +330,7 @@
       <Position>G721 ADPCM</Position>
       <TranslationSet>
         <base loc="en">G721 ADPCM</base>
-        <tran loc="es">G721 ADPCM</tran>
+        <tran loc="es-419">G721 ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -338,7 +338,7 @@
       <Position>CREATIVE ADPCM</Position>
       <TranslationSet>
         <base loc="en">CREATIVE ADPCM</base>
-        <tran loc="es">CREATIVE ADPCM</tran>
+        <tran loc="es-419">CREATIVE ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -346,7 +346,7 @@
       <Position>APTX</Position>
       <TranslationSet>
         <base loc="en">APTX</base>
-        <tran loc="es">APTX</tran>
+        <tran loc="es-419">APTX</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -354,7 +354,7 @@
       <Position>OLIADPCM</Position>
       <TranslationSet>
         <base loc="en">OLIADPCM</base>
-        <tran loc="es">OLIADPCM</tran>
+        <tran loc="es-419">OLIADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -362,7 +362,7 @@
       <Position>G723 ADPCM</Position>
       <TranslationSet>
         <base loc="en">G723 ADPCM</base>
-        <tran loc="es">G723 ADPCM</tran>
+        <tran loc="es-419">G723 ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -370,7 +370,7 @@
       <Position>ECHOSC1</Position>
       <TranslationSet>
         <base loc="en">ECHOSC1</base>
-        <tran loc="es">ECHOSC1</tran>
+        <tran loc="es-419">ECHOSC1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -378,7 +378,7 @@
       <Position>FM TOWNS SND</Position>
       <TranslationSet>
         <base loc="en">FM TOWNS SND</base>
-        <tran loc="es">FM TOWNS SND</tran>
+        <tran loc="es-419">FM TOWNS SND</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -386,7 +386,7 @@
       <Position>CREATIVE FASTSPEECH8</Position>
       <TranslationSet>
         <base loc="en">CREATIVE FASTSPEECH8</base>
-        <tran loc="es">CREATIVE FASTSPEECH8</tran>
+        <tran loc="es-419">CREATIVE FASTSPEECH8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -394,7 +394,7 @@
       <Position>floating point</Position>
       <TranslationSet>
         <base loc="en">floating point</base>
-        <tran loc="es">coma flotante</tran>
+        <tran loc="es-419">punto flotante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -402,7 +402,7 @@
       <Position>DSAT</Position>
       <TranslationSet>
         <base loc="en">DSAT</base>
-        <tran loc="es">DSAT</tran>
+        <tran loc="es-419">DSAT</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -410,7 +410,7 @@
       <Position>ECHOSC3</Position>
       <TranslationSet>
         <base loc="en">ECHOSC3</base>
-        <tran loc="es">ECHOSC3</tran>
+        <tran loc="es-419">ECHOSC3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -418,7 +418,7 @@
       <Position>MACE 6:1</Position>
       <TranslationSet>
         <base loc="en">MACE 6:1</base>
-        <tran loc="es">MACE 6:1</tran>
+        <tran loc="es-419">MACE 6:1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -426,7 +426,7 @@
       <Position>SONARC</Position>
       <TranslationSet>
         <base loc="en">SONARC</base>
-        <tran loc="es">SONARC</tran>
+        <tran loc="es-419">SONARC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -434,7 +434,7 @@
       <Position>bit</Position>
       <TranslationSet>
         <base loc="en">bit</base>
-        <tran loc="es">bit</tran>
+        <tran loc="es-419">bit</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -442,7 +442,7 @@
       <Position>HVXC</Position>
       <TranslationSet>
         <base loc="en">HVXC</base>
-        <tran loc="es">HVXC</tran>
+        <tran loc="es-419">HVXC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -450,7 +450,7 @@
       <Position>OLIGSM</Position>
       <TranslationSet>
         <base loc="en">OLIGSM</base>
-        <tran loc="es">OLIGSM</tran>
+        <tran loc="es-419">OLIGSM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -458,7 +458,7 @@
       <Position>NMS VBXADPCM</Position>
       <TranslationSet>
         <base loc="en">NMS VBXADPCM</base>
-        <tran loc="es">NMS VBXADPCM</tran>
+        <tran loc="es-419">NMS VBXADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -466,7 +466,7 @@
       <Position>DIALOGIC OKI ADPCM</Position>
       <TranslationSet>
         <base loc="en">DIALOGIC OKI ADPCM</base>
-        <tran loc="es">DIALOGIC OKI ADPCM</tran>
+        <tran loc="es-419">DIALOGIC OKI ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -474,7 +474,7 @@
       <Position>QDesign Music 2</Position>
       <TranslationSet>
         <base loc="en">QDesign Music 2</base>
-        <tran loc="es">QDesign Music 2</tran>
+        <tran loc="es-419">QDesign Music 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -482,7 +482,7 @@
       <Position>G728 CELP</Position>
       <TranslationSet>
         <base loc="en">G728 CELP</base>
-        <tran loc="es">G728 CELP</tran>
+        <tran loc="es-419">G728 CELP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -490,7 +490,7 @@
       <Position>VOXWARE</Position>
       <TranslationSet>
         <base loc="en">VOXWARE</base>
-        <tran loc="es">VOXWARE</tran>
+        <tran loc="es-419">VOXWARE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -498,7 +498,7 @@
       <Position>MPEG-1 or MPEG-2</Position>
       <TranslationSet>
         <base loc="en">MPEG-1 or MPEG-2</base>
-        <tran loc="es">MPEG-1 o MPEG-2</tran>
+        <tran loc="es-419">MPEG-1 o MPEG-2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -506,7 +506,7 @@
       <Position>DOLBY AC2</Position>
       <TranslationSet>
         <base loc="en">DOLBY AC2</base>
-        <tran loc="es">DOLBY AC2</tran>
+        <tran loc="es-419">DOLBY AC2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -514,7 +514,7 @@
       <Position>OLISBC</Position>
       <TranslationSet>
         <base loc="en">OLISBC</base>
-        <tran loc="es">OLISBC</tran>
+        <tran loc="es-419">OLISBC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -522,7 +522,7 @@
       <Position>MPEG Layer 3</Position>
       <TranslationSet>
         <base loc="en">MPEG Layer 3</base>
-        <tran loc="es">MPEG Layer 3</tran>
+        <tran loc="es-419">MPEG capa 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -530,7 +530,7 @@
       <Position>MPEGLAYER3</Position>
       <TranslationSet>
         <base loc="en">MPEG Layer 3</base>
-        <tran loc="es">MPEG Layer 3</tran>
+        <tran loc="es-419">MPEG capa 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -538,7 +538,7 @@
       <Position>DIGIREAL</Position>
       <TranslationSet>
         <base loc="en">DIGIREAL</base>
-        <tran loc="es">DIGIREAL</tran>
+        <tran loc="es-419">DIGIREAL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -546,7 +546,7 @@
       <Position>ANTEX ADPCME</Position>
       <TranslationSet>
         <base loc="en">ANTEX ADPCME</base>
-        <tran loc="es">ANTEX ADPCME</tran>
+        <tran loc="es-419">ANTEX ADPCME</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -554,7 +554,7 @@
       <Position>DIGIADPCM</Position>
       <TranslationSet>
         <base loc="en">DIGIADPCM</base>
-        <tran loc="es">DIGIADPCM</tran>
+        <tran loc="es-419">DIGIADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -562,7 +562,7 @@
       <Position>MACE 3:1</Position>
       <TranslationSet>
         <base loc="en">MACE 3:1</base>
-        <tran loc="es">MACE 3:1</tran>
+        <tran loc="es-419">MACE 3:1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -570,7 +570,7 @@
       <Position>CS IMAADPCM</Position>
       <TranslationSet>
         <base loc="en">CS IMAADPCM</base>
-        <tran loc="es">CS IMAADPCM</tran>
+        <tran loc="es-419">CS IMAADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -578,7 +578,7 @@
       <Position>big-endian</Position>
       <TranslationSet>
         <base loc="en">big-endian</base>
-        <tran loc="es">big-endian</tran>
+        <tran loc="es-419">big-endian</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -586,7 +586,7 @@
       <Position>CIRRUS</Position>
       <TranslationSet>
         <base loc="en">CIRRUS</base>
-        <tran loc="es">CIRRUS</tran>
+        <tran loc="es-419">CIRRUS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -594,7 +594,7 @@
       <Position>Lernout &amp; Hauspie</Position>
       <TranslationSet>
         <base loc="en">Lernout &amp; Hauspie</base>
-        <tran loc="es">Lernout &amp; Hauspie</tran>
+        <tran loc="es-419">Lernout &amp; Hauspie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -602,7 +602,7 @@
       <Position>CELP</Position>
       <TranslationSet>
         <base loc="en">CELP</base>
-        <tran loc="es">CELP</tran>
+        <tran loc="es-419">CELP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -610,7 +610,7 @@
       <Position>Linear PCM</Position>
       <TranslationSet>
         <base loc="en">Linear PCM</base>
-        <tran loc="es">PCM lineal</tran>
+        <tran loc="es-419">PCM lineal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -618,7 +618,7 @@
       <Position>DVI ADPCM</Position>
       <TranslationSet>
         <base loc="en">DVI ADPCM</base>
-        <tran loc="es">DVI ADPCM</tran>
+        <tran loc="es-419">DVI ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@
       <Position>MPEG</Position>
       <TranslationSet>
         <base loc="en">MPEG</base>
-        <tran loc="es">MPEG</tran>
+        <tran loc="es-419">MPEG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -634,7 +634,7 @@
       <Position>QDesign</Position>
       <TranslationSet>
         <base loc="en">QDesign</base>
-        <tran loc="es">QDesign</tran>
+        <tran loc="es-419">QDesign</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -642,7 +642,7 @@
       <Position>AAC</Position>
       <TranslationSet>
         <base loc="en">AAC</base>
-        <tran loc="es">AAC</tran>
+        <tran loc="es-419">AAC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -650,7 +650,7 @@
       <Position>MEDIASPACE ADPCM</Position>
       <TranslationSet>
         <base loc="en">MEDIASPACE ADPCM</base>
-        <tran loc="es">MEDIASPACE ADPCM</tran>
+        <tran loc="es-419">MEDIASPACE ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -658,7 +658,7 @@
       <Position>QUARTERDECK</Position>
       <TranslationSet>
         <base loc="en">QUARTERDECK</base>
-        <tran loc="es">QUARTERDECK</tran>
+        <tran loc="es-419">QUARTERDECK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -666,7 +666,7 @@
       <Position>TwinVQ</Position>
       <TranslationSet>
         <base loc="en">TwinVQ</base>
-        <tran loc="es">TwinVQ</tran>
+        <tran loc="es-419">TwinVQ</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -674,7 +674,7 @@
       <Position>IBM CVSD</Position>
       <TranslationSet>
         <base loc="en">IBM CVSD</base>
-        <tran loc="es">IBM CVSD</tran>
+        <tran loc="es-419">IBM CVSD</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -682,7 +682,7 @@
       <Position>AUDIOFILE AF36</Position>
       <TranslationSet>
         <base loc="en">AUDIOFILE AF36</base>
-        <tran loc="es">AUDIOFILE AF36</tran>
+        <tran loc="es-419">AUDIOFILE AF36</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -690,7 +690,7 @@
       <Position>unsigned integer</Position>
       <TranslationSet>
         <base loc="en">unsigned integer</base>
-        <tran loc="es">entero sin signo</tran>
+        <tran loc="es-419">entero sin firmar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -698,7 +698,7 @@
       <Position>Hz</Position>
       <TranslationSet>
         <base loc="en">Hz</base>
-        <tran loc="es">Hz</tran>
+        <tran loc="es-419">Hz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -706,7 +706,7 @@
       <Position>XEBEC</Position>
       <TranslationSet>
         <base loc="en">XEBEC</base>
-        <tran loc="es">XEBEC</tran>
+        <tran loc="es-419">XEBEC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -714,7 +714,7 @@
       <Position>IMA4</Position>
       <TranslationSet>
         <base loc="en">IMA4</base>
-        <tran loc="es">IMA4</tran>
+        <tran loc="es-419">IMA4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -722,7 +722,7 @@
       <Position>Qualcomm PureVoice\\U2122</Position>
       <TranslationSet>
         <base loc="en">Qualcomm PureVoice™</base>
-        <tran loc="es">Qualcomm PureVoice™</tran>
+        <tran loc="es-419">Qualcomm PureVoice™</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -730,7 +730,7 @@
       <Position>G722 ADPCM</Position>
       <TranslationSet>
         <base loc="en">G722 ADPCM</base>
-        <tran loc="es">G722 ADPCM</tran>
+        <tran loc="es-419">G722 ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -738,7 +738,7 @@
       <Position>CONTROL RES CR10</Position>
       <TranslationSet>
         <base loc="en">CONTROL RES CR10</base>
-        <tran loc="es">CONTROL RES CR10</tran>
+        <tran loc="es-419">CONTROL RES CR10</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -746,7 +746,7 @@
       <Position>channels</Position>
       <TranslationSet>
         <base loc="en">channels</base>
-        <tran loc="es">canales</tran>
+        <tran loc="es-419">canales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -754,7 +754,7 @@
       <Position>\\U03BC-Law 2:1</Position>
       <TranslationSet>
         <base loc="en">μ-Law 2:1</base>
-        <tran loc="es">μ-Law 2:1</tran>
+        <tran loc="es-419">μ-Law 2:1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -762,7 +762,7 @@
       <Position>SOFTSOUND</Position>
       <TranslationSet>
         <base loc="en">SOFTSOUND</base>
-        <tran loc="es">SOFTSOUND</tran>
+        <tran loc="es-419">SOFTSOUND</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +770,7 @@
       <Position>ESPCM</Position>
       <TranslationSet>
         <base loc="en">ESPCM</base>
-        <tran loc="es">ESPCM</tran>
+        <tran loc="es-419">ESPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +778,7 @@
       <Position>ROCKWELL ADPCM</Position>
       <TranslationSet>
         <base loc="en">ROCKWELL ADPCM</base>
-        <tran loc="es">ROCKWELL ADPCM</tran>
+        <tran loc="es-419">ROCKWELL ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +786,7 @@
       <Position>A-Law 2:1</Position>
       <TranslationSet>
         <base loc="en">A-Law 2:1</base>
-        <tran loc="es">A-Law 2:1</tran>
+        <tran loc="es-419">A-Law 2:1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +794,7 @@
       <Position>signed integer</Position>
       <TranslationSet>
         <base loc="en">signed integer</base>
-        <tran loc="es">entero con signo</tran>
+        <tran loc="es-419">entero firmado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +802,7 @@
       <Position>G726 ADPCM</Position>
       <TranslationSet>
         <base loc="en">G726 ADPCM</base>
-        <tran loc="es">G726 ADPCM</tran>
+        <tran loc="es-419">G726 ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +810,7 @@
       <Position>little-endian</Position>
       <TranslationSet>
         <base loc="en">little-endian</base>
-        <tran loc="es">little-endian</tran>
+        <tran loc="es-419">little-endian</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +818,7 @@
       <Position>Microsoft ADPCM</Position>
       <TranslationSet>
         <base loc="en">Microsoft ADPCM</base>
-        <tran loc="es">Microsoft ADPCM</tran>
+        <tran loc="es-419">Microsoft ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +826,7 @@
       <Position>DIGISTD</Position>
       <TranslationSet>
         <base loc="en">DIGISTD</base>
-        <tran loc="es">DIGISTD</tran>
+        <tran loc="es-419">DIGISTD</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -834,7 +834,7 @@
       <Position>OLIOPR</Position>
       <TranslationSet>
         <base loc="en">OLIOPR</base>
-        <tran loc="es">OLIOPR</tran>
+        <tran loc="es-419">OLIOPR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -842,7 +842,7 @@
       <Position>NORRIS</Position>
       <TranslationSet>
         <base loc="en">NORRIS</base>
-        <tran loc="es">NORRIS</tran>
+        <tran loc="es-419">NORRIS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -850,7 +850,7 @@
       <Position>SIERRA ADPCM</Position>
       <TranslationSet>
         <base loc="en">SIERRA ADPCM</base>
-        <tran loc="es">SIERRA ADPCM</tran>
+        <tran loc="es-419">SIERRA ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +858,7 @@
       <Position>DIGIFIX</Position>
       <TranslationSet>
         <base loc="en">DIGIFIX</base>
-        <tran loc="es">DIGIFIX</tran>
+        <tran loc="es-419">DIGIFIX</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +866,7 @@
       <Position>ROCKWELL DIGITALK</Position>
       <TranslationSet>
         <base loc="en">ROCKWELL DIGITALK</base>
-        <tran loc="es">ROCKWELL DIGITALK</tran>
+        <tran loc="es-419">ROCKWELL DIGITALK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -874,7 +874,7 @@
       <Position>RHETOREX ADPCM</Position>
       <TranslationSet>
         <base loc="en">RHETOREX ADPCM</base>
-        <tran loc="es">RHETOREX ADPCM</tran>
+        <tran loc="es-419">RHETOREX ADPCM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -882,7 +882,7 @@
       <Position>AUDIOFILE AF10</Position>
       <TranslationSet>
         <base loc="en">AUDIOFILE AF10</base>
-        <tran loc="es">AUDIOFILE AF10</tran>
+        <tran loc="es-419">AUDIOFILE AF10</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -890,7 +890,7 @@
       <Position>MSNAUDIO</Position>
       <TranslationSet>
         <base loc="en">MSNAUDIO</base>
-        <tran loc="es">MSNAUDIO</tran>
+        <tran loc="es-419">MSNAUDIO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -898,7 +898,7 @@
       <Position>AC3</Position>
       <TranslationSet>
         <base loc="en">AC3</base>
-        <tran loc="es">AC3</tran>
+        <tran loc="es-419">AC3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -906,7 +906,7 @@
       <Position>IMA 4:1</Position>
       <TranslationSet>
         <base loc="en">IMA 4:1</base>
-        <tran loc="es">IMA 4:1</tran>
+        <tran loc="es-419">IMA 4:1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -914,7 +914,7 @@
       <Position>GSM610</Position>
       <TranslationSet>
         <base loc="en">MS-GSM 6.10</base>
-        <tran loc="es">MS-GSM 6.10</tran>
+        <tran loc="es-419">MS-GSM 6.10</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -922,7 +922,7 @@
       <Position>DSPGROUP TRUESPEECH</Position>
       <TranslationSet>
         <base loc="en">DSP Group TrueSpeech</base>
-        <tran loc="es">DSP Group TrueSpeech</tran>
+        <tran loc="es-419">DSP Group TrueSpeech</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -933,7 +933,7 @@
       <Position>7.1 (L R C LFE Rls Rrs Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L R C LFE Rls Rrs Ls Rs)</base>
-        <tran loc="es">7.1 (I D C LFE Dls Drs Is Ds)</tran>
+        <tran loc="es-419">7.1 (L R C LFE Rls Rrs Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -941,7 +941,7 @@
       <Position>4.0 (L R Rls Rrs)</Position>
       <TranslationSet>
         <base loc="en">4.0 (L R Rls Rrs)</base>
-        <tran loc="es">4.0 (I D Dls Drs)</tran>
+        <tran loc="es-419">4.0 (L R Rls Rrs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -949,7 +949,7 @@
       <Position>8.0 (C L R Ls Rs Rls Rrs Cs)</Position>
       <TranslationSet>
         <base loc="en">8.0 (C L R Ls Rs Rls Rrs Cs)</base>
-        <tran loc="es">8.0 (C I D Is Ds Dls Drs Cs)</tran>
+        <tran loc="es-419">8.0 (C L R Ls Rs Rls Rrs Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -957,7 +957,7 @@
       <Position>5.0 (L R Ls Rs C)</Position>
       <TranslationSet>
         <base loc="en">5.0 (L R Ls Rs C)</base>
-        <tran loc="es">5.0 (I D Is Ds C)</tran>
+        <tran loc="es-419">5.0 (L R Ls Rs C)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -965,7 +965,7 @@
       <Position>8.1 (Lc Rc L R Ls Rs Rls Rrs LFE)</Position>
       <TranslationSet>
         <base loc="en">8.1 (Lc Rc L R Ls Rs Rls Rrs LFE)</base>
-        <tran loc="es">8.1 (Ic Dc I D Is Ds Dls Drs LFE)</tran>
+        <tran loc="es-419">8.1 (Lc Rc L R Ls Rs Rls Rrs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -973,7 +973,7 @@
       <Position>7.0 (C L R Ls Rs Rls Rrs)</Position>
       <TranslationSet>
         <base loc="en">7.0 (C L R Ls Rs Rls Rrs)</base>
-        <tran loc="es">7.0 (C I D Is Ds Dls Drs)</tran>
+        <tran loc="es-419">7.0 (C L R Ls Rs Rls Rrs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -981,7 +981,7 @@
       <Position>7.0 (L R Ls Rs C Rls Rrs)</Position>
       <TranslationSet>
         <base loc="en">7.0 (L R Ls Rs C Rls Rrs)</base>
-        <tran loc="es">7.0 (I D Is Ds C Dls Drs)</tran>
+        <tran loc="es-419">7.0 (L R Ls Rs C Rls Rrs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -989,7 +989,7 @@
       <Position>4.0 (C L R Cs)</Position>
       <TranslationSet>
         <base loc="en">4.0 (C L R Cs)</base>
-        <tran loc="es">4.0 (C L R Cs)</tran>
+        <tran loc="es-419">4.0 (C L R Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +997,7 @@
       <Position>7.1 (Lc C Rc L R Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">7.1 (Lc C Rc L R Ls Rs)</base>
-        <tran loc="es">7.1 (Ic C Dc I D Is Ds)</tran>
+        <tran loc="es-419">7.1 (Lc C Rc L R Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1005,7 +1005,7 @@
       <Position>TMH 10.2 (21 channel)</Position>
       <TranslationSet>
         <base loc="en">TMH 10.2 (21 channel)</base>
-        <tran loc="es">TMH 10.2 (21 canales)</tran>
+        <tran loc="es-419">TMH 10.2 (21 canales)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1013,7 +1013,7 @@
       <Position>4.0 (L C R Cs)</Position>
       <TranslationSet>
         <base loc="en">4.0 (L C R Cs)</base>
-        <tran loc="es">4.0 (L C R Cs)</tran>
+        <tran loc="es-419">4.0 (L C R Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1021,7 +1021,7 @@
       <Position>Stereo (L R)</Position>
       <TranslationSet>
         <base loc="en">Stereo (L R)</base>
-        <tran loc="es">Estéreo (I D)</tran>
+        <tran loc="es-419">Estéreo (L R)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@
       <Position>4.0 (L R Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">4.0 (L R Ls Rs)</base>
-        <tran loc="es">4.0 (I D Is Ds)</tran>
+        <tran loc="es-419">4.0 (L R Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@
       <Position>3.1 (L R C LFE)</Position>
       <TranslationSet>
         <base loc="en">3.1 (L R C LFE)</base>
-        <tran loc="es">3.1 (L R C LFE)</tran>
+        <tran loc="es-419">3.1 (L R C LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@
       <Position>4.0 (L R C Cs)</Position>
       <TranslationSet>
         <base loc="en">4.0 (L R C Cs)</base>
-        <tran loc="es">4.0 (L R C Cs)</tran>
+        <tran loc="es-419">4.0 (L R C Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1053,7 @@
       <Position>Pentagonal</Position>
       <TranslationSet>
         <base loc="en">Pentagonal</base>
-        <tran loc="es">Pentagonal</tran>
+        <tran loc="es-419">Pentagonal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1061,7 @@
       <Position>6.1 (L C R Ls Rs LFE Vhc)</Position>
       <TranslationSet>
         <base loc="en">6.1 (L C R Ls Rs LFE Vhc)</base>
-        <tran loc="es">6.1 (I C D Is Ds LFE Vhc)</tran>
+        <tran loc="es-419">6.1 (L C R Ls Rs LFE Vhc)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1069,7 @@
       <Position>SMPTE DTV</Position>
       <TranslationSet>
         <base loc="en">SMPTE DTV</base>
-        <tran loc="es">SMPTE DTV</tran>
+        <tran loc="es-419">SMPTE DTV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1077,7 +1077,7 @@
       <Position>4.1 (L R C LFE Cs)</Position>
       <TranslationSet>
         <base loc="en">4.1 (L R C LFE Cs)</base>
-        <tran loc="es">4.1 (L R C LFE Cs)</tran>
+        <tran loc="es-419">4.1 (L R C LFE Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1085,7 +1085,7 @@
       <Position>6.0 (L C R Ls Rs Cs)</Position>
       <TranslationSet>
         <base loc="en">6.0 (L C R Ls Rs Cs)</base>
-        <tran loc="es">6.0 (I C D Is Ds Cs)</tran>
+        <tran loc="es-419">6.0 (L C R Ls Rs Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1093,7 +1093,7 @@
       <Position>1.1 (C LFE)</Position>
       <TranslationSet>
         <base loc="en">1.1 (C LFE)</base>
-        <tran loc="es">1.1 (C LFE)</tran>
+        <tran loc="es-419">1.1 (C LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1101,7 +1101,7 @@
       <Position>Matrix Stereo</Position>
       <TranslationSet>
         <base loc="en">Matrix Stereo</base>
-        <tran loc="es">Estéreo matricial</tran>
+        <tran loc="es-419">Estéreo matricial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1109,7 +1109,7 @@
       <Position>6.0 (C L R Rls Rrs Ts)</Position>
       <TranslationSet>
         <base loc="en">6.0 (C L R Rls Rrs Ts)</base>
-        <tran loc="es">6.0 (C I D Ils Drs Ts)</tran>
+        <tran loc="es-419">6.0 (C L R Rls Rrs Ts)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1117,7 +1117,7 @@
       <Position>7.0 (L C R Ls Rs Rls Rrs)</Position>
       <TranslationSet>
         <base loc="en">7.0 (L C R Ls Rs Rls Rrs)</base>
-        <tran loc="es">7.0 (I C D Is Ds Dls Drs)</tran>
+        <tran loc="es-419">7.0 (L C R Ls Rs Rls Rrs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1125,7 +1125,7 @@
       <Position>3.0 (L C R)</Position>
       <TranslationSet>
         <base loc="en">3.0 (L C R)</base>
-        <tran loc="es">3.0 (L C R)</tran>
+        <tran loc="es-419">3.0 (L C R)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1133,7 +1133,7 @@
       <Position>7.1 (C Lc Rc L R Ls Rs LFE)</Position>
       <TranslationSet>
         <base loc="en">7.1 (C Lc Rc L R Ls Rs LFE)</base>
-        <tran loc="es">7.1 (C Ic Dc I D Is Ds LFE)</tran>
+        <tran loc="es-419">7.1 (C Lc Rc L R Ls Rs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1141,7 +1141,7 @@
       <Position>4.1 (C L R Cs LFE)</Position>
       <TranslationSet>
         <base loc="en">4.1 (C L R Cs LFE)</base>
-        <tran loc="es">4.1 (C L R Cs LFE)</tran>
+        <tran loc="es-419">4.1 (C L R Cs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1149,7 +1149,7 @@
       <Position>6.1 (L R C LFE Ls Rs Cs)</Position>
       <TranslationSet>
         <base loc="en">6.1 (L R C LFE Ls Rs Cs)</base>
-        <tran loc="es">6.1 (I D C LFE Is Ds Cs)</tran>
+        <tran loc="es-419">6.1 (L R C LFE Ls Rs Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1157,7 +1157,7 @@
       <Position>7.1 (L C R Ls Rs LFE Vhl Vhr)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L C R Ls Rs LFE Vhl Vhr)</base>
-        <tran loc="es">7.1 (I C D Is Ds LFE Vhl Vhr)</tran>
+        <tran loc="es-419">7.1 (L C R Ls Rs LFE Vhl Vhr)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1165,7 +1165,7 @@
       <Position>Quadraphonic</Position>
       <TranslationSet>
         <base loc="en">Quadraphonic</base>
-        <tran loc="es">Cuadrafónico</tran>
+        <tran loc="es-419">Cuadrafónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1173,7 +1173,7 @@
       <Position>7.1 (L R C LFE Ls Rs Rls Rrs)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L R C LFE Ls Rs Rls Rrs)</base>
-        <tran loc="es">7.1 (I D C LFE Is Ds Dls Drs)</tran>
+        <tran loc="es-419">7.1 (L R C LFE Ls Rs Rls Rrs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1181,7 +1181,7 @@
       <Position>7.1 (L C R Ls Rs LFE Lsd Rsd)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L C R Ls Rs LFE Lsd Rsd)</base>
-        <tran loc="es">7.1 (I C D Is Ds LFE Isd Dsd)</tran>
+        <tran loc="es-419">7.1 (L C R Ls Rs LFE Lsd Rsd)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1189,7 +1189,7 @@
       <Position>5.0 (C L R Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">5.0 (C L R Ls Rs)</base>
-        <tran loc="es">5.0 (C I D Is Ds)</tran>
+        <tran loc="es-419">5.0 (C L R Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1197,7 +1197,7 @@
       <Position>7.1 (L R Ls Rs C LFE Lc Rc)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L R Ls Rs C LFE Lc Rc)</base>
-        <tran loc="es">7.1 (I D Is Ds C LFE Ic Dc)</tran>
+        <tran loc="es-419">7.1 (L R Ls Rs C LFE Lc Rc)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1205,7 +1205,7 @@
       <Position>Discrete Channel</Position>
       <TranslationSet>
         <base loc="en">Discrete Channel</base>
-        <tran loc="es">Canal discreto</tran>
+        <tran loc="es-419">Canal discreto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1213,7 +1213,7 @@
       <Position>Binaural</Position>
       <TranslationSet>
         <base loc="en">Binaural</base>
-        <tran loc="es">Biaural</tran>
+        <tran loc="es-419">Biaural</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1221,7 +1221,7 @@
       <Position>Stereo</Position>
       <TranslationSet>
         <base loc="en">Stereo</base>
-        <tran loc="es">Estéreo</tran>
+        <tran loc="es-419">Estéreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1229,7 +1229,7 @@
       <Position>5.1 (C L R Ls Rs LFE)</Position>
       <TranslationSet>
         <base loc="en">5.1 (C L R Ls Rs LFE)</base>
-        <tran loc="es">5.1 (C I D Is Ds LFE)</tran>
+        <tran loc="es-419">5.1 (C L R Ls Rs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1237,7 +1237,7 @@
       <Position>7.1 (L C R Ls Rs LFE Cs Ts)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L C R Ls Rs LFE Cs Ts)</base>
-        <tran loc="es">7.1 (I C D Is Ds LFE Cs Ts)</tran>
+        <tran loc="es-419">7.1 (L C R Ls Rs LFE Cs Ts)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1245,7 +1245,7 @@
       <Position>6.0 (Lc Rc L R Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">6.0 (Lc Rc L R Ls Rs)</base>
-        <tran loc="es">6.0 (Ic Dc I D Is Ds)</tran>
+        <tran loc="es-419">6.0 (Lc Rc L R Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1253,7 +1253,7 @@
       <Position>6.0 (C Cs L R Rls Rrs)</Position>
       <TranslationSet>
         <base loc="en">6.0 (C Cs L R Rls Rrs)</base>
-        <tran loc="es">6.0 (C Cs I D Dls Drs)</tran>
+        <tran loc="es-419">6.0 (C Cs L R Rls Rrs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1261,7 +1261,7 @@
       <Position>7.1 (L C R Ls Rs LFE Rls Rrs)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L C R Ls Rs LFE Rls Rrs)</base>
-        <tran loc="es">7.1 (I C D Is Ds LFE Dls Drs)</tran>
+        <tran loc="es-419">7.1 (L C R Ls Rs LFE Rls Rrs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1269,7 +1269,7 @@
       <Position>6.0 (L R Ls Rs C Cs)</Position>
       <TranslationSet>
         <base loc="en">6.0 (L R Ls Rs C Cs)</base>
-        <tran loc="es">6.0 (I D Is Ds C Cs)</tran>
+        <tran loc="es-419">6.0 (L R Ls Rs C Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1277,7 +1277,7 @@
       <Position>6.0 (C L R Ls Rs Cs)</Position>
       <TranslationSet>
         <base loc="en">6.0 (C L R Ls Rs Cs)</base>
-        <tran loc="es">6.0 (C I D Is Ds Cs)</tran>
+        <tran loc="es-419">6.0 (C L R Ls Rs Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1285,7 +1285,7 @@
       <Position>2.1 (L R LFE)</Position>
       <TranslationSet>
         <base loc="en">2.1 (L R LFE)</base>
-        <tran loc="es">2.1 (L R LFE)</tran>
+        <tran loc="es-419">2.1 (L R LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1293,7 +1293,7 @@
       <Position>Octagonal</Position>
       <TranslationSet>
         <base loc="en">Octagonal</base>
-        <tran loc="es">Octogonal</tran>
+        <tran loc="es-419">Octogonal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1301,7 +1301,7 @@
       <Position>4.1 (L R Ls Rs LFE)</Position>
       <TranslationSet>
         <base loc="en">4.1 (L R Ls Rs LFE)</base>
-        <tran loc="es">4.1 (I D Is Ds LFE)</tran>
+        <tran loc="es-419">4.1 (L R Ls Rs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1309,7 +1309,7 @@
       <Position>6.1 (Lc Rc L R Ls Rs LFE)</Position>
       <TranslationSet>
         <base loc="en">6.1 (Lc Rc L R Ls Rs LFE)</base>
-        <tran loc="es">6.1 (Ic Dc I D Is Ds LFE)</tran>
+        <tran loc="es-419">6.1 (Lc Rc L R Ls Rs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1317,7 +1317,7 @@
       <Position>8.0 (Lc Rc L R Ls Rs Rls Rrs)</Position>
       <TranslationSet>
         <base loc="en">8.0 (Lc Rc L R Ls Rs Rls Rrs)</base>
-        <tran loc="es">8.0 (Ic Dc I D Is Ds Dls Drs)</tran>
+        <tran loc="es-419">8.0 (Lc Rc L R Ls Rs Rls Rrs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1325,7 +1325,7 @@
       <Position>5.1 (L R Ls Rs C LFE)</Position>
       <TranslationSet>
         <base loc="en">5.1 (L R Ls Rs C LFE)</base>
-        <tran loc="es">5.1 (I D Is Ds C LFE)</tran>
+        <tran loc="es-419">5.1 (L R Ls Rs C LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1333,7 +1333,7 @@
       <Position>4.1 (L C R Cs LFE)</Position>
       <TranslationSet>
         <base loc="en">4.1 (L C R Cs LFE)</base>
-        <tran loc="es">4.1 (L C R Cs LFE)</tran>
+        <tran loc="es-419">4.1 (L C R Cs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1341,7 +1341,7 @@
       <Position>Mono</Position>
       <TranslationSet>
         <base loc="en">Mono</base>
-        <tran loc="es">Mono</tran>
+        <tran loc="es-419">Mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1349,7 +1349,7 @@
       <Position>6.1 (L C R Ls Rs LFE Cs)</Position>
       <TranslationSet>
         <base loc="en">6.1 (L C R Ls Rs LFE Cs)</base>
-        <tran loc="es">6.1 (I C D Is Ds LFE Cs)</tran>
+        <tran loc="es-419">6.1 (L C R Ls Rs LFE Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1357,7 +1357,7 @@
       <Position>7.1 (Lc C Rc L R Ls Rs LFE)</Position>
       <TranslationSet>
         <base loc="en">7.1 (Lc C Rc L R Ls Rs LFE)</base>
-        <tran loc="es">7.1 (Ic C Dc I D Is Ds LFE)</tran>
+        <tran loc="es-419">7.1 (Lc C Rc L R Ls Rs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1365,7 +1365,7 @@
       <Position>3.0 (L R Cs)</Position>
       <TranslationSet>
         <base loc="en">3.0 (L R Cs)</base>
-        <tran loc="es">3.0 (L R Cs)</tran>
+        <tran loc="es-419">3.0 (L R Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1373,7 +1373,7 @@
       <Position>X-Y</Position>
       <TranslationSet>
         <base loc="en">X-Y</base>
-        <tran loc="es">X-Y</tran>
+        <tran loc="es-419">X-Y</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1381,7 +1381,7 @@
       <Position>5.1 (L C R Ls Rs LFE)</Position>
       <TranslationSet>
         <base loc="en">5.1 (L C R Ls Rs LFE)</base>
-        <tran loc="es">5.1 (I C D Is Ds LFE)</tran>
+        <tran loc="es-419">5.1 (L C R Ls Rs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1389,7 +1389,7 @@
       <Position>7.1 (L C R Ls Rs LFE Ts Vhc)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L C R Ls Rs LFE Ts Vhc)</base>
-        <tran loc="es">7.1 (I C D Is Ds LFE Ts Vhc)</tran>
+        <tran loc="es-419">7.1 (L C R Ls Rs LFE Ts Vhc)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1397,7 +1397,7 @@
       <Position>7.1 (L C R Ls Rs LFE Lc Rc)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L C R Ls Rs LFE Lc Rc)</base>
-        <tran loc="es">7.1 (I C D Is Ds LFE Ic Dc)</tran>
+        <tran loc="es-419">7.1 (L C R Ls Rs LFE Lc Rc)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1405,7 +1405,7 @@
       <Position>Cube</Position>
       <TranslationSet>
         <base loc="en">Cube</base>
-        <tran loc="es">Cúbico</tran>
+        <tran loc="es-419">Cúbico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1413,7 +1413,7 @@
       <Position>3.1 (L R Cs LFE)</Position>
       <TranslationSet>
         <base loc="en">3.1 (L R Cs LFE)</base>
-        <tran loc="es">3.1 (L R Cs LFE)</tran>
+        <tran loc="es-419">3.1 (L R Cs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1421,7 +1421,7 @@
       <Position>3.1 (L R LFE Cs)</Position>
       <TranslationSet>
         <base loc="en">3.1 (L R LFE Cs)</base>
-        <tran loc="es">3.1 (L R LFE Cs)</tran>
+        <tran loc="es-419">3.1 (L R LFE Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1429,7 +1429,7 @@
       <Position>TMH 10.2 (16 channel)</Position>
       <TranslationSet>
         <base loc="en">TMH 10.2 (16 channel)</base>
-        <tran loc="es">TMH 10.2 (16 canales)</tran>
+        <tran loc="es-419">TMH 10.2 (16 canales)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1437,7 +1437,7 @@
       <Position>SMPTE DTV (L R C LFE Ls Rs Lt Rt)</Position>
       <TranslationSet>
         <base loc="en">SMPTE DTV (L R C LFE Ls Rs Lt Rt)</base>
-        <tran loc="es">SMPTE DTV (I D C LFE Is Ds It Dt)</tran>
+        <tran loc="es-419">SMPTE DTV (L R C LFE Ls Rs Lt Rt)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1445,7 +1445,7 @@
       <Position>8.0 (Lc C Rc L R Ls Cs Rs)</Position>
       <TranslationSet>
         <base loc="en">8.0 (Lc C Rc L R Ls Cs Rs)</base>
-        <tran loc="es">8.0 (Ic C Dc I D Is Cs Ds)</tran>
+        <tran loc="es-419">8.0 (Lc C Rc L R Ls Cs Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1453,7 +1453,7 @@
       <Position>5.1 (L R C LFE Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">5.1 (L R C LFE Ls Rs)</base>
-        <tran loc="es">5.1 (I D C LFE Is Ds)</tran>
+        <tran loc="es-419">5.1 (L R C LFE Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1461,7 +1461,7 @@
       <Position>6.1 (C L R Ls Rs Cs LFE)</Position>
       <TranslationSet>
         <base loc="en">6.1 (C L R Ls Rs Cs LFE)</base>
-        <tran loc="es">6.1 (C I D Is Ds Cs LFE)</tran>
+        <tran loc="es-419">6.1 (C L R Ls Rs Cs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1469,7 +1469,7 @@
       <Position>5.0 (L C R Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">5.0 (L C R Ls Rs)</base>
-        <tran loc="es">5.0 (I C D Is Ds)</tran>
+        <tran loc="es-419">5.0 (L C R Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1477,7 +1477,7 @@
       <Position>Hexagonal</Position>
       <TranslationSet>
         <base loc="en">Hexagonal</base>
-        <tran loc="es">Hexagonal</tran>
+        <tran loc="es-419">Hexagonal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1485,7 +1485,7 @@
       <Position>3.0 (L R C)</Position>
       <TranslationSet>
         <base loc="en">3.0 (L R C)</base>
-        <tran loc="es">3.0 (L R C)</tran>
+        <tran loc="es-419">3.0 (L R C)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1493,7 +1493,7 @@
       <Position>Mid-Side</Position>
       <TranslationSet>
         <base loc="en">Mid-Side</base>
-        <tran loc="es">Medio/Lateral</tran>
+        <tran loc="es-419">Medio/Lateral</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1501,7 +1501,7 @@
       <Position>6.1 (C Cs L R Rls Rrs LFE)</Position>
       <TranslationSet>
         <base loc="en">6.1 (C Cs L R Rls Rrs LFE)</base>
-        <tran loc="es">6.1 (C Cs I D Dls Drs LFE)</tran>
+        <tran loc="es-419">6.1 (C Cs L R Rls Rrs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1509,7 +1509,7 @@
       <Position>6.1 (C L R Ls Rs LFE Cs)</Position>
       <TranslationSet>
         <base loc="en">6.1 (C L R Ls Rs LFE Cs)</base>
-        <tran loc="es">6.1 (C I D Is Ds LFE Cs)</tran>
+        <tran loc="es-419">6.1 (C L R Ls Rs LFE Cs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1517,7 +1517,7 @@
       <Position>Matrix Stereo (Lt Rt)</Position>
       <TranslationSet>
         <base loc="en">Matrix Stereo (Lt Rt)</base>
-        <tran loc="es">Estéreo matricial (It Dt)</tran>
+        <tran loc="es-419">Estéreo matricial (Lt Rt)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1525,7 +1525,7 @@
       <Position>7.1 (L C R Ls Rs LFE Lw Rw)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L C R Ls Rs LFE Lw Rw)</base>
-        <tran loc="es">7.1 (I C D Is Ds LFE Iw Dw)</tran>
+        <tran loc="es-419">7.1 (L C R Ls Rs LFE Lw Rw)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1533,7 +1533,7 @@
       <Position>7.1 (L C R Ls Rs LFE Cs Vhc)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L C R Ls Rs LFE Cs Vhc)</base>
-        <tran loc="es">7.1 (I C D Is Ds LFE Cs Vhc)</tran>
+        <tran loc="es-419">7.1 (L C R Ls Rs LFE Cs Vhc)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1541,7 +1541,7 @@
       <Position>6.1 (L R C LFE Cs Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">6.1 (L R C LFE Cs Ls Rs)</base>
-        <tran loc="es">6.1 (I D C LFE Cs Is Ds)</tran>
+        <tran loc="es-419">6.1 (L R C LFE Cs Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1549,7 +1549,7 @@
       <Position>4.1 (L R LFE Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">4.1 (L R LFE Ls Rs)</base>
-        <tran loc="es">4.1 (I D LFE Is Ds)</tran>
+        <tran loc="es-419">4.1 (L R LFE Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1557,7 +1557,7 @@
       <Position>5.0 (L R C Ls Rs)</Position>
       <TranslationSet>
         <base loc="en">5.0 (L R C Ls Rs)</base>
-        <tran loc="es">5.0 (I D C Is Ds)</tran>
+        <tran loc="es-419">5.0 (L R C Ls Rs)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1565,7 +1565,7 @@
       <Position>7.0 (L R Ls Rs C Lc Rc)</Position>
       <TranslationSet>
         <base loc="en">7.0 (L R Ls Rs C Lc Rc)</base>
-        <tran loc="es">7.0 (I D Is Ds C Ic Dc)</tran>
+        <tran loc="es-419">7.0 (L R Ls Rs C Lc Rc)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1573,7 +1573,7 @@
       <Position>6.1 (L C R Ls Rs LFE Ts)</Position>
       <TranslationSet>
         <base loc="en">6.1 (L C R Ls Rs LFE Ts)</base>
-        <tran loc="es">6.1 (I C D Is Ds LFE Ts)</tran>
+        <tran loc="es-419">6.1 (L C R Ls Rs LFE Ts)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1581,7 +1581,7 @@
       <Position>6.1 (C L R Rls Rrs Ts LFE)</Position>
       <TranslationSet>
         <base loc="en">6.1 (C L R Rls Rrs Ts LFE)</base>
-        <tran loc="es">6.1 (C I D Dls Drs Ts LFE)</tran>
+        <tran loc="es-419">6.1 (C L R Rls Rrs Ts LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1589,7 +1589,7 @@
       <Position>Discrete Channels</Position>
       <TranslationSet>
         <base loc="en">Discrete Channels</base>
-        <tran loc="es">Canales discretos</tran>
+        <tran loc="es-419">Canales discretos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1597,7 +1597,7 @@
       <Position>Ambisonic B Format</Position>
       <TranslationSet>
         <base loc="en">Ambisonic B Format</base>
-        <tran loc="es">Formato B ambisónico</tran>
+        <tran loc="es-419">Formato B ambisónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1605,7 +1605,7 @@
       <Position>Stereo Headphones</Position>
       <TranslationSet>
         <base loc="en">Stereo Headphones</base>
-        <tran loc="es">Auriculares estéreo</tran>
+        <tran loc="es-419">Audífonos estéreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1613,7 +1613,7 @@
       <Position>7.1 (L R C LFE Ls Rs Lc Rc)</Position>
       <TranslationSet>
         <base loc="en">7.1 (L R C LFE Ls Rs Lc Rc)</base>
-        <tran loc="es">7.1 (I D C LFE Is Ds Ic Rc)</tran>
+        <tran loc="es-419">7.1 (L R C LFE Ls Rs Lc Rc)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1621,7 @@
       <Position>3.1 (C L R LFE)</Position>
       <TranslationSet>
         <base loc="en">3.1 (C L R LFE)</base>
-        <tran loc="es">3.1 (C L R LFE)</tran>
+        <tran loc="es-419">3.1 (C L R LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1629,7 @@
       <Position>Ambisonic B Format (W X Y Z)</Position>
       <TranslationSet>
         <base loc="en">Ambisonic B Format (W X Y Z)</base>
-        <tran loc="es">Formato B ambisónico (W X Y Z)</tran>
+        <tran loc="es-419">Formato B ambisónico (W X Y Z)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1637,7 @@
       <Position>8.1 (Lc C Rc L R Ls Cs Rs LFE)</Position>
       <TranslationSet>
         <base loc="en">8.1 (Lc C Rc L R Ls Cs Rs LFE)</base>
-        <tran loc="es">8.1 (Ic C Dc I D Is Cs Ds LFE)</tran>
+        <tran loc="es-419">8.1 (Lc C Rc L R Ls Cs Rs LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1645,7 @@
       <Position>3.1 (L C R LFE)</Position>
       <TranslationSet>
         <base loc="en">3.1 (L C R LFE)</base>
-        <tran loc="es">3.1 (L C R LFE)</tran>
+        <tran loc="es-419">3.1 (L C R LFE)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1653,7 @@
       <Position>3.0 (C L R)</Position>
       <TranslationSet>
         <base loc="en">3.0 (C L R)</base>
-        <tran loc="es">3.0 (C L R)</tran>
+        <tran loc="es-419">3.0 (C L R)</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1664,7 +1664,7 @@
       <Position>%@ (%g, %g, %g)</Position>
       <TranslationSet>
         <base loc="en">%@ (%g, %g, %g)</base>
-        <tran loc="es">%@ (%g, %g, %g)</tran>
+        <tran loc="es-419">%@ (%g, %g, %g)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1672,7 +1672,7 @@
       <Position>Left Surround Direct</Position>
       <TranslationSet>
         <base loc="en">Left Surround Direct</base>
-        <tran loc="es">Envolvente directo izquierdo</tran>
+        <tran loc="es-419">Envolvente directo izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1680,7 +1680,7 @@
       <Position>Ambisonic Y</Position>
       <TranslationSet>
         <base loc="en">Ambisonic Y</base>
-        <tran loc="es">Y ambisónica</tran>
+        <tran loc="es-419">Y ambisónica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1688,7 +1688,7 @@
       <Position>Foreign Language</Position>
       <TranslationSet>
         <base loc="en">Foreign Language</base>
-        <tran loc="es">Idioma extranjero</tran>
+        <tran loc="es-419">Idioma extranjero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1696,7 +1696,7 @@
       <Position>Haptic</Position>
       <TranslationSet>
         <base loc="en">Haptic</base>
-        <tran loc="es">Táctil</tran>
+        <tran loc="es-419">Vibración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1704,7 +1704,7 @@
       <Position>Top Center Surround</Position>
       <TranslationSet>
         <base loc="en">Top Center Surround</base>
-        <tran loc="es">Envolvente superior por el centro</tran>
+        <tran loc="es-419">Envolvente superior por el centro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1712,7 +1712,7 @@
       <Position>Side</Position>
       <TranslationSet>
         <base loc="en">Side</base>
-        <tran loc="es">Lateral</tran>
+        <tran loc="es-419">Lateral</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1720,7 +1720,7 @@
       <Position>Center Surround</Position>
       <TranslationSet>
         <base loc="en">Center Surround</base>
-        <tran loc="es">Envolvente central</tran>
+        <tran loc="es-419">Envolvente central</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1728,7 +1728,7 @@
       <Position>Mid</Position>
       <TranslationSet>
         <base loc="en">Mid</base>
-        <tran loc="es">Medio</tran>
+        <tran loc="es-419">Medio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1736,7 @@
       <Position>LFE2</Position>
       <TranslationSet>
         <base loc="en">LFE2</base>
-        <tran loc="es">LFE2</tran>
+        <tran loc="es-419">LFE2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1744,7 @@
       <Position>Left</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1752,7 @@
       <Position>Right Surround Direct</Position>
       <TranslationSet>
         <base loc="en">Right Surround Direct</base>
-        <tran loc="es">Envolvente directo derecho</tran>
+        <tran loc="es-419">Envolvente directo derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1760,7 +1760,7 @@
       <Position>Y</Position>
       <TranslationSet>
         <base loc="en">Y</base>
-        <tran loc="es">Y</tran>
+        <tran loc="es-419">Y</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1768,7 +1768,7 @@
       <Position>Left Wide</Position>
       <TranslationSet>
         <base loc="en">Left Wide</base>
-        <tran loc="es">Ángulo de sonido izquierdo</tran>
+        <tran loc="es-419">Ángulo de sonido izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1776,7 +1776,7 @@
       <Position>Channel</Position>
       <TranslationSet>
         <base loc="en">Channel</base>
-        <tran loc="es">Canal</tran>
+        <tran loc="es-419">Canal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1784,7 +1784,7 @@
       <Position>Narration</Position>
       <TranslationSet>
         <base loc="en">Narration</base>
-        <tran loc="es">Narración</tran>
+        <tran loc="es-419">Narración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1792,7 +1792,7 @@
       <Position>Ambisonic W</Position>
       <TranslationSet>
         <base loc="en">Ambisonic W</base>
-        <tran loc="es">W ambisónica</tran>
+        <tran loc="es-419">W ambisónica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1800,7 +1800,7 @@
       <Position>Left Total</Position>
       <TranslationSet>
         <base loc="en">Left Total</base>
-        <tran loc="es">Total izquierdo</tran>
+        <tran loc="es-419">Total izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1808,7 +1808,7 @@
       <Position>Center</Position>
       <TranslationSet>
         <base loc="en">Center</base>
-        <tran loc="es">Central</tran>
+        <tran loc="es-419">Central</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1816,7 +1816,7 @@
       <Position>Unused</Position>
       <TranslationSet>
         <base loc="en">Unused</base>
-        <tran loc="es">No utilizado</tran>
+        <tran loc="es-419">No utilizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1824,7 +1824,7 @@
       <Position>Rear Surround Right</Position>
       <TranslationSet>
         <base loc="en">Rear Surround Right</base>
-        <tran loc="es">Envolvente posterior derecho</tran>
+        <tran loc="es-419">Envolvente posterior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1832,7 +1832,7 @@
       <Position>Right Center</Position>
       <TranslationSet>
         <base loc="en">Right Center</base>
-        <tran loc="es">Central derecho</tran>
+        <tran loc="es-419">Central derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1840,7 @@
       <Position>Top Back Right</Position>
       <TranslationSet>
         <base loc="en">Top Back Right</base>
-        <tran loc="es">Posterior superior por la derecha</tran>
+        <tran loc="es-419">Posterior superior por la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>Right Total</Position>
       <TranslationSet>
         <base loc="en">Right Total</base>
-        <tran loc="es">Sonido total derecho</tran>
+        <tran loc="es-419">Sonido total derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>Channels</Position>
       <TranslationSet>
         <base loc="en">Channels</base>
-        <tran loc="es">Canales</tran>
+        <tran loc="es-419">Canales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1864,7 @@
       <Position>Ambisonic X</Position>
       <TranslationSet>
         <base loc="en">Ambisonic X</base>
-        <tran loc="es">X ambisónica</tran>
+        <tran loc="es-419">X ambisónica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1872,7 @@
       <Position>%@ (%gm, %gm, %gm)</Position>
       <TranslationSet>
         <base loc="en">%@ (%gm, %gm, %gm)</base>
-        <tran loc="es">%@ (%gm, %gm, %gm)</tran>
+        <tran loc="es-419">%@ (%g m, %g m, %g m)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1880,7 @@
       <Position>Ambisonic Z</Position>
       <TranslationSet>
         <base loc="en">Ambisonic Z</base>
-        <tran loc="es">Z ambisónica</tran>
+        <tran loc="es-419">Z ambisónica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1888,7 @@
       <Position>Mono</Position>
       <TranslationSet>
         <base loc="en">Mono</base>
-        <tran loc="es">Mono</tran>
+        <tran loc="es-419">Mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1896,7 @@
       <Position>Click Track</Position>
       <TranslationSet>
         <base loc="en">Click Track</base>
-        <tran loc="es">Haga clic en Pista</tran>
+        <tran loc="es-419">Pista de clic</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1904,7 @@
       <Position>Center Surround Direct</Position>
       <TranslationSet>
         <base loc="en">Center Surround Direct</base>
-        <tran loc="es">Envolvente central directo</tran>
+        <tran loc="es-419">Envolvente central directo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1912,7 @@
       <Position>Left Center</Position>
       <TranslationSet>
         <base loc="en">Left Center</base>
-        <tran loc="es">Central izquierdo</tran>
+        <tran loc="es-419">Central izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1920,7 @@
       <Position>Right</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1928,7 @@
       <Position>Right Surround</Position>
       <TranslationSet>
         <base loc="en">Right Surround</base>
-        <tran loc="es">Envolvente derecho</tran>
+        <tran loc="es-419">Envolvente derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1936,7 @@
       <Position>Headphones Left</Position>
       <TranslationSet>
         <base loc="en">Headphones Left</base>
-        <tran loc="es">Auricular izquierdo</tran>
+        <tran loc="es-419">Audífono izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1944,7 @@
       <Position>Right Wide</Position>
       <TranslationSet>
         <base loc="en">Right Wide</base>
-        <tran loc="es">Ángulo de sonido derecho</tran>
+        <tran loc="es-419">Ángulo de sonido derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1952,7 @@
       <Position>%@ (%g\\U00B0, %g\\U00B0, %g)</Position>
       <TranslationSet>
         <base loc="en">%@ (%g°, %g°, %g)</base>
-        <tran loc="es">%@ (%g°, %g°, %g)</tran>
+        <tran loc="es-419">%@ (%g°, %g°, %g)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1961,7 +1961,7 @@
       <Position>Discrete</Position>
       <TranslationSet>
         <base loc="en">Discrete</base>
-        <tran loc="es">Discreto</tran>
+        <tran loc="es-419">Discreto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1969,7 +1969,7 @@
       <Position>Unknown</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1977,7 +1977,7 @@
       <Position>Left Surround</Position>
       <TranslationSet>
         <base loc="en">Left Surround</base>
-        <tran loc="es">Envolvente izquierdo</tran>
+        <tran loc="es-419">Envolvente izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1985,7 +1985,7 @@
       <Position>X</Position>
       <TranslationSet>
         <base loc="en">X</base>
-        <tran loc="es">X</tran>
+        <tran loc="es-419">X</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1993,7 +1993,7 @@
       <Position>Vertical Height Center</Position>
       <TranslationSet>
         <base loc="en">Vertical Height Center</base>
-        <tran loc="es">Vertical por el centro</tran>
+        <tran loc="es-419">Vertical por el centro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2001,7 +2001,7 @@
       <Position>Vertical Height Right</Position>
       <TranslationSet>
         <base loc="en">Vertical Height Right</base>
-        <tran loc="es">Vertical por la derecha</tran>
+        <tran loc="es-419">Vertical por la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2009,7 +2009,7 @@
       <Position>LFE Screen</Position>
       <TranslationSet>
         <base loc="en">LFE Screen</base>
-        <tran loc="es">LFE (altavoz cercano a la pantalla)</tran>
+        <tran loc="es-419">LFE (bocina cercana a la pantalla)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2017,7 +2017,7 @@
       <Position>Top Back Left</Position>
       <TranslationSet>
         <base loc="en">Top Back Left</base>
-        <tran loc="es">Posterior superior por la izquierda</tran>
+        <tran loc="es-419">Posterior superior por la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2025,7 +2025,7 @@
       <Position>%@ (%g\\U00B0, %g\\U00B0, %gm)</Position>
       <TranslationSet>
         <base loc="en">%@ (%g°, %g°, %gm)</base>
-        <tran loc="es">%@ (%g°, %g°, %gm)</tran>
+        <tran loc="es-419">%@ (%g°, %g°, %g m)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2033,7 +2033,7 @@
       <Position>Dialog Centric Mix</Position>
       <TranslationSet>
         <base loc="en">Dialog Centric Mix</base>
-        <tran loc="es">Mezcla céntrica de diálogos</tran>
+        <tran loc="es-419">Mezcla céntrica de diálogos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2041,7 +2041,7 @@
       <Position>Rear Surround Left</Position>
       <TranslationSet>
         <base loc="en">Rear Surround Left</base>
-        <tran loc="es">Envolvente posterior izquierdo</tran>
+        <tran loc="es-419">Envolvente posterior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2049,7 +2049,7 @@
       <Position>Hearing Impaired</Position>
       <TranslationSet>
         <base loc="en">Hearing Impaired</base>
-        <tran loc="es">Problemas de audición</tran>
+        <tran loc="es-419">Problemas de audición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2057,7 +2057,7 @@
       <Position>Vertical Height Left</Position>
       <TranslationSet>
         <base loc="en">Vertical Height Left</base>
-        <tran loc="es">Vertical por la izquierda</tran>
+        <tran loc="es-419">Vertical por la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2065,7 +2065,7 @@
       <Position>Headphones Right</Position>
       <TranslationSet>
         <base loc="en">Headphones Right</base>
-        <tran loc="es">Auricular derecho</tran>
+        <tran loc="es-419">Audífono derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2073,7 +2073,7 @@
       <Position>Top Back Center</Position>
       <TranslationSet>
         <base loc="en">Top Back Center</base>
-        <tran loc="es">Posterior superior por el centro</tran>
+        <tran loc="es-419">Posterior superior por el centro</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2084,7 +2084,7 @@
       <Position>Vhr</Position>
       <TranslationSet>
         <base loc="en">Vhr</base>
-        <tran loc="es">Vhr</tran>
+        <tran loc="es-419">Vhr</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2092,7 +2092,7 @@
       <Position>Rs</Position>
       <TranslationSet>
         <base loc="en">Rs</base>
-        <tran loc="es">Ds</tran>
+        <tran loc="es-419">Rs</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2100,7 +2100,7 @@
       <Position>Haptic</Position>
       <TranslationSet>
         <base loc="en">Haptic</base>
-        <tran loc="es">Táctil</tran>
+        <tran loc="es-419">Vibración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2108,7 +2108,7 @@
       <Position>Lang</Position>
       <TranslationSet>
         <base loc="en">Lang</base>
-        <tran loc="es">Lang</tran>
+        <tran loc="es-419">Lang</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2116,7 +2116,7 @@
       <Position>Vhc</Position>
       <TranslationSet>
         <base loc="en">Vhc</base>
-        <tran loc="es">Vhc</tran>
+        <tran loc="es-419">Vhc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2124,7 +2124,7 @@
       <Position>AAAAA - NOTE</Position>
       <TranslationSet>
         <base loc="en">AAAAA - NOTE</base>
-        <tran loc="es">AAAAA - NOTA</tran>
+        <tran loc="es-419">AAAAA - NOTA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2132,7 +2132,7 @@
       <Position>?</Position>
       <TranslationSet>
         <base loc="en">?</base>
-        <tran loc="es">?</tran>
+        <tran loc="es-419">?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2140,7 +2140,7 @@
       <Position>W</Position>
       <TranslationSet>
         <base loc="en">W</base>
-        <tran loc="es">W</tran>
+        <tran loc="es-419">W</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2148,7 +2148,7 @@
       <Position>Side</Position>
       <TranslationSet>
         <base loc="en">Side</base>
-        <tran loc="es">Lateral</tran>
+        <tran loc="es-419">Lateral</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2156,7 +2156,7 @@
       <Position>Rw</Position>
       <TranslationSet>
         <base loc="en">Rw</base>
-        <tran loc="es">Dw</tran>
+        <tran loc="es-419">Rw</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2164,7 +2164,7 @@
       <Position>Cs</Position>
       <TranslationSet>
         <base loc="en">Cs</base>
-        <tran loc="es">Cs</tran>
+        <tran loc="es-419">Cs</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2172,7 +2172,7 @@
       <Position>phoneL</Position>
       <TranslationSet>
         <base loc="en">phoneL</base>
-        <tran loc="es">phoneL</tran>
+        <tran loc="es-419">phoneL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2180,7 +2180,7 @@
       <Position>Mid</Position>
       <TranslationSet>
         <base loc="en">Mid</base>
-        <tran loc="es">Medio</tran>
+        <tran loc="es-419">Medio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2188,7 +2188,7 @@
       <Position>VI-N</Position>
       <TranslationSet>
         <base loc="en">VI-N</base>
-        <tran loc="es">VI-N</tran>
+        <tran loc="es-419">VI-N</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2196,7 +2196,7 @@
       <Position>Rls</Position>
       <TranslationSet>
         <base loc="en">Rls</base>
-        <tran loc="es">Dls</tran>
+        <tran loc="es-419">Rls</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2204,7 +2204,7 @@
       <Position>LFE2</Position>
       <TranslationSet>
         <base loc="en">LFE2</base>
-        <tran loc="es">LFE2</tran>
+        <tran loc="es-419">LFE2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2212,7 +2212,7 @@
       <Position>Y</Position>
       <TranslationSet>
         <base loc="en">Y</base>
-        <tran loc="es">Y</tran>
+        <tran loc="es-419">Y</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2220,7 +2220,7 @@
       <Position>Lc</Position>
       <TranslationSet>
         <base loc="en">Lc</base>
-        <tran loc="es">Ic</tran>
+        <tran loc="es-419">Lc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2228,7 +2228,7 @@
       <Position>Tbr</Position>
       <TranslationSet>
         <base loc="en">Tbr</base>
-        <tran loc="es">Tbr</tran>
+        <tran loc="es-419">Tbr</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2236,7 +2236,7 @@
       <Position>Lsd</Position>
       <TranslationSet>
         <base loc="en">Lsd</base>
-        <tran loc="es">Isd</tran>
+        <tran loc="es-419">Lsd</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2244,7 +2244,7 @@
       <Position>_</Position>
       <TranslationSet>
         <base loc="en">_</base>
-        <tran loc="es">_</tran>
+        <tran loc="es-419">_</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2252,7 +2252,7 @@
       <Position>L</Position>
       <TranslationSet>
         <base loc="en">L</base>
-        <tran loc="es">l</tran>
+        <tran loc="es-419">L</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2260,7 +2260,7 @@
       <Position>Tbc</Position>
       <TranslationSet>
         <base loc="en">Tbc</base>
-        <tran loc="es">Tbc</tran>
+        <tran loc="es-419">Tbc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2268,7 +2268,7 @@
       <Position>Lt</Position>
       <TranslationSet>
         <base loc="en">Lt</base>
-        <tran loc="es">It</tran>
+        <tran loc="es-419">Lt</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2276,7 +2276,7 @@
       <Position>LFE</Position>
       <TranslationSet>
         <base loc="en">LFE</base>
-        <tran loc="es">LFE</tran>
+        <tran loc="es-419">LFE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2284,7 +2284,7 @@
       <Position>Csd</Position>
       <TranslationSet>
         <base loc="en">Csd</base>
-        <tran loc="es">Csd</tran>
+        <tran loc="es-419">Csd</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2292,7 +2292,7 @@
       <Position>Rc</Position>
       <TranslationSet>
         <base loc="en">Rc</base>
-        <tran loc="es">Dc</tran>
+        <tran loc="es-419">Rc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2300,7 +2300,7 @@
       <Position>C</Position>
       <TranslationSet>
         <base loc="en">C</base>
-        <tran loc="es">C</tran>
+        <tran loc="es-419">C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2308,7 +2308,7 @@
       <Position>Dlg</Position>
       <TranslationSet>
         <base loc="en">Dlg</base>
-        <tran loc="es">Dlg</tran>
+        <tran loc="es-419">Dlg</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2316,7 +2316,7 @@
       <Position>Tbl</Position>
       <TranslationSet>
         <base loc="en">Tbl</base>
-        <tran loc="es">Tbl</tran>
+        <tran loc="es-419">Tbl</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2324,7 +2324,7 @@
       <Position>Mono</Position>
       <TranslationSet>
         <base loc="en">Mono</base>
-        <tran loc="es">Mono</tran>
+        <tran loc="es-419">Mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2332,7 +2332,7 @@
       <Position>Click</Position>
       <TranslationSet>
         <base loc="en">Click</base>
-        <tran loc="es">Clic</tran>
+        <tran loc="es-419">Clic</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2340,7 +2340,7 @@
       <Position>R</Position>
       <TranslationSet>
         <base loc="en">R</base>
-        <tran loc="es">D</tran>
+        <tran loc="es-419">R</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2348,7 +2348,7 @@
       <Position>Rrs</Position>
       <TranslationSet>
         <base loc="en">Rrs</base>
-        <tran loc="es">Drs</tran>
+        <tran loc="es-419">Rrs</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2356,7 +2356,7 @@
       <Position>Rsd</Position>
       <TranslationSet>
         <base loc="en">Rsd</base>
-        <tran loc="es">Dsd</tran>
+        <tran loc="es-419">Rsd</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2364,7 +2364,7 @@
       <Position>Rt</Position>
       <TranslationSet>
         <base loc="en">Rt</base>
-        <tran loc="es">Dt</tran>
+        <tran loc="es-419">Rt</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2372,7 +2372,7 @@
       <Position>HI</Position>
       <TranslationSet>
         <base loc="en">HI</base>
-        <tran loc="es">HI</tran>
+        <tran loc="es-419">HI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2380,7 +2380,7 @@
       <Position>phoneR</Position>
       <TranslationSet>
         <base loc="en">phoneR</base>
-        <tran loc="es">phoneR</tran>
+        <tran loc="es-419">phoneR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2388,7 +2388,7 @@
       <Position>X</Position>
       <TranslationSet>
         <base loc="en">X</base>
-        <tran loc="es">X</tran>
+        <tran loc="es-419">X</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2396,7 +2396,7 @@
       <Position>Z</Position>
       <TranslationSet>
         <base loc="en">Z</base>
-        <tran loc="es">Z</tran>
+        <tran loc="es-419">Z</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2404,7 +2404,7 @@
       <Position>Ts</Position>
       <TranslationSet>
         <base loc="en">Ts</base>
-        <tran loc="es">Ts</tran>
+        <tran loc="es-419">Ts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2412,7 +2412,7 @@
       <Position>Ls</Position>
       <TranslationSet>
         <base loc="en">Ls</base>
-        <tran loc="es">Is</tran>
+        <tran loc="es-419">Ls</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2420,7 +2420,7 @@
       <Position>Lw</Position>
       <TranslationSet>
         <base loc="en">Lw</base>
-        <tran loc="es">Iw</tran>
+        <tran loc="es-419">Lw</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2428,7 +2428,7 @@
       <Position>Vhl</Position>
       <TranslationSet>
         <base loc="en">Vhl</base>
-        <tran loc="es">Vhl</tran>
+        <tran loc="es-419">Vhl</tran>
       </TranslationSet>
     </TextItem>
   </File>

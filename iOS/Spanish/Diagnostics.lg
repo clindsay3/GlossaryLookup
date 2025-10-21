@@ -8,7 +8,7 @@
       <Position>RETRY</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>NO_INPUT_DETECTED</Position>
       <TranslationSet>
         <base loc="en">No input detected</base>
-        <tran loc="es">Ninguna entrada detectada</tran>
+        <tran loc="es-419">No se detectaron dispositivos fuente</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -47,7 +47,7 @@
       <Position>DISPLAY_TOOL_COMPLETE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Display Pattern Tool Complete</base>
-        <tran loc="es">Herramienta de diseño de visualización completada</tran>
+        <tran loc="es-419">Herramienta de patrones visuales completa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -55,7 +55,7 @@
       <Position>DISPLAY_TOOL_COMPLETE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Tap Done to complete diagnostic.</base>
-        <tran loc="es">Pulsa OK para completar el diagnóstico.</tran>
+        <tran loc="es-419">Toca Aceptar para terminar el diagnóstico.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -63,7 +63,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -79,7 +79,7 @@
       <Position>REMOVE_ITEM</Position>
       <TranslationSet>
         <base loc="en">Remove Selected Item?</base>
-        <tran loc="es">¿Eliminar el ítem seleccionado?</tran>
+        <tran loc="es-419">¿Eliminar el elemento seleccionado?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -87,7 +87,7 @@
       <Position>REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -95,7 +95,7 @@
       <Position>DISPLAY_TOOL_COMPLETED</Position>
       <TranslationSet>
         <base loc="en">Display Pattern Tool Completed</base>
-        <tran loc="es">Herramienta de diseño de visualización completada</tran>
+        <tran loc="es-419">Herramienta de patrones de visualización completada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -103,7 +103,7 @@
       <Position>SWIPE_RIGHT_TO_PREVIOUS_SCREEN</Position>
       <TranslationSet>
         <base loc="en">Swipe right with two fingers to go back to the previous screen</base>
-        <tran loc="es">Desliza dos dedos hacia la derecha para volver a la pantalla anterior</tran>
+        <tran loc="es-419">Desliza a la derecha con dos dedos para regresar a la pantalla anterior</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -114,7 +114,7 @@
       <Position>RETRY</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -122,7 +122,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>NO_INPUT_DETECTED</Position>
       <TranslationSet>
         <base loc="en">No input detected</base>
-        <tran loc="es">Ninguna entrada detectada</tran>
+        <tran loc="es-419">No se detectaron dispositivos fuente</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -147,7 +147,7 @@
       <Position>RETRY</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>NO_INPUT_DETECTED</Position>
       <TranslationSet>
         <base loc="en">No input detected</base>
-        <tran loc="es">Ninguna entrada detectada</tran>
+        <tran loc="es-419">No se detectaron dispositivos fuente</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -180,7 +180,7 @@
       <Position>RETRY</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -188,7 +188,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -202,7 +202,7 @@
       <Position>NO_INPUT_DETECTED</Position>
       <TranslationSet>
         <base loc="en">No input detected</base>
-        <tran loc="es">Ninguna entrada detectada</tran>
+        <tran loc="es-419">No se detectaron dispositivos fuente</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -219,7 +219,7 @@
       <Position>RETRY</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>NO_INPUT_DETECTED</Position>
       <TranslationSet>
         <base loc="en">No input detected</base>
-        <tran loc="es">Ninguna entrada detectada</tran>
+        <tran loc="es-419">No se detectaron dispositivos fuente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>SKIP</Position>
       <TranslationSet>
         <base loc="en">Skip</base>
-        <tran loc="es">Omitir</tran>
+        <tran loc="es-419">Omitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>UNCOVER_UPPER_HALF_OF_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Make sure that the upper half of the device is not covered and try again.</base>
-        <tran loc="es">Asegúrate de que no haya nada tapando la mitad superior del dispositivo e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Asegúrate de que la parte superior del dispositivo no esté cubierta y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>UNABLE_TO_START_TEST</Position>
       <TranslationSet>
         <base loc="en">Unable to start test</base>
-        <tran loc="es">No se ha podido iniciar la prueba</tran>
+        <tran loc="es-419">No se pudo iniciar la prueba</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -268,7 +268,7 @@
       <Position>ABOUT_REMAINING</Position>
       <TranslationSet>
         <base loc="en">About %@ remaining…</base>
-        <tran loc="es">Faltan %@ aproximadamente…</tran>
+        <tran loc="es-419">Aproximadamente %@ más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -276,7 +276,7 @@
       <Position>DO_NOT_DISTURB_THE_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb The Device</base>
-        <tran loc="es">No interrumpir al dispositivo</tran>
+        <tran loc="es-419">No interrumpir al dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -284,7 +284,7 @@
       <Position>TEST_COMPLETED</Position>
       <TranslationSet>
         <base loc="en">Test Completed</base>
-        <tran loc="es">Prueba completada</tran>
+        <tran loc="es-419">Prueba completada</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -295,7 +295,7 @@
       <Position>TRY_AGAIN</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -303,7 +303,7 @@
       <Position>USE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use Photo</base>
-        <tran loc="es">Usar foto</tran>
+        <tran loc="es-419">Usar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -311,7 +311,7 @@
       <Position>CAMERA_SENSOR_ANOMALY_TOOL_COMPLETE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Tapping done will complete this test and you will not be able to make any further changes.</base>
-        <tran loc="es">Si pulsas OK, la prueba finalizará y no podrás realizar ningún otro cambio.</tran>
+        <tran loc="es-419">Tocar OK finalizará la prueba y no podrás hacer más cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -319,7 +319,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -327,7 +327,7 @@
       <Position>UIIMPC_ERROR_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">An error occurred while displaying the image.</base>
-        <tran loc="es">Se ha producido un error al mostrar la imagen.</tran>
+        <tran loc="es-419">Ocurrió un error al mostrar la imagen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -335,7 +335,7 @@
       <Position>GO_BACK</Position>
       <TranslationSet>
         <base loc="en">Go Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -343,7 +343,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +351,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>REMOVE_ITEM</Position>
       <TranslationSet>
         <base loc="en">Remove Selected Item?</base>
-        <tran loc="es">¿Eliminar el ítem seleccionado?</tran>
+        <tran loc="es-419">¿Eliminar el elemento seleccionado?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>CAMERA_SENSOR_ANOMALY_TOOL_COMPLETE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Done Marking Anomalies?</base>
-        <tran loc="es">¿Ya ha acabado la detección de anomalías?</tran>
+        <tran loc="es-419">¿Terminaste de marcar las anomalías?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>RETAKE</Position>
       <TranslationSet>
         <base loc="en">Retake</base>
-        <tran loc="es">Repetir</tran>
+        <tran loc="es-419">Repetir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>UIIMPC_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to Display Image</base>
-        <tran loc="es">No se ha podido mostrar la imagen</tran>
+        <tran loc="es-419">No se puede mostrar la imagen</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -414,7 +414,7 @@
       <Position>COMPASS_DEGREES</Position>
       <TranslationSet>
         <base loc="en">%li\U00b0</base>
-        <tran loc="es">%li\U00b0</tran>
+        <tran loc="es-419">%li\U00b0</tran>
       </TranslationSet>
     </TextItem>
   </File>

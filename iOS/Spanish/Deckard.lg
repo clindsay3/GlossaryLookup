@@ -8,7 +8,7 @@
       <Position>PROGRESS_IMPORTING</Position>
       <TranslationSet>
         <base loc="en">Moving items into place…</base>
-        <tran loc="es">Trasladando ítems…</tran>
+        <tran loc="es-419">Trasladando elementos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>RETRY_CONTINUE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>APP_MIGRATION_PROMPT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add Your Android Device Apps from the App Store?</base>
-        <tran loc="es">¿Añadir las apps de tu Android desde App Store?</tran>
+        <tran loc="es-419">¿Agregar las apps de tu dispositivo Android disponibles en App Store?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>PROGRESS_TRANSFERRING_TIME_REMAINING_CALCULATING</Position>
       <TranslationSet>
         <base loc="en">Calculating time remaining…</base>
-        <tran loc="es">Calculando el tiempo restante…</tran>
+        <tran loc="es-419">Calculando el tiempo restante…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>APP_MIGRATION_PROMPT_CHOICE_NO</Position>
       <TranslationSet>
         <base loc="en">Don’t Add</base>
-        <tran loc="es">No añadir</tran>
+        <tran loc="es-419">No agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>COMPLETED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Transfer Complete</base>
-        <tran loc="es">Transferencia completada</tran>
+        <tran loc="es-419">Traslado terminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>RETRY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Transfer Interrupted</base>
-        <tran loc="es">Transferencia interrumpida</tran>
+        <tran loc="es-419">Transferencia interrumpida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>COMPLETED_CONTINUE_BUTTON_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Continue Setting Up iPhone</base>
-        <tran loc="es">Continuar con la configuración del iPhone</tran>
+        <tran loc="es-419">Continuar configurando iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>PROGRESS_PREPARING</Position>
       <TranslationSet>
         <base loc="en">Preparing…</base>
-        <tran loc="es">Preparando…</tran>
+        <tran loc="es-419">Preparando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>PROGRESS_TRANSFERRING_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Transferring from</base>
-        <tran loc="es">Transfiriendo desde</tran>
+        <tran loc="es-419">Trasladando de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>PROGRESS_WAITING_EXPLANATION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">On your Android device, choose what you would like to copy to your iPhone.</base>
-        <tran loc="es">En el dispositivo Android, selecciona lo que quieras copiar en el iPhone.</tran>
+        <tran loc="es-419">Elige en tu dispositivo Android lo que quieras copiar a tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>MIGRATION_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to migrate</base>
-        <tran loc="es">No se ha podido migrar</tran>
+        <tran loc="es-419">No se puede migrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>WIFI_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to migrate</base>
-        <tran loc="es">No se ha podido migrar</tran>
+        <tran loc="es-419">No se puede migrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>PROGRESS_TRANSFERRING_TIME_REMAINING</Position>
       <TranslationSet>
         <base loc="en">Time remaining: %@</base>
-        <tran loc="es">Tiempo restante: %@</tran>
+        <tran loc="es-419">Tiempo restante: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>WELCOME_CONTINUE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>WELCOME_DOWNLOAD_URL</Position>
       <TranslationSet>
         <base loc="en">www.apple.com/move-to-ios</base>
-        <tran loc="es">www.apple.com/es/move-to-ios</tran>
+        <tran loc="es-419">www.apple.com/la/move-to-ios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>PAIRING_CODE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Confirm Your Android Phone or Tablet</base>
-        <tran loc="es">Confirma tu teléfono o tableta Android</tran>
+        <tran loc="es-419">Confirma tu teléfono o tableta Android</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>APP_MIGRATION_PROMPT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Free apps will download. Apps may offer In-App Purchases. To learn more about each app, tap the icon from Purchased on the App Store.</base>
-        <tran loc="es">Las apps gratuitas se descargarán. Las apps pueden ofrecer compras dentro de ellas. Para más información acerca de una app, pulsa su icono en la sección Comprado de App Store.</tran>
+        <tran loc="es-419">Se descargarán las apps gratuitas. Algunas podrían ofrecer compras dentro de la app. Para obtener más información acerca de cada app, toca el ícono de Compras en App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>WELCOME_DOWNLOAD_TEXT</Position>
       <TranslationSet>
         <base loc="en">Download the “Move to iOS” app on your Android device to get started:</base>
-        <tran loc="es">Para empezar, descarga la app Pasar a iOS en tu dispositivo Android:</tran>
+        <tran loc="es-419">Descarga la app “Trasladar a iOS” en tu dispositivo Android para comenzar:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>PROGRESS_WAITING_EXPLANATION_IPOD</Position>
       <TranslationSet>
         <base loc="en">On your Android device, choose what you would like to copy to your iPod touch.</base>
-        <tran loc="es">En el dispositivo Android, selecciona lo que quieras copiar en el iPod touch.</tran>
+        <tran loc="es-419">Elige en tu dispositivo Android lo que quieras copiar a tu iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>COMPLETED_CONTINUE_BUTTON_IPOD</Position>
       <TranslationSet>
         <base loc="en">Continue Setting Up iPod touch</base>
-        <tran loc="es">Continuar con la configuración del iPod touch</tran>
+        <tran loc="es-419">Continuar configurando iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>COULD_NOT_COMMUNICATE_WITH_THE_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Could not communicate with the device.</base>
-        <tran loc="es">No se ha podido establecer comunicación con el dispositivo.</tran>
+        <tran loc="es-419">Imposible comunicarse con el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>PROGRESS_TRANSFERRING_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Transferring from “%@”…</base>
-        <tran loc="es">Transfiriendo desde “%@”…</tran>
+        <tran loc="es-419">Trasladando de “%@”…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>RETRY_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Communication with your Android device was interrupted while copying your data.</base>
-        <tran loc="es">Se ha interrumpido la comunicación con tu dispositivo Android mientras se copiaban tus datos.</tran>
+        <tran loc="es-419">Se interrumpió la comunicación con tu dispositivo Android mientras se copiaban los datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>PROGRESS_WAITING_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Waiting for</base>
-        <tran loc="es">Esperando a</tran>
+        <tran loc="es-419">Esperando a</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>PROGRESS_WAITING_EXPLANATION_IPAD</Position>
       <TranslationSet>
         <base loc="en">On your Android device, choose what you would like to copy to your iPad.</base>
-        <tran loc="es">En el dispositivo Android, selecciona lo que quieras copiar en el iPad.</tran>
+        <tran loc="es-419">Elige en tu dispositivo Android lo que quieras copiar a tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>APP_MIGRATION_PROMPT_CHOICE_YES</Position>
       <TranslationSet>
         <base loc="en">Add Apps</base>
-        <tran loc="es">Añadir apps</tran>
+        <tran loc="es-419">Agregar apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>PROGRESS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Move from Android</base>
-        <tran loc="es">Transferir desde Android</tran>
+        <tran loc="es-419">Trasladar desde Android</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>WELCOME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Move from Android</base>
-        <tran loc="es">Transferir desde Android</tran>
+        <tran loc="es-419">Trasladar desde Android</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>WELCOME_INTRO_TEXT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">If you have an Android phone or tablet, you can transfer your photos, messages and more to this iPhone.</base>
-        <tran loc="es">Si tienes un teléfono o una tableta Android, podrás transferir tus fotos, mensajes y otros contenidos a este iPhone.</tran>
+        <tran loc="es-419">Si tienes un teléfono o tableta Android, puedes trasladar tus fotos, mensajes y más a este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>WELCOME_INTRO_TEXT_IPOD</Position>
       <TranslationSet>
         <base loc="en">If you have an Android phone or tablet, you can transfer your photos, messages and more to this iPod touch.</base>
-        <tran loc="es">Si tienes un teléfono o una tableta Android, podrás transferir tus fotos, mensajes y otros contenidos a este iPod touch.</tran>
+        <tran loc="es-419">Si tienes un teléfono o tableta Android, puedes trasladar tus fotos, mensajes y más a este iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>PROGRESS_DEVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">“%@”…</base>
-        <tran loc="es">“%@”…</tran>
+        <tran loc="es-419">“%@”…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>MIGRATION_ERROR_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Try again later</base>
-        <tran loc="es">Inténtalo de nuevo más tarde</tran>
+        <tran loc="es-419">Intenta más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>WIFI_ERROR_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Try again later</base>
-        <tran loc="es">Inténtalo de nuevo más tarde</tran>
+        <tran loc="es-419">Intenta más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>COMPLETED_CONTINUE_BUTTON_IPAD</Position>
       <TranslationSet>
         <base loc="en">Continue Setting Up iPad</base>
-        <tran loc="es">Continuar con la configuración del iPad</tran>
+        <tran loc="es-419">Continuar configurando iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>PROGRESS_WAITING_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Waiting for “%@”…</base>
-        <tran loc="es">Esperando a “%@”…</tran>
+        <tran loc="es-419">Esperando a “%@”…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>PROGRESS_CONNECTING</Position>
       <TranslationSet>
         <base loc="en">Connecting…</base>
-        <tran loc="es">Conectando…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>WELCOME_INTRO_TEXT_IPAD</Position>
       <TranslationSet>
         <base loc="en">If you have an Android phone or tablet, you can transfer your photos, messages and more to this iPad.</base>
-        <tran loc="es">Si tienes un teléfono o una tableta Android, podrás transferir tus fotos, mensajes y otros contenidos a este iPad.</tran>
+        <tran loc="es-419">Si tienes un teléfono o tableta Android, puedes trasladar tus fotos, mensajes y más a este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>PAIRING_CODE_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Enter this code on your Android device.</base>
-        <tran loc="es">Introduce este código en tu dispositivo Android.</tran>
+        <tran loc="es-419">Ingresa este código en tu dispositivo Android.</tran>
       </TranslationSet>
     </TextItem>
   </File>

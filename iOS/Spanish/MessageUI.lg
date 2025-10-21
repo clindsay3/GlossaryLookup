@@ -8,7 +8,7 @@
       <Position>8yoHVH</Position>
       <TranslationSet>
         <base loc="en">Body</base>
-        <tran loc="es">Cuerpo</tran>
+        <tran loc="es-419">Cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>lG9ouR</Position>
       <TranslationSet>
         <base loc="en">Body</base>
-        <tran loc="es">Cuerpo</tran>
+        <tran loc="es-419">Cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>mtzZs0</Position>
       <TranslationSet>
         <base loc="en">Body</base>
-        <tran loc="es">Cuerpo</tran>
+        <tran loc="es-419">Cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>bNHtR7</Position>
       <TranslationSet>
         <base loc="en">Subject: ${subject}</base>
-        <tran loc="es">Asunto: ${subject}</tran>
+        <tran loc="es-419">Asunto: ${subject}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>bbzJMA</Position>
       <TranslationSet>
         <base loc="en">Subject: ${subject}</base>
-        <tran loc="es">Asunto: ${subject}</tran>
+        <tran loc="es-419">Asunto: ${subject}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -49,7 +49,7 @@
       <TranslationSet>
         <base loc="en">Subject: ${subject}
 ${body}</base>
-        <tran loc="es">Asunto: ${subject}
+        <tran loc="es-419">Asunto: ${subject}
 ${body}</tran>
       </TranslationSet>
     </TextItem>
@@ -59,7 +59,7 @@ ${body}</tran>
       <TranslationSet>
         <base loc="en">Subject: ${subject}
 ${body}</base>
-        <tran loc="es">Asunto: ${subject}
+        <tran loc="es-419">Asunto: ${subject}
 ${body}</tran>
       </TranslationSet>
     </TextItem>
@@ -69,7 +69,7 @@ ${body}</tran>
       <TranslationSet>
         <base loc="en">Subject: ${subject}
 ${body}</base>
-        <tran loc="es">Asunto: ${subject}
+        <tran loc="es-419">Asunto: ${subject}
 ${body}</tran>
       </TranslationSet>
     </TextItem>
@@ -78,7 +78,7 @@ ${body}</tran>
       <Position>md2vQv</Position>
       <TranslationSet>
         <base loc="en">Status</base>
-        <tran loc="es">Estado</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@ ${body}</tran>
       <Position>E73xMf</Position>
       <TranslationSet>
         <base loc="en">Save as Draft</base>
-        <tran loc="es">Guardar como borrador</tran>
+        <tran loc="es-419">Guardar como borrador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@ ${body}</tran>
       <Position>3L8Dzh</Position>
       <TranslationSet>
         <base loc="en">Read Status</base>
-        <tran loc="es">Estado: leído</tran>
+        <tran loc="es-419">Estado: leído</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@ ${body}</tran>
       <Position>SQ9yhM</Position>
       <TranslationSet>
         <base loc="en">What kind of emails do you want to search for?</base>
-        <tran loc="es">¿Qué tipo de correos quieres buscar?</tran>
+        <tran loc="es-419">¿Qué tipo de correos quieres buscar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@ ${body}</tran>
       <Position>yMeLBB</Position>
       <TranslationSet>
         <base loc="en">Unread</base>
-        <tran loc="es">No leído</tran>
+        <tran loc="es-419">Sin leer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@ ${body}</tran>
       <Position>D4R9iq</Position>
       <TranslationSet>
         <base loc="en">Bcc</base>
-        <tran loc="es">Cco</tran>
+        <tran loc="es-419">Cco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@ ${body}</tran>
       <Position>vW7XZM</Position>
       <TranslationSet>
         <base loc="en">Bcc</base>
-        <tran loc="es">Cco</tran>
+        <tran loc="es-419">Cco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@ ${body}</tran>
       <Position>lDkUYI</Position>
       <TranslationSet>
         <base loc="en">To</base>
-        <tran loc="es">Para</tran>
+        <tran loc="es-419">Para</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@ ${body}</tran>
       <Position>qa3hVi</Position>
       <TranslationSet>
         <base loc="en">To</base>
-        <tran loc="es">Para</tran>
+        <tran loc="es-419">Para</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@ ${body}</tran>
       <Position>ABx10m</Position>
       <TranslationSet>
         <base loc="en">Airplane Mode is on. The email has been placed in your Outbox and will be sent later.</base>
-        <tran loc="es">El modo Avión está activado. El mensaje se ha colocado en el buzón de salida y se enviará más tarde.</tran>
+        <tran loc="es-419">“Modo de vuelo” está activado. El mensaje se colocó en la bandeja de salida y se enviará más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@ ${body}</tran>
       <Position>JYG99B</Position>
       <TranslationSet>
         <base loc="en">What attachments do you want to include?</base>
-        <tran loc="es">¿Qué archivo quieres adjuntar?</tran>
+        <tran loc="es-419">¿Cuáles archivos quieres adjuntar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@ ${body}</tran>
       <Position>Ds2BbX</Position>
       <TranslationSet>
         <base loc="en">What do you want to search for?</base>
-        <tran loc="es">¿Qué quieres buscar?</tran>
+        <tran loc="es-419">¿Qué quieres buscar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@ ${body}</tran>
       <Position>j2YUgU</Position>
       <TranslationSet>
         <base loc="en">Attachments</base>
-        <tran loc="es">Archivos adjuntos</tran>
+        <tran loc="es-419">Archivos adjuntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@ ${body}</tran>
       <Position>oNy47a</Position>
       <TranslationSet>
         <base loc="en">Who should be in cc?</base>
-        <tran loc="es">¿A quién quieres poner en copia?</tran>
+        <tran loc="es-419">¿A quién quieres enviarle una copia?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@ ${body}</tran>
       <Position>pK4jOa</Position>
       <TranslationSet>
         <base loc="en">Do you want to save this as a draft?</base>
-        <tran loc="es">¿Quieres guardar esto como borrador?</tran>
+        <tran loc="es-419">¿Quieres guardar esto como un borrador?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@ ${body}</tran>
       <Position>nJL1KA</Position>
       <TranslationSet>
         <base loc="en">Which email account do you want to use?</base>
-        <tran loc="es">¿Qué cuenta de correo quieres utilizar?</tran>
+        <tran loc="es-419">¿Cuál cuenta quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@ ${body}</tran>
       <Position>sCMShJ</Position>
       <TranslationSet>
         <base loc="en">Emails</base>
-        <tran loc="es">Correos electrónicos</tran>
+        <tran loc="es-419">Correos electrónicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@ ${body}</tran>
       <Position>QCNYwt</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo electrónico</tran>
+        <tran loc="es-419">Correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@ ${body}</tran>
       <Position>OQID5e-yMeLBB</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Unread’?</base>
-        <tran loc="es">Para confirmar, ¿quieres “No leído”?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “no leídos”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@ ${body}</tran>
       <Position>M2Kfex</Position>
       <TranslationSet>
         <base loc="en">Who should be in bcc?</base>
-        <tran loc="es">¿A quién quieres poner en copia oculta?</tran>
+        <tran loc="es-419">¿A quién quieres enviarle una copia oculta?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@ ${body}</tran>
       <Position>0uh4U6</Position>
       <TranslationSet>
         <base loc="en">User Typed Content</base>
-        <tran loc="es">Contenido introducido por el usuario</tran>
+        <tran loc="es-419">Contenido tecleado por el usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@ ${body}</tran>
       <Position>nGxQ3N</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}; Cc ${cc}; Bcc ${bcc}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}; Cc ${cc}; Bcc ${bcc}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}, Cc: ${cc}; Cco ${bcc}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@ ${body}</tran>
       <Position>3vIsAb</Position>
       <TranslationSet>
         <base loc="en">Sent</base>
-        <tran loc="es">Enviado</tran>
+        <tran loc="es-419">Enviado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@ ${body}</tran>
       <Position>79eA1L</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@ ${body}</tran>
       <Position>DT0d7L</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@ ${body}</tran>
       <Position>cUyX6c</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@ ${body}</tran>
       <Position>YRUX5U</Position>
       <TranslationSet>
         <base loc="en">Who do you want to send it to?</base>
-        <tran loc="es">¿A quién se lo quieres enviar?</tran>
+        <tran loc="es-419">¿A quién quieres enviárselo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@ ${body}</tran>
       <Position>GHRHuE</Position>
       <TranslationSet>
         <base loc="en">Cc</base>
-        <tran loc="es">Cc</tran>
+        <tran loc="es-419">Cc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@ ${body}</tran>
       <Position>k3upGx</Position>
       <TranslationSet>
         <base loc="en">Cc</base>
-        <tran loc="es">Cc</tran>
+        <tran loc="es-419">Cc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@ ${body}</tran>
       <Position>G1XRZq</Position>
       <TranslationSet>
         <base loc="en">Who do you want to search for?</base>
-        <tran loc="es">¿A quién quieres buscar?</tran>
+        <tran loc="es-419">¿A quién quieres buscar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@ ${body}</tran>
       <Position>vHD1WI</Position>
       <TranslationSet>
         <base loc="en">Who do you want to search for?</base>
-        <tran loc="es">¿A quién quieres buscar?</tran>
+        <tran loc="es-419">¿A quién quieres buscar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@ ${body}</tran>
       <Position>U05sJS-yMeLBB</Position>
       <TranslationSet>
         <base loc="en">There are ${count} options matching ‘Unread’.</base>
-        <tran loc="es">Hay ${count} coincidencias con “No leído”.</tran>
+        <tran loc="es-419">Existen ${count} opciones correspondientes a “no leídos”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@ ${body}</tran>
       <Position>SAZwHu</Position>
       <TranslationSet>
         <base loc="en">What is the subject of the email?</base>
-        <tran loc="es">¿Cuál es el asunto del correo?</tran>
+        <tran loc="es-419">¿Cuál es el asunto del correo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@ ${body}</tran>
       <Position>emRCR2</Position>
       <TranslationSet>
         <base loc="en">Recipient</base>
-        <tran loc="es">Destinatario</tran>
+        <tran loc="es-419">Destinatario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@ ${body}</tran>
       <Position>XHuuIL</Position>
       <TranslationSet>
         <base loc="en">Get ${readStatus} mail</base>
-        <tran loc="es">Obtener correo ${readStatus}</tran>
+        <tran loc="es-419">Obtener correo ${readStatus}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@ ${body}</tran>
       <Position>eMdB1Q</Position>
       <TranslationSet>
         <base loc="en">What should the email say?</base>
-        <tran loc="es">¿Qué quieres decir en el correo?</tran>
+        <tran loc="es-419">¿Qué contenido debe tener el correo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@ ${body}</tran>
       <Position>jw2yQV</Position>
       <TranslationSet>
         <base loc="en">Read</base>
-        <tran loc="es">Leído</tran>
+        <tran loc="es-419">Leído</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@ ${body}</tran>
       <Position>lRTTzu</Position>
       <TranslationSet>
         <base loc="en">Get Mail</base>
-        <tran loc="es">Recibir</tran>
+        <tran loc="es-419">Recibir correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@ ${body}</tran>
       <Position>OQID5e-jw2yQV</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Read’?</base>
-        <tran loc="es">Para confirmar, ¿quieres “Leído”?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “leídos”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@ ${body}</tran>
       <Position>U05sJS-jw2yQV</Position>
       <TranslationSet>
         <base loc="en">There are ${count} options matching ‘Read’.</base>
-        <tran loc="es">Hay ${count} coincidencias con “Leído”.</tran>
+        <tran loc="es-419">Existen ${count} opciones correspondientes a “leídos”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@ ${body}</tran>
       <Position>8qU1oM</Position>
       <TranslationSet>
         <base loc="en">Send Email</base>
-        <tran loc="es">Enviar mensaje de correo</tran>
+        <tran loc="es-419">Enviar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@ ${body}</tran>
       <Position>ITMunN</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}; Cc ${cc}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}, Cc: ${cc}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@ ${body}</tran>
       <Position>JHPpi7</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}; Cc ${cc}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}, Cc: ${cc}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -422,7 +422,7 @@ ${body}</tran>
       <Position>cBX51t</Position>
       <TranslationSet>
         <base loc="en">Compose an email to ${to}; Cc ${cc}</base>
-        <tran loc="es">Escribir un correo electrónico a ${to}; Cc ${cc}</tran>
+        <tran loc="es-419">Redactar un correo para ${to}, Cc: ${cc}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -430,7 +430,7 @@ ${body}</tran>
       <Position>90hbXM</Position>
       <TranslationSet>
         <base loc="en">From</base>
-        <tran loc="es">De</tran>
+        <tran loc="es-419">De</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@ ${body}</tran>
       <Position>jSdXtA</Position>
       <TranslationSet>
         <base loc="en">From</base>
-        <tran loc="es">De</tran>
+        <tran loc="es-419">De</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -446,7 +446,7 @@ ${body}</tran>
       <Position>wawnJh</Position>
       <TranslationSet>
         <base loc="en">From</base>
-        <tran loc="es">De</tran>
+        <tran loc="es-419">De</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@ ${body}</tran>
       <Position>lhtw1Z</Position>
       <TranslationSet>
         <base loc="en">Which one?</base>
-        <tran loc="es">¿Cuál?</tran>
+        <tran loc="es-419">¿Cuál?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@ ${body}</tran>
       <Position>G2465r</Position>
       <TranslationSet>
         <base loc="en">Subject</base>
-        <tran loc="es">Asunto</tran>
+        <tran loc="es-419">Asunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@ ${body}</tran>
       <Position>GkknPJ</Position>
       <TranslationSet>
         <base loc="en">Subject</base>
-        <tran loc="es">Asunto</tran>
+        <tran loc="es-419">Asunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -478,7 +478,7 @@ ${body}</tran>
       <Position>vk61Xk</Position>
       <TranslationSet>
         <base loc="en">Subject</base>
-        <tran loc="es">Asunto</tran>
+        <tran loc="es-419">Asunto</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -495,7 +495,7 @@ ${body}</tran>
       <Position>ACCESSIBILITY_BODY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Message Body</base>
-        <tran loc="es">Cuerpo del mensaje</tran>
+        <tran loc="es-419">Cuerpo del mensaje</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -506,7 +506,7 @@ ${body}</tran>
       <Position>PASTE_AS_QUOTATION</Position>
       <TranslationSet>
         <base loc="en">Paste as Quotation</base>
-        <tran loc="es">Pegar como cita</tran>
+        <tran loc="es-419">Pegar como cita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -514,7 +514,7 @@ ${body}</tran>
       <Position>PHOTO_LIBRARY</Position>
       <TranslationSet>
         <base loc="en">Photo Library</base>
-        <tran loc="es">Fototeca</tran>
+        <tran loc="es-419">Fototeca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -522,7 +522,7 @@ ${body}</tran>
       <Position>CONFIRM_EMPTY_SUBJECT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This message has no subject. Do you want to send it anyway?</base>
-        <tran loc="es">Este mensaje no tiene asunto. ¿Quieres enviarlo de todos modos?</tran>
+        <tran loc="es-419">Este mensaje no tiene asunto. ¿Quieres enviarlo de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -530,7 +530,7 @@ ${body}</tran>
       <Position>SMALL_SIZE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Small (%@)</base>
-        <tran loc="es">Pequeño (%@)</tran>
+        <tran loc="es-419">Pequeño (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -538,7 +538,7 @@ ${body}</tran>
       <Position>N_RECIPIENTS</Position>
       <TranslationSet>
         <base loc="en">%@ recipients</base>
-        <tran loc="es">%@ destinatarios</tran>
+        <tran loc="es-419">%@ destinatarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -546,7 +546,7 @@ ${body}</tran>
       <Position>DECREASE</Position>
       <TranslationSet>
         <base loc="en">Decrease</base>
-        <tran loc="es">Reducir</tran>
+        <tran loc="es-419">Reducir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -554,7 +554,7 @@ ${body}</tran>
       <Position>SMALL_SIZE_BAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Small</base>
-        <tran loc="es">Pequeño</tran>
+        <tran loc="es-419">Pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -562,7 +562,7 @@ ${body}</tran>
       <Position>SMALL_SIZE_UNKNOWN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Small</base>
-        <tran loc="es">Pequeño</tran>
+        <tran loc="es-419">Pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -570,7 +570,7 @@ ${body}</tran>
       <Position>ERROR_SAVING_DRAFT_LONG_FORMAT</Position>
       <TranslationSet>
         <base loc="en">The message could not be saved to the Drafts folder.</base>
-        <tran loc="es">No se ha podido guardar el mensaje en la carpeta Borradores.</tran>
+        <tran loc="es-419">No se pudo guardar el mensaje en la carpeta Borradores.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -578,7 +578,7 @@ ${body}</tran>
       <Position>MAIL_DROP_NOT_USE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Try Sending Attachment</base>
-        <tran loc="es">Intentar enviar archivo adjunto</tran>
+        <tran loc="es-419">Intentar enviar archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -586,7 +586,7 @@ ${body}</tran>
       <Position>CC</Position>
       <TranslationSet>
         <base loc="en">Cc:</base>
-        <tran loc="es">Cc:</tran>
+        <tran loc="es-419">Cc:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -594,7 +594,7 @@ ${body}</tran>
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -602,7 +602,7 @@ ${body}</tran>
       <Position>NO_EMAIL_ACCOUNT_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Please set up a Mail account in order to send email.</base>
-        <tran loc="es">Configura una cuenta en Mail para enviar correo electrónico.</tran>
+        <tran loc="es-419">Configura una cuenta en Mail para enviar correo electrónico.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -610,7 +610,7 @@ ${body}</tran>
       <Position>REMOVE_RECENT_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to remove this recent group?</base>
-        <tran loc="es">¿Seguro que quieres eliminar este grupo reciente?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar este grupo reciente?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -618,7 +618,7 @@ ${body}</tran>
       <Position>ARCHIVE_OR_DELETE</Position>
       <TranslationSet>
         <base loc="en">Archive / Delete</base>
-        <tran loc="es">Archivar/Eliminar</tran>
+        <tran loc="es-419">Archivar / Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@ ${body}</tran>
       <Position>GROUP_WITH_AND</Position>
       <TranslationSet>
         <base loc="en">%@ and</base>
-        <tran loc="es">%@ y</tran>
+        <tran loc="es-419">%@ y</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -634,7 +634,7 @@ ${body}</tran>
       <Position>IMAGE_SIZE_PLACEHOLDER_DURING_COMPUTATION</Position>
       <TranslationSet>
         <base loc="en">…</base>
-        <tran loc="es">…</tran>
+        <tran loc="es-419">…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -642,7 +642,7 @@ ${body}</tran>
       <Position>ONE_RECIPIENT</Position>
       <TranslationSet>
         <base loc="en">1 recipient</base>
-        <tran loc="es">1 destinatario</tran>
+        <tran loc="es-419">1 destinatario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -650,7 +650,7 @@ ${body}</tran>
       <Position>CONFIRM_UNENCRYPTED_MESSAGE_ONE</Position>
       <TranslationSet>
         <base loc="en">Mail cannot find a valid certificate for a recipient. Do you want to send it anyway?</base>
-        <tran loc="es">Mail no encuentra ningún certificado válido para un destinatario. ¿Quieres enviarlo de todos modos?</tran>
+        <tran loc="es-419">Mail no encontró un certificado válido para un destinatario. ¿Quieres enviar el mensaje de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -658,7 +658,7 @@ ${body}</tran>
       <Position>RECENT_GROUP_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Recent Group</base>
-        <tran loc="es">Grupo reciente</tran>
+        <tran loc="es-419">Grupo reciente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -666,7 +666,7 @@ ${body}</tran>
       <Position>SEND_ANYWAY</Position>
       <TranslationSet>
         <base loc="en">Send Anyway</base>
-        <tran loc="es">Enviar de todas formas</tran>
+        <tran loc="es-419">Enviar de todos modos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -674,7 +674,7 @@ ${body}</tran>
       <Position>AND_N_MORE_NO_ELLIPSIS</Position>
       <TranslationSet>
         <base loc="en"> &amp; %@ more</base>
-        <tran loc="es"> y %@ más</tran>
+        <tran loc="es-419"> y %@ más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -682,7 +682,7 @@ ${body}</tran>
       <Position>DRAFT</Position>
       <TranslationSet>
         <base loc="en">Draft</base>
-        <tran loc="es">Borrador</tran>
+        <tran loc="es-419">Borrador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -690,7 +690,7 @@ ${body}</tran>
       <Position>SEND</Position>
       <TranslationSet>
         <base loc="en">Send</base>
-        <tran loc="es">Enviar</tran>
+        <tran loc="es-419">Enviar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -698,7 +698,7 @@ ${body}</tran>
       <Position>SCAN_DOCUMENT_MENU_ITEM</Position>
       <TranslationSet>
         <base loc="en">Scan Document</base>
-        <tran loc="es">Escanear documento</tran>
+        <tran loc="es-419">Escanear documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -706,7 +706,7 @@ ${body}</tran>
       <Position>IMAGE_RESIZING_BAR_TITLE_EXPANDED</Position>
       <TranslationSet>
         <base loc="en">Image Size:</base>
-        <tran loc="es">Tamaño imagen:</tran>
+        <tran loc="es-419">Tamaño imagen:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -714,7 +714,7 @@ ${body}</tran>
       <Position>REPLY_ALL</Position>
       <TranslationSet>
         <base loc="en">Reply All</base>
-        <tran loc="es">Responder a todos</tran>
+        <tran loc="es-419">Responder a todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -722,7 +722,7 @@ ${body}</tran>
       <Position>NO_NOTIFICATION</Position>
       <TranslationSet>
         <base loc="en">Don’t Notify</base>
-        <tran loc="es">No avisar</tran>
+        <tran loc="es-419">No avisar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -730,7 +730,7 @@ ${body}</tran>
       <Position>ADD_CONTACT_ACCESSIBILITY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Add Contact</base>
-        <tran loc="es">Añadir contacto</tran>
+        <tran loc="es-419">Agregar contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -738,7 +738,7 @@ ${body}</tran>
       <Position>RECENT_GROUP</Position>
       <TranslationSet>
         <base loc="en">Group</base>
-        <tran loc="es">Grupo</tran>
+        <tran loc="es-419">Grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -746,7 +746,7 @@ ${body}</tran>
       <Position>SCAN_DOCUMENT_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Scanned Document</base>
-        <tran loc="es">Documento escaneado</tran>
+        <tran loc="es-419">Documento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -754,7 +754,7 @@ ${body}</tran>
       <Position>CC/FROM</Position>
       <TranslationSet>
         <base loc="en">Cc, From:</base>
-        <tran loc="es">Cc, De:</tran>
+        <tran loc="es-419">Cc, De:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -762,7 +762,7 @@ ${body}</tran>
       <Position>INCREASE</Position>
       <TranslationSet>
         <base loc="en">Increase</base>
-        <tran loc="es">Aumentar</tran>
+        <tran loc="es-419">Aumentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +770,7 @@ ${body}</tran>
       <Position>COMPOSE_ANYWAY</Position>
       <TranslationSet>
         <base loc="en">Compose Anyway</base>
-        <tran loc="es">Redactar de todos modos</tran>
+        <tran loc="es-419">Redactar de todos modos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +778,7 @@ ${body}</tran>
       <Position>INSERT_DRAWING_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Insert Drawing</base>
-        <tran loc="es">Insertar dibujo</tran>
+        <tran loc="es-419">Insertar dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +786,7 @@ ${body}</tran>
       <Position>INSERT_DRAWING_MENU_ITEM</Position>
       <TranslationSet>
         <base loc="en">Insert Drawing</base>
-        <tran loc="es">Insertar dibujo</tran>
+        <tran loc="es-419">Insertar dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +794,7 @@ ${body}</tran>
       <Position>Bcc:</Position>
       <TranslationSet>
         <base loc="en">Bcc</base>
-        <tran loc="es">Cco</tran>
+        <tran loc="es-419">Cco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +802,7 @@ ${body}</tran>
       <Position>MAIL_DROP_DOWNLOAD_ATTACHMENT</Position>
       <TranslationSet>
         <base loc="en">Download Attachment</base>
-        <tran loc="es">Descargar archivo adjunto</tran>
+        <tran loc="es-419">Descargar archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +810,7 @@ ${body}</tran>
       <Position>LARGE_IMAGES_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This message is %@. You can reduce message size by scaling images to one of the sizes below.</base>
-        <tran loc="es">El tamaño de este mensaje es de %@. Puedes reducirlo adaptando las imágenes a uno de los siguientes tamaños.</tran>
+        <tran loc="es-419">El tamaño del mensaje es de %@. Puedes reducir el tamaño del mensaje escalando las imágenes a uno de los siguientes tamaños.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +818,7 @@ ${body}</tran>
       <Position>LARGE_SINGLE_IMAGE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This message is %@. You can reduce message size by scaling the image to one of the sizes below.</base>
-        <tran loc="es">El tamaño de este mensaje es de %@. Puedes reducirlo adaptando la imagen a uno de los siguientes tamaños.</tran>
+        <tran loc="es-419">El tamaño del mensaje es de %@. Puedes reducir el tamaño del mensaje escalando la imagen a uno de los siguientes tamaños.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +826,7 @@ ${body}</tran>
       <Position>MUTE</Position>
       <TranslationSet>
         <base loc="en">Mute</base>
-        <tran loc="es">Silenciar</tran>
+        <tran loc="es-419">Silenciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -837,7 +837,7 @@ ${body}</tran>
       <Position>To:</Position>
       <TranslationSet>
         <base loc="en">To</base>
-        <tran loc="es">Para</tran>
+        <tran loc="es-419">Para</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -845,7 +845,7 @@ ${body}</tran>
       <Position>SUBJECT</Position>
       <TranslationSet>
         <base loc="en">Subject:</base>
-        <tran loc="es">Asunto:</tran>
+        <tran loc="es-419">Asunto:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -853,7 +853,7 @@ ${body}</tran>
       <Position>CONFIRM_UNENCRYPTED_MESSAGE_MULT</Position>
       <TranslationSet>
         <base loc="en">Mail cannot find a valid certificate for some recipients. Do you want to send it anyway?</base>
-        <tran loc="es">Mail no encuentra ningún certificado válido para algunos destinatarios. ¿Quieres enviarlo de todos modos?</tran>
+        <tran loc="es-419">Mail no encontró un certificado válido para algunos destinatarios. ¿Quieres enviar el mensaje de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -861,7 +861,7 @@ ${body}</tran>
       <Position>GROUP_FINAL_ITEM</Position>
       <TranslationSet>
         <base loc="en"> &amp; %@</base>
-        <tran loc="es"> y %@</tran>
+        <tran loc="es-419"> &amp; %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -869,7 +869,7 @@ ${body}</tran>
       <Position>AIRPLANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Send Email</base>
-        <tran loc="es">No se puede enviar correo</tran>
+        <tran loc="es-419">No se puede enviar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -877,7 +877,7 @@ ${body}</tran>
       <Position>NO_EMAIL_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">No Mail Accounts</base>
-        <tran loc="es">Ninguna cuenta de correo</tran>
+        <tran loc="es-419">Ninguna cuenta de correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -885,7 +885,7 @@ ${body}</tran>
       <Position>AND_N_MORE</Position>
       <TranslationSet>
         <base loc="en"> &amp; %@ more…</base>
-        <tran loc="es"> y %@ más…</tran>
+        <tran loc="es-419"> y %@ más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -893,7 +893,7 @@ ${body}</tran>
       <Position>DEFAULT_ATTACHMENT_NAME</Position>
       <TranslationSet>
         <base loc="en">attachment</base>
-        <tran loc="es">archivo adjunto</tran>
+        <tran loc="es-419">archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -901,7 +901,7 @@ ${body}</tran>
       <Position>MAIL_DROP_DOWNLOADABLE</Position>
       <TranslationSet>
         <base loc="en">Click to Download</base>
-        <tran loc="es">Haz clic para descargar</tran>
+        <tran loc="es-419">Hacer clic para descargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -909,7 +909,7 @@ ${body}</tran>
       <Position>ADDRESS_DELETION</Position>
       <TranslationSet>
         <base loc="en">Address Deletion</base>
-        <tran loc="es">eliminación de dirección</tran>
+        <tran loc="es-419">eliminación de dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -917,7 +917,7 @@ ${body}</tran>
       <Position>MARK_AS_READ</Position>
       <TranslationSet>
         <base loc="en">Mark as Read</base>
-        <tran loc="es">Marcar como leído</tran>
+        <tran loc="es-419">Marcar como leído</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -925,7 +925,7 @@ ${body}</tran>
       <Position>MAIL_DROP_TITLE_MANY_FORMAT</Position>
       <TranslationSet>
         <base loc="en">These attachments may be too large (%@) to send in email. Do you want to use Mail Drop to deliver these attachments using iCloud? They will be available for the next 30 days.</base>
-        <tran loc="es">Es posible que estos archivos adjuntos sean demasiado grandes (%@) para enviar por correo electrónico. ¿Quieres utilizar Mail Drop para enviarlos a través de iCloud? Estarán disponibles durante un plazo de 30 días.</tran>
+        <tran loc="es-419">Estos archivos adjuntos podrían ser demasiado grandes (%@) para enviarlos por correo. ¿Quieres usar Mail Drop para enviarlos mediante iCloud? Estarán disponibles durante los próximos 30 días.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -933,7 +933,7 @@ ${body}</tran>
       <Position>UNENCRYPTED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Message is Unencrypted</base>
-        <tran loc="es">El mensaje no está encriptado</tran>
+        <tran loc="es-419">Mensaje sin encriptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -941,7 +941,7 @@ ${body}</tran>
       <Position>NO_EMAIL_ACCOUNT_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -949,7 +949,7 @@ ${body}</tran>
       <Position>NO_SMS_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -957,7 +957,7 @@ ${body}</tran>
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -965,7 +965,7 @@ ${body}</tran>
       <Position>NOTIFY_ME</Position>
       <TranslationSet>
         <base loc="en">Notify Me</base>
-        <tran loc="es">Notificarme</tran>
+        <tran loc="es-419">Notificarme</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -973,7 +973,7 @@ ${body}</tran>
       <Position>VALIDATING_RECIPIENTS</Position>
       <TranslationSet>
         <base loc="en">Validating recipients…</base>
-        <tran loc="es">Validando destinatarios…</tran>
+        <tran loc="es-419">Validando destinatarios…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -981,7 +981,7 @@ ${body}</tran>
       <Position>FORWARD</Position>
       <TranslationSet>
         <base loc="en">Forward</base>
-        <tran loc="es">Reenviar</tran>
+        <tran loc="es-419">Reenviar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -989,7 +989,7 @@ ${body}</tran>
       <Position>FORMAT_COLOR_PALETTE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Color Palette</base>
-        <tran loc="es">Paleta de colores</tran>
+        <tran loc="es-419">Paleta de colores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +997,7 @@ ${body}</tran>
       <Position>DELETE_DRAFT</Position>
       <TranslationSet>
         <base loc="en">Delete Draft</base>
-        <tran loc="es">Eliminar borrador</tran>
+        <tran loc="es-419">Eliminar borrador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1005,7 +1005,7 @@ ${body}</tran>
       <Position>QUOTE_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Quote Level</base>
-        <tran loc="es">Nivel de cita</tran>
+        <tran loc="es-419">Nivel de cita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1013,7 +1013,7 @@ ${body}</tran>
       <Position>UNDO_QUOTE_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Quote Level</base>
-        <tran loc="es">nivel de cita</tran>
+        <tran loc="es-419">Nivel de cita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1021,7 +1021,7 @@ ${body}</tran>
       <Position>NEW_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">New Message</base>
-        <tran loc="es">Nuevo mensaje</tran>
+        <tran loc="es-419">Nuevo mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@ ${body}</tran>
       <Position>NEW_MESSAGE_LONG</Position>
       <TranslationSet>
         <base loc="en">New Message</base>
-        <tran loc="es">Nuevo mensaje</tran>
+        <tran loc="es-419">Nuevo mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@ ${body}</tran>
       <Position>IMAGE_RESIZING_BAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Images:</base>
-        <tran loc="es">Imágenes:</tran>
+        <tran loc="es-419">Imágenes:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@ ${body}</tran>
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1053,7 @@ ${body}</tran>
       <Position>UNDO_INSERT_VIDEO</Position>
       <TranslationSet>
         <base loc="en">Insert Video</base>
-        <tran loc="es">inserción de vídeo</tran>
+        <tran loc="es-419">Insertar video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1061,7 @@ ${body}</tran>
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1069,7 @@ ${body}</tran>
       <Position>SUGGESTIONS</Position>
       <TranslationSet>
         <base loc="en">Suggestions</base>
-        <tran loc="es">Sugerencias</tran>
+        <tran loc="es-419">Sugerencias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1077,7 +1077,7 @@ ${body}</tran>
       <Position>FROM</Position>
       <TranslationSet>
         <base loc="en">From:</base>
-        <tran loc="es">De:</tran>
+        <tran loc="es-419">De:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1085,7 +1085,7 @@ ${body}</tran>
       <Position>BINARY_RECIPIENT_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">%@ and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1093,7 +1093,7 @@ ${body}</tran>
       <Position>ERROR_SAVING_DRAFT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to Save Draft</base>
-        <tran loc="es">No se ha podido guardar el borrador</tran>
+        <tran loc="es-419">No se pudo guardar el borrador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1101,7 +1101,7 @@ ${body}</tran>
       <Position>UNABLE_TO_ENCRYPT</Position>
       <TranslationSet>
         <base loc="en">Unable to Encrypt</base>
-        <tran loc="es">No se ha podido encriptar</tran>
+        <tran loc="es-419">No se pudo encriptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1109,7 +1109,7 @@ ${body}</tran>
       <Position>SELECT_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Choose a contact to mail</base>
-        <tran loc="es">Selecciona un contacto</tran>
+        <tran loc="es-419">Selecciona un contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1117,7 +1117,7 @@ ${body}</tran>
       <Position>SAVED_TO_OUTBOX</Position>
       <TranslationSet>
         <base loc="en">A copy has been placed in your Outbox.</base>
-        <tran loc="es">Se ha colocado una copia en el buzón Salida.</tran>
+        <tran loc="es-419">Se colocó una copia en la bandeja de Salida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1125,7 +1125,7 @@ ${body}</tran>
       <Position>MUTE_THREAD_CONFIRMATION</Position>
       <TranslationSet>
         <base loc="en">Mute all replies to this email thread</base>
-        <tran loc="es">Silenciar todas las respuestas a este hilo de correo</tran>
+        <tran loc="es-419">Silenciar todas las respuestas de esta cadena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1133,7 +1133,7 @@ ${body}</tran>
       <Position>IN_FLIGHT_ASSET_DOWNLOAD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Download in Progress</base>
-        <tran loc="es">Descarga en curso</tran>
+        <tran loc="es-419">Descarga en curso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1141,7 +1141,7 @@ ${body}</tran>
       <Position>MEDIUM_SIZE_BAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Medium</base>
-        <tran loc="es">Mediano</tran>
+        <tran loc="es-419">Mediano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1149,7 +1149,7 @@ ${body}</tran>
       <Position>MEDIUM_SIZE_UNKNOWN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Medium</base>
-        <tran loc="es">Mediano</tran>
+        <tran loc="es-419">Mediano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1157,7 +1157,7 @@ ${body}</tran>
       <Position>SUGGESTED_RECIPIENTS</Position>
       <TranslationSet>
         <base loc="en">Suggested Recipients</base>
-        <tran loc="es">Destinatarios sugeridos</tran>
+        <tran loc="es-419">Destinatarios sugeridos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1165,7 +1165,7 @@ ${body}</tran>
       <Position>FORMAT_FONTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Fonts</base>
-        <tran loc="es">Tipos de letra</tran>
+        <tran loc="es-419">Tipos de letra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1173,7 +1173,7 @@ ${body}</tran>
       <Position>TOO_BIG_FOR_CELL %d</Position>
       <TranslationSet>
         <base loc="en">Attachment Is Over %dMB</base>
-        <tran loc="es">El archivo adjunto supera los %d MB</tran>
+        <tran loc="es-419">El archivo adjunto sobrepasa %dMB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1181,7 +1181,7 @@ ${body}</tran>
       <Position>TAKE_PHOTO_OR_VIDEO</Position>
       <TranslationSet>
         <base loc="en">Take Photo or Video</base>
-        <tran loc="es">Hacer foto o grabar vídeo</tran>
+        <tran loc="es-419">Tomar foto o grabar video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1189,7 +1189,7 @@ ${body}</tran>
       <Position>FORMAT_DEFAULT_FONT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Default Font</base>
-        <tran loc="es">Tipo de letra por omisión</tran>
+        <tran loc="es-419">Tipo predeterminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1197,7 +1197,7 @@ ${body}</tran>
       <Position>RECENT_PLACEHOLDER_NAME</Position>
       <TranslationSet>
         <base loc="en">Recent</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1205,7 +1205,7 @@ ${body}</tran>
       <Position>RECENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Recent</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1213,7 +1213,7 @@ ${body}</tran>
       <Position>BCC/FROM</Position>
       <TranslationSet>
         <base loc="en">Bcc/From:</base>
-        <tran loc="es">Cco/De:</tran>
+        <tran loc="es-419">Cco/De:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1221,7 +1221,7 @@ ${body}</tran>
       <Position>INSERT_PHOTO_OR_VIDEO</Position>
       <TranslationSet>
         <base loc="en">Insert Photo or Video</base>
-        <tran loc="es">Insertar foto o vídeo</tran>
+        <tran loc="es-419">Insertar foto o video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1229,7 +1229,7 @@ ${body}</tran>
       <Position>CONFIRM_SEND_MESSAGE %@</Position>
       <TranslationSet>
         <base loc="en">“%@” does not appear to be a valid email address. Do you want to send it anyway?</base>
-        <tran loc="es">“%@” no es una dirección de correo válida. ¿Quieres enviar el mensaje de todos modos?</tran>
+        <tran loc="es-419">“%@” no es una dirección de correo válida. ¿Quieres enviar el mensaje de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1237,7 +1237,7 @@ ${body}</tran>
       <Position>ACTUAL_SIZE_TITLE %@</Position>
       <TranslationSet>
         <base loc="en">Actual Size (%@)</base>
-        <tran loc="es">Tamaño real (%@)</tran>
+        <tran loc="es-419">Tamaño real (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1245,7 +1245,7 @@ ${body}</tran>
       <Position>MAIL_DROP_USE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Use Mail Drop</base>
-        <tran loc="es">Usar Mail Drop</tran>
+        <tran loc="es-419">Usar Mail Drop</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1253,7 +1253,7 @@ ${body}</tran>
       <Position>NO_SMS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Send Message</base>
-        <tran loc="es">Imposible enviar mensaje</tran>
+        <tran loc="es-419">Imposible enviar mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1261,7 +1261,7 @@ ${body}</tran>
       <Position>OTHER_SIGNERS</Position>
       <TranslationSet>
         <base loc="en">Other:</base>
-        <tran loc="es">Otros:</tran>
+        <tran loc="es-419">Otro:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1269,7 +1269,7 @@ ${body}</tran>
       <Position>IN_FLIGHT_ASSET_DOWNLOAD_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Attachments are still being downloaded. Sending now will not include all attachments. Do you want to send it anyway?</base>
-        <tran loc="es">Aún se están descargando archivos adjuntos. Si envías el mensaje ahora, no se incluirán todos los archivos adjuntos. ¿Quieres enviarlo de todos modos?</tran>
+        <tran loc="es-419">Aún se están descargando archivos adjuntos. Si envías el mensaje ahora, no se incluirán todos los archivos adjuntos. ¿Quieres enviar el mensaje de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1277,7 +1277,7 @@ ${body}</tran>
       <Position>REMOVE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1285,7 +1285,7 @@ ${body}</tran>
       <Position>ENCRYPTION_EXPLANATION_FORMAT</Position>
       <TranslationSet>
         <base loc="en">You can send encrypted messages to “%@”.</base>
-        <tran loc="es">Puedes enviar mensajes encriptados a “%@”.</tran>
+        <tran loc="es-419">Puedes enviar mensajes encriptados a “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1293,7 +1293,7 @@ ${body}</tran>
       <Position>UNDO_INSERT_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Insert Photo</base>
-        <tran loc="es">inserción de foto</tran>
+        <tran loc="es-419">Insertar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1301,7 +1301,7 @@ ${body}</tran>
       <Position>REMOVE_RECENT</Position>
       <TranslationSet>
         <base loc="en">Remove From Recents</base>
-        <tran loc="es">Eliminar de recientes</tran>
+        <tran loc="es-419">Eliminar de recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1309,7 +1309,7 @@ ${body}</tran>
       <Position>INVALID_ADDRESS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Invalid Address</base>
-        <tran loc="es">Dirección no válida</tran>
+        <tran loc="es-419">Dirección no válida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1317,7 +1317,7 @@ ${body}</tran>
       <Position>FOUND_IN_MAIL</Position>
       <TranslationSet>
         <base loc="en">Siri Found in Apps</base>
-        <tran loc="es">Encontrado en apps por Siri</tran>
+        <tran loc="es-419">Siri lo encontró en apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1325,7 +1325,7 @@ ${body}</tran>
       <Position>TOO_BIG_FOR_CELL_MESSAGE_CH</Position>
       <TranslationSet>
         <base loc="en">You must connect to a WLAN network to send this attachment.</base>
-        <tran loc="es">Debes conectarte a una red WLAN para enviar este archivo adjunto.</tran>
+        <tran loc="es-419">Debes conectarte a una red WLAN para enviar este archivo adjunto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1333,7 +1333,7 @@ ${body}</tran>
       <Position>MAIL_DROP_AVAILABLE_UNTIL %@</Position>
       <TranslationSet>
         <base loc="en">Available until %@</base>
-        <tran loc="es">Disponible hasta el %@</tran>
+        <tran loc="es-419">Disponible hasta el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1341,7 +1341,7 @@ ${body}</tran>
       <Position>CC/BCC/FROM</Position>
       <TranslationSet>
         <base loc="en">Cc/Bcc, From:</base>
-        <tran loc="es">Cc/Cco, De:</tran>
+        <tran loc="es-419">Cc/Cco, De:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1349,7 +1349,7 @@ ${body}</tran>
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1357,7 +1357,7 @@ ${body}</tran>
       <Position>PLACEHOLDER_NAME</Position>
       <TranslationSet>
         <base loc="en">No Name</base>
-        <tran loc="es">Ningún nombre</tran>
+        <tran loc="es-419">Ningún nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1365,7 +1365,7 @@ ${body}</tran>
       <Position>REPLY</Position>
       <TranslationSet>
         <base loc="en">Reply</base>
-        <tran loc="es">Responder</tran>
+        <tran loc="es-419">Responder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1373,7 +1373,7 @@ ${body}</tran>
       <Position>N_MORE</Position>
       <TranslationSet>
         <base loc="en">%@ more…</base>
-        <tran loc="es">%@ más…</tran>
+        <tran loc="es-419">%@ más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1381,7 +1381,7 @@ ${body}</tran>
       <Position>IMPORT_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Add Document</base>
-        <tran loc="es">Añadir documento</tran>
+        <tran loc="es-419">Agregar documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1389,7 +1389,7 @@ ${body}</tran>
       <Position>UNDO_IMPORT_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Add Document</base>
-        <tran loc="es">Añadir documento</tran>
+        <tran loc="es-419">Agregar documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1397,7 +1397,7 @@ ${body}</tran>
       <Position>ATTACHMENTS_FAILED_TO_LOAD_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">One or more attachments failed to load.</base>
-        <tran loc="es">Error al cargar uno o más archivos adjuntos.</tran>
+        <tran loc="es-419">Error al cargar uno o más archivos adjuntos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1405,7 +1405,7 @@ ${body}</tran>
       <Position>AIRPLANE_EXPLAIN</Position>
       <TranslationSet>
         <base loc="en">Airplane Mode is on.  The email has been placed in your Outbox and will be sent later.</base>
-        <tran loc="es">El modo Avión está activado. El mensaje se ha colocado en el buzón de salida y se enviará más tarde.</tran>
+        <tran loc="es-419">“Modo de vuelo” está activado. El mensaje se colocó en la bandeja de salida y se enviará más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1413,7 +1413,7 @@ ${body}</tran>
       <Position>TRUNCATED_RECIPIENT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@…</base>
-        <tran loc="es">%@…</tran>
+        <tran loc="es-419">%@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1421,7 +1421,7 @@ ${body}</tran>
       <Position>EMPTY_SUBJECT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Empty Subject</base>
-        <tran loc="es">Asunto vacío</tran>
+        <tran loc="es-419">Asunto vacío</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1429,7 +1429,7 @@ ${body}</tran>
       <Position>Cc:</Position>
       <TranslationSet>
         <base loc="en">Cc</base>
-        <tran loc="es">Cc</tran>
+        <tran loc="es-419">Cc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1437,7 +1437,7 @@ ${body}</tran>
       <Position>PHOTO_PICKER_RECENT_PHOTOS</Position>
       <TranslationSet>
         <base loc="en">Recent Photos</base>
-        <tran loc="es">Fotos recientes</tran>
+        <tran loc="es-419">Fotos recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1445,7 +1445,7 @@ ${body}</tran>
       <Position>NO_SMS_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Text messaging is not available.</base>
-        <tran loc="es">Los mensajes de texto no están disponibles.</tran>
+        <tran loc="es-419">Los mensajes de texto no están disponibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1453,7 +1453,7 @@ ${body}</tran>
       <Position>FOCUS_BCC</Position>
       <TranslationSet>
         <base loc="en">Add Bcc</base>
-        <tran loc="es">Añadir Cco</tran>
+        <tran loc="es-419">Agregar Bcc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1461,7 +1461,7 @@ ${body}</tran>
       <Position>FORMAT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Format</base>
-        <tran loc="es">Formato</tran>
+        <tran loc="es-419">Formato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1469,7 +1469,7 @@ ${body}</tran>
       <Position>MARKUP_ATTACHMENT</Position>
       <TranslationSet>
         <base loc="en">Markup</base>
-        <tran loc="es">Marcación</tran>
+        <tran loc="es-419">Marcado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1477,7 +1477,7 @@ ${body}</tran>
       <Position>ATTACHMENTS_FAILED_TO_LOAD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to Attach</base>
-        <tran loc="es">No se puede adjuntar</tran>
+        <tran loc="es-419">No se pudo adjuntar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1485,7 +1485,7 @@ ${body}</tran>
       <Position>ADDRESS_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1493,7 +1493,7 @@ ${body}</tran>
       <Position>DRAFT_ACTIVITY_FORMAT %@</Position>
       <TranslationSet>
         <base loc="en">Draft: %@</base>
-        <tran loc="es">Borrador: %@</tran>
+        <tran loc="es-419">Borrador para: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1501,7 +1501,7 @@ ${body}</tran>
       <Position>PHOTO_PICKER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Photos</base>
-        <tran loc="es">Fotos</tran>
+        <tran loc="es-419">Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1509,7 +1509,7 @@ ${body}</tran>
       <Position>MORE_TITLE</Position>
       <TranslationSet>
         <base loc="en"> more…</base>
-        <tran loc="es"> más…</tran>
+        <tran loc="es-419"> más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1517,7 +1517,7 @@ ${body}</tran>
       <Position>DEFAULT_DRAWING_NAME</Position>
       <TranslationSet>
         <base loc="en">drawing</base>
-        <tran loc="es">dibujo</tran>
+        <tran loc="es-419">dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1525,7 +1525,7 @@ ${body}</tran>
       <Position>RECIPIENT_TYPES_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">   </base>
-        <tran loc="es">   </tran>
+        <tran loc="es-419">   </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1533,7 +1533,7 @@ ${body}</tran>
       <Position>DOWNLOAD_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">%@ of %@</base>
-        <tran loc="es">%@ de %@</tran>
+        <tran loc="es-419">%@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1541,7 +1541,7 @@ ${body}</tran>
       <Position>ENCRYPTED</Position>
       <TranslationSet>
         <base loc="en">Encrypted</base>
-        <tran loc="es">Encriptado</tran>
+        <tran loc="es-419">Encriptado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1549,7 +1549,7 @@ ${body}</tran>
       <Position>SCAN_DOCUMENT_FAILED_EXPLAIN</Position>
       <TranslationSet>
         <base loc="en">Unable to add scanned document to message.</base>
-        <tran loc="es">El documento escaneado no se puede añadir al mensaje.</tran>
+        <tran loc="es-419">No se pudo agregar el documento escaneado al mensaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1557,7 +1557,7 @@ ${body}</tran>
       <Position>SAVE_AS_DRAFT</Position>
       <TranslationSet>
         <base loc="en">Save Draft</base>
-        <tran loc="es">Guardar borrador</tran>
+        <tran loc="es-419">Guardar borrador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1565,7 +1565,7 @@ ${body}</tran>
       <Position>LARGE_SIZE_BAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Large</base>
-        <tran loc="es">Grande</tran>
+        <tran loc="es-419">Grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1573,7 +1573,7 @@ ${body}</tran>
       <Position>LARGE_SIZE_UNKNOWN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Large</base>
-        <tran loc="es">Grande</tran>
+        <tran loc="es-419">Grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1581,7 +1581,7 @@ ${body}</tran>
       <Position>CC/BCC</Position>
       <TranslationSet>
         <base loc="en">Cc/Bcc:</base>
-        <tran loc="es">Cc/Cco:</tran>
+        <tran loc="es-419">Cc/Cco:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1589,7 +1589,7 @@ ${body}</tran>
       <Position>DECREASE_QUOTE_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Decrease Quote Level</base>
-        <tran loc="es">Disminuir nivel de cita</tran>
+        <tran loc="es-419">Disminuir nivel de cita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1597,7 +1597,7 @@ ${body}</tran>
       <Position>GROUP_INITIAL_ITEM</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1605,7 +1605,7 @@ ${body}</tran>
       <Position>LEAVE_IN_OUTBOX</Position>
       <TranslationSet>
         <base loc="en">Leave in Outbox</base>
-        <tran loc="es">Dejar en Salida</tran>
+        <tran loc="es-419">Dejar en Salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1613,7 +1613,7 @@ ${body}</tran>
       <Position>INCREASE_QUOTE_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Increase Quote Level</base>
-        <tran loc="es">Aumentar nivel de cita</tran>
+        <tran loc="es-419">Aumentar nivel de cita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1621,7 @@ ${body}</tran>
       <Position>BCC</Position>
       <TranslationSet>
         <base loc="en">Bcc:</base>
-        <tran loc="es">Cco:</tran>
+        <tran loc="es-419">Cco:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1629,7 @@ ${body}</tran>
       <Position>TOO_BIG_FOR_CELL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You must connect to a Wi-Fi network to send this attachment.</base>
-        <tran loc="es">Debes conectarte a una red Wi-Fi para enviar este archivo adjunto.</tran>
+        <tran loc="es-419">Debes conectarte a una red Wi-Fi para enviar este archivo adjunto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1637,7 @@ ${body}</tran>
       <Position>CONFIRM_UNENCRYPTED_MESSAGE_ANY</Position>
       <TranslationSet>
         <base loc="en">Mail cannot find a valid certificate for any recipient. Do you want to send it anyway?</base>
-        <tran loc="es">Mail no encuentra ningún certificado válido para ningún destinatario. ¿Quieres enviarlo de todos modos?</tran>
+        <tran loc="es-419">Mail no encontró un certificado válido para ningún destinatario. ¿Quieres enviar el mensaje de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1645,7 @@ ${body}</tran>
       <Position>ADDRESS_ADDITION</Position>
       <TranslationSet>
         <base loc="en">Address Addition</base>
-        <tran loc="es">adición de dirección</tran>
+        <tran loc="es-419">adición de dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1653,7 @@ ${body}</tran>
       <Position>MAIL_DROP_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">This attachment may be too large (%@) to send in email. Do you want to use Mail Drop to deliver the attachment using iCloud? It will be available for the next 30 days.</base>
-        <tran loc="es">Es posible que este archivo adjunto sea demasiado grande (%@) para enviar por correo electrónico. ¿Quieres utilizar Mail Drop para enviarlo a través de iCloud? Estará disponible durante un plazo de 30 días.</tran>
+        <tran loc="es-419">Este archivo adjunto podría ser demasiado grande (%@) para enviarlo por correo. ¿Quieres usar Mail Drop para enviarlo mediante iCloud? Estará disponible durante los próximos 30 días.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1661,7 +1661,7 @@ ${body}</tran>
       <Position>NOT_ENCRYPTED</Position>
       <TranslationSet>
         <base loc="en">Not Encrypted</base>
-        <tran loc="es">No encriptado</tran>
+        <tran loc="es-419">No encriptado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1669,7 +1669,7 @@ ${body}</tran>
       <Position>MAIL_DROP</Position>
       <TranslationSet>
         <base loc="en">Mail Drop</base>
-        <tran loc="es">Mail Drop</tran>
+        <tran loc="es-419">Mail Drop</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1677,7 +1677,7 @@ ${body}</tran>
       <Position>TO</Position>
       <TranslationSet>
         <base loc="en">To:</base>
-        <tran loc="es">Para:</tran>
+        <tran loc="es-419">Para:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1685,7 +1685,7 @@ ${body}</tran>
       <Position>ACTUAL_SIZE_BAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Actual Size</base>
-        <tran loc="es">Tamaño real</tran>
+        <tran loc="es-419">Tamaño real</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1693,7 +1693,7 @@ ${body}</tran>
       <Position>MAIL_DROP_DOWNLOAD_IMAGES</Position>
       <TranslationSet>
         <base loc="en">Download full resolution images</base>
-        <tran loc="es">Descargar imágenes de máxima resolución</tran>
+        <tran loc="es-419">Descargar imágenes de máxima resolución</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1701,7 +1701,7 @@ ${body}</tran>
       <Position>VIDEO</Position>
       <TranslationSet>
         <base loc="en">Video</base>
-        <tran loc="es">Vídeo</tran>
+        <tran loc="es-419">Video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1709,7 +1709,7 @@ ${body}</tran>
       <Position>DONT_SAVE</Position>
       <TranslationSet>
         <base loc="en">Don’t Save</base>
-        <tran loc="es">No guardar</tran>
+        <tran loc="es-419">No guardar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1717,7 +1717,7 @@ ${body}</tran>
       <Position>GROUP_NON_FINAL_ITEM</Position>
       <TranslationSet>
         <base loc="en">, %@</base>
-        <tran loc="es">, %@</tran>
+        <tran loc="es-419">, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1725,7 +1725,7 @@ ${body}</tran>
       <Position>FOUND_ON_SERVERS</Position>
       <TranslationSet>
         <base loc="en">Found on servers</base>
-        <tran loc="es">Encontrado en los servidores</tran>
+        <tran loc="es-419">Se encontró en servidores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1733,7 +1733,7 @@ ${body}</tran>
       <Position>NO_SMS_EXPLANATION_DEVICE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Text messaging is not available on %@.</base>
-        <tran loc="es">Los mensajes de texto no están disponibles en el %@.</tran>
+        <tran loc="es-419">Los mensajes de texto no están disponibles en el %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1741,7 +1741,7 @@ ${body}</tran>
       <Position>LARGE_SIZE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Large (%@)</base>
-        <tran loc="es">Grande (%@)</tran>
+        <tran loc="es-419">Grande (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1749,7 +1749,7 @@ ${body}</tran>
       <Position>MEDIUM_SIZE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Medium (%@)</base>
-        <tran loc="es">Mediano (%@)</tran>
+        <tran loc="es-419">Mediano (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1757,7 +1757,7 @@ ${body}</tran>
       <Position>NOTIFY_ME_CONFIRMATION</Position>
       <TranslationSet>
         <base loc="en">Receive notifications when anyone replies to this email thread.</base>
-        <tran loc="es">Recibirás un aviso cuando se responda a este hilo de correo.</tran>
+        <tran loc="es-419">Recibir notificaciones cuando alguien conteste a esta cadena de correos electrónicos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1765,7 +1765,7 @@ ${body}</tran>
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1773,7 +1773,7 @@ ${body}</tran>
       <Position>SENDING</Position>
       <TranslationSet>
         <base loc="en">Sending</base>
-        <tran loc="es">Enviando</tran>
+        <tran loc="es-419">Enviando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1781,7 +1781,7 @@ ${body}</tran>
       <Position>PHOTO_PICKER_ALL_PHOTOS</Position>
       <TranslationSet>
         <base loc="en">All Photos</base>
-        <tran loc="es">Todas las fotos</tran>
+        <tran loc="es-419">Todas las fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1789,7 +1789,7 @@ ${body}</tran>
       <Position>From:</Position>
       <TranslationSet>
         <base loc="en">From</base>
-        <tran loc="es">De</tran>
+        <tran loc="es-419">De</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1797,7 +1797,7 @@ ${body}</tran>
       <Position>SHORT_BINARY_RECIPIENT_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">%@ &amp; %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1805,7 +1805,7 @@ ${body}</tran>
       <Position>NO_SUBJECT</Position>
       <TranslationSet>
         <base loc="en">(No subject)</base>
-        <tran loc="es">(Sin asunto)</tran>
+        <tran loc="es-419">(Sin asunto)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1813,7 +1813,7 @@ ${body}</tran>
       <Position>MAIL_DROP_NOT_USE_MESSAGE_PLURAL</Position>
       <TranslationSet>
         <base loc="en">Try Sending Attachments</base>
-        <tran loc="es">Intentar enviar archivos adjuntos</tran>
+        <tran loc="es-419">Intentar enviar archivos adjuntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1821,7 +1821,7 @@ ${body}</tran>
       <Position>DELETE_CHANGES</Position>
       <TranslationSet>
         <base loc="en">Delete Changes</base>
-        <tran loc="es">Eliminar cambios</tran>
+        <tran loc="es-419">Eliminar cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1829,7 +1829,7 @@ ${body}</tran>
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1840,7 +1840,7 @@ ${body}</tran>
       <Position>/MAIL_DROP_NOT_USE_MESSAGE:dict/attachments:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Try Sending Attachment</base>
-        <tran loc="es">Intentar enviar archivo adjunto</tran>
+        <tran loc="es-419">Intentar enviar archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
   </File>

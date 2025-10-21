@@ -8,7 +8,7 @@
       <Position>ASSISTANT_DIRECT_ACTION_INTERSTITIAL_1</Position>
       <TranslationSet>
         <base loc="en">Just a Moment…</base>
-        <tran loc="es">Solo un momento…</tran>
+        <tran loc="es-419">En un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ASSISTANT_NO_NETWORK_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">You are not connected to the Internet</base>
-        <tran loc="es">No estás conectado a internet</tran>
+        <tran loc="es-419">No tienes conexión a Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>CAR_DISPLAY_NO_NETWORK_SUBTEXT</Position>
       <TranslationSet>
         <base loc="en">You are not connected to the Internet</base>
-        <tran loc="es">No estás conectado a internet</tran>
+        <tran loc="es-419">No tienes conexión a Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>ASSISTANT_BOREALIS_EDUCATION_HEADER_REGULAR</Position>
       <TranslationSet>
         <base loc="en">Hey, I learned a new trick!</base>
-        <tran loc="es">Mira, he aprendido un truco nuevo.</tran>
+        <tran loc="es-419">Oye, aprendí algo nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>ASSISTANT_LISTENING_NUDGE_COMPACT</Position>
       <TranslationSet>
         <base loc="en">Go ahead,\nI’m listening…</base>
-        <tran loc="es">Adelante,\nte escucho…</tran>
+        <tran loc="es-419">Continúa,\nte escucho…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>ASSISTANT_PRESENTING_APPLE_PAY_SHEET</Position>
       <TranslationSet>
         <base loc="en">OK, please confirm your payment.</base>
-        <tran loc="es">Confirma el pago.</tran>
+        <tran loc="es-419">OK, confirma tu pago.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>SHOW_MUSIC</Position>
       <TranslationSet>
         <base loc="en">Show Music</base>
-        <tran loc="es">Mostrar música</tran>
+        <tran loc="es-419">Mostrar música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>ASSISTANT_CONNECTION_FAILED_3</Position>
       <TranslationSet>
         <base loc="en">You may be attempting a connection to an internal Siri Server but are not on Apple’s internal network.</base>
-        <tran loc="es">Puede que estés intentando conectarte a un servidor interno de Siri pero no estés conectado a la red interna de Apple.</tran>
+        <tran loc="es-419">Es posible que estés intentando establecer conexión con un servidor interno de Siri pero no estás en la red interna de Apple.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>SIRI_SUGGESTION_TITLE_COMPACT</Position>
       <TranslationSet>
         <base loc="en">Some things you\ncan ask me:</base>
-        <tran loc="es">Puedes pedirme\ncosas como estas:</tran>
+        <tran loc="es-419">Puedes pedirme\ncosas como estas:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>SEE_MORE_ON_PUNCHOUT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">See More on %@</base>
-        <tran loc="es">Ver más en %@</tran>
+        <tran loc="es-419">Ver más en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>ASSISTANT_BOREALIS_EDUCATION_SUBHEADER_COMPACT</Position>
       <TranslationSet>
         <base loc="en">Just say “%@” to\nlearn more.</base>
-        <tran loc="es">Solo tienes que decir “%@”\npara obtener más información.</tran>
+        <tran loc="es-419">Sólo di “%@” para\nobtener más información.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>FACETIME_VIDEO_LABEL</Position>
       <TranslationSet>
         <base loc="en">FaceTime Video</base>
-        <tran loc="es">FaceTime de vídeo</tran>
+        <tran loc="es-419">FaceTime de video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>GROUP</Position>
       <TranslationSet>
         <base loc="en">Group</base>
-        <tran loc="es">Grupo</tran>
+        <tran loc="es-419">Grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>SIRI_SUGGESTION_TITLE_REGULAR</Position>
       <TranslationSet>
         <base loc="en">Some things you can ask me:</base>
-        <tran loc="es">Puedes pedirme cosas como estas:</tran>
+        <tran loc="es-419">Puedes pedirme\ncosas como estas:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>EMERGENCY_CALL_SASH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Emergency Call</base>
-        <tran loc="es">Llamada SOS</tran>
+        <tran loc="es-419">Llamada SOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>YESTERDAY</Position>
       <TranslationSet>
         <base loc="en">Yesterday</base>
-        <tran loc="es">Ayer</tran>
+        <tran loc="es-419">Ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>ASSISTANT_NO_CACHED_GUIDE</Position>
       <TranslationSet>
         <base loc="en">Sorry, I’m having trouble accessing the guide. Please try again later.</base>
-        <tran loc="es">Parece que hay problemas para acceder a la guía. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Lo siento, tengo problemas para acceder a la guía. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>SHOW_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">Show Messages</base>
-        <tran loc="es">Mostrar mensajes</tran>
+        <tran loc="es-419">Mostrar mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>ENCYCLOPEDIA_DESCRIPTION_EXPAND_TEXT</Position>
       <TranslationSet>
         <base loc="en">more</base>
-        <tran loc="es">más</tran>
+        <tran loc="es-419">más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>WIKIPEDIA</Position>
       <TranslationSet>
         <base loc="en">Wikipedia</base>
-        <tran loc="es">Wikipedia</tran>
+        <tran loc="es-419">Wikipedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>FACETIME_AUDIO_LABEL</Position>
       <TranslationSet>
         <base loc="en">FaceTime Audio</base>
-        <tran loc="es">FaceTime de audio</tran>
+        <tran loc="es-419">FaceTime de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>NEW_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">New Message</base>
-        <tran loc="es">Nuevo mensaje</tran>
+        <tran loc="es-419">Nuevo mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>ASSISTANT_NOT_READY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Siri is adding new users every day. You will receive an alert when you can start using Siri.</base>
-        <tran loc="es">Cada día se añaden usuarios nuevos para utilizar Siri. Recibirás un aviso cuando puedas empezar a usar esta función.</tran>
+        <tran loc="es-419">Cada día se agregan usuarios nuevos para utilizar Siri. Recibirás un aviso cuando puedas empezar a usar esta función.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>ASSISTANT_CONNECTION_FAILED_2</Position>
       <TranslationSet>
         <base loc="en">Hmm… I’m having a problem with the connection. Please try again in a little bit.</base>
-        <tran loc="es">Parece que hay algún problema con la conexión. Inténtalo de nuevo dentro de un rato.</tran>
+        <tran loc="es-419">Uy, tengo problemas de conexión. Vuelve a intentar en un rato.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>READING</Position>
       <TranslationSet>
         <base loc="en">Reading…</base>
-        <tran loc="es">Leyendo…</tran>
+        <tran loc="es-419">Leyendo…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -221,7 +221,7 @@
       <Position>ASSISTANT_TRY_AGAIN</Position>
       <TranslationSet>
         <base loc="en">Sorry, could you say that again?</base>
-        <tran loc="es">¿Lo podrías repetir?</tran>
+        <tran loc="es-419">¿Lo podrías repetir?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -229,7 +229,7 @@
       <Position>ASSISTANT_CONNECTION_FAILED_1</Position>
       <TranslationSet>
         <base loc="en">I’m having some trouble with the connection. Please try again in a moment.</base>
-        <tran loc="es">Debe de haber algún problema con la conexión. Inténtalo de nuevo un poco más tarde.</tran>
+        <tran loc="es-419">Tengo algunos problemas de conexión. Vuelve a intentar en un rato.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -237,7 +237,7 @@
       <Position>ASSISTANT_BOREALIS_EDUCATION_SUBHEADER_REGULAR</Position>
       <TranslationSet>
         <base loc="en">Just say “%@” to learn more.</base>
-        <tran loc="es">Solo tienes que decir “%@” para obtener más información.</tran>
+        <tran loc="es-419">Sólo di “%@” para obtener más información.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -245,7 +245,7 @@
       <Position>ASSISTANT_BOREALIS_EDUCATION_HEADER_COMPACT</Position>
       <TranslationSet>
         <base loc="en">Hey, I learned a\nnew trick!</base>
-        <tran loc="es">Mira, he aprendido\nun truco nuevo.</tran>
+        <tran loc="es-419">Oye, aprendí\nalgo nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -253,7 +253,7 @@
       <Position>SHOW_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Show Contacts</base>
-        <tran loc="es">Mostrar contactos</tran>
+        <tran loc="es-419">Mostrar contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -261,7 +261,7 @@
       <Position>ASSISTANT_NOT_READY_TITLE</Position>
       <TranslationSet>
         <base loc="en">You can start using Siri soon.</base>
-        <tran loc="es">En breve podrás empezar a utilizar Siri</tran>
+        <tran loc="es-419">En breve podrás empezar a utilizar Siri.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -269,7 +269,7 @@
       <Position>CAR_DISPLAY_REQUIRES_INTERNET_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">Siri requires an\nInternet connection</base>
-        <tran loc="es">Siri requiere conexión a internet</tran>
+        <tran loc="es-419">Siri necesita\nuna conexión a Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -277,7 +277,7 @@
       <Position>TITLE_FOR_SPEECH_ALTERNATIVE_LIST</Position>
       <TranslationSet>
         <base loc="en">Maybe you said…</base>
-        <tran loc="es">Quizá has dicho…</tran>
+        <tran loc="es-419">Tal vez dijiste…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -285,7 +285,7 @@
       <Position>KNOWLEDGE</Position>
       <TranslationSet>
         <base loc="en">Knowledge</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -293,7 +293,7 @@
       <Position>TODAY</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -301,7 +301,7 @@
       <Position>NAVIGATION_BAR_BACK_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -309,7 +309,7 @@
       <Position>ASSISTANT_PRESENTING_LOCAL_AUTHENTICATION_UI</Position>
       <TranslationSet>
         <base loc="en">OK, please authenticate to continue.</base>
-        <tran loc="es">Identifícate para continuar.</tran>
+        <tran loc="es-419">OK, autentica para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -317,7 +317,7 @@
       <Position>UNKNOWN_PHONE_LABEL</Position>
       <TranslationSet>
         <base loc="en">unknown</base>
-        <tran loc="es">desconocido</tran>
+        <tran loc="es-419">desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>ASSISTANT_INTERNET_CONECTION_LOST_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Internet connection lost</base>
-        <tran loc="es">Se ha perdido la conexión a internet</tran>
+        <tran loc="es-419">Sin conexión a Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>ASSISTANT_INITIAL_QUERY</Position>
       <TranslationSet>
         <base loc="en">What can I help\nyou with?</base>
-        <tran loc="es">¿En qué te\npuedo ayudar?</tran>
+        <tran loc="es-419">¿En qué te\npuedo ayudar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>ASSISTANT_INITIAL_QUERY_COMPACT</Position>
       <TranslationSet>
         <base loc="en">What can I help\nyou with?</base>
-        <tran loc="es">¿En qué te\npuedo ayudar?</tran>
+        <tran loc="es-419">¿En qué te\npuedo ayudar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>CALL_HISTORY_SASH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Call History</base>
-        <tran loc="es">Historial de llamadas</tran>
+        <tran loc="es-419">Historial de llamadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>SHOW_ALL</Position>
       <TranslationSet>
         <base loc="en">Show All…</base>
-        <tran loc="es">Mostrar todo…</tran>
+        <tran loc="es-419">Mostrar todo…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>ASSISTANT_NOT_AVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Siri Not Available</base>
-        <tran loc="es">Siri no está disponible</tran>
+        <tran loc="es-419">Siri no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>ASSISTANT_CONNECTION_FAILED_0</Position>
       <TranslationSet>
         <base loc="en">Sorry, I’m having trouble with the connection. Please try again in a moment.</base>
-        <tran loc="es">Lo siento, pero parece que hay problemas con la conexión. Inténtalo de nuevo dentro de un rato.</tran>
+        <tran loc="es-419">Lo siento, tengo problemas de conexión. Vuelve a intentar en un rato.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>ASSISTANT_LISTENING_NUDGE_REGULAR</Position>
       <TranslationSet>
         <base loc="en">Go ahead, I’m listening…</base>
-        <tran loc="es">Adelante, te escucho…</tran>
+        <tran loc="es-419">Continúa, te escucho…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>ASSISTANT_DIRECT_ACTION_INTERSTITIAL_0</Position>
       <TranslationSet>
         <base loc="en">One Moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">Un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>TAP_TO_EDIT</Position>
       <TranslationSet>
         <base loc="en">Tap to Edit</base>
-        <tran loc="es">Pulsa para editar</tran>
+        <tran loc="es-419">Toca para editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>SEND_MESSAGE_TO_PREFIX</Position>
       <TranslationSet>
         <base loc="en">To:</base>
-        <tran loc="es">Para:</tran>
+        <tran loc="es-419">Para:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +413,7 @@
       <Position>SEARCH</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +421,7 @@
       <Position>VOICEMAIL_SASH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Voicemail</base>
-        <tran loc="es">Buzón de voz</tran>
+        <tran loc="es-419">Mensaje de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>ASSISTANT_INITIAL_QUERY_REGULAR</Position>
       <TranslationSet>
         <base loc="en">What can I help you with?</base>
-        <tran loc="es">¿En qué te puedo ayudar?</tran>
+        <tran loc="es-419">¿En qué te puedo ayudar?</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -446,7 +446,7 @@
       <Position>IMAGE_SNIPPET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Photo</base>
-        <tran loc="es">Foto</tran>
+        <tran loc="es-419">Foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@
       <Position>MAP_POD_NAVIGATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Map</base>
-        <tran loc="es">Mapa</tran>
+        <tran loc="es-419">Mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@
       <Position>MAP_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Show Map</base>
-        <tran loc="es">Mostrar mapa</tran>
+        <tran loc="es-419">Mostrar mapa</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -473,7 +473,7 @@
       <Position>TWEET_POST_DATE_RELATIVE_HOURS</Position>
       <TranslationSet>
         <base loc="en">%1$@h</base>
-        <tran loc="es">%1$@ h</tran>
+        <tran loc="es-419">%1$@ h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -482,7 +482,7 @@
       <Position>TWEET_POST_DATE_ABSOLUTE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">MMM d</base>
-        <tran loc="es">d MMM</tran>
+        <tran loc="es-419">d MMM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -490,7 +490,7 @@
       <Position>TWITTER_VIEW_IN_TWITTER</Position>
       <TranslationSet>
         <base loc="en">View in Twitter</base>
-        <tran loc="es">Ver en Twitter</tran>
+        <tran loc="es-419">Ver en Twitter</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -498,7 +498,7 @@
       <Position>ADD_LOCATION</Position>
       <TranslationSet>
         <base loc="en">Add Location</base>
-        <tran loc="es">Añadir ubicación</tran>
+        <tran loc="es-419">Agregar ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -506,7 +506,7 @@
       <Position>TWITTER_SEE_MORE</Position>
       <TranslationSet>
         <base loc="en">See more in Twitter</base>
-        <tran loc="es">Ver más en Twitter</tran>
+        <tran loc="es-419">Ver más en Twitter</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -514,7 +514,7 @@
       <Position>RETWEET_COUNT_PLURAL_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Retweeted %1$@ times</base>
-        <tran loc="es">Retuiteado %1$@ veces</tran>
+        <tran loc="es-419">Tweet reenviado %1$@ veces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -522,7 +522,7 @@
       <Position>TWITTER_HEADER</Position>
       <TranslationSet>
         <base loc="en">Twitter</base>
-        <tran loc="es">Twitter</tran>
+        <tran loc="es-419">Twitter</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>FACEBOOK_TITLE</Position>
       <TranslationSet>
         <base loc="en">Facebook</base>
-        <tran loc="es">Facebook</tran>
+        <tran loc="es-419">Facebook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>TWEET_POST_DATE_RELATIVE_SECONDS</Position>
       <TranslationSet>
         <base loc="en">%1$@s</base>
-        <tran loc="es">%1$@ s</tran>
+        <tran loc="es-419">%1$@ s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@
       <Position>RETWEET_LABEL</Position>
       <TranslationSet>
         <base loc="en">Retweets</base>
-        <tran loc="es">Retuits</tran>
+        <tran loc="es-419">Tweets reenviados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>TWEET_DETAIL_CREATION_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">M/d/yyyy, h:mma</base>
-        <tran loc="es">d/M/yyyy, HH:mm</tran>
+        <tran loc="es-419">d/M/yyyy, HH:mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>TWEET_DETAIL_RETWEET_AUTHOR</Position>
       <TranslationSet>
         <base loc="en">%1$@ retweeted</base>
-        <tran loc="es">%1$@ ha retuiteado</tran>
+        <tran loc="es-419">%1$@ reenvió un tweet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>LOCATING</Position>
       <TranslationSet>
         <base loc="en">Locating…</base>
-        <tran loc="es">Localizando…</tran>
+        <tran loc="es-419">Localizando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>TWEET_DETAIL_RETWEET_UNKNOWN_AUTHOR</Position>
       <TranslationSet>
         <base loc="en">Retweeted</base>
-        <tran loc="es">Retuiteado</tran>
+        <tran loc="es-419">Tweet reenviado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>TWEET_DETAIL_RETWEETS_PLURAL</Position>
       <TranslationSet>
         <base loc="en">%1$@ Retweets</base>
-        <tran loc="es">%1$@ retuits</tran>
+        <tran loc="es-419">%1$@ tweets reenviados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>TWEET_POST_DATE_RELATIVE_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%1$@m</base>
-        <tran loc="es">%1$@ min</tran>
+        <tran loc="es-419">%1$@ min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>TWEET_DETAIL_NAVIGATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Tweet</base>
-        <tran loc="es">Twitter</tran>
+        <tran loc="es-419">Tweet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>TWEET_POST_DATE_RELATIVE_NOW</Position>
       <TranslationSet>
         <base loc="en">now</base>
-        <tran loc="es">ahora</tran>
+        <tran loc="es-419">ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>FAVORITES_LABEL</Position>
       <TranslationSet>
         <base loc="en">Favorites</base>
-        <tran loc="es">Favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>TWEET_DETAIL_RETWEETS_SINGULAR</Position>
       <TranslationSet>
         <base loc="en">%1$@ Retweet</base>
-        <tran loc="es">%1$@ retuit</tran>
+        <tran loc="es-419">%1$@ tweets reenviados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>RETWEET_COUNT_SINGULAR_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Retweeted %1$@ time</base>
-        <tran loc="es">Retuiteado %1$@ vez</tran>
+        <tran loc="es-419">Tweet reenviado %1$@ vez</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>WEIBO_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sina Weibo</base>
-        <tran loc="es">Sina Weibo</tran>
+        <tran loc="es-419">Sina Weibo</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -667,7 +667,7 @@
       <Position>SPOKEN_NOTIFICATIONS_MUTE_STATUS_UPDATE</Position>
       <TranslationSet>
         <base loc="en">Announce Messages Muted For An Hour</base>
-        <tran loc="es">Se ha silenciado “Avisar de los mensajes” durante 1 hora</tran>
+        <tran loc="es-419">Se silenció una hora anunciar los mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>SPOKEN_NOTIFICATIONS_REQUIRES_H1_STATUS_UPDATE</Position>
       <TranslationSet>
         <base loc="en">Connect AirPods To Announce Messages</base>
-        <tran loc="es">Conecta los AirPods para avisar de los mensajes</tran>
+        <tran loc="es-419">Conecta los AirPods para que se anuncien los mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +695,7 @@
       <Position>SPOKEN_NOTIFICATIONS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Announce Messages with Siri</base>
-        <tran loc="es">Anunciar mensajes con Siri</tran>
+        <tran loc="es-419">Anunciar los mensajes con Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +703,7 @@
       <Position>SPOKEN_NOTIFICATIONS_MUTE</Position>
       <TranslationSet>
         <base loc="en">Mute for 1 hour</base>
-        <tran loc="es">Silenciar 1 hora</tran>
+        <tran loc="es-419">Silencio por una hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +711,7 @@
       <Position>SPOKEN_NOTIFICATIONS_MUTED_UNTIL_TIME_SUBTEXT_PLURAL</Position>
       <TranslationSet>
         <base loc="en">Off until %@</base>
-        <tran loc="es">Desactivado hasta las %@</tran>
+        <tran loc="es-419">Desactivadas hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +719,7 @@
       <Position>SPOKEN_NOTIFICATIONS_MUTED_UNTIL_TIME_SUBTEXT_SINGULAR</Position>
       <TranslationSet>
         <base loc="en">Off until %@</base>
-        <tran loc="es">Desactivado hasta las %@</tran>
+        <tran loc="es-419">Desactivadas hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +727,7 @@
       <Position>SPOKEN_NOTIFICATIONS_OFF</Position>
       <TranslationSet>
         <base loc="en">Off for the day</base>
-        <tran loc="es">Desactivado hoy</tran>
+        <tran loc="es-419">Desactivadas por hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -735,7 +735,7 @@
       <Position>SPOKEN_NOTIFICATIONS_ON_STATUS_UPDATE</Position>
       <TranslationSet>
         <base loc="en">Announce Messages On</base>
-        <tran loc="es">“Avisar de los mensajes” activado</tran>
+        <tran loc="es-419">Anunciar los mensajes en</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -743,7 +743,7 @@
       <Position>SPOKEN_NOTIFICATIONS_ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -751,7 +751,7 @@
       <Position>SPOKEN_NOTIFICATIONS_OFF_STATUS_UPDATE</Position>
       <TranslationSet>
         <base loc="en">Announce Messages Muted Until Tomorrow</base>
-        <tran loc="es">Se ha silenciado “Avisar de los mensajes” hasta mañana</tran>
+        <tran loc="es-419">Se silenció hasta mañana anunciar los mensajes</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -762,7 +762,7 @@
       <Position>SETTING_POWERSAVING</Position>
       <TranslationSet>
         <base loc="en">Low Power Mode</base>
-        <tran loc="es">Modo de bajo consumo</tran>
+        <tran loc="es-419">Ahorrar batería</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +770,7 @@
       <Position>SETTING_BLUETOOTH</Position>
       <TranslationSet>
         <base loc="en">Bluetooth</base>
-        <tran loc="es">Bluetooth</tran>
+        <tran loc="es-419">Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +778,7 @@
       <Position>SETTING_WIFI</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi</base>
-        <tran loc="es">Wi-Fi</tran>
+        <tran loc="es-419">Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +786,7 @@
       <Position>SETTING_LOCATION_SERVICES</Position>
       <TranslationSet>
         <base loc="en">Location Services</base>
-        <tran loc="es">Localización</tran>
+        <tran loc="es-419">Localización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +794,7 @@
       <Position>SETTING_CELLULAR_DATA</Position>
       <TranslationSet>
         <base loc="en">Cellular Data</base>
-        <tran loc="es">Datos móviles</tran>
+        <tran loc="es-419">Datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +802,7 @@
       <Position>SETTING_VOICEOVER</Position>
       <TranslationSet>
         <base loc="en">VoiceOver</base>
-        <tran loc="es">VoiceOver</tran>
+        <tran loc="es-419">VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +810,7 @@
       <Position>SETTING_GUIDED_ACCESS</Position>
       <TranslationSet>
         <base loc="en">Guided Access</base>
-        <tran loc="es">Acceso guiado</tran>
+        <tran loc="es-419">Acceso Guiado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +818,7 @@
       <Position>SETTING_DND</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb</base>
-        <tran loc="es">No molestar</tran>
+        <tran loc="es-419">No molestar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +826,7 @@
       <Position>SETTING_INVERT_COLORS</Position>
       <TranslationSet>
         <base loc="en">Invert Colors</base>
-        <tran loc="es">Invertir colores</tran>
+        <tran loc="es-419">Invertir colores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -834,7 +834,7 @@
       <Position>SETTING_COMMAND_AND_CONTROL</Position>
       <TranslationSet>
         <base loc="en">Voice Control</base>
-        <tran loc="es">Control por voz</tran>
+        <tran loc="es-419">Control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -842,7 +842,7 @@
       <Position>SETTING_AIRPLANE</Position>
       <TranslationSet>
         <base loc="en">Airplane Mode</base>
-        <tran loc="es">Modo Avión</tran>
+        <tran loc="es-419">“Modo de vuelo”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -850,7 +850,7 @@
       <Position>SETTING_WLAN</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +858,7 @@
       <Position>SETTING_BRIGHTNESS</Position>
       <TranslationSet>
         <base loc="en">Brightness</base>
-        <tran loc="es">Brillo</tran>
+        <tran loc="es-419">Brillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +866,7 @@
       <Position>SETTING_ASSISTIVETOUCH</Position>
       <TranslationSet>
         <base loc="en">AssistiveTouch</base>
-        <tran loc="es">AssistiveTouch</tran>
+        <tran loc="es-419">AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -887,7 +887,7 @@
       <Position>SETTINGS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -898,7 +898,7 @@
       <Position>BUY</Position>
       <TranslationSet>
         <base loc="en">BUY</base>
-        <tran loc="es">COMPRAR</tran>
+        <tran loc="es-419">COMPRAR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -918,7 +918,7 @@
       <Position>ARTIST_FORMAT %@</Position>
       <TranslationSet>
         <base loc="en">by %@</base>
-        <tran loc="es">de %@</tran>
+        <tran loc="es-419">por %@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -929,7 +929,7 @@
       <Position>SIRI_SUGGESTION_TITLE_COMPACT</Position>
       <TranslationSet>
         <base loc="en">Some things you\ncan ask me:</base>
-        <tran loc="es">Puedes pedirme\ncosas como estas:</tran>
+        <tran loc="es-419">Puedes pedirme\ncosas como estas:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -937,7 +937,7 @@
       <Position>SIRI_SUGGESTION_TITLE_REGULAR</Position>
       <TranslationSet>
         <base loc="en">Some things you can ask me:</base>
-        <tran loc="es">Puedes pedirme cosas como estas:</tran>
+        <tran loc="es-419">Puedes pedirme\ncosas como estas:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -945,7 +945,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -953,7 +953,7 @@
       <Position>SELECT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Select</base>
-        <tran loc="es">Seleccionar</tran>
+        <tran loc="es-419">Seleccionar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -961,7 +961,7 @@
       <Position>SIRI_USER_UTTERANCE_TRAILING_QUOTE_MARK</Position>
       <TranslationSet>
         <base loc="en">”</base>
-        <tran loc="es">”</tran>
+        <tran loc="es-419">”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -969,7 +969,7 @@
       <Position>PLAY_OPTION_N</Position>
       <TranslationSet>
         <base loc="en">Play option %@</base>
-        <tran loc="es">Opción de reproducción %@</tran>
+        <tran loc="es-419">Opción de reproducción %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -977,7 +977,7 @@
       <Position>TITLE_FOR_SPEECH_ALTERNATIVE_LIST</Position>
       <TranslationSet>
         <base loc="en">Maybe you said…</base>
-        <tran loc="es">Quizá has dicho…</tran>
+        <tran loc="es-419">Tal vez dijiste…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +997,7 @@
       <Position>SIRI</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1005,7 +1005,7 @@
       <Position>OTHER_SOURCES</Position>
       <TranslationSet>
         <base loc="en">Other Sources</base>
-        <tran loc="es">Otras fuentes</tran>
+        <tran loc="es-419">Otras fuentes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1013,7 +1013,7 @@
       <Position>CORRECTION_PROMPT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Did You Mean…</base>
-        <tran loc="es">Querías decir…</tran>
+        <tran loc="es-419">Quisiste decir…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1021,7 +1021,7 @@
       <Position>TAP_TO_EDIT</Position>
       <TranslationSet>
         <base loc="en">Tap to Edit</base>
-        <tran loc="es">Pulsa para editar</tran>
+        <tran loc="es-419">Toca para editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@
       <Position>PRONOUNCE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Pronounce</base>
-        <tran loc="es">Pronunciar</tran>
+        <tran loc="es-419">Pronunciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@
       <Position>PRONOUNCE_SUBTITLE_QUOTED_ORTHOGRAPHY_FORMAT</Position>
       <TranslationSet>
         <base loc="en">“%@”</base>
-        <tran loc="es">“%@”</tran>
+        <tran loc="es-419">“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@
       <Position>SIRI_USER_UTTERANCE_LEADING_QUOTE_MARK</Position>
       <TranslationSet>
         <base loc="en">“</base>
-        <tran loc="es">“</tran>
+        <tran loc="es-419">“</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1056,7 +1056,7 @@
       <Position>VOICE_FEEDBACK_CONTROL_WITH_SILENT_MODE</Position>
       <TranslationSet>
         <base loc="en">Control With Silent Mode</base>
-        <tran loc="es">Controlar con el modo silencioso</tran>
+        <tran loc="es-419">Controlar con modo Silencio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1064,7 @@
       <Position>VOICE_FEEDBACK_ALWAYS_ON</Position>
       <TranslationSet>
         <base loc="en">Always On</base>
-        <tran loc="es">Siempre activadas</tran>
+        <tran loc="es-419">Siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1078,7 +1078,7 @@
       <Position>VOICE_FEEDBACK</Position>
       <TranslationSet>
         <base loc="en">Voice Feedback</base>
-        <tran loc="es">Respuestas de voz</tran>
+        <tran loc="es-419">Respuestas con voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1086,7 +1086,7 @@
       <Position>VOICE_FEEDBACK_HEADPHONES_ONLY</Position>
       <TranslationSet>
         <base loc="en">Headphones Only</base>
-        <tran loc="es">Solo auriculares</tran>
+        <tran loc="es-419">Sólo con audífonos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1097,7 +1097,7 @@
       <Position>ASSISTANT_DISABLE_WARNING_DICTATION_ENABLED</Position>
       <TranslationSet>
         <base loc="en">The information Siri uses to respond to your requests is also used for Dictation and will remain on Apple servers unless Dictation is also turned off.</base>
-        <tran loc="es">Dictado también utiliza la información que usa Siri para responder a tus solicitudes, por lo que esta permanece en los servidores de Apple a menos que se desactive Dictado.</tran>
+        <tran loc="es-419">Para responder a tus solicitudes, Siri usa información que el dictado también, la cual se mantendrá en los servidores de Apple salvo que también se desactive el dictado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1105,7 +1105,7 @@
       <Position>VOICE_FEEDBACK_CONTROL_WITH_SILENT_MODE</Position>
       <TranslationSet>
         <base loc="en">Control With Silent Mode</base>
-        <tran loc="es">Controlar con el modo silencioso</tran>
+        <tran loc="es-419">Controlar con modo Silencio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1113,7 +1113,7 @@
       <Position>DIGITAL_CROWN</Position>
       <TranslationSet>
         <base loc="en">Press Digital Crown</base>
-        <tran loc="es">Pulsar la corona Digital Crown</tran>
+        <tran loc="es-419">Presiona la Digital Crown</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1121,7 +1121,7 @@
       <Position>VOICE_VOLUME</Position>
       <TranslationSet>
         <base loc="en">Voice Volume</base>
-        <tran loc="es">Volumen de la voz</tran>
+        <tran loc="es-419">Volumen de la voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1129,7 +1129,7 @@
       <Position>VOICE_FEEDBACK_ALWAYS_ON</Position>
       <TranslationSet>
         <base loc="en">Always On</base>
-        <tran loc="es">Siempre activadas</tran>
+        <tran loc="es-419">Siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1137,7 +1137,7 @@
       <Position>ASSISTANT_ENABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enable Siri</base>
-        <tran loc="es">Activar Siri</tran>
+        <tran loc="es-419">Activar Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1145,7 +1145,7 @@
       <Position>ASSISTANT_ENABLE_WARNING</Position>
       <TranslationSet>
         <base loc="en">Apple stores transcripts of your interactions with Siri and may review a subset of these transcripts. Siri also sends information like your voice input, Hey Siri setup, contacts and location to Apple to process your request. Data is not associated with your Apple ID.</base>
-        <tran loc="es">Apple almacena transcripciones de tus interacciones con Siri y puede revisar un subconjunto de estas transcripciones. Siri también envía información a Apple (como tu voz, la configuración de “Oye Siri”, tus contactos y tu ubicación) para procesar la solicitud. Los datos no se asocian a tu ID de Apple.</tran>
+        <tran loc="es-419">Apple almacena transcripciones de tus interacciones con Siri y podría revisar un subconjunto de las mismas. Siri también envía información (como tu voz, configuración de “Oye Siri”, contactos y ubicación) a Apple para procesar tus solicitudes. Los datos no se asocian con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1153,7 +1153,7 @@
       <Position>ASSISTANT_ENABLE_DISABLE_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1161,7 +1161,7 @@
       <Position>ASSISTANT_DISABLE_CONFIRMATION</Position>
       <TranslationSet>
         <base loc="en">Turn Off Siri</base>
-        <tran loc="es">Desactivar Siri</tran>
+        <tran loc="es-419">Desactivar Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1169,7 +1169,7 @@
       <Position>ASSISTANT_DISABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn Off Siri</base>
-        <tran loc="es">Desactivar Siri</tran>
+        <tran loc="es-419">Desactivar Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1183,7 +1183,7 @@
       <Position>SIRI_TITLE</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1191,7 +1191,7 @@
       <Position>ASK_SIRI</Position>
       <TranslationSet>
         <base loc="en">Ask Siri</base>
-        <tran loc="es">Consultar a Siri</tran>
+        <tran loc="es-419">Pedirle a Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1199,7 +1199,7 @@
       <Position>ASSISTANT_DISABLE_WARNING_DICTATION_DISABLED</Position>
       <TranslationSet>
         <base loc="en">The information Siri uses to respond to your requests will be removed from Apple servers. If you want to use Siri later, it will take some time to re-send this information.</base>
-        <tran loc="es">La información usada por Siri para responder a tus solicitudes se eliminará de los servidores de Apple. Si quieres usar Siri más adelante, esta información tardará un rato en enviarse de nuevo.</tran>
+        <tran loc="es-419">La información que Siri usa para responder a tus solicitudes se eliminará de los servidores de Apple. Si quieres usar Siri más adelante, esta información tardará en reenviarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1207,7 +1207,7 @@
       <Position>VOICE_VOLUME_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Control how loud Siri speaks responses.</base>
-        <tran loc="es">Controla el volumen de las respuestas de Siri.</tran>
+        <tran loc="es-419">Controlar el volumen de las respuestas de Siri.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1215,7 +1215,7 @@
       <Position>VOICE_FEEDBACK_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Select when Siri will speak responses.</base>
-        <tran loc="es">Elige cuándo quieres que Siri te responda en voz alta.</tran>
+        <tran loc="es-419">Elige cuándo Siri debe responder en voz alta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1223,7 +1223,7 @@
       <Position>VOICE_ACTIVATION</Position>
       <TranslationSet>
         <base loc="en">Listen for “%@”</base>
-        <tran loc="es">Activar al oír “%@”</tran>
+        <tran loc="es-419">Activar mediante “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1231,7 +1231,7 @@
       <Position>RAISE_TO_SPEAK</Position>
       <TranslationSet>
         <base loc="en">Raise to Speak</base>
-        <tran loc="es">Levantar para hablar</tran>
+        <tran loc="es-419">Levantar para hablar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1239,7 +1239,7 @@
       <Position>VOICE_FEEDBACK</Position>
       <TranslationSet>
         <base loc="en">Voice Feedback</base>
-        <tran loc="es">Respuestas de voz</tran>
+        <tran loc="es-419">Respuestas con voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1247,7 +1247,7 @@
       <Position>VOICE_FEEDBACK_HEADPHONES_ONLY</Position>
       <TranslationSet>
         <base loc="en">Headphones Only</base>
-        <tran loc="es">Solo auriculares</tran>
+        <tran loc="es-419">Sólo con audífonos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1270,7 +1270,7 @@
       <Position>SETTING_NOISE_CANCELLATION</Position>
       <TranslationSet>
         <base loc="en">Noise Cancellation</base>
-        <tran loc="es">Cancelación de ruido</tran>
+        <tran loc="es-419">Cancelar ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1278,7 +1278,7 @@
       <Position>SETTING_AUDIO_TRANSPARENCY</Position>
       <TranslationSet>
         <base loc="en">Audio Transparency</base>
-        <tran loc="es">Sonido ambiente</tran>
+        <tran loc="es-419">Modo Ambiente</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1295,7 +1295,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Announce Messages with Siri</base>
-        <tran loc="es">Anunciar mensajes con Siri</tran>
+        <tran loc="es-419">Anunciar los mensajes con Siri</tran>
       </TranslationSet>
     </TextItem>
   </File>

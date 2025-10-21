@@ -8,7 +8,7 @@
       <Position>Conflict: One out of the next %ld occurrences</Position>
       <TranslationSet>
         <base loc="en">Conflict: One out of the next %ld occurrences</base>
-        <tran loc="es">Conflicto: Una de las próximas %ld repeticiones</tran>
+        <tran loc="es-419">Se empalma una de las próximas %ld repeticiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>2nd-XX01</Position>
       <TranslationSet>
         <base loc="en">2nd</base>
-        <tran loc="es">2</tran>
+        <tran loc="es-419">2º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>2nd-XX02</Position>
       <TranslationSet>
         <base loc="en">2nd</base>
-        <tran loc="es">2.º</tran>
+        <tran loc="es-419">2º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Calendar uses Apple Maps to look up locations, traffic conditions, and transit options to tell you when it’s time to leave.</Position>
       <TranslationSet>
         <base loc="en">Calendar uses Apple Maps to look up locations, traffic conditions, and transit options to tell you when it’s time to leave.</base>
-        <tran loc="es">Calendario utiliza información de Mapas de Apple para buscar ubicaciones, la situación del tráfico y opciones de transporte público, y avisarte cuando es hora de salir.</tran>
+        <tran loc="es-419">Calendario usa Mapas para consultar ubicaciones, condiciones de tráfico y opciones de transporte para decirte a qué hora debes salir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Your calendar is double-booked at %@.</Position>
       <TranslationSet>
         <base loc="en">Your calendar is double-booked at %@.</base>
-        <tran loc="es">Tienes dos eventos en el calendario a la misma hora (%@).</tran>
+        <tran loc="es-419">Tienes dos eventos en el calendario a la misma hora (%@).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Your calendar looks clear in the morning.</Position>
       <TranslationSet>
         <base loc="en">Your calendar looks clear in the morning.</base>
-        <tran loc="es">Según el calendario, no tienes nada por la mañana.</tran>
+        <tran loc="es-419">Según el calendario, tienes la mañana libre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Action: Change Calendar Color</Position>
       <TranslationSet>
         <base loc="en">Change Color of “%@”</base>
-        <tran loc="es">cambio de color de “%@”</tran>
+        <tran loc="es-419">cambiar color de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>You have accepted %@ meetings at %@.</Position>
       <TranslationSet>
         <base loc="en">You have accepted %@ meetings at %@.</base>
-        <tran loc="es">Has aceptado %@ reuniones a las %@.</tran>
+        <tran loc="es-419">Aceptaste %@ reuniones a la(s) %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Action: Changes to “%@”</Position>
       <TranslationSet>
         <base loc="en">Changes to “%@”</base>
-        <tran loc="es">cambios en “%@”</tran>
+        <tran loc="es-419">cambios a "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>%@ (invited you)</Position>
       <TranslationSet>
         <base loc="en">%@ (invited you)</base>
-        <tran loc="es">%@ (te ha invitado)</tran>
+        <tran loc="es-419">%@ (te invitó)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Action: Change Attachment for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Attachment for “%@”</base>
-        <tran loc="es">cambio de archivo adjunto de “%@”</tran>
+        <tran loc="es-419">cambiar archivos adjuntos de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>You have two %@ scheduled for %@.</Position>
       <TranslationSet>
         <base loc="en">You have two %@ scheduled for %@.</base>
-        <tran loc="es">Tienes dos %@ a las %@.</tran>
+        <tran loc="es-419">Tienes dos %@ a la(s) %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Scheduled: %@ to %@</Position>
       <TranslationSet>
         <base loc="en">Scheduled: %@ to %@</base>
-        <tran loc="es">Programado: %@-%@</tran>
+        <tran loc="es-419">Se programó: del %@ al %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Reminder List</Position>
       <TranslationSet>
         <base loc="en">Reminder List</base>
-        <tran loc="es">Lista de recordatorios</tran>
+        <tran loc="es-419">Lista de recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Show more...</Position>
       <TranslationSet>
         <base loc="en">Show more...</base>
-        <tran loc="es">Mostrar más...</tran>
+        <tran loc="es-419">Mostrar más...</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>26th-XX01</Position>
       <TranslationSet>
         <base loc="en">26th</base>
-        <tran loc="es">26</tran>
+        <tran loc="es-419">26º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>26th-XX02</Position>
       <TranslationSet>
         <base loc="en">26th</base>
-        <tran loc="es">26.º</tran>
+        <tran loc="es-419">26º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>Date and time changed by %@</Position>
       <TranslationSet>
         <base loc="en">Date and time changed by %@</base>
-        <tran loc="es">%@ ha cambiado la fecha y la hora</tran>
+        <tran loc="es-419">%@ cambió la fecha y la hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>1st-XX01</Position>
       <TranslationSet>
         <base loc="en">1st</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">1er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>1st-XX02</Position>
       <TranslationSet>
         <base loc="en">1st</base>
-        <tran loc="es">1.er</tran>
+        <tran loc="es-419">1er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>First Day of Hebrew Month</Position>
       <TranslationSet>
         <base loc="en">First Day of Hebrew Month</base>
-        <tran loc="es">Primer día del mes hebreo</tran>
+        <tran loc="es-419">Primer día del mes hebreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>12th-XX01</Position>
       <TranslationSet>
         <base loc="en">12th</base>
-        <tran loc="es">12</tran>
+        <tran loc="es-419">12°.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>12th-XX02</Position>
       <TranslationSet>
         <base loc="en">12th</base>
-        <tran loc="es">12</tran>
+        <tran loc="es-419">12º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>Leave now to arrive on time via transit.</Position>
       <TranslationSet>
         <base loc="en">Leave now to arrive on time via transit.</base>
-        <tran loc="es">Sal ahora para llegar a tiempo en transporte público.</tran>
+        <tran loc="es-419">Sal ahora para llegar puntual en transporte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>Shared Calendar</Position>
       <TranslationSet>
         <base loc="en">Shared Calendar</base>
-        <tran loc="es">Calendario compartido</tran>
+        <tran loc="es-419">Calendario compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>of October%@</Position>
       <TranslationSet>
         <base loc="en">of October%@</base>
-        <tran loc="es">de octubre%@</tran>
+        <tran loc="es-419">de octubre%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>My Address</Position>
       <TranslationSet>
         <base loc="en">My Address</base>
-        <tran loc="es">Mi dirección</tran>
+        <tran loc="es-419">Mi dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>It will take %@ to arrive on time by foot.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to arrive on time by foot.</base>
-        <tran loc="es">Tardarás %@ en llegar a pie.</tran>
+        <tran loc="es-419">Te tomará %@ llegar puntual a pie.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>35th-XX02</Position>
       <TranslationSet>
         <base loc="en">35th</base>
-        <tran loc="es">35.º</tran>
+        <tran loc="es-419">35º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>beginning now</Position>
       <TranslationSet>
         <base loc="en">beginning now</base>
-        <tran loc="es">empieza ahora</tran>
+        <tran loc="es-419">está comenzando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>Time to Leave</Position>
       <TranslationSet>
         <base loc="en">Time to Leave</base>
-        <tran loc="es">Hora de salida</tran>
+        <tran loc="es-419">Hora de salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>Action: Add Travel Time for “%@”</Position>
       <TranslationSet>
         <base loc="en">Add Travel Time for “%@”</base>
-        <tran loc="es">adición de tiempo de viaje a “%@”</tran>
+        <tran loc="es-419">agregar duración del viaje a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>Invitation from %@</Position>
       <TranslationSet>
         <base loc="en">Invitation from %@</base>
-        <tran loc="es">Invitación de %@</tran>
+        <tran loc="es-419">Invitación de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>%@ invited you to a shared calendar.</Position>
       <TranslationSet>
         <base loc="en">%@ invited you to a shared calendar.</base>
-        <tran loc="es">%@ te ha invitado a un calendario compartido.</tran>
+        <tran loc="es-419">%@ te invitó a compartir un calendario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>Action: Change Attachment Permissions for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Attachment Permissions for “%@”</base>
-        <tran loc="es">cambio de permisos del archivo adjunto de “%@”</tran>
+        <tran loc="es-419">cambiar permisos de archivos adjuntos de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>Event will occur every %@ years on every %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ years on every %@.</base>
-        <tran loc="es">El evento se repetirá cada %2$@ de cada %1$@ años.</tran>
+        <tran loc="es-419">El evento se repetirá cada %2$@ cada %1$@ años.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 1 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 2 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 3 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 4 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 5 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 6 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 7 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>weekend day</Position>
       <TranslationSet>
         <base loc="en">weekend day</base>
-        <tran loc="es">día del fin de semana</tran>
+        <tran loc="es-419">día del fin de semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>%@ %@</Position>
       <TranslationSet>
         <base loc="en">%@ %@</base>
-        <tran loc="es">%@ %@</tran>
+        <tran loc="es-419">%@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>Work</Position>
       <TranslationSet>
         <base loc="en">Work</base>
-        <tran loc="es">Trabajo</tran>
+        <tran loc="es-419">Trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>27th-XX01</Position>
       <TranslationSet>
         <base loc="en">27th</base>
-        <tran loc="es">27</tran>
+        <tran loc="es-419">27º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>27th-XX02</Position>
       <TranslationSet>
         <base loc="en">27th</base>
-        <tran loc="es">27.º</tran>
+        <tran loc="es-419">27º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>Location and title changed by %@</Position>
       <TranslationSet>
         <base loc="en">Location and title changed by %@</base>
-        <tran loc="es">%@ ha cambiado la ubicación y el título</tran>
+        <tran loc="es-419">%@ cambió la ubicación y el título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>Leave now: It will take %@ via transit.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ via transit.</base>
-        <tran loc="es">Sal ahora: tardarás %@ en transporte público.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar en transporte público.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>%ld Events Found</Position>
       <TranslationSet>
         <base loc="en">%ld Events Found</base>
-        <tran loc="es">%ld eventos encontrados</tran>
+        <tran loc="es-419">%ld eventos encontrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>Date and title changed by %@</Position>
       <TranslationSet>
         <base loc="en">Date and title changed by %@</base>
-        <tran loc="es">%@ ha cambiado la fecha y el título</tran>
+        <tran loc="es-419">%@ cambió la fecha y el título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position> at %@</Position>
       <TranslationSet>
         <base loc="en"> at %@</base>
-        <tran loc="es"> en %@</tran>
+        <tran loc="es-419"> en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>%@Can we move this event to %@?</Position>
       <TranslationSet>
         <base loc="en">%@Can we move this event to %@?</base>
-        <tran loc="es">%@¿Podemos pasarlo al %@?</tran>
+        <tran loc="es-419">%@¿Podemos cambiar este evento a: %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>Canceled by %@</Position>
       <TranslationSet>
         <base loc="en">Canceled by %@</base>
-        <tran loc="es">Cancelado por %@</tran>
+        <tran loc="es-419">Cancelado por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>Conflicts with an event</Position>
       <TranslationSet>
         <base loc="en">Conflicts with an event</base>
-        <tran loc="es">Conflictos con un evento</tran>
+        <tran loc="es-419">Se empalma con un evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>%@\n%@</Position>
       <TranslationSet>
         <base loc="en">%@\n%@</base>
-        <tran loc="es">%@\n%@</tran>
+        <tran loc="es-419">%@\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>Calendar suggests locations based on your past events and significant locations.</Position>
       <TranslationSet>
         <base loc="en">Calendar suggests locations based on your past events and significant locations.</base>
-        <tran loc="es">Calendario sugiere ubicaciones basándose en los eventos pasados y los lugares importantes.</tran>
+        <tran loc="es-419">Calendario sugiere ubicaciones basadas en tus eventos pasados y ubicaciones importantes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>Happy birthday, %@. %@, %@, and %@ others also have birthdays today.</Position>
       <TranslationSet>
         <base loc="en">Happy birthday, %@. %@, %@, and %@ others also have birthdays today.</base>
-        <tran loc="es">¡Feliz cumpleaños, %@! %@, %@ y %@ más también cumplen años hoy.</tran>
+        <tran loc="es-419">Feliz cumpleaños, %@. %@, %@ y %@ más también cumplen años hoy.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>Could not share with %@ sharees</Position>
       <TranslationSet>
         <base loc="en">Could not share with %@ sharees</base>
-        <tran loc="es">No se ha podido compartir con %@ seguidores</tran>
+        <tran loc="es-419">Imposible compartir con %@ seguidores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>34th-XX02</Position>
       <TranslationSet>
         <base loc="en">34th</base>
-        <tran loc="es">34.º</tran>
+        <tran loc="es-419">34º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>%@ declined your shared reminders list.</Position>
       <TranslationSet>
         <base loc="en">%@ declined your shared reminders list.</base>
-        <tran loc="es">%@ ha rechazado tu lista de recordatorios compartida.</tran>
+        <tran loc="es-419">%@ rechazó tu lista de recordatorios compartida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position> in %@</Position>
       <TranslationSet>
         <base loc="en"> in %@</base>
-        <tran loc="es"> en %@</tran>
+        <tran loc="es-419"> en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>Suggested Location: %@</Position>
       <TranslationSet>
         <base loc="en">Suggested Location: %@</base>
-        <tran loc="es">Ubicación sugerida: %@</tran>
+        <tran loc="es-419">Ubicación sugerida: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>Forwarded by %@</Position>
       <TranslationSet>
         <base loc="en">Forwarded by %@</base>
-        <tran loc="es">Reenviado por %@</tran>
+        <tran loc="es-419">Reenviado por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>Event will occur every %@ years on the %@ %@ %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ years on the %@ %@ %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ años el %@ %@ %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %2$@ %3$@ %4$@ cada %1$@ años.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>Deleted from %@ by %@</Position>
       <TranslationSet>
         <base loc="en">Deleted from %@ by %@</base>
-        <tran loc="es">Eliminado de %@ por %@</tran>
+        <tran loc="es-419">%2$@ lo eliminó de %1$@ </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>13th-XX01</Position>
       <TranslationSet>
         <base loc="en">13th</base>
-        <tran loc="es">13</tran>
+        <tran loc="es-419">13</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>13th-XX02</Position>
       <TranslationSet>
         <base loc="en">13th</base>
-        <tran loc="es">13</tran>
+        <tran loc="es-419">13er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>24th-XX01</Position>
       <TranslationSet>
         <base loc="en">24th</base>
-        <tran loc="es">24</tran>
+        <tran loc="es-419">24º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>24th-XX02</Position>
       <TranslationSet>
         <base loc="en">24th</base>
-        <tran loc="es">24.º</tran>
+        <tran loc="es-419">24º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>%@'s address</Position>
       <TranslationSet>
         <base loc="en">%@'s address</base>
-        <tran loc="es">Dirección de %@</tran>
+        <tran loc="es-419">Dirección de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>%@: \"%@\"</Position>
       <TranslationSet>
         <base loc="en">%@: \"%@\"</base>
-        <tran loc="es">%@: “%@”</tran>
+        <tran loc="es-419">%@: “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>of June%@</Position>
       <TranslationSet>
         <base loc="en">of June%@</base>
-        <tran loc="es">de junio%@</tran>
+        <tran loc="es-419">de junio%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>It will take %@ to get to %@ on %@ by car.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to get to %@ on %@ by car.</base>
-        <tran loc="es">Tardarás %@ en llegar a %@ por %@ en coche.</tran>
+        <tran loc="es-419">Te tomará %@ llegar en auto hasta %@ por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>Somebody</Position>
       <TranslationSet>
         <base loc="en">Somebody</base>
-        <tran loc="es">Alguien</tran>
+        <tran loc="es-419">Alguien</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>Tomorrow</Position>
       <TranslationSet>
         <base loc="en">Tomorrow</base>
-        <tran loc="es">Mañana</tran>
+        <tran loc="es-419">Mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>It will take %@ on foot.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ on foot.</base>
-        <tran loc="es">Tardarás %@ a pie.</tran>
+        <tran loc="es-419">Te tomará %@ llegar a pie.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>You are meeting with %@ %@%@.</Position>
       <TranslationSet>
         <base loc="en">You are meeting with %@ %@%@.</base>
-        <tran loc="es">Has quedado con %@ %@%@.</tran>
+        <tran loc="es-419">Tienes una reunión con %@ a la(s) %@%@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>School</Position>
       <TranslationSet>
         <base loc="en">School</base>
-        <tran loc="es">Escuela</tran>
+        <tran loc="es-419">Centro educativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>Leave now to get to %@ (location) on time via transit.</Position>
       <TranslationSet>
         <base loc="en">Leave now to get to %@ on time via transit.</base>
-        <tran loc="es">Sal ahora para llegar a tiempo a %@ en transporte público.</tran>
+        <tran loc="es-419">Sal ahora para llegar puntual a %@ en transporte público.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>%@ events were added to %@.</Position>
       <TranslationSet>
         <base loc="en">%@ events were added to %@.</base>
-        <tran loc="es">Se han añadido %@ eventos a %@.</tran>
+        <tran loc="es-419">Se agregaron %@ eventos a %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>Hebrew</Position>
       <TranslationSet>
         <base loc="en">Hebrew</base>
-        <tran loc="es">Hebreo</tran>
+        <tran loc="es-419">Hebreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>Action: Remove Sharee from “%@”</Position>
       <TranslationSet>
         <base loc="en">Remove Sharee from “%@”</base>
-        <tran loc="es">eliminación de seguidor de “%@”</tran>
+        <tran loc="es-419">eliminar seguidor de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>It will take %@ to get to %@.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to get to %@.</base>
-        <tran loc="es">Tardarás %@ en llegar a %@.</tran>
+        <tran loc="es-419">Te tomará %@ llegar hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>37th-XX02</Position>
       <TranslationSet>
         <base loc="en">37th</base>
-        <tran loc="es">37.º</tran>
+        <tran loc="es-419">37º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>It will take %@ to arrive on time.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to arrive on time.</base>
-        <tran loc="es">Tardarás %@ en llegar.</tran>
+        <tran loc="es-419">Te tomará %@ llegar puntual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>It will take %@ to get to %@ via transit.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to get to %@ via transit.</base>
-        <tran loc="es">Tardarás %@ en llegar a %@ en transporte público.</tran>
+        <tran loc="es-419">Te tomará %@ llegar en transporte público hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>Today is %@’s and %@’s birthday.</Position>
       <TranslationSet>
         <base loc="en">Today is %@’s and %@’s birthday.</base>
-        <tran loc="es">Hoy es el cumpleaños de %@ y %@.</tran>
+        <tran loc="es-419">Hoy es el cumpleaños de %@ y %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>Event will occur every month on %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every month on %@.</base>
-        <tran loc="es">El evento se repetirá cada mes el %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %@ de cada mes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>%@ joined your shared reminders list.</Position>
       <TranslationSet>
         <base loc="en">%@ joined your shared reminders list.</base>
-        <tran loc="es">%@ se ha unido a tu lista de recordatorios compartida.</tran>
+        <tran loc="es-419">%@ se unió a tu lista de recordatorios compartida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>Added to %@ by %@</Position>
       <TranslationSet>
         <base loc="en">Added to %@ by %@</base>
-        <tran loc="es">Añadido a %@ por %@</tran>
+        <tran loc="es-419">Agregado a %@ por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>10th-XX01</Position>
       <TranslationSet>
         <base loc="en">10th</base>
-        <tran loc="es">10</tran>
+        <tran loc="es-419">10°.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>10th-XX02</Position>
       <TranslationSet>
         <base loc="en">10th</base>
-        <tran loc="es">10</tran>
+        <tran loc="es-419">10º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>of September%@</Position>
       <TranslationSet>
         <base loc="en">of September%@</base>
-        <tran loc="es">de septiembre%@</tran>
+        <tran loc="es-419">de septiembre%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>Event will occur every %@ months on %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ months on %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ meses el %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %2$@ cada %1$@ meses.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>Conflicts with %ld events</Position>
       <TranslationSet>
         <base loc="en">Conflicts with %ld events</base>
-        <tran loc="es">Conflictos con %ld eventos</tran>
+        <tran loc="es-419">Se empalma con %ld eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>In one minute</Position>
       <TranslationSet>
         <base loc="en">In one minute</base>
-        <tran loc="es">Dentro de un minuto</tran>
+        <tran loc="es-419">Dentro de un minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>Action: Add Attendee to “%@”</Position>
       <TranslationSet>
         <base loc="en">Add Attendee to “%@”</base>
-        <tran loc="es">adición de asistente a “%@”</tran>
+        <tran loc="es-419">agregar invitado a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>Action: Create events</Position>
       <TranslationSet>
         <base loc="en">Create Events</base>
-        <tran loc="es">creación de eventos</tran>
+        <tran loc="es-419">crear eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>All Invitees Can Attend</Position>
       <TranslationSet>
         <base loc="en">All Invitees Can Attend</base>
-        <tran loc="es">Todos los invitados pueden asistir</tran>
+        <tran loc="es-419">Todos los invitados pueden asistir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>Action: Rename List</Position>
       <TranslationSet>
         <base loc="en">Rename List</base>
-        <tran loc="es">cambio de nombre de la lista</tran>
+        <tran loc="es-419">renombrar lista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>in %@ minutes</Position>
       <TranslationSet>
         <base loc="en">in %@ minutes</base>
-        <tran loc="es">dentro de %@ minutos</tran>
+        <tran loc="es-419">dentro de %@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>Action: Change Location of “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Location of “%@”</base>
-        <tran loc="es">cambio de ubicación de “%@”</tran>
+        <tran loc="es-419">cambiar ubicación de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>%@ proposed %@.</Position>
       <TranslationSet>
         <base loc="en">%@ proposed %@.</base>
-        <tran loc="es">%@ ha propuesto: %@.</tran>
+        <tran loc="es-419">%@ propuso %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>Action: Response Comment for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Response Comment for “%@”</base>
-        <tran loc="es">cambio de comentarios de respuesta de “%@”</tran>
+        <tran loc="es-419">cambiar comentario de la respuesta de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>25th-XX01</Position>
       <TranslationSet>
         <base loc="en">25th</base>
-        <tran loc="es">25</tran>
+        <tran loc="es-419">25º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>25th-XX02</Position>
       <TranslationSet>
         <base loc="en">25th</base>
-        <tran loc="es">25.º</tran>
+        <tran loc="es-419">25º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>Beginning on: %@</Position>
       <TranslationSet>
         <base loc="en">Beginning on: %@</base>
-        <tran loc="es">Empiezan el: %@</tran>
+        <tran loc="es-419">Comenzando el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 1.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 2.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 3.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 4.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 5.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 6.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +928,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 7.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +936,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 1.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +944,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 2.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +952,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 3.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +960,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 4.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -968,7 +968,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 5.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -976,7 +976,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 6.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -984,7 +984,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 7.</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -992,7 +992,7 @@
       <Position>Canceled</Position>
       <TranslationSet>
         <base loc="en">Canceled</base>
-        <tran loc="es">Cancelado</tran>
+        <tran loc="es-419">Cancelado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1000,7 +1000,7 @@
       <Position>Invitation to share a calendar with %@.</Position>
       <TranslationSet>
         <base loc="en">Invitation to share a calendar with %@.</base>
-        <tran loc="es">Invitación para compartir un calendario con %@.</tran>
+        <tran loc="es-419">Invitación para compartir un calendario con %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1008,7 +1008,7 @@
       <Position>11th-XX01</Position>
       <TranslationSet>
         <base loc="en">11th</base>
-        <tran loc="es">11</tran>
+        <tran loc="es-419">11°.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1016,7 +1016,7 @@
       <Position>11th-XX02</Position>
       <TranslationSet>
         <base loc="en">11th</base>
-        <tran loc="es">11</tran>
+        <tran loc="es-419">11º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1024,7 +1024,7 @@
       <Position>%ld invitees accepted</Position>
       <TranslationSet>
         <base loc="en">%ld invitees accepted</base>
-        <tran loc="es">%ld invitados la han aceptado</tran>
+        <tran loc="es-419">%ld invitados aceptaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1032,7 +1032,7 @@
       <Position>%@ events were updated in %@ by %@.</Position>
       <TranslationSet>
         <base loc="en">%@ events were updated in %@ by %@.</base>
-        <tran loc="es">%3$@ ha actualizado %1$@ eventos en %2$@.</tran>
+        <tran loc="es-419">%3$@ actualizó %1$@ eventos de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1040,7 +1040,7 @@
       <Position>Action: Completion Change</Position>
       <TranslationSet>
         <base loc="en">Completion Change</base>
-        <tran loc="es">cambio de finalización</tran>
+        <tran loc="es-419">cambio de finalización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1048,7 +1048,7 @@
       <Position>There are %@ all-day events scheduled.</Position>
       <TranslationSet>
         <base loc="en">There are %@ all-day events scheduled.</base>
-        <tran loc="es">Tienes %@ eventos programados para todo el día.</tran>
+        <tran loc="es-419">Hay %@ eventos de todo el día programados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1056,7 +1056,7 @@
       <Position>Leave now: It will take %@ to get to %@ by car.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ to get to %@ by car.</base>
-        <tran loc="es">Sal ahora: tardarás %@ en llegar a %@ en coche.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar en auto hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1064,7 @@
       <Position>Join “%@”?</Position>
       <TranslationSet>
         <base loc="en">Join “%@”?</base>
-        <tran loc="es">¿Unirse a “%@”?</tran>
+        <tran loc="es-419">¿Unirse a “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1072,7 +1072,7 @@
       <Position>It will take %@ to arrive.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to arrive.</base>
-        <tran loc="es">Tardarás %@ en llegar.</tran>
+        <tran loc="es-419">Te tomará %@ llegar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1080,7 +1080,7 @@
       <Position>36th-XX02</Position>
       <TranslationSet>
         <base loc="en">36th</base>
-        <tran loc="es">36.º</tran>
+        <tran loc="es-419">36º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1088,7 @@
       <Position>It will take %@ via transit.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ via transit.</base>
-        <tran loc="es">Tardarás %@ en transporte público.</tran>
+        <tran loc="es-419">Te tomará %@ llegar en transporte público.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1096,7 @@
       <Position>It will take %@ on %@.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ on %@.</base>
-        <tran loc="es">Tardarás %@ por %@.</tran>
+        <tran loc="es-419">Te tomará %@ llegar por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1104,7 @@
       <Position>Event will occur every day.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every day.</base>
-        <tran loc="es">El evento se repetirá cada día.</tran>
+        <tran loc="es-419">El evento se repetirá a diario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1112,7 @@
       <Position>%@ at %@</Position>
       <TranslationSet>
         <base loc="en">%@ at %@</base>
-        <tran loc="es">%@ a las %@</tran>
+        <tran loc="es-419">%@ a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1120,7 @@
       <Position>items</Position>
       <TranslationSet>
         <base loc="en">items</base>
-        <tran loc="es">cosas</tran>
+        <tran loc="es-419">elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1128,7 @@
       <Position>Leave now: It will take %@ to get to %@ on %@.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ to get to %@ on %@.</base>
-        <tran loc="es">Sal ahora: tardarás %@ en llegar a %@ por %@.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar hasta %@ por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1136,7 @@
       <Position>Found in %@</Position>
       <TranslationSet>
         <base loc="en">Found in %@</base>
-        <tran loc="es">Encontrado en %@</tran>
+        <tran loc="es-419">Encontrado en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1144,7 @@
       <Position>Action: Rename Calendar to “%@”</Position>
       <TranslationSet>
         <base loc="en">Rename Calendar to “%@”</base>
-        <tran loc="es">cambio de nombre del calendario por “%@”</tran>
+        <tran loc="es-419">renombrar calendario a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1152,7 @@
       <Position>Yesterday</Position>
       <TranslationSet>
         <base loc="en">Yesterday</base>
-        <tran loc="es">Ayer</tran>
+        <tran loc="es-419">Ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1160,7 @@
       <Position>Location changed to %@</Position>
       <TranslationSet>
         <base loc="en">Location changed to %@</base>
-        <tran loc="es">La ubicación ha cambiado a %@</tran>
+        <tran loc="es-419">La ubicación cambió a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1168,7 @@
       <Position>You have no events scheduled for tomorrow.</Position>
       <TranslationSet>
         <base loc="en">You have no events scheduled for tomorrow.</base>
-        <tran loc="es">No tienes nada programado para mañana.</tran>
+        <tran loc="es-419">No tienes nada programado para mañana.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1176,7 @@
       <Position>4th-XX01</Position>
       <TranslationSet>
         <base loc="en">4th</base>
-        <tran loc="es">4</tran>
+        <tran loc="es-419">4º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1184,7 @@
       <Position>4th-XX02</Position>
       <TranslationSet>
         <base loc="en">4th</base>
-        <tran loc="es">4.º</tran>
+        <tran loc="es-419">4º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1192,7 +1192,7 @@
       <Position>16th-XX01</Position>
       <TranslationSet>
         <base loc="en">16th</base>
-        <tran loc="es">16</tran>
+        <tran loc="es-419">16º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1200,7 @@
       <Position>16th-XX02</Position>
       <TranslationSet>
         <base loc="en">16th</base>
-        <tran loc="es">16</tran>
+        <tran loc="es-419">16º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1208,7 @@
       <Position>Action: Rename %@ to “%@”</Position>
       <TranslationSet>
         <base loc="en">Rename %@ to “%@”</base>
-        <tran loc="es">cambio de nombre de %@ a “%@”</tran>
+        <tran loc="es-419">cambiar nombre de %@ a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1216,7 @@
       <Position>Location changed.</Position>
       <TranslationSet>
         <base loc="en">Location changed.</base>
-        <tran loc="es">La ubicación ha cambiado.</tran>
+        <tran loc="es-419">La ubicación cambió.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1224,7 @@
       <Position>Leave now: It will take %@ on %@ by car.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ on %@ by car.</base>
-        <tran loc="es">Sal ahora: tardarás %@ por %@ en coche.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar en auto por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1232,7 @@
       <Position>of January%@</Position>
       <TranslationSet>
         <base loc="en">of January%@</base>
-        <tran loc="es">de enero%@</tran>
+        <tran loc="es-419">de enero%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1240,7 @@
       <Position>Leave now: It will take %@ to get to %@ on %@ by car.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ to get to %@ on %@ by car.</base>
-        <tran loc="es">Sal ahora: tardarás %@ en llegar a %@ por %@ en coche.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar en auto hasta %@ por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@
       <Position>Leave now: It will take %@ on foot.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ on foot.</base>
-        <tran loc="es">Sal ahora: tardarás %@ a pie.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar a pie.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@
       <Position>Leave now: It will take %@ to get to %@ via transit.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ to get to %@ via transit.</base>
-        <tran loc="es">Sal ahora: tardarás %@ en llegar a %@ en transporte público.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar por transporte público hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@
       <Position>Action: Delete “%@”</Position>
       <TranslationSet>
         <base loc="en">Delete “%@”</base>
-        <tran loc="es">eliminación de “%@”</tran>
+        <tran loc="es-419">eliminar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@
       <Position>“%@” is next up on your calendar, %@.</Position>
       <TranslationSet>
         <base loc="en">“%@” is next up on your calendar, %@.</base>
-        <tran loc="es">Lo siguiente que hay en el calendario es “%@”, %@.</tran>
+        <tran loc="es-419">Lo siguiente en el calendario es “%@”, %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@
       <Position>Today is %@’s birthday.</Position>
       <TranslationSet>
         <base loc="en">Today is %@’s birthday.</base>
-        <tran loc="es">Hoy es el cumpleaños de %@.</tran>
+        <tran loc="es-419">Hoy es el cumpleaños de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@
       <Position>Location changed to %@ by %@</Position>
       <TranslationSet>
         <base loc="en">Location changed to %@ by %@</base>
-        <tran loc="es">%2$@ ha cambiado la ubicación a %1$@</tran>
+        <tran loc="es-419">%2$@ cambió la ubicación a %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@
       <Position>Action: Change Notes for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Notes for “%@”</base>
-        <tran loc="es">cambio de notas de “%@”</tran>
+        <tran loc="es-419">cambiar notas de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@
       <Position>Happy birthday, %@. Today is also %@’s birthday.</Position>
       <TranslationSet>
         <base loc="en">Happy birthday, %@. Today is also %@’s birthday.</base>
-        <tran loc="es">¡Feliz cumpleaños, %@! Hoy también es el cumpleaños de %@.</tran>
+        <tran loc="es-419">Feliz cumpleaños, %@. Hoy también es el cumpleaños de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@
       <Position>Action: Remove Attendee from “%@”</Position>
       <TranslationSet>
         <base loc="en">Remove Attendee from “%@”</base>
-        <tran loc="es">eliminación de asistente de “%@”</tran>
+        <tran loc="es-419">eliminar invitado de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>There’s a lot going on tomorrow.</Position>
       <TranslationSet>
         <base loc="en">There’s a lot going on tomorrow.</base>
-        <tran loc="es">La agenda de mañana está apretada.</tran>
+        <tran loc="es-419">Tu agenda está muy llena para mañana.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>Calendar Week View</Position>
       <TranslationSet>
         <base loc="en">Calendar Week View</base>
-        <tran loc="es">Visualización del calendario por semanas</tran>
+        <tran loc="es-419">Ver calendario por semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>The placeholder is for a time expression, e.g. 9 AM, appropriate to the current locale.</Position>
       <TranslationSet>
         <base loc="en">at %@</base>
-        <tran loc="es">a las %@</tran>
+        <tran loc="es-419">a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>The placeholder is for a time expression, e.g. 9 AM, appropriate to the current locale. This is only used for events in the past</Position>
       <TranslationSet>
         <base loc="en">at %@</base>
-        <tran loc="es">a las %@</tran>
+        <tran loc="es-419">a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>Used only when the time is 1 o'clock (i.e. 1:00 AM, 1:00 PM, or 0100 in 24-hour time).</Position>
       <TranslationSet>
         <base loc="en">at %@</base>
-        <tran loc="es">a la %@</tran>
+        <tran loc="es-419">a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>of August%@</Position>
       <TranslationSet>
         <base loc="en">of August%@</base>
-        <tran loc="es">de agosto%@</tran>
+        <tran loc="es-419">de agosto%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>17th-XX01</Position>
       <TranslationSet>
         <base loc="en">17th</base>
-        <tran loc="es">17</tran>
+        <tran loc="es-419">17º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@
       <Position>17th-XX02</Position>
       <TranslationSet>
         <base loc="en">17th</base>
-        <tran loc="es">17</tran>
+        <tran loc="es-419">17º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@
       <Position>Event will occur every month on the %@ %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every month on the %@ %@.</base>
-        <tran loc="es">El evento se repetirá cada mes el %@ %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %@ %@ de cada mes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1392,7 @@
       <Position>5th-XX01</Position>
       <TranslationSet>
         <base loc="en">5th</base>
-        <tran loc="es">5</tran>
+        <tran loc="es-419">5º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1400,7 @@
       <Position>5th-XX02</Position>
       <TranslationSet>
         <base loc="en">5th</base>
-        <tran loc="es">5.º</tran>
+        <tran loc="es-419">5º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1408,7 @@
       <Position>%@ events were deleted from %@.</Position>
       <TranslationSet>
         <base loc="en">%@ events were deleted from %@.</base>
-        <tran loc="es">Se han eliminado %@ eventos de %@.</tran>
+        <tran loc="es-419">Se eliminaron %@ eventos de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1416,7 @@
       <Position>Event will occur every year on every %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every year on every %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ de cada año.</tran>
+        <tran loc="es-419">El evento se repetirá cada %@ cada año.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1424,7 @@
       <Position>%@  %@</Position>
       <TranslationSet>
         <base loc="en">%@  %@</base>
-        <tran loc="es">%@  %@</tran>
+        <tran loc="es-419">%@  %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@
       <Position>Action: Revert events</Position>
       <TranslationSet>
         <base loc="en">Revert Events</base>
-        <tran loc="es">restauración de eventos</tran>
+        <tran loc="es-419">restaurar eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@
       <Position>Gym</Position>
       <TranslationSet>
         <base loc="en">Gym</base>
-        <tran loc="es">Gimnasio</tran>
+        <tran loc="es-419">Gimnasio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@
       <Position>last day</Position>
       <TranslationSet>
         <base loc="en">last day</base>
-        <tran loc="es">último día</tran>
+        <tran loc="es-419">el último día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>30th-XX01</Position>
       <TranslationSet>
         <base loc="en">30th</base>
-        <tran loc="es">30</tran>
+        <tran loc="es-419">30º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@
       <Position>30th-XX02</Position>
       <TranslationSet>
         <base loc="en">30th</base>
-        <tran loc="es">30.º</tran>
+        <tran loc="es-419">30º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>Calendar List View</Position>
       <TranslationSet>
         <base loc="en">Calendar List View</base>
-        <tran loc="es">Visualización del calendario como lista</tran>
+        <tran loc="es-419">Ver calendario en lista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>Your calendar is triple-booked at %@.</Position>
       <TranslationSet>
         <base loc="en">Your calendar is triple-booked at %@.</base>
-        <tran loc="es">Tienes tres eventos en el calendario a la misma hora (%@).</tran>
+        <tran loc="es-419">Tienes tres eventos en el calendario a la misma hora (%@).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>31st-XX01</Position>
       <TranslationSet>
         <base loc="en">31st</base>
-        <tran loc="es">31</tran>
+        <tran loc="es-419">31er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>31st-XX02</Position>
       <TranslationSet>
         <base loc="en">31st</base>
-        <tran loc="es">31.er</tran>
+        <tran loc="es-419">31er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>Action: Change Calendar of “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Calendar of “%@”</base>
-        <tran loc="es">cambio de calendario de “%@”</tran>
+        <tran loc="es-419">cambiar calendario de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>Date changed to %@ by %@</Position>
       <TranslationSet>
         <base loc="en">Date changed to %@ by %@</base>
-        <tran loc="es">%2$@ ha cambiado la fecha a %1$@</tran>
+        <tran loc="es-419">%2$@ cambió la fecha al %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1520,7 @@
       <Position>There are %@ events scheduled, and the first one starts at %@.</Position>
       <TranslationSet>
         <base loc="en">There are %@ events scheduled, and the first one starts at %@.</base>
-        <tran loc="es">Tienes %@ eventos programados; el primero empieza a las %@.</tran>
+        <tran loc="es-419">Tienes %@ eventos programados; el primero empieza a la(s) %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@
       <Position>Action: Change Travel Time for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Travel Time for “%@”</base>
-        <tran loc="es">cambio de tiempo de viaje de “%@”</tran>
+        <tran loc="es-419">cambiar duración del viaje de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@
       <Position>53rd-XX02</Position>
       <TranslationSet>
         <base loc="en">53rd</base>
-        <tran loc="es">53.er</tran>
+        <tran loc="es-419">53er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@
       <Position>%@, you are meeting with %@%@.</Position>
       <TranslationSet>
         <base loc="en">%@, you are meeting with %@%@.</base>
-        <tran loc="es">%@ has quedado con %@%@.</tran>
+        <tran loc="es-419">A la(s) %@, tienes una reunión con %@%@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 1 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 2 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 3 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 4 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 5 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 6 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@
       <Position>Date prior to day, but in previous week ('last Monday').  Format 7 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1608,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 1 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1616,7 +1616,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 2 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1624,7 +1624,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 3 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1632,7 +1632,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 4 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1640,7 +1640,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 5 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1648,7 +1648,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 6 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1656,7 +1656,7 @@
       <Position>Prior day to today, but in this week ('this past Monday').  Format 7 (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1664,7 +1664,7 @@
       <Position>today</Position>
       <TranslationSet>
         <base loc="en">today</base>
-        <tran loc="es">hoy</tran>
+        <tran loc="es-419">hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1672,7 +1672,7 @@
       <Position>Time changed to %@ by %@</Position>
       <TranslationSet>
         <base loc="en">Time changed to %@ by %@</base>
-        <tran loc="es">%2$@ ha cambiado la hora a las %1$@</tran>
+        <tran loc="es-419">%2$@ cambió la hora a la(s) %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1680,7 +1680,7 @@
       <Position>Shared Reminders List Invitation</Position>
       <TranslationSet>
         <base loc="en">Shared Reminders List Invitation</base>
-        <tran loc="es">Invitación a lista de recordatorios compartida</tran>
+        <tran loc="es-419">Invitación a lista de recordatorios compartidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1688,7 +1688,7 @@
       <Position>Updated in %@ by %@</Position>
       <TranslationSet>
         <base loc="en">Updated in %@ by %@</base>
-        <tran loc="es">Actualizado en %@ por %@</tran>
+        <tran loc="es-419">Actualizado en %@ por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1696,7 +1696,7 @@
       <Position>Conflict: Another event is scheduled for this time</Position>
       <TranslationSet>
         <base loc="en">Conflict: Another event is scheduled for this time</base>
-        <tran loc="es">Conflicto: hay otro evento programado a esa hora</tran>
+        <tran loc="es-419">Se empalma con otro evento más, programado a esta hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1704,7 +1704,7 @@
       <Position>%ld invitees Declined, %ld invitee commented</Position>
       <TranslationSet>
         <base loc="en">%ld invitees Declined, %ld invitee commented</base>
-        <tran loc="es">%ld invitados han rechazado la invitación, %ld invitado ha comentado</tran>
+        <tran loc="es-419">%ld invitados rechazaron, %ld invitado comentó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1712,7 +1712,7 @@
       <Position>%@ Invitees</Position>
       <TranslationSet>
         <base loc="en">%@ Invitees</base>
-        <tran loc="es">%@ invitados</tran>
+        <tran loc="es-419">%@ invitados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1720,7 +1720,7 @@
       <Position>Event will occur every month.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every month.</base>
-        <tran loc="es">El evento se repetirá cada mes.</tran>
+        <tran loc="es-419">El evento se repetirá cada mes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1728,7 +1728,7 @@
       <Position>Event will occur every %@ years on every %@ in %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ years on every %@ in %@.</base>
-        <tran loc="es">El evento se repetirá cada %2$@ de %3$@ de cada %1$@ años.</tran>
+        <tran loc="es-419">El evento se repetirá todos los %2$@ de %3$@ cada %1$@ años.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1736,7 @@
       <Position>32nd-XX02</Position>
       <TranslationSet>
         <base loc="en">32nd</base>
-        <tran loc="es">32.º</tran>
+        <tran loc="es-419">32º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1744,7 @@
       <Position>Event will occur every year in %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every year in %@.</base>
-        <tran loc="es">El evento se repetirá cada año en %@.</tran>
+        <tran loc="es-419">El evento se repetirá en %@ cada año.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1752,7 @@
       <Position>Action: Add Location to “%@”</Position>
       <TranslationSet>
         <base loc="en">Add Location to “%@”</base>
-        <tran loc="es">adición de ubicación a “%@”</tran>
+        <tran loc="es-419">agregar ubicación a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1760,7 +1760,7 @@
       <Position>It looks busy tomorrow.</Position>
       <TranslationSet>
         <base loc="en">It looks busy tomorrow.</base>
-        <tran loc="es">Mañana tendrás un día ajetreado.</tran>
+        <tran loc="es-419">Mañana tendrás un día ocupado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1768,7 +1768,7 @@
       <Position>22nd-XX01</Position>
       <TranslationSet>
         <base loc="en">22nd</base>
-        <tran loc="es">22</tran>
+        <tran loc="es-419">22º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1776,7 +1776,7 @@
       <Position>22nd-XX02</Position>
       <TranslationSet>
         <base loc="en">22nd</base>
-        <tran loc="es">22.º</tran>
+        <tran loc="es-419">22º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1784,7 +1784,7 @@
       <Position>Action: Revert “%@”</Position>
       <TranslationSet>
         <base loc="en">Revert “%@”</base>
-        <tran loc="es">restauración de “%@”</tran>
+        <tran loc="es-419">restaurar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1792,7 +1792,7 @@
       <Position>Home</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Casa</tran>
+        <tran loc="es-419">Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1800,7 +1800,7 @@
       <Position>Event will occur every month on the %@-XX01.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every month on the %@.</base>
-        <tran loc="es">El evento se repetirá cada mes el %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %@ día de cada mes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1808,7 +1808,7 @@
       <Position>Event will occur every month on the %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every month on the %@.</base>
-        <tran loc="es">El evento se repetirá cada mes el día %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %@ día de cada mes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1816,7 +1816,7 @@
       <Position>14th-XX01</Position>
       <TranslationSet>
         <base loc="en">14th</base>
-        <tran loc="es">14</tran>
+        <tran loc="es-419">14º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1824,7 +1824,7 @@
       <Position>14th-XX02</Position>
       <TranslationSet>
         <base loc="en">14th</base>
-        <tran loc="es">14</tran>
+        <tran loc="es-419">14º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1832,7 +1832,7 @@
       <Position>%@ declined your shared calendar.</Position>
       <TranslationSet>
         <base loc="en">%@ declined your shared calendar.</base>
-        <tran loc="es">%@ ha rechazado tu calendario compartido.</tran>
+        <tran loc="es-419">%@ rechazó compartir tu calendario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1840,7 @@
       <Position>6th-XX01</Position>
       <TranslationSet>
         <base loc="en">6th</base>
-        <tran loc="es">6</tran>
+        <tran loc="es-419">6º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>6th-XX02</Position>
       <TranslationSet>
         <base loc="en">6th</base>
-        <tran loc="es">6.º</tran>
+        <tran loc="es-419">6º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>43rd-XX02</Position>
       <TranslationSet>
         <base loc="en">43rd</base>
-        <tran loc="es">43.er</tran>
+        <tran loc="es-419">43er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1864,7 @@
       <Position>IslamicCivil</Position>
       <TranslationSet>
         <base loc="en">Islamic</base>
-        <tran loc="es">Islámico</tran>
+        <tran loc="es-419">Islámico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1872,7 @@
       <Position>IslamicUmmAlQura</Position>
       <TranslationSet>
         <base loc="en">Islamic</base>
-        <tran loc="es">Islámico</tran>
+        <tran loc="es-419">Islámico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1880,7 @@
       <Position>%@ declined</Position>
       <TranslationSet>
         <base loc="en">%@ declined</base>
-        <tran loc="es">%@ ha rechazado la invitación</tran>
+        <tran loc="es-419">%@ rechazó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1888,7 @@
       <Position>and it started over an hour ago</Position>
       <TranslationSet>
         <base loc="en">and it started over an hour ago</base>
-        <tran loc="es">y ha empezado hace más de una hora</tran>
+        <tran loc="es-419">y empezó hace más de una hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1896,7 @@
       <Position>%@ joined your shared calendar.</Position>
       <TranslationSet>
         <base loc="en">%@ joined your shared calendar.</base>
-        <tran loc="es">%@ se ha unido a tu calendario compartido.</tran>
+        <tran loc="es-419">%@ se unió a tu calendario compartido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1904,7 @@
       <Position>%@ is pending on this shared reminders list invitation.</Position>
       <TranslationSet>
         <base loc="en">%@ is pending on this shared reminders list invitation.</base>
-        <tran loc="es">%@ todavía no ha aceptado la invitación a esta lista de recordatorios compartida.</tran>
+        <tran loc="es-419">%@ no contestó a esta invitación para compartir la lista de recordatorios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1912,7 @@
       <Position>Action: Change Time Zone of “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Time Zone of “%@”</base>
-        <tran loc="es">cambio de zona horaria de “%@”</tran>
+        <tran loc="es-419">cambiar zona horaria de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1920,7 @@
       <Position>Location changed by %@</Position>
       <TranslationSet>
         <base loc="en">Location changed by %@</base>
-        <tran loc="es">%@ ha cambiado la ubicación</tran>
+        <tran loc="es-419">Ubicación cambiada por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1928,7 @@
       <Position>You’re scheduled to meet with %@ %@%@.</Position>
       <TranslationSet>
         <base loc="en">You’re scheduled to meet with %@ %@%@.</base>
-        <tran loc="es">Has quedado con %@ %@%@.</tran>
+        <tran loc="es-419">Tienes una reunión con %@ a la(s) %@%@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1936,7 @@
       <Position>Time to Leave explanatory text</Position>
       <TranslationSet>
         <base loc="en">When available, Calendar uses your location, locations of upcoming events, traffic conditions, and transit options to tell you how long it will take to arrive at your destination, so you can leave on time.</base>
-        <tran loc="es">Si está disponible, Calendario utiliza tu ubicación, las ubicaciones de los próximos eventos, la situación del tráfico y las opciones de transporte público para que sepas cuánto tardarás en llegar a tu destino y que puedas salir a tiempo.</tran>
+        <tran loc="es-419">Si están disponibles, Calendario usa tu ubicación, la de tus próximos eventos, las condiciones del tráfico y las opciones de transporte público para avisarte cuánto te tomará llegar a tu destino para que salgas a tiempo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1944,7 @@
       <Position>Apps</Position>
       <TranslationSet>
         <base loc="en">Apps</base>
-        <tran loc="es">Apps</tran>
+        <tran loc="es-419">Apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1952,7 @@
       <Position>%@ %@ to\n%@ %@</Position>
       <TranslationSet>
         <base loc="en">%@ %@ to\n%@ %@</base>
-        <tran loc="es">%@, %@ -\n%@, %@</tran>
+        <tran loc="es-419">%@ %@ hasta\nel %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1960,7 +1960,7 @@
       <Position>Recurrence rule last item format.  The last part of a list: X, Y and Z. Here %@ is 'Z'</Position>
       <TranslationSet>
         <base loc="en"> and %@</base>
-        <tran loc="es"> y %@</tran>
+        <tran loc="es-419"> y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1968,7 +1968,7 @@
       <Position>the last part of a list: X, Y and Z. Here %@ is 'Z'</Position>
       <TranslationSet>
         <base loc="en"> and %@</base>
-        <tran loc="es"> y %@</tran>
+        <tran loc="es-419"> y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1976,7 +1976,7 @@
       <Position>You can configure Calendar features in Preferences.</Position>
       <TranslationSet>
         <base loc="en">You can configure Calendar features in Preferences.</base>
-        <tran loc="es">Las funciones de Calendario se pueden configurar en Preferencias.</tran>
+        <tran loc="es-419">Puedes configurar las funciones de Calendario en Preferencias.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1984,7 +1984,7 @@
       <Position>Action: Add Repeat for “%@”</Position>
       <TranslationSet>
         <base loc="en">Add Repeat for “%@”</base>
-        <tran loc="es">adición de repetición a “%@”</tran>
+        <tran loc="es-419">agregar repetición a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1992,7 +1992,7 @@
       <Position>21st-XX01</Position>
       <TranslationSet>
         <base loc="en">21st</base>
-        <tran loc="es">21</tran>
+        <tran loc="es-419">21er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2000,7 +2000,7 @@
       <Position>21st-XX02</Position>
       <TranslationSet>
         <base loc="en">21st</base>
-        <tran loc="es">21.er</tran>
+        <tran loc="es-419">21er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2008,7 +2008,7 @@
       <Position>49th-XX02</Position>
       <TranslationSet>
         <base loc="en">49th</base>
-        <tran loc="es">49.º</tran>
+        <tran loc="es-419">49º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2016,7 +2016,7 @@
       <Position>of November%@</Position>
       <TranslationSet>
         <base loc="en">of November%@</base>
-        <tran loc="es">de noviembre%@</tran>
+        <tran loc="es-419">de noviembre%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2024,7 +2024,7 @@
       <Position>Leave by %@ (departure date) to arrive on time via transit.</Position>
       <TranslationSet>
         <base loc="en">Leave by %@ to arrive on time via transit.</base>
-        <tran loc="es">Sal a las %@ para llegar a tiempo en transporte público.</tran>
+        <tran loc="es-419">Sal a la(s) %@ para llegar puntual en transporte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2032,7 +2032,7 @@
       <Position>Reminders</Position>
       <TranslationSet>
         <base loc="en">Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2040,7 +2040,7 @@
       <Position>Action: Make “%@” All-Day</Position>
       <TranslationSet>
         <base loc="en">Make “%@” All-Day</base>
-        <tran loc="es">cambio de “%@” a evento de todo el día</tran>
+        <tran loc="es-419">convertir "%@" a evento de todo el día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2048,7 +2048,7 @@
       <Position>Continue</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2056,7 +2056,7 @@
       <Position>The first thing on your calendar today is “%@”, %@.</Position>
       <TranslationSet>
         <base loc="en">The first thing on your calendar today is “%@”, %@.</base>
-        <tran loc="es">Lo primero que tienes en tu calendario hoy es “%@”, %@.</tran>
+        <tran loc="es-419">Lo primero en tu calendario hoy es “%@”, %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2064,7 @@
       <Position>20th-XX01</Position>
       <TranslationSet>
         <base loc="en">20th</base>
-        <tran loc="es">20</tran>
+        <tran loc="es-419">20º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2072,7 @@
       <Position>20th-XX02</Position>
       <TranslationSet>
         <base loc="en">20th</base>
-        <tran loc="es">20.º</tran>
+        <tran loc="es-419">20º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2080,7 @@
       <Position>of December%@</Position>
       <TranslationSet>
         <base loc="en">of December%@</base>
-        <tran loc="es">de diciembre%@</tran>
+        <tran loc="es-419">de diciembre%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2088,7 @@
       <Position>&lt;Street&gt;, &lt;City&gt;</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2096,7 @@
       <Position>One conflict</Position>
       <TranslationSet>
         <base loc="en">Conflict: '%@' is also scheduled for this time</base>
-        <tran loc="es">Conflicto: “%@” también está programado a esa hora</tran>
+        <tran loc="es-419">Se empalma con "%@", programado a esta hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2104,7 @@
       <Position>One invitation</Position>
       <TranslationSet>
         <base loc="en">Conflict: '%@' is also scheduled for this time</base>
-        <tran loc="es">Conflicto: “%@” también está programado a esa hora</tran>
+        <tran loc="es-419">Se empalma con "%@", programado a esta hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2112,7 @@
       <Position>Time and location changed</Position>
       <TranslationSet>
         <base loc="en">Time and location changed</base>
-        <tran loc="es">La hora y la ubicación han cambiado</tran>
+        <tran loc="es-419">Se cambió la hora y la ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2120,7 @@
       <Position>It will take %@ to arrive on time via transit.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to arrive on time via transit.</base>
-        <tran loc="es">Tardarás %@ en transporte público.</tran>
+        <tran loc="es-419">Te tomará %@ llegar puntual en transporte público.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2128,7 @@
       <Position>7th-XX01</Position>
       <TranslationSet>
         <base loc="en">7th</base>
-        <tran loc="es">7</tran>
+        <tran loc="es-419">7º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2136,7 @@
       <Position>7th-XX02</Position>
       <TranslationSet>
         <base loc="en">7th</base>
-        <tran loc="es">7.º</tran>
+        <tran loc="es-419">7º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2144,7 @@
       <Position>Action: Change Attendee for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Attendee for “%@”</base>
-        <tran loc="es">cambio de asistente a “%@”</tran>
+        <tran loc="es-419">cambiar invitado de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2152,7 @@
       <Position>15th-XX01</Position>
       <TranslationSet>
         <base loc="en">15th</base>
-        <tran loc="es">15</tran>
+        <tran loc="es-419">15º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2160,7 @@
       <Position>15th-XX02</Position>
       <TranslationSet>
         <base loc="en">15th</base>
-        <tran loc="es">15</tran>
+        <tran loc="es-419">15º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2168,7 @@
       <Position>Title changed by %@</Position>
       <TranslationSet>
         <base loc="en">Title changed by %@</base>
-        <tran loc="es">%@ ha cambiado el título</tran>
+        <tran loc="es-419">%@ cambió el título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2176,7 @@
       <Position>48th-XX02</Position>
       <TranslationSet>
         <base loc="en">48th</base>
-        <tran loc="es">48.º</tran>
+        <tran loc="es-419">48º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2184,7 @@
       <Position>“%@” is currently in progress, %@.</Position>
       <TranslationSet>
         <base loc="en">“%@” is currently in progress, %@.</base>
-        <tran loc="es">“%@” está en curso en estos momentos; %@.</tran>
+        <tran loc="es-419">“%@” se está llevando a cabo, %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@
       <Position>Location Suggestions</Position>
       <TranslationSet>
         <base loc="en">Location Suggestions</base>
-        <tran loc="es">Ubicaciones sugeridas</tran>
+        <tran loc="es-419">Ubicaciones sugeridas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2200,7 @@
       <Position> (%@)</Position>
       <TranslationSet>
         <base loc="en"> (%@)</base>
-        <tran loc="es"> (%@)</tran>
+        <tran loc="es-419"> (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2208,7 +2208,7 @@
       <Position>Action: Change Availability for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Availability for “%@”</base>
-        <tran loc="es">cambio de disponibilidad para “%@”</tran>
+        <tran loc="es-419">cambiar disponibilidad para “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2216,7 +2216,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 1.</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">este %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2224,7 +2224,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 2.</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">este %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2232,7 +2232,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 3.</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">este %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2240,7 +2240,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 4.</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">este %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2248,7 +2248,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 5.</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">este %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2256,7 +2256,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 6.</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">este %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2264,7 +2264,7 @@
       <Position>Date after today, but in this week ('this Friday').  Format 7.</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">este %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2272,7 +2272,7 @@
       <Position>Location changed</Position>
       <TranslationSet>
         <base loc="en">Location changed</base>
-        <tran loc="es">La ubicación ha cambiado</tran>
+        <tran loc="es-419">La ubicación cambió</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2280,7 +2280,7 @@
       <Position>%ld invitees declined, %ld invitees commented</Position>
       <TranslationSet>
         <base loc="en">%ld invitees declined, %ld invitees commented</base>
-        <tran loc="es">%ld invitados han rechazado la invitación, %ld invitados han comentado</tran>
+        <tran loc="es-419">%ld invitados rechazaron, %ld invitados comentaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2288,7 +2288,7 @@
       <Position>meetings</Position>
       <TranslationSet>
         <base loc="en">meetings</base>
-        <tran loc="es">reuniones</tran>
+        <tran loc="es-419">reuniones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2296,7 +2296,7 @@
       <Position>%ld invitee declined, %ld invitees commented</Position>
       <TranslationSet>
         <base loc="en">%ld invitee declined, %ld invitees commented</base>
-        <tran loc="es">%ld invitado ha rechazado la invitación, %ld invitados han comentado</tran>
+        <tran loc="es-419">%ld invitado rechazó, %ld invitados comentaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2304,7 +2304,7 @@
       <Position>Scheduled Reminders</Position>
       <TranslationSet>
         <base loc="en">Scheduled Reminders</base>
-        <tran loc="es">Recordatorios programados</tran>
+        <tran loc="es-419">Recordatorios programados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2312,7 +2312,7 @@
       <Position>9th-XX01</Position>
       <TranslationSet>
         <base loc="en">9th</base>
-        <tran loc="es">9</tran>
+        <tran loc="es-419">9º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2320,7 +2320,7 @@
       <Position>9th-XX02</Position>
       <TranslationSet>
         <base loc="en">9th</base>
-        <tran loc="es">9.º</tran>
+        <tran loc="es-419">9º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2328,7 +2328,7 @@
       <Position>Event will occur every year on the %@ %@ %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every year on the %@ %@ %@.</base>
-        <tran loc="es">El evento se repetirá cada año el %@ %@ %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %@ %@ de %@ cada año.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2336,7 +2336,7 @@
       <Position>Conflicts: %ld out of next %ld occurrences</Position>
       <TranslationSet>
         <base loc="en">Conflicts: %ld out of next %ld occurrences</base>
-        <tran loc="es">Conflictos: %ld de las próximas %ld repeticiones</tran>
+        <tran loc="es-419">Se empalman %ld de las próximas %ld repeticiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2344,7 +2344,7 @@
       <Position>Starts with an uppercase letter.  The placeholder is for a time expression, e.g. 9 AM, appropriate to the current locale.</Position>
       <TranslationSet>
         <base loc="en">At %@</base>
-        <tran loc="es">A las %@</tran>
+        <tran loc="es-419">A la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2352,7 +2352,7 @@
       <Position>Starts with an uppercase letter.  Used only when the time is 1 o'clock (i.e. 1:00 AM, 1:00 PM, or 0100 in 24-hour time).</Position>
       <TranslationSet>
         <base loc="en">At %@</base>
-        <tran loc="es">A la %@</tran>
+        <tran loc="es-419">A la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2360,7 +2360,7 @@
       <Position>The placeholder is for a time, e.g. 12:00.</Position>
       <TranslationSet>
         <base loc="en">At %@</base>
-        <tran loc="es">A las %@</tran>
+        <tran loc="es-419">A la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2368,7 +2368,7 @@
       <Position>It will take %@ to get to %@ on %@.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to get to %@ on %@.</base>
-        <tran loc="es">Tardarás %@ en llegar a %@ por %@.</tran>
+        <tran loc="es-419">Te tomará %@ llegar hasta %@ por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2376,7 +2376,7 @@
       <Position>Some Invitees Can Attend</Position>
       <TranslationSet>
         <base loc="en">Some Invitees Can Attend</base>
-        <tran loc="es">Algunos invitados pueden asistir</tran>
+        <tran loc="es-419">Algunos invitados pueden asistir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2384,7 +2384,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #1 day of the week. (capitalized)</Position>
       <TranslationSet>
         <base loc="en">Next %@</base>
-        <tran loc="es">El próximo %@</tran>
+        <tran loc="es-419">Siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2392,7 +2392,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #2 day of the week. (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Next %@</base>
-        <tran loc="es">El próximo %@</tran>
+        <tran loc="es-419">Siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2400,7 +2400,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #3 day of the week. (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Next %@</base>
-        <tran loc="es">El próximo %@</tran>
+        <tran loc="es-419">Siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2408,7 +2408,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #4 day of the week. (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Next %@</base>
-        <tran loc="es">El próximo %@</tran>
+        <tran loc="es-419">Siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2416,7 +2416,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #5 day of the week. (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Next %@</base>
-        <tran loc="es">El próximo %@</tran>
+        <tran loc="es-419">Siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2424,7 +2424,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #6 day of the week. (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Next %@</base>
-        <tran loc="es">El próximo %@</tran>
+        <tran loc="es-419">Siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2432,7 +2432,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #7 day of the week. (capitalized).</Position>
       <TranslationSet>
         <base loc="en">Next %@</base>
-        <tran loc="es">El próximo %@</tran>
+        <tran loc="es-419">Siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2440,7 +2440,7 @@
       <Position>It will take %@ to get to %@ by car.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to get to %@ by car.</base>
-        <tran loc="es">Tardarás %@ en llegar a %@ en coche.</tran>
+        <tran loc="es-419">Te tomará %@ llegar en auto hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2448,7 +2448,7 @@
       <Position>To: %@</Position>
       <TranslationSet>
         <base loc="en">To: %@</base>
-        <tran loc="es">A: %@</tran>
+        <tran loc="es-419">Para: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2456,7 +2456,7 @@
       <Position>Action: Create “%@”</Position>
       <TranslationSet>
         <base loc="en">Create “%@”</base>
-        <tran loc="es">creación de “%@”</tran>
+        <tran loc="es-419">crear “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2464,7 +2464,7 @@
       <Position>Calendar Event</Position>
       <TranslationSet>
         <base loc="en">Calendar Event</base>
-        <tran loc="es">Evento de calendario</tran>
+        <tran loc="es-419">Evento de calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2472,7 +2472,7 @@
       <Position>of July%@</Position>
       <TranslationSet>
         <base loc="en">of July%@</base>
-        <tran loc="es">de julio%@</tran>
+        <tran loc="es-419">de julio%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2480,7 +2480,7 @@
       <Position>Your first meeting %@ is with %@ and %@%@.</Position>
       <TranslationSet>
         <base loc="en">Your first meeting %@ is with %@ and %@%@.</base>
-        <tran loc="es">La primera reunión (%@) es con %@ y %@%@.</tran>
+        <tran loc="es-419">La primera reunión (%@) es con %@ y %@%@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2488,7 +2488,7 @@
       <Position>Action: Change Repeat for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Repeat for “%@”</base>
-        <tran loc="es">cambio de repetición de “%@”</tran>
+        <tran loc="es-419">cambiar repetición de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2496,7 +2496,7 @@
       <Position>This calendar is no longer shared.</Position>
       <TranslationSet>
         <base loc="en">This calendar is no longer shared.</base>
-        <tran loc="es">Este calendario ya no se comparte.</tran>
+        <tran loc="es-419">Este calendario ya no se comparte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2504,7 +2504,7 @@
       <Position>Action: Change URL for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change URL for “%@”</base>
-        <tran loc="es">cambio de URL de “%@”</tran>
+        <tran loc="es-419">cambiar URL de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2512,7 +2512,7 @@
       <Position>%ld invitees declined</Position>
       <TranslationSet>
         <base loc="en">%ld invitees declined</base>
-        <tran loc="es">%ld invitados la han rechazado</tran>
+        <tran loc="es-419">%ld invitados rechazaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2520,7 +2520,7 @@
       <Position>Siri suggests events found in Mail, Messages, and Safari, so you can add them easily, such as flight reservations and hotel bookings.</Position>
       <TranslationSet>
         <base loc="en">Siri suggests events found in Mail, Messages, and Safari, so you can add them easily, such as flight reservations and hotel bookings.</base>
-        <tran loc="es">Siri sugiere eventos que encuentra en Mail, Mensajes y Safari para que puedas añadirlos fácilmente, como reservas de vuelos y de hotel.</tran>
+        <tran loc="es-419">Siri sugiere eventos que encuentra en Mail, Mensajes y Safari —como reservaciones en hoteles y vuelos— para que puedas agregarlos con facilidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2528,7 +2528,7 @@
       <Position>Action: Add Sharee to “%@”</Position>
       <TranslationSet>
         <base loc="en">Add Sharee to “%@”</base>
-        <tran loc="es">adición de seguidor a “%@”</tran>
+        <tran loc="es-419">agregar seguidor a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2536,7 +2536,7 @@
       <Position>%@ (optional)</Position>
       <TranslationSet>
         <base loc="en">%@ (optional)</base>
-        <tran loc="es">%@ (opcional)</tran>
+        <tran loc="es-419">%@ (opcional)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2544,7 +2544,7 @@
       <Position>Time and title changed by %@</Position>
       <TranslationSet>
         <base loc="en">Time and title changed by %@</base>
-        <tran loc="es">%@ ha cambiado la hora y el título</tran>
+        <tran loc="es-419">%@ cambió la hora y el título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2552,7 +2552,7 @@
       <Position>3rd-XX01</Position>
       <TranslationSet>
         <base loc="en">3rd</base>
-        <tran loc="es">3</tran>
+        <tran loc="es-419">3er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2560,7 +2560,7 @@
       <Position>3rd-XX02</Position>
       <TranslationSet>
         <base loc="en">3rd</base>
-        <tran loc="es">3.er</tran>
+        <tran loc="es-419">3er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2568,7 +2568,7 @@
       <Position>Deleted from %@</Position>
       <TranslationSet>
         <base loc="en">Deleted from %@</base>
-        <tran loc="es">Se ha eliminado de %@</tran>
+        <tran loc="es-419">Se eliminó de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2576,7 +2576,7 @@
       <Position>46th-XX02</Position>
       <TranslationSet>
         <base loc="en">46th</base>
-        <tran loc="es">46.º</tran>
+        <tran loc="es-419">46º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2584,7 +2584,7 @@
       <Position>Found Events</Position>
       <TranslationSet>
         <base loc="en">Found Events</base>
-        <tran loc="es">Eventos encontrados</tran>
+        <tran loc="es-419">Eventos encontrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2592,7 +2592,7 @@
       <Position>and it started %@ minutes ago</Position>
       <TranslationSet>
         <base loc="en">and it started %@ minutes ago</base>
-        <tran loc="es">y ha empezado hace %@ minutos</tran>
+        <tran loc="es-419">y empezó hace %@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2600,7 +2600,7 @@
       <Position>Location and title changed</Position>
       <TranslationSet>
         <base loc="en">Location and title changed</base>
-        <tran loc="es">La ubicación y el título han cambiado</tran>
+        <tran loc="es-419">Se cambió la ubicación y el título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2608,7 +2608,7 @@
       <Position>It looks like you have a busy day tomorrow.</Position>
       <TranslationSet>
         <base loc="en">It looks like you have a busy day tomorrow.</base>
-        <tran loc="es">Parece que mañana tendrás un día ajetreado.</tran>
+        <tran loc="es-419">Parece que mañana tendrás un día ocupado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2616,7 +2616,7 @@
       <Position>Event will occur every year.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every year.</base>
-        <tran loc="es">El evento se repetirá cada año.</tran>
+        <tran loc="es-419">El evento se repetirá cada año.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2624,7 +2624,7 @@
       <Position>Event will occur every weekday.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every weekday.</base>
-        <tran loc="es">El evento se repetirá cada día entre semana.</tran>
+        <tran loc="es-419">El evento se repetirá cada día entre semana.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2632,7 +2632,7 @@
       <Position>8th-XX01</Position>
       <TranslationSet>
         <base loc="en">8th</base>
-        <tran loc="es">8</tran>
+        <tran loc="es-419">8º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2640,7 +2640,7 @@
       <Position>8th-XX02</Position>
       <TranslationSet>
         <base loc="en">8th</base>
-        <tran loc="es">8.º</tran>
+        <tran loc="es-419">8º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2648,7 +2648,7 @@
       <Position>Leave now: It will take %@.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@.</base>
-        <tran loc="es">Sal ahora: tardarás %@.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2656,7 +2656,7 @@
       <Position>Action: Remove Alarm from “%@”</Position>
       <TranslationSet>
         <base loc="en">Remove Alarm from “%@”</base>
-        <tran loc="es">eliminación de alarma de “%@”</tran>
+        <tran loc="es-419">eliminar alarma de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2664,7 +2664,7 @@
       <Position>This calendar is now public.</Position>
       <TranslationSet>
         <base loc="en">This calendar is now public.</base>
-        <tran loc="es">Ahora este calendario es público.</tran>
+        <tran loc="es-419">Este calendario es ahora público.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2672,7 +2672,7 @@
       <Position>Event will occur every week.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every week.</base>
-        <tran loc="es">El evento se repetirá cada semana.</tran>
+        <tran loc="es-419">El evento se repetirá cada semana.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2680,7 +2680,7 @@
       <Position>%ld invitees commented</Position>
       <TranslationSet>
         <base loc="en">%ld invitees commented</base>
-        <tran loc="es">%ld invitados han comentado</tran>
+        <tran loc="es-419">%ld invitados comentaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2688,7 +2688,7 @@
       <Position>%@ events were deleted from %@ by %@.</Position>
       <TranslationSet>
         <base loc="en">%@ events were deleted from %@ by %@.</base>
-        <tran loc="es">%3$@ ha eliminado %1$@ eventos de %2$@.</tran>
+        <tran loc="es-419">%3$@ eliminó %1$@ eventos de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2696,7 +2696,7 @@
       <Position>Today</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2704,7 +2704,7 @@
       <Position>Leave now: It will take %@ by car.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ by car.</base>
-        <tran loc="es">Sal ahora: tardarás %@ en coche.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar en auto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2712,7 +2712,7 @@
       <Position>Could not share with %@</Position>
       <TranslationSet>
         <base loc="en">Could not share with %@</base>
-        <tran loc="es">No se ha podido compartir con %@</tran>
+        <tran loc="es-419">Imposible compartir con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2720,7 +2720,7 @@
       <Position>You have %@ %@ scheduled for %@.</Position>
       <TranslationSet>
         <base loc="en">You have %@ %@ scheduled for %@.</base>
-        <tran loc="es">Tienes %@ %@ a las %@.</tran>
+        <tran loc="es-419">Tienes %@ %@ a la(s) %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2728,7 +2728,7 @@
       <Position>Invitation to share a reminders list with %@.</Position>
       <TranslationSet>
         <base loc="en">Invitation to share a reminders list with %@.</base>
-        <tran loc="es">Invitación para compartir una lista de recordatorios con %@.</tran>
+        <tran loc="es-419">Invitación para compartir una lista de recordatorios con %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2736,7 +2736,7 @@
       <Position>Invitees: </Position>
       <TranslationSet>
         <base loc="en">Invitees: </base>
-        <tran loc="es">Invitados: </tran>
+        <tran loc="es-419">Invitados: </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2744,7 +2744,7 @@
       <Position>You have accepted two meetings at %@.</Position>
       <TranslationSet>
         <base loc="en">You have accepted two meetings at %@.</base>
-        <tran loc="es">Has aceptado dos reuniones a las %@.</tran>
+        <tran loc="es-419">Aceptaste dos reuniones a la(s) %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2752,7 +2752,7 @@
       <Position>47th-XX02</Position>
       <TranslationSet>
         <base loc="en">47th</base>
-        <tran loc="es">47.º</tran>
+        <tran loc="es-419">47º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2760,7 +2760,7 @@
       <Position>Title changed</Position>
       <TranslationSet>
         <base loc="en">Title changed</base>
-        <tran loc="es">El título ha cambiado</tran>
+        <tran loc="es-419">Se cambió el título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2768,7 +2768,7 @@
       <Position>Calendars</Position>
       <TranslationSet>
         <base loc="en">Calendars</base>
-        <tran loc="es">Calendarios</tran>
+        <tran loc="es-419">Calendarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2776,7 +2776,7 @@
       <Position>Siri Found in %@</Position>
       <TranslationSet>
         <base loc="en">Siri Found in %@</base>
-        <tran loc="es">Siri lo ha encontrado en %@</tran>
+        <tran loc="es-419">Siri lo encontró en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2784,7 +2784,7 @@
       <Position>Leave by %@ (departure date) to get to %@ (location) on time via transit.</Position>
       <TranslationSet>
         <base loc="en">Leave by %@ to get to %@ on time via transit.</base>
-        <tran loc="es">Sal a las %@ para llegar a tiempo a %@ en transporte público.</tran>
+        <tran loc="es-419">Sal a la(s) %@ para llegar puntual en transporte público a %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2792,7 +2792,7 @@
       <Position>Everyone can attend</Position>
       <TranslationSet>
         <base loc="en">Everyone can attend</base>
-        <tran loc="es">Todos pueden asistir</tran>
+        <tran loc="es-419">Todos pueden asistir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2800,7 +2800,7 @@
       <Position>Flight %@</Position>
       <TranslationSet>
         <base loc="en">Flight %@</base>
-        <tran loc="es">Vuelo %@</tran>
+        <tran loc="es-419">Vuelo %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2808,7 +2808,7 @@
       <Position>%@, %@, and %@ share a birthday today.</Position>
       <TranslationSet>
         <base loc="en">%@, %@, and %@ share a birthday today.</base>
-        <tran loc="es">%@, %@ y %@ cumplen años hoy.</tran>
+        <tran loc="es-419">%@, %@ y %@ cumplen años hoy.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2816,7 +2816,7 @@
       <Position>Action: Change Alarm for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Alarm for “%@”</base>
-        <tran loc="es">cambio de alarma de “%@”</tran>
+        <tran loc="es-419">cambiar alarma de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2824,7 +2824,7 @@
       <Position>First Day of IslamicCivil Month</Position>
       <TranslationSet>
         <base loc="en">First Day of Islamic Month</base>
-        <tran loc="es">Primer día del mes islámico</tran>
+        <tran loc="es-419">Primer día del mes del calendario islámico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2832,7 +2832,7 @@
       <Position>First Day of IslamicUmmAlQura Month</Position>
       <TranslationSet>
         <base loc="en">First Day of Islamic Month</base>
-        <tran loc="es">Primer día del mes islámico</tran>
+        <tran loc="es-419">Primer día del mes islámico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2840,7 +2840,7 @@
       <Position>Your calendar looks clear in the afternoon.</Position>
       <TranslationSet>
         <base loc="en">Your calendar looks clear in the afternoon.</base>
-        <tran loc="es">Según el calendario, no tienes nada por la tarde.</tran>
+        <tran loc="es-419">Según el calendario, tienes la tarde libre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2848,7 +2848,7 @@
       <Position>19th-XX01</Position>
       <TranslationSet>
         <base loc="en">19th</base>
-        <tran loc="es">19</tran>
+        <tran loc="es-419">19º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2856,7 +2856,7 @@
       <Position>19th-XX02</Position>
       <TranslationSet>
         <base loc="en">19th</base>
-        <tran loc="es">19</tran>
+        <tran loc="es-419">19º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2864,7 +2864,7 @@
       <Position>Action: Remove Repeat for “%@”</Position>
       <TranslationSet>
         <base loc="en">Remove Repeat for “%@”</base>
-        <tran loc="es">eliminación de repetición de “%@”</tran>
+        <tran loc="es-419">eliminar repetición de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2872,7 +2872,7 @@
       <Position>44th-XX02</Position>
       <TranslationSet>
         <base loc="en">44th</base>
-        <tran loc="es">44.º</tran>
+        <tran loc="es-419">44º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2880,7 +2880,7 @@
       <Position>It will take %@ to get to %@ on foot.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ to get to %@ on foot.</base>
-        <tran loc="es">Tardarás %@ en llegar a %@ a pie.</tran>
+        <tran loc="es-419">Te tomará %@ llegar a pie hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2888,7 +2888,7 @@
       <Position>Your day starts early tomorrow.</Position>
       <TranslationSet>
         <base loc="en">Your day starts early tomorrow.</base>
-        <tran loc="es">Mañana tu jornada empieza temprano.</tran>
+        <tran loc="es-419">Mañana tu día empieza temprano.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2896,7 +2896,7 @@
       <Position>You have accepted three meetings at %@.</Position>
       <TranslationSet>
         <base loc="en">You have accepted three meetings at %@.</base>
-        <tran loc="es">Has aceptado tres reuniones a las %@.</tran>
+        <tran loc="es-419">Aceptaste tres reuniones a la(s) %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2904,7 +2904,7 @@
       <Position>%@ locations are unavailable</Position>
       <TranslationSet>
         <base loc="en">%@ locations are unavailable</base>
-        <tran loc="es">%@ ubicaciones no están disponibles</tran>
+        <tran loc="es-419">%@ ubicaciones no están disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2912,7 +2912,7 @@
       <Position>View Tomorrow</Position>
       <TranslationSet>
         <base loc="en">View Tomorrow</base>
-        <tran loc="es">Ver mañana</tran>
+        <tran loc="es-419">Ver mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2920,7 +2920,7 @@
       <Position>Event will occur every %@ years in %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ years in %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ años en %@.</tran>
+        <tran loc="es-419">El evento se repetirá en %2$@ cada %1$@ años.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2928,7 +2928,7 @@
       <Position>Event will occur every year on every %@ in %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every year on every %@ in %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ de %@ de cada año.</tran>
+        <tran loc="es-419">El evento se repetirá cada %@ de %@ cada año.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2936,7 +2936,7 @@
       <Position>Event will occur every %@ months on the %@ %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ months on the %@ %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ meses el %@ %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %2$@ %3$@ cada %1$@ meses.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2944,7 +2944,7 @@
       <Position>last</Position>
       <TranslationSet>
         <base loc="en">last</base>
-        <tran loc="es">último</tran>
+        <tran loc="es-419">último</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2952,7 +2952,7 @@
       <Position>simple event time date format (first %@ is start time, e.g. '11AM', second %@ is end time, e.g. '12AM'</Position>
       <TranslationSet>
         <base loc="en">%@ to %@</base>
-        <tran loc="es">De %@ a %@</tran>
+        <tran loc="es-419">%@ a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2960,7 +2960,7 @@
       <Position>You have three %@ scheduled for %@.</Position>
       <TranslationSet>
         <base loc="en">You have three %@ scheduled for %@.</base>
-        <tran loc="es">Tienes tres %@ a las %@.</tran>
+        <tran loc="es-419">Tienes tres %@ a la(s) %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2968,7 +2968,7 @@
       <Position>You proposed</Position>
       <TranslationSet>
         <base loc="en">You proposed</base>
-        <tran loc="es">Has propuesto</tran>
+        <tran loc="es-419">Tú lo propusiste</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2976,7 +2976,7 @@
       <Position>Event will occur every %@ weeks on %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ weeks on %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ semanas el %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %2$@ cada %1$@ semanas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2984,7 +2984,7 @@
       <Position>This reminders list is no longer shared.</Position>
       <TranslationSet>
         <base loc="en">This reminders list is no longer shared.</base>
-        <tran loc="es">Esta lista de recordatorios ya no se comparte.</tran>
+        <tran loc="es-419">Se dejó de compartir esta lista de recordatorios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2992,7 +2992,7 @@
       <Position>Time and location changed by %@</Position>
       <TranslationSet>
         <base loc="en">Time and location changed by %@</base>
-        <tran loc="es">%@ ha cambiado la hora y la ubicación</tran>
+        <tran loc="es-419">%@ cambió la hora y la ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3000,7 +3000,7 @@
       <Position>18th-XX01</Position>
       <TranslationSet>
         <base loc="en">18th</base>
-        <tran loc="es">18</tran>
+        <tran loc="es-419">18º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3008,7 +3008,7 @@
       <Position>18th-XX02</Position>
       <TranslationSet>
         <base loc="en">18th</base>
-        <tran loc="es">18</tran>
+        <tran loc="es-419">18º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3016,7 +3016,7 @@
       <Position>%@ accepted: \"%@\"</Position>
       <TranslationSet>
         <base loc="en">%@ accepted: \"%@\"</base>
-        <tran loc="es">%@ ha aceptado: “%@”</tran>
+        <tran loc="es-419">%@ aceptó: “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3024,7 +3024,7 @@
       <Position>%@'s %@</Position>
       <TranslationSet>
         <base loc="en">%@'s %@</base>
-        <tran loc="es">%2$@ de %1$@</tran>
+        <tran loc="es-419">%2$@ de %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3032,7 +3032,7 @@
       <Position>Could not deliver to %@</Position>
       <TranslationSet>
         <base loc="en">Could not deliver to %@</base>
-        <tran loc="es">Imposible entregar a %@</tran>
+        <tran loc="es-419">Imposible entregar a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3040,7 +3040,7 @@
       <Position>It will take %@ on %@ by car.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ on %@ by car.</base>
-        <tran loc="es">Tardarás %@ por %@ en coche.</tran>
+        <tran loc="es-419">Te tomará %@ llegar en auto por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3048,7 +3048,7 @@
       <Position>Date and location changed</Position>
       <TranslationSet>
         <base loc="en">Date and location changed</base>
-        <tran loc="es">La fecha y la ubicación han cambiado</tran>
+        <tran loc="es-419">Se cambió la fecha y la ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3056,7 +3056,7 @@
       <Position>You can configure Calendar features in Settings.</Position>
       <TranslationSet>
         <base loc="en">You can configure Calendar features in Settings.</base>
-        <tran loc="es">Las funciones de Calendario se pueden configurar en Ajustes.</tran>
+        <tran loc="es-419">Puedes configurar las funciones de Calendario en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3064,7 +3064,7 @@
       <Position>Date and title changed</Position>
       <TranslationSet>
         <base loc="en">Date and title changed</base>
-        <tran loc="es">La fecha y el título han cambiado</tran>
+        <tran loc="es-419">Se cambió la fecha y el título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3072,7 +3072,7 @@
       <Position>45th-XX02</Position>
       <TranslationSet>
         <base loc="en">45th</base>
-        <tran loc="es">45.º</tran>
+        <tran loc="es-419">45º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3080,7 +3080,7 @@
       <Position>Event will occur every %@ years.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ years.</base>
-        <tran loc="es">El evento se repetirá cada %@ años.</tran>
+        <tran loc="es-419">El evento se repetirá cada %@ años.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3088,7 +3088,7 @@
       <Position>Event will occur every %@ years on the %@ %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ years on the %@ %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ años el %@ %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %2$@ %3$@ cada %1$@ años.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3096,7 +3096,7 @@
       <Position>First Day of Chinese Month</Position>
       <TranslationSet>
         <base loc="en">First Day of Chinese Month</base>
-        <tran loc="es">Primer día del mes chino</tran>
+        <tran loc="es-419">Primer día del mes chino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3104,7 +3104,7 @@
       <Position>What’s New in Calendar</Position>
       <TranslationSet>
         <base loc="en">What’s New in Calendar</base>
-        <tran loc="es">Novedades de Calendario</tran>
+        <tran loc="es-419">Novedades</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3112,7 +3112,7 @@
       <Position>Date format with timezone %@ (%@)</Position>
       <TranslationSet>
         <base loc="en">%@ (%@)</base>
-        <tran loc="es">%@ (%@)</tran>
+        <tran loc="es-419">%@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3120,7 +3120,7 @@
       <Position>Action: Change Participation Status for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Participation Status for “%@”</base>
-        <tran loc="es">cambio de estado de participación de “%@”</tran>
+        <tran loc="es-419">cambiar estado de la participación para “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3128,7 +3128,7 @@
       <Position>Event will occur every %@ months on the %@-XX01.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ months on the %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ meses el día %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %2$@ cada %1$@ meses.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3136,7 +3136,7 @@
       <Position>Event will occur every %@ months on the %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ months on the %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ meses el día %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %2$@ cada %1$@ meses.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3144,7 +3144,7 @@
       <Position>Time and title changed</Position>
       <TranslationSet>
         <base loc="en">Time and title changed</base>
-        <tran loc="es">La hora y el título han cambiado</tran>
+        <tran loc="es-419">Se cambió la hora y el título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3152,7 +3152,7 @@
       <Position>From: %@</Position>
       <TranslationSet>
         <base loc="en">From: %@</base>
-        <tran loc="es">De: %@</tran>
+        <tran loc="es-419">De: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3160,7 +3160,7 @@
       <Position>Chinese</Position>
       <TranslationSet>
         <base loc="en">Chinese</base>
-        <tran loc="es">Chino</tran>
+        <tran loc="es-419">Chino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3168,7 +3168,7 @@
       <Position>Calendar Day View</Position>
       <TranslationSet>
         <base loc="en">Calendar Day View</base>
-        <tran loc="es">Visualización del calendario por días</tran>
+        <tran loc="es-419">Ver calendario por día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3176,7 +3176,7 @@
       <Position>On My Mac</Position>
       <TranslationSet>
         <base loc="en">On My Mac</base>
-        <tran loc="es">En mi Mac</tran>
+        <tran loc="es-419">En mi Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3184,7 +3184,7 @@
       <Position>Event will occur every week on %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every week on %@.</base>
-        <tran loc="es">El evento se repetirá cada semana el %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %@ de cada semana.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3192,7 +3192,7 @@
       <Position>Event will occur every %@ months.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ months.</base>
-        <tran loc="es">El evento se repetirá cada %@ meses.</tran>
+        <tran loc="es-419">El evento se repetirá cada %@ meses.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3200,7 +3200,7 @@
       <Position>Happy birthday, %@. Today is also %@’s and %@’s birthday.</Position>
       <TranslationSet>
         <base loc="en">Happy birthday, %@. Today is also %@’s and %@’s birthday.</base>
-        <tran loc="es">¡Feliz cumpleaños, %@! Hoy también es el cumpleaños de %@ y %@.</tran>
+        <tran loc="es-419">Feliz cumpleaños, %@. Hoy también es el cumpleaños de %@ y %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3208,7 +3208,7 @@
       <Position>Action: Add Alarm to “%@”</Position>
       <TranslationSet>
         <base loc="en">Add Alarm to “%@”</base>
-        <tran loc="es">adición de alarma a “%@”</tran>
+        <tran loc="es-419">agregar alarma a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3216,7 +3216,7 @@
       <Position>%@ declined: \"%@\"</Position>
       <TranslationSet>
         <base loc="en">%@ declined: \"%@\"</base>
-        <tran loc="es">%@ ha rechazado la invitación: “%@”</tran>
+        <tran loc="es-419">%@ rechazó: "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3224,7 +3224,7 @@
       <Position>of February%@</Position>
       <TranslationSet>
         <base loc="en">of February%@</base>
-        <tran loc="es">de febrero%@</tran>
+        <tran loc="es-419">de febrero%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3232,7 +3232,7 @@
       <Position>Location: %@</Position>
       <TranslationSet>
         <base loc="en">Location: %@</base>
-        <tran loc="es">Ubicación: %@</tran>
+        <tran loc="es-419">Ubicación: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3240,7 +3240,7 @@
       <Position>%@ (organizer)</Position>
       <TranslationSet>
         <base loc="en">%@ (organizer)</base>
-        <tran loc="es">%@ (organizador)</tran>
+        <tran loc="es-419">%@ (organizador)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3248,7 +3248,7 @@
       <Position>Reminders on date</Position>
       <TranslationSet>
         <base loc="en">Reminders on %@</base>
-        <tran loc="es">Recordatorios para el %@</tran>
+        <tran loc="es-419">Recordatorios del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3256,7 +3256,7 @@
       <Position>In %@ minutes</Position>
       <TranslationSet>
         <base loc="en">In %@ minutes</base>
-        <tran loc="es">Dentro de %@ minutos</tran>
+        <tran loc="es-419">Dentro de %@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3264,7 +3264,7 @@
       <Position>Conflicts with '%@'</Position>
       <TranslationSet>
         <base loc="en">Conflicts with '%@'</base>
-        <tran loc="es">Conflictos con “%@”</tran>
+        <tran loc="es-419">Se empalma con "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3272,7 +3272,7 @@
       <Position>38th-XX02</Position>
       <TranslationSet>
         <base loc="en">38th</base>
-        <tran loc="es">38.º</tran>
+        <tran loc="es-419">38º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3280,7 +3280,7 @@
       <Position>%@ events were updated in %@.</Position>
       <TranslationSet>
         <base loc="en">%@ events were updated in %@.</base>
-        <tran loc="es">Se han actualizado %@ eventos en %@.</tran>
+        <tran loc="es-419">Se actualizaron %@ eventos en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3288,7 +3288,7 @@
       <Position>of May%@</Position>
       <TranslationSet>
         <base loc="en">of May%@</base>
-        <tran loc="es">de mayo%@</tran>
+        <tran loc="es-419">de mayo%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3296,7 +3296,7 @@
       <Position>%@ accepted</Position>
       <TranslationSet>
         <base loc="en">%@ accepted</base>
-        <tran loc="es">%@ ha aceptado</tran>
+        <tran loc="es-419">%@ aceptó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3304,7 +3304,7 @@
       <Position>33rd-XX02</Position>
       <TranslationSet>
         <base loc="en">33rd</base>
-        <tran loc="es">33.er</tran>
+        <tran loc="es-419">33er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3312,7 +3312,7 @@
       <Position>Event will occur every %@ weeks.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ weeks.</base>
-        <tran loc="es">El evento se repetirá cada %@ semanas.</tran>
+        <tran loc="es-419">El evento se repetirá cada %@ semanas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3320,7 +3320,7 @@
       <Position>Action: Remove Travel Time for “%@”</Position>
       <TranslationSet>
         <base loc="en">Remove Travel Time for “%@”</base>
-        <tran loc="es">eliminación de tiempo de viaje de “%@”</tran>
+        <tran loc="es-419">eliminar duración del viaje de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3328,7 +3328,7 @@
       <Position>of March%@</Position>
       <TranslationSet>
         <base loc="en">of March%@</base>
-        <tran loc="es">de marzo%@</tran>
+        <tran loc="es-419">de marzo%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3336,7 +3336,7 @@
       <Position>Could not deliver to %@ invitees</Position>
       <TranslationSet>
         <base loc="en">Could not deliver to %@ invitees</base>
-        <tran loc="es">Imposible entregar a %@ invitados</tran>
+        <tran loc="es-419">Imposible entregar a %@ invitados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3344,7 +3344,7 @@
       <Position>Waiting for availability results...</Position>
       <TranslationSet>
         <base loc="en">Waiting for availability results...</base>
-        <tran loc="es">Buscando disponibilidad…</tran>
+        <tran loc="es-419">Esperando los resultados de disponibilidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3352,7 +3352,7 @@
       <Position>Propose a New Time</Position>
       <TranslationSet>
         <base loc="en">Propose a New Time</base>
-        <tran loc="es">Proponer otra hora</tran>
+        <tran loc="es-419">Proponer otra hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3360,7 +3360,7 @@
       <Position>in one minute</Position>
       <TranslationSet>
         <base loc="en">in one minute</base>
-        <tran loc="es">dentro de un minuto</tran>
+        <tran loc="es-419">dentro de un minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3368,7 +3368,7 @@
       <Position>Action: Change Privacy for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Privacy for “%@”</base>
-        <tran loc="es">cambio de privacidad de “%@”</tran>
+        <tran loc="es-419">cambiar privacidad de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3376,7 +3376,7 @@
       <Position>52nd-XX02</Position>
       <TranslationSet>
         <base loc="en">52nd</base>
-        <tran loc="es">52.º</tran>
+        <tran loc="es-419">52º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3384,7 +3384,7 @@
       <Position>Happy birthday, %@.</Position>
       <TranslationSet>
         <base loc="en">Happy birthday, %@.</base>
-        <tran loc="es">¡Feliz cumpleaños, %@!</tran>
+        <tran loc="es-419">¡Feliz cumpleaños, %@!</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3392,7 +3392,7 @@
       <Position>Event will occur every %@ years on the %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ years on the %@.</base>
-        <tran loc="es">El evento se repetirá cada %@ años el %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %2$@ cada %1$@ años.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3400,7 +3400,7 @@
       <Position>N conflicts</Position>
       <TranslationSet>
         <base loc="en">Conflict: %ld other events are also scheduled for this time</base>
-        <tran loc="es">Conflicto: %ld eventos más programados a esa hora</tran>
+        <tran loc="es-419">Se empalma con %ld eventos más, programados a esta hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3408,7 +3408,7 @@
       <Position>N invitations</Position>
       <TranslationSet>
         <base loc="en">Conflict: %ld other events are also scheduled for this time</base>
-        <tran loc="es">Conflicto: %ld eventos más programados a esa hora</tran>
+        <tran loc="es-419">Se empalma con %ld eventos más, programados a esta hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3416,7 +3416,7 @@
       <Position>weekday</Position>
       <TranslationSet>
         <base loc="en">weekday</base>
-        <tran loc="es">día entre semana</tran>
+        <tran loc="es-419">día entre semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3424,7 +3424,7 @@
       <Position>Leave now: It will take %@ to get to %@.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ to get to %@.</base>
-        <tran loc="es">Sal ahora: tardarás %@ en llegar a %@.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3432,7 +3432,7 @@
       <Position>50th-XX02</Position>
       <TranslationSet>
         <base loc="en">50th</base>
-        <tran loc="es">50.º</tran>
+        <tran loc="es-419">50º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3440,7 +3440,7 @@
       <Position>day-XX02</Position>
       <TranslationSet>
         <base loc="en">day</base>
-        <tran loc="es">día</tran>
+        <tran loc="es-419">día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3448,7 +3448,7 @@
       <Position>Leave now: It will take %@ on %@.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ on %@.</base>
-        <tran loc="es">Sal ahora: tardarás %@ por %@.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3456,7 +3456,7 @@
       <Position>There is one event scheduled for %@.</Position>
       <TranslationSet>
         <base loc="en">There is one event scheduled for %@.</base>
-        <tran loc="es">Tienes un evento programado para las %@.</tran>
+        <tran loc="es-419">Tienes un evento programado para la(s) %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3464,7 +3464,7 @@
       <Position>of April%@</Position>
       <TranslationSet>
         <base loc="en">of April%@</base>
-        <tran loc="es">de abril%@</tran>
+        <tran loc="es-419">de abril%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3472,7 +3472,7 @@
       <Position>%ld invitee declined, %ld invitee commented</Position>
       <TranslationSet>
         <base loc="en">%ld invitee declined, %ld invitee commented</base>
-        <tran loc="es">%ld invitado ha rechazado la invitación, %ld invitado ha comentado</tran>
+        <tran loc="es-419">%ld invitado rechazó, %ld invitado comentó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3480,7 +3480,7 @@
       <Position>51st-XX02</Position>
       <TranslationSet>
         <base loc="en">51st</base>
-        <tran loc="es">51.er</tran>
+        <tran loc="es-419">51er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3488,7 +3488,7 @@
       <Position>%@, %@, and %@ others have birthdays today.</Position>
       <TranslationSet>
         <base loc="en">%@, %@, and %@ others have birthdays today.</base>
-        <tran loc="es">%@, %@ y %@ más cumplen años hoy.</tran>
+        <tran loc="es-419">%@, %@ y %@ más cumplen años hoy.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3496,7 +3496,7 @@
       <Position>39th-XX02</Position>
       <TranslationSet>
         <base loc="en">39th</base>
-        <tran loc="es">39.º</tran>
+        <tran loc="es-419">39º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3504,7 +3504,7 @@
       <Position>Updated in %@</Position>
       <TranslationSet>
         <base loc="en">Updated in %@</base>
-        <tran loc="es">Actualizado en %@</tran>
+        <tran loc="es-419">Se actualizó en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3512,7 +3512,7 @@
       <Position>Action: Delete %@</Position>
       <TranslationSet>
         <base loc="en">Delete %@</base>
-        <tran loc="es">eliminación de %@</tran>
+        <tran loc="es-419">Eliminar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3520,7 +3520,7 @@
       <Position>Action: Remove Location from “%@”</Position>
       <TranslationSet>
         <base loc="en">Remove Location from “%@”</base>
-        <tran loc="es">eliminación de ubicación de “%@”</tran>
+        <tran loc="es-419">eliminar ubicación de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3528,7 +3528,7 @@
       <Position>tomorrow</Position>
       <TranslationSet>
         <base loc="en">tomorrow</base>
-        <tran loc="es">mañana</tran>
+        <tran loc="es-419">mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3536,7 +3536,7 @@
       <Position>somebody</Position>
       <TranslationSet>
         <base loc="en">somebody</base>
-        <tran loc="es">alguien</tran>
+        <tran loc="es-419">alguien</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3544,7 +3544,7 @@
       <Position>Events</Position>
       <TranslationSet>
         <base loc="en">Events</base>
-        <tran loc="es">Eventos</tran>
+        <tran loc="es-419">Eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3552,7 +3552,7 @@
       <Position>41st-XX02</Position>
       <TranslationSet>
         <base loc="en">41st</base>
-        <tran loc="es">41.er</tran>
+        <tran loc="es-419">41er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3560,7 +3560,7 @@
       <Position>Date and time changed</Position>
       <TranslationSet>
         <base loc="en">Date and time changed</base>
-        <tran loc="es">La fecha y la hora han cambiado</tran>
+        <tran loc="es-419">Se cambió la fecha y la hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3568,7 +3568,7 @@
       <Position>29th-XX01</Position>
       <TranslationSet>
         <base loc="en">29th</base>
-        <tran loc="es">29</tran>
+        <tran loc="es-419">29º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3576,7 +3576,7 @@
       <Position>29th-XX02</Position>
       <TranslationSet>
         <base loc="en">29th</base>
-        <tran loc="es">29.º</tran>
+        <tran loc="es-419">29º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3584,7 +3584,7 @@
       <Position>Action: Add Attachment to “%@”</Position>
       <TranslationSet>
         <base loc="en">Add Attachment to “%@”</base>
-        <tran loc="es">adición de archivo adjunto a “%@”</tran>
+        <tran loc="es-419">agregar archivo adjunto a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3592,7 +3592,7 @@
       <Position>Action: Change Time of “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Time of “%@”</base>
-        <tran loc="es">cambio de hora de “%@”</tran>
+        <tran loc="es-419">cambiar hora de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3600,7 +3600,7 @@
       <Position>%@ is unavailable</Position>
       <TranslationSet>
         <base loc="en">%@ is unavailable</base>
-        <tran loc="es">%@ no está disponible</tran>
+        <tran loc="es-419">%@ no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3608,7 +3608,7 @@
       <Position>It will take %@ by car.</Position>
       <TranslationSet>
         <base loc="en">It will take %@ by car.</base>
-        <tran loc="es">Tardarás %@ en coche.</tran>
+        <tran loc="es-419">Te tomará %@ llegar en auto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3616,7 +3616,7 @@
       <Position>Calendar</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3624,7 +3624,7 @@
       <Position>%@ events were added to %@ by %@.</Position>
       <TranslationSet>
         <base loc="en">%@ events were added to %@ by %@.</base>
-        <tran loc="es">%3$@ ha añadido %1$@ eventos a %2$@.</tran>
+        <tran loc="es-419">%3$@ agregó %1$@ eventos a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3632,7 +3632,7 @@
       <Position>Invitees: %@</Position>
       <TranslationSet>
         <base loc="en">Invitees: %@</base>
-        <tran loc="es">Invitados: %@</tran>
+        <tran loc="es-419">Invitados: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3640,7 +3640,7 @@
       <Position>Event will occur every year on the %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every year on the %@.</base>
-        <tran loc="es">El evento se repetirá cada año el %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %@ cada año.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3648,7 +3648,7 @@
       <Position>40th-XX02</Position>
       <TranslationSet>
         <base loc="en">40th</base>
-        <tran loc="es">40.º</tran>
+        <tran loc="es-419">40º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3656,7 +3656,7 @@
       <Position>that started over an hour ago</Position>
       <TranslationSet>
         <base loc="en">that started over an hour ago</base>
-        <tran loc="es">ha empezado hace más de una hora</tran>
+        <tran loc="es-419">que comenzó hace una hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3664,7 +3664,7 @@
       <Position>, %@</Position>
       <TranslationSet>
         <base loc="en">, %@</base>
-        <tran loc="es">, %@</tran>
+        <tran loc="es-419">, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3672,7 +3672,7 @@
       <Position>, %@-XX01</Position>
       <TranslationSet>
         <base loc="en">, %@</base>
-        <tran loc="es">, %@</tran>
+        <tran loc="es-419">, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3680,7 +3680,7 @@
       <Position>, %@-XX02</Position>
       <TranslationSet>
         <base loc="en">, %@</base>
-        <tran loc="es">, %@</tran>
+        <tran loc="es-419">, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3688,7 +3688,7 @@
       <Position>Attachments changed</Position>
       <TranslationSet>
         <base loc="en">Attachments changed</base>
-        <tran loc="es">Los archivos adjuntos han cambiado</tran>
+        <tran loc="es-419">Archivos adjuntos modificados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3696,7 +3696,7 @@
       <Position>42nd-XX02</Position>
       <TranslationSet>
         <base loc="en">42nd</base>
-        <tran loc="es">42.º</tran>
+        <tran loc="es-419">42º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3704,7 +3704,7 @@
       <Position>Date and location changed by %@</Position>
       <TranslationSet>
         <base loc="en">Date and location changed by %@</base>
-        <tran loc="es">%@ ha cambiado la fecha y la ubicación</tran>
+        <tran loc="es-419">%@ cambió la fecha y la ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3712,7 +3712,7 @@
       <Position>yesterday</Position>
       <TranslationSet>
         <base loc="en">yesterday</base>
-        <tran loc="es">ayer</tran>
+        <tran loc="es-419">ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3720,7 +3720,7 @@
       <Position>Event will occur every %@ days.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every %@ days.</base>
-        <tran loc="es">El evento se repetirá cada %@ días.</tran>
+        <tran loc="es-419">El evento se repetirá cada %@ días.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3728,7 +3728,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #1 day of the week.</Position>
       <TranslationSet>
         <base loc="en">next %@</base>
-        <tran loc="es">el próximo %@</tran>
+        <tran loc="es-419">siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3736,7 +3736,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #2 day of the week..</Position>
       <TranslationSet>
         <base loc="en">next %@</base>
-        <tran loc="es">el próximo %@</tran>
+        <tran loc="es-419">siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3744,7 +3744,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #3 day of the week..</Position>
       <TranslationSet>
         <base loc="en">next %@</base>
-        <tran loc="es">el próximo %@</tran>
+        <tran loc="es-419">siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3752,7 +3752,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #4 day of the week..</Position>
       <TranslationSet>
         <base loc="en">next %@</base>
-        <tran loc="es">el próximo %@</tran>
+        <tran loc="es-419">siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3760,7 +3760,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #5 day of the week..</Position>
       <TranslationSet>
         <base loc="en">next %@</base>
-        <tran loc="es">el próximo %@</tran>
+        <tran loc="es-419">siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3768,7 +3768,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #6 day of the week..</Position>
       <TranslationSet>
         <base loc="en">next %@</base>
-        <tran loc="es">el próximo %@</tran>
+        <tran loc="es-419">siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3776,7 +3776,7 @@
       <Position>Date after today, but in next week ('next Thursday').  Format for #7 day of the week..</Position>
       <TranslationSet>
         <base loc="en">next %@</base>
-        <tran loc="es">el próximo %@</tran>
+        <tran loc="es-419">siguiente %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3784,7 +3784,7 @@
       <Position>23rd-XX01</Position>
       <TranslationSet>
         <base loc="en">23rd</base>
-        <tran loc="es">23</tran>
+        <tran loc="es-419">23er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3792,7 +3792,7 @@
       <Position>23rd-XX02</Position>
       <TranslationSet>
         <base loc="en">23rd</base>
-        <tran loc="es">23.er</tran>
+        <tran loc="es-419">23er.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3800,7 +3800,7 @@
       <Position>You have a meeting %@ with %@ and %@ others%@.</Position>
       <TranslationSet>
         <base loc="en">You have a meeting %@ with %@ and %@ others%@.</base>
-        <tran loc="es">Tienes una reunión %@ con %@ y %@ personas más%@.</tran>
+        <tran loc="es-419">Tienes una reunión a la(s) %@ con %@ y %@ personas más%@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3808,7 +3808,7 @@
       <Position>Time changed to %@</Position>
       <TranslationSet>
         <base loc="en">Time changed to %@</base>
-        <tran loc="es">La hora ha cambiado a %@</tran>
+        <tran loc="es-419">Hora cambiada a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3816,7 +3816,7 @@
       <Position>Happy birthday, %@. %@, %@, and %@ also share a birthday today.</Position>
       <TranslationSet>
         <base loc="en">Happy birthday, %@. %@, %@, and %@ also share a birthday today.</base>
-        <tran loc="es">¡Feliz cumpleaños, %@! %@, %@ y %@ también cumplen años hoy.</tran>
+        <tran loc="es-419">¡Feliz cumpleaños, %@! %@, %@ y %@ también cumplen años hoy.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3824,7 +3824,7 @@
       <Position>Calendar Year View</Position>
       <TranslationSet>
         <base loc="en">Calendar Year View</base>
-        <tran loc="es">Visualización del calendario por años</tran>
+        <tran loc="es-419">Ver calendario por año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3832,7 +3832,7 @@
       <Position>Date changed to %@</Position>
       <TranslationSet>
         <base loc="en">Date changed to %@</base>
-        <tran loc="es">La fecha ha cambiado a %@</tran>
+        <tran loc="es-419">Fecha cambiada a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3840,7 +3840,7 @@
       <Position>Leave now: It will take %@ to get to %@ on foot.</Position>
       <TranslationSet>
         <base loc="en">Leave now: It will take %@ to get to %@ on foot.</base>
-        <tran loc="es">Sal ahora: tardarás %@ en llegar a %@ a pie.</tran>
+        <tran loc="es-419">Sal ya: te tomará %@ llegar a pie hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3848,7 +3848,7 @@
       <Position>Event</Position>
       <TranslationSet>
         <base loc="en">Event</base>
-        <tran loc="es">Evento</tran>
+        <tran loc="es-419">Evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3856,7 +3856,7 @@
       <Position>that started %@ minutes ago</Position>
       <TranslationSet>
         <base loc="en">that started %@ minutes ago</base>
-        <tran loc="es">que ha empezado hace %@ minutos</tran>
+        <tran loc="es-419">que comenzó hace %@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3864,7 +3864,7 @@
       <Position>There is one all-day event scheduled.</Position>
       <TranslationSet>
         <base loc="en">There is one all-day event scheduled.</base>
-        <tran loc="es">Tienes un evento programado para todo el día.</tran>
+        <tran loc="es-419">Hay un evento de todo el día programado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3872,7 +3872,7 @@
       <Position>28th-XX01</Position>
       <TranslationSet>
         <base loc="en">28th</base>
-        <tran loc="es">28</tran>
+        <tran loc="es-419">28º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3880,7 +3880,7 @@
       <Position>28th-XX02</Position>
       <TranslationSet>
         <base loc="en">28th</base>
-        <tran loc="es">28.º</tran>
+        <tran loc="es-419">28º.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3888,7 +3888,7 @@
       <Position>Reminder</Position>
       <TranslationSet>
         <base loc="en">Reminder</base>
-        <tran loc="es">Recordatorio</tran>
+        <tran loc="es-419">Recordatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3896,7 +3896,7 @@
       <Position>Action: Change Attendee Comments for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Attendee Comments for “%@”</base>
-        <tran loc="es">cambio de comentarios del asistente a “%@”</tran>
+        <tran loc="es-419">cambiar comentarios de invitados de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3904,7 +3904,7 @@
       <Position>Calendar Month View</Position>
       <TranslationSet>
         <base loc="en">Calendar Month View</base>
-        <tran loc="es">Visualización del calendario por meses</tran>
+        <tran loc="es-419">Ver calendario por mes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3912,7 +3912,7 @@
       <Position>Beginning now</Position>
       <TranslationSet>
         <base loc="en">Beginning now</base>
-        <tran loc="es">Empieza ahora</tran>
+        <tran loc="es-419">Está comenzando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3920,7 +3920,7 @@
       <Position>Scheduled: %@</Position>
       <TranslationSet>
         <base loc="en">Scheduled: %@</base>
-        <tran loc="es">Programado: %@</tran>
+        <tran loc="es-419">Programado: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3928,7 +3928,7 @@
       <Position>Your first meeting %@ is with %@ and %@ others%@.</Position>
       <TranslationSet>
         <base loc="en">Your first meeting %@ is with %@ and %@ others%@.</base>
-        <tran loc="es">La primera reunión (%@) es con %@ y %@ personas más%@.</tran>
+        <tran loc="es-419">La primera reunión (%@) es con %@ y %@ personas más%@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3936,7 +3936,7 @@
       <Position> or %@</Position>
       <TranslationSet>
         <base loc="en"> or %@</base>
-        <tran loc="es"> o %@</tran>
+        <tran loc="es-419"> o %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3944,7 +3944,7 @@
       <Position>Action: Changes to Events</Position>
       <TranslationSet>
         <base loc="en">Changes to Events</base>
-        <tran loc="es">cambios en los eventos</tran>
+        <tran loc="es-419">cambios a eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3952,7 +3952,7 @@
       <Position>Action: Change Sharee for “%@”</Position>
       <TranslationSet>
         <base loc="en">Change Sharee for “%@”</base>
-        <tran loc="es">cambio de seguidor de “%@”</tran>
+        <tran loc="es-419">cambiar seguidor de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3960,7 +3960,7 @@
       <Position>%@ is pending on this shared calendar invitation.</Position>
       <TranslationSet>
         <base loc="en">%@ is pending on this shared calendar invitation.</base>
-        <tran loc="es">%@ todavía no ha aceptado la invitación a este calendario compartido.</tran>
+        <tran loc="es-419">%@ no ha contestado a esta invitación para compartir el calendario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3968,7 +3968,7 @@
       <Position>Event will occur every year on the %@ %@.</Position>
       <TranslationSet>
         <base loc="en">Event will occur every year on the %@ %@.</base>
-        <tran loc="es">El evento se repetirá cada año el %@ de %@.</tran>
+        <tran loc="es-419">El evento se repetirá el %@ %@ cada año.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3976,7 +3976,7 @@
       <Position>Action: Remove Attachment from “%@”</Position>
       <TranslationSet>
         <base loc="en">Remove Attachment from “%@”</base>
-        <tran loc="es">eliminación de archivo adjunto de “%@”</tran>
+        <tran loc="es-419">eliminar archivo adjunto de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3984,7 +3984,7 @@
       <Position>You have a meeting %@ with %@ and %@%@.</Position>
       <TranslationSet>
         <base loc="en">You have a meeting %@ with %@ and %@%@.</base>
-        <tran loc="es">Tienes una reunión %@ con %@ y %@%@.</tran>
+        <tran loc="es-419">Tienes una reunión a la(s) %@ con %@ y %@%@.</tran>
       </TranslationSet>
     </TextItem>
   </File>

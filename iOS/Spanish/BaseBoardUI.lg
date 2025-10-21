@@ -8,7 +8,7 @@
       <Position>TO_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">thru %@</base>
-        <tran loc="es">hasta el %@</tran>
+        <tran loc="es-419">hasta el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>TOMORROW</Position>
       <TranslationSet>
         <base loc="en">Tomorrow</base>
-        <tran loc="es">Mañana</tran>
+        <tran loc="es-419">Mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>TODAY_TO_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Today thru %@</base>
-        <tran loc="es">Hoy hasta el %@</tran>
+        <tran loc="es-419">Desde hoy hasta el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>DAYMONTHYEAR_TO_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ thru %@</base>
-        <tran loc="es">del %@ al %@</tran>
+        <tran loc="es-419">Del %@ hasta el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>DAYMONTH_TO_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ thru %@</base>
-        <tran loc="es">del %@ al %@</tran>
+        <tran loc="es-419">Del %@ hasta el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>DAYOFWEEK_TO_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ thru %@</base>
-        <tran loc="es">del %@ al %@</tran>
+        <tran loc="es-419">Del %@ hasta el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>YESTERDAY</Position>
       <TranslationSet>
         <base loc="en">Yesterday</base>
-        <tran loc="es">Ayer</tran>
+        <tran loc="es-419">Ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>DATE_RANGE_FORMAT_NEW</Position>
       <TranslationSet>
         <base loc="en">%@ - %@</base>
-        <tran loc="es">%@ - %@</tran>
+        <tran loc="es-419">%@ - %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>YESTERDAY_TO_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Yesterday thru %@</base>
-        <tran loc="es">Ayer hasta el %@</tran>
+        <tran loc="es-419">Desde ayer hasta el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>TOMORROW_TO_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Tomorrow thru %@</base>
-        <tran loc="es">Mañana hasta el %@</tran>
+        <tran loc="es-419">Desde mañana hasta el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>TODAY</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>TO_TIME_FORMAT</Position>
       <TranslationSet>
         <base loc="en">to %@</base>
-        <tran loc="es">hasta las %@</tran>
+        <tran loc="es-419">hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>NOW</Position>
       <TranslationSet>
         <base loc="en">Now</base>
-        <tran loc="es">Ahora</tran>
+        <tran loc="es-419">Ahora</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -121,7 +121,7 @@
       <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@hours@</base>
-        <tran loc="es">%1$#@hours@</tran>
+        <tran loc="es-419">%1$#@hours@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>/RELATIVE_DATE_PAST_HOURS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@hours@</base>
-        <tran loc="es">%1$#@hours@</tran>
+        <tran loc="es-419">%1$#@hours@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@seconds@</base>
-        <tran loc="es">%1$#@seconds@</tran>
+        <tran loc="es-419">%1$#@seconds@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>/RELATIVE_DATE_PAST_SECONDS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@seconds@</base>
-        <tran loc="es">%1$#@seconds@</tran>
+        <tran loc="es-419">%1$#@seconds@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/seconds:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">in 1m</base>
-        <tran loc="es">dentro de 1 min</tran>
+        <tran loc="es-419">en 1 min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>/RELATIVE_DATE_FUTURE_SECONDS:dict/seconds:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">in 1m</base>
-        <tran loc="es">dentro de 1 min</tran>
+        <tran loc="es-419">en 1 min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/days:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">in %lud</base>
-        <tran loc="es">dentro de %lu d</tran>
+        <tran loc="es-419">en %lu d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/days:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">in %lud</base>
-        <tran loc="es">dentro de %lu d</tran>
+        <tran loc="es-419">en %lu d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>/RELATIVE_DATE_PAST_HOURS:dict/hours:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%luh ago</base>
-        <tran loc="es">hace %lu h</tran>
+        <tran loc="es-419">Hace %lu h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>/RELATIVE_DATE_PAST_HOURS:dict/hours:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%luh ago</base>
-        <tran loc="es">hace %lu h</tran>
+        <tran loc="es-419">Hace %lu h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@minutes@</base>
-        <tran loc="es">%1$#@minutes@</tran>
+        <tran loc="es-419">%1$#@minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>/RELATIVE_DATE_PAST_MINUTES:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@minutes@</base>
-        <tran loc="es">%1$#@minutes@</tran>
+        <tran loc="es-419">%1$#@minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>/RELATIVE_DATE_FUTURE_DAYS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@days@</base>
-        <tran loc="es">%1$#@days@</tran>
+        <tran loc="es-419">%1$#@days@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>/RELATIVE_DATE_PAST_DAYS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@days@</base>
-        <tran loc="es">%1$#@days@</tran>
+        <tran loc="es-419">%1$#@days@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/hours:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">in %luh</base>
-        <tran loc="es">dentro de %lu h</tran>
+        <tran loc="es-419">en %lu h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>/RELATIVE_DATE_FUTURE_HOURS:dict/hours:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">in %luh</base>
-        <tran loc="es">dentro de %lu h</tran>
+        <tran loc="es-419">en %lu h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>/RELATIVE_DATE_PAST_DAYS:dict/days:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lud ago</base>
-        <tran loc="es">hace %lu d</tran>
+        <tran loc="es-419">Hace %lu d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>/RELATIVE_DATE_PAST_DAYS:dict/days:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lud ago</base>
-        <tran loc="es">hace %lu d</tran>
+        <tran loc="es-419">Hace %lu d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>/RELATIVE_DATE_PAST_MINUTES:dict/minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lum ago</base>
-        <tran loc="es">hace %lu min</tran>
+        <tran loc="es-419">Hace %lu min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>/RELATIVE_DATE_PAST_MINUTES:dict/minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lum ago</base>
-        <tran loc="es">hace %lu min</tran>
+        <tran loc="es-419">Hace %lu min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>/RELATIVE_DATE_PAST_SECONDS:dict/seconds:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">now</base>
-        <tran loc="es">ahora</tran>
+        <tran loc="es-419">ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>/RELATIVE_DATE_PAST_SECONDS:dict/seconds:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">now</base>
-        <tran loc="es">ahora</tran>
+        <tran loc="es-419">ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">in %lum</base>
-        <tran loc="es">dentro de %lu min</tran>
+        <tran loc="es-419">en %lu min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>/RELATIVE_DATE_FUTURE_MINUTES:dict/minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">in %lum</base>
-        <tran loc="es">dentro de %lu min</tran>
+        <tran loc="es-419">en %lu min</tran>
       </TranslationSet>
     </TextItem>
   </File>

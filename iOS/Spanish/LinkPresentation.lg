@@ -8,7 +8,7 @@
       <Position>/%ld Link(s):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Links@</base>
-        <tran loc="es">%#@Links@</tran>
+        <tran loc="es-419">%#@Links@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/%d Place(s):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Places@</base>
-        <tran loc="es">%#@Places@</tran>
+        <tran loc="es-419">%#@Places@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/%ld Link(s):dict/Links:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Links</base>
-        <tran loc="es">%ld enlaces</tran>
+        <tran loc="es-419">%ld enlaces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>/%ld Link(s):dict/Links:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Links</base>
-        <tran loc="es">%ld enlaces</tran>
+        <tran loc="es-419">%ld enlaces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>/%d Player(s):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Players@</base>
-        <tran loc="es">%#@Players@</tran>
+        <tran loc="es-419">%#@Players@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>/%ld Document(s):dict/Documents:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Document</base>
-        <tran loc="es">%ld Documento</tran>
+        <tran loc="es-419">%ld documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>/%d Player(s):dict/Players:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Player</base>
-        <tran loc="es">%d jugador</tran>
+        <tran loc="es-419">%d jugador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>/%d Player(s):dict/Players:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No Players</base>
-        <tran loc="es">Ningún jugador</tran>
+        <tran loc="es-419">Ningún jugador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>/%d Place(s):dict/Places:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Places</base>
-        <tran loc="es">%d lugares</tran>
+        <tran loc="es-419">%d lugares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>/%ld Link(s):dict/Links:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Link</base>
-        <tran loc="es">%ld enlace</tran>
+        <tran loc="es-419">%ld enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>/%ld Document(s):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Documents@</base>
-        <tran loc="es">%#@Documents@</tran>
+        <tran loc="es-419">%#@Documents@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>/%d Player(s):dict/Players:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Players</base>
-        <tran loc="es">%d jugadores</tran>
+        <tran loc="es-419">%d jugadores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>/%ld Image(s):dict/Images:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Images</base>
-        <tran loc="es">%ld imágenes</tran>
+        <tran loc="es-419">%ld imágenes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>/%ld Image(s):dict/Images:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Images</base>
-        <tran loc="es">%ld imágenes</tran>
+        <tran loc="es-419">%ld imágenes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>/%ld Document(s):dict/Documents:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Documents</base>
-        <tran loc="es">%ld documentos</tran>
+        <tran loc="es-419">%ld documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>/%ld Document(s):dict/Documents:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Documents</base>
-        <tran loc="es">%ld documentos</tran>
+        <tran loc="es-419">%ld documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>/%ld Image(s):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@Images@</base>
-        <tran loc="es">%#@Images@</tran>
+        <tran loc="es-419">%#@Images@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>/%ld Image(s):dict/Images:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld Image</base>
-        <tran loc="es">%ld imagen</tran>
+        <tran loc="es-419">%ld imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>/%d Place(s):dict/Places:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Place</base>
-        <tran loc="es">%d lugar</tran>
+        <tran loc="es-419">%d lugar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>/%d Place(s):dict/Places:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No Places</base>
-        <tran loc="es">No hay lugares</tran>
+        <tran loc="es-419">Ningún lugar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -171,7 +171,7 @@
       <Position>Click to Load Preview</Position>
       <TranslationSet>
         <base loc="en">Click to Load Preview</base>
-        <tran loc="es">Haz clic para cargar la previsualización</tran>
+        <tran loc="es-419">Presiona para cargar la vista previa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>Archive (file type)</Position>
       <TranslationSet>
         <base loc="en">Archive</base>
-        <tran loc="es">Archivo</tran>
+        <tran loc="es-419">Archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>Shared from %@</Position>
       <TranslationSet>
         <base loc="en">Shared from %@</base>
-        <tran loc="es">Compartiendo desde %@</tran>
+        <tran loc="es-419">Compartir desde %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>Gift Card</Position>
       <TranslationSet>
         <base loc="en">Gift Card</base>
-        <tran loc="es">Tarjeta regalo</tran>
+        <tran loc="es-419">Tarjeta de regalo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>Music Video: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">Music Video: %@ – %@</base>
-        <tran loc="es">Vídeoclip: %@ – %@</tran>
+        <tran loc="es-419">Video musical: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>ZIP Archive (file type)</Position>
       <TranslationSet>
         <base loc="en">ZIP Archive</base>
-        <tran loc="es">Archivo ZIP</tran>
+        <tran loc="es-419">Archivo ZIP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>Web Archive (file type)</Position>
       <TranslationSet>
         <base loc="en">Web Archive</base>
-        <tran loc="es">Archivo web</tran>
+        <tran loc="es-419">Archivo web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>TV Season: %@</Position>
       <TranslationSet>
         <base loc="en">TV Season: %@</base>
-        <tran loc="es">Temporada: %@</tran>
+        <tran loc="es-419">Temporada de TV %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>Office Presentation (file type)</Position>
       <TranslationSet>
         <base loc="en">Office Presentation</base>
-        <tran loc="es">Presentación en Office</tran>
+        <tran loc="es-419">Presentación de Office</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>Song: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">Song: %@ – %@</base>
-        <tran loc="es">Canción: %@ – %@</tran>
+        <tran loc="es-419">Canción: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>Subscribe to &lt;link&gt;Apple Music&lt;/link&gt;</Position>
       <TranslationSet>
         <base loc="en">Subscribe to &lt;link&gt;Apple Music&lt;/link&gt;</base>
-        <tran loc="es">Suscribirme a &lt;link&gt;Apple Music&lt;/link&gt;</tran>
+        <tran loc="es-419">Suscribirse a &lt;link&gt;Apple Music&lt;/link&gt;</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>Book: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">Book: %@ – %@</base>
-        <tran loc="es">Libro: %@ – %@</tran>
+        <tran loc="es-419">Libro: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>Text Document (file type)</Position>
       <TranslationSet>
         <base loc="en">Text Document</base>
-        <tran loc="es">Documento de texto</tran>
+        <tran loc="es-419">Documento de texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>Radio</Position>
       <TranslationSet>
         <base loc="en">Radio</base>
-        <tran loc="es">Radio</tran>
+        <tran loc="es-419">Radio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>Source Code (file type)</Position>
       <TranslationSet>
         <base loc="en">Source Code</base>
-        <tran loc="es">Código fuente</tran>
+        <tran loc="es-419">Código fuente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>Directions to %@</Position>
       <TranslationSet>
         <base loc="en">Directions to %@</base>
-        <tran loc="es">Ruta hasta %@</tran>
+        <tran loc="es-419">Ruta hasta %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>Image (file type)</Position>
       <TranslationSet>
         <base loc="en">Image</base>
-        <tran loc="es">Imagen</tran>
+        <tran loc="es-419">Imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>Link: Document shared from %@</Position>
       <TranslationSet>
         <base loc="en">Link: Document shared from %@</base>
-        <tran loc="es">Enlace: Documento compartido desde %@</tran>
+        <tran loc="es-419">Enlace: documento compartido con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>Buy Song on &lt;link&gt;iTunes&lt;/link&gt;</Position>
       <TranslationSet>
         <base loc="en">Buy Song on &lt;link&gt;iTunes&lt;/link&gt;</base>
-        <tran loc="es">Comprar canción en &lt;link&gt;iTunes&lt;/link&gt;</tran>
+        <tran loc="es-419">Comprar la canción en &lt;link&gt;iTunes&lt;/link&gt;</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>%@ via Apple News</Position>
       <TranslationSet>
         <base loc="en">%@ via Apple News</base>
-        <tran loc="es">%@ vía Apple News</tran>
+        <tran loc="es-419">%@ mediante Apple News</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>%d-%d Players</Position>
       <TranslationSet>
         <base loc="en">%d-%d Players</base>
-        <tran loc="es">%d-%d jugadores</tran>
+        <tran loc="es-419">%d-%d jugadores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>Directions</Position>
       <TranslationSet>
         <base loc="en">Directions</base>
-        <tran loc="es">Ruta</tran>
+        <tran loc="es-419">Cómo llegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -347,7 +347,7 @@
       <Position>File: %@</Position>
       <TranslationSet>
         <base loc="en">File: %@</base>
-        <tran loc="es">Archivo: %@</tran>
+        <tran loc="es-419">Archivo: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>HEIF Image (file type)</Position>
       <TranslationSet>
         <base loc="en">HEIF Image</base>
-        <tran loc="es">Imagen HEIF</tran>
+        <tran loc="es-419">Imagen HEIF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -363,7 +363,7 @@
       <Position>Directions from %@</Position>
       <TranslationSet>
         <base loc="en">Directions from %@</base>
-        <tran loc="es">Ruta desde %@</tran>
+        <tran loc="es-419">Indicaciones desde “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -371,7 +371,7 @@
       <Position>Font (file type)</Position>
       <TranslationSet>
         <base loc="en">Font</base>
-        <tran loc="es">Tipo de letra</tran>
+        <tran loc="es-419">Tipo de letra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -379,7 +379,7 @@
       <Position>Website: %@ (%@)</Position>
       <TranslationSet>
         <base loc="en">Website: %@ (%@)</base>
-        <tran loc="es">Sitio web: %@ (%@)</tran>
+        <tran loc="es-419">Sitio: %@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>%@.\n%@</Position>
       <TranslationSet>
         <base loc="en">%@.\n%@</base>
-        <tran loc="es">%@.\n%@</tran>
+        <tran loc="es-419">%@.\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>Website: %@</Position>
       <TranslationSet>
         <base loc="en">Website: %@</base>
-        <tran loc="es">Sitio web: %@</tran>
+        <tran loc="es-419">Sitio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>Executable (file type)</Position>
       <TranslationSet>
         <base loc="en">Executable</base>
-        <tran loc="es">Ejecutable</tran>
+        <tran loc="es-419">Ejecutable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>GIF Image (file type)</Position>
       <TranslationSet>
         <base loc="en">GIF Image</base>
-        <tran loc="es">Imagen GIF</tran>
+        <tran loc="es-419">Imagen GIF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -419,7 +419,7 @@
       <Position>Folder (file type)</Position>
       <TranslationSet>
         <base loc="en">Folder</base>
-        <tran loc="es">Carpeta</tran>
+        <tran loc="es-419">Carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -427,7 +427,7 @@
       <Position>Business Chat</Position>
       <TranslationSet>
         <base loc="en">Business Chat</base>
-        <tran loc="es">Chat para clientes</tran>
+        <tran loc="es-419">Chat para clientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -435,7 +435,7 @@
       <Position>Coupon</Position>
       <TranslationSet>
         <base loc="en">Coupon</base>
-        <tran loc="es">Cupón</tran>
+        <tran loc="es-419">Cupón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -443,7 +443,7 @@
       <Position>%@: %@</Position>
       <TranslationSet>
         <base loc="en">%@: %@</base>
-        <tran loc="es">%@: %@</tran>
+        <tran loc="es-419">%@: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -451,7 +451,7 @@
       <Position>Search for “%@”</Position>
       <TranslationSet>
         <base loc="en">Search for “%@”</base>
-        <tran loc="es">Buscar “%@”</tran>
+        <tran loc="es-419">Buscar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -459,7 +459,7 @@
       <Position>Podcast: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">Podcast: %@ – %@</base>
-        <tran loc="es">Podcast: %@ – %@</tran>
+        <tran loc="es-419">Podcast: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -467,7 +467,7 @@
       <Position>Shared using iCloud Sharing</Position>
       <TranslationSet>
         <base loc="en">Shared using iCloud Sharing</base>
-        <tran loc="es">Compartido mediante Compartir en iCloud</tran>
+        <tran loc="es-419">Compartido usando “Compartir con iCloud”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -475,7 +475,7 @@
       <Position>File (file type)</Position>
       <TranslationSet>
         <base loc="en">File</base>
-        <tran loc="es">Archivo</tran>
+        <tran loc="es-419">Archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -487,7 +487,7 @@
       <Position>Tap to Load Preview</Position>
       <TranslationSet>
         <base loc="en">Tap to Load Preview</base>
-        <tran loc="es">Pulsa para cargar la previsualización</tran>
+        <tran loc="es-419">Toca para cargar la vista previa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -495,7 +495,7 @@
       <Position>TIFF Image (file type)</Position>
       <TranslationSet>
         <base loc="en">TIFF Image</base>
-        <tran loc="es">Imagen TIFF</tran>
+        <tran loc="es-419">Imagen TIFF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -503,7 +503,7 @@
       <Position>Radio: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">Radio: %@ – %@</base>
-        <tran loc="es">Radio: %@ – %@</tran>
+        <tran loc="es-419">Radio: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +511,7 @@
       <Position>JPEG Image (file type)</Position>
       <TranslationSet>
         <base loc="en">JPEG Image</base>
-        <tran loc="es">Imagen JPEG</tran>
+        <tran loc="es-419">Imagen JPEG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -519,7 +519,7 @@
       <Position>Album: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">Album: %@ – %@</base>
-        <tran loc="es">Álbum: %@ – %@</tran>
+        <tran loc="es-419">Álbum: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +527,7 @@
       <Position>Boarding Pass</Position>
       <TranslationSet>
         <base loc="en">Boarding Pass</base>
-        <tran loc="es">Tarjeta de embarque</tran>
+        <tran loc="es-419">Pase de abordar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -535,7 +535,7 @@
       <Position>App Store: %@</Position>
       <TranslationSet>
         <base loc="en">App Store: %@</base>
-        <tran loc="es">App Store: %@</tran>
+        <tran loc="es-419">App Store: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -543,7 +543,7 @@
       <Position>tv: %@</Position>
       <TranslationSet>
         <base loc="en">tv: %@</base>
-        <tran loc="es">tv: %@</tran>
+        <tran loc="es-419">tv: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -551,7 +551,7 @@
       <Position>Office Spreadsheet (file type)</Position>
       <TranslationSet>
         <base loc="en">Office Spreadsheet</base>
-        <tran loc="es">Hoja de cálculo de Office</tran>
+        <tran loc="es-419">Hoja de cálculo de Office</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -559,7 +559,7 @@
       <Position>Invitation to play %@</Position>
       <TranslationSet>
         <base loc="en">Invitation to play %@</base>
-        <tran loc="es">Invitación para jugar a %@</tran>
+        <tran loc="es-419">Invitación a jugar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -567,7 +567,7 @@
       <Position>Artist</Position>
       <TranslationSet>
         <base loc="en">Artist</base>
-        <tran loc="es">Artista</tran>
+        <tran loc="es-419">Artista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -575,7 +575,7 @@
       <Position>Ringtone (file type)</Position>
       <TranslationSet>
         <base loc="en">Ringtone</base>
-        <tran loc="es">Tono de llamada</tran>
+        <tran loc="es-419">Tono de llamada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -583,7 +583,7 @@
       <Position>Ticket</Position>
       <TranslationSet>
         <base loc="en">Ticket</base>
-        <tran loc="es">Billete</tran>
+        <tran loc="es-419">Ticket</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -591,7 +591,7 @@
       <Position>PNG Image (file type)</Position>
       <TranslationSet>
         <base loc="en">PNG Image</base>
-        <tran loc="es">Imagen PNG</tran>
+        <tran loc="es-419">Imagen PNG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -599,7 +599,7 @@
       <Position>Maps: %@</Position>
       <TranslationSet>
         <base loc="en">Maps: %@</base>
-        <tran loc="es">Mapas: %@</tran>
+        <tran loc="es-419">Mapas: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -607,7 +607,7 @@
       <Position>Radio: %@</Position>
       <TranslationSet>
         <base loc="en">Radio: %@</base>
-        <tran loc="es">Radio: %@</tran>
+        <tran loc="es-419">Radio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -615,7 +615,7 @@
       <Position>Link: Document shared using iCloud Sharing</Position>
       <TranslationSet>
         <base loc="en">Link: Document shared using iCloud Sharing</base>
-        <tran loc="es">Enlace: Documento compartido mediante Compartir en iCloud.</tran>
+        <tran loc="es-419">Enlace: documento compartido usando “Compartir con iCloud”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -623,7 +623,7 @@
       <Position>3D Asset (file type)</Position>
       <TranslationSet>
         <base loc="en">3D Asset</base>
-        <tran loc="es">Componente 3D</tran>
+        <tran loc="es-419">Activo 3D</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -631,7 +631,7 @@
       <Position>Movie Bundle: %@</Position>
       <TranslationSet>
         <base loc="en">Movie Bundle: %@</base>
-        <tran loc="es">Lote de películas: %@</tran>
+        <tran loc="es-419">Paquete de videos: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -639,7 +639,7 @@
       <Position>RTF Document (file type)</Position>
       <TranslationSet>
         <base loc="en">RTF Document</base>
-        <tran loc="es">Documento RTF</tran>
+        <tran loc="es-419">Documento RTF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -647,7 +647,7 @@
       <Position>PDF Document (file type)</Position>
       <TranslationSet>
         <base loc="en">PDF Document</base>
-        <tran loc="es">Documento PDF</tran>
+        <tran loc="es-419">Documento PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -655,7 +655,7 @@
       <Position>TV Episode: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">TV Episode: %@ – %@</base>
-        <tran loc="es">Episodio: %@ – %@</tran>
+        <tran loc="es-419">Episodio de TV: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -663,7 +663,7 @@
       <Position>Look Around</Position>
       <TranslationSet>
         <base loc="en">Look Around</base>
-        <tran loc="es">Echa un vistazo</tran>
+        <tran loc="es-419">Echar un vistazo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -671,7 +671,7 @@
       <Position>Pass</Position>
       <TranslationSet>
         <base loc="en">Pass</base>
-        <tran loc="es">Tarjeta</tran>
+        <tran loc="es-419">Aprobado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -679,7 +679,7 @@
       <Position>Audiobook: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">Audiobook: %@ – %@</base>
-        <tran loc="es">Audiolibro: %@ – %@</tran>
+        <tran loc="es-419">Audiolibro: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -687,7 +687,7 @@
       <Position>Link: “%@” shared from %@</Position>
       <TranslationSet>
         <base loc="en">Link: “%@” shared from %@</base>
-        <tran loc="es">Enlace: “%@” compartido desde %@</tran>
+        <tran loc="es-419">Enlace: “%@” compartido con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +695,7 @@
       <Position>Photos</Position>
       <TranslationSet>
         <base loc="en">Photos</base>
-        <tran loc="es">Fotos</tran>
+        <tran loc="es-419">Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +703,7 @@
       <Position>Apple Maps</Position>
       <TranslationSet>
         <base loc="en">Apple Maps</base>
-        <tran loc="es">Mapas de Apple</tran>
+        <tran loc="es-419">Mapas de Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +711,7 @@
       <Position>Directions from %@ to %@</Position>
       <TranslationSet>
         <base loc="en">Directions from %@ to %@</base>
-        <tran loc="es">Ruta desde %@ hasta %@</tran>
+        <tran loc="es-419">Ruta desde %@ hasta %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +719,7 @@
       <Position>Podcasts</Position>
       <TranslationSet>
         <base loc="en">Podcasts</base>
-        <tran loc="es">Podcasts</tran>
+        <tran loc="es-419">Podcasts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +727,7 @@
       <Position>tv</Position>
       <TranslationSet>
         <base loc="en">tv</base>
-        <tran loc="es">tv</tran>
+        <tran loc="es-419">tv</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -735,7 +735,7 @@
       <Position>Application (file type)</Position>
       <TranslationSet>
         <base loc="en">Application</base>
-        <tran loc="es">Aplicación</tran>
+        <tran loc="es-419">Aplicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -743,7 +743,7 @@
       <Position>Artist: %@</Position>
       <TranslationSet>
         <base loc="en">Artist: %@</base>
-        <tran loc="es">Artista: %@</tran>
+        <tran loc="es-419">Artista: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -751,7 +751,7 @@
       <Position>Pass: %@</Position>
       <TranslationSet>
         <base loc="en">Pass: %@</base>
-        <tran loc="es">Pase: %@</tran>
+        <tran loc="es-419">Pase: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -759,7 +759,7 @@
       <Position>Plain Text</Position>
       <TranslationSet>
         <base loc="en">Plain Text</base>
-        <tran loc="es">Texto sin formato</tran>
+        <tran loc="es-419">Texto sin formato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@
       <Position>Contact Card (file type)</Position>
       <TranslationSet>
         <base loc="en">Contact Card</base>
-        <tran loc="es">Tarjeta de contacto</tran>
+        <tran loc="es-419">Tarjeta de contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -775,7 +775,7 @@
       <Position>Movie: %@</Position>
       <TranslationSet>
         <base loc="en">Movie: %@</base>
-        <tran loc="es">Película: %@</tran>
+        <tran loc="es-419">Película: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@
       <Position>Valid until %@</Position>
       <TranslationSet>
         <base loc="en">Valid until %@</base>
-        <tran loc="es">Válido hasta %@</tran>
+        <tran loc="es-419">Válido hasta: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -791,7 +791,7 @@
       <Position>Link: “%@” shared using iCloud Sharing</Position>
       <TranslationSet>
         <base loc="en">Link: “%@” shared using iCloud Sharing</base>
-        <tran loc="es">Enlace: “%@” compartido mediante Compartir en iCloud.</tran>
+        <tran loc="es-419">Enlace: “%@” compartido usando “Compartir con iCloud”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -799,7 +799,7 @@
       <Position>Word Document (file type)</Position>
       <TranslationSet>
         <base loc="en">Word Document</base>
-        <tran loc="es">Documento de Word</tran>
+        <tran loc="es-419">Documento de Word</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -807,7 +807,7 @@
       <Position>Podcast: %@</Position>
       <TranslationSet>
         <base loc="en">Podcast: %@</base>
-        <tran loc="es">Podcast: %@</tran>
+        <tran loc="es-419">Podcast: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -815,7 +815,7 @@
       <Position>Wallet</Position>
       <TranslationSet>
         <base loc="en">Wallet</base>
-        <tran loc="es">Wallet</tran>
+        <tran loc="es-419">Wallet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -823,7 +823,7 @@
       <Position>Photos: %@</Position>
       <TranslationSet>
         <base loc="en">Photos: %@</base>
-        <tran loc="es">Fotos: %@</tran>
+        <tran loc="es-419">Fotos: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -831,7 +831,7 @@
       <Position>Video (file type)</Position>
       <TranslationSet>
         <base loc="en">Video</base>
-        <tran loc="es">Vídeo</tran>
+        <tran loc="es-419">Video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -839,7 +839,7 @@
       <Position>Disk Image (file type)</Position>
       <TranslationSet>
         <base loc="en">Disk Image</base>
-        <tran loc="es">Imagen de disco</tran>
+        <tran loc="es-419">Imagen de disco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -847,7 +847,7 @@
       <Position>News: %@ via %@</Position>
       <TranslationSet>
         <base loc="en">News: %@ via %@</base>
-        <tran loc="es">News: %@ vía %@</tran>
+        <tran loc="es-419">News: %@ a través de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -855,7 +855,7 @@
       <Position>Book (file type)</Position>
       <TranslationSet>
         <base loc="en">Book</base>
-        <tran loc="es">Libro</tran>
+        <tran loc="es-419">Libro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -863,7 +863,7 @@
       <Position>Playlist: %@ – %@</Position>
       <TranslationSet>
         <base loc="en">Playlist: %@ – %@</base>
-        <tran loc="es">Lista de reproducción: %@ – %@</tran>
+        <tran loc="es-419">Lista: %@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -871,7 +871,7 @@
       <Position>Audio Recording (file type)</Position>
       <TranslationSet>
         <base loc="en">Audio Recording</base>
-        <tran loc="es">Grabación de audio</tran>
+        <tran loc="es-419">Grabación de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -879,7 +879,7 @@
       <Position>App Store</Position>
       <TranslationSet>
         <base loc="en">App Store</base>
-        <tran loc="es">App Store</tran>
+        <tran loc="es-419">App Store</tran>
       </TranslationSet>
     </TextItem>
   </File>

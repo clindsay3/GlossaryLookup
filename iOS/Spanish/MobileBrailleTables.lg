@@ -8,7 +8,7 @@
       <Position>ebupharma</Position>
       <TranslationSet>
         <base loc="en">EBU - Pharmaceutical</base>
-        <tran loc="es">EBU - Farmacéutico</tran>
+        <tran loc="es-419">EBU - Farmacéutica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ipa</Position>
       <TranslationSet>
         <base loc="en">International Phonetic Alphabet</base>
-        <tran loc="es">Alfabeto fonético internacional</tran>
+        <tran loc="es-419">Alfabético fonético internacional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>eng-xna</Position>
       <TranslationSet>
         <base loc="en">English (US)</base>
-        <tran loc="es">Inglés (Estados Unidos)</tran>
+        <tran loc="es-419">Inglés (EE.UU)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>nemeth</Position>
       <TranslationSet>
         <base loc="en">Nemeth</base>
-        <tran loc="es">Nemeth</tran>
+        <tran loc="es-419">Nemeth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +41,7 @@
       <Position>eng-xueb</Position>
       <TranslationSet>
         <base loc="en">English (Unified)</base>
-        <tran loc="es">Inglés (unificado)</tran>
+        <tran loc="es-419">Inglés (unificado)</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -52,7 +52,7 @@
       <Position>option.key</Position>
       <TranslationSet>
         <base loc="en">Option</base>
-        <tran loc="es">Opción</tran>
+        <tran loc="es-419">Opción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -66,7 +66,7 @@
       <Position>command.key</Position>
       <TranslationSet>
         <base loc="en">Command</base>
-        <tran loc="es">Comando</tran>
+        <tran loc="es-419">Comando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -74,7 +74,7 @@
       <Position>shift.key</Position>
       <TranslationSet>
         <base loc="en">Shift</base>
-        <tran loc="es">Mayúsculas</tran>
+        <tran loc="es-419">Mayús</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -82,7 +82,7 @@
       <Position>apple.logo</Position>
       <TranslationSet>
         <base loc="en">Apple</base>
-        <tran loc="es">Apple</tran>
+        <tran loc="es-419">Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -90,7 +90,7 @@
       <Position>control.key</Position>
       <TranslationSet>
         <base loc="en">Control</base>
-        <tran loc="es">Control</tran>
+        <tran loc="es-419">Control</tran>
       </TranslationSet>
     </TextItem>
   </File>

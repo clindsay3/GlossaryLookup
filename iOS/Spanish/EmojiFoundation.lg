@@ -14,7 +14,7 @@
       <Position>Recents</Position>
       <TranslationSet>
         <base loc="en">Recents</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>Travel &amp; Places Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Travel</base>
-        <tran loc="es">Viajes</tran>
+        <tran loc="es-419">Viajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>Activity Category</Position>
       <TranslationSet>
         <base loc="en">Activity</base>
-        <tran loc="es">Actividades</tran>
+        <tran loc="es-419">Actividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>Activity Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Activity</base>
-        <tran loc="es">Actividades</tran>
+        <tran loc="es-419">Actividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>People Category</Position>
       <TranslationSet>
         <base loc="en">Smileys &amp; People</base>
-        <tran loc="es">Emoticonos y personas</tran>
+        <tran loc="es-419">Caras y personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>Objects Category</Position>
       <TranslationSet>
         <base loc="en">Objects</base>
-        <tran loc="es">Objetos</tran>
+        <tran loc="es-419">Objetos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>Objects Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Objects</base>
-        <tran loc="es">Objetos</tran>
+        <tran loc="es-419">Objetos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>Food &amp; Drink Category</Position>
       <TranslationSet>
         <base loc="en">Food &amp; Drink</base>
-        <tran loc="es">Comida y bebida</tran>
+        <tran loc="es-419">Alimentos y bebidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>Frequently Used Category</Position>
       <TranslationSet>
         <base loc="en">Frequently Used</base>
-        <tran loc="es">Más usados</tran>
+        <tran loc="es-419">Más frecuentes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>Nature Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Nature</base>
-        <tran loc="es">Naturaleza</tran>
+        <tran loc="es-419">Naturaleza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>Objects &amp; Symbols Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Symbols</base>
-        <tran loc="es">Símbolos</tran>
+        <tran loc="es-419">Símbolos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>Symbols Category</Position>
       <TranslationSet>
         <base loc="en">Symbols</base>
-        <tran loc="es">Símbolos</tran>
+        <tran loc="es-419">Símbolos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>Symbols Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Symbols</base>
-        <tran loc="es">Símbolos</tran>
+        <tran loc="es-419">Símbolos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>Frequently Used Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Frequent</base>
-        <tran loc="es">Más usados</tran>
+        <tran loc="es-419">Frecuentes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>Objects &amp; Symbols Category</Position>
       <TranslationSet>
         <base loc="en">Objects &amp; Symbols</base>
-        <tran loc="es">Objetos y símbolos</tran>
+        <tran loc="es-419">Objetos y símbolos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>Flags Category</Position>
       <TranslationSet>
         <base loc="en">Flags</base>
-        <tran loc="es">Banderas</tran>
+        <tran loc="es-419">Banderas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>Flags Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Flags</base>
-        <tran loc="es">Banderas</tran>
+        <tran loc="es-419">Banderas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>Skin Tone Emoji Help</Position>
       <TranslationSet>
         <base loc="en">Some emoji now offer skin tone variations. You can choose a skin tone by tapping and holding on one of these emoji to change it from the default color.</base>
-        <tran loc="es">Ahora algunos emojis ofrecen variaciones del tono de piel. Mantén pulsado uno de esos emojis para elegir un tono de piel a partir del color por omisión.</tran>
+        <tran loc="es-419">Algunos emojis ahora incluyen otros tonos de piel. Para cambiar el tono predeterminado, mantén presionado uno de estos emojis.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>Recents Description</Position>
       <TranslationSet>
         <base loc="en">This section will automatically collect your most recent and frequently used icons.</base>
-        <tran loc="es">Esta sección recopilará los iconos más recientes y los usados con más frecuencia.</tran>
+        <tran loc="es-419">Esta sección recopilará los íconos más recientes y usados con más frecuencia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>Travel &amp; Places Category</Position>
       <TranslationSet>
         <base loc="en">Travel &amp; Places</base>
-        <tran loc="es">Viajes y destinos</tran>
+        <tran loc="es-419">Viajes y lugares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>Nature Category</Position>
       <TranslationSet>
         <base loc="en">Animals &amp; Nature</base>
-        <tran loc="es">Animales y naturaleza</tran>
+        <tran loc="es-419">Animales y naturaleza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>Food &amp; Drink Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Food</base>
-        <tran loc="es">Comida</tran>
+        <tran loc="es-419">Alimentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>Celebration Category</Position>
       <TranslationSet>
         <base loc="en">Celebration</base>
-        <tran loc="es">Celebración</tran>
+        <tran loc="es-419">Celebración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>Celebration Category Fallback</Position>
       <TranslationSet>
         <base loc="en">Celebration</base>
-        <tran loc="es">Celebración</tran>
+        <tran loc="es-419">Celebración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>People Category Fallback</Position>
       <TranslationSet>
         <base loc="en">People</base>
-        <tran loc="es">Personas</tran>
+        <tran loc="es-419">Personas</tran>
       </TranslationSet>
     </TextItem>
   </File>

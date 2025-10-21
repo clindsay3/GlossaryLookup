@@ -8,7 +8,7 @@
       <Position>MARK_AS_COMPLETE_MESSAGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Great Job! You finished \U201C%@\U201D from %@.</base>
-        <tran loc="es">¡Buen trabajo! Has terminado \U201C%@\U201D de %@.</tran>
+        <tran loc="es-419">¡Buen trabajo! Terminaste \U201C%@\U201D de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>UNTITLED_CLASS</Position>
       <TranslationSet>
         <base loc="en">Untitled Class</base>
-        <tran loc="es">Clase sin título</tran>
+        <tran loc="es-419">Clase sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>TRANSPARENCY_BANNER_MESSAGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Your progress on assigned activities in %@ will be shared with teachers in the following classes: %@</base>
-        <tran loc="es">Tu progreso en las actividades asignadas en %@ se compartirá con los profesores de estas clases: %@</tran>
+        <tran loc="es-419">Tu avance en las actividades asignadas en %@ se compartirá con los profesores de las siguientes clases: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>TRANSPARENCY_BANNER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Student Progress</base>
-        <tran loc="es">Progreso del estudiante</tran>
+        <tran loc="es-419">Avance del estudiante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>MARK_AS_COMPLETE_BANNER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Activity Done!</base>
-        <tran loc="es">Actividad terminada</tran>
+        <tran loc="es-419">¡Actividad terminada!</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -57,7 +57,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Student Progress</base>
-        <tran loc="es">Progreso del estudiante</tran>
+        <tran loc="es-419">Avance del estudiante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -79,7 +79,7 @@
       <Position>ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your progress is recorded on activities your teacher assigns in Schoolwork. To find out more, ask your teacher or go to Settings.</base>
-        <tran loc="es">Tu progreso en las actividades que te asigne tu profesor en Tareas de Clase queda registrado. Para obtener más información, consulta a tu profesor o ve a Ajustes.</tran>
+        <tran loc="es-419">Se registró tu progreso en actividades que tu profesor asignó en Tareas Escolares. Si quieres más información, pregúntale a tu profesor o revisa en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -87,7 +87,7 @@
       <Position>Settings</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -98,7 +98,7 @@
       <Position>APPLE_ID_FIELD_LABEL</Position>
       <TranslationSet>
         <base loc="en">Apple ID:</base>
-        <tran loc="es">ID de Apple:</tran>
+        <tran loc="es-419">Apple ID:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>ALLOW_BROWSE_SYNC_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sync App Activities</base>
-        <tran loc="es">Sincronizar actividades de app</tran>
+        <tran loc="es-419">Sincronizar actividades</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>True</Position>
       <TranslationSet>
         <base loc="en">True</base>
-        <tran loc="es">Verdadero</tran>
+        <tran loc="es-419">Verdadero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>Not Yet</Position>
       <TranslationSet>
         <base loc="en">Not Yet</base>
-        <tran loc="es">Todavía no</tran>
+        <tran loc="es-419">Aún no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>False</Position>
       <TranslationSet>
         <base loc="en">False</base>
-        <tran loc="es">Falso</tran>
+        <tran loc="es-419">Falso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>STUDENT_ACTIVITY_FOOTER_ABOUT_CLASSKIT_LINK</Position>
       <TranslationSet>
         <base loc="en">About ClassKit &amp; Privacy…</base>
-        <tran loc="es">Acerca de ClassKit y la privacidad…</tran>
+        <tran loc="es-419">ClassKit y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>Incorrect</Position>
       <TranslationSet>
         <base loc="en">Incorrect</base>
-        <tran loc="es">Incorrecto</tran>
+        <tran loc="es-419">Incorrecto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>No</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>Progress</Position>
       <TranslationSet>
         <base loc="en">Progress</base>
-        <tran loc="es">Progreso</tran>
+        <tran loc="es-419">Avance</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>ALLOW_BROWSE_SYNC_HEADER</Position>
       <TranslationSet>
         <base loc="en">Syncing</base>
-        <tran loc="es">Sincronización</tran>
+        <tran loc="es-419">Sincronización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>Correct</Position>
       <TranslationSet>
         <base loc="en">Correct</base>
-        <tran loc="es">Correcto</tran>
+        <tran loc="es-419">Correcto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>ALLOW_BROWSE_SYNC_FOOTER</Position>
       <TranslationSet>
         <base loc="en">If enabled, you will be able to easily assign an app activity you\U2019ve recently viewed to students from any device.</base>
-        <tran loc="es">Si esta opción está activada, podrás asignar fácilmente y desde cualquier dispositivo una actividad de la app que hayas visto recientemente a los estudiantes.</tran>
+        <tran loc="es-419">Si se activa, podrás asignarle rápidamente a estudiantes alguna actividad de app que hayas visto recientemente desde cualquier dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>Pass</Position>
       <TranslationSet>
         <base loc="en">Pass</base>
-        <tran loc="es">Aprobado</tran>
+        <tran loc="es-419">Aprobada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>DATE_AND_CONTEXT_TYPE</Position>
       <TranslationSet>
         <base loc="en">%@ – %@</base>
-        <tran loc="es">%@ – %@</tran>
+        <tran loc="es-419">%@ – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>Time</Position>
       <TranslationSet>
         <base loc="en">Time</base>
-        <tran loc="es">Tiempo</tran>
+        <tran loc="es-419">Hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>Yes</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>Show More</Position>
       <TranslationSet>
         <base loc="en">Show More</base>
-        <tran loc="es">Mostrar más</tran>
+        <tran loc="es-419">Mostrar más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>STUDENT_ACTIVITY_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Your progress is recorded on activities your teacher assigns in Schoolwork. To find out more, or to stop sharing your progress, contact your school. About ClassKit &amp; Privacy…</base>
-        <tran loc="es">Tu progreso en las actividades que te asigne tu profesor en Tareas de Clase queda registrado. Para obtener más información o para dejar de compartir tu progreso, ponte en contacto con tu centro educativo. Acerca de ClassKit y la privacidad…</tran>
+        <tran loc="es-419">Se registró tu progreso en actividades que tu profesor asignó en Tareas Escolares. Si quieres más información o dejar de compartir tu avance, comunícate con tu institución educativa. Acerca de ClassKit y la privacidad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>STUDENT_ACTIVITY_HEADER</Position>
       <TranslationSet>
         <base loc="en">Activities your teacher assigned in Schoolwork</base>
-        <tran loc="es">Actividades que te ha asignado tu profesor en Tareas de Clase</tran>
+        <tran loc="es-419">Actividades que tu profesor asignó en Tareas Escolares</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -266,7 +266,7 @@
       <Position>ACT_AS</Position>
       <TranslationSet>
         <base loc="en">Act as other role</base>
-        <tran loc="es">Cambiar de función</tran>
+        <tran loc="es-419">ClassKit y la privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -274,7 +274,7 @@
       <Position>ACT_AS_STUDENT</Position>
       <TranslationSet>
         <base loc="en">Student</base>
-        <tran loc="es">Estudiante</tran>
+        <tran loc="es-419">Estudiante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>RESET_DATA</Position>
       <TranslationSet>
         <base loc="en">Reset Development Data</base>
-        <tran loc="es">Restablecer los datos de desarrollo</tran>
+        <tran loc="es-419">Restablecer datos de desarrollo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>ACT_AS_TEACHER</Position>
       <TranslationSet>
         <base loc="en">Teacher</base>
-        <tran loc="es">Profesor</tran>
+        <tran loc="es-419">Profesor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>ACT_AS_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>

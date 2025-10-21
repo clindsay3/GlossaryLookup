@@ -8,7 +8,7 @@
       <Position>FOLLOW_UP_SPECIFIER_LABEL</Position>
       <TranslationSet>
         <base loc="en">Follow Ups</base>
-        <tran loc="es">Pendiente</tran>
+        <tran loc="es-419">Pendientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>CHANGE_PASSWORD_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">If you think someone is trying to sign in with your Apple ID,\nyou should change your password.</base>
-        <tran loc="es">Si crees que alguien está intentando iniciar sesión con tu\nID de Apple, deberías cambiar la contraseña.</tran>
+        <tran loc="es-419">Si crees que alguien intentó iniciar sesión con tu Apple ID,\nes aconsejable cambiar tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>SERVER_ERROR</Position>
       <TranslationSet>
         <base loc="en">There was a problem connecting to the server.</base>
-        <tran loc="es">Ha habido un problema al conectarse al servidor.</tran>
+        <tran loc="es-419">Ocurrió un problema al conectar con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>MULTI_FOLLOW_LIST_TITLE</Position>
       <TranslationSet>
         <base loc="en">Device Settings Suggestions</base>
-        <tran loc="es">Sugerencias de ajustes del dispositivo</tran>
+        <tran loc="es-419">Sugerencias de configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>FOLLOW_UP_SINGLE_BUTTON_ACTIVATE_LABEL</Position>
       <TranslationSet>
         <base loc="en">View</base>
-        <tran loc="es">Ver</tran>
+        <tran loc="es-419">Ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>MULTI_FOLLOW_LIST_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone Settings Suggestions</base>
-        <tran loc="es">Sugerencias de ajustes del iPhone</tran>
+        <tran loc="es-419">Sugerencias de configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>AIRPLANE_MODE_DISABLE_DEFAULT_ACTION</Position>
       <TranslationSet>
         <base loc="en">Turn Off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>CHANGE_PASSWORD_NOT_NOW</Position>
       <TranslationSet>
         <base loc="en">Don’t Change</base>
-        <tran loc="es">No cambiar</tran>
+        <tran loc="es-419">No cambiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>NOTIFICATION_NOT_NOW_DEFAULT_VALUE</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>MULTI_FOLLOW_LIST_TITLE_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">iPod touch Settings Suggestions</base>
-        <tran loc="es">Sugerencias de ajustes del iPod touch</tran>
+        <tran loc="es-419">Sugerencias de configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>ACCOUNT_MULTI_FOLLOW_LIST_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID Suggestions</base>
-        <tran loc="es">Sugerencias del ID de Apple</tran>
+        <tran loc="es-419">Sugerencias de Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>MULTI_FOLLOW_LIST_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Settings Suggestions</base>
-        <tran loc="es">Sugerencias de ajustes del iPad</tran>
+        <tran loc="es-419">Sugerencias de configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>AIRPLANE_MODE_DISABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn Off Airplane Mode or Use Wi-Fi to Continue</base>
-        <tran loc="es">Desactiva el modo Avión o usa Wi-Fi para continuar</tran>
+        <tran loc="es-419">Desactiva “Modo de vuelo” o usa Wi-Fi para reanudar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>VERIFICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>CHANGE_PASSWORD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do you want to change your password?</base>
-        <tran loc="es">¿Quieres cambiar la contraseña?</tran>
+        <tran loc="es-419">¿Quieres cambiar tu contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>CHANGE_PASSWORD_CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Change Password</base>
-        <tran loc="es">Cambiar contraseña</tran>
+        <tran loc="es-419">Cambiar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>FOLLOW_UP_NOTIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>

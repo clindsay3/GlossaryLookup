@@ -8,7 +8,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.67585</Position>
       <TranslationSet>
         <base loc="en">F8</base>
-        <tran loc="es">F8</tran>
+        <tran loc="es-419">F8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.mb248.24</Position>
       <TranslationSet>
         <base loc="en">MDV MB248</base>
-        <tran loc="es">MDV MB248</tran>
+        <tran loc="es-419">MDV MB248</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2010-2015 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2010-2015 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2010-2015 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.66561</Position>
       <TranslationSet>
         <base loc="en">F4</base>
-        <tran loc="es">F4</tran>
+        <tran loc="es-419">F4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.68353</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.67073</Position>
       <TranslationSet>
         <base loc="en">F6</base>
-        <tran loc="es">F6</tran>
+        <tran loc="es-419">F6</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.68097</Position>
       <TranslationSet>
         <base loc="en">F0</base>
-        <tran loc="es">F0</tran>
+        <tran loc="es-419">F0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.mb408l.40</Position>
       <TranslationSet>
         <base loc="en">MDV MB408L</base>
-        <tran loc="es">MDV MB408L</tran>
+        <tran loc="es-419">MDV MB408L</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.66049</Position>
       <TranslationSet>
         <base loc="en">F2</base>
-        <tran loc="es">F2</tran>
+        <tran loc="es-419">F2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.68609</Position>
       <TranslationSet>
         <base loc="en">Up</base>
-        <tran loc="es">Arriba</tran>
+        <tran loc="es-419">Arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.68865</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.67841</Position>
       <TranslationSet>
         <base loc="en">F9</base>
-        <tran loc="es">F9</tran>
+        <tran loc="es-419">F9</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.69121</Position>
       <TranslationSet>
         <base loc="en">Down</base>
-        <tran loc="es">Abajo</tran>
+        <tran loc="es-419">Abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.67329</Position>
       <TranslationSet>
         <base loc="en">F7</base>
-        <tran loc="es">F7</tran>
+        <tran loc="es-419">F7</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.81665</Position>
       <TranslationSet>
         <base loc="en">Shift</base>
-        <tran loc="es">Mayús</tran>
+        <tran loc="es-419">Mayús</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.66817</Position>
       <TranslationSet>
         <base loc="en">F5</base>
-        <tran loc="es">F5</tran>
+        <tran loc="es-419">F5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.66305</Position>
       <TranslationSet>
         <base loc="en">F3</base>
-        <tran loc="es">F3</tran>
+        <tran loc="es-419">F3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>com.apple.scrod.braille.driver.mdv.65793</Position>
       <TranslationSet>
         <base loc="en">F1</base>
-        <tran loc="es">F1</tran>
+        <tran loc="es-419">F1</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -171,7 +171,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.apex.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.apex.66305</Position>
       <TranslationSet>
         <base loc="en">Thumb 4</base>
-        <tran loc="es">Tecla pulgar 4</tran>
+        <tran loc="es-419">Tecla pulgar 4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.apex.18</Position>
       <TranslationSet>
         <base loc="en">Humanware BrailleNote Apex 18</base>
-        <tran loc="es">Humanware BrailleNote Apex 18</tran>
+        <tran loc="es-419">Humanware BrailleNote Apex 18</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.apex.32</Position>
       <TranslationSet>
         <base loc="en">Humanware BrailleNote Apex 32</base>
-        <tran loc="es">Humanware BrailleNote Apex 32</tran>
+        <tran loc="es-419">Humanware BrailleNote Apex 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.apex.65793</Position>
       <TranslationSet>
         <base loc="en">Thumb 2</base>
-        <tran loc="es">Tecla pulgar 2</tran>
+        <tran loc="es-419">Tecla pulgar 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2010 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2010 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2010 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.apex.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.apex.66049</Position>
       <TranslationSet>
         <base loc="en">Thumb 3</base>
-        <tran loc="es">Tecla pulgar 3</tran>
+        <tran loc="es-419">Tecla pulgar 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.apex.65537</Position>
       <TranslationSet>
         <base loc="en">Thumb 1</base>
-        <tran loc="es">Tecla pulgar 1</tran>
+        <tran loc="es-419">Tecla pulgar 1</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -246,7 +246,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.actilino</Position>
       <TranslationSet>
         <base loc="en">Handy Tech Actilino</base>
-        <tran loc="es">Handy Tech Actilino</tran>
+        <tran loc="es-419">Handy Tech Actilino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.65793</Position>
       <TranslationSet>
         <base loc="en">B12</base>
-        <tran loc="es">B12</tran>
+        <tran loc="es-419">B12</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.68353</Position>
       <TranslationSet>
         <base loc="en">Right Up</base>
-        <tran loc="es">Derecha arriba</tran>
+        <tran loc="es-419">Derecha arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.66305</Position>
       <TranslationSet>
         <base loc="en">Left Up</base>
-        <tran loc="es">Izquierda arriba</tran>
+        <tran loc="es-419">Izquierda arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.basic.braille.32</Position>
       <TranslationSet>
         <base loc="en">HandyTech Basic Braille 32</base>
-        <tran loc="es">HandyTech Basic Braille 32</tran>
+        <tran loc="es-419">HandyTech Basic Braille 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.66049</Position>
       <TranslationSet>
         <base loc="en">B10</base>
-        <tran loc="es">B10</tran>
+        <tran loc="es-419">B10</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.73217</Position>
       <TranslationSet>
         <base loc="en">9</base>
-        <tran loc="es">9</tran>
+        <tran loc="es-419">9</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.basic.braille.20</Position>
       <TranslationSet>
         <base loc="en">HandyTech Basic Braille 20</base>
-        <tran loc="es">HandyTech Basic Braille 20</tran>
+        <tran loc="es-419">HandyTech Basic Braille 20</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.70145</Position>
       <TranslationSet>
         <base loc="en">B9</base>
-        <tran loc="es">B9</tran>
+        <tran loc="es-419">B9</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.easy.braille.40</Position>
       <TranslationSet>
         <base loc="en">Handy Tech Easy Braille</base>
-        <tran loc="es">Handy Tech Easy Braille</tran>
+        <tran loc="es-419">Handy Tech Easy Braille</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.68865</Position>
       <TranslationSet>
         <base loc="en">B14</base>
-        <tran loc="es">B14</tran>
+        <tran loc="es-419">B14</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.72961</Position>
       <TranslationSet>
         <base loc="en">3</base>
-        <tran loc="es">3</tran>
+        <tran loc="es-419">3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.67329</Position>
       <TranslationSet>
         <base loc="en">Left Down</base>
-        <tran loc="es">Izquierda abajo</tran>
+        <tran loc="es-419">Izquierda abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.braille.star.40</Position>
       <TranslationSet>
         <base loc="en">Handy Tech Braille Star 40</base>
-        <tran loc="es">Handy Tech Braille Star 40</tran>
+        <tran loc="es-419">Handy Tech Braille Star 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.76289</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.70913</Position>
       <TranslationSet>
         <base loc="en">1</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.71169</Position>
       <TranslationSet>
         <base loc="en">7</base>
-        <tran loc="es">7</tran>
+        <tran loc="es-419">7</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.basic.braille.80</Position>
       <TranslationSet>
         <base loc="en">HandyTech Basic Braille 80</base>
-        <tran loc="es">HandyTech Basic Braille 80</tran>
+        <tran loc="es-419">HandyTech Basic Braille 80</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.68097</Position>
       <TranslationSet>
         <base loc="en">5</base>
-        <tran loc="es">5</tran>
+        <tran loc="es-419">5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.basic.braille.16</Position>
       <TranslationSet>
         <base loc="en">HandyTech Basic Braille 16</base>
-        <tran loc="es">HandyTech Basic Braille 16</tran>
+        <tran loc="es-419">HandyTech Basic Braille 16</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.active.star.40</Position>
       <TranslationSet>
         <base loc="en">Handy Tech Active Star 40</base>
-        <tran loc="es">Handy Tech Active Star 40</tran>
+        <tran loc="es-419">Handy Tech Active Star 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -422,7 +422,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.activator.40</Position>
       <TranslationSet>
         <base loc="en">Handy Tech Activator 40</base>
-        <tran loc="es">Handy Tech Activator 40</tran>
+        <tran loc="es-419">Handy Tech Activator 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -430,7 +430,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.69889</Position>
       <TranslationSet>
         <base loc="en">B11</base>
-        <tran loc="es">B11</tran>
+        <tran loc="es-419">B11</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.72193</Position>
       <TranslationSet>
         <base loc="en">8</base>
-        <tran loc="es">8</tran>
+        <tran loc="es-419">8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -446,7 +446,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.67841</Position>
       <TranslationSet>
         <base loc="en">B13</base>
-        <tran loc="es">B13</tran>
+        <tran loc="es-419">B13</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.basic.braille.64</Position>
       <TranslationSet>
         <base loc="en">HandyTech Basic Braille 64</base>
-        <tran loc="es">HandyTech Basic Braille 64</tran>
+        <tran loc="es-419">HandyTech Basic Braille 64</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.76545</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.69377</Position>
       <TranslationSet>
         <base loc="en">Right Down</base>
-        <tran loc="es">Derecha abajo</tran>
+        <tran loc="es-419">Derecha abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -478,7 +478,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2008-2013 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2008-2013 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2008-2013 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -486,7 +486,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.basic.braille.48</Position>
       <TranslationSet>
         <base loc="en">HandyTech Basic Braille 48</base>
-        <tran loc="es">HandyTech Basic Braille 48</tran>
+        <tran loc="es-419">HandyTech Basic Braille 48</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -494,7 +494,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.braillino.20</Position>
       <TranslationSet>
         <base loc="en">Handy Tech Braillino</base>
-        <tran loc="es">Handy Tech Braillino</tran>
+        <tran loc="es-419">Handy Tech Braillino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -502,7 +502,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.66817</Position>
       <TranslationSet>
         <base loc="en">0</base>
-        <tran loc="es">0</tran>
+        <tran loc="es-419">0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -510,7 +510,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -518,7 +518,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.71937</Position>
       <TranslationSet>
         <base loc="en">2</base>
-        <tran loc="es">2</tran>
+        <tran loc="es-419">2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -526,7 +526,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.active.braille.40</Position>
       <TranslationSet>
         <base loc="en">Handy Tech Active Braille 40</base>
-        <tran loc="es">Handy Tech Active Braille 40</tran>
+        <tran loc="es-419">Handy Tech Active Braille 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -534,7 +534,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.67073</Position>
       <TranslationSet>
         <base loc="en">4</base>
-        <tran loc="es">4</tran>
+        <tran loc="es-419">4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -542,7 +542,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.braille.wave.40</Position>
       <TranslationSet>
         <base loc="en">Handy Tech Braille Wave</base>
-        <tran loc="es">Handy Tech Braille Wave</tran>
+        <tran loc="es-419">Handy Tech Braille Wave</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -550,7 +550,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.basic.braille.40</Position>
       <TranslationSet>
         <base loc="en">HandyTech Basic Braille 40</base>
-        <tran loc="es">HandyTech Basic Braille 40</tran>
+        <tran loc="es-419">HandyTech Basic Braille 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -558,7 +558,7 @@
       <Position>com.apple.scrod.braille.driver.handytech.69121</Position>
       <TranslationSet>
         <base loc="en">6</base>
-        <tran loc="es">6</tran>
+        <tran loc="es-419">6</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -569,7 +569,7 @@
       <Position>com.apple.scrod.braille.driver.baum.67073</Position>
       <TranslationSet>
         <base loc="en">Joystick Up</base>
-        <tran loc="es">Palanca arriba</tran>
+        <tran loc="es-419">Palanca arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>com.apple.scrod.braille.driver.baum.66305</Position>
       <TranslationSet>
         <base loc="en">D4</base>
-        <tran loc="es">D4</tran>
+        <tran loc="es-419">D4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>com.apple.scrod.braille.driver.baum.66817</Position>
       <TranslationSet>
         <base loc="en">D6</base>
-        <tran loc="es">D6</tran>
+        <tran loc="es-419">D6</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>com.apple.scrod.braille.driver.baum.67329</Position>
       <TranslationSet>
         <base loc="en">Joystick Left</base>
-        <tran loc="es">Palanca izquierda</tran>
+        <tran loc="es-419">Palanca izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>com.apple.scrod.braille.driver.baum.vario.ultra.20</Position>
       <TranslationSet>
         <base loc="en">Baum Vario Ultra 20</base>
-        <tran loc="es">Baum Vario Ultra 20</tran>
+        <tran loc="es-419">Baum Vario Ultra 20</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>com.apple.scrod.braille.driver.baum.pocketvario.14</Position>
       <TranslationSet>
         <base loc="en">Baum PocketVario 14</base>
-        <tran loc="es">Baum PocketVario 14</tran>
+        <tran loc="es-419">Baum PocketVario 14</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>com.apple.scrod.braille.driver.baum.aph.refreshabraille.18</Position>
       <TranslationSet>
         <base loc="en">APH Refreshabraille 18</base>
-        <tran loc="es">APH Refreshabraille 18</tran>
+        <tran loc="es-419">APH Refreshabraille 18</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@
       <Position>com.apple.scrod.braille.driver.baum.varioconnect.40</Position>
       <TranslationSet>
         <base loc="en">Baum VarioConnect 40</base>
-        <tran loc="es">Baum VarioConnect 40</tran>
+        <tran loc="es-419">Baum VarioConnect 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +633,7 @@
       <Position>com.apple.scrod.braille.driver.baum.vario.ultra.32</Position>
       <TranslationSet>
         <base loc="en">Baum Vario Ultra 32</base>
-        <tran loc="es">Baum Vario Ultra 32</tran>
+        <tran loc="es-419">Baum Vario Ultra 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +641,7 @@
       <Position>com.apple.scrod.braille.driver.baum.65793</Position>
       <TranslationSet>
         <base loc="en">D2</base>
-        <tran loc="es">D2</tran>
+        <tran loc="es-419">D2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +649,7 @@
       <Position>com.apple.scrod.braille.driver.baum.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@
       <Position>com.apple.scrod.braille.driver.baum.orbit.reader.20</Position>
       <TranslationSet>
         <base loc="en">Orbit Reader 20</base>
-        <tran loc="es">Orbit Reader 20</tran>
+        <tran loc="es-419">Orbit Reader 20</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@
       <Position>com.apple.scrod.braille.driver.baum.pocketvario.24</Position>
       <TranslationSet>
         <base loc="en">Baum PocketVario 24</base>
-        <tran loc="es">Baum PocketVario 24</tran>
+        <tran loc="es-419">Baum PocketVario 24</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@
       <Position>com.apple.scrod.braille.driver.baum.69121</Position>
       <TranslationSet>
         <base loc="en">F4</base>
-        <tran loc="es">F4</tran>
+        <tran loc="es-419">F4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +681,7 @@
       <Position>com.apple.scrod.braille.driver.baum.82177</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +689,7 @@
       <Position>com.apple.scrod.braille.driver.baum.supervario.32</Position>
       <TranslationSet>
         <base loc="en">Baum SuperVario 24</base>
-        <tran loc="es">Baum SuperVario 24</tran>
+        <tran loc="es-419">Baum SuperVario 24</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +697,7 @@
       <Position>com.apple.scrod.braille.driver.baum.supervario.40</Position>
       <TranslationSet>
         <base loc="en">Baum SuperVario 24</base>
-        <tran loc="es">Baum SuperVario 24</tran>
+        <tran loc="es-419">Baum SuperVario 24</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +705,7 @@
       <Position>com.apple.scrod.braille.driver.baum.supervario.64</Position>
       <TranslationSet>
         <base loc="en">Baum SuperVario 24</base>
-        <tran loc="es">Baum SuperVario 24</tran>
+        <tran loc="es-419">Baum SuperVario 24</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +713,7 @@
       <Position>com.apple.scrod.braille.driver.baum.supervario.80</Position>
       <TranslationSet>
         <base loc="en">Baum SuperVario 24</base>
-        <tran loc="es">Baum SuperVario 24</tran>
+        <tran loc="es-419">Baum SuperVario 24</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +721,7 @@
       <Position>com.apple.scrod.braille.driver.baum.pronto.18</Position>
       <TranslationSet>
         <base loc="en">Baum Pronto! 18</base>
-        <tran loc="es">Baum Pronto! 18</tran>
+        <tran loc="es-419">Baum Pronto! 18</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +729,7 @@
       <Position>com.apple.scrod.braille.driver.baum.82689</Position>
       <TranslationSet>
         <base loc="en">Power</base>
-        <tran loc="es">Encendido</tran>
+        <tran loc="es-419">Encendido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>com.apple.scrod.braille.driver.baum.68609</Position>
       <TranslationSet>
         <base loc="en">F2</base>
-        <tran loc="es">F2</tran>
+        <tran loc="es-419">F2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -745,7 +745,7 @@
       <Position>com.apple.scrod.braille.driver.baum.varioconnect.12</Position>
       <TranslationSet>
         <base loc="en">Baum VarioConnect 12</base>
-        <tran loc="es">Baum VarioConnect 12</tran>
+        <tran loc="es-419">Baum VarioConnect 12</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -753,7 +753,7 @@
       <Position>com.apple.scrod.braille.driver.baum.67585</Position>
       <TranslationSet>
         <base loc="en">Joystick Down</base>
-        <tran loc="es">Palanca abajo</tran>
+        <tran loc="es-419">Palanca abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -761,7 +761,7 @@
       <Position>com.apple.scrod.braille.driver.baum.68097</Position>
       <TranslationSet>
         <base loc="en">Joystick Press</base>
-        <tran loc="es">Palanca pulsación</tran>
+        <tran loc="es-419">Palanca presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -769,7 +769,7 @@
       <Position>com.apple.scrod.braille.driver.baum.66561</Position>
       <TranslationSet>
         <base loc="en">D5</base>
-        <tran loc="es">D5</tran>
+        <tran loc="es-419">D5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -777,7 +777,7 @@
       <Position>com.apple.scrod.braille.driver.baum.pronto.40</Position>
       <TranslationSet>
         <base loc="en">Baum Pronto! 40</base>
-        <tran loc="es">Baum Pronto! 40</tran>
+        <tran loc="es-419">Baum Pronto! 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -785,7 +785,7 @@
       <Position>com.apple.scrod.braille.driver.baum.66049</Position>
       <TranslationSet>
         <base loc="en">D3</base>
-        <tran loc="es">D3</tran>
+        <tran loc="es-419">D3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -793,7 +793,7 @@
       <Position>com.apple.scrod.braille.driver.baum.67841</Position>
       <TranslationSet>
         <base loc="en">Joystick Right</base>
-        <tran loc="es">Palanca derecha</tran>
+        <tran loc="es-419">Palanca derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -801,7 +801,7 @@
       <Position>com.apple.scrod.braille.driver.baum.82433</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -809,7 +809,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2010-2012 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2010-2012 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2010-2012 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -817,7 +817,7 @@
       <Position>com.apple.scrod.braille.driver.baum.65537</Position>
       <TranslationSet>
         <base loc="en">D1</base>
-        <tran loc="es">D1</tran>
+        <tran loc="es-419">D1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -825,7 +825,7 @@
       <Position>com.apple.scrod.braille.driver.baum.varioconnect.32</Position>
       <TranslationSet>
         <base loc="en">Baum VarioConnect 32</base>
-        <tran loc="es">Baum VarioConnect 32</tran>
+        <tran loc="es-419">Baum VarioConnect 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -833,7 +833,7 @@
       <Position>com.apple.scrod.braille.driver.baum.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -841,7 +841,7 @@
       <Position>com.apple.scrod.braille.driver.baum.vario.ultra.40</Position>
       <TranslationSet>
         <base loc="en">Baum Vario Ultra 40</base>
-        <tran loc="es">Baum Vario Ultra 40</tran>
+        <tran loc="es-419">Baum Vario Ultra 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -849,7 +849,7 @@
       <Position>com.apple.scrod.braille.driver.baum.varioconnect.24</Position>
       <TranslationSet>
         <base loc="en">Baum VarioConnect 24</base>
-        <tran loc="es">Baum VarioConnect 24</tran>
+        <tran loc="es-419">Baum VarioConnect 24</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -857,7 +857,7 @@
       <Position>com.apple.scrod.braille.driver.baum.68865</Position>
       <TranslationSet>
         <base loc="en">F3</base>
-        <tran loc="es">F3</tran>
+        <tran loc="es-419">F3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -865,7 +865,7 @@
       <Position>com.apple.scrod.braille.driver.baum.68353</Position>
       <TranslationSet>
         <base loc="en">F1</base>
-        <tran loc="es">F1</tran>
+        <tran loc="es-419">F1</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -876,7 +876,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -884,7 +884,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2010-2015 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2010-2015 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2010-2015 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -892,7 +892,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.66305</Position>
       <TranslationSet>
         <base loc="en">F4</base>
-        <tran loc="es">F4</tran>
+        <tran loc="es-419">F4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -900,7 +900,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.smart.beetle.14</Position>
       <TranslationSet>
         <base loc="en">HIMS Smart Beetle 14</base>
-        <tran loc="es">HIMS Smart Beetle 14</tran>
+        <tran loc="es-419">HIMS Smart Beetle 14</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.65793</Position>
       <TranslationSet>
         <base loc="en">F2</base>
-        <tran loc="es">F2</tran>
+        <tran loc="es-419">F2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.66817</Position>
       <TranslationSet>
         <base loc="en">Scroll Right</base>
-        <tran loc="es">Desplazamiento derecha</tran>
+        <tran loc="es-419">Desplazamiento derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -924,7 +924,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -932,7 +932,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.66561</Position>
       <TranslationSet>
         <base loc="en">Scroll Left</base>
-        <tran loc="es">Desplazamiento izquierda</tran>
+        <tran loc="es-419">Desplazamiento izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -940,7 +940,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.18</Position>
       <TranslationSet>
         <base loc="en">HIMS Braille Sense 18</base>
-        <tran loc="es">HIMS Braille Sense 18</tran>
+        <tran loc="es-419">HIMS Braille Sense 18</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -948,7 +948,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.66049</Position>
       <TranslationSet>
         <base loc="en">F3</base>
-        <tran loc="es">F3</tran>
+        <tran loc="es-419">F3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -956,7 +956,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.32</Position>
       <TranslationSet>
         <base loc="en">HIMS Braille Sense 32</base>
-        <tran loc="es">HIMS Braille Sense 32</tran>
+        <tran loc="es-419">HIMS Braille Sense 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -964,7 +964,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braillesense.65537</Position>
       <TranslationSet>
         <base loc="en">F1</base>
-        <tran loc="es">F1</tran>
+        <tran loc="es-419">F1</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -975,7 +975,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.71425</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad 1</base>
-        <tran loc="es">Tecla Smartpad 1 izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad 1 izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -983,7 +983,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.68097</Position>
       <TranslationSet>
         <base loc="en">Smartpad 2</base>
-        <tran loc="es">Tecla Smartpad 2</tran>
+        <tran loc="es-419">Tecla Smartpad 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -991,7 +991,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.73217</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad 3</base>
-        <tran loc="es">Tecla Smartpad 3 izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad 3 izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -999,7 +999,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.69889</Position>
       <TranslationSet>
         <base loc="en">Smartpad 4</base>
-        <tran loc="es">Tecla Smartpad 4</tran>
+        <tran loc="es-419">Tecla Smartpad 4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1007,7 +1007,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.72193</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad Enter</base>
-        <tran loc="es">Tecla Smartpad intro izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad intro izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1015,7 +1015,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.70657</Position>
       <TranslationSet>
         <base loc="en">Thumb 8</base>
-        <tran loc="es">Tecla pulgar 8</tran>
+        <tran loc="es-419">Tecla pulgar 8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1023,7 +1023,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.67329</Position>
       <TranslationSet>
         <base loc="en">eTouch 3</base>
-        <tran loc="es">Tecla eTouch 3</tran>
+        <tran loc="es-419">Tecla eTouch 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1031,7 +1031,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.BC640</Position>
       <TranslationSet>
         <base loc="en">Alva BC640</base>
-        <tran loc="es">Alva BC640</tran>
+        <tran loc="es-419">Alva BC640</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1039,7 +1039,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.74753</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad Up</base>
-        <tran loc="es">Tecla Smartpad arriba derecha</tran>
+        <tran loc="es-419">Tecla Smartpad arriba derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1047,7 +1047,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.66305</Position>
       <TranslationSet>
         <base loc="en">Thumb 4</base>
-        <tran loc="es">Tecla pulgar 4</tran>
+        <tran loc="es-419">Tecla pulgar 4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1055,7 +1055,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.65552</Position>
       <TranslationSet>
         <base loc="en">Router Row 2</base>
-        <tran loc="es">Fila de direccionamiento 2</tran>
+        <tran loc="es-419">Fila de direccionamiento 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1063,7 +1063,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.66817</Position>
       <TranslationSet>
         <base loc="en">eTouch 1</base>
-        <tran loc="es">Tecla eTouch 1</tran>
+        <tran loc="es-419">Tecla eTouch 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1071,7 +1071,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.75777</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad 4</base>
-        <tran loc="es">Tecla Smartpad 4 derecha</tran>
+        <tran loc="es-419">Tecla Smartpad 4 derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1079,7 +1079,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.70145</Position>
       <TranslationSet>
         <base loc="en">Thumb 6</base>
-        <tran loc="es">Tecla pulgar 6</tran>
+        <tran loc="es-419">Tecla pulgar 6</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1087,7 +1087,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.74241</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad Left</base>
-        <tran loc="es">Tecla Smartpad izquierda derecha</tran>
+        <tran loc="es-419">Tecla Smartpad izquierda derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1095,7 +1095,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.68353</Position>
       <TranslationSet>
         <base loc="en">Smartpad Left</base>
-        <tran loc="es">Tecla Smartpad izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1103,7 +1103,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.73985</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad 2</base>
-        <tran loc="es">Tecla Smartpad 2 derecha</tran>
+        <tran loc="es-419">Tecla Smartpad 2 derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1111,7 +1111,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.71937</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad Left</base>
-        <tran loc="es">Tecla Smartpad izquierda izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad izquierda izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1119,7 +1119,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.72961</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad Right</base>
-        <tran loc="es">Tecla Smartpad derecha izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad derecha izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1127,7 +1127,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.65555</Position>
       <TranslationSet>
         <base loc="en">Status Router Row 2</base>
-        <tran loc="es">Fila de direccionamiento de estado 2</tran>
+        <tran loc="es-419">Fila de direccionamiento de estado 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1135,7 +1135,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.65793</Position>
       <TranslationSet>
         <base loc="en">Thumb 2</base>
-        <tran loc="es">Tecla pulgar 2</tran>
+        <tran loc="es-419">Tecla pulgar 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1143,7 +1143,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.68865</Position>
       <TranslationSet>
         <base loc="en">Smartpad Up</base>
-        <tran loc="es">Tecla Smartpad arriba</tran>
+        <tran loc="es-419">Tecla Smartpad arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1151,7 +1151,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.69633</Position>
       <TranslationSet>
         <base loc="en">Smartpad 3</base>
-        <tran loc="es">Tecla Smartpad 3</tran>
+        <tran loc="es-419">Tecla Smartpad 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1159,7 +1159,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.71681</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad 2</base>
-        <tran loc="es">Tecla Smartpad 2 izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad 2 izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1167,7 +1167,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.75265</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad Right</base>
-        <tran loc="es">Tecla Smartpad derecha derecha</tran>
+        <tran loc="es-419">Tecla Smartpad derecha derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1175,7 +1175,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.67841</Position>
       <TranslationSet>
         <base loc="en">Smartpad 1</base>
-        <tran loc="es">Tecla Smartpad 1</tran>
+        <tran loc="es-419">Tecla Smartpad 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1183,7 +1183,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.69377</Position>
       <TranslationSet>
         <base loc="en">Smartpad Right</base>
-        <tran loc="es">Tecla Smartpad derecha</tran>
+        <tran loc="es-419">Tecla Smartpad derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1191,7 +1191,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.70913</Position>
       <TranslationSet>
         <base loc="en">Thumb 9</base>
-        <tran loc="es">Tecla pulgar 9</tran>
+        <tran loc="es-419">Tecla pulgar 9</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1199,7 +1199,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.73473</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad 4</base>
-        <tran loc="es">Tecla Smartpad 4 izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad 4 izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1207,7 +1207,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2007-2011 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2007-2011 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2007-2011 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1215,7 +1215,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.70401</Position>
       <TranslationSet>
         <base loc="en">Thumb 7</base>
-        <tran loc="es">Tecla pulgar 7</tran>
+        <tran loc="es-419">Tecla pulgar 7</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1223,7 +1223,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.65536</Position>
       <TranslationSet>
         <base loc="en">Router Row 1</base>
-        <tran loc="es">Fila de direccionamiento 1</tran>
+        <tran loc="es-419">Fila de direccionamiento 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1231,7 +1231,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.67073</Position>
       <TranslationSet>
         <base loc="en">eTouch 2</base>
-        <tran loc="es">Tecla eTouch 2</tran>
+        <tran loc="es-419">Tecla eTouch 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1239,7 +1239,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.BC680</Position>
       <TranslationSet>
         <base loc="en">Alva BC680</base>
-        <tran loc="es">Alva BC680</tran>
+        <tran loc="es-419">Alva BC680</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1247,7 +1247,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.74497</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad Enter</base>
-        <tran loc="es">Tecla Smartpad intro derecha</tran>
+        <tran loc="es-419">Tecla Smartpad intro derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1255,7 +1255,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.66561</Position>
       <TranslationSet>
         <base loc="en">Thumb 5</base>
-        <tran loc="es">Tecla pulgar 5</tran>
+        <tran loc="es-419">Tecla pulgar 5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1263,7 +1263,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.67585</Position>
       <TranslationSet>
         <base loc="en">eTouch 4</base>
-        <tran loc="es">Tecla eTouch 4</tran>
+        <tran loc="es-419">Tecla eTouch 4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1271,7 +1271,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.73729</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad 1</base>
-        <tran loc="es">Tecla Smartpad 1 derecha</tran>
+        <tran loc="es-419">Tecla Smartpad 1 derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1279,7 +1279,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.68609</Position>
       <TranslationSet>
         <base loc="en">Smartpad Enter</base>
-        <tran loc="es">Tecla Smartpad intro</tran>
+        <tran loc="es-419">Tecla Smartpad intro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1287,7 +1287,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.66049</Position>
       <TranslationSet>
         <base loc="en">Thumb 3</base>
-        <tran loc="es">Tecla pulgar 3</tran>
+        <tran loc="es-419">Tecla pulgar 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1295,7 +1295,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.71169</Position>
       <TranslationSet>
         <base loc="en">Thumb 10</base>
-        <tran loc="es">Tecla pulgar 10</tran>
+        <tran loc="es-419">Tecla pulgar 10</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1303,7 +1303,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.72705</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad Down</base>
-        <tran loc="es">Tecla Smartpad abajo izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad abajo izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1311,7 +1311,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router Row 1</base>
-        <tran loc="es">Fila de direccionamiento de estado 1</tran>
+        <tran loc="es-419">Fila de direccionamiento de estado 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1319,7 +1319,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.75521</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad 3</base>
-        <tran loc="es">Tecla Smartpad 3 derecha</tran>
+        <tran loc="es-419">Tecla Smartpad 3 derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1327,7 +1327,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.69121</Position>
       <TranslationSet>
         <base loc="en">Smartpad Down</base>
-        <tran loc="es">Tecla Smartpad abajo</tran>
+        <tran loc="es-419">Tecla Smartpad abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1335,7 +1335,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.65537</Position>
       <TranslationSet>
         <base loc="en">Thumb 1</base>
-        <tran loc="es">Tecla pulgar 1</tran>
+        <tran loc="es-419">Tecla pulgar 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1343,7 +1343,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.75009</Position>
       <TranslationSet>
         <base loc="en">Right Smartpad Down</base>
-        <tran loc="es">Tecla Smartpad abajo derecha</tran>
+        <tran loc="es-419">Tecla Smartpad abajo derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1351,7 +1351,7 @@
       <Position>com.apple.scrod.braille.driver.alva.6.series.72449</Position>
       <TranslationSet>
         <base loc="en">Left Smartpad Up</base>
-        <tran loc="es">Tecla Smartpad arriba izquierda</tran>
+        <tran loc="es-419">Tecla Smartpad arriba izquierda</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1362,7 +1362,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.69121</Position>
       <TranslationSet>
         <base loc="en">Right Rocker Down</base>
-        <tran loc="es">Oscilador derecho abajo</tran>
+        <tran loc="es-419">Oscilador derecho abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1370,7 +1370,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.65793</Position>
       <TranslationSet>
         <base loc="en">Left Nav Rocker Down</base>
-        <tran loc="es">Oscilador de navegación izquierdo abajo</tran>
+        <tran loc="es-419">Oscilador de navegación izquierdo abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1378,7 +1378,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.68097</Position>
       <TranslationSet>
         <base loc="en">Right Selector Button</base>
-        <tran loc="es">Botón “Selector derecho”</tran>
+        <tran loc="es-419">Botón selector derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1386,7 +1386,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.67329</Position>
       <TranslationSet>
         <base loc="en">Left Panning Button</base>
-        <tran loc="es">Botón “Desplazarse a la izquierda”</tran>
+        <tran loc="es-419">Botón de panorámica izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1394,7 +1394,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65537</Position>
       <TranslationSet>
         <base loc="en">Left Whiz Wheel Up</base>
-        <tran loc="es">Rueda izquierda arriba</tran>
+        <tran loc="es-419">Rueda izquierda arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1402,7 +1402,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.66305</Position>
       <TranslationSet>
         <base loc="en">Right Whiz Wheel Up</base>
-        <tran loc="es">Rueda derecha arriba</tran>
+        <tran loc="es-419">Rueda derecha arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1410,7 +1410,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65552</Position>
       <TranslationSet>
         <base loc="en">Router Row 2</base>
-        <tran loc="es">Fila de direccionamiento 2</tran>
+        <tran loc="es-419">Fila de direccionamiento 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1418,7 +1418,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.68865</Position>
       <TranslationSet>
         <base loc="en">Right Rocker Up</base>
-        <tran loc="es">Oscilador derecho arriba</tran>
+        <tran loc="es-419">Oscilador derecho arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1426,7 +1426,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.68353</Position>
       <TranslationSet>
         <base loc="en">Left Rocker Up</base>
-        <tran loc="es">Oscilador izquierdo arriba</tran>
+        <tran loc="es-419">Oscilador izquierdo arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1434,7 +1434,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.67073</Position>
       <TranslationSet>
         <base loc="en">Right Mode Button</base>
-        <tran loc="es">Botón de modo derecho</tran>
+        <tran loc="es-419">Botón de modo derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1442,7 +1442,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router Row</base>
-        <tran loc="es">Fila de direccionamiento de estado</tran>
+        <tran loc="es-419">Fila de direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1450,7 +1450,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.2.40.blue</Position>
       <TranslationSet>
         <base loc="en">Freedom Scientific Focus 40 Blue</base>
-        <tran loc="es">Freedom Scientific Focus 40 Blue</tran>
+        <tran loc="es-419">Freedom Scientific Focus 40 Blue</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1458,7 +1458,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue</Position>
       <TranslationSet>
         <base loc="en">Freedom Scientific Focus 40 Blue</base>
-        <tran loc="es">Freedom Scientific Focus 40 Blue</tran>
+        <tran loc="es-419">Freedom Scientific Focus 40 Blue</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1466,7 +1466,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.66561</Position>
       <TranslationSet>
         <base loc="en">Right Nav Rocker Down</base>
-        <tran loc="es">Oscilador de navegación derecho abajo</tran>
+        <tran loc="es-419">Oscilador de navegación derecho abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1474,7 +1474,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.67841</Position>
       <TranslationSet>
         <base loc="en">Left Selector Button</base>
-        <tran loc="es">Botón “Selector izquierdo”</tran>
+        <tran loc="es-419">Botón selector izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1482,7 +1482,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65555</Position>
       <TranslationSet>
         <base loc="en">Status Router Row 2</base>
-        <tran loc="es">Fila de direccionamiento de estado 2</tran>
+        <tran loc="es-419">Fila de direccionamiento de estado 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1490,7 +1490,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65793</Position>
       <TranslationSet>
         <base loc="en">Left Whiz Wheel Down</base>
-        <tran loc="es">Rueda izquierda abajo</tran>
+        <tran loc="es-419">Rueda izquierda abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1498,7 +1498,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.65537</Position>
       <TranslationSet>
         <base loc="en">Left Nav Rocker Up</base>
-        <tran loc="es">Oscilador de navegación izquierdo arriba</tran>
+        <tran loc="es-419">Oscilador de navegación izquierdo arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1506,7 +1506,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.66305</Position>
       <TranslationSet>
         <base loc="en">Right Nav Rocker Up</base>
-        <tran loc="es">Oscilador de navegación derecho arriba</tran>
+        <tran loc="es-419">Oscilador de navegación derecho arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1514,7 +1514,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.68609</Position>
       <TranslationSet>
         <base loc="en">Left Rocker Down</base>
-        <tran loc="es">Oscilador izquierdo abajo</tran>
+        <tran loc="es-419">Oscilador izquierdo abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1522,7 +1522,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2010-2012 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2010-2012 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2010-2012 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1530,7 +1530,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.67585</Position>
       <TranslationSet>
         <base loc="en">Right Panning Button</base>
-        <tran loc="es">Botón “Desplazarse a la derecha”</tran>
+        <tran loc="es-419">Botón de panorámica derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1538,7 +1538,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65536</Position>
       <TranslationSet>
         <base loc="en">Router Row 1</base>
-        <tran loc="es">Fila de direccionamiento 1</tran>
+        <tran loc="es-419">Fila de direccionamiento 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1546,7 +1546,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.66561</Position>
       <TranslationSet>
         <base loc="en">Right Whiz Wheel Down</base>
-        <tran loc="es">Rueda derecha abajo</tran>
+        <tran loc="es-419">Rueda derecha abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1554,7 +1554,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.2.14.blue</Position>
       <TranslationSet>
         <base loc="en">Freedom Scientific Focus 14 Blue</base>
-        <tran loc="es">Freedom Scientific Focus 14 Blue</tran>
+        <tran loc="es-419">Freedom Scientific Focus 14 Blue</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1562,7 +1562,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.66817</Position>
       <TranslationSet>
         <base loc="en">Left Whiz Wheel Press</base>
-        <tran loc="es">Rueda izquierda pulsación</tran>
+        <tran loc="es-419">Rueda izquierda presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1570,7 +1570,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.66817</Position>
       <TranslationSet>
         <base loc="en">Left Mode Button</base>
-        <tran loc="es">Botón de modo izquierdo</tran>
+        <tran loc="es-419">Botón de modo izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1578,7 +1578,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.65536</Position>
       <TranslationSet>
         <base loc="en">Router Row</base>
-        <tran loc="es">Fila de direccionamiento</tran>
+        <tran loc="es-419">Fila de direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1586,7 +1586,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.67073</Position>
       <TranslationSet>
         <base loc="en">Right Whiz Wheel Press</base>
-        <tran loc="es">Rueda derecha pulsación</tran>
+        <tran loc="es-419">Rueda derecha presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1594,7 +1594,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.40.blue.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router Row 1</base>
-        <tran loc="es">Fila de direccionamiento de estado 1</tran>
+        <tran loc="es-419">Fila de direccionamiento de estado 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1602,7 +1602,7 @@
       <Position>com.apple.scrod.braille.driver.freedomscientific.focus.2.80.blue</Position>
       <TranslationSet>
         <base loc="en">Freedom Scientific Focus 80 Blue</base>
-        <tran loc="es">Freedom Scientific Focus 80 Blue</tran>
+        <tran loc="es-419">Freedom Scientific Focus 80 Blue</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1613,7 +1613,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.65537</Position>
       <TranslationSet>
         <base loc="en">Left Wheel Press</base>
-        <tran loc="es">Rueda izquierda pulsación</tran>
+        <tran loc="es-419">Rueda izquierda presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1621,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.67841</Position>
       <TranslationSet>
         <base loc="en">Left Joystick Left</base>
-        <tran loc="es">Palanca izquierda izquierda</tran>
+        <tran loc="es-419">Palanca izquierda izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1629,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.69121</Position>
       <TranslationSet>
         <base loc="en">Right Joystick Left</base>
-        <tran loc="es">Palanca derecha izquierda</tran>
+        <tran loc="es-419">Palanca derecha izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1637,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.69889</Position>
       <TranslationSet>
         <base loc="en">Right Middle Wheel Press</base>
-        <tran loc="es">Rueda derecha del medio pulsación</tran>
+        <tran loc="es-419">Rueda derecha del medio presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1645,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1653,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.esys.64</Position>
       <TranslationSet>
         <base loc="en">Eurobraille Esys 64</base>
-        <tran loc="es">Eurobraille Esys 64</tran>
+        <tran loc="es-419">Eurobraille Esys 64</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1661,7 +1661,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.66817</Position>
       <TranslationSet>
         <base loc="en">Wheel Right</base>
-        <tran loc="es">Rueda derecha</tran>
+        <tran loc="es-419">Rueda derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1669,7 +1669,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.68097</Position>
       <TranslationSet>
         <base loc="en">Left Joystick Press</base>
-        <tran loc="es">Palanca izquierda pulsación</tran>
+        <tran loc="es-419">Palanca izquierda presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1677,7 +1677,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.66049</Position>
       <TranslationSet>
         <base loc="en">Left Center Wheel Press</base>
-        <tran loc="es">Rueda centro izquierda pulsación</tran>
+        <tran loc="es-419">Rueda centro izquierda presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1685,7 +1685,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.esys.40</Position>
       <TranslationSet>
         <base loc="en">Eurobraille Esys 40</base>
-        <tran loc="es">Eurobraille Esys 40</tran>
+        <tran loc="es-419">Eurobraille Esys 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1693,7 +1693,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.66561</Position>
       <TranslationSet>
         <base loc="en">Wheel Left</base>
-        <tran loc="es">Rueda izquierda</tran>
+        <tran loc="es-419">Rueda izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1701,7 +1701,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.67585</Position>
       <TranslationSet>
         <base loc="en">Left Joystick Right</base>
-        <tran loc="es">Palanca izquierda derecha</tran>
+        <tran loc="es-419">Palanca izquierda derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1709,7 +1709,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.esytime.32</Position>
       <TranslationSet>
         <base loc="en">Eurobraille Esytime 32</base>
-        <tran loc="es">Eurobraille Esytime 32</tran>
+        <tran loc="es-419">Eurobraille Esytime 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1717,7 +1717,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.67073</Position>
       <TranslationSet>
         <base loc="en">Left Joystick Up</base>
-        <tran loc="es">Palanca izquierda arriba</tran>
+        <tran loc="es-419">Palanca izquierda arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1725,7 +1725,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.68609</Position>
       <TranslationSet>
         <base loc="en">Right Joystick Down</base>
-        <tran loc="es">Palanca derecha abajo</tran>
+        <tran loc="es-419">Palanca derecha abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1733,7 +1733,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.67329</Position>
       <TranslationSet>
         <base loc="en">Left Joystick Down</base>
-        <tran loc="es">Palanca izquierda abajo</tran>
+        <tran loc="es-419">Palanca izquierda abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1741,7 +1741,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.69633</Position>
       <TranslationSet>
         <base loc="en">Left Middle Wheel Press</base>
-        <tran loc="es">Rueda izquierda del medio pulsación</tran>
+        <tran loc="es-419">Rueda izquierda del medio presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1749,7 +1749,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.68865</Position>
       <TranslationSet>
         <base loc="en">Right Joystick Right</base>
-        <tran loc="es">Palanca derecha derecha</tran>
+        <tran loc="es-419">Palanca derecha derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1757,7 +1757,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.esys.24</Position>
       <TranslationSet>
         <base loc="en">Eurobraille Esys 24</base>
-        <tran loc="es">Eurobraille Esys 24</tran>
+        <tran loc="es-419">Eurobraille Esys 24</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1765,7 +1765,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.69377</Position>
       <TranslationSet>
         <base loc="en">Right Joystick Press</base>
-        <tran loc="es">Palanca derecha pulsación</tran>
+        <tran loc="es-419">Palanca derecha presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1773,7 +1773,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.65793</Position>
       <TranslationSet>
         <base loc="en">Right Wheel Press</base>
-        <tran loc="es">Rueda derecha pulsación</tran>
+        <tran loc="es-419">Rueda derecha presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1781,7 +1781,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.68353</Position>
       <TranslationSet>
         <base loc="en">Right Joystick Up</base>
-        <tran loc="es">Palanca derecha arriba</tran>
+        <tran loc="es-419">Palanca derecha arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1789,7 +1789,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.esys.80</Position>
       <TranslationSet>
         <base loc="en">Eurobraille Esys 80</base>
-        <tran loc="es">Eurobraille Esys 80</tran>
+        <tran loc="es-419">Eurobraille Esys 80</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1797,7 +1797,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1805,7 +1805,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2008-2010 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2008-2010 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2008-2010 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1813,7 +1813,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.66305</Position>
       <TranslationSet>
         <base loc="en">Right Center Wheel Press</base>
-        <tran loc="es">Rueda centro derecha pulsación</tran>
+        <tran loc="es-419">Rueda centro derecha presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1821,7 +1821,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.esys.12</Position>
       <TranslationSet>
         <base loc="en">Eurobraille Esys 12</base>
-        <tran loc="es">Eurobraille Esys 12</tran>
+        <tran loc="es-419">Eurobraille Esys 12</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1829,7 +1829,7 @@
       <Position>com.apple.scrod.braille.driver.eurobraille.esys.light.40</Position>
       <TranslationSet>
         <base loc="en">Eurobraille Esys Light 40</base>
-        <tran loc="es">Eurobraille Esys Light 40</tran>
+        <tran loc="es-419">Eurobraille Esys Light 40</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1840,7 +1840,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.70913</Position>
       <TranslationSet>
         <base loc="en">Change</base>
-        <tran loc="es">Cambiar</tran>
+        <tran loc="es-419">Cambiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.70401</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1864,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.braille.memo.40</Position>
       <TranslationSet>
         <base loc="en">KGS BrailleMemo Smart 40</base>
-        <tran loc="es">KGS BrailleMemo Smart 40</tran>
+        <tran loc="es-419">KGS BrailleMemo Smart 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1872,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.69633</Position>
       <TranslationSet>
         <base loc="en">Esc</base>
-        <tran loc="es">Esc</tran>
+        <tran loc="es-419">Esc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1880,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.67841</Position>
       <TranslationSet>
         <base loc="en">Forward</base>
-        <tran loc="es">Adelante</tran>
+        <tran loc="es-419">Adelante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1888,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.67585</Position>
       <TranslationSet>
         <base loc="en">Backward</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1896,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.66049</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1904,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.65537</Position>
       <TranslationSet>
         <base loc="en">Up</base>
-        <tran loc="es">Arriba</tran>
+        <tran loc="es-419">Arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1912,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.68353</Position>
       <TranslationSet>
         <base loc="en">Right Scroll</base>
-        <tran loc="es">Desplazamiento a la derecha</tran>
+        <tran loc="es-419">Desplazamiento a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1920,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.70145</Position>
       <TranslationSet>
         <base loc="en">Backspace</base>
-        <tran loc="es">Retroceso</tran>
+        <tran loc="es-419">Retroceso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1928,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.69889</Position>
       <TranslationSet>
         <base loc="en">Inf</base>
-        <tran loc="es">Inf</tran>
+        <tran loc="es-419">Inf</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1936,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.braille.memo.32</Position>
       <TranslationSet>
         <base loc="en">KGS BrailleMemo Smart 32</base>
-        <tran loc="es">KGS BrailleMemo Smart 32</tran>
+        <tran loc="es-419">KGS BrailleMemo Smart 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1944,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.66305</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1952,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.braille.memo.16</Position>
       <TranslationSet>
         <base loc="en">KGS BMPocket 16</base>
-        <tran loc="es">KGS BMPocket 16</tran>
+        <tran loc="es-419">KGS BMPocket 16</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1960,7 +1960,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.68097</Position>
       <TranslationSet>
         <base loc="en">Left Scroll</base>
-        <tran loc="es">Desplazamiento a la izquierda</tran>
+        <tran loc="es-419">Desplazamiento a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1968,7 +1968,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.70657</Position>
       <TranslationSet>
         <base loc="en">Insert</base>
-        <tran loc="es">Insertar</tran>
+        <tran loc="es-419">Insertar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1976,7 +1976,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.65793</Position>
       <TranslationSet>
         <base loc="en">Down</base>
-        <tran loc="es">Abajo</tran>
+        <tran loc="es-419">Abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1984,7 +1984,7 @@
       <Position>com.apple.scrod.braille.driver.kgs.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1992,7 +1992,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2012 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2012 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2012 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2003,7 +2003,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.BI.32</Position>
       <TranslationSet>
         <base loc="en">Humanware Brailliant BI 32</base>
-        <tran loc="es">Humanware Brailliant BI 32</tran>
+        <tran loc="es-419">Humanware Brailliant BI 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2011,7 +2011,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2011-2012 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2011-2012 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2011-2012 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2019,7 +2019,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2027,7 +2027,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.65537</Position>
       <TranslationSet>
         <base loc="en">C1</base>
-        <tran loc="es">C1</tran>
+        <tran loc="es-419">C1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2035,7 +2035,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.66049</Position>
       <TranslationSet>
         <base loc="en">C3</base>
-        <tran loc="es">C3</tran>
+        <tran loc="es-419">C3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2043,7 +2043,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.67329</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2051,7 +2051,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.66561</Position>
       <TranslationSet>
         <base loc="en">C5</base>
-        <tran loc="es">C5</tran>
+        <tran loc="es-419">C5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2059,7 +2059,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.80</Position>
       <TranslationSet>
         <base loc="en">Humanware Brailliant 80</base>
-        <tran loc="es">Humanware Brailliant 80</tran>
+        <tran loc="es-419">Humanware Brailliant 80</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2067,7 +2067,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.67073</Position>
       <TranslationSet>
         <base loc="en">Up</base>
-        <tran loc="es">Arriba</tran>
+        <tran loc="es-419">Arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2075,7 +2075,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.touch.32</Position>
       <TranslationSet>
         <base loc="en">Humanware BrailleNote Touch 32</base>
-        <tran loc="es">Humanware BrailleNote Touch 32</tran>
+        <tran loc="es-419">Humanware BrailleNote Touch 32</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2083,7 +2083,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.braillenote.touch.18</Position>
       <TranslationSet>
         <base loc="en">Humanware BrailleNote Touch 18</base>
-        <tran loc="es">Humanware BrailleNote Touch 18</tran>
+        <tran loc="es-419">Humanware BrailleNote Touch 18</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2091,7 +2091,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.67585</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2099,7 +2099,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.65793</Position>
       <TranslationSet>
         <base loc="en">C2</base>
-        <tran loc="es">C2</tran>
+        <tran loc="es-419">C2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2107,7 +2107,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.67841</Position>
       <TranslationSet>
         <base loc="en">Down</base>
-        <tran loc="es">Abajo</tran>
+        <tran loc="es-419">Abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2115,7 +2115,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2123,7 +2123,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.66817</Position>
       <TranslationSet>
         <base loc="en">C6</base>
-        <tran loc="es">C6</tran>
+        <tran loc="es-419">C6</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2131,7 +2131,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.BI.40</Position>
       <TranslationSet>
         <base loc="en">Humanware Brailliant BI 40</base>
-        <tran loc="es">Humanware Brailliant BI 40</tran>
+        <tran loc="es-419">Humanware Brailliant BI 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2139,7 +2139,7 @@
       <Position>com.apple.scrod.braille.driver.humanware.brailliant.2.66305</Position>
       <TranslationSet>
         <base loc="en">C4</base>
-        <tran loc="es">C4</tran>
+        <tran loc="es-419">C4</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2150,7 +2150,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2158,7 +2158,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.116737</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2166,7 +2166,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.118529</Position>
       <TranslationSet>
         <base loc="en">Pan Right</base>
-        <tran loc="es">Desplazarse a la derecha</tran>
+        <tran loc="es-419">Panorámica a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2174,7 +2174,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.ninepoint</Position>
       <TranslationSet>
         <base loc="en">Ninepoint Systems Ninepoint</base>
-        <tran loc="es">Ninepoint Systems Ninepoint</tran>
+        <tran loc="es-419">Ninepoint Systems Ninepoint</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2182,7 +2182,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.117249</Position>
       <TranslationSet>
         <base loc="en">Up</base>
-        <tran loc="es">Arriba</tran>
+        <tran loc="es-419">Arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2190,7 +2190,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.116993</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2198,7 +2198,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.117505</Position>
       <TranslationSet>
         <base loc="en">Down</base>
-        <tran loc="es">Abajo</tran>
+        <tran loc="es-419">Abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2206,7 +2206,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2214,7 +2214,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.117761</Position>
       <TranslationSet>
         <base loc="en">Enter</base>
-        <tran loc="es">Intro</tran>
+        <tran loc="es-419">Intro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2222,7 +2222,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.118017</Position>
       <TranslationSet>
         <base loc="en">Menu</base>
-        <tran loc="es">Menú</tran>
+        <tran loc="es-419">Menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2230,7 +2230,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2012 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2012 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2012 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2238,7 +2238,7 @@
       <Position>com.apple.scrod.braille.driver.ninepointsystems.118273</Position>
       <TranslationSet>
         <base loc="en">Pan Left</base>
-        <tran loc="es">Desplazarse a la izquierda</tran>
+        <tran loc="es-419">Panorámica a la izquierda</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2249,7 +2249,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.68353</Position>
       <TranslationSet>
         <base loc="en">K11</base>
-        <tran loc="es">K11</tran>
+        <tran loc="es-419">K11</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2257,7 +2257,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.68865</Position>
       <TranslationSet>
         <base loc="en">K13</base>
-        <tran loc="es">K13</tran>
+        <tran loc="es-419">K13</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2265,7 +2265,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.notetaker.24</Position>
       <TranslationSet>
         <base loc="en">Nippon Telesoft Seika mini24</base>
-        <tran loc="es">Nippon Telesoft Seika mini24</tran>
+        <tran loc="es-419">Nippon Telesoft Seika mini24</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2273,7 +2273,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.69377</Position>
       <TranslationSet>
         <base loc="en">K15</base>
-        <tran loc="es">K15</tran>
+        <tran loc="es-419">K15</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2281,7 +2281,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.69889</Position>
       <TranslationSet>
         <base loc="en">K17</base>
-        <tran loc="es">K17</tran>
+        <tran loc="es-419">K17</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2289,7 +2289,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2297,7 +2297,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2010-2015 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2010-2015 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2010-2015 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2305,7 +2305,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.65537</Position>
       <TranslationSet>
         <base loc="en">K1</base>
-        <tran loc="es">K1</tran>
+        <tran loc="es-419">K1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2313,7 +2313,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.70401</Position>
       <TranslationSet>
         <base loc="en">K19</base>
-        <tran loc="es">K19</tran>
+        <tran loc="es-419">K19</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2321,7 +2321,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.66049</Position>
       <TranslationSet>
         <base loc="en">K3</base>
-        <tran loc="es">K3</tran>
+        <tran loc="es-419">K3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2329,7 +2329,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.66561</Position>
       <TranslationSet>
         <base loc="en">K5</base>
-        <tran loc="es">K5</tran>
+        <tran loc="es-419">K5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2337,7 +2337,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.70913</Position>
       <TranslationSet>
         <base loc="en">K21</base>
-        <tran loc="es">K21</tran>
+        <tran loc="es-419">K21</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2345,7 +2345,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.67073</Position>
       <TranslationSet>
         <base loc="en">K7</base>
-        <tran loc="es">K7</tran>
+        <tran loc="es-419">K7</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2353,7 +2353,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.68609</Position>
       <TranslationSet>
         <base loc="en">K12</base>
-        <tran loc="es">K12</tran>
+        <tran loc="es-419">K12</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2361,7 +2361,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.67329</Position>
       <TranslationSet>
         <base loc="en">K8</base>
-        <tran loc="es">K8</tran>
+        <tran loc="es-419">K8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2369,7 +2369,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.69633</Position>
       <TranslationSet>
         <base loc="en">K16</base>
-        <tran loc="es">K16</tran>
+        <tran loc="es-419">K16</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2377,7 +2377,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.69121</Position>
       <TranslationSet>
         <base loc="en">K14</base>
-        <tran loc="es">K14</tran>
+        <tran loc="es-419">K14</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2385,7 +2385,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.40</Position>
       <TranslationSet>
         <base loc="en">Nippon Telesoft Seika</base>
-        <tran loc="es">Nippon Telesoft Seika</tran>
+        <tran loc="es-419">Nippon Telesoft Seika</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2393,7 +2393,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.65793</Position>
       <TranslationSet>
         <base loc="en">K2</base>
-        <tran loc="es">K2</tran>
+        <tran loc="es-419">K2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2401,7 +2401,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2409,7 +2409,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.notetaker.8</Position>
       <TranslationSet>
         <base loc="en">Nippon Telesoft Seika mini8</base>
-        <tran loc="es">Nippon Telesoft Seika mini8</tran>
+        <tran loc="es-419">Nippon Telesoft Seika mini8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2417,7 +2417,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.70145</Position>
       <TranslationSet>
         <base loc="en">K18</base>
-        <tran loc="es">K18</tran>
+        <tran loc="es-419">K18</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2425,7 +2425,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.66817</Position>
       <TranslationSet>
         <base loc="en">K6</base>
-        <tran loc="es">K6</tran>
+        <tran loc="es-419">K6</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2433,7 +2433,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.notetaker.40</Position>
       <TranslationSet>
         <base loc="en">Nippon Telesoft Seika mini40</base>
-        <tran loc="es">Nippon Telesoft Seika mini40</tran>
+        <tran loc="es-419">Nippon Telesoft Seika mini40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2441,7 +2441,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.71169</Position>
       <TranslationSet>
         <base loc="en">K22</base>
-        <tran loc="es">K22</tran>
+        <tran loc="es-419">K22</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2449,7 +2449,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.66305</Position>
       <TranslationSet>
         <base loc="en">K4</base>
-        <tran loc="es">K4</tran>
+        <tran loc="es-419">K4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2457,7 +2457,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.notetaker.16</Position>
       <TranslationSet>
         <base loc="en">Nippon Telesoft Seika mini</base>
-        <tran loc="es">Nippon Telesoft Seika mini</tran>
+        <tran loc="es-419">Nippon Telesoft Seika mini</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2465,7 +2465,7 @@
       <Position>com.apple.scrod.braille.driver.nippon.telesoft.seika.70657</Position>
       <TranslationSet>
         <base loc="en">K20</base>
-        <tran loc="es">K20</tran>
+        <tran loc="es-419">K20</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2476,7 +2476,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink.66305</Position>
       <TranslationSet>
         <base loc="en">Joystick Up</base>
-        <tran loc="es">Palanca arriba</tran>
+        <tran loc="es-419">Palanca arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2484,7 +2484,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink.66049</Position>
       <TranslationSet>
         <base loc="en">Joystick Left</base>
-        <tran loc="es">Palanca izquierda</tran>
+        <tran loc="es-419">Palanca izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2492,7 +2492,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink.65537</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2500,7 +2500,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink.66561</Position>
       <TranslationSet>
         <base loc="en">Joystick Down</base>
-        <tran loc="es">Palanca abajo</tran>
+        <tran loc="es-419">Palanca abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2508,7 +2508,7 @@
       <Position>com.apple.scrod.braille.driver.harpo.braillepen.14</Position>
       <TranslationSet>
         <base loc="en">Harpo BraillePen 14</base>
-        <tran loc="es">Harpo BraillePen 14</tran>
+        <tran loc="es-419">Harpo BraillePen 14</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2516,7 +2516,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink.65793</Position>
       <TranslationSet>
         <base loc="en">Joystick Action</base>
-        <tran loc="es">Acción de la palanca</tran>
+        <tran loc="es-419">Acción de la palanca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2524,7 +2524,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink.66817</Position>
       <TranslationSet>
         <base loc="en">Joystick Right</base>
-        <tran loc="es">Palanca derecha</tran>
+        <tran loc="es-419">Palanca derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2532,7 +2532,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink.67329</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2540,7 +2540,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink</Position>
       <TranslationSet>
         <base loc="en">Optelec EasyLink</base>
-        <tran loc="es">Optelec EasyLink</tran>
+        <tran loc="es-419">Optelec EasyLink</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2548,7 +2548,7 @@
       <Position>com.apple.scrod.braille.driver.optelec.easylink.12</Position>
       <TranslationSet>
         <base loc="en">Optelec EasyLink 12</base>
-        <tran loc="es">Optelec EasyLink 12</tran>
+        <tran loc="es-419">Optelec EasyLink 12</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2556,7 +2556,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2008-2010 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2008-2010 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2008-2010 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2567,7 +2567,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.68865</Position>
       <TranslationSet>
         <base loc="en">Right Thumb</base>
-        <tran loc="es">Tecla pulgar derecha</tran>
+        <tran loc="es-419">Tecla pulgar derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2575,7 +2575,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.braillex.trio.40</Position>
       <TranslationSet>
         <base loc="en">Papenmeier Braillex Trio</base>
-        <tran loc="es">Papenmeier Braillex Trio</tran>
+        <tran loc="es-419">Papenmeier Braillex Trio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2583,7 +2583,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.68609</Position>
       <TranslationSet>
         <base loc="en">Left Thumb</base>
-        <tran loc="es">Tecla pulgar izquierda</tran>
+        <tran loc="es-419">Tecla pulgar izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2591,7 +2591,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.68097</Position>
       <TranslationSet>
         <base loc="en">Right Rear</base>
-        <tran loc="es">Derecha detrás</tran>
+        <tran loc="es-419">Derecha detrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2599,7 +2599,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2607,7 +2607,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.66049</Position>
       <TranslationSet>
         <base loc="en">1 Step Down</base>
-        <tran loc="es">1 paso abajo</tran>
+        <tran loc="es-419">1 paso abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2615,7 +2615,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.67073</Position>
       <TranslationSet>
         <base loc="en">2 Steps Right</base>
-        <tran loc="es">2 pasos derecha</tran>
+        <tran loc="es-419">2 pasos derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2623,7 +2623,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.65537</Position>
       <TranslationSet>
         <base loc="en">2 Steps Up</base>
-        <tran loc="es">2 pasos arriba</tran>
+        <tran loc="es-419">2 pasos arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2631,7 +2631,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.67329</Position>
       <TranslationSet>
         <base loc="en">2 Steps Left</base>
-        <tran loc="es">2 pasos izquierda</tran>
+        <tran loc="es-419">2 pasos izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2639,7 +2639,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.66561</Position>
       <TranslationSet>
         <base loc="en">1 Step Right</base>
-        <tran loc="es">1 paso derecha</tran>
+        <tran loc="es-419">1 paso derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2647,7 +2647,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.66817</Position>
       <TranslationSet>
         <base loc="en">1 Step Left</base>
-        <tran loc="es">1 paso izquierda</tran>
+        <tran loc="es-419">1 paso izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2655,7 +2655,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2010 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2010 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2010 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2663,7 +2663,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.67841</Position>
       <TranslationSet>
         <base loc="en">Left Front</base>
-        <tran loc="es">Izquierda delante</tran>
+        <tran loc="es-419">Izquierda delante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2671,7 +2671,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2679,7 +2679,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.68353</Position>
       <TranslationSet>
         <base loc="en">Right Front</base>
-        <tran loc="es">Derecha delante</tran>
+        <tran loc="es-419">Derecha delante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2687,7 +2687,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.65793</Position>
       <TranslationSet>
         <base loc="en">1 Step Up</base>
-        <tran loc="es">1 paso arriba</tran>
+        <tran loc="es-419">1 paso arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2695,7 +2695,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.67585</Position>
       <TranslationSet>
         <base loc="en">Left Rear</base>
-        <tran loc="es">Izquierda detrás</tran>
+        <tran loc="es-419">Izquierda detrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2703,7 +2703,7 @@
       <Position>com.apple.scrod.braille.driver.papenmeier.66305</Position>
       <TranslationSet>
         <base loc="en">2 Steps Down</base>
-        <tran loc="es">2 pasos abajo</tran>
+        <tran loc="es-419">2 pasos abajo</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2714,7 +2714,7 @@
       <Position>com.apple.scrod.braille.driver.hims.69377</Position>
       <TranslationSet>
         <base loc="en">Left Pad Up</base>
-        <tran loc="es">Botón izquierdo arriba</tran>
+        <tran loc="es-419">Botón izquierdo arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2722,7 +2722,7 @@
       <Position>com.apple.scrod.braille.driver.hims.67585</Position>
       <TranslationSet>
         <base loc="en">Right Up</base>
-        <tran loc="es">Derecha arriba</tran>
+        <tran loc="es-419">Derecha arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2730,7 +2730,7 @@
       <Position>com.apple.scrod.braille.driver.hims.67329</Position>
       <TranslationSet>
         <base loc="en">Left Up</base>
-        <tran loc="es">Izquierda arriba</tran>
+        <tran loc="es-419">Izquierda arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2738,7 +2738,7 @@
       <Position>com.apple.scrod.braille.driver.hims.69121</Position>
       <TranslationSet>
         <base loc="en">F8</base>
-        <tran loc="es">F8</tran>
+        <tran loc="es-419">F8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2746,7 +2746,7 @@
       <Position>com.apple.scrod.braille.driver.hims.braille.edge.40</Position>
       <TranslationSet>
         <base loc="en">HIMS Braille EDGE 40</base>
-        <tran loc="es">HIMS Braille EDGE 40</tran>
+        <tran loc="es-419">HIMS Braille EDGE 40</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2754,7 +2754,7 @@
       <Position>com.apple.scrod.braille.driver.hims.65539</Position>
       <TranslationSet>
         <base loc="en">Status Router</base>
-        <tran loc="es">Direccionamiento de estado</tran>
+        <tran loc="es-419">Direccionamiento de estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2762,7 +2762,7 @@
       <Position>com.apple.scrod.braille.driver.hims.69633</Position>
       <TranslationSet>
         <base loc="en">Left Pad Down</base>
-        <tran loc="es">Botón izquierdo abajo</tran>
+        <tran loc="es-419">Botón izquierdo abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2770,7 +2770,7 @@
       <Position>com.apple.scrod.braille.driver.hims.68097</Position>
       <TranslationSet>
         <base loc="en">Left Down</base>
-        <tran loc="es">Izquierda abajo</tran>
+        <tran loc="es-419">Izquierda abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2778,7 +2778,7 @@
       <Position>com.apple.scrod.braille.driver.hims.66305</Position>
       <TranslationSet>
         <base loc="en">F4</base>
-        <tran loc="es">F4</tran>
+        <tran loc="es-419">F4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2786,7 +2786,7 @@
       <Position>com.apple.scrod.braille.driver.hims.70657</Position>
       <TranslationSet>
         <base loc="en">Right Pad Down</base>
-        <tran loc="es">Botón derecho abajo</tran>
+        <tran loc="es-419">Botón derecho abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2794,7 +2794,7 @@
       <Position>com.apple.scrod.braille.driver.hims.68609</Position>
       <TranslationSet>
         <base loc="en">F6</base>
-        <tran loc="es">F6</tran>
+        <tran loc="es-419">F6</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2802,7 +2802,7 @@
       <Position>com.apple.scrod.braille.driver.hims.65793</Position>
       <TranslationSet>
         <base loc="en">F2</base>
-        <tran loc="es">F2</tran>
+        <tran loc="es-419">F2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2810,7 +2810,7 @@
       <Position>com.apple.scrod.braille.driver.hims.69889</Position>
       <TranslationSet>
         <base loc="en">Left Pad Left</base>
-        <tran loc="es">Botón izquierdo izquierda</tran>
+        <tran loc="es-419">Botón izquierdo izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2818,7 +2818,7 @@
       <Position>com.apple.scrod.braille.driver.hims.67841</Position>
       <TranslationSet>
         <base loc="en">Right Down</base>
-        <tran loc="es">Derecha abajo</tran>
+        <tran loc="es-419">Derecha abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2826,7 +2826,7 @@
       <Position>com.apple.scrod.braille.driver.hims.70913</Position>
       <TranslationSet>
         <base loc="en">Right Pad Left</base>
-        <tran loc="es">Botón derecho izquierda</tran>
+        <tran loc="es-419">Botón derecho izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2834,7 +2834,7 @@
       <Position>com.apple.scrod.braille.driver.hims.65536</Position>
       <TranslationSet>
         <base loc="en">Router</base>
-        <tran loc="es">Direccionamiento</tran>
+        <tran loc="es-419">Direccionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2842,7 +2842,7 @@
       <Position>com.apple.scrod.braille.driver.hims.70401</Position>
       <TranslationSet>
         <base loc="en">Right Pad Up</base>
-        <tran loc="es">Botón derecho arriba</tran>
+        <tran loc="es-419">Botón derecho arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2850,7 +2850,7 @@
       <Position>com.apple.scrod.braille.driver.hims.68865</Position>
       <TranslationSet>
         <base loc="en">F7</base>
-        <tran loc="es">F7</tran>
+        <tran loc="es-419">F7</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2858,7 +2858,7 @@
       <Position>com.apple.scrod.braille.driver.hims.68353</Position>
       <TranslationSet>
         <base loc="en">F5</base>
-        <tran loc="es">F5</tran>
+        <tran loc="es-419">F5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2866,7 +2866,7 @@
       <Position>com.apple.scrod.braille.driver.hims.70145</Position>
       <TranslationSet>
         <base loc="en">Left Pad Right</base>
-        <tran loc="es">Botón izquierdo derecha</tran>
+        <tran loc="es-419">Botón izquierdo derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2874,7 +2874,7 @@
       <Position>com.apple.scrod.braille.driver.hims.71169</Position>
       <TranslationSet>
         <base loc="en">Right Pad Right</base>
-        <tran loc="es">Botón derecho derecha</tran>
+        <tran loc="es-419">Botón derecho derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2882,7 +2882,7 @@
       <Position>com.apple.scrod.braille.driver.hims.66049</Position>
       <TranslationSet>
         <base loc="en">F3</base>
-        <tran loc="es">F3</tran>
+        <tran loc="es-419">F3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2890,7 +2890,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2012 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2012 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2012 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2898,7 +2898,7 @@
       <Position>com.apple.scrod.braille.driver.hims.65537</Position>
       <TranslationSet>
         <base loc="en">F1</base>
-        <tran loc="es">F1</tran>
+        <tran loc="es-419">F1</tran>
       </TranslationSet>
     </TextItem>
   </File>

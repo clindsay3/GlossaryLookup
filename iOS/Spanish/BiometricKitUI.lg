@@ -8,7 +8,7 @@
       <Position>ROTATE_TO_PORTRAIT_DETAIL</Position>
       <TranslationSet>
         <base loc="en">Face ID needs to be in portrait to learn how to recognize you. After Face ID has been set up, it will work in portrait and landscape.</base>
-        <tran loc="es">Face ID debe estar en orientación vertical para aprender a reconocerte. Una vez configurado Face ID, funcionará tanto en orientación vertical como en horizontal.</tran>
+        <tran loc="es-419">Debes colocar el dispositivo en posición vertical para que pueda reconocerte. Aunque, después de configurarlo, funcionará en posición tanto vertical como horizontal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ROTATE_TO_PORTRAIT</Position>
       <TranslationSet>
         <base loc="en">Rotate to Portrait</base>
-        <tran loc="es">Pon el dispositivo en vertical</tran>
+        <tran loc="es-419">Coloca en posición vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_3</Position>
       <TranslationSet>
         <base loc="en">Only one face should be in view.</base>
-        <tran loc="es">Solo se debe visualizar una cara.</tran>
+        <tran loc="es-419">Debe haber una sola cara en el visor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>GENTLY_LOWER</Position>
       <TranslationSet>
         <base loc="en">Move iPad a little lower</base>
-        <tran loc="es">Baja el iPad un poco</tran>
+        <tran loc="es-419">Baja el iPad un poco más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>ROTATE_TO_PORTRAIT_UPSIDE_DOWN</Position>
       <TranslationSet>
         <base loc="en">Rotate iPad</base>
-        <tran loc="es">Gira el iPad</tran>
+        <tran loc="es-419">Girar iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>ENROLL_FAILED_TOO_HOT_BUDDY</Position>
       <TranslationSet>
         <base loc="en">You can set up Face ID later in Settings when iPad cools down.</base>
-        <tran loc="es">Puedes configurar Face ID en Ajustes más tarde, cuando el iPad se haya enfriado.</tran>
+        <tran loc="es-419">Puedes registrar Face ID en Configuración cuando el iPad se enfríe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>INSTRUCTION_STATE_TUTORIAL</Position>
       <TranslationSet>
         <base loc="en">How to Set Up Face ID</base>
-        <tran loc="es">Cómo configurar Face ID</tran>
+        <tran loc="es-419">Cómo configurar Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>INSTRUCTION_STATE_SECOND_SCAN_COMPLETE</Position>
       <TranslationSet>
         <base loc="en">Second Face ID scan complete.</base>
-        <tran loc="es">Segunda exploración de Face ID completada.</tran>
+        <tran loc="es-419">Segundo registro de Face ID finalizado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>INSTRUCTION_STATE_POSITIONING</Position>
       <TranslationSet>
         <base loc="en">Position your face within the frame.</base>
-        <tran loc="es">Coloca la cara en el recuadro.</tran>
+        <tran loc="es-419">Sitúa tu cara dentro del marco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>INSTRUCTION_SUBSTATE_7</Position>
       <TranslationSet>
         <base loc="en">Position your face within the frame.</base>
-        <tran loc="es">Coloca la cara en el recuadro.</tran>
+        <tran loc="es-419">Sitúa tu cara dentro del marco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>INSTRUCTION_SUBSTATE_8</Position>
       <TranslationSet>
         <base loc="en">Position your face within the frame.</base>
-        <tran loc="es">Coloca la cara en el recuadro.</tran>
+        <tran loc="es-419">Sitúa tu cara dentro del marco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>INSTRUCTION_DETAIL_STATE_TUTORIAL</Position>
       <TranslationSet>
         <base loc="en">First, position your face in the camera frame. Then move your head in a circle to show all the angles of your face.</base>
-        <tran loc="es">Primero coloca la cara en el recuadro de la cámara. Luego haz un movimiento circular con la cabeza para mostrar todos los ángulos de la cara.</tran>
+        <tran loc="es-419">Primero, sitúa tu cara dentro del marco de la cámara. Después, mueve tu cabeza circularmente de forma que se muestren todos los ángulos de tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>INSTRUCTION_STATE_PARTIAL_CAPTURE</Position>
       <TranslationSet>
         <base loc="en">Face ID is Set Up</base>
-        <tran loc="es">Face ID está configurado</tran>
+        <tran loc="es-419">Se configuró Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>INSTRUCTION_STATE_FIRST_SCAN_COMPLETE</Position>
       <TranslationSet>
         <base loc="en">First Face ID scan complete.</base>
-        <tran loc="es">Primera exploración de Face ID completada.</tran>
+        <tran loc="es-419">Primer registro de Face ID finalizado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>INSTRUCTION_SUBSTATE_2</Position>
       <TranslationSet>
         <base loc="en">Move Closer</base>
-        <tran loc="es">Acércate</tran>
+        <tran loc="es-419">Acércate</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>ENROLL_FAILED_TOO_COLD_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">You can set up Face ID later when iPad warms up.</base>
-        <tran loc="es">Puedes configurar Face ID más tarde, cuando el iPad se haya calentado.</tran>
+        <tran loc="es-419">Puedes registrar Face ID cuando el iPad se caliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_6</Position>
       <TranslationSet>
         <base loc="en">Your face is out of view.</base>
-        <tran loc="es">Tu cara no está visible.</tran>
+        <tran loc="es-419">No se ve tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>INSTRUCTION_DETAIL_STATE_PARTIAL_CAPTURE</Position>
       <TranslationSet>
         <base loc="en">Face ID has been set up to verify your identity but not require that you look at iPad to authenticate. This can be changed in Face ID &amp; Passcode settings.</base>
-        <tran loc="es">Se ha configurado Face ID para verificar tu identidad, pero no es necesario que mires al iPad para autenticarte. Esta configuración se puede cambiar en los ajustes de “Face ID y código”.</tran>
+        <tran loc="es-419">Se configuró Face ID para verificar tu identidad aunque no se requiere que veas al iPad para autenticar. Esto se puede cambiar en la configuración "Face ID y código".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>ENROLL_FAILED_TOO_COLD_BUDDY</Position>
       <TranslationSet>
         <base loc="en">You can set up Face ID later in Settings when iPad warms up.</base>
-        <tran loc="es">Puedes configurar Face ID en Ajustes más tarde, cuando el iPad se haya calentado.</tran>
+        <tran loc="es-419">Puedes registrar Face ID en Configuración cuando el iPad se caliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>INSTRUCTION_STATE_FIRST_SCAN</Position>
       <TranslationSet>
         <base loc="en">Move your head slowly to complete the circle.</base>
-        <tran loc="es">Mueve la cabeza lentamente hasta completar el círculo.</tran>
+        <tran loc="es-419">Mueve lentamente tu cabeza para cerrar el círculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>INSTRUCTION_STATE_SECOND_SCAN</Position>
       <TranslationSet>
         <base loc="en">Move your head slowly to complete the circle.</base>
-        <tran loc="es">Mueve la cabeza lentamente hasta completar el círculo.</tran>
+        <tran loc="es-419">Mueve lentamente tu cabeza para cerrar el círculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>SET_UP_LATER_IN_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Set Up Later in Settings</base>
-        <tran loc="es">Configurar más tarde en Ajustes</tran>
+        <tran loc="es-419">Agregar después en Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>INSTRUCTION_SUBSTATE_5</Position>
       <TranslationSet>
         <base loc="en">Face Obstructed</base>
-        <tran loc="es">Cara tapada</tran>
+        <tran loc="es-419">Cara obstruida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>INSTRUCTION_SUBSTATE_3</Position>
       <TranslationSet>
         <base loc="en">Multiple Faces</base>
-        <tran loc="es">Varias caras</tran>
+        <tran loc="es-419">Varias caras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>ENROLL_FAILED_INTERLOCKED_MESSAGE_BUDDY</Position>
       <TranslationSet>
         <base loc="en">A problem has been detected with the TrueDepth camera. Go to Settings after you finish setting up iPad for more information.</base>
-        <tran loc="es">Se ha detectado un problema con la cámara TrueDepth. Cuando termines de configurar el iPad, ve a Ajustes para obtener más información.</tran>
+        <tran loc="es-419">Se detectó un problema con la cámara TrueDepth. Cuando termines de configurar el iPad, encontrarás más detalles en la app Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>ENROLL_FAILED_TOO_HOT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">You can set up Face ID later when iPad cools down.</base>
-        <tran loc="es">Puedes configurar Face ID más tarde, cuando el iPad se haya enfriado.</tran>
+        <tran loc="es-419">Puedes registrar Face ID cuando el iPad se enfríe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_5</Position>
       <TranslationSet>
         <base loc="en">Try removing anything that may be covering your face.</base>
-        <tran loc="es">Quita lo que pueda estar tapándote la cara.</tran>
+        <tran loc="es-419">Deja tu cara lo más descubierta posible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>GENTLY_RAISE</Position>
       <TranslationSet>
         <base loc="en">Move iPad a little higher</base>
-        <tran loc="es">Sube el iPad un poco</tran>
+        <tran loc="es-419">Sube el iPad un poco más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_4</Position>
       <TranslationSet>
         <base loc="en">Hold your iPad 10 to 20 inches from your face.</base>
-        <tran loc="es">Sitúa el iPad a una distancia de entre 25 y 50 cm de la cara.</tran>
+        <tran loc="es-419">Coloca el iPad de 10 a 20 cm de tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>INSTRUCTION_STATE_ENROLL_FINISHED</Position>
       <TranslationSet>
         <base loc="en">Face ID is now set up.</base>
-        <tran loc="es">Face ID ya está configurado.</tran>
+        <tran loc="es-419">Se configuró Face ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>INSTRUCTION_SUBSTATE_4</Position>
       <TranslationSet>
         <base loc="en">Background Is Too Bright</base>
-        <tran loc="es">El fondo es demasiado claro</tran>
+        <tran loc="es-419">El fondo es muy brillante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>ROTATE_TO_PORTRAIT_UPSIDE_DOWN_DETAIL</Position>
       <TranslationSet>
         <base loc="en">During Face ID setup, iPad needs to be in portrait with the camera at the top of the screen. Once setup is complete, Face ID works in portrait and landscape.</base>
-        <tran loc="es">Durante la configuración de Face ID, el iPad debe estar en orientación vertical con la cámara en la parte superior de la pantalla. Una vez completada la configuración, Face ID funciona tanto en orientación vertical como horizontal.</tran>
+        <tran loc="es-419">Al registrar Face ID, el iPad debe permanecer en posición vertical con la cámara en la parte superior de la pantalla. Al finalizar el registro, Face ID funcionará tanto vertical como horizontalmente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>INSTRUCTION_SUBSTATE_6</Position>
       <TranslationSet>
         <base loc="en">Reposition Your Face Within the Frame</base>
-        <tran loc="es">Vuelve a colocar la cara en el recuadro</tran>
+        <tran loc="es-419">Sitúa tu cara dentro del marco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>INSTRUCTION_SUBSTATE_1</Position>
       <TranslationSet>
         <base loc="en">Move Back a Little</base>
-        <tran loc="es">Aléjate un poco</tran>
+        <tran loc="es-419">Aléjate un poco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_1</Position>
       <TranslationSet>
         <base loc="en">Hold iPad 10 to 20 inches from your face.</base>
-        <tran loc="es">Sitúa el iPad a una distancia de entre 25 y 50 cm de la cara.</tran>
+        <tran loc="es-419">Coloca el iPad de 10 a 20 cm de tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_2</Position>
       <TranslationSet>
         <base loc="en">Hold iPad 10 to 20 inches from your face.</base>
-        <tran loc="es">Sitúa el iPad a una distancia de entre 25 y 50 cm de la cara.</tran>
+        <tran loc="es-419">Coloca el iPad de 10 a 20 cm de tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>INSTRUCTION_STATE_ENROLL_FINISHED_DEMO</Position>
       <TranslationSet>
         <base loc="en">Face ID is ready.</base>
-        <tran loc="es">Face ID está preparado.</tran>
+        <tran loc="es-419">Face ID está listo.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -314,7 +314,7 @@
       <Position>TOUCH_LIGHT</Position>
       <TranslationSet>
         <base loc="en">Touch Lightly</base>
-        <tran loc="es">Toca suavemente</tran>
+        <tran loc="es-419">Toca ligeramente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>LESS_FORCE</Position>
       <TranslationSet>
         <base loc="en">Apply less force when touching the Home Button</base>
-        <tran loc="es">Aplica menos fuerza al tocar el botón de inicio</tran>
+        <tran loc="es-419">Aplica menos fuerza al tocar el botón de inicio</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -333,7 +333,7 @@
       <Position>LIFT_YOUR_FINGER</Position>
       <TranslationSet>
         <base loc="en">Lift Your Finger</base>
-        <tran loc="es">Levanta el dedo</tran>
+        <tran loc="es-419">Levanta el dedo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>SET_UP_MESA</Position>
       <TranslationSet>
         <base loc="en">Touch ID</base>
-        <tran loc="es">Touch ID</tran>
+        <tran loc="es-419">Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>DIRT_ON_SENSOR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>ENROLL_FAILED</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>RESTART_ENROLL</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>TIMEOUT</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>TRY_AGAIN</Position>
       <TranslationSet>
         <base loc="en">Unable to complete Touch ID setup.\nPlease go back and try again.</base>
-        <tran loc="es">No se ha podido completar la configuración de Touch ID.\nVuelve atrás e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se pudo completar la configuración de Touch ID.\nIntenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>SKIP_ENROLL</Position>
       <TranslationSet>
         <base loc="en">Set Up Touch ID Later</base>
-        <tran loc="es">Configurar Touch ID más tarde</tran>
+        <tran loc="es-419">Configurar Touch ID más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>DONT_USE</Position>
       <TranslationSet>
         <base loc="en">Don’t Use</base>
-        <tran loc="es">No usar</tran>
+        <tran loc="es-419">No usar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>SKIP_ENROLLMENT_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">Touch ID secures your iPad and can be used in place of your passcode or Apple ID password for purchases.</base>
-        <tran loc="es">Touch ID protege el iPad y puede usarse para comprar en lugar del código o la contraseña de tu ID de Apple.</tran>
+        <tran loc="es-419">Touch ID protege tu iPad, y se puede usar en lugar de un código o una contraseña de Apple ID para tus compras.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +413,7 @@
       <Position>YOU_CLICKED</Position>
       <TranslationSet>
         <base loc="en">Oops, You Clicked</base>
-        <tran loc="es">Vaya, has hecho clic</tran>
+        <tran loc="es-419">Uy, presionaste el botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +421,7 @@
       <Position>COVER_SENSOR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cover Home Button Completely</base>
-        <tran loc="es">Cubre el botón completamente</tran>
+        <tran loc="es-419">Cubre el botón de inicio por completo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>CANCELED</Position>
       <TranslationSet>
         <base loc="en">Canceled</base>
-        <tran loc="es">Cancelado</tran>
+        <tran loc="es-419">Cancelado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -437,7 +437,7 @@
       <Position>PLACE_YOUR_FINGER</Position>
       <TranslationSet>
         <base loc="en">Place Your Finger</base>
-        <tran loc="es">Coloca el dedo</tran>
+        <tran loc="es-419">Coloca tu dedo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -445,7 +445,7 @@
       <Position>MOVE_FINGER</Position>
       <TranslationSet>
         <base loc="en">Move your finger slightly between scans.</base>
-        <tran loc="es">Mueve un poco el dedo al escanear.</tran>
+        <tran loc="es-419">Mueve ligera y lentamente el dedo entre escaneos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -453,7 +453,7 @@
       <Position>SKIP_ENROLLMENT_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Touch ID secures your iPhone and can be used in place of your passcode or Apple ID password for purchases.</base>
-        <tran loc="es">Touch ID protege el iPhone y puede usarse para comprar en lugar del código o la contraseña de tu ID de Apple.</tran>
+        <tran loc="es-419">Touch ID protege tu iPhone, y se puede usar en lugar de un código o una contraseña de Apple ID para tus compras.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -461,7 +461,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -469,7 +469,7 @@
       <Position>COVER_SENSOR</Position>
       <TranslationSet>
         <base loc="en">Try to cover the entire Home button with your finger.</base>
-        <tran loc="es">Intenta cubrir todo el botón de inicio con el dedo.</tran>
+        <tran loc="es-419">Intenta cubrir todo el botón de inicio con el dedo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -477,7 +477,7 @@
       <Position>TOUCH_AND_COVER</Position>
       <TranslationSet>
         <base loc="en">Touch the Home button to enroll your fingerprint. Make sure to cover the ring and that your finger is dry.</base>
-        <tran loc="es">Toca el botón de inicio para registrar tu huella digital. Asegúrate de tener el dedo seco y cubrir con él todo el círculo.</tran>
+        <tran loc="es-419">Toca el botón de inicio para registrar tu huella digital. Asegúrate de cubrir el aro con un dedo que esté seco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -485,7 +485,7 @@
       <Position>REST_NOT_CLICK</Position>
       <TranslationSet>
         <base loc="en">Rest your finger on the Home button without clicking it.</base>
-        <tran loc="es">Coloca el dedo en el botón de inicio sin hacer clic en él.</tran>
+        <tran loc="es-419">Coloca tu dedo sobre el botón de inicio sin presionarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -493,7 +493,7 @@
       <Position>START</Position>
       <TranslationSet>
         <base loc="en">Start</base>
-        <tran loc="es">Iniciar</tran>
+        <tran loc="es-419">Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -501,7 +501,7 @@
       <Position>FINGER_MOVED</Position>
       <TranslationSet>
         <base loc="en">Finger Moved</base>
-        <tran loc="es">Has movido el dedo</tran>
+        <tran loc="es-419">Dedo movido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -509,7 +509,7 @@
       <Position>MOVE_FINGER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Move Finger</base>
-        <tran loc="es">Mueve el dedo</tran>
+        <tran loc="es-419">Mueve el dedo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -517,7 +517,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -525,7 +525,7 @@
       <Position>LIFT_AND_REST_LONGER</Position>
       <TranslationSet>
         <base loc="en">Lift and rest your finger on the Home button repeatedly.</base>
-        <tran loc="es">Levanta el dedo y colócalo en el botón de inicio varias veces.</tran>
+        <tran loc="es-419">Levanta y coloca varias veces el dedo sobre el botón de inicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -533,7 +533,7 @@
       <Position>FINGER_CAN_BE_USED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Touch ID is ready. Your print can be used for unlocking your iPhone.</base>
-        <tran loc="es">Touch ID está preparado. Puedes utilizar tu huella para desbloquear el iPhone.</tran>
+        <tran loc="es-419">Touch ID está listo. Puedes usar tu huella para desbloquear tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -541,7 +541,7 @@
       <Position>KEEP_GOING</Position>
       <TranslationSet>
         <base loc="en">Keep going to capture the edges of\U00A0your\U00A0print.</base>
-        <tran loc="es">Continúa para capturar los bordes de\U00A0la\U00A0huella.</tran>
+        <tran loc="es-419">Continúa para capturar los bordes de\U00A0tu\U00A0huella.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -549,7 +549,7 @@
       <Position>FINGER_CAN_BE_USED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Touch ID is ready. Your print can be used for\U00A0unlocking\U00A0your\U00A0iPad.</base>
-        <tran loc="es">Touch ID está preparado. Puedes utilizar tu huella\U00A0para\U00A0desbloquear\U00A0el\U00A0iPad.</tran>
+        <tran loc="es-419">Touch ID está listo. Puedes usar tu huella para\U00A0desbloquear\U00A0tu\U00A0iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -557,7 +557,7 @@
       <Position>ENROLL_FAILED_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Unable to read this fingerprint. Try again using a different finger.</base>
-        <tran loc="es">No se puede leer esta huella digital. Prueba de nuevo con otro dedo.</tran>
+        <tran loc="es-419">No se pudo leer esta huella digital. Intenta con otro dedo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -565,7 +565,7 @@
       <Position>SCAN_FINGER_HOME</Position>
       <TranslationSet>
         <base loc="en">Start by placing your finger or thumb on the Home Button.</base>
-        <tran loc="es">Para empezar, coloca un dedo en el botón de inicio.</tran>
+        <tran loc="es-419">Comienza por colocar tu dedo en el botón de inicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +573,7 @@
       <Position>INTRO_TEXT</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint in place of your passcode or Apple ID password for purchases.</base>
-        <tran loc="es">Utiliza tu huella digital en lugar del código de desbloqueo o la contraseña de tu ID de Apple para las compras.</tran>
+        <tran loc="es-419">Usa tu huella digital en lugar de un código o una contraseña de Apple ID para tus compras.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -581,7 +581,7 @@
       <Position>DEMO_FINGER</Position>
       <TranslationSet>
         <base loc="en">Your fingerprint will not be saved.</base>
-        <tran loc="es">Tu huella no se guardará.</tran>
+        <tran loc="es-419">No se guardará tu huella digital.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -589,7 +589,7 @@
       <Position>LIFT_AND_REST</Position>
       <TranslationSet>
         <base loc="en">Lift and rest the edge of your finger on the Home button repeatedly.</base>
-        <tran loc="es">Levanta el dedo y coloca el borde en el botón de inicio varias veces.</tran>
+        <tran loc="es-419">Levanta y coloca varias veces el borde del dedo sobre el botón de inicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -597,7 +597,7 @@
       <Position>SET_UP_TOUCH_ID</Position>
       <TranslationSet>
         <base loc="en">Use Touch ID</base>
-        <tran loc="es">Usar Touch ID</tran>
+        <tran loc="es-419">Usar Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -605,7 +605,7 @@
       <Position>MESA_IS_READY</Position>
       <TranslationSet>
         <base loc="en">Complete</base>
-        <tran loc="es">Completado</tran>
+        <tran loc="es-419">Completo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -613,7 +613,7 @@
       <Position>FAILED</Position>
       <TranslationSet>
         <base loc="en">Failed</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -621,7 +621,7 @@
       <Position>DONT_MOVE_MUCH</Position>
       <TranslationSet>
         <base loc="en">Don’t move your finger too much between scans.</base>
-        <tran loc="es">Procura no mover demasiado el dedo al escanear.</tran>
+        <tran loc="es-419">No muevas mucho el dedo durante los escaneos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -629,7 +629,7 @@
       <Position>SKIP_ENROLLMENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you don’t want to use Touch\U00A0ID?</base>
-        <tran loc="es">¿Seguro que no quieres usar Touch\U00A0ID?</tran>
+        <tran loc="es-419">¿Seguro que no quieres usar Touch\U00A0ID?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -637,7 +637,7 @@
       <Position>DIRT_ON_SENSOR</Position>
       <TranslationSet>
         <base loc="en">Wipe the home button to clean the sensor.</base>
-        <tran loc="es">Limpia el botón de inicio para que el sensor esté limpio.</tran>
+        <tran loc="es-419">Limpia el botón de inicio para despejar el sensor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -645,7 +645,7 @@
       <Position>ADJUST_GRIP</Position>
       <TranslationSet>
         <base loc="en">Adjust Your Grip</base>
-        <tran loc="es">Ajusta la huella</tran>
+        <tran loc="es-419">Ajusta la huella</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -653,7 +653,7 @@
       <Position>KEEP_FINGER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Keep Finger on the Home Button Until Asked to Lift.</base>
-        <tran loc="es">Mantén el dedo en el botón de inicio hasta que se te indique.</tran>
+        <tran loc="es-419">Mantén el dedo sobre el botón de inicio hasta que se te pida levantarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -661,7 +661,7 @@
       <Position>SENSOR_IS_READY</Position>
       <TranslationSet>
         <base loc="en">Touch ID is ready.</base>
-        <tran loc="es">Touch ID está preparado.</tran>
+        <tran loc="es-419">Touch ID está listo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -669,7 +669,7 @@
       <Position>DEMO_TUTOR</Position>
       <TranslationSet>
         <base loc="en">Scan your finger. In this demo, your fingerprint data will not be saved.</base>
-        <tran loc="es">Escanea tu dedo. En esta demostración, los datos de tu huella no se guardarán.</tran>
+        <tran loc="es-419">Escanea tu dedo. No se guardarán los datos de tu dedo durante esta demostración.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -680,7 +680,7 @@
       <Position>INSTRUCTION_STATE_SECOND_SCAN_COMPLETE</Position>
       <TranslationSet>
         <base loc="en">Second Face ID\nscan complete.</base>
-        <tran loc="es">Segunda exploración\nde Face ID completada.</tran>
+        <tran loc="es-419">Segundo registro de\nFace ID finalizado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>INSTRUCTION_STATE_ENROLL_FINISHED</Position>
       <TranslationSet>
         <base loc="en">Face ID is now\nset up.</base>
-        <tran loc="es">Face ID se ha\nconfigurado.</tran>
+        <tran loc="es-419">Se configuró\nFace ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_3</Position>
       <TranslationSet>
         <base loc="en">Only one face should be in view.</base>
-        <tran loc="es">Solo se debe visualizar una cara.</tran>
+        <tran loc="es-419">Debe haber una sola cara en el visor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>INSTRUCTION_DETAIL_STATE_PARTIAL_CAPTURE</Position>
       <TranslationSet>
         <base loc="en">Face ID works best when it learns to recognize your face from all angles.\nHowever, if you are unable to complete the circle, you can choose to use Face ID with fewer angles.</base>
-        <tran loc="es">Face ID funciona mejor si reconoce tu cara desde todos los ángulos.\nNo obstante, si no puedes completar el círculo, tienes la opción de usar Face ID con menos ángulos registrados.</tran>
+        <tran loc="es-419">Face ID funciona mejor cuando aprende a reconocer tu cara desde cualquier ángulo.\nNo obstante, si no puedes llenar el círculo, puedes elegir usar Face ID con menos ángulos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>INSTRUCTION_STATE_TUTORIAL</Position>
       <TranslationSet>
         <base loc="en">How to Set Up Face ID</base>
-        <tran loc="es">Cómo configurar Face ID</tran>
+        <tran loc="es-419">Cómo configurar Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>INSTRUCTION_DETAIL_STATE_TUTORIAL</Position>
       <TranslationSet>
         <base loc="en">First, position your face in the camera frame. Then move your head in a circle to show all the angles of your face.</base>
-        <tran loc="es">Primero coloca la cara en el recuadro de la cámara. Luego haz un movimiento circular con la cabeza para mostrar todos los ángulos de la cara.</tran>
+        <tran loc="es-419">Primero, sitúa tu cara dentro del marco de la cámara. Después, mueve tu cabeza circularmente de forma que se muestren todos los ángulos de tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>FINISH_ENROLL_BUTTON_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>INSTRUCTION_STATE_PARTIAL_CAPTURE</Position>
       <TranslationSet>
         <base loc="en">Face ID is Set Up</base>
-        <tran loc="es">Face ID está configurado</tran>
+        <tran loc="es-419">Se configuró Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>ENROLL_FAILED_TOO_HOT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">You can set up Face ID later when iPhone cools down.</base>
-        <tran loc="es">Puedes configurar Face ID más tarde, cuando el iPhone se haya enfriado.</tran>
+        <tran loc="es-419">Puedes registrar Face ID cuando el iPhone se enfríe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>ENROLL_FAILED_MESSAGE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Try setting up Face ID later.</base>
-        <tran loc="es">Intenta configurar Face ID más tarde.</tran>
+        <tran loc="es-419">Intenta configurar Face ID más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>NUDGE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Follow the arrow.</base>
-        <tran loc="es">Sigue la flecha.</tran>
+        <tran loc="es-419">Sigue la flecha.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>ENROLL_FAILED_INTERLOCKED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Face ID Has Been Disabled</base>
-        <tran loc="es">Face ID se ha desactivado</tran>
+        <tran loc="es-419">Se desactivó Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>ENROLL_FAILED_TOO_COLD_BUDDY</Position>
       <TranslationSet>
         <base loc="en">You can set up Face ID later in Settings when iPhone warms up.</base>
-        <tran loc="es">Puedes configurar Face ID en Ajustes más tarde, cuando el iPhone se haya calentado.</tran>
+        <tran loc="es-419">Puedes registrar Face ID en Configuración cuando el iPhone se caliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_4</Position>
       <TranslationSet>
         <base loc="en">Hold your iPhone 10 to 20 inches from your face.</base>
-        <tran loc="es">Sitúa el iPhone a una distancia de entre 25 y 50 cm de la cara.</tran>
+        <tran loc="es-419">Coloca el iPhone de 10 a 20 cm de tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>ENROLL_FAILED_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Face ID Is Not Available</base>
-        <tran loc="es">Face ID no está disponible</tran>
+        <tran loc="es-419">Face ID no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>INSTRUCTION_STATE_POSITIONING</Position>
       <TranslationSet>
         <base loc="en">Position your face\nwithin the frame.</base>
-        <tran loc="es">Coloca la cara\nen el recuadro.</tran>
+        <tran loc="es-419">Sitúa tu cara\ndentro del marco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>INSTRUCTION_SUBSTATE_7</Position>
       <TranslationSet>
         <base loc="en">Position your face\nwithin the frame.</base>
-        <tran loc="es">Coloca la cara\nen el recuadro.</tran>
+        <tran loc="es-419">Sitúa tu cara\ndentro del marco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>INSTRUCTION_SUBSTATE_8</Position>
       <TranslationSet>
         <base loc="en">Position your face\nwithin the frame.</base>
-        <tran loc="es">Coloca la cara\nen el recuadro.</tran>
+        <tran loc="es-419">Sitúa tu cara\ndentro del marco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>ENROLL_FAILED_MESSAGE_BUDDY</Position>
       <TranslationSet>
         <base loc="en">Set Up Face ID at any time in Settings.</base>
-        <tran loc="es">Puedes configurar Face ID en cualquier momento desde Ajustes.</tran>
+        <tran loc="es-419">Puedes registrar tu cara para Face ID en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>INSTRUCTION_SUBSTATE_2</Position>
       <TranslationSet>
         <base loc="en">Move Closer</base>
-        <tran loc="es">Acércate</tran>
+        <tran loc="es-419">Acércate</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>GENTLY_RAISE</Position>
       <TranslationSet>
         <base loc="en">Move iPhone a little higher</base>
-        <tran loc="es">Sube el iPhone un poco</tran>
+        <tran loc="es-419">Sube el iPhone un poco más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>FINISH_ENROLL_BUTTON_BUDDY</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_6</Position>
       <TranslationSet>
         <base loc="en">Your face is out of view.</base>
-        <tran loc="es">Tu cara no está visible.</tran>
+        <tran loc="es-419">No se ve tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>INSTRUCTION_STATE_FIRST_SCAN</Position>
       <TranslationSet>
         <base loc="en">Move your head slowly to complete the circle.</base>
-        <tran loc="es">Mueve la cabeza lentamente hasta completar el círculo.</tran>
+        <tran loc="es-419">Mueve lentamente tu cabeza para cerrar el círculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>INSTRUCTION_STATE_SECOND_SCAN</Position>
       <TranslationSet>
         <base loc="en">Move your head slowly to complete the circle.</base>
-        <tran loc="es">Mueve la cabeza lentamente hasta completar el círculo.</tran>
+        <tran loc="es-419">Mueve lentamente tu cabeza para cerrar el círculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>SET_UP_LATER_IN_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Set Up Later in Settings</base>
-        <tran loc="es">Configurar más tarde en Ajustes</tran>
+        <tran loc="es-419">Agregar después en Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>GENTLY_LOWER</Position>
       <TranslationSet>
         <base loc="en">Move iPhone a little lower</base>
-        <tran loc="es">Baja el iPhone un poco</tran>
+        <tran loc="es-419">Baja el iPhone un poco más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>INSTRUCTION_SUBSTATE_6</Position>
       <TranslationSet>
         <base loc="en">Reposition Your Face\nWithin the Frame</base>
-        <tran loc="es">Vuelve a colocar la cara\nen el recuadro.</tran>
+        <tran loc="es-419">Sitúa tu cara\ndentro del marco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +928,7 @@
       <Position>ENROLL_WITH_VOICEOVER_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Face ID &amp; VoiceOver</base>
-        <tran loc="es">Face ID y VoiceOver</tran>
+        <tran loc="es-419">Face ID y VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +936,7 @@
       <Position>ENROLL_FAILED_TOO_COLD_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">You can set up Face ID later when iPhone warms up.</base>
-        <tran loc="es">Puedes configurar Face ID más tarde, cuando el iPhone se haya calentado.</tran>
+        <tran loc="es-419">Puedes registrar Face ID cuando el iPhone se caliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +944,7 @@
       <Position>INSTRUCTION_SUBSTATE_5</Position>
       <TranslationSet>
         <base loc="en">Face Obstructed</base>
-        <tran loc="es">Cara tapada</tran>
+        <tran loc="es-419">Cara obstruida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +952,7 @@
       <Position>BACK</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +960,7 @@
       <Position>INSTRUCTION_STATE_FIRST_SCAN_COMPLETE</Position>
       <TranslationSet>
         <base loc="en">First Face ID\nscan complete.</base>
-        <tran loc="es">Primera exploración\nde Face ID completada.</tran>
+        <tran loc="es-419">Primer registro de\nFace ID finalizado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -968,7 +968,7 @@
       <Position>START_ENROLL</Position>
       <TranslationSet>
         <base loc="en">Get Started</base>
-        <tran loc="es">Empezar</tran>
+        <tran loc="es-419">Empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -976,7 +976,7 @@
       <Position>INSTRUCTION_SUBSTATE_3</Position>
       <TranslationSet>
         <base loc="en">Multiple Faces</base>
-        <tran loc="es">Varias caras</tran>
+        <tran loc="es-419">Varias caras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -984,7 +984,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_5</Position>
       <TranslationSet>
         <base loc="en">Try removing anything that may be covering your face.</base>
-        <tran loc="es">Quita lo que pueda estar tapándote la cara.</tran>
+        <tran loc="es-419">Deja tu cara lo más descubierta posible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -992,7 +992,7 @@
       <Position>ENROLL_FAILED_DIFFERENT_FACE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not The Same Face</base>
-        <tran loc="es">Se ha usado una cara distinta</tran>
+        <tran loc="es-419">No es la misma cara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1000,7 +1000,7 @@
       <Position>FINISH_ENROLL_BUTTON_DEMO</Position>
       <TranslationSet>
         <base loc="en">Try Face ID</base>
-        <tran loc="es">Probar Face ID</tran>
+        <tran loc="es-419">Probar Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1008,7 +1008,7 @@
       <Position>INSTRUCTION_SUBSTATE_4</Position>
       <TranslationSet>
         <base loc="en">Background Is Too Bright</base>
-        <tran loc="es">El fondo es demasiado claro</tran>
+        <tran loc="es-419">El fondo es muy brillante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1016,7 +1016,7 @@
       <Position>ACCESSIBILITY_OPTIONS</Position>
       <TranslationSet>
         <base loc="en">Accessibility Options</base>
-        <tran loc="es">Opciones de accesibilidad</tran>
+        <tran loc="es-419">Opciones de accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1024,7 +1024,7 @@
       <Position>ENROLL_FAILED_INTERLOCKED_MESSAGE_BUDDY</Position>
       <TranslationSet>
         <base loc="en">A problem has been detected with the TrueDepth camera. Go to Settings after you finish setting up iPhone for more information.</base>
-        <tran loc="es">Se ha detectado un problema con la cámara TrueDepth. Cuando termines de configurar el iPhone, ve a Ajustes para obtener más información.</tran>
+        <tran loc="es-419">Se detectó un problema con la cámara TrueDepth. Cuando termines de configurar el iPhone, encontrarás más detalles en la app Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1032,7 +1032,7 @@
       <Position>START_OVER</Position>
       <TranslationSet>
         <base loc="en">Start Over</base>
-        <tran loc="es">Volver a empezar</tran>
+        <tran loc="es-419">Volver a empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1040,7 +1040,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_1</Position>
       <TranslationSet>
         <base loc="en">Hold iPhone 10 to 20 inches from your face.</base>
-        <tran loc="es">Sitúa el iPhone a una distancia de entre 25 y 50 cm de la cara.</tran>
+        <tran loc="es-419">Coloca el iPhone de 25 a 50 cm de tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1048,7 +1048,7 @@
       <Position>INSTRUCTION_DETAIL_SUBSTATE_2</Position>
       <TranslationSet>
         <base loc="en">Hold iPhone 10 to 20 inches from your face.</base>
-        <tran loc="es">Sitúa el iPhone a una distancia de entre 25 y 50 cm de la cara.</tran>
+        <tran loc="es-419">Coloca el iPhone de 25 a 50 cm de tu cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1056,7 +1056,7 @@
       <Position>INSTRUCTION_SUBSTATE_1</Position>
       <TranslationSet>
         <base loc="en">Move Back a Little</base>
-        <tran loc="es">Aléjate un poco</tran>
+        <tran loc="es-419">Aléjate un poco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1064,7 @@
       <Position>USE_PARTIAL_CAPTURE</Position>
       <TranslationSet>
         <base loc="en">Use Partial Circle</base>
-        <tran loc="es">Usar círculo parcial</tran>
+        <tran loc="es-419">Usar círculo parcial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1072,7 +1072,7 @@
       <Position>ENROLL_WITH_VOICEOVER_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Face ID has been set up to verify your identity but not require that you look at iPhone to authenticate. This can be changed in Face ID &amp; Passcode settings.</base>
-        <tran loc="es">Se ha configurado Face ID para verificar tu identidad sin la necesidad de mirar directamente al iPhone para autenticarte. Esta configuración se puede cambiar en los ajustes de “Face ID y código”.</tran>
+        <tran loc="es-419">Se configuró Face ID para verificar tu identidad aunque no se requiere que veas al iPhone para autenticar. Esto se puede cambiar en la configuración "Face ID y código".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1080,7 +1080,7 @@
       <Position>ENROLL_FAILED_INTERLOCKED_MESSAGE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">A problem has been detected with the TrueDepth camera.</base>
-        <tran loc="es">Se ha detectado un problema con la cámara TrueDepth.</tran>
+        <tran loc="es-419">Se detectó un problema con la cámara TrueDepth.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1088,7 @@
       <Position>ENROLL_FAILED_DIFFERENT_FACE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Face ID requires the same face throughout enrollment.</base>
-        <tran loc="es">Face ID requiere que se use la cara de la misma persona durante todo el proceso de registro.</tran>
+        <tran loc="es-419">Face ID requiere que la cara sea la misma durante todo el registro.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1096,7 @@
       <Position>ENROLL_FAILED_TOO_HOT_BUDDY</Position>
       <TranslationSet>
         <base loc="en">You can set up Face ID later in Settings when iPhone cools down.</base>
-        <tran loc="es">Puedes configurar Face ID en Ajustes más tarde, cuando el iPhone se haya enfriado.</tran>
+        <tran loc="es-419">Puedes registrar Face ID en Configuración cuando el iPhone se enfríe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1104,7 @@
       <Position>INSTRUCTION_STATE_ENROLL_FINISHED_DEMO</Position>
       <TranslationSet>
         <base loc="en">Face ID is ready.</base>
-        <tran loc="es">Face ID está preparado.</tran>
+        <tran loc="es-419">Face ID está listo.</tran>
       </TranslationSet>
     </TextItem>
   </File>

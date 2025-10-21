@@ -8,7 +8,7 @@
       <Position>Try again later.</Position>
       <TranslationSet>
         <base loc="en">Try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Hide Table of Contents</Position>
       <TranslationSet>
         <base loc="en">Hide Table of Contents</base>
-        <tran loc="es">Ocultar tabla de contenido</tran>
+        <tran loc="es-419">Ocultar tabla de contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Can’t Open Help.</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Help.</base>
-        <tran loc="es">No se puede abrir la ayuda.</tran>
+        <tran loc="es-419">No se puede abrir la ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Forward</Position>
       <TranslationSet>
         <base loc="en">Forward</base>
-        <tran loc="es">Adelante</tran>
+        <tran loc="es-419">Adelante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Show Table of Contents</Position>
       <TranslationSet>
         <base loc="en">Show Table of Contents</base>
-        <tran loc="es">Mostrar tabla de contenido</tran>
+        <tran loc="es-419">Mostrar tabla de contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Glossary</Position>
       <TranslationSet>
         <base loc="en">Glossary</base>
-        <tran loc="es">Glosario</tran>
+        <tran loc="es-419">Glosario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Copyright © %d Apple Inc. All rights reserved.</Position>
       <TranslationSet>
         <base loc="en">Copyright © %d Apple Inc. All rights reserved.</base>
-        <tran loc="es">Copyright © %d Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © %d Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Back</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>No results found</Position>
       <TranslationSet>
         <base loc="en">No results found</base>
-        <tran loc="es">Ningún resultado</tran>
+        <tran loc="es-419">Ningún resultado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Returns to the previously-visited topic.</Position>
       <TranslationSet>
         <base loc="en">Returns to the previously-visited topic.</base>
-        <tran loc="es">Vuelve al tema visto anteriormente.</tran>
+        <tran loc="es-419">Regresa al tema visitado anteriormente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>No Internet connection.</Position>
       <TranslationSet>
         <base loc="en">No Internet connection.</base>
-        <tran loc="es">No hay conexión a internet.</tran>
+        <tran loc="es-419">No hay conexión a Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Help</Position>
       <TranslationSet>
         <base loc="en">Help</base>
-        <tran loc="es">Ayuda</tran>
+        <tran loc="es-419">Ayuda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Topic:</Position>
       <TranslationSet>
         <base loc="en">Topic:</base>
-        <tran loc="es">Tema:</tran>
+        <tran loc="es-419">Tema:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Section:</Position>
       <TranslationSet>
         <base loc="en">Section:</base>
-        <tran loc="es">Sección:</tran>
+        <tran loc="es-419">Sección:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Navigates forward in the history of visited topics.</Position>
       <TranslationSet>
         <base loc="en">Navigates forward in the history of visited topics.</base>
-        <tran loc="es">Avanza en el historial de temas vistos.</tran>
+        <tran loc="es-419">Navega hacia adelante en el historial de temas visitados.</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>PIN_DIALOG_MESSAGE_MAC</Position>
       <TranslationSet>
         <base loc="en">Enter this code on your Mac to set up this Apple TV.\nTo go back, press the Menu button on the remote.</base>
-        <tran loc="es">Introduce este código en el Mac para configurar este Apple TV.\nPara volver, pulsa el botón Menú en el mando a distancia.</tran>
+        <tran loc="es-419">Ingresa este código en tu Mac para configurar este Apple TV.\nPara regresar, presiona el botón Menú del control remoto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>PIN_DIALOG_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Enter Code</base>
-        <tran loc="es">Introduce el código</tran>
+        <tran loc="es-419">Ingresar código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>PIN_DIALOG_TITLE</Position>
       <TranslationSet>
         <base loc="en">Authenticate</base>
-        <tran loc="es">Autenticación</tran>
+        <tran loc="es-419">Autenticar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -34,7 +34,7 @@
       <Position>PIN_DIALOG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your authentication code is:</base>
-        <tran loc="es">El código de autenticación es:</tran>
+        <tran loc="es-419">Tu código de autenticación es:</tran>
       </TranslationSet>
     </TextItem>
   </File>

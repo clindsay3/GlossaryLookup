@@ -13,7 +13,7 @@
       <Position>NOTIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Emergency Alert</base>
-        <tran loc="es">Alerta de emergencia</tran>
+        <tran loc="es-419">Alerta de emergencia</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -29,7 +29,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Emergency Alerts</base>
-        <tran loc="es">Alertas de emergencia</tran>
+        <tran loc="es-419">Alertas de emergencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -37,7 +37,7 @@
       <Position>SETTINGS_ACTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -45,7 +45,7 @@
       <Position>CFBundleDisplayName-watchos</Position>
       <TranslationSet>
         <base loc="en">Emergency</base>
-        <tran loc="es">Emergencia</tran>
+        <tran loc="es-419">Emergencia</tran>
       </TranslationSet>
     </TextItem>
   </File>

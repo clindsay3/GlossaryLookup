@@ -8,7 +8,7 @@
       <Position>UnsafeDisconnect-R(*)</Position>
       <TranslationSet>
         <base loc="en">The location couldn’t be disconnected. Do you want to force the disconnection?</base>
-        <tran loc="es">La ubicación no se ha podido desconectar. ¿Quieres forzar la desconexión?</tran>
+        <tran loc="es-419">No se pudo desconectar la ubicación. ¿Quieres forzar la desconexión?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>.f(Remove)</Position>
       <TranslationSet>
         <base loc="en">Can’t Delete “%@”</base>
-        <tran loc="es">No es posible eliminar “%@”</tran>
+        <tran loc="es-419">No se puede eliminar “%@“</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>NoSuchItem-C.f(Copy)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be copied because it either doesn’t exist or the folder it is being copied to doesn’t exist.</base>
-        <tran loc="es">El archivo “%@” no se ha podido copiar porque no existe o la carpeta de destino no existe.</tran>
+        <tran loc="es-419">No se pudo copiar el archivo “%@” porque no existe o la carpeta a la que se está copiando no existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Recovery-ItemExists(*)</Position>
       <TranslationSet>
         <base loc="en">Replace Existing Items?</base>
-        <tran loc="es">¿Reemplazar ítems existentes?</tran>
+        <tran loc="es-419">¿Reemplazar los elementos existentes?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Recovery-NewerItemExists(*)</Position>
       <TranslationSet>
         <base loc="en">Replace Existing Items?</base>
-        <tran loc="es">¿Reemplazar ítems existentes?</tran>
+        <tran loc="es-419">¿Reemplazar los elementos existentes?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Recovery-OlderItemExists(*)</Position>
       <TranslationSet>
         <base loc="en">Replace Existing Items?</base>
-        <tran loc="es">¿Reemplazar ítems existentes?</tran>
+        <tran loc="es-419">¿Reemplazar los elementos existentes?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>ItemExists-C.f(*)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” already exists in this location.</base>
-        <tran loc="es">Ya existe un archivo denominado “%@” en esta ubicación.</tran>
+        <tran loc="es-419">Ya existe un archivo llamado “%@” en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>ItemExists.f</Position>
       <TranslationSet>
         <base loc="en">The file “%@” already exists in this location.</base>
-        <tran loc="es">Ya existe un archivo denominado “%@” en esta ubicación.</tran>
+        <tran loc="es-419">Ya existe un archivo llamado “%@” en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>OlderItemExists-R(Move)</Position>
       <TranslationSet>
         <base loc="en">An older version of the file already exists in this location. Do you want to replace it with the one you’re moving?</base>
-        <tran loc="es">Ya hay una versión más antigua del archivo en esta ubicación. ¿Quieres reemplazarla por la que estás trasladando?</tran>
+        <tran loc="es-419">Una versión anterior del archivo ya existe en esta ubicación. ¿Quieres reemplazarlo con el que estás trasladando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>VersionOutOfDate-C.f(Remove)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be removed because its contents are out of date.</base>
-        <tran loc="es">El archivo “%@” no se ha podido eliminar porque el contenido ha caducado.</tran>
+        <tran loc="es-419">El archivo “%@” no pudo eliminarse porque el contenido son obsoletos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>NotAuthenticated</Position>
       <TranslationSet>
         <base loc="en">You need to authenticate before accessing this item.</base>
-        <tran loc="es">Es necesario autenticarse para acceder a este ítem.</tran>
+        <tran loc="es-419">Debes autenticar antes de acceder a este elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>(Copy)</Position>
       <TranslationSet>
         <base loc="en">The Copy Operation Can’t Be Completed</base>
-        <tran loc="es">La operación de copia no puede completarse</tran>
+        <tran loc="es-419">No se puede completar la operación de copiar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>Disconnect-Force</Position>
       <TranslationSet>
         <base loc="en">Force Disconnect</base>
-        <tran loc="es">Forzar la desconexión</tran>
+        <tran loc="es-419">Forzar desconexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>UnsafeDisconnect</Position>
       <TranslationSet>
         <base loc="en">“%@” couldn’t be disconnected.</base>
-        <tran loc="es">“%@” no se ha podido desconectar.</tran>
+        <tran loc="es-419">“%@” no se pudo desconectar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>UnsafeDisconnect-C.f(*)</Position>
       <TranslationSet>
         <base loc="en">“%@” couldn’t be disconnected.</base>
-        <tran loc="es">“%@” no se ha podido desconectar.</tran>
+        <tran loc="es-419">“%@” no se pudo desconectar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>NewerItemExists-R(Copy)</Position>
       <TranslationSet>
         <base loc="en">A newer version of the file already exists in this location. Do you want to replace it with the one you’re copying?</base>
-        <tran loc="es">Ya hay una versión más reciente del archivo en esta ubicación. ¿Quieres reemplazarla por la que estás copiando?</tran>
+        <tran loc="es-419">Una nueva versión del archivo ya existe en esta ubicación. ¿Quieres reemplazarlo con el que estás copiando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>OlderItemExists-R.f(Move)</Position>
       <TranslationSet>
         <base loc="en">An older item named “%@” already exists in this location. Do you want to replace it with the one you’re moving?</base>
-        <tran loc="es">Ya existe un ítem más antiguo denominado “%@” en esta ubicación. ¿Quieres reemplazarlo por el que estás trasladando?</tran>
+        <tran loc="es-419">Ya existe un elemento llamado “%@” en esta ubicación. ¿Quieres reemplazarlo con el que estás trasladando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>ItemExists-R(*)</Position>
       <TranslationSet>
         <base loc="en">Do you want to replace it?</base>
-        <tran loc="es">¿Quieres sustituirlo?</tran>
+        <tran loc="es-419">¿Quieres reemplazarlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>NewerItemExists-R(*)</Position>
       <TranslationSet>
         <base loc="en">Do you want to replace it?</base>
-        <tran loc="es">¿Quieres sustituirlo?</tran>
+        <tran loc="es-419">¿Quieres reemplazarlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>OlderItemExists-R(*)</Position>
       <TranslationSet>
         <base loc="en">Do you want to replace it?</base>
-        <tran loc="es">¿Quieres sustituirlo?</tran>
+        <tran loc="es-419">¿Quieres reemplazarlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>NoSuchItem-C.f(Remove)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be removed because it doesn’t exist.</base>
-        <tran loc="es">El archivo “%@” no se ha podido eliminar porque no existe.</tran>
+        <tran loc="es-419">No se pudo eliminar al archivo "%@" porque no existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>NoSuchItem</Position>
       <TranslationSet>
         <base loc="en">The file doesn’t exist.</base>
-        <tran loc="es">El archivo no existe.</tran>
+        <tran loc="es-419">El archivo no existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>ServerUnreachable</Position>
       <TranslationSet>
         <base loc="en">Your device couldn’t connect to the server. There may be a problem with the server or network.</base>
-        <tran loc="es">El dispositivo no ha podido conectarse al servidor. Es posible que haya un problema con el servidor o con la red.</tran>
+        <tran loc="es-419">Tu dispositivo no se pudo conectar al servidor. Puede que haya un problema con el servidor o con la red.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>Disconnect-Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>Preflight-Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>Preflight-Continue</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -218,7 +218,7 @@
       <Position>OlderItemExists</Position>
       <TranslationSet>
         <base loc="en">An older version of the file already exists in this location.</base>
-        <tran loc="es">Ya hay una versión más antigua del archivo en esta ubicación.</tran>
+        <tran loc="es-419">Una versión anterior del archivo ya existe en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -226,7 +226,7 @@
       <Position>OlderItemExists-C(*)</Position>
       <TranslationSet>
         <base loc="en">An older version of the file already exists in this location.</base>
-        <tran loc="es">Ya hay una versión más antigua del archivo en esta ubicación.</tran>
+        <tran loc="es-419">Una versión anterior del archivo ya existe en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -234,7 +234,7 @@
       <Position>(Rename)</Position>
       <TranslationSet>
         <base loc="en">The Rename Operation Can’t Be Completed</base>
-        <tran loc="es">La operación de cambio de nombre no puede completarse</tran>
+        <tran loc="es-419">No se puede completar la operación de renombrar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -242,7 +242,7 @@
       <Position>UnsafeDisconnect-C(*)</Position>
       <TranslationSet>
         <base loc="en">The location couldn’t be disconnected.</base>
-        <tran loc="es">La ubicación no se ha podido desconectar.</tran>
+        <tran loc="es-419">No se pudo desconectar la ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -250,7 +250,7 @@
       <Position>NewerItemExists-C.f(*)</Position>
       <TranslationSet>
         <base loc="en">A newer item named “%@” already exists in this location.</base>
-        <tran loc="es">Ya hay un ítem más reciente denominado “%@” en esta ubicación.</tran>
+        <tran loc="es-419">Ya existe un elemento más reciente llamado “%@” en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -258,7 +258,7 @@
       <Position>NewerItemExists.f</Position>
       <TranslationSet>
         <base loc="en">A newer item named “%@” already exists in this location.</base>
-        <tran loc="es">Ya hay un ítem más reciente denominado “%@” en esta ubicación.</tran>
+        <tran loc="es-419">Ya existe un elemento más reciente llamado “%@” en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -266,7 +266,7 @@
       <Position>NewerItemExists</Position>
       <TranslationSet>
         <base loc="en">A newer version of the file already exists in this location.</base>
-        <tran loc="es">Ya hay una versión más reciente del archivo en esta ubicación.</tran>
+        <tran loc="es-419">Una nueva versión del archivo ya existe en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -274,7 +274,7 @@
       <Position>NewerItemExists-C(*)</Position>
       <TranslationSet>
         <base loc="en">A newer version of the file already exists in this location.</base>
-        <tran loc="es">Ya hay una versión más reciente del archivo en esta ubicación.</tran>
+        <tran loc="es-419">Una nueva versión del archivo ya existe en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>(Move)</Position>
       <TranslationSet>
         <base loc="en">The Move Operation Can’t Be Completed</base>
-        <tran loc="es">La operación de traslado no puede completarse</tran>
+        <tran loc="es-419">No se puede completar la operación de traslado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>VersionOutOfDate-C.f(Move)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be moved because its contents are out of date.</base>
-        <tran loc="es">El archivo “%@” no se ha podido mover porque el contenido ha caducado.</tran>
+        <tran loc="es-419">El archivo “%@” no pudo desplazarse porque el contenido son obsoletos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>Copy-Replace</Position>
       <TranslationSet>
         <base loc="en">Replace</base>
-        <tran loc="es">Reemplazar</tran>
+        <tran loc="es-419">Reemplazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>VersionOutOfDate</Position>
       <TranslationSet>
         <base loc="en">The file contents are out of date.</base>
-        <tran loc="es">El contenido del archivo ha caducado.</tran>
+        <tran loc="es-419">El contenido del archivo están obsoletos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>NoSuchItem-C.f(Rename)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be renamed because it doesn’t exist.</base>
-        <tran loc="es">No se ha podido cambiar el nombre del archivo “%@” porque no existe.</tran>
+        <tran loc="es-419">No se pudo renombrar al archivo "%@" porque no existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>ItemExists-R(Move)</Position>
       <TranslationSet>
         <base loc="en">The file already exists in this location. Do you want to replace it with the one you’re moving?</base>
-        <tran loc="es">El archivo ya existe en esta ubicación. ¿Quieres reemplazarlo por el que estás trasladando?</tran>
+        <tran loc="es-419">Ya existe el archivo en esta ubicación. ¿Quieres reemplazarlo con el que estás trasladando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -330,7 +330,7 @@
       <Position>(Open)</Position>
       <TranslationSet>
         <base loc="en">Can’t Open File</base>
-        <tran loc="es">No se puede abrir el archivo</tran>
+        <tran loc="es-419">No se puede abrir el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>NoSuchItem.f</Position>
       <TranslationSet>
         <base loc="en">The file “%@” doesn’t exist.</base>
-        <tran loc="es">El archivo “%@” no existe.</tran>
+        <tran loc="es-419">El archivo “%@” no existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>NewerItemExists-R(Move)</Position>
       <TranslationSet>
         <base loc="en">A newer version of the file already exists in this location. Do you want to replace it with the one you’re moving?</base>
-        <tran loc="es">Ya hay una versión más reciente del archivo en esta ubicación. ¿Quieres reemplazarlo por el que estás trasladando?</tran>
+        <tran loc="es-419">Una nueva versión del archivo ya existe en esta ubicación. ¿Quieres reemplazarlo con el que estás trasladando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>NoSuchItem-C.f(Move)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be moved because it either doesn’t exist or the folder it is being moved to doesn’t exist.</base>
-        <tran loc="es">El archivo “%@” no se ha podido mover porque no existe o la carpeta de destino no existe.</tran>
+        <tran loc="es-419">No se pudo trasladar el archivo “%@” porque no existe o la carpeta a la que se está trasladando no existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>ItemExists-R.f(Copy)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” already exists in this location. Do you want to replace it with the one you’re copying?</base>
-        <tran loc="es">Ya existe un archivo denominado “%@” en esta ubicación. ¿Quieres reemplazarlo por el que estás copiando?</tran>
+        <tran loc="es-419">Ya existe un archivo llamado “%@” en esta ubicación. ¿Quieres reemplazarlo con el que estás copiando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>NoSuchItem-C.f(Open)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be opened because it doesn’t exist.</base>
-        <tran loc="es">El archivo “%@” no se ha podido abrir porque no existe.</tran>
+        <tran loc="es-419">No se pudo abrir al archivo "%@" porque no existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>.f(Rename)</Position>
       <TranslationSet>
         <base loc="en">Can’t Rename “%@”</base>
-        <tran loc="es">No es posible cambiar el nombre de “%@”</tran>
+        <tran loc="es-419">No se puede renombrar “%@“</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>ItemExists-R(Copy)</Position>
       <TranslationSet>
         <base loc="en">The file already exists in this location. Do you want to replace it with the one you’re copying?</base>
-        <tran loc="es">El archivo ya existe en esta ubicación. ¿Quieres reemplazarlo por el que estás copiando?</tran>
+        <tran loc="es-419">Ya existe el archivo en esta ubicación. ¿Quieres reemplazarlo con el que estás copiando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>Copy-Stop</Position>
       <TranslationSet>
         <base loc="en">Stop</base>
-        <tran loc="es">Detener</tran>
+        <tran loc="es-419">Detener</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>OlderItemExists-R(Copy)</Position>
       <TranslationSet>
         <base loc="en">An older version of the file already exists in this location. Do you want to replace it with the one you’re copying?</base>
-        <tran loc="es">Ya hay una versión más antigua del archivo en esta ubicación. ¿Quieres reemplazarla por la que estás copiando?</tran>
+        <tran loc="es-419">Una versión anterior del archivo ya existe en esta ubicación. ¿Quieres reemplazarlo con el que estás copiando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>UnsafeDisconnect-R.f(*)</Position>
       <TranslationSet>
         <base loc="en">“%@” couldn’t be disconnected. Do you want to force the disconnection?</base>
-        <tran loc="es">“%@” no se ha podido desconectar. ¿Quieres forzar la desconexión?</tran>
+        <tran loc="es-419">“%@” no se pudo desconectar. ¿Quieres forzar la desconexión?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>VersionOutOfDate-C.f(Open)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be opened because its contents are out of date.</base>
-        <tran loc="es">El archivo “%@” no se ha podido abrir porque el contenido ha caducado.</tran>
+        <tran loc="es-419">El archivo “%@” no pudo abrirse porque el contenido son obsoletos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -433,7 +433,7 @@
       <Position>.f(Move)</Position>
       <TranslationSet>
         <base loc="en">Can’t Move “%@”</base>
-        <tran loc="es">No es posible mover “%@”</tran>
+        <tran loc="es-419">No se puede trasladar "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -441,7 +441,7 @@
       <Position>OlderItemExists-R.f(Copy)</Position>
       <TranslationSet>
         <base loc="en">An older item named “%@” already exists in this location. Do you want to replace it with the one you’re copying?</base>
-        <tran loc="es">Ya existe un ítem más antiguo denominado “%@” en esta ubicación. ¿Quieres reemplazarlo por el que estás copiando?</tran>
+        <tran loc="es-419">Ya existe un elemento más antiguo llamado “%@” en esta ubicación. ¿Quieres reemplazarlo con el que estás copiando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -449,7 +449,7 @@
       <Position>ItemExists-R.f(Move)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” already exists in this location. Do you want to replace it with the one you’re moving?</base>
-        <tran loc="es">Ya existe un archivo denominado “%@” en esta ubicación. ¿Quieres reemplazarlo por el que estás trasladando?</tran>
+        <tran loc="es-419">Ya existe un archivo llamado “%@” en esta ubicación. ¿Quieres reemplazarlo con el que estás trasladando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -457,7 +457,7 @@
       <Position>OlderItemExists-C.f(*)</Position>
       <TranslationSet>
         <base loc="en">An older item named “%@” already exists in this location.</base>
-        <tran loc="es">Ya hay un ítem más antiguo denominado “%@” en esta ubicación.</tran>
+        <tran loc="es-419">Ya existe un elemento anterior llamado “%@” en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -465,7 +465,7 @@
       <Position>OlderItemExists.f</Position>
       <TranslationSet>
         <base loc="en">An older item named “%@” already exists in this location.</base>
-        <tran loc="es">Ya hay un ítem más antiguo denominado “%@” en esta ubicación.</tran>
+        <tran loc="es-419">Ya existe un elemento anterior llamado “%@” en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@
       <Position>NewerItemExists-R.f(Move)</Position>
       <TranslationSet>
         <base loc="en">A newer item named “%@” already exists in this location. Do you want to replace it with the one you’re moving?</base>
-        <tran loc="es">Ya existe un ítem más reciente denominado “%@” en esta ubicación. ¿Quieres reemplazarlo por el que estás trasladando?</tran>
+        <tran loc="es-419">Ya existe un elemento más reciente llamado “%@” en esta ubicación. ¿Quieres reemplazarlo con el que estás trasladando?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@
       <Position>(Remove)</Position>
       <TranslationSet>
         <base loc="en">The Delete Operation Can’t Be Completed</base>
-        <tran loc="es">La operación de eliminación no puede completarse</tran>
+        <tran loc="es-419">No se puede completar la operación de eliminar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>ItemExists</Position>
       <TranslationSet>
         <base loc="en">The file already exists in this location.</base>
-        <tran loc="es">El archivo ya existe en esta ubicación.</tran>
+        <tran loc="es-419">Ya existe el archivo en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>ItemExists-C(*)</Position>
       <TranslationSet>
         <base loc="en">The file already exists in this location.</base>
-        <tran loc="es">El archivo ya existe en esta ubicación.</tran>
+        <tran loc="es-419">Ya existe el archivo en esta ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>Recovery-UnsafeDisconnect</Position>
       <TranslationSet>
         <base loc="en">Force the disconnection?</base>
-        <tran loc="es">¿Forzar la desconexión?</tran>
+        <tran loc="es-419">¿Forzar la desconexión?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@
       <Position>.f(Copy)</Position>
       <TranslationSet>
         <base loc="en">Can’t Copy “%@”</base>
-        <tran loc="es">No es posible copiar “%@”</tran>
+        <tran loc="es-419">No se puede copiar “%@“</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@
       <Position>VersionOutOfDate-C.f(Copy)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be copied because its contents are out of date.</base>
-        <tran loc="es">El archivo “%@” no se ha podido copiar porque el contenido ha caducado.</tran>
+        <tran loc="es-419">El archivo “%@” no pudo copiarse porque el contenido son obsoletos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>Copy-Keep Both</Position>
       <TranslationSet>
         <base loc="en">Keep Both</base>
-        <tran loc="es">Conservar ambos</tran>
+        <tran loc="es-419">Conservar ambos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>VersionOutOfDate-C.f(Rename)</Position>
       <TranslationSet>
         <base loc="en">The file “%@” couldn’t be renamed because its contents are out of date.</base>
-        <tran loc="es">El archivo “%@” no se ha podido renombrar porque el contenido ha caducado.</tran>
+        <tran loc="es-419">El archivo “%@” no pudo renombrarse porque el contenido son obsoletos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>NewerItemExists-R.f(Copy)</Position>
       <TranslationSet>
         <base loc="en">A newer item named “%@” already exists in this location.  Do you want to replace it with the one you’re copying?</base>
-        <tran loc="es">Ya existe un ítem más reciente denominado “%@” en esta ubicación. ¿Quieres reemplazarlo por el que estás copiando?</tran>
+        <tran loc="es-419">Ya existe un elemento más reciente llamado “%@” en esta  ubicación. ¿Quieres reemplazarlo con el que estás copiando?</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -556,7 +556,7 @@
       <Position>InvalidURL</Position>
       <TranslationSet>
         <base loc="en">The URL is invalid.</base>
-        <tran loc="es">La URL no es válida.</tran>
+        <tran loc="es-419">La URL no es válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -564,7 +564,7 @@
       <Position>ARCHIVE_FILENAME</Position>
       <TranslationSet>
         <base loc="en">Archive</base>
-        <tran loc="es">Archivo</tran>
+        <tran loc="es-419">Archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -572,7 +572,7 @@
       <Position>ARCHIVE_ENTER_DECRYPTION_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Please enter the password for “%@”.</base>
-        <tran loc="es">Introduce la contraseña de “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -580,7 +580,7 @@
       <Position>ACTION_DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -588,7 +588,7 @@
       <Position>PluginOperationFailed</Position>
       <TranslationSet>
         <base loc="en">The plug-in returned an error.</base>
-        <tran loc="es">El módulo ha devuelto un error.</tran>
+        <tran loc="es-419">El módulo presentó un error.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -596,7 +596,7 @@
       <Position>SORT_DESCRIPTOR_NAME</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -604,7 +604,7 @@
       <Position>ProxyNotFound</Position>
       <TranslationSet>
         <base loc="en">A connection to the extension “%@” could not be made.</base>
-        <tran loc="es">No se ha podido establecer una conexión con la extensión “%@”.</tran>
+        <tran loc="es-419">No se pudo establecer una conexión con la extensión "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -618,7 +618,7 @@
       <Position>NoValidProviderFound_identifier</Position>
       <TranslationSet>
         <base loc="en">No valid file provider found with identifier %@.</base>
-        <tran loc="es">No se ha encontrado un proveedor de archivos válido con el identificador %@.</tran>
+        <tran loc="es-419">No se encontró ningún proveedor de archivos con el identificador %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@
       <Position>InvalidBookmark</Position>
       <TranslationSet>
         <base loc="en">The bookmark is invalid.</base>
-        <tran loc="es">El marcador no es válido.</tran>
+        <tran loc="es-419">El marcador no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>RECOVERED_DATA_FOLDER_NAME</Position>
       <TranslationSet>
         <base loc="en">Recovered Files – %@</base>
-        <tran loc="es">Archivos recuperados: %@</tran>
+        <tran loc="es-419">Archivos recuperados – %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -643,7 +643,7 @@
       <Position>ACTION_RENAME</Position>
       <TranslationSet>
         <base loc="en">Rename</base>
-        <tran loc="es">Renombrar</tran>
+        <tran loc="es-419">Renombrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -651,7 +651,7 @@
       <Position>CANCEL_POSIX_DOWNLOAD_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>ACTION_CREATE_DIR</Position>
       <TranslationSet>
         <base loc="en">New Directory</base>
-        <tran loc="es">Nuevo directorio</tran>
+        <tran loc="es-419">Nuevo directorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>InvalidParameter_Parameter</Position>
       <TranslationSet>
         <base loc="en">The parameter “%@” is invalid.</base>
-        <tran loc="es">El parámetro “%@” no es válido.</tran>
+        <tran loc="es-419">El parámetro “%@” no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>CANCEL_POSIX_DOWNLOAD_WAIT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Continue Waiting</base>
-        <tran loc="es">Seguir esperando</tran>
+        <tran loc="es-419">Seguir esperando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>SORT_DESCRIPTOR_DATE</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>CANCEL_POSIX_DOWNLOAD_BODY</Position>
       <TranslationSet>
         <base loc="en">The file won’t open until the download completes.</base>
-        <tran loc="es">El archivo no se abrirá hasta que se complete la descarga.</tran>
+        <tran loc="es-419">El archivo no se abrirá sino hasta que la descarga finalice.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>InvalidParameter_Parameter_Value</Position>
       <TranslationSet>
         <base loc="en">The value “%@” is not valid for the parameter “%@”.</base>
-        <tran loc="es">El valor “%@” no es válido para el parámetro “%@”.</tran>
+        <tran loc="es-419">El valor “%@” no es válido para el parámetro “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>ACTION_EVICT</Position>
       <TranslationSet>
         <base loc="en">Evict</base>
-        <tran loc="es">Desalojar</tran>
+        <tran loc="es-419">Expulsar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -715,7 +715,7 @@
       <Position>ClientLacksEntitlement</Position>
       <TranslationSet>
         <base loc="en">The caller is not allowed to perform an operation.</base>
-        <tran loc="es">La persona que llama no está autorizada a realizar una operación.</tran>
+        <tran loc="es-419">La persona que llama no tiene permitido realizar una operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -724,7 +724,7 @@
       <Position>Downloads</Position>
       <TranslationSet>
         <base loc="en">Downloads</base>
-        <tran loc="es">Descargas</tran>
+        <tran loc="es-419">Descargas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -732,7 +732,7 @@
       <Position>NoValidProviderFound_url</Position>
       <TranslationSet>
         <base loc="en">No valid file provider found from URL %@.</base>
-        <tran loc="es">No se ha encontrado ningún proveedor de archivos válido en la URL %@.</tran>
+        <tran loc="es-419">No se encontró ningún proveedor de la dirección URL %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -740,7 +740,7 @@
       <Position>ACTION_SHARE</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -748,7 +748,7 @@
       <Position>NotImplemented</Position>
       <TranslationSet>
         <base loc="en">The functionality for “%@” isn’t implemented yet.</base>
-        <tran loc="es">Las funciones de “%@” aún no se han implementado.</tran>
+        <tran loc="es-419">No se ha implementado aún la funcionalidad de "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -756,7 +756,7 @@
       <Position>NotImplementedWithClass</Position>
       <TranslationSet>
         <base loc="en">Class “%@” doesn’t implement the method “%@”.</base>
-        <tran loc="es">La clase “%@” no implementa el método “%@”.</tran>
+        <tran loc="es-419">La clase "%@" no implementa el método "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -765,7 +765,7 @@
       <Position>CANCEL_POSIX_DOWNLOAD_TITLE_app_domain</Position>
       <TranslationSet>
         <base loc="en">%@ is downloading a file from %@</base>
-        <tran loc="es">%@ está descargando un archivo de %@</tran>
+        <tran loc="es-419">%@ está descargando un archivo de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -775,7 +775,7 @@
       <Position>DOMAIN_ARCHIVE_FILENAME</Position>
       <TranslationSet>
         <base loc="en">%@ (Archive)</base>
-        <tran loc="es">%@ (archivo comprimido)</tran>
+        <tran loc="es-419">%@ (archivo)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@
       <Position>SORT_DESCRIPTOR_FALLBACK</Position>
       <TranslationSet>
         <base loc="en">Unsorted</base>
-        <tran loc="es">Sin ordenar</tran>
+        <tran loc="es-419">Sin ordenar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -795,7 +795,7 @@
       <Position>Modified by %@</Position>
       <TranslationSet>
         <base loc="en">Modified by %@</base>
-        <tran loc="es">Modificado por %@</tran>
+        <tran loc="es-419">Modificado por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -803,7 +803,7 @@
       <Position>Shared by Me</Position>
       <TranslationSet>
         <base loc="en">Shared by Me</base>
-        <tran loc="es">Compartido por mí</tran>
+        <tran loc="es-419">Por mí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -811,7 +811,7 @@
       <Position>Shared</Position>
       <TranslationSet>
         <base loc="en">Shared</base>
-        <tran loc="es">Compartido</tran>
+        <tran loc="es-419">Compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>Modified by Me</Position>
       <TranslationSet>
         <base loc="en">Modified by Me</base>
-        <tran loc="es">Modificado por mí</tran>
+        <tran loc="es-419">Modificado por mí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>Shared by %@</Position>
       <TranslationSet>
         <base loc="en">Shared by %@</base>
-        <tran loc="es">Compartido por %@</tran>
+        <tran loc="es-419">Contenido compartido por %@</tran>
       </TranslationSet>
     </TextItem>
   </File>

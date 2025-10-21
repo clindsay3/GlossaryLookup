@@ -8,7 +8,7 @@
       <Position>DELETE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ONE_SELECTED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%d Photo Selected</base>
-        <tran loc="es">%d foto seleccionada</tran>
+        <tran loc="es-419">%d foto seleccionada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>SHARE_SINGLE_PHOTO_TITLE</Position>
       <TranslationSet>
         <base loc="en">1 Photo</base>
-        <tran loc="es">1 foto</tran>
+        <tran loc="es-419">1 foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>SELECT_PHOTOS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Select Photos</base>
-        <tran loc="es">Seleccionar fotos</tran>
+        <tran loc="es-419">Seleccionar fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -47,7 +47,7 @@
       <Position>EFFECTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Effects</base>
-        <tran loc="es">Efectos</tran>
+        <tran loc="es-419">Efectos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -55,7 +55,7 @@
       <Position>CANCEL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -63,7 +63,7 @@
       <Position>SINGULAR_DELETE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Delete Photo</base>
-        <tran loc="es">Eliminar foto</tran>
+        <tran loc="es-419">Eliminar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>EMAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Enviar</tran>
+        <tran loc="es-419">Enviar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -79,7 +79,7 @@
       <Position>COPY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -87,7 +87,7 @@
       <Position>PLURAL_DELETE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Delete Selected Photos</base>
-        <tran loc="es">Eliminar selección</tran>
+        <tran loc="es-419">Eliminar selección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -95,7 +95,7 @@
       <Position>PLURAL_SELECTED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%d Photos Selected</base>
-        <tran loc="es">%d fotos seleccionadas</tran>
+        <tran loc="es-419">%d fotos seleccionadas</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>DNT</Position>
       <TranslationSet>
         <base loc="en">&lt;no loc&gt; DNT</base>
-        <tran loc="es">&lt;no loc&gt; DNT</tran>
+        <tran loc="es-419">&lt;no loc&gt; DNT</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>TWO_ACCOUNTS_ITUNES_SIGN_IN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple Media Services</base>
-        <tran loc="es">Servicios multimedia de Apple</tran>
+        <tran loc="es-419">Servicios mediáticos de Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -27,7 +27,7 @@
       <Position>TWO_ACCOUNTS_ICLOUD_SIGN_IN_TEXT</Position>
       <TranslationSet>
         <base loc="en">Enter the Apple ID you use for iCloud.</base>
-        <tran loc="es">Introduce el ID de Apple que usas con iCloud.</tran>
+        <tran loc="es-419">Ingresa el Apple ID que usas para iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>STORE_ACCOUNT_UPGRADE_SKIP_BODY</Position>
       <TranslationSet>
         <base loc="en">You must sign in to restore purchased content for this account.</base>
-        <tran loc="es">Debes iniciar sesión para restaurar el contenido comprado de esta cuenta.</tran>
+        <tran loc="es-419">Debes iniciar sesión para restaurar el contenido comprado de esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>ICLOUD_SIGN_IN_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Sign in with your iCloud Apple ID.</base>
-        <tran loc="es">Inicia sesión con tu ID de Apple para iCloud.</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID para iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -58,7 +58,7 @@
       <Position>APPLE_ID_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -66,7 +66,7 @@
       <Position>USERNAME_FIELD</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -74,7 +74,7 @@
       <Position>ICLOUD_SIGN_IN_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Sign In</base>
-        <tran loc="es">Iniciar sesión en iCloud</tran>
+        <tran loc="es-419">Iniciar sesión en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -82,7 +82,7 @@
       <Position>STORE_ACCOUNT_UPGRADE_TEXT_%@</Position>
       <TranslationSet>
         <base loc="en">Enter the Apple ID password for %@ to make purchases or subscribe to services from Apple. </base>
-        <tran loc="es">Introduce la contraseña del ID de Apple para %@ si quieres hacer compras o suscribirte a servicios de Apple. </tran>
+        <tran loc="es-419">Ingresa la contraseña de Apple ID de %@ para realizar compras o suscribirte a servicios de Apple. </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -90,7 +90,7 @@
       <Position>TWO_ACCOUNTS_ITUNES_SIGN_IN_TEXT</Position>
       <TranslationSet>
         <base loc="en">Enter the Apple ID to use for purchases and subscriptions to Apple services.</base>
-        <tran loc="es">Introduce el ID de Apple que quieres usar para compras y suscripciones en los servicios de Apple.</tran>
+        <tran loc="es-419">Ingresa el Apple ID para comprar y suscribirte a servicios de Apple.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -98,7 +98,7 @@
       <Position>UPDATE_FINISHED_NEED_PASSWORD_%@</Position>
       <TranslationSet>
         <base loc="en">To begin restoring the backup, enter the Apple ID password for %@.</base>
-        <tran loc="es">Para empezar a restaurar la copia de seguridad, introduce la contraseña del ID de Apple para %@.</tran>
+        <tran loc="es-419">Para empezar a restaurar del respaldo, ingresa la contraseña del Apple ID de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -106,7 +106,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -114,7 +114,7 @@
       <Position>ICLOUD_UPGRADE_SKIP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Are you sure?</base>
-        <tran loc="es">¿Estás seguro?</tran>
+        <tran loc="es-419">¿Seguro?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -122,7 +122,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -130,7 +130,7 @@
       <Position>HAVE_TWO_ACCOUNTS</Position>
       <TranslationSet>
         <base loc="en">Use different Apple IDs for iCloud and Apple media purchases?</base>
-        <tran loc="es">¿Usar un ID de Apple para iCloud y otro para la compra de contenido?</tran>
+        <tran loc="es-419">¿Usar uno para iCloud y otro para los servicios de contenido multimedia de Apple?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -138,7 +138,7 @@
       <Position>THIS_FIELD_REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Campo obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -146,7 +146,7 @@
       <Position>FORGOT_APPLEID_OR_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Forgot Apple ID or Password?</base>
-        <tran loc="es">¿Has olvidado tu ID de Apple o la contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste tu Apple ID o la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -154,7 +154,7 @@
       <Position>SKIP_ALERT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Skip</base>
-        <tran loc="es">Omitir</tran>
+        <tran loc="es-419">Omitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -162,7 +162,7 @@
       <Position>DONT_SKIP_ALERT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Don’t Skip</base>
-        <tran loc="es">No omitir</tran>
+        <tran loc="es-419">No omitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -170,7 +170,7 @@
       <Position>ICLOUD_UPGRADE_SKIP_BODY</Position>
       <TranslationSet>
         <base loc="en">If you skip this step, some iCloud services may not be set up completely.</base>
-        <tran loc="es">Si omites este paso, puede que no se complete la configuración de algunos servicios de iCloud.</tran>
+        <tran loc="es-419">Si omites este paso, puede que no se complete la configuración de algunos servicios de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -178,7 +178,7 @@
       <Position>PASSWORD_FIELD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -186,7 +186,7 @@
       <Position>STORE_ACCOUNT_DISAGREE_TEXT</Position>
       <TranslationSet>
         <base loc="en">You must agree to the Terms and Conditions to restore purchased content for this account.</base>
-        <tran loc="es">Debes aceptar los términos y condiciones para restaurar el contenido comprado de esta cuenta.</tran>
+        <tran loc="es-419">Debes aceptar las condiciones del servicio para restaurar el contenido comprado de esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -194,7 +194,7 @@
       <Position>TWO_ACCOUNTS_ICLOUD_SIGN_IN_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -202,7 +202,7 @@
       <Position>FORGOT_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Forgot Password?</base>
-        <tran loc="es">¿Has olvidado tu contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -210,7 +210,7 @@
       <Position>ICLOUD_UPGRADE_TEXT</Position>
       <TranslationSet>
         <base loc="en">To finish setting up iCloud, enter the Apple ID password for %@.</base>
-        <tran loc="es">Para acabar de configurar iCloud, introduce la contraseña del ID de Apple “%@”.</tran>
+        <tran loc="es-419">Para acabar de configurar iCloud, ingresa la contraseña del Apple ID de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -218,7 +218,7 @@
       <Position>ICLOUD_UPGRADE_TEXT_%@</Position>
       <TranslationSet>
         <base loc="en">To finish setting up iCloud, enter the Apple ID password for %@.</base>
-        <tran loc="es">Para acabar de configurar iCloud, introduce la contraseña del ID de Apple “%@”.</tran>
+        <tran loc="es-419">Para acabar de configurar iCloud, ingresa la contraseña del Apple ID de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -226,7 +226,7 @@
       <Position>STORE_ACCOUNT_AGREE_TEXT</Position>
       <TranslationSet>
         <base loc="en">I agree to the iTunes\U00A0Store Terms and Conditions.</base>
-        <tran loc="es">Acepto los términos y condiciones de iTunes\U00A0Store.</tran>
+        <tran loc="es-419">Acepto las condiciones de uso de iTunes\U00A0Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -234,7 +234,7 @@
       <Position>SKIP_LINK</Position>
       <TranslationSet>
         <base loc="en">Skip This Step</base>
-        <tran loc="es">Omitir este paso</tran>
+        <tran loc="es-419">Omitir este paso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -242,7 +242,7 @@
       <Position>SIGNING_IN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Signing In…</base>
-        <tran loc="es">Iniciando sesión…</tran>
+        <tran loc="es-419">Iniciando sesión…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -250,7 +250,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -261,7 +261,7 @@
       <Position>ENTER_VERIFICATION_CODE</Position>
       <TranslationSet>
         <base loc="en">A message with a verification code has been sent to your other devices running iOS 9 or OS X El Capitan or later. Enter the code to continue.</base>
-        <tran loc="es">Se ha enviado un mensaje con un código de verificación a tus otros dispositivos con iOS 9 u OS X El Capitan o posterior. Introduce el código para continuar.</tran>
+        <tran loc="es-419">Se envió un código de verificación a tus otros dispositivos con iOS 9, OS X El Capitan o versiones posteriores. Ingrésalo para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>VERIFICATION_HEADER</Position>
       <TranslationSet>
         <base loc="en">Apple ID Verification Code</base>
-        <tran loc="es">Verificación del ID de Apple</tran>
+        <tran loc="es-419">Código de verificación de Apple ID</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -286,7 +286,7 @@
       <Position>i6M-aL-ax4.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>qmH-2m-5Bl.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Create New Apple ID</base>
-        <tran loc="es">Crear nuevo ID de Apple</tran>
+        <tran loc="es-419">Crear nuevo Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>5uG-cT-c7z.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Forgot Apple ID or Password?</base>
-        <tran loc="es">¿Has olvidado tu ID de Apple o la contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste tu Apple ID o la contraseña?</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -313,7 +313,7 @@
       <Position>AUTHORIZATION_PRIVACY_SPLASH_SUMMARY</Position>
       <TranslationSet>
         <base loc="en">Sign in with Apple is designed to provide you with a sign-in experience that protects your privacy and that is safeguarded by the security built into Apple products.</base>
-        <tran loc="es">“Iniciar sesión con Apple” se ha diseñado para proporcionarte un inicio de sesión que protege tu privacidad y que cuenta con la seguridad integrada en los productos de Apple.</tran>
+        <tran loc="es-419">La funcionalidad Iniciar Sesión con Apple está diseñada para proporcionar una experiencia de inicio de sesión que protege tu privacidad y aprovecha los procesos de seguridad integrados en los productos Apple.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>AUTHORIZE_EMAIL_HIDE_MY_EMAIL_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Hide My Email allows apps to contact you without receiving your real email address.</base>
-        <tran loc="es">“Ocultar mi correo electrónico” permite a las apps contactar contigo sin proporcionarles tu dirección de correo electrónico auténtica.</tran>
+        <tran loc="es-419">La opción “Ocultar mi correo” permite que las apps se comuniquen contigo sin obtener tu dirección de correo real.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>ENROLL_FORGOT_CODE</Position>
       <TranslationSet>
         <base loc="en">Forgot Code?</base>
-        <tran loc="es">¿Has olvidado el código?</tran>
+        <tran loc="es-419">¿Olvidaste el código?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>REMOTE_SECRET_ENTRY_DEPLETED_ATTEMPTS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">For security reasons, your Apple ID has been blocked from signing in on this device for 24 hours.</base>
-        <tran loc="es">Por motivos de seguridad, no podrás iniciar sesión en este dispositivo con tu ID de Apple durante 24 horas.</tran>
+        <tran loc="es-419">Por cuestiones de seguridad, no se podrá iniciar sesión con tu Apple ID en este dispositivo durante 24 horas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>PINFIELD_VIEW_INDEX_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Pin entry field %@ of %@</base>
-        <tran loc="es">Campo de entrada de PIN %@ de %@</tran>
+        <tran loc="es-419">Campo de entrada de Pin %@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>USE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Use “%@”</base>
-        <tran loc="es">Usar “%@”</tran>
+        <tran loc="es-419">Usar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>AUTHORIZATION_PRIVACY_FIRST_BULLET</Position>
       <TranslationSet>
         <base loc="en">Sign in with Apple allows you to sign in to an app without providing any information that personally identifies you.</base>
-        <tran loc="es">“Iniciar sesión con Apple” te permite iniciar sesión en una app sin proporcionar ningún dato que te identifique.</tran>
+        <tran loc="es-419">Iniciar Sesión con Apple te permite iniciar sesión en apps sin proporcionar información que te identifica personalmente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>SIGN_IN_MESSAGE_SERVICE_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">Sign in to iMessage with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
-        <tran loc="es">Inicia sesión en iMessage con tu ID de Apple. ¿No tienes ID de Apple? Puedes crearte uno gratis.</tran>
+        <tran loc="es-419">Inicia sesión en iMessage con tu Apple ID. ¿No tienes un Apple ID? Puedes crear uno gratis.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>AUTHORIZE_EMAIL_REQUIRED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Select an email option to continue.</base>
-        <tran loc="es">Selecciona una opción de correo electrónico para continuar.</tran>
+        <tran loc="es-419">Selecciona una opción de correo para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">password</base>
-        <tran loc="es">contraseña</tran>
+        <tran loc="es-419">contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>USE_APPLE_ID</Position>
       <TranslationSet>
         <base loc="en">Use Existing Apple ID</base>
-        <tran loc="es">Usar ID de Apple existente</tran>
+        <tran loc="es-419">Usar Apple ID existente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>AUTHORIZE_APPLEID_CREATE_APPNAME_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Create an account for %@ using your Apple ID.</base>
-        <tran loc="es">Crea una cuenta para %@ usando tu ID de Apple.</tran>
+        <tran loc="es-419">Crea una cuenta para %@ utilizando tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>AUTHORIZE_EMAIL_EDIT_INFO</Position>
       <TranslationSet>
         <base loc="en">This app requires an email address for new accounts. You can share your real email or an anonymous version of it.</base>
-        <tran loc="es">Esta app requiere una dirección de correo electrónico para nuevas cuentas. Puedes compartir tu dirección de correo electrónico auténtica o una versión anónima.</tran>
+        <tran loc="es-419">Esta app requiere una dirección de correo para las cuentas nuevas. Puedes compartir tu correo real o una versión anónima del mismo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>AUTHORIZE_SHARE_MY_EMAIL</Position>
       <TranslationSet>
         <base loc="en">Share My Email</base>
-        <tran loc="es">Compartir mi correo electrónico</tran>
+        <tran loc="es-419">Compartir mi correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>KEEP_USING_TITLE</Position>
       <TranslationSet>
         <base loc="en">“%@” is already signed in</base>
-        <tran loc="es">“%@” ya ha iniciado sesión</tran>
+        <tran loc="es-419">"%@" ya inició sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -433,7 +433,7 @@
       <Position>TRY_AGAIN</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>APPLE_ID</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>APPLE_ID_ALERT_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>APPLE_ID_HEADER</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>APPLE_ID_TEXTFIELD_ACCESSIBILITY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>AUTHORIZATION_VIEWCONTROLLER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>AUTHORIZE_USE_DEVICE_IN_PROGRESS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Signing in to %@…</base>
-        <tran loc="es">Iniciando sesión en %@…</tran>
+        <tran loc="es-419">Iniciando sesión en %@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>ENROLL_PASSWORD_ENTRY_INCORRECT_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Incorrect password.</base>
-        <tran loc="es">Contraseña incorrecta.</tran>
+        <tran loc="es-419">Contraseña incorrecta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>SIGN_IN_WITH_APPLE_TOUCH_BAR</Position>
       <TranslationSet>
         <base loc="en"> Sign in with Apple</base>
-        <tran loc="es"> Iniciar sesión con Apple</tran>
+        <tran loc="es-419"> Inicia sesión con Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>REMOTE_SECRET_ENTRY_DEPLETED_ATTEMPTS_TITLE_SECURITY_CODE</Position>
       <TranslationSet>
         <base loc="en">Your security code has been entered incorrectly too many times.</base>
-        <tran loc="es">Has introducido tu código de seguridad de forma incorrecta demasiadas veces.</tran>
+        <tran loc="es-419">Tu código de verificación se ingresó de forma incorrecta demasiadas veces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>ENROLL_CANT_APPROVE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Can‘t Approve</base>
-        <tran loc="es">No se puede aprobar</tran>
+        <tran loc="es-419">No se pudo aprobar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>EMAIL_OR_PHONE_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Email or Phone</base>
-        <tran loc="es">Correo o teléfono</tran>
+        <tran loc="es-419">Correo o teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>RECOVERY_FORGOT_ALL_PASSWORDS_OR_PASSCODE_ALERT_MSG</Position>
       <TranslationSet>
         <base loc="en">If you can’t remember the password or passcode for any of your devices, you can still regain access to your Apple ID with account recovery.</base>
-        <tran loc="es">Si no recuerdas la contraseña o el código de ninguno de tus dispositivos, puedes acceder a tu ID de Apple mediante la recuperación de la cuenta.</tran>
+        <tran loc="es-419">Si no recuerdas el código o contraseña de ninguno de tus dispositivos, puedes restablecer tu cuenta para volver a tener acceso a tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>RECOVERY_FORGOT_DEVICE_PASSCODE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forgot device passcode?</base>
-        <tran loc="es">¿Has olvidado el código del dispositivo?</tran>
+        <tran loc="es-419">¿Olvidaste el código del dispositivo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>ENROLL_IOS_MACHINE_TITLE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode for the %@ “%@”.</base>
-        <tran loc="es">Introduce el código del %@ “%@”.</tran>
+        <tran loc="es-419">Ingresa el código del %@ “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>PASSWORD_REQUEST_VIEW_MULTIPLE_FOR_APP_QUESTION</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to %@ with one of your saved passwords?</base>
-        <tran loc="es">¿Quieres iniciar sesión en %@ con una de las contraseñas que tienes guardadas?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en %@ con una de tus contraseñas guardadas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>LEARN_MORE_URL</Position>
       <TranslationSet>
         <base loc="en">https://www.apple.com/icloud</base>
-        <tran loc="es">https://www.apple.com/es/icloud</tran>
+        <tran loc="es-419">https://www.apple.com/la/icloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>SIGN_IN_DESC</Position>
       <TranslationSet>
         <base loc="en">iCloud lets you access your music, photos, contacts, calendars, and more on your devices, automatically.</base>
-        <tran loc="es">iCloud te permite acceder a tu música, fotos, contactos, calendarios y mucho más en tus dispositivos automáticamente.</tran>
+        <tran loc="es-419">iCloud te permite acceder a tu música, fotos, contactos, calendarios y más en tus dispositivos de manera automática.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>AUTHORIZE_FULL_NAME</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>AUTHORIZE_BUTTON_TITLE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Continue with Passcode</base>
-        <tran loc="es">Continuar con código</tran>
+        <tran loc="es-419">Continuar con código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>APPLE_ID_PASSCODE_HEADER_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Passcode</base>
-        <tran loc="es">Código de iPad</tran>
+        <tran loc="es-419">Código del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>USE_DIFFERENT_APPLE_ID</Position>
       <TranslationSet>
         <base loc="en">Use Different Apple ID</base>
-        <tran loc="es">Usar otro ID de Apple</tran>
+        <tran loc="es-419">Usar otro Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>AUTHORIZE_APPLEID_CREATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Create an account for %@ using your Apple ID “%@“.</base>
-        <tran loc="es">Crea una cuenta para %@ usando tu ID de Apple “%@“.</tran>
+        <tran loc="es-419">Crea una cuenta para %@ utilizando tu Apple ID “%@“.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@
       <Position>AUTHORIZATION_PRIVACY_SECOND_BULLET</Position>
       <TranslationSet>
         <base loc="en">Some developers may ask for your name, which you can edit. Or, they may ask for your email, which you can hide.</base>
-        <tran loc="es">Algunos desarrolladores pueden preguntarte tu nombre, el cual puedes editar, o tu correo electrónico, que puedes ocultar.</tran>
+        <tran loc="es-419">Algunos desarrolladores pueden pedirte tu nombre, el cual puedes editar, o pueden pedirte tu correo, el cual puedes ocultar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +633,7 @@
       <Position>ENROLL_START_ACCOUNT_RECOVERY</Position>
       <TranslationSet>
         <base loc="en">Start Account Recovery</base>
-        <tran loc="es">Iniciar recuperación de cuenta</tran>
+        <tran loc="es-419">Comenzar la recuperación de cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +641,7 @@
       <Position>AUTHORIZE_FOR_ACCOUNT_WITH_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Enter the password for Apple ID\n \“%@\” to continue.</base>
-        <tran loc="es">Introduce la contraseña del ID de Apple “%@” para continuar.</tran>
+        <tran loc="es-419">Ingresa la contraseña del Apple ID “%@” para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +649,7 @@
       <Position>SIGN_IN_WATCH_OS</Position>
       <TranslationSet>
         <base loc="en">Sign in</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@
       <Position>AUTHORIZATION_PASSWORD_VIEWCONTROLLER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@
       <Position>KEEP_USING_ALERT_YES_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@
       <Position>SIGN_IN</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +681,7 @@
       <Position>AUTHORIZATION_VIEWCONTROLLER_DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +689,7 @@
       <Position>AUTH_PROCESSING_COMPLETE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +697,7 @@
       <Position>AUTHORIZATION_PRIVACY_SPLASH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign in with Apple &amp; Privacy</base>
-        <tran loc="es">“Iniciar sesión con Apple” y la privacidad</tran>
+        <tran loc="es-419">Iniciar Sesión con Apple y la privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +705,7 @@
       <Position>ENROLL_IOS_MACHINE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the %@ “%@”.</base>
-        <tran loc="es">Introduce la contraseña del %@ “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña del %@ “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +713,7 @@
       <Position>SIGN_IN_HEADER_SERVICE_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">Sign in to iMessage with your Apple ID.</base>
-        <tran loc="es">Inicia sesión en iMessage con tu ID de Apple.</tran>
+        <tran loc="es-419">Inicia sesión en iMessage con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +721,7 @@
       <Position>ENROLL_GENERIC_MACHINE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your password is encrypted and cannot be read by Apple.</base>
-        <tran loc="es">Tu contraseña está encriptada y Apple no podrá leerla.</tran>
+        <tran loc="es-419">Tu contraseña está encriptada y Apple no puede leerla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +729,7 @@
       <Position>DEFAULT_PLACEHOLDER_AUTHENTICATION_REASON</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@”.</base>
-        <tran loc="es">Introduce la contraseña de “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>AUTHORIZE_EMAIL_CELL_HIDE</Position>
       <TranslationSet>
         <base loc="en">Hide</base>
-        <tran loc="es">Ocultar</tran>
+        <tran loc="es-419">Ocultar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -745,7 +745,7 @@
       <Position>AUTHORIZATION_PRIVACY_REVIEW_ICON_INFO</Position>
       <TranslationSet>
         <base loc="en">In setting up Sign in with Apple, information about your interactions with Apple and this device may be used by Apple to help prevent fraud.</base>
-        <tran loc="es">Al configurar “Iniciar sesión con Apple”, Apple podrá utilizar la información sobre tus interacciones con Apple y los datos sobre este dispositivo para ayudar a evitar el fraude.</tran>
+        <tran loc="es-419">Al configurar Iniciar Sesión con Apple, Apple puede usar información sobre tus interacciones con Apple y acerca de este dispositivo para ayudar a prevenir el fraude.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -753,7 +753,7 @@
       <Position>TOO_MANY_ATTEMPTS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your password was entered incorrectly more than once. For your protection, you will need to retrieve it before continuing.</base>
-        <tran loc="es">Se ha introducido la contraseña incorrectamente más de una vez. Por tu seguridad, tendrás que recuperarla antes de continuar.</tran>
+        <tran loc="es-419">Se ingresó tu contraseña de forma incorrecta más de una vez. Por seguridad, tendrás que recuperarla antes de continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -761,7 +761,7 @@
       <Position>ENROLL_IOS_MACHINE_MESSAGE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode for the %@ “%@”. Your passcode is encrypted and cannot be read by Apple.</base>
-        <tran loc="es">Introduce el código del %@ “%@”. El código está encriptado y Apple no podrá leerlo.</tran>
+        <tran loc="es-419">Ingresa el código del %@ “%@”. Tu código está encriptado y Apple no puede leerlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -769,7 +769,7 @@
       <Position>SIGN_IN_MESSAGE_SERVICE_FACETIME</Position>
       <TranslationSet>
         <base loc="en">Sign in to FaceTime with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
-        <tran loc="es">Inicia sesión en FaceTime con tu ID de Apple. ¿No tienes ID de Apple? Puedes crearte uno gratis.</tran>
+        <tran loc="es-419">Inicia sesión en FaceTime con tu Apple ID. ¿No tienes un Apple ID? Puedes crear uno de forma gratuita.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -777,7 +777,7 @@
       <Position>BIO_BUTTON_SELECT_EMAIL</Position>
       <TranslationSet>
         <base loc="en">Select an email to continue</base>
-        <tran loc="es">Selecciona un correo electrónico para continuar</tran>
+        <tran loc="es-419">Selecciona un correo electrónico para continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -785,7 +785,7 @@
       <Position>AUTHORIZE_APPLEID_CREATE_PROXIED_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Create an account for %@ on the %@ “%@“ using your Apple ID “%@“.</base>
-        <tran loc="es">Crea una cuenta de %@ en el %@ “%@“ con tu ID de Apple “%@“.</tran>
+        <tran loc="es-419">¿Crear una cuenta para %@ en el %@ “%@“ utilizando tu Apple ID “%@“.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -793,7 +793,7 @@
       <Position>AUTHORIZE_BUTTON_TITLE_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Continue with Password</base>
-        <tran loc="es">Continuar con contraseña</tran>
+        <tran loc="es-419">Continuar con contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -801,7 +801,7 @@
       <Position>SIGN_IN_MESSAGE_NO_SERVICE</Position>
       <TranslationSet>
         <base loc="en">Sign in with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
-        <tran loc="es">Inicia sesión con tu ID de Apple. ¿No tienes ID de Apple? Puedes crearte uno gratis.</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID. ¿No tienes un Apple ID? Puedes crear uno gratis.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -809,7 +809,7 @@
       <Position>TURN_OFF_KEYCHAIN_AUTHENTICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter your Apple ID password to turn off iCloud Keychain.</base>
-        <tran loc="es">Introduce la contraseña de tu ID de Apple para desactivar el llavero de iCloud.</tran>
+        <tran loc="es-419">Ingresa la contraseña del Apple ID para desactivar el llavero de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -817,7 +817,7 @@
       <Position>INCORRECT_SECURITY_CODE</Position>
       <TranslationSet>
         <base loc="en">Incorrect security code.</base>
-        <tran loc="es">Código de seguridad incorrecto.</tran>
+        <tran loc="es-419">Código de seguridad incorrecto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -825,7 +825,7 @@
       <Position>ENROLL_IOS_MACHINE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the %@ “%@”. Your password is encrypted and cannot be read by Apple.</base>
-        <tran loc="es">Introduce la contraseña del %@ “%@”. La contraseña está encriptada y Apple no puede leerla.</tran>
+        <tran loc="es-419">Ingresa la contraseña del %@ “%@”. Tu contraseña está encriptada y Apple no puede leerla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -833,7 +833,7 @@
       <Position>AUTHORIZE_EMAIL_OPTIONS</Position>
       <TranslationSet>
         <base loc="en">Email Options</base>
-        <tran loc="es">Opciones del correo electrónico</tran>
+        <tran loc="es-419">Opciones de correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -841,7 +841,7 @@
       <Position>RECOVERY_FORGOT_DEVICE_PASSCODE_ALERT_MSG</Position>
       <TranslationSet>
         <base loc="en">If you can’t remember the passcode for “%@”, you can still regain access to your Apple ID with account recovery.</base>
-        <tran loc="es">Si no recuerdas el código de “%@”, puedes acceder a tu ID de Apple mediante la recuperación de la cuenta.</tran>
+        <tran loc="es-419">Si no recuerdas el código de “%@”, puedes restablecer tu cuenta para volver a tener acceso a tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -853,7 +853,7 @@
       <Position>SIGN_IN_HEADER_NO_SERVICE</Position>
       <TranslationSet>
         <base loc="en">Sign in with your Apple ID.</base>
-        <tran loc="es">Inicia sesión con el ID de Apple.</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -861,7 +861,7 @@
       <Position>SIGN_IN_HEADER_SERVICE_ITUNES</Position>
       <TranslationSet>
         <base loc="en">Sign in with your Apple ID.</base>
-        <tran loc="es">Inicia sesión con el ID de Apple.</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -869,7 +869,7 @@
       <Position>PASSWORD_REQUEST_VIEW_APPLE_OR_KEYCHAIN_QUESTION</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to %@ with your Apple ID or one of your saved passwords?</base>
-        <tran loc="es">¿Quieres iniciar sesión en %@ con tu ID de Apple o con una de las contraseñas que tienes guardadas?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en %@ con tu Apple ID o con una de tus contraseñas guardadas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -877,7 +877,7 @@
       <Position>CDP_NEEDS_PASSWORD_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the Apple ID “%@”.</base>
-        <tran loc="es">Introduce la contraseña del ID de Apple “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña del Apple ID “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -885,7 +885,7 @@
       <Position>SERVER_ERROR</Position>
       <TranslationSet>
         <base loc="en">There was a problem connecting to the server.</base>
-        <tran loc="es">Ha habido un problema al conectarse al servidor.</tran>
+        <tran loc="es-419">Ocurrió un problema al conectar con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -893,7 +893,7 @@
       <Position>TOO_MANY_ATTEMPTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Did you forget your password?</base>
-        <tran loc="es">¿Has olvidado tu contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -901,7 +901,7 @@
       <Position>AUTHORIZE_APPLE_ID_WELCOME_APPNAME_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to %@ with your Apple ID?</base>
-        <tran loc="es">¿Quieres iniciar sesión en %@ con tu ID de Apple?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en %@ con tu Apple ID?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -909,7 +909,7 @@
       <Position>INVALID_USER_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">User password was incorrect. Please try again.</base>
-        <tran loc="es">La contraseña del usuario no es correcta. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">La contraseña del usuario es incorrecta. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -917,7 +917,7 @@
       <Position>FORGOT_PASSWORD_ALERT</Position>
       <TranslationSet>
         <base loc="en">Forgot Password</base>
-        <tran loc="es">Contraseña olvidada</tran>
+        <tran loc="es-419">Olvidé la contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -925,7 +925,7 @@
       <Position>RECOVERY_FORGOT_ALL_PASSCODE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forgot all passcodes?</base>
-        <tran loc="es">¿Has olvidado todos los códigos?</tran>
+        <tran loc="es-419">¿Olvidaste todos los códigos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -933,7 +933,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -941,7 +941,7 @@
       <Position>SIGN_UP_WITH_APPLE</Position>
       <TranslationSet>
         <base loc="en">Sign up with Apple</base>
-        <tran loc="es">Registrarse con Apple</tran>
+        <tran loc="es-419">Suscribirse con Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -949,7 +949,7 @@
       <Position>TURN_OFF_KEYCHAIN_OLDER_PEERS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn off iCloud Keychain?</base>
-        <tran loc="es">¿Desactivar llavero de iCloud?</tran>
+        <tran loc="es-419">¿Desactivar el llavero de iCloud?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -957,7 +957,7 @@
       <Position>BIO_BUTTON_ENTER_NAME</Position>
       <TranslationSet>
         <base loc="en">Enter a name to continue</base>
-        <tran loc="es">Introducir un nombre para continuar</tran>
+        <tran loc="es-419">Ingresa un nombre para continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -965,7 +965,7 @@
       <Position>SIGN_IN_MESSAGE_SERVICE_ITUNES</Position>
       <TranslationSet>
         <base loc="en">Sign in to Apple Media Services with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
-        <tran loc="es">Inicia sesión en los servicios multimedia de Apple con tu ID de Apple. ¿No tienes ID de Apple? Puedes crearte uno gratis.</tran>
+        <tran loc="es-419">Inicia sesión en los servicios de contenido multimedia de Apple con tu Apple ID. ¿No tienes un Apple ID? Puedes crear uno de forma gratuita.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -973,7 +973,7 @@
       <Position>GO_BACK</Position>
       <TranslationSet>
         <base loc="en">Go Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -981,7 +981,7 @@
       <Position>AUTHORIZE_NAME_EDIT_INFO_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ is requesting your name to personalize your app experience.</base>
-        <tran loc="es">%@ solicita tu nombre para personalizar tu experiencia con la app.</tran>
+        <tran loc="es-419">%@ solicita tu nombre para personalizar tu experiencia en la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -989,7 +989,7 @@
       <Position>PASSWORD_REQUEST_VIEW_MULTIPLE_FOR_APP_QUESTION_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to this app with one of your saved passwords?</base>
-        <tran loc="es">¿Quieres iniciar sesión en esta app con una de las contraseñas que tienes guardadas?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en esta app con una de tus contraseñas guardadas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +997,7 @@
       <Position>AUTHORIZE_FAMILY_NAME</Position>
       <TranslationSet>
         <base loc="en">Last Name</base>
-        <tran loc="es">Apellidos</tran>
+        <tran loc="es-419">Apellidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1005,7 +1005,7 @@
       <Position>PASSWORD_REQUEST_VIEW_APPLE_OR_KEYCHAIN_QUESTION_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to this app with your Apple ID or one of your saved passwords?</base>
-        <tran loc="es">¿Quieres iniciar sesión en esta app con tu ID de Apple o con una de las contraseñas que tienes guardadas?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en esta app con tu Apple ID o con una de tus contraseñas guardadas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1013,7 +1013,7 @@
       <Position>ENROLL_SIGN_IN_LATER</Position>
       <TranslationSet>
         <base loc="en">Sign In Later</base>
-        <tran loc="es">Iniciar sesión más tarde</tran>
+        <tran loc="es-419">Iniciar sesión después</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1021,7 +1021,7 @@
       <Position>SIGN_IN_LATER</Position>
       <TranslationSet>
         <base loc="en">Sign In Later</base>
-        <tran loc="es">Iniciar sesión más tarde</tran>
+        <tran loc="es-419">Iniciar sesión después</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@
       <Position>AUTHORIZATION_PRIVACY_THIRD_BULLET</Position>
       <TranslationSet>
         <base loc="en">Apple does not track what apps or websites you sign in to or when.</base>
-        <tran loc="es">Apple no controla las apps o sitios web en los que inicias sesión ni cuándo.</tran>
+        <tran loc="es-419">Apple no registra las apps o sitios web en los que inicias sesión ni cuándo lo haces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@
       <Position>REMOTE_SECRET_ENTRY_DEPLETED_ATTEMPTS_TITLE_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">You have entered too many incorrect passwords.</base>
-        <tran loc="es">Has introducido demasiadas contraseñas incorrectas.</tran>
+        <tran loc="es-419">Ingresaste demasiadas contraseñas incorrectas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@
       <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter your password to continue using iMessage on this Mac.</base>
-        <tran loc="es">Introduce la contraseña para seguir usando iMessage en este Mac.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para seguir usando iMessage en esta Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1053,7 @@
       <Position>SAME_PASSWORD_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@”, which is not the password for this %@.</base>
-        <tran loc="es">Introduce la contraseña de “%@”, que no es la contraseña de este %@.</tran>
+        <tran loc="es-419">Ingresa la contraseña de "%@", la cual no es la de este %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1061,7 @@
       <Position>AUTHORIZE_USE_DEVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign In with iPhone or iPad</base>
-        <tran loc="es">Inicia sesión con el iPhone o el iPad</tran>
+        <tran loc="es-419">Inicia sesión con iPhone o iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1069,7 @@
       <Position>PASSWORD_REQUEST_VIEW_SINGLE_FOR_APP_QUESTION_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to this app with your saved password?</base>
-        <tran loc="es">¿Quieres iniciar sesión en esta app con la contraseña que tienes guardada?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en esta app con tu contraseña guardada?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1077,7 +1077,7 @@
       <Position>AUTH_ALERT_SIGN_UP_NOT_COMPLETED</Position>
       <TranslationSet>
         <base loc="en">Sign Up Not Completed</base>
-        <tran loc="es">No se ha completado el registro</tran>
+        <tran loc="es-419">Registro no completado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1085,7 +1085,7 @@
       <Position>RECOVERY_FORGOT_ALL_PASSWORDS_OR_PASSCODE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forgot all passwords or passcodes?</base>
-        <tran loc="es">¿Has olvidado todas las contraseñas o códigos?</tran>
+        <tran loc="es-419">¿Olvidaste todos los códigos o contraseñas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1094,7 +1094,7 @@
       <Position>ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1102,7 +1102,7 @@
       <Position>AUTHORIZATION_VIEWCONTROLLER_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1110,7 +1110,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1118,7 +1118,7 @@
       <Position>KEEP_USING_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1126,7 +1126,7 @@
       <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_FACETIME</Position>
       <TranslationSet>
         <base loc="en">Enter your password to continue using FaceTime on this Mac.</base>
-        <tran loc="es">Introduce la contraseña para seguir usando FaceTime en este Mac.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para seguir usando FaceTime en esta Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1134,7 +1134,7 @@
       <Position>DEPLETED_ATTEMPTS_ERROR_TITLE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">The passcode for “%@” was entered incorrectly too many times.</base>
-        <tran loc="es">El código de “%@” se ha introducido incorrectamente demasiadas veces.</tran>
+        <tran loc="es-419">Ingresaste incorrectamente el código de “%@” demasiadas veces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1142,7 +1142,7 @@
       <Position>SIGN_IN_HEADER_NO_CREATE</Position>
       <TranslationSet>
         <base loc="en">Enter the Apple ID password for “%@”.</base>
-        <tran loc="es">Introduce la contraseña del ID de Apple “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña del Apple ID de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1150,7 +1150,7 @@
       <Position>CREATE_APPLE_ID</Position>
       <TranslationSet>
         <base loc="en">Create New Apple ID</base>
-        <tran loc="es">Crear nuevo ID de Apple</tran>
+        <tran loc="es-419">Crear nuevo Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1158,7 +1158,7 @@
       <Position>CREATE_APPLE_ID_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Create New Apple ID</base>
-        <tran loc="es">Crear nuevo ID de Apple</tran>
+        <tran loc="es-419">Crear nuevo Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1166,7 +1166,7 @@
       <Position>AUTHORIZATION_PRIVACY_REVIEW_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1174,7 +1174,7 @@
       <Position>AUTHORIZE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1182,7 +1182,7 @@
       <Position>AUTHORIZE_BUTTON_TITLE_macOS</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1190,7 +1190,7 @@
       <Position>AUTHORIZE_FIRST_TIME_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1198,7 +1198,7 @@
       <Position>AUTHORIZE_PASSWORD_VALIDATION_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1206,7 +1206,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1214,7 +1214,7 @@
       <Position>CDP_LOCKED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID has been temporarily locked.</base>
-        <tran loc="es">Tu ID de Apple se ha bloqueado temporalmente.</tran>
+        <tran loc="es-419">Tu Apple ID se bloqueó temporalmente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1222,7 +1222,7 @@
       <Position>APPLE_ID_SIGN_IN_HEADER</Position>
       <TranslationSet>
         <base loc="en">Apple ID Sign In Requested</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Se requiere iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1230,7 +1230,7 @@
       <Position>RECOVERY_FORGOT_ALL_PASSCODE_ALERT_MSG</Position>
       <TranslationSet>
         <base loc="en">If you can’t remember the passcode for any of your devices, you can still regain access to your Apple ID with account recovery.</base>
-        <tran loc="es">Si no recuerdas el código de ninguno de tus dispositivos, puedes acceder a tu ID de Apple mediante la recuperación de la cuenta.</tran>
+        <tran loc="es-419">Si no recuerdas el código de ninguno de tus dispositivos, puedes restablecer tu cuenta para volver a tener acceso a tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1238,7 +1238,7 @@
       <Position>AUTHORIZE_APPLEID_CREATE</Position>
       <TranslationSet>
         <base loc="en">Create an account using your Apple ID.</base>
-        <tran loc="es">Crea una cuenta usando tu ID de Apple.</tran>
+        <tran loc="es-419">Crea una cuenta utilizando tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1246,7 +1246,7 @@
       <Position>DEPLETED_ATTEMPTS_ERROR_MSG</Position>
       <TranslationSet>
         <base loc="en">Choose a device to enter its password.</base>
-        <tran loc="es">Selecciona un dispositivo para introducir su contraseña.</tran>
+        <tran loc="es-419">Elige un dispositivo para ingresar su contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1254,7 +1254,7 @@
       <Position>SETUP_VALIDATE_LOCAL_PASSWORD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Setup Assistant wants to make changes.</base>
-        <tran loc="es">El asistente de configuración quiere realizar cambios.</tran>
+        <tran loc="es-419">El Asistente de Configuración quiere realizar cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1262,7 +1262,7 @@
       <Position>RECOVERY_FORGOT_ALL_PASSWORDS_ALERT_MSG</Position>
       <TranslationSet>
         <base loc="en">If you can’t remember the password for any of your devices, you can still regain access to your Apple ID with account recovery.</base>
-        <tran loc="es">Si no recuerdas la contraseña de ninguno de tus dispositivos, puedes acceder a tu ID de Apple mediante la recuperación de la cuenta.</tran>
+        <tran loc="es-419">Si no recuerdas la contraseña de ninguno de tus dispositivos, puedes restablecer tu cuenta para volver a tener acceso a tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1270,7 +1270,7 @@
       <Position>ENROLL_FORGOT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Forgot %@ password?</base>
-        <tran loc="es">¿Has olvidado la contraseña de %@?</tran>
+        <tran loc="es-419">¿Olvidaste la contraseña de %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1278,7 +1278,7 @@
       <Position>ENTER_VERIFICATION_CODE</Position>
       <TranslationSet>
         <base loc="en">A message with a verification code has been sent to your other devices running iOS 9 or OS X El Capitan or later. Enter the code to continue.</base>
-        <tran loc="es">Se ha enviado un mensaje con un código de verificación a tus otros dispositivos con iOS 9 u OS X El Capitan o posterior. Introduce el código para continuar.</tran>
+        <tran loc="es-419">Se envió un código de verificación a tus otros dispositivos con iOS 9, OS X El Capitan o versiones posteriores. Ingrésalo para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1286,7 +1286,7 @@
       <Position>CDP_UNLOCKED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID is now unlocked.</base>
-        <tran loc="es">Tu ID de Apple está desbloqueado.</tran>
+        <tran loc="es-419">Tu Apple ID ahora está desbloqueado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1294,7 +1294,7 @@
       <Position>PASSWORD_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Campo obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1302,7 +1302,7 @@
       <Position>AUTHORIZE_PRIVATE_EMAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Anonymous Email</base>
-        <tran loc="es">Correo electrónico anónimo</tran>
+        <tran loc="es-419">Correo anónimo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1310,7 +1310,7 @@
       <Position>SIGN_IN_MESSAGE_SERVICE_GAME_CENTER</Position>
       <TranslationSet>
         <base loc="en">Sign in to Game Center with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
-        <tran loc="es">Inicia sesión en Game Center con tu ID de Apple. ¿No tienes ID de Apple? Puedes crearte uno gratis.</tran>
+        <tran loc="es-419">Inicia sesión en Game Center con tu Apple ID. ¿No tienes un Apple ID? Puedes crear uno de forma gratuita.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1318,7 +1318,7 @@
       <Position>AUTHORIZE_FIRST_TIME_MESSAGE_1</Position>
       <TranslationSet>
         <base loc="en">Sign in to apps and websites with the Apple ID you already have.</base>
-        <tran loc="es">Inicia sesión en las apps y sitios web con el ID de Apple que ya tienes.</tran>
+        <tran loc="es-419">Inicia sesión en apps y sitios web con tu Apple ID actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1326,7 +1326,7 @@
       <Position>AUTHORIZATION_PRIVACY_FIFTH_BULLET</Position>
       <TranslationSet>
         <base loc="en">When you first use an app with Sign in with Apple, Apple uses information about your account and experiences with Apple along with information about your device to help prevent fraud.</base>
-        <tran loc="es">Cuando usas una app por primera vez con “Iniciar sesión con Apple”, Apple utiliza los datos de tu cuenta y tus experiencias con Apple junto con información de tu dispositivo con el objetivo de prevenir el fraude.</tran>
+        <tran loc="es-419">Cuando usas Iniciar Sesión con Apple con una app por primera vez, Apple usa información sobre tu cuenta y experiencias con Apple junto con información sobre tu dispositivo para ayudar a prevenir el fraude.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1334,7 +1334,7 @@
       <Position>PASSWORDS_WELCOME_WATCH</Position>
       <TranslationSet>
         <base loc="en">Sign in to this app</base>
-        <tran loc="es">Inicia sesión en esta app</tran>
+        <tran loc="es-419">Inicia sesión en esta app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1342,7 +1342,7 @@
       <Position>CANT_APPROVE_OUT_OF_DEVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">If you can‘t approve this Mac to use iCloud, your Apple ID will be blocked from signing in for 24 hours.</base>
-        <tran loc="es">Si no puedes aprobar este Mac para que utilice iCloud, se bloqueará tu ID de Apple y no podrás iniciar sesión con él durante 24 horas.</tran>
+        <tran loc="es-419">Si no puedes aprobar esta Mac para usar iCloud, se impedirá que tu Apple ID inicie sesión durante 24 horas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1350,7 +1350,7 @@
       <Position>AUTHORIZATION_PRIVACY_LEARN_HOW_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Learn how your data is managed by visiting %@</base>
-        <tran loc="es">Descubre cómo se gestionan tus datos en %@</tran>
+        <tran loc="es-419">Para consultar cómo se administran tus datos, visita %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1358,7 +1358,7 @@
       <Position>SIGN_IN_MESSAGE_SERVICE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Sign in to iCloud with your Apple ID. Don’t have an Apple ID? You can create one for free.</base>
-        <tran loc="es">Inicia sesión en iCloud con tu ID de Apple. ¿No tienes ID de Apple? Puedes crearte uno gratis.</tran>
+        <tran loc="es-419">Inicia sesión en iCloud con tu Apple ID. ¿No tienes un Apple ID? Puedes crear uno gratis.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1366,7 +1366,7 @@
       <Position>ENROLL_CURRENT_MACHINE_TITLE</Position>
       <TranslationSet>
         <base loc="en">To access your iCloud data, enter the password for user %@.</base>
-        <tran loc="es">Para acceder a tus datos de iCloud, introduce la contraseña del usuario %@.</tran>
+        <tran loc="es-419">Para acceder a tus datos de iCloud, ingresa la contraseña del usuario %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1374,7 +1374,7 @@
       <Position>ENROLL_GENERIC_ICSC_LABEL</Position>
       <TranslationSet>
         <base loc="en">Your iCloud data is protected by your iCloud Security Code.</base>
-        <tran loc="es">Los datos de iCloud están protegidos por el código de seguridad de iCloud.</tran>
+        <tran loc="es-419">Tus datos en iCloud están protegidos por el código de seguridad de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1382,7 +1382,7 @@
       <Position>ENROLL_FORGOT_ALL_DEVICES_TITLE</Position>
       <TranslationSet>
         <base loc="en">If you can‘t remember the password or passcode for any of your devices, you can approve this Mac using another device.</base>
-        <tran loc="es">Si no recuerdas la contraseña o el código de ninguno de tus dispositivos, puedes aprobar este Mac desde otro dispositivo.</tran>
+        <tran loc="es-419">Si no recuerdas el código o contraseña de ninguno de tus dispositivos, puedes aprobar esta Mac usando otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1390,7 +1390,7 @@
       <Position>CDP_UNLOCKED_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Your iCloud keychain has been reset.</base>
-        <tran loc="es">El llavero de iCloud se ha restablecido.</tran>
+        <tran loc="es-419">Se restauró tu llavero de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1398,7 +1398,7 @@
       <Position>FORGOT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forgot Apple ID or Password?</base>
-        <tran loc="es">¿Has olvidado tu ID de Apple o la contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste tu Apple ID o la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1406,7 +1406,7 @@
       <Position>IFORGOT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forgot Apple ID or Password?</base>
-        <tran loc="es">¿Has olvidado tu ID de Apple o la contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste tu Apple ID o la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1414,7 +1414,7 @@
       <Position>AUTHORIZATION_PRIVACY_URL</Position>
       <TranslationSet>
         <base loc="en">https://www.apple.com/privacy/</base>
-        <tran loc="es">https://www.apple.com/es/privacy/</tran>
+        <tran loc="es-419">https://www.apple.com/la/privacy/</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1422,7 +1422,7 @@
       <Position>AUTHORIZE_FORWARDED_TO_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Forwarded to: %@</base>
-        <tran loc="es">Reenviado a: %@</tran>
+        <tran loc="es-419">Reenviado a: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1430,7 +1430,7 @@
       <Position>SIGN_IN_INLINE_CREDENTIALS_ERROR</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID or password was incorrect.</base>
-        <tran loc="es">El ID de Apple o la contraseña son incorrectos.</tran>
+        <tran loc="es-419">Tu Apple ID o contraseña son incorrectos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1438,7 +1438,7 @@
       <Position>SETUP_VALIDATE_LOCAL_PASSWORD_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter your password to allow this.</base>
-        <tran loc="es">Introduce la contraseña para permitir esta operación.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para permitir esta acción.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1446,7 +1446,7 @@
       <Position>USE_DIFFERENT_APPLE_ID_macOS</Position>
       <TranslationSet>
         <base loc="en">Use a different Apple ID</base>
-        <tran loc="es">Usar otro ID de Apple</tran>
+        <tran loc="es-419">Usar otro Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1454,7 +1454,7 @@
       <Position>AUTHORIZE_USE_APPLE_ID_PASSWORD_TO_CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Use Apple ID \“%@\”\n password to continue.</base>
-        <tran loc="es">Para continuar, usa la contraseña\n del ID de Apple “%@”.</tran>
+        <tran loc="es-419">Usa la contraseña del Apple ID “%@” para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1463,7 +1463,7 @@
       <Position>AUTHORIZE_EMAIL_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo electrónico</tran>
+        <tran loc="es-419">Correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1471,7 +1471,7 @@
       <Position>EMAIL_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo electrónico</tran>
+        <tran loc="es-419">Correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1479,7 +1479,7 @@
       <Position>AUTHORIZE_USE_DEVICE_INSTRUCTIONS</Position>
       <TranslationSet>
         <base loc="en">A notification has been sent to nearby devices that are signed in with Apple ID “%@”.</base>
-        <tran loc="es">Se ha enviado una notificación a los dispositivos cercanos que han iniciado sesión con el ID de Apple “%@”.</tran>
+        <tran loc="es-419">Se envió una notificación a los dispositivos cercanos en los que se inició sesión con el Apple ID “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1487,7 +1487,7 @@
       <Position>SIGN_IN_HEADER_SERVICE_GAME_CENTER</Position>
       <TranslationSet>
         <base loc="en">Sign in to Game Center with your Apple ID.</base>
-        <tran loc="es">Inicia sesión en Game Center con tu ID de Apple.</tran>
+        <tran loc="es-419">Inicia sesión en Game Center con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1495,7 +1495,7 @@
       <Position>SIGN_IN_HEADER_SERVICE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Sign in to iCloud with your Apple ID.</base>
-        <tran loc="es">Inicia sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1503,7 +1503,7 @@
       <Position>SIGN_IN_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign In…</base>
-        <tran loc="es">Iniciar sesión…</tran>
+        <tran loc="es-419">Iniciar sesión…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1511,7 +1511,7 @@
       <Position>SIGN_IN_MESSAGE_NO_CREATE_NO_SERVICE</Position>
       <TranslationSet>
         <base loc="en">Enter your password to continue using your Apple ID on this Mac.</base>
-        <tran loc="es">Introduce la contraseña para seguir usando tu ID de Apple en este Mac.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para seguir usando tu Apple ID en esta Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1519,7 +1519,7 @@
       <Position>SIGN_IN_HEADER_SERVICE_FACETIME</Position>
       <TranslationSet>
         <base loc="en">Sign in to FaceTime with your Apple ID.</base>
-        <tran loc="es">Inicia sesión en FaceTime con tu ID de Apple.</tran>
+        <tran loc="es-419">Inicia sesión en FaceTime con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1527,7 +1527,7 @@
       <Position>AUTHORIZE_APPLE_ID_WELCOME_PROXIED_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to %@ on the %@ “%@“ with your Apple ID “%@“?</base>
-        <tran loc="es">¿Quieres iniciar sesión en %@ en el %@ “%@“ con tu ID de Apple “%@“?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en %@ en el %@ “%@“ con tu Apple ID “%@“?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1535,7 +1535,7 @@
       <Position>ENROLL_FORGOT_CODE_TITLE</Position>
       <TranslationSet>
         <base loc="en">If you can‘t remember the iCloud Security Code, you can approve this Mac using another device.</base>
-        <tran loc="es">Si no recuerdas el código de seguridad de iCloud, puedes aprobar este Mac desde otro dispositivo.</tran>
+        <tran loc="es-419">Si no recuerdas el código de seguridad de iCloud, puedes aprobar esta Mac usando otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1543,7 +1543,7 @@
       <Position>BIO_BUTTON_SELECT_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Select an account to continue</base>
-        <tran loc="es">Elige una cuenta para continuar</tran>
+        <tran loc="es-419">Elige una cuenta para continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1551,7 +1551,7 @@
       <Position>ENROLL_FORGOT_MORE_DEVICES_TITLE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">If you can‘t remember the passcode for %@ “%@”, you can enter the password for one of your other devices.</base>
-        <tran loc="es">Si no recuerdas el código del %@ “%@”, puedes introducir la contraseña de uno de tus otros dispositivos.</tran>
+        <tran loc="es-419">Si no recuerdas el código del %@ "%@", puedes ingresar la contraseña de uno de tus otros dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1559,7 +1559,7 @@
       <Position>KEEP_USING_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use the Apple ID “%@” for %@?</base>
-        <tran loc="es">¿Usar el ID de Apple “%@” para %@?</tran>
+        <tran loc="es-419">¿Usar el Apple ID “%@” para %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1567,7 +1567,7 @@
       <Position>AUTHORIZATION_VIEWCONTROLLER_BACK</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1575,7 +1575,7 @@
       <Position>ENROLL_BACK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1583,7 +1583,7 @@
       <Position>GENERIC_BACK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1591,7 +1591,7 @@
       <Position>AUTHORIZE_APPLE_ID_WELCOME_APPLEID_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to this application with your Apple ID “%@“?</base>
-        <tran loc="es">¿Quieres iniciar sesión en esta aplicación con tu ID de Apple “%@“?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en esta app con tu Apple ID “%@“?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1599,7 +1599,7 @@
       <Position>APPLE_ID_PASSWORD_HEADER</Position>
       <TranslationSet>
         <base loc="en">Apple ID Password</base>
-        <tran loc="es">Contraseña del ID de Apple</tran>
+        <tran loc="es-419">Contraseña del Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1607,7 +1607,7 @@
       <Position>CONTINUE_WITH_APPLE</Position>
       <TranslationSet>
         <base loc="en">Continue with Apple</base>
-        <tran loc="es">Continuar con Apple</tran>
+        <tran loc="es-419">Continuar con Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1615,7 +1615,7 @@
       <Position>FORGOT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">You can recover your Apple ID or reset your password.</base>
-        <tran loc="es">Puedes recuperar tu ID de Apple o restablecer tu contraseña.</tran>
+        <tran loc="es-419">Puedes recuperar tu Apple ID o restablecer tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1623,7 +1623,7 @@
       <Position>FORGOT_APPLE_ID</Position>
       <TranslationSet>
         <base loc="en">Forgot Apple ID</base>
-        <tran loc="es">ID de Apple olvidado</tran>
+        <tran loc="es-419">¿Olvidaste tu Apple ID?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1631,7 +1631,7 @@
       <Position>PASSWORDS_WELCOME_FORMAT_WATCH</Position>
       <TranslationSet>
         <base loc="en">Sign in to %@</base>
-        <tran loc="es">Iniciar sesión en %@</tran>
+        <tran loc="es-419">Iniciar sesión en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1639,7 +1639,7 @@
       <Position>AUTHORIZE_FIRST_TIME_MESSAGE_3</Position>
       <TranslationSet>
         <base loc="en">Keep your email address private but still receive messages from the app.</base>
-        <tran loc="es">Protege la privacidad de tu correo electrónico sin dejar de recibir mensajes de la app.</tran>
+        <tran loc="es-419">Mantén la privacidad de tu correo pero sigue recibiendo mensajes de la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1647,7 +1647,7 @@
       <Position>AUTHORIZE_GIVEN_NAME</Position>
       <TranslationSet>
         <base loc="en">First Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1655,7 +1655,7 @@
       <Position>RECOVERY_FORGOT_ALL_PASSWORDS_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forgot all passwords?</base>
-        <tran loc="es">¿Has olvidado todas las contraseñas?</tran>
+        <tran loc="es-419">¿Olvidaste todas las contraseñas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1663,7 +1663,7 @@
       <Position>PASSWORD_REQUEST_VIEW_SAVED_FROM_WATCHOS</Position>
       <TranslationSet>
         <base loc="en">Saved from\n%@</base>
-        <tran loc="es">Guardado desde\n%@</tran>
+        <tran loc="es-419">Guardado desde\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1671,7 +1671,7 @@
       <Position>AUTHORIZE_YOUR_EMAIL_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">Your Email Addresses</base>
-        <tran loc="es">Tus direcciones de correo electrónico</tran>
+        <tran loc="es-419">Tus correos electrónicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1679,7 +1679,7 @@
       <Position>CDP_LOCKED_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Try signing in again later.</base>
-        <tran loc="es">Intenta volver a iniciar sesión más tarde.</tran>
+        <tran loc="es-419">Intenta iniciar sesión después.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1687,7 +1687,7 @@
       <Position>AUTHORIZE_WELCOME_WATCH</Position>
       <TranslationSet>
         <base loc="en">Use this app with Apple ID</base>
-        <tran loc="es">Usa esta app con el ID de Apple</tran>
+        <tran loc="es-419">Usa esta app con Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1695,7 +1695,7 @@
       <Position>ENROLL_CANT_APPROVE_BUTTON_QUESTION_MARK</Position>
       <TranslationSet>
         <base loc="en">Can‘t Approve?</base>
-        <tran loc="es">¿No se puede aprobar?</tran>
+        <tran loc="es-419">¿No se pudo aprobar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1703,7 +1703,7 @@
       <Position>KEEP_USING_ALERT_NO_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Use Other Apple ID</base>
-        <tran loc="es">Usar otro ID de Apple</tran>
+        <tran loc="es-419">Usar otro Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1711,7 +1711,7 @@
       <Position>AUTHORIZE_FIRST_TIME_TITLE_3</Position>
       <TranslationSet>
         <base loc="en">Hide your email</base>
-        <tran loc="es">Oculta tu correo electrónico</tran>
+        <tran loc="es-419">Oculta tu correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1719,7 +1719,7 @@
       <Position>AUTHORIZE_PRIVATE_EMAIL_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Anonymous email allows this app to contact you without receiving your real email address.</base>
-        <tran loc="es">El correo electrónico anónimo permite a esta app contactar contigo sin proporcionarle tu dirección de correo electrónico auténtica.</tran>
+        <tran loc="es-419">El correo anónimo permite que esta app se comunique contigo sin recibir tu dirección de correo real.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1727,7 +1727,7 @@
       <Position>ENROLL_FORGOT_MORE_DEVICES_TITLE</Position>
       <TranslationSet>
         <base loc="en">If you can‘t remember the password for %@ “%@”, you can enter the password for one of your other devices.</base>
-        <tran loc="es">Si no recuerdas la contraseña del %@ “%@”, puedes introducir la contraseña de uno de tus otros dispositivos.</tran>
+        <tran loc="es-419">Si no recuerdas la contraseña del %@ "%@", puedes ingresar la contraseña de uno de tus otros dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1735,7 +1735,7 @@
       <Position>AUTHORIZE_PASSWORD_VALIDATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the user “%@” to continue.</base>
-        <tran loc="es">Introduce la contraseña del usuario “%@” para continuar.</tran>
+        <tran loc="es-419">Ingresa la contraseña del usuario “%@” para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1743,7 +1743,7 @@
       <Position>CANT_APPROVE_OUT_OF_DEVICE_MSG</Position>
       <TranslationSet>
         <base loc="en">Try signing in again after this time.</base>
-        <tran loc="es">Intenta volver a iniciar sesión.</tran>
+        <tran loc="es-419">Intenta iniciar sesión pasado este tiempo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1751,7 +1751,7 @@
       <Position>AUTHORIZE_FORWARD_TO_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Forward To: %@</base>
-        <tran loc="es">Reenviar a: %@</tran>
+        <tran loc="es-419">Reenviar a: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1759,7 +1759,7 @@
       <Position>AUTHORIZE_FIRST_TIME_TITLE_2</Position>
       <TranslationSet>
         <base loc="en">Respects your privacy</base>
-        <tran loc="es">Respeta tu privacidad</tran>
+        <tran loc="es-419">Respeta tu privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1767,7 +1767,7 @@
       <Position>AUTHORIZATION_IN_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Signing in</base>
-        <tran loc="es">Iniciando sesión</tran>
+        <tran loc="es-419">Iniciando sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1775,7 +1775,7 @@
       <Position>AUTH_PROCESSING_LOADING</Position>
       <TranslationSet>
         <base loc="en">Signing in</base>
-        <tran loc="es">Iniciando sesión</tran>
+        <tran loc="es-419">Iniciando sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1783,7 +1783,7 @@
       <Position>ENROLL_PASSCODE_ENTRY_INCORRECT_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Incorrect passcode.</base>
-        <tran loc="es">Código incorrecto.</tran>
+        <tran loc="es-419">Código incorrecto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1791,7 +1791,7 @@
       <Position>VERIFICATION_HEADER</Position>
       <TranslationSet>
         <base loc="en">Apple ID Verification Code</base>
-        <tran loc="es">Verificación del ID de Apple</tran>
+        <tran loc="es-419">Código de verificación de Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1799,7 +1799,7 @@
       <Position>AUTHORIZE_FIRST_TIME_TITLE_1</Position>
       <TranslationSet>
         <base loc="en">Fast and easy</base>
-        <tran loc="es">Rápido y seguro</tran>
+        <tran loc="es-419">Rápido y fácil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1807,7 +1807,7 @@
       <Position>REMOTE_SECRET_ENTRY_DEPLETED_ATTEMPTS_TITLE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">You have entered too many incorrect passcodes.</base>
-        <tran loc="es">Has introducido demasiados códigos incorrectos.</tran>
+        <tran loc="es-419">Ingresaste demasiados códigos incorrectos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1815,7 +1815,7 @@
       <Position>RECOVERY_FORGOT_DEVICE_PASSWORDS_ALERT_MSG</Position>
       <TranslationSet>
         <base loc="en">If you can’t remember the password for “%@”, you can still regain access to your Apple ID with account recovery.</base>
-        <tran loc="es">Si no recuerdas la contraseña de “%@”, puedes acceder a tu ID de Apple mediante la recuperación de la cuenta.</tran>
+        <tran loc="es-419">Si no recuerdas la contraseña de “%@”, puedes restablecer tu cuenta para volver a tener acceso a tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1823,7 +1823,7 @@
       <Position>AUTHORIZE_EMAIL_EDIT_INFO_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ requires an email address for new accounts. You can share your real email or an anonymous version of it.</base>
-        <tran loc="es">%@ requiere una dirección de correo electrónico para nuevas cuentas. Puedes compartir tu dirección de correo electrónico auténtica o una versión anónima.</tran>
+        <tran loc="es-419">%@ requiere una dirección de correo para las cuentas nuevas. Puedes compartir tu correo real o una versión anónima del mismo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1831,7 +1831,7 @@
       <Position>AUTHORIZATION_PRIVACY_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">See how your data is managed…</base>
-        <tran loc="es">Descubre cómo se gestionan tus datos…</tran>
+        <tran loc="es-419">Consulta cómo se administran tus datos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1839,7 +1839,7 @@
       <Position>DFR_AUTHENTICATE</Position>
       <TranslationSet>
         <base loc="en">Sign In with Touch ID</base>
-        <tran loc="es">Iniciar sesión con Touch ID</tran>
+        <tran loc="es-419">Iniciar sesión con Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1847,7 +1847,7 @@
       <Position>RECOVERY_FORGOT_DEVICE_PASSWORDS_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forgot device password?</base>
-        <tran loc="es">¿Has olvidado la contraseña del dispositivo?</tran>
+        <tran loc="es-419">¿Olvidaste la contraseña del dispositivo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1855,7 +1855,7 @@
       <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_ITUNES</Position>
       <TranslationSet>
         <base loc="en">Enter your password to continue using Apple Media Services on this Mac.</base>
-        <tran loc="es">Introduce la contraseña para seguir usando los servicios multimedia de Apple en este Mac.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para seguir usando los servicios de contenido multimedia de Apple en esta Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1863,7 +1863,7 @@
       <Position>ENROLL_FORGOT_NO_DEVICES_TITLE</Position>
       <TranslationSet>
         <base loc="en">If you can‘t remember the password for %@ “%@”, you can approve this Mac using another device.</base>
-        <tran loc="es">Si no recuerdas la contraseña del %@ “%@”, puedes aprobar este Mac desde otro dispositivo.</tran>
+        <tran loc="es-419">Si no recuerdas la contraseña del %@ "%@", puedes aprobar esta Mac usando otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1871,7 +1871,7 @@
       <Position>AUTHORIZE_EMAIL_CELL_SHARE</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1879,7 +1879,7 @@
       <Position>CAPITALIZED_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1887,7 +1887,7 @@
       <Position>PASSWORD_ALERT_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1895,7 +1895,7 @@
       <Position>PASSWORD_TEXTFIELD_ACCESSIBILITY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1903,7 +1903,7 @@
       <Position>BIO_BUTTON_PEARL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Face ID</base>
-        <tran loc="es">Face ID</tran>
+        <tran loc="es-419">Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1911,7 +1911,7 @@
       <Position>AUTHORIZE_HIDE_MY_EMAIL</Position>
       <TranslationSet>
         <base loc="en">Hide My Email</base>
-        <tran loc="es">Ocultar mi correo electrónico</tran>
+        <tran loc="es-419">Ocultar mi correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1926,7 +1926,7 @@
       <Position>ENROLL_PASSWORD_ENTRY_IFORGOT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Forgot?</base>
-        <tran loc="es">¿Olvidada?</tran>
+        <tran loc="es-419">¿Se te olvidó?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1934,7 +1934,7 @@
       <Position>ENROLL_DEVICE_WAIT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Go to one of your other devices signed in to iCloud to approve this Mac.</base>
-        <tran loc="es">Utiliza otro dispositivo con el que hayas iniciado sesión en iCloud para aprobar este Mac.</tran>
+        <tran loc="es-419">Usa uno de tus otros dispositivos conectados con iCloud para aprobar esta Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1942,7 +1942,7 @@
       <Position>ENROLL_GENERIC_MACHINE_MESSAGE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Your passcode is encrypted and cannot be read by Apple.</base>
-        <tran loc="es">Tu código está encriptado y Apple no podrá leerlo.</tran>
+        <tran loc="es-419">Tu código está encriptado y Apple no puede leerlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1950,7 +1950,7 @@
       <Position>AUTHORIZATION_PRIVACY_FOURTH_BULLET</Position>
       <TranslationSet>
         <base loc="en">Sign in with Apple is protected by Touch ID, Face ID, and strong passcode options.</base>
-        <tran loc="es">“Iniciar sesión con Apple” está protegida por Touch ID, Face ID y opciones de código seguro.</tran>
+        <tran loc="es-419">Iniciar Sesión con Apple utiliza métodos de protección que incluyen Touch ID, Face ID y opciones de código seguro.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1958,7 +1958,7 @@
       <Position>SIGN_IN_INLINE_GENERIC_ERROR</Position>
       <TranslationSet>
         <base loc="en">An error occurred during authentication.</base>
-        <tran loc="es">Se ha producido un error durante la autenticación.</tran>
+        <tran loc="es-419">Ocurrió un error durante la autenticación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1966,7 +1966,7 @@
       <Position>REMOTE_SECRET_ENTRY_RECOVERY_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1974,7 +1974,7 @@
       <Position>VERIFICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1982,7 +1982,7 @@
       <Position>ENROLL_FORGOT_NO_DEVICES_TITLE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">If you can‘t remember the passcode for %@ “%@”, you can approve this Mac using another device.</base>
-        <tran loc="es">Si no recuerdas el código del %@ “%@”, puedes aprobar este Mac desde otro dispositivo.</tran>
+        <tran loc="es-419">Si no recuerdas el código del %@ "%@", puedes aprobar esta Mac usando otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1990,7 +1990,7 @@
       <Position>ENROLL_FORGOT_BUTTON_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Forgot %@ passcode?</base>
-        <tran loc="es">¿Has olvidado el código de %@?</tran>
+        <tran loc="es-419">¿Olvidaste el código de %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1998,7 +1998,7 @@
       <Position>ENROLL_GENERIC_ICSC_TITLE</Position>
       <TranslationSet>
         <base loc="en">To access your iCloud data, enter the iCloud Security Code.</base>
-        <tran loc="es">Para acceder a los datos de iCloud, introduce el código de seguridad de iCloud.</tran>
+        <tran loc="es-419">Ingresa el código de seguridad de iCloud para acceder a tus datos en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2006,7 +2006,7 @@
       <Position>AUTHORIZE_NAME_EDIT_INFO</Position>
       <TranslationSet>
         <base loc="en">This app is requesting your name to personalize your experience.</base>
-        <tran loc="es">Esta app solicita tu nombre para personalizar tu experiencia.</tran>
+        <tran loc="es-419">Esta app solicita tu nombre para personalizar tu experiencia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2014,7 +2014,7 @@
       <Position>CDP_NEEDS_PASSWORD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter your password to set up iCloud.</base>
-        <tran loc="es">Introduce la contraseña para configurar iCloud.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para configurar iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2022,7 +2022,7 @@
       <Position>DEPLETED_ATTEMPTS_ERROR_MSG_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Choose a device to enter its passcode.</base>
-        <tran loc="es">Selecciona un dispositivo para introducir su código.</tran>
+        <tran loc="es-419">Elige un dispositivo para ingresar su código.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2030,7 +2030,7 @@
       <Position>AUTHORIZE_APPLEID_CREATE_APPLEID_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Create an account using your Apple ID “%@“.</base>
-        <tran loc="es">Crea una cuenta usando tu ID de Apple “%@“.</tran>
+        <tran loc="es-419">Crea una cuenta utilizando tu Apple ID “%@“.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2038,7 +2038,7 @@
       <Position>AUTHORIZATION_PRIVACY_REVIEW_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign in with Apple</base>
-        <tran loc="es">Iniciar sesión con Apple</tran>
+        <tran loc="es-419">Iniciar Sesión con Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2047,7 +2047,7 @@
       <Position>AUTHORIZE_FIRST_TIME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign in with Apple</base>
-        <tran loc="es">Iniciar sesión con Apple</tran>
+        <tran loc="es-419">Iniciar sesión con Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2055,7 +2055,7 @@
       <Position>SIGN_IN_WITH_APPLE</Position>
       <TranslationSet>
         <base loc="en">Sign in with Apple</base>
-        <tran loc="es">Iniciar sesión con Apple</tran>
+        <tran loc="es-419">Iniciar sesión con Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2064,7 @@
       <Position>AUTHORIZE_APPLE_ID_1ST_PARTY_LOGIN</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to %@ with your Apple ID “%@”?</base>
-        <tran loc="es">¿Quieres iniciar sesión en %@ con tu ID de Apple “%@”?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en %@ con tu Apple ID “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2072,7 @@
       <Position>SAME_PASSCODE_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode for “%@”, which is not the password for this %@.</base>
-        <tran loc="es">Introduce el código de “%@”, que no es la contraseña de este %@.</tran>
+        <tran loc="es-419">Ingresa el código de "%@", el cual no es la contraseña de este %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2080,7 @@
       <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Enter your password to continue using iCloud on this Mac.</base>
-        <tran loc="es">Para seguir usando iCloud en este Mac, introduce tu contraseña.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para seguir usando iCloud en esta Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2088,7 @@
       <Position>AUTHORIZATION_PRIVACY_REVIEW_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Sign in to apps and websites with the Apple ID you already have. Apps can only ask for name and email. And you can keep your email address private but still receive messages from the app.</base>
-        <tran loc="es">Inicia sesión en las apps y los sitios web con el ID de Apple que ya tienes. Las apps solo pueden pedirte el nombre y el correo electrónico. Podrás proteger la privacidad de tu dirección de correo sin dejar de recibir mensajes de la app.</tran>
+        <tran loc="es-419">Inicia sesión en apps y sitios web utilizando tu Apple ID actual. Las apps sólo pueden preguntarte tu nombre y tu correo. Puedes optar por mantener la privacidad de tu dirección de correo y seguir recibiendo mensajes de la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2096,7 @@
       <Position>PASSCODE_ALERT_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Passcode</base>
-        <tran loc="es">Código</tran>
+        <tran loc="es-419">Código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2104,7 @@
       <Position>ENROLL_FORGOT_NO_DEVICES_USE_OTHER_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Use Other Device</base>
-        <tran loc="es">Usar otro dispositivo</tran>
+        <tran loc="es-419">Usar otro dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2112,7 @@
       <Position>PASSWORD_REQUEST_VIEW_SAVED_FROM</Position>
       <TranslationSet>
         <base loc="en">Saved password from %@</base>
-        <tran loc="es">Contraseña guardada desde %@</tran>
+        <tran loc="es-419">Contraseña guardada desde %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2120,7 @@
       <Position>DIDNT_GET_A_CODE</Position>
       <TranslationSet>
         <base loc="en">Didn’t Get a Code?</base>
-        <tran loc="es">¿No has recibido un código?</tran>
+        <tran loc="es-419">¿No recibiste un código?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2128,7 @@
       <Position>ENROLL_CURRENT_MACHINE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Your iCloud data is protected by your user password.</base>
-        <tran loc="es">Los datos de iCloud están protegidos con la contraseña de usuario.</tran>
+        <tran loc="es-419">Tus datos de iCloud están protegidos por tu contraseña de usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2136,7 @@
       <Position>SIGN_IN_MESSAGE_NO_CREATE_SERVICE_GAME_CENTER</Position>
       <TranslationSet>
         <base loc="en">Enter your password to continue using Game Center on this Mac.</base>
-        <tran loc="es">Introduce la contraseña para seguir usando Game Center en este Mac.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para seguir usando Game Center en esta Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2144,7 @@
       <Position>AUTHORIZE_USE_DEVICE_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Didn't get a notification? Make sure your iOS device has Wi-Fi and Bluetooth turned on.\nRequires iOS 13.0 or later.</base>
-        <tran loc="es">¿No has recibido ninguna notificación? Asegúrate de que tu dispositivo iOS tenga activadas las conexiones Wi-Fi y Bluetooth.\nRequiere iOS 13.0 o una versión más reciente.</tran>
+        <tran loc="es-419">¿No recibiste una notificación? Asegúrate de que tu dispositivo iOS tiene Wi-Fi y Bluetooth activados.\nSe requiere iOS 13.0 o posterior.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2152,7 @@
       <Position>DEPLETED_ATTEMPTS_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">The password for “%@” was entered incorrectly too many times.</base>
-        <tran loc="es">La contraseña de “%@” se ha introducido incorrectamente demasiadas veces.</tran>
+        <tran loc="es-419">Ingresaste incorrectamente la contraseña de “%@” demasiadas veces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2160,7 @@
       <Position>FORGOT_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Forgot Password?</base>
-        <tran loc="es">¿Has olvidado tu contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2168,7 @@
       <Position>AUTHORIZE_FIRST_TIME_MESSAGE_2</Position>
       <TranslationSet>
         <base loc="en">Apps can only ask for name and email. Apple will never track you.</base>
-        <tran loc="es">Las apps solo pueden pedirte el nombre y el correo electrónico. Apple nunca te rastreará.</tran>
+        <tran loc="es-419">Las apps sólo pueden preguntarte tu nombre y tu correo. Apple nunca rastreará tu actividad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2176,7 @@
       <Position>PASSWORD_REQUEST_VIEW_SINGLE_FOR_APP_QUESTION</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to %@ with your saved password?</base>
-        <tran loc="es">¿Quieres iniciar sesión en %@ con la contraseña que tienes guardada?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en %@ con tu contraseña guardada?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2184,7 @@
       <Position>ENROLL_FORGOT_MORE_DEVICES_CHOSSE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Choose Device</base>
-        <tran loc="es">Seleccionar dispositivo</tran>
+        <tran loc="es-419">Elegir dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@
       <Position>AUTHORIZE_WELCOME_FORMAT_WATCH</Position>
       <TranslationSet>
         <base loc="en">Use %@ with Apple ID</base>
-        <tran loc="es">Usa %@ con el ID de Apple</tran>
+        <tran loc="es-419">Usar %@ con Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2200,7 @@
       <Position>PASSWORD_REQUEST_VIEW_SIGN_INTO_APP_WITH_APPLE_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to this app with your Apple ID “%@“?</base>
-        <tran loc="es">¿Quieres iniciar sesión en esta app con tu ID de Apple “%@“?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en esta app con tu Apple ID “%@“?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2208,7 +2208,7 @@
       <Position>AUTHORIZE_APPLE_ID_WELCOME</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to this application with your Apple ID?</base>
-        <tran loc="es">¿Quieres iniciar sesión en esta aplicación con tu ID de Apple?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en esta app con tu Apple ID?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2216,7 +2216,7 @@
       <Position>BIO_BUTTON_CONTINUE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Continue with Touch ID</base>
-        <tran loc="es">Continuar con Touch ID</tran>
+        <tran loc="es-419">Continuar con Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2224,7 +2224,7 @@
       <Position>SIGNING_IN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Signing In…</base>
-        <tran loc="es">Iniciando sesión…</tran>
+        <tran loc="es-419">Iniciando sesión…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2232,7 +2232,7 @@
       <Position>KECHAINBACKUP_RANDOM_SECURITY_CODE_CONFIRM_PROMPT</Position>
       <TranslationSet>
         <base loc="en">XXXX-XXXX-XXXX-XXXX-XXXX-XXXX</base>
-        <tran loc="es">XXXX-XXXX-XXXX-XXXX-XXXX-XXXX</tran>
+        <tran loc="es-419">XXXX-XXXX-XXXX-XXXX-XXXX-XXXX</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2240,7 +2240,7 @@
       <Position>ENROLL_NEXT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2248,7 +2248,7 @@
       <Position>AUTHORIZE_USE_DEVICE_FOOTER_WLAN</Position>
       <TranslationSet>
         <base loc="en">Didn't get a notification? Make sure your iOS device has WLAN and Bluetooth turned on.\nRequires iOS 13.0 or later.</base>
-        <tran loc="es">¿No has recibido ninguna notificación? Asegúrate de que tu dispositivo iOS tenga activadas las conexiones WLAN y Bluetooth.\nRequiere iOS 13.0 o una versión más reciente.</tran>
+        <tran loc="es-419">¿No recibiste una notificación? Asegúrate de que tu dispositivo iOS tiene WLAN y Bluetooth activados.\nSe requiere iOS 13.0 o posterior.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2256,7 +2256,7 @@
       <Position>AUTHORIZE_APPLE_ID_WELCOME_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to %@ with your Apple ID “%@“?</base>
-        <tran loc="es">¿Quieres iniciar sesión en %@ con tu ID de Apple “%@“?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en %@ con tu Apple ID “%@“?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2264,7 +2264,7 @@
       <Position>PASSWORD_REQUEST_VIEW_SIGN_INTO_APP_WITH_APPLE</Position>
       <TranslationSet>
         <base loc="en">Do you want to sign in to %@ with your Apple ID “%@“?</base>
-        <tran loc="es">¿Quieres iniciar sesión en %@ con tu ID de Apple “%@“?</tran>
+        <tran loc="es-419">¿Quieres iniciar sesión en %@ con tu Apple ID “%@“?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2272,7 +2272,7 @@
       <Position>TURN_OFF_KEYCHAIN_OLDER_PEERS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Turning off iCloud Keychain on this device will also turn off iCloud Keychain on other devices running iOS 8 and OS X Yosemite or earlier.</base>
-        <tran loc="es">Si desactivas el llavero de iCloud en este dispositivo, también se desactivará en otros dispositivos con iOS 8 y OS X Yosemite o versiones anteriores.</tran>
+        <tran loc="es-419">Desactivar el llavero de iCloud en este dispositivo también lo desactivará en otros dispositivos con iOS 8 y OS X o anterior.</tran>
       </TranslationSet>
     </TextItem>
   </File>

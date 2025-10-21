@@ -8,7 +8,7 @@
       <Position>QUOTA_OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>ERROR_MACH_FAILURE</Position>
       <TranslationSet>
         <base loc="en">An internal communications error has occurred.</base>
-        <tran loc="es">Se ha producido un error interno de comunicación.</tran>
+        <tran loc="es-419">Se presentó un error interno de comunicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>AUTH_MESSAGE_P_ACCOUNTNAME</Position>
       <TranslationSet>
         <base loc="en">Photos for the iCloud account “%@” cannot be accessed. Review your account information in Settings.</base>
-        <tran loc="es">No se puede acceder a las fotos de la cuenta de iCloud “%@”. Revisa la información de tu cuenta en Ajustes.</tran>
+        <tran loc="es-419">No se puede acceder a las fotos de la cuenta iCloud “%@”. Revisa la información de la cuenta en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>ERROR_ASSET_HASH_FAILURE</Position>
       <TranslationSet>
         <base loc="en">The fingerprint for a photo could not be computed.</base>
-        <tran loc="es">No se ha podido generar el identificador de una foto.</tran>
+        <tran loc="es-419">No se pudo generar el identificador de una foto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>AUTH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Photo Stream</base>
-        <tran loc="es">Fotos en streaming</tran>
+        <tran loc="es-419">Secuencia de fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>ERROR_CONNECTION_FAILED</Position>
       <TranslationSet>
         <base loc="en">The operation could not be performed.</base>
-        <tran loc="es">No se ha podido realizar la operación.</tran>
+        <tran loc="es-419">No se pudo realizar la operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>QUOTA_BODY_ONE</Position>
       <TranslationSet>
         <base loc="en">Your photos will begin uploading again in one day.</base>
-        <tran loc="es">Las fotos se empezarán a cargar de nuevo dentro de 1 día.</tran>
+        <tran loc="es-419">Las fotos se empezarán a cargar de nuevo dentro de 1 día.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>AUTH_IGNORE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Ignore</base>
-        <tran loc="es">Ignorar</tran>
+        <tran loc="es-419">Ignorar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>QUOTA_TITLE</Position>
       <TranslationSet>
         <base loc="en">Photo Stream Limit Reached</base>
-        <tran loc="es">Límite de “Fotos en streaming” alcanzado</tran>
+        <tran loc="es-419">Límite de “Secuencia de fotos” alcanzado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>QUOTA_BODY_PLURAL</Position>
       <TranslationSet>
         <base loc="en">Your photos will begin uploading again in %@ days.</base>
-        <tran loc="es">Las fotos se empezarán a cargar de nuevo dentro de %@ días.</tran>
+        <tran loc="es-419">Las fotos se empezarán a cargar de nuevo dentro de %@ días.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>ERROR_ASSET_ITEMID_FAILURE</Position>
       <TranslationSet>
         <base loc="en">The identifier for a photo could not be determined.</base>
-        <tran loc="es">No se ha podido determinar el identificador de una foto.</tran>
+        <tran loc="es-419">No se pudo determinar el identificador de una foto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>AUTH_SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>

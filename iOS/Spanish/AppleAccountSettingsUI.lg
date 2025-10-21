@@ -8,7 +8,7 @@
       <Position>APPLEID_SETTINGS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Update the contact information, security details, and payment method associated with your Apple ID.</base>
-        <tran loc="es">Actualiza los datos de contacto, la información de seguridad y el método de pago asociado a tu ID de Apple.</tran>
+        <tran loc="es-419">Actualiza la información de contacto, detalles de seguridad y método de pago asociados con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>APPLEID_SERVICES_STORE_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">iTunes &amp; App Store</base>
-        <tran loc="es">iTunes Store y App Store</tran>
+        <tran loc="es-419">iTunes y App Store</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>NON_MAIN_ACCOUNT_MESSAGE_NOTES_MIGRATED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Only your main account can use Bookmarks, Photos, iCloud Drive, Notes, Backup, and Find My iPad.</base>
-        <tran loc="es">Solo puedes acceder a tus marcadores, fotos, iCloud Drive, notas, copia de seguridad y Buscar mi iPad desde tu cuenta principal.</tran>
+        <tran loc="es-419">Las funciones Marcadores, Fotos, iCloud Drive, Notas, Respaldo y Buscar Mi iPad sólo se pueden usar en tu cuenta principal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>RETRY</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPhone on this account will turn off sync and Find My iPhone for “%@”.</base>
-        <tran loc="es">La activación de Buscar mi iPhone en esta cuenta desactiva la sincronización y Buscar mi iPhone en “%@”.</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPhone en esta cuenta desactiva la sincronización y Buscar Mi iPhone en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>APPLEID_SUBSCRIPTIONS_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Subscriptions</base>
-        <tran loc="es">Suscripciones</tran>
+        <tran loc="es-419">Suscripciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>ICLOUD_SERVICE_UBIQUITY_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Allow apps to store documents and data in iCloud.</base>
-        <tran loc="es">Las apps podrán guardar documentos y datos en iCloud.</tran>
+        <tran loc="es-419">Permitir que las apps guarden documentos y datos en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>COPY_EXISTING_MOBILEME_DATA_IPAD</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPad</base>
-        <tran loc="es">Mantener en el iPad</tran>
+        <tran loc="es-419">Mantener en el iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>INVALID_USERNAME_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">iCloud requires an Apple ID that is an email address\n(including @icloud.com addresses).</base>
-        <tran loc="es">iCloud requiere que el ID de Apple sea una dirección de correo (incluso para las direcciones @icloud.com).</tran>
+        <tran loc="es-419">iCloud requiere que Apple ID sea una dirección de correo (incluso para las direcciones @icloud.com).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>ICLOUD_SERVICE_UBIQUITY_UPGRAGE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Upgrade</base>
-        <tran loc="es">Actualizar</tran>
+        <tran loc="es-419">Actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>UPDATE_NAME_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Could Not Update Name</base>
-        <tran loc="es">Imposible actualizar el nombre</tran>
+        <tran loc="es-419">Imposible actualizar el nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_FORMAT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On %@</base>
-        <tran loc="es">Activar %@</tran>
+        <tran loc="es-419">Activar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_FORMAT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On %@</base>
-        <tran loc="es">Activar %@</tran>
+        <tran loc="es-419">Activar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>CONFIRM_SWITCH_DATACLASS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On %@</base>
-        <tran loc="es">Activar datos de %@</tran>
+        <tran loc="es-419">Activar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>MULTIPLE_SERVICES_SIGN_OUT_BOTH</Position>
       <TranslationSet>
         <base loc="en">Sign Out of iCloud and Store</base>
-        <tran loc="es">Cerrar ambas sesiones</tran>
+        <tran loc="es-419">Ambas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>DELETE_ACCOUNT_RESTORE_WARNING_IPOD</Position>
       <TranslationSet>
         <base loc="en">You cannot sign out of your Apple ID because your iPod is being restored.</base>
-        <tran loc="es">No puedes cerrar sesión con tu ID de Apple porque se está restaurando el iPod.</tran>
+        <tran loc="es-419">No se puede cerrar la sesión de tu Apple ID porque se está restaurando tu iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>DONT_ADD</Position>
       <TranslationSet>
         <base loc="en">Don’t Add</base>
-        <tran loc="es">No añadir</tran>
+        <tran loc="es-419">No agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>ACCOUNT_PAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -159,7 +159,7 @@
       <Position>APPLEID_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -167,7 +167,7 @@
       <Position>APPLE_ID</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -175,7 +175,7 @@
       <Position>DEVICE_LOCATOR_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone Enabled</base>
-        <tran loc="es">Buscar mi iPhone activado</tran>
+        <tran loc="es-419">Buscar Mi iPhone activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -183,7 +183,7 @@
       <Position>LEARN_MORE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Learn More…</base>
-        <tran loc="es">Más información…</tran>
+        <tran loc="es-419">Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -191,7 +191,7 @@
       <Position>MAIL_ACCOUNT_INFO</Position>
       <TranslationSet>
         <base loc="en">Mail</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Mail</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -199,7 +199,7 @@
       <Position>NEW_MEMBER</Position>
       <TranslationSet>
         <base loc="en">New Member</base>
-        <tran loc="es">Nuevo usuario</tran>
+        <tran loc="es-419">Nuevo usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -207,7 +207,7 @@
       <Position>NOT_A_MOBILEME_ACCOUNT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account has already been migrated to iCloud.</base>
-        <tran loc="es">Esta cuenta ya se ha migrado a iCloud.</tran>
+        <tran loc="es-419">Esta cuenta ya se había migrado a iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -215,7 +215,7 @@
       <Position>DEVICE_LOCATOR_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">Find My iPad helps you locate this iPad on a map and remotely lock or erase it.</base>
-        <tran loc="es">Buscar mi iPad te ayuda a localizar este iPad en un mapa y a bloquearlo o borrarlo remotamente.</tran>
+        <tran loc="es-419">Buscar Mi iPad te ayuda a localizar este iPad en un mapa y bloquearlo o borrarlo remotamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -223,7 +223,7 @@
       <Position>APPLEID_SIGNOUT_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign Out</base>
-        <tran loc="es">Cerrar sesión</tran>
+        <tran loc="es-419">Cerrar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -231,7 +231,7 @@
       <Position>DELETE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Sign Out</base>
-        <tran loc="es">Cerrar sesión</tran>
+        <tran loc="es-419">Cerrar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -239,7 +239,7 @@
       <Position>SIGN_OUT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign Out</base>
-        <tran loc="es">Cerrar sesión</tran>
+        <tran loc="es-419">Cerrar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -247,7 +247,7 @@
       <Position>PASSWORD_INCORRECT_ERROR</Position>
       <TranslationSet>
         <base loc="en">The password you entered is incorrect.</base>
-        <tran loc="es">La contraseña que has introducido es incorrecta.</tran>
+        <tran loc="es-419">La contraseña ingresada es incorrecta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -255,7 +255,7 @@
       <Position>RESET_KEYCHAIN_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Reset iCloud Keychain</base>
-        <tran loc="es">Restablecer llavero de iCloud</tran>
+        <tran loc="es-419">Restablecer llavero de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -263,7 +263,7 @@
       <Position>ICLOUD_SIGNOUT_PASSBOOK_ONLY_WARNING</Position>
       <TranslationSet>
         <base loc="en">Signing out of your iCloud account will disable Apple Pay and will remove your cards.</base>
-        <tran loc="es">Si cierras la sesión de tu cuenta de iCloud, se desactivará Apple Pay y se eliminarán tus tarjetas.</tran>
+        <tran loc="es-419">Cerrar la sesión de tu cuenta iCloud desactivará Apple Pay y eliminará tus tarjetas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -271,7 +271,7 @@
       <Position>LEARN_MORE_URL</Position>
       <TranslationSet>
         <base loc="en">https://www.apple.com/icloud</base>
-        <tran loc="es">https://www.apple.com/es/icloud</tran>
+        <tran loc="es-419">https://www.apple.com/la/icloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -279,7 +279,7 @@
       <Position>SERVER_NO_CREDENTIALS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Authentication Failed</base>
-        <tran loc="es">Error de autenticación</tran>
+        <tran loc="es-419">Error de autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -287,7 +287,7 @@
       <Position>NAME</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -295,7 +295,7 @@
       <Position>SIGN_IN_ERROR_UNREACHABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">An Internet connection is required to sign in.</base>
-        <tran loc="es">Para iniciar sesión, se requiere conexión a internet.</tran>
+        <tran loc="es-419">Se requiere de una conexión a Internet para iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -303,7 +303,7 @@
       <Position>KEYCHAIN_NOT_AVAILABLE_IN_DEMO_MODE</Position>
       <TranslationSet>
         <base loc="en">iCloud Keychain is not enabled for this demo.</base>
-        <tran loc="es">El llavero de iCloud no está activado en este modo de demostración.</tran>
+        <tran loc="es-419">En esta versión no está disponible el llavero de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -311,7 +311,7 @@
       <Position>DISABLE_ACTIVATION_LOCK_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the Apple ID password for “%@” to turn off Activation Lock.</base>
-        <tran loc="es">Introduce la contraseña del ID de Apple “%@” para desactivar el bloqueo de activación.</tran>
+        <tran loc="es-419">Ingresa la contraseña del Apple ID de “%@” para desactivar “Bloqueo de activación”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -319,7 +319,7 @@
       <Position>DEVICES_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">My Devices</base>
-        <tran loc="es">Mis dispositivos</tran>
+        <tran loc="es-419">Mis dispositivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -327,7 +327,7 @@
       <Position>SIGN_IN</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -335,7 +335,7 @@
       <Position>DEVICE_LOCATOR_MAC</Position>
       <TranslationSet>
         <base loc="en">Find My Mac</base>
-        <tran loc="es">Buscar mi Mac</tran>
+        <tran loc="es-419">Buscar Mi Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -343,7 +343,7 @@
       <Position>MOBILEME_INVALID_SIGNATURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Validation Failed</base>
-        <tran loc="es">Error de validación</tran>
+        <tran loc="es-419">Error de validación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +351,7 @@
       <Position>DELETE_ACCOUNT_ICLOUD_SPECIFIC_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">If you sign out of your account, all %1$@ stored in iCloud will be removed from this iPhone.</base>
-        <tran loc="es">Si cierras la sesión de tu cuenta, todos los datos guardados en iCloud (%1$@) se eliminarán del iPhone.</tran>
+        <tran loc="es-419">Si cierras sesión, todos los datos de %1$@ guardados en iCloud se eliminarán del iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -359,7 +359,7 @@
       <Position>NON_MAIN_ACCOUNT_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Only your main account can use Bookmarks, Photo Stream, iCloud Drive, Backup, and Find My iPod touch.</base>
-        <tran loc="es">Solo puedes acceder a tus marcadores, fotos en streaming, iCloud Drive, copia de seguridad y Buscar mi iPod desde tu cuenta principal.</tran>
+        <tran loc="es-419">Las funciones Marcadores, Secuencia de fotos, iCloud Drive, Respaldo y Buscar Mi iPod touch sólo se pueden usar en tu cuenta principal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -367,7 +367,7 @@
       <Position>HSA2_UPGRADE_FAILURE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You cannot use %1$@ with the Apple\U00A0ID “%2$@” because it requires two-factor authentication, and your account does not support it.</base>
-        <tran loc="es">No puedes usar %1$@ con el ID\U00A0de Apple “%2$@” porque requiere la autenticación de doble factor, que no es compatible con tu cuenta.</tran>
+        <tran loc="es-419">No puedes usar %1$@ con el Apple\U00A0ID “%2$@” debido a que requiere autenticación de dos factores y tu cuenta no es compatible con ella.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -375,7 +375,7 @@
       <Position>KEEP_DATACLASS_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Keep %@</base>
-        <tran loc="es">Conservar %@</tran>
+        <tran loc="es-419">Conservar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +383,7 @@
       <Position>BACKUP_OFF_FOOTER_TEXT</Position>
       <TranslationSet>
         <base loc="en">iCloud Backup is off.</base>
-        <tran loc="es">Copia de seguridad de iCloud desactivada.</tran>
+        <tran loc="es-419">Respaldo de iCloud desactivado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -391,7 +391,7 @@
       <Position>INVALID_USERNAME_MOBILEME</Position>
       <TranslationSet>
         <base loc="en">MobileMe requires an Apple ID that is an email address\n(including @icloud.com addresses).</base>
-        <tran loc="es">MobileMe requiere que el ID de Apple sea una dirección de correo (incluso para las direcciones @icloud.com).</tran>
+        <tran loc="es-419">MobileMe requiere que el Apple ID sea una dirección de correo\n(incluso para las direcciones @icloud.com).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -399,7 +399,7 @@
       <Position>LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn More</base>
-        <tran loc="es">Más información</tran>
+        <tran loc="es-419">Más información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -407,7 +407,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Syncing with this account will turn off sync for “%@”.</base>
-        <tran loc="es">La sincronización de esta cuenta desactiva la sincronización de “%@”.</tran>
+        <tran loc="es-419">La sincronización de esta cuenta desactiva la sincronización de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -415,7 +415,7 @@
       <Position>DEVICE_LOCATOR_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone</base>
-        <tran loc="es">Buscar mi iPhone</tran>
+        <tran loc="es-419">Buscar Mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +423,7 @@
       <Position>ENTER_PASSWORD_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Enter the password for your Apple ID,\n</base>
-        <tran loc="es">Introduce la contraseña de tu ID de Apple,\n</tran>
+        <tran loc="es-419">Ingresa la contraseña de tu Apple ID,\n</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +431,7 @@
       <Position>DEVICE_LOCATOR_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Find My Device</base>
-        <tran loc="es">Buscar mi dispositivo</tran>
+        <tran loc="es-419">Buscar Mi dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +439,7 @@
       <Position>TURN_OFF_DEVICE_LOCATOR_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Turning Off Find My iPhone…</base>
-        <tran loc="es">Desactivando Buscar mi iPhone…</tran>
+        <tran loc="es-419">Desactivando Buscar Mi iPhone…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +447,7 @@
       <Position>COPY_EXISTING_MOBILEME_DATA_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPhone</base>
-        <tran loc="es">Mantener en el iPhone</tran>
+        <tran loc="es-419">Mantener en el iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +455,7 @@
       <Position>WAITING_FOR_APPROVAL_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud Keychain on this iPod touch, approve it from another device that uses iCloud Keychain or use your iCloud Security Code.</base>
-        <tran loc="es">Para utilizar el llavero de iCloud en este iPod touch, deberás aprobarlo desde otro dispositivo que lo utilice o usar el código de seguridad de iCloud.</tran>
+        <tran loc="es-419">Para usar el llavero de iCloud en este iPod touch, deberás aprobarlo desde otro dispositivo que utilice el llavero o usar el código de seguridad de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +463,7 @@
       <Position>MOBILEME_ACCOUNT_MISSING_INFO_TITLE</Position>
       <TranslationSet>
         <base loc="en">Account Update Required</base>
-        <tran loc="es">Actualización de cuenta necesaria</tran>
+        <tran loc="es-419">Se necesita actualizar la cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +471,7 @@
       <Position>DELETE_EXISTING_MOBILEME_DATA_IPAD</Position>
       <TranslationSet>
         <base loc="en">Delete From My iPad</base>
-        <tran loc="es">Eliminar del iPad</tran>
+        <tran loc="es-419">Eliminar del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -479,7 +479,7 @@
       <Position>ACCOUNT_NOT_VERIFIED</Position>
       <TranslationSet>
         <base loc="en">Account Not Verified</base>
-        <tran loc="es">Cuenta no verificada</tran>
+        <tran loc="es-419">Cuenta no verificada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -487,7 +487,7 @@
       <Position>APPLEID_ALERT_VERIFY_EMAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Account Not Verified</base>
-        <tran loc="es">Cuenta no verificada</tran>
+        <tran loc="es-419">Cuenta no verificada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -495,7 +495,7 @@
       <Position>DATE_AT_TIME</Position>
       <TranslationSet>
         <base loc="en">%@ at %@</base>
-        <tran loc="es">%@ a las %@</tran>
+        <tran loc="es-419">%@, a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -503,7 +503,7 @@
       <Position>TURN_OFF_DEVICE_LOCATOR_IPOD</Position>
       <TranslationSet>
         <base loc="en">Turning Off Find My iPod touch…</base>
-        <tran loc="es">Desactivando Buscar mi iPod…</tran>
+        <tran loc="es-419">Desactivando Buscar Mi iPod touch…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +511,7 @@
       <Position>PAYMENT_METHOD_CELL</Position>
       <TranslationSet>
         <base loc="en">Payment</base>
-        <tran loc="es">Pago</tran>
+        <tran loc="es-419">Pago</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -519,7 +519,7 @@
       <Position>UDPDATE_NAME_FAILED_FIRST_NAME_EMPTY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">No first name was provided.</base>
-        <tran loc="es">No se ha proporcionado ningún nombre.</tran>
+        <tran loc="es-419">No se proporcionó el nombre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +527,7 @@
       <Position>UPGRADE_ACCOUNT_SECURITY_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">To enable Messages in iCloud, review and upgrade your Apple ID security.</base>
-        <tran loc="es">Para activar los mensajes en iCloud, revisa y actualiza la seguridad de tu ID de Apple.</tran>
+        <tran loc="es-419">Para activar los mensajes en iCloud, revisa y actualiza la seguridad de tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -535,7 +535,7 @@
       <Position>TURN_ON_MAIL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Create a free @icloud.com email address to turn on iCloud Mail.</base>
-        <tran loc="es">Para activar Mail de iCloud, crea una dirección de correo electrónico @icloud.com gratuita.</tran>
+        <tran loc="es-419">Para activar Mail de iCloud, crea una dirección de correo electrónico @icloud.com gratuita.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -543,7 +543,7 @@
       <Position>PENDING</Position>
       <TranslationSet>
         <base loc="en">Pending</base>
-        <tran loc="es">Pendiente</tran>
+        <tran loc="es-419">Pendiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -551,7 +551,7 @@
       <Position>MAIL_NOT_AVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Mail Not Available</base>
-        <tran loc="es">Mail no disponible</tran>
+        <tran loc="es-419">Mail no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -559,7 +559,7 @@
       <Position>PHOTOSTREAM_DELETE_WARNING_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">This will delete all Photo Stream photos from your iPad</base>
-        <tran loc="es">Se eliminarán del iPad todas las fotos de “Fotos en streaming”</tran>
+        <tran loc="es-419">Esto hará que se eliminen de tu iPad todas las fotos de “Secuencia de fotos”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -567,7 +567,7 @@
       <Position>MOBILEME_APPLEID_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Start using MobileMe with your MobileMe email address.</base>
-        <tran loc="es">Empieza a usar MobileMe con tu dirección de correo electrónico de MobileMe.</tran>
+        <tran loc="es-419">Comienza a usar MobileMe con tu dirección de correo MobileMe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -575,7 +575,7 @@
       <Position>WAITING_FOR_APPROVAL_MESSAGE_NO_SECURITY_CODE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">To use iCloud Keychain on this iPhone, approve it from another device that uses iCloud Keychain.\n\nIf you are unable to access another device, you can reset your keychain.</base>
-        <tran loc="es">Para utilizar el llavero de iCloud en este iPhone, deberás aprobarlo desde otro dispositivo que lo utilice.\n\nSi no puedes acceder a otro dispositivo, puedes restablecer el llavero.</tran>
+        <tran loc="es-419">Para usar el llavero de iCloud en este iPhone, deberás aprobarlo desde otro dispositivo que utilice el llavero de iCloud.\n\nSi no puedes acceder a otro dispositivo, puedes restablecer tu llavero.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -583,7 +583,7 @@
       <Position>DELETE_ACCOUNT_RESTORE_WARNING_IPAD</Position>
       <TranslationSet>
         <base loc="en">You cannot sign out of your Apple ID because your iPad is being restored.</base>
-        <tran loc="es">No puedes cerrar sesión con tu ID de Apple porque se está restaurando el iPad.</tran>
+        <tran loc="es-419">No se puede cerrar la sesión de tu Apple ID porque se está restaurando tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -591,7 +591,7 @@
       <Position>NON_MAIN_ACCOUNT_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Only your main account can use Bookmarks, Photo Stream, iCloud Drive, Backup, and Find My iPhone.</base>
-        <tran loc="es">Solo puedes acceder a tus marcadores, fotos en streaming, iCloud Drive, copia de seguridad y Buscar mi iPhone desde tu cuenta principal.</tran>
+        <tran loc="es-419">Las funciones Marcadores, Secuencia de fotos, iCloud Drive, Respaldo y Buscar Mi iPhone sólo se pueden usar en tu cuenta principal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -599,7 +599,7 @@
       <Position>EDIT_PROFILE_PHOTO_BUTTON</Position>
       <TranslationSet>
         <base loc="en">edit</base>
-        <tran loc="es">editar</tran>
+        <tran loc="es-419">editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -607,7 +607,7 @@
       <Position>APPS_THAT_USE_ICLOUD_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apps That Use iCloud</base>
-        <tran loc="es">Apps que usan iCloud</tran>
+        <tran loc="es-419">Apps que usan iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -615,7 +615,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_WITH_DATA_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPad on this account will turn off sync for “%@”.\nWhat would you like to do with the currently synced data on your iPad?</base>
-        <tran loc="es">La activación de Buscar mi iPad en esta cuenta desactiva la sincronización de “%@”.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPad?</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPad en esta cuenta desactivará la sincronización en “%@”.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -623,7 +623,7 @@
       <Position>HSA2_UPGRADE_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">%@ Is Not Available For Your Apple\U00A0ID</base>
-        <tran loc="es">%@ no está disponible para tu ID\U00A0de Apple</tran>
+        <tran loc="es-419">%@ no está disponible para tu Apple\U00A0ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -631,7 +631,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -639,7 +639,7 @@
       <Position>DELETE_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign Out of iCloud</base>
-        <tran loc="es">Cerrar sesión de iCloud</tran>
+        <tran loc="es-419">Cerrar sesión en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -647,7 +647,7 @@
       <Position>MULTIPLE_SERVICES_SIGN_OUT_CLOUD</Position>
       <TranslationSet>
         <base loc="en">Sign Out of iCloud</base>
-        <tran loc="es">Cerrar sesión de iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -655,7 +655,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_WITH_DATA_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPad on this account will turn off sync and Find My iPad for “%@”.\nWhat would you like to do with the currently synced data on your iPad?</base>
-        <tran loc="es">La activación de Buscar mi iPad en esta cuenta desactiva la sincronización y Buscar mi iPad en “%@”.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPad?</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPad en esta cuenta desactivará la sincronización y Buscar Mi iPad en “%@”.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -663,7 +663,7 @@
       <Position>UNABLE_TO_VALIDATE</Position>
       <TranslationSet>
         <base loc="en">Unable to validate account</base>
-        <tran loc="es">Imposible validar cuenta</tran>
+        <tran loc="es-419">Imposible validar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -671,7 +671,7 @@
       <Position>TURN_ON_NOTES_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Create a free @icloud.com email address to turn on Notes.</base>
-        <tran loc="es">Para activar Notas, crea una dirección de correo electrónico @icloud.com gratuita.</tran>
+        <tran loc="es-419">Para activar Notas, crea una dirección de correo electrónico @icloud.com gratuita.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -679,7 +679,7 @@
       <Position>ACTIVATION_LOCK_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Link this iPhone to your Apple ID to prevent another person from activating it.</base>
-        <tran loc="es">Vincula este iPhone a tu ID de Apple para impedir que otra persona lo active.</tran>
+        <tran loc="es-419">Enlaza este iPhone con tu Apple ID para prevenir que alguien más lo active.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -687,7 +687,7 @@
       <Position>MOBILEME_VERIFICATION</Position>
       <TranslationSet>
         <base loc="en">MobileMe Account Verification</base>
-        <tran loc="es">Verificación de cuenta de MobileMe</tran>
+        <tran loc="es-419">Verificación de cuenta MobileMe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +695,7 @@
       <Position>ALREADY_EXISTING_ACCOUNT_DESC_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This %@ account has already been added to your iPhone.</base>
-        <tran loc="es">Esta cuenta %@ ya se ha añadido al iPhone.</tran>
+        <tran loc="es-419">Esta cuenta %@ ya se agregó al iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +703,7 @@
       <Position>EDIT_PROFILE_LAST_NAME_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Last Name</base>
-        <tran loc="es">Apellidos</tran>
+        <tran loc="es-419">Apellido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +711,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_WITH_DATA_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Syncing with this account will turn off sync for “%@” and remove its synced data.\nWhat would you like to do with the currently synced data on your iPod touch?</base>
-        <tran loc="es">La sincronización de esta cuenta desactiva la sincronización de “%@” y elimina todos los datos sincronizados.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPod touch?</tran>
+        <tran loc="es-419">La sincronización con esta cuenta desactivará la sincronización en “%@” y borrará los datos sincronizados.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPod touch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +719,7 @@
       <Position>SHOW_IN_FMIP</Position>
       <TranslationSet>
         <base loc="en">Show in Find My iPhone</base>
-        <tran loc="es">Mostrar en Buscar mi iPhone</tran>
+        <tran loc="es-419">Mostrar en Buscar Mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +727,7 @@
       <Position>MULTIPLE_SERVICES_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You’re currently signed in with two accounts. Do you want to sign out of iCloud, the iTunes &amp; App Store, or both?</base>
-        <tran loc="es">Tienes dos sesiones iniciadas con dos cuentas distintas. ¿Quieres cerrar la sesión de iCloud, la de iTunes Store y App Store, o ambas?</tran>
+        <tran loc="es-419">Iniciaste sesión con dos cuentas. ¿Quieres cerrar la sesión de la cuenta de iCloud, la de iTunes Store y App Store, o ambas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -735,7 +735,7 @@
       <Position>CREATE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Get a Free Apple ID</base>
-        <tran loc="es">Obtener un ID de Apple gratuito</tran>
+        <tran loc="es-419">Crear un Apple ID gratuito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -743,7 +743,7 @@
       <Position>MOBILEME_REGION_DENIED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unavailable</base>
-        <tran loc="es">No disponible</tran>
+        <tran loc="es-419">No disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -751,7 +751,7 @@
       <Position>MANAGE_STORAGE</Position>
       <TranslationSet>
         <base loc="en">Manage Storage</base>
-        <tran loc="es">Gestionar almacenamiento</tran>
+        <tran loc="es-419">Administrar almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -759,7 +759,7 @@
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Edición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@
       <Position>SAVE_FAILED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">An error occurred while trying to save the iCloud account.</base>
-        <tran loc="es">Se ha producido un error al intentar guardar la cuenta de iCloud.</tran>
+        <tran loc="es-419">Se presentó un error al intentar guardar la cuenta iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -775,7 +775,7 @@
       <Position>SERVER_UNREACHABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to server.</base>
-        <tran loc="es">Imposible conectarse al servidor.</tran>
+        <tran loc="es-419">Imposible conectarse al servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@
       <Position>NON_MAIN_ACCOUNT_MESSAGE_NOTES_MIGRATED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Only your main account can use Bookmarks, Photos, iCloud Drive, Notes, Backup, and Find My iPod touch.</base>
-        <tran loc="es">Solo puedes acceder a tus marcadores, fotos, iCloud Drive, notas, copia de seguridad y Buscar mi iPod desde tu cuenta principal.</tran>
+        <tran loc="es-419">Las funciones Marcadores, Fotos, iCloud Drive, Notas, Respaldo y Buscar Mi iPod touch sólo se pueden usar en tu cuenta principal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -791,7 +791,7 @@
       <Position>ACCOUNT_DETAILS_UNAVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Account Details Unavailable</base>
-        <tran loc="es">Datos de la cuenta no disponibles</tran>
+        <tran loc="es-419">Los detalles de la cuenta no están disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -799,7 +799,7 @@
       <Position>WAITING_FOR_APPROVAL_MESSAGE_NO_SECURITY_CODE_IPOD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud Keychain on this iPod touch, approve it from another device that uses iCloud Keychain.\n\nIf you are unable to access another device, you can reset your keychain.</base>
-        <tran loc="es">Para utilizar el llavero de iCloud en este iPod touch, deberás aprobarlo desde otro dispositivo que lo utilice.\n\nSi no puedes acceder a otro dispositivo, puedes restablecer el llavero.</tran>
+        <tran loc="es-419">Para usar el llavero de iCloud en este iPod touch, deberás aprobarlo desde otro dispositivo que utilice el llavero de iCloud.\n\nSi no puedes acceder a otro dispositivo, puedes restablecer tu llavero.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -807,7 +807,7 @@
       <Position>APPLEID_SERVICES_FAMILY_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Family Sharing</base>
-        <tran loc="es">En familia</tran>
+        <tran loc="es-419">Compartir en familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -815,7 +815,7 @@
       <Position>DELETE_ACCOUNT_ICLOUD_SPECIFIC_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">If you sign out of your account, all %1$@ stored in iCloud will be removed from this iPad.</base>
-        <tran loc="es">Si cierras la sesión de tu cuenta, todos los datos guardados en iCloud (%1$@) se eliminarán del iPad.</tran>
+        <tran loc="es-419">Si cierras sesión, todos los datos de %1$@ guardados en iCloud se eliminarán del iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -823,7 +823,7 @@
       <Position>NOT_AN_ICLOUD_ACCOUNT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Go to icloud.com on your computer to move your information to iCloud.</base>
-        <tran loc="es">Ve a icloud.com desde el ordenador para trasladar tu información a iCloud.</tran>
+        <tran loc="es-419">Ve a icloud.com desde la computadora para trasladar tu información a iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -831,7 +831,7 @@
       <Position>ICLOUD_SERVICE_UBIQUITY_UPGRAGE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Upgrade to iCloud Drive to allow apps to store documents and data in iCloud.</base>
-        <tran loc="es">Actualiza a iCloud Drive para permitir que las apps guarden documentos y datos en iCloud.</tran>
+        <tran loc="es-419">Actualízate a iCloud Drive para permitir que las apps almacenen documentos y datos en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -839,7 +839,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPhone on this account will turn off sync for “%@”.</base>
-        <tran loc="es">La activación de Buscar mi iPhone en esta cuenta desactiva la sincronización de “%@”.</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPhone en esta cuenta desactiva la sincronización de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -847,7 +847,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -855,7 +855,7 @@
       <Position>MULTIPLE_SERVICES_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -863,7 +863,7 @@
       <Position>UPGRADE_ACCOUNT_SECURITY_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -871,7 +871,7 @@
       <Position>APPLEID_DEVICES_SHOW_MORE</Position>
       <TranslationSet>
         <base loc="en">Show All</base>
-        <tran loc="es">Mostrar todo</tran>
+        <tran loc="es-419">Mostrar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -879,7 +879,7 @@
       <Position>ADDING_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Adding Account</base>
-        <tran loc="es">Añadiendo cuenta</tran>
+        <tran loc="es-419">Agregando cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -887,7 +887,7 @@
       <Position>SIGNOUT_RESTRICTED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Sign out is not available due to restrictions.</base>
-        <tran loc="es">No se puede cerrar sesión porque hay restricciones.</tran>
+        <tran loc="es-419">No se puede cerrar la sesión debido a restricciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -895,7 +895,7 @@
       <Position>HSA2_UPGRADE_FAILURE_MESSAGE_NO_FEATURE</Position>
       <TranslationSet>
         <base loc="en">Apple\U00A0ID “%@” requires two-factor authentication, and your account does not support it.</base>
-        <tran loc="es">El ID\U00A0de Apple “%@” requiere la autenticación de doble factor, que no es compatible con tu cuenta.</tran>
+        <tran loc="es-419">“%@” de Apple\U00A0ID requiere autenticación de dos factores y tu cuenta no es compatible con ella.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -903,7 +903,7 @@
       <Position>APPLEID_ALERT_LOW_STORAGE_MSG</Position>
       <TranslationSet>
         <base loc="en">%@ Remaining. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut dolor nec quam tempor interdum.</base>
-        <tran loc="es">Quedan %@. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut dolor nec quam tempor interdum.</tran>
+        <tran loc="es-419">%@ Remaining. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse ut dolor nec quam tempor interdum.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -911,7 +911,7 @@
       <Position>DEVICE_LOCATOR_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Find My iPad Enabled</base>
-        <tran loc="es">Buscar mi iPad activado</tran>
+        <tran loc="es-419">Buscar Mi iPad activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -919,7 +919,7 @@
       <Position>DEVICE_LOCATOR_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone helps you locate this iPhone on a map and remotely lock or erase it.</base>
-        <tran loc="es">Buscar mi iPhone te ayuda a localizar este iPhone en un mapa y a bloquearlo o borrarlo remotamente.</tran>
+        <tran loc="es-419">Buscar Mi iPhone te ayuda a localizar este iPhone en un mapa y bloquearlo o borrarlo remotamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -927,7 +927,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -935,7 +935,7 @@
       <Position>UPGRADE_ACCOUNT_SECURITY_CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -943,7 +943,7 @@
       <Position>STORAGE_PLAN</Position>
       <TranslationSet>
         <base loc="en">Storage Plan</base>
-        <tran loc="es">Plan de almacenamiento</tran>
+        <tran loc="es-419">Plan de almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -951,7 +951,7 @@
       <Position>TURN_ON_NOTES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On Notes</base>
-        <tran loc="es">Activar Notas</tran>
+        <tran loc="es-419">Activar Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -959,7 +959,7 @@
       <Position>ICLOUD_SERVICE_GROUP_STORAGE</Position>
       <TranslationSet>
         <base loc="en">Storage</base>
-        <tran loc="es">Almacenamiento</tran>
+        <tran loc="es-419">Almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -967,7 +967,7 @@
       <Position>STORAGE_CELL_LABEL</Position>
       <TranslationSet>
         <base loc="en">Storage</base>
-        <tran loc="es">Almacenamiento</tran>
+        <tran loc="es-419">Almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -975,7 +975,7 @@
       <Position>TURN_OFF</Position>
       <TranslationSet>
         <base loc="en">Turn Off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -983,7 +983,7 @@
       <Position>HSA2_UPGRADE_FAILURE_ARTICLE_PATH</Position>
       <TranslationSet>
         <base loc="en">https://support.apple.com/HT204915</base>
-        <tran loc="es">https://support.apple.com/es-es/HT204915</tran>
+        <tran loc="es-419">https://support.apple.com/es-lamr/HT204915</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -991,7 +991,7 @@
       <Position>DEVICE_LOCATOR_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">Find My iPod touch helps you locate this iPod touch on a map and remotely lock or erase it.</base>
-        <tran loc="es">Buscar mi iPod te ayuda a localizar este iPod touch en un mapa y a bloquearlo o borrarlo remotamente.</tran>
+        <tran loc="es-419">Buscar Mi iPod touch te ayuda a localizar este iPod touch en un mapa y bloquearlo o borrarlo remotamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -999,7 +999,7 @@
       <Position>CURRENT_MEMBER</Position>
       <TranslationSet>
         <base loc="en">Current Member</base>
-        <tran loc="es">Usuario actual</tran>
+        <tran loc="es-419">Usuario actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1007,7 +1007,7 @@
       <Position>SIGN_IN_ERROR_UNREACHABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Could not sign in.</base>
-        <tran loc="es">Imposible iniciar sesión.</tran>
+        <tran loc="es-419">No se pudo iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1015,7 +1015,7 @@
       <Position>ENTER_PASSWORD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter Password</base>
-        <tran loc="es">Introducir contraseña</tran>
+        <tran loc="es-419">Ingresa la contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1023,7 +1023,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPad on this account will turn off sync for “%@”.</base>
-        <tran loc="es">La activación de Buscar mi iPad en esta cuenta desactiva la sincronización de “%@”.</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPad en esta cuenta desactiva la sincronización de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1031,7 +1031,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_WITH_DATA_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPhone on this account will turn off sync for “%@”.\nWhat would you like to do with the currently synced data on your iPhone?</base>
-        <tran loc="es">La activación de Buscar mi iPhone en esta cuenta desactiva la sincronización de “%@”.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPhone?</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPhone en esta cuenta desactivará la sincronización en “%@”.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1039,7 +1039,7 @@
       <Position>SERVER_NO_CREDENTIALS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A server error occurred</base>
-        <tran loc="es">Se ha producido un error del servidor</tran>
+        <tran loc="es-419">Ocurrió un error en el servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1047,7 +1047,7 @@
       <Position>APPLEID_EDIT_PHOTO</Position>
       <TranslationSet>
         <base loc="en">EDIT</base>
-        <tran loc="es">EDITAR</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1055,7 +1055,7 @@
       <Position>ACCOUNT_SAVE_ERROR_INTERNAL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">(internal only)Please file a radar with the sysdiagnose</base>
-        <tran loc="es">(internal only)Please file a radar with the sysdiagnose</tran>
+        <tran loc="es-419">(internal only)Please file a radar with the sysdiagnose</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1063,7 +1063,7 @@
       <Position>WAITING_FOR_APPROVAL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Waiting for Approval</base>
-        <tran loc="es">Esperando aprobación</tran>
+        <tran loc="es-419">Esperando aprobación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1071,7 +1071,7 @@
       <Position>DELETE_EXISTING_MOBILEME_DATA_IPOD</Position>
       <TranslationSet>
         <base loc="en">Delete From My iPod touch</base>
-        <tran loc="es">Eliminar del iPod touch</tran>
+        <tran loc="es-419">Eliminar del iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1079,7 +1079,7 @@
       <Position>VALIDATION_EMAIL_RESENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Email Sent</base>
-        <tran loc="es">Mensaje enviado</tran>
+        <tran loc="es-419">Mensaje enviado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1087,7 +1087,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_WITH_DATA_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPod touch on this account will turn off sync for “%@”.\nWhat would you like to do with the currently synced data on your iPod touch?</base>
-        <tran loc="es">La activación de Buscar mi iPod en esta cuenta desactiva la sincronización de “%@”.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPod touch?</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPod touch en esta cuenta desactivará la sincronización en “%@”.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPod touch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1095,7 +1095,7 @@
       <Position>APPLEID_SPLIT_STORE</Position>
       <TranslationSet>
         <base loc="en">Store: %@</base>
-        <tran loc="es">iTunes Store: %@</tran>
+        <tran loc="es-419">Tienda: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1103,7 +1103,7 @@
       <Position>COULD_NOT_CONNECT_TO_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Cannot Connect to iCloud</base>
-        <tran loc="es">Imposible conectarse a iCloud</tran>
+        <tran loc="es-419">Imposible conectarse a iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1111,7 +1111,7 @@
       <Position>ICLOUD_UNREACHABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Connect to iCloud</base>
-        <tran loc="es">Imposible conectarse a iCloud</tran>
+        <tran loc="es-419">Imposible conectarse a iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1119,7 +1119,7 @@
       <Position>ICLOUD_SERVICE_UBIQUITY_UPGRAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Upgrade to iCloud Drive</base>
-        <tran loc="es">Actualizar a iCloud Drive</tran>
+        <tran loc="es-419">Actualizar a iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1127,7 +1127,7 @@
       <Position>ALREADY_EXISTING_ACCOUNT_DESC_IPAD</Position>
       <TranslationSet>
         <base loc="en">This %@ account has already been added to your iPad.</base>
-        <tran loc="es">Esta cuenta %@ ya se ha añadido al iPad.</tran>
+        <tran loc="es-419">Esta cuenta %@ ya se agregó al iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1135,7 +1135,7 @@
       <Position>INVALID_USERNAME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unsupported Apple ID</base>
-        <tran loc="es">ID de Apple incompatible</tran>
+        <tran loc="es-419">Apple ID incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1143,7 +1143,7 @@
       <Position>MOBILEME_CREATE_APPLEID_UNAVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Create Apple ID</base>
-        <tran loc="es">Imposible crear ID de Apple</tran>
+        <tran loc="es-419">Imposible crear Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1151,7 +1151,7 @@
       <Position>ACCOUNT_INFORMATION</Position>
       <TranslationSet>
         <base loc="en">%@ Account Information</base>
-        <tran loc="es">Información de la cuenta %@</tran>
+        <tran loc="es-419">Información de la cuenta %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1159,7 +1159,7 @@
       <Position>GET_VERIFICATION_CODE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Get Verification Code</base>
-        <tran loc="es">Obtener código de verificación</tran>
+        <tran loc="es-419">Obtener código de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1167,7 +1167,7 @@
       <Position>MOBILEME_TERMS_OF_SERVICE_UPDATE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Terms of Service</base>
-        <tran loc="es">Condiciones de servicio</tran>
+        <tran loc="es-419">Condiciones del servicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1175,7 +1175,7 @@
       <Position>TURN_ON_SHOEBOX_MESSAGE_CD</Position>
       <TranslationSet>
         <base loc="en">Do you want to turn on\niCloud Drive?</base>
-        <tran loc="es">¿Quieres activar iCloud Drive?</tran>
+        <tran loc="es-419">¿Quieres activar\niCloud Drive?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1183,7 +1183,7 @@
       <Position>PHOTOSTREAM</Position>
       <TranslationSet>
         <base loc="en">Photo Stream</base>
-        <tran loc="es">Fotos en streaming</tran>
+        <tran loc="es-419">Secuencia de fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1191,7 +1191,7 @@
       <Position>UPGRADE_ACCOUNT_SECURITY_KEYCHAIN</Position>
       <TranslationSet>
         <base loc="en">To enable iCloud Keychain, review and upgrade your Apple ID security.</base>
-        <tran loc="es">Para activar el llavero de iCloud, revisa y actualiza la seguridad de tu ID de Apple.</tran>
+        <tran loc="es-419">Para activar el llavero de iCloud, revisa y actualiza la seguridad de tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1199,7 +1199,7 @@
       <Position>APPLEID_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Forgot Apple ID or Password?</base>
-        <tran loc="es">¿Has olvidado tu ID de Apple o la contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste el Apple ID o la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1207,7 +1207,7 @@
       <Position>ALREADY_EXISTING_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">“%@” is Already Added</base>
-        <tran loc="es">“%@” ya se ha añadido</tran>
+        <tran loc="es-419">“%@” ya se agregó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1215,7 +1215,7 @@
       <Position>CLOUD_DRIVE_PRIVACY_INFO</Position>
       <TranslationSet>
         <base loc="en">Look Me Up</base>
-        <tran loc="es">Buscarme</tran>
+        <tran loc="es-419">Buscarme</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1223,7 +1223,7 @@
       <Position>TAP_TO_RADAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Tap-To-Radar</base>
-        <tran loc="es">Pulsar para Radar</tran>
+        <tran loc="es-419">Crear un Radar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1231,7 +1231,7 @@
       <Position>DEVICE_LOCATOR_WATCH</Position>
       <TranslationSet>
         <base loc="en">Find My Watch</base>
-        <tran loc="es">Buscar mi Apple Watch</tran>
+        <tran loc="es-419">Buscar Mi Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1239,7 +1239,7 @@
       <Position>ALREADY_EXISTING_ACCOUNT_DESC_IPOD</Position>
       <TranslationSet>
         <base loc="en">This %@ account has already been added to your iPod.</base>
-        <tran loc="es">Esta cuenta %@ ya se ha añadido al iPod.</tran>
+        <tran loc="es-419">Esta cuenta %@ ya se agregó al iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1247,15 +1247,7 @@
       <Position>APPLEID_CONTACT_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Name, Phone Numbers, Email</base>
-        <tran loc="es">Nombre, teléfonos, correo</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description> The placeholder is for the numerical value of remaining storage, e.g. 5 GB </Description>
-      <Position>AVAILABLE_STORAGE_VALUE</Position>
-      <TranslationSet>
-        <base loc="en">%@ Available</base>
-        <tran loc="es">%@ libres</tran>
+        <tran loc="es-419">Nombre, teléfonos, correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1263,7 +1255,7 @@
       <Position>VERIFIED</Position>
       <TranslationSet>
         <base loc="en">Verified</base>
-        <tran loc="es">Verificado</tran>
+        <tran loc="es-419">Verificada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1271,7 +1263,7 @@
       <Position>CANT_CREATE_APPLEID_TITLE</Position>
       <TranslationSet>
         <base loc="en">Can’t Create Apple ID</base>
-        <tran loc="es">Imposible crear ID de Apple</tran>
+        <tran loc="es-419">Imposible crear Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1279,7 +1271,7 @@
       <Position>CONFIRM_SWITCH_DATACLASS</Position>
       <TranslationSet>
         <base loc="en">Enabling %1$@ will turn off %1$@ for “%2$@”.</base>
-        <tran loc="es">La activación de los datos de %1$@ desactivará los datos de %1$@ de “%2$@”.</tran>
+        <tran loc="es-419">La activación de los datos de %1$@ desactivará los datos de%1$@ de “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1287,7 +1279,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_WITH_DATA_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Syncing with this account will turn off sync for “%@” and remove its synced data.\nWhat would you like to do with the currently synced data on your iPhone?</base>
-        <tran loc="es">La sincronización de esta cuenta desactiva la sincronización de “%@” y elimina todos los datos sincronizados.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPhone?</tran>
+        <tran loc="es-419">La sincronización con esta cuenta desactivará la sincronización en “%@” y borrará los datos sincronizados.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1295,7 +1287,7 @@
       <Position>APPROVE_BUTTON_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Approve with Security Code</base>
-        <tran loc="es">Aprobar con código de seguridad</tran>
+        <tran loc="es-419">Usar código de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1303,7 +1295,7 @@
       <Position>APPROVE_BUTTON_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Approve with Security Code</base>
-        <tran loc="es">Aprobar con código de seguridad</tran>
+        <tran loc="es-419">Usar código de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1311,7 +1303,7 @@
       <Position>APPROVE_BUTTON_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Approve with Security Code</base>
-        <tran loc="es">Aprobar con código de seguridad</tran>
+        <tran loc="es-419">Usar código de seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1319,7 +1311,7 @@
       <Position>CREATE_NEW_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">New Account</base>
-        <tran loc="es">Nueva cuenta</tran>
+        <tran loc="es-419">Nueva cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1327,7 +1319,7 @@
       <Position>ICLOUD_SIGNOUT_PASSBOOK_AND_MORE_WARNING_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Signing out of your iCloud account will disable Apple Pay and will remove your cards. %@ stored in iCloud will be removed from this iPhone.</base>
-        <tran loc="es">Si cierras la sesión de tu cuenta de iCloud, se desactivará Apple Pay y se eliminarán tus tarjetas. %@, que está guardado en iCloud, se eliminará de este iPhone.</tran>
+        <tran loc="es-419">Cerrar la sesión de tu cuenta iCloud desactivará Apple Pay y eliminará tus tarjetas. Se eliminarán los(las) %@ almacenados(as) en iCloud del iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1328,7 @@
       <Position>ICLOUD_SERVICE_SWAP_ACCOUNT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Turning on %@ for “%@” will turn it off for “%@”.</base>
-        <tran loc="es">Al activar %@ para “%@”, se desactivará para “%@”.</tran>
+        <tran loc="es-419">Activar %@ para “%@” la desactivará en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1336,7 @@
       <Position>BACK</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1344,7 @@
       <Position>TURN_ON</Position>
       <TranslationSet>
         <base loc="en">Turn On</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1352,7 @@
       <Position>TURN_ON_SHOEBOX_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Turn On</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1360,7 @@
       <Position>LOADING_CELL</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1368,7 @@
       <Position>LOADING_LABEL</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1376,7 @@
       <Position>SIGNING_OUT</Position>
       <TranslationSet>
         <base loc="en">Signing Out…</base>
-        <tran loc="es">Cerrando sesión…</tran>
+        <tran loc="es-419">Desconectándose…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1384,7 @@
       <Position>UPGRADE_ACCOUNT_SECURITY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Upgrade Your Account Security</base>
-        <tran loc="es">Actualiza la seguridad de tu cuenta</tran>
+        <tran loc="es-419">Actualizar la seguridad de tu cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1392,7 @@
       <Position>DEVICE_LOCATOR_IPAD</Position>
       <TranslationSet>
         <base loc="en">Find My iPad</base>
-        <tran loc="es">Buscar mi iPad</tran>
+        <tran loc="es-419">Buscar Mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1400,7 @@
       <Position>MAX_TIER_AND_INSUFFICIENT_STORAGE_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%1$@ could not be turned on because you do not have enough iCloud storage available. Reduce the amount of storage you are using to turn on %1$@.</base>
-        <tran loc="es">No se ha podido activar %1$@ porque no tienes suficiente espacio de almacenamiento disponible en iCloud. Para activar %1$@, reduce la cantidad de espacio de almacenamiento utilizado.</tran>
+        <tran loc="es-419">No se pudo activar %1$@ debido a que ya no cuentas con suficiente espacio disponible en iCloud. Desocúpalo un poco para activar %1$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1408,7 @@
       <Position>EDIT_PROFILE_FIRST_NAME_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">First Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1416,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_WITH_DATA_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPod touch on this account will turn off sync and Find My iPod touch for “%@”.\nWhat would you like to do with the currently synced data on your iPod touch?</base>
-        <tran loc="es">La activación de Buscar mi iPod en esta cuenta desactiva la sincronización y Buscar mi iPod en “%@”.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPod touch?</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPod touch en esta cuenta desactivará la sincronización y Buscar Mi iPod touch en “%@”.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPod touch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1424,7 @@
       <Position>ENABLE_DEVICE_LOCATOR_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone allows you to locate, lock, or erase your iPhone if it’s lost or stolen. It will also be enabled on any paired Apple Watch or supported accessory that uses your Apple ID.</base>
-        <tran loc="es">Buscar mi iPhone te permite localizar, bloquear y borrar tu iPhone si lo pierdes o te lo roban. También se activará en los Apple Watch enlazados o los accesorios compatibles que usen tu ID de Apple.</tran>
+        <tran loc="es-419">Buscar Mi iPhone te permite localizar, bloquear o borrar tu iPhone si lo llegas a perder. También se activará en cualquier Apple Watch enlazado o accesorio compatible que use tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1432,7 @@
       <Position>ENABLE_DEVICE_LOCATOR_MESSAGE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone allows you to locate, lock, or erase your iPhone if it’s lost or stolen. It will also be enabled on any paired Apple Watch or supported accessory that uses your Apple ID.</base>
-        <tran loc="es">Buscar mi iPhone te permite localizar, bloquear y borrar tu iPhone si lo pierdes o te lo roban. También se activará en los Apple Watch enlazados o los accesorios compatibles que usen tu ID de Apple.</tran>
+        <tran loc="es-419">Buscar Mi iPhone te permite localizar, bloquear o borrar tu iPhone si lo llegas a perder. También se activará en cualquier Apple Watch enlazado o accesorio compatible que use tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1440,7 @@
       <Position>ICLOUD_SIGNOUT_PASSBOOK_AND_MORE_WARNING_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Signing out of your iCloud account will disable Apple Pay and will remove your cards. %@ stored in iCloud will be removed from this iPad.</base>
-        <tran loc="es">Si cierras la sesión de tu cuenta de iCloud, se desactivará Apple Pay y se eliminarán tus tarjetas. %@, que está guardado en iCloud, se eliminará de este iPad.</tran>
+        <tran loc="es-419">Cerrar la sesión de tu cuenta iCloud desactivará Apple Pay y eliminará tus tarjetas. Se eliminarán los(las) %@ almacenados(as) en iCloud del iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1448,7 @@
       <Position>DELETE_EXISTING_MOBILEME_DATA_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Delete From My iPhone</base>
-        <tran loc="es">Eliminar del iPhone</tran>
+        <tran loc="es-419">Eliminar del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1456,7 @@
       <Position>ICLOUD_SERVICE_GROUP_APPS</Position>
       <TranslationSet>
         <base loc="en">Apps Using iCloud</base>
-        <tran loc="es">Apps que usan iCloud</tran>
+        <tran loc="es-419">Apps que usan iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1464,7 @@
       <Position>MOBILEME_CREATE_UNAVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Sign In</base>
-        <tran loc="es">Imposible iniciar sesión</tran>
+        <tran loc="es-419">Imposible iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1472,7 @@
       <Position>DELETE_ACCOUNT_RESTORE_WARNING_IPHONE</Position>
       <TranslationSet>
         <base loc="en">You cannot sign out of your Apple ID because your iPhone is being restored.</base>
-        <tran loc="es">No puedes cerrar sesión con tu ID de Apple porque se está restaurando el iPhone.</tran>
+        <tran loc="es-419">No se puede cerrar la sesión de tu Apple ID porque se está restaurando tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1480,7 @@
       <Position>HSA2_UPGRADE_FAILURE_TITLE_NO_FEATURE</Position>
       <TranslationSet>
         <base loc="en">Not Available For Your Apple\U00A0ID</base>
-        <tran loc="es">No está disponible para tu ID\U00A0de Apple</tran>
+        <tran loc="es-419">No está disponible para tu Apple\U00A0ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1488,7 @@
       <Position>CONFIRM_CHANGE_DATACLASS_ACCOUNT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">If you turn on %1$@ for this account, it will turn off %1$@ for “%2$@”. If you keep the %1$@ from “%2$@”, you will be asked to merge them with this account’s %1$@.</base>
-        <tran loc="es">Si activas %1$@ para esta cuenta, se desactivará %1$@ para “%2$@”. Si conservas los datos de %1$@ de “%2$@”, deberás fusionarlos con los datos de %1$@ de esta cuenta.</tran>
+        <tran loc="es-419">Si activas %1$@ para esta cuenta, se desactivará %1$@ para “%2$@”. Si conservas los datos de %1$@ de “%2$@”, deberás asociarlos con los datos de %1$@ de esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1496,7 @@
       <Position>DONT_ALLOW</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1504,7 @@
       <Position>DEVICE_LOCATOR_IPOD</Position>
       <TranslationSet>
         <base loc="en">Find My iPod touch</base>
-        <tran loc="es">Buscar mi iPod</tran>
+        <tran loc="es-419">Buscar Mi iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1512,7 @@
       <Position>WAITING_FOR_APPROVAL_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud Keychain on this iPad, approve it from another device that uses iCloud Keychain or use your iCloud Security Code.</base>
-        <tran loc="es">Para utilizar el llavero de iCloud en este iPad, deberás aprobarlo desde otro dispositivo que lo utilice o usar el código de seguridad de iCloud.</tran>
+        <tran loc="es-419">Para usar el llavero de iCloud en este iPad, deberás aprobarlo desde otro dispositivo que utilice el llavero o usar el código de seguridad de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1520,7 @@
       <Position>PHOTOSTREAM_DELETE_WARNING_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This will delete all Photo Stream photos from your iPhone</base>
-        <tran loc="es">Se eliminarán del iPhone todas las fotos de “Fotos en streaming”</tran>
+        <tran loc="es-419">Esto hará que se eliminen de tu iPhone todas las fotos de “Secuencia de fotos”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1528,7 @@
       <Position>APPLEID_SECURITY_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Password &amp; Security</base>
-        <tran loc="es">Contraseña y seguridad</tran>
+        <tran loc="es-419">Contraseña y seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1536,7 @@
       <Position>PASSWORD_AND_SECURITY_CELL</Position>
       <TranslationSet>
         <base loc="en">Password &amp; Security</base>
-        <tran loc="es">Contraseña y seguridad</tran>
+        <tran loc="es-419">Contraseña y seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1544,7 @@
       <Position>APPLE_ID_SETTINGS_INTERNAL_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Internal Error</base>
-        <tran loc="es">Error interno</tran>
+        <tran loc="es-419">Error interno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1552,7 @@
       <Position>COULD_NOT_LAUNCH_MAIL</Position>
       <TranslationSet>
         <base loc="en">Could not launch Mail.</base>
-        <tran loc="es">No se ha podido abrir Mail.</tran>
+        <tran loc="es-419">No se pudo abrir Mail.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1560,7 @@
       <Position>NEW_ICLOUD_TOS_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPad you must accept the new iCloud Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPad, deberás aceptar los nuevos términos y condiciones de iCloud.</tran>
+        <tran loc="es-419">Para utilizar iCloud en este iPad, deberás aceptar las nuevas condiciones de uso de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1568,7 @@
       <Position>TRUSTED_DEVICES_CELL</Position>
       <TranslationSet>
         <base loc="en">Devices</base>
-        <tran loc="es">Dispositivos</tran>
+        <tran loc="es-419">Dispositivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1576,7 @@
       <Position>FAILED_TO_LOAD_CELL</Position>
       <TranslationSet>
         <base loc="en">Not available.</base>
-        <tran loc="es">No disponible.</tran>
+        <tran loc="es-419">No disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1584,7 @@
       <Position>APPLE_ID_SETTINGS_INTERNAL_ERROR_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Apple ID settings are not available for this account.</base>
-        <tran loc="es">Los ajustes del ID de Apple de esta cuenta no están disponibles.</tran>
+        <tran loc="es-419">La configuración de Apple ID no está disponible para esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1592,7 @@
       <Position>ACTIVATION_LOCK_LABEL</Position>
       <TranslationSet>
         <base loc="en">Activation Lock</base>
-        <tran loc="es">Bloqueo de activación</tran>
+        <tran loc="es-419">Bloqueo de activación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1600,7 @@
       <Position>PHOTOS_DATACLASS</Position>
       <TranslationSet>
         <base loc="en">Photos</base>
-        <tran loc="es">Fotos</tran>
+        <tran loc="es-419">Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1616,7 +1608,7 @@
       <Position>PHOTOS_ICLOUD_STORAGE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Photos</base>
-        <tran loc="es">Fotos</tran>
+        <tran loc="es-419">Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1624,7 +1616,7 @@
       <Position>MOBILEME_AUTHENTICATION_FAILED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID or password is incorrect.</base>
-        <tran loc="es">El ID de Apple o la contraseña son incorrectos.</tran>
+        <tran loc="es-419">Tu Apple ID o la contraseña son incorrectos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1632,7 +1624,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_OFF_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPod touch on this account will turn off sync for “%@”.</base>
-        <tran loc="es">La activación de Buscar mi iPod en esta cuenta desactiva la sincronización de “%@”.</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPod touch en esta cuenta desactiva la sincronización de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1640,7 +1632,7 @@
       <Position>NOT_A_MOBILEME_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not a MobileMe Account</base>
-        <tran loc="es">No es una cuenta de MobileMe</tran>
+        <tran loc="es-419">No es una cuenta de MobileMe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1648,7 +1640,7 @@
       <Position>APPLEID_CONTACT_CELL_TITLE_MAID</Position>
       <TranslationSet>
         <base loc="en">Name &amp; Email</base>
-        <tran loc="es">Nombre y correo electrónico</tran>
+        <tran loc="es-419">Nombre y correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1656,7 +1648,7 @@
       <Position>ENABLE_DEVICE_LOCATOR_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone allows you to locate, lock, or erase your iPad if it’s lost or stolen. It will also be enabled on any supported accessory that uses your Apple ID.</base>
-        <tran loc="es">Buscar mi iPhone te permite localizar, bloquear y borrar tu iPad si lo pierdes o te lo roban. También se activará en los accesorios compatibles que usen tu ID de Apple.</tran>
+        <tran loc="es-419">Buscar Mi iPhone te permite localizar, bloquear o borrar tu iPad si lo llegas a perder. También se activará en cualquier accesorio compatible que use tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1664,7 +1656,7 @@
       <Position>WAITING_FOR_APPROVAL_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">To use iCloud Keychain on this iPhone, approve it from another device that uses iCloud Keychain or use your iCloud Security Code.</base>
-        <tran loc="es">Para utilizar el llavero de iCloud en este iPhone, deberás aprobarlo desde otro dispositivo que lo utilice o usar el código de seguridad de iCloud.</tran>
+        <tran loc="es-419">Para usar el llavero de iCloud en este iPhone, deberás aprobarlo desde otro dispositivo que utilice el llavero o usar el código de seguridad de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1672,7 +1664,7 @@
       <Position>BACKUP_CELL_LABEL</Position>
       <TranslationSet>
         <base loc="en">iCloud Backup</base>
-        <tran loc="es">Copia en iCloud</tran>
+        <tran loc="es-419">Respaldo en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1680,7 +1672,7 @@
       <Position>DONT_KEEP</Position>
       <TranslationSet>
         <base loc="en">Don’t Keep</base>
-        <tran loc="es">No conservar</tran>
+        <tran loc="es-419">No conservar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1688,7 +1680,7 @@
       <Position>ACCOUNT_DETAILS_UNAVAILABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">If you are signing in to iCloud on another device or at iCloud.com, you can get a verification code while offline.</base>
-        <tran loc="es">Si vas a iniciar sesión en iCloud desde otro dispositivo o desde iCloud.com, puedes obtener un código de verificación mientras estás desconectado.</tran>
+        <tran loc="es-419">Si estás iniciando sesión en iCloud desde otro dispositivo o en iCloud.com, puedes obtener un código de verificación sin tener conexión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1696,7 +1688,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1704,7 +1696,7 @@
       <Position>COPY_EXISTING_MOBILEME_DATA_IPOD</Position>
       <TranslationSet>
         <base loc="en">Keep on My iPod touch</base>
-        <tran loc="es">Mantener en el iPod touch</tran>
+        <tran loc="es-419">Mantener en el iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1712,7 +1704,7 @@
       <Position>APPLEID_ALERT_LOW_STORAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Storage is low</base>
-        <tran loc="es">Poco espacio de almacenamiento en iCloud</tran>
+        <tran loc="es-419">Almacenamiento de iCloud bajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1720,7 +1712,7 @@
       <Position>IGNORE</Position>
       <TranslationSet>
         <base loc="en">Ignore</base>
-        <tran loc="es">Ignorar</tran>
+        <tran loc="es-419">Ignorar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1728,7 +1720,7 @@
       <Position>VALIDATION_EMAIL_RESENT</Position>
       <TranslationSet>
         <base loc="en">A verification email has been sent to %@.</base>
-        <tran loc="es">Se ha enviado un mensaje de verificación a %@.</tran>
+        <tran loc="es-419">Se envió un mensaje de verificación a %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1728,7 @@
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">required</base>
-        <tran loc="es">obligatorio</tran>
+        <tran loc="es-419">obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1736,7 @@
       <Position>NEVER_BACKED_UP</Position>
       <TranslationSet>
         <base loc="en">Never</base>
-        <tran loc="es">nunca</tran>
+        <tran loc="es-419">Nunca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1744,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1760,7 +1752,7 @@
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1768,7 +1760,7 @@
       <Position>ICLOUD_SERVICE_SWAP_ACCOUNT_ACTION</Position>
       <TranslationSet>
         <base loc="en">Change %@ Account</base>
-        <tran loc="es">Cambiar cuenta de %@</tran>
+        <tran loc="es-419">Cambiar cuenta de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1776,7 +1768,7 @@
       <Position>UNKNOWN</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Se desconoce</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1784,7 +1776,7 @@
       <Position>ICLOUD_SIGNOUT_PASSBOOK_AND_MORE_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Signing out of your iCloud account will disable Apple Pay and will remove your cards. %@ stored in iCloud will be removed from this iPod touch.</base>
-        <tran loc="es">Si cierras la sesión de tu cuenta de iCloud, se desactivará Apple Pay y se eliminarán tus tarjetas. %@, que está guardado en iCloud, se eliminará de este iPod touch.</tran>
+        <tran loc="es-419">Cerrar la sesión de tu cuenta iCloud desactivará Apple Pay y eliminará tus tarjetas. Se eliminarán los(las) %@ almacenados(as) en iCloud del iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1792,7 +1784,7 @@
       <Position>DELETE_ACCOUNT_ICLOUD_SPECIFIC_WARNING_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">If you sign out of your account, all %1$@ stored in iCloud will be removed from this iPod touch.</base>
-        <tran loc="es">Si cierras la sesión de tu cuenta, todos los datos guardados en iCloud (%1$@) se eliminarán del iPod touch.</tran>
+        <tran loc="es-419">Si cierras sesión, todos los datos de %1$@ guardados en iCloud se eliminarán del iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1800,7 +1792,7 @@
       <Position>NON_MAIN_ACCOUNT_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Only your main account can use Bookmarks, Photo Stream, iCloud Drive, Backup, and Find My iPad.</base>
-        <tran loc="es">Solo puedes acceder a tus marcadores, fotos en streaming, iCloud Drive, copia de seguridad y Buscar mi iPad desde tu cuenta principal.</tran>
+        <tran loc="es-419">Las funciones Marcadores, Secuencia de fotos, iCloud Drive, Respaldo y Buscar Mi iPad sólo se pueden usar en tu cuenta principal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1808,7 +1800,7 @@
       <Position>NON_MAIN_ACCOUNT_MESSAGE_NOTES_MIGRATED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Only your main account can use Bookmarks, Photos, iCloud Drive, Notes, Backup, and Find My iPhone.</base>
-        <tran loc="es">Solo puedes acceder a tus marcadores, fotos, iCloud Drive, notas, copia de seguridad y Buscar mi iPhone desde tu cuenta principal.</tran>
+        <tran loc="es-419">Las funciones Marcadores, Fotos, iCloud Drive, Notas, Respaldo y Buscar Mi iPhone sólo se pueden usar en tu cuenta principal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1816,7 +1808,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPad on this account will turn off sync and Find My iPad for “%@”.</base>
-        <tran loc="es">La activación de Buscar mi iPad en esta cuenta desactiva la sincronización y Buscar mi iPad en “%@”.</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPad en esta cuenta desactiva la sincronización y Buscar Mi iPad en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1824,7 +1816,7 @@
       <Position>EXAMPLE_ID</Position>
       <TranslationSet>
         <base loc="en">example@icloud.com</base>
-        <tran loc="es">ejemplo@icloud.com</tran>
+        <tran loc="es-419">ejemplo@icloud.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1832,7 +1824,7 @@
       <Position>MOBILEME_EXAMPLE_ID</Position>
       <TranslationSet>
         <base loc="en">example@icloud.com</base>
-        <tran loc="es">ejemplo@icloud.com</tran>
+        <tran loc="es-419">ejemplo@icloud.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1832,7 @@
       <Position>APPLEID_SERVICES_ICLOUD_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1840,7 @@
       <Position>ICLOUD_SERVICE_STORAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1848,7 @@
       <Position>ICLOUD_SERVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1856,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_WITH_DATA_FORMAT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Syncing with this account will turn off sync for “%@” and remove its synced data.\nWhat would you like to do with the currently synced data on your iPad?</base>
-        <tran loc="es">La sincronización de esta cuenta desactiva la sincronización de “%@” y elimina todos los datos sincronizados.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPad?</tran>
+        <tran loc="es-419">La sincronización con esta cuenta desactivará la sincronización en “%@” y borrará los datos sincronizados.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1864,7 @@
       <Position>NEW_ICLOUD_TOS_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Terms and Conditions</base>
-        <tran loc="es">Términos y condiciones</tran>
+        <tran loc="es-419">Condiciones de uso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1872,7 @@
       <Position>PERSNAL_INFO_CELL</Position>
       <TranslationSet>
         <base loc="en">Contact Information</base>
-        <tran loc="es">Datos de contacto</tran>
+        <tran loc="es-419">Información de contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1880,7 @@
       <Position>APPLEID_DEVICES_NOT_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Trusted devices list is not available</base>
-        <tran loc="es">Lista de dispositivos no disponible</tran>
+        <tran loc="es-419">Dispositiv. confiables no disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1888,7 @@
       <Position>VERIFICATION_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1896,7 @@
       <Position>LEARN_MORE_LINK</Position>
       <TranslationSet>
         <base loc="en">Learn More about iCloud</base>
-        <tran loc="es">Más información sobre iCloud</tran>
+        <tran loc="es-419">Más información sobre iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1904,7 @@
       <Position>ADD_ANYWAY</Position>
       <TranslationSet>
         <base loc="en">Add Anyway</base>
-        <tran loc="es">Añadir</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1912,7 @@
       <Position>APPLEID_ALERT_VERIFY_EMAIL_ACTION</Position>
       <TranslationSet>
         <base loc="en">Check Email</base>
-        <tran loc="es">Comprobar correo</tran>
+        <tran loc="es-419">Revisar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1920,7 @@
       <Position>CHECK_EMAIL</Position>
       <TranslationSet>
         <base loc="en">Check Email</base>
-        <tran loc="es">Comprobar correo</tran>
+        <tran loc="es-419">Revisar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1928,7 @@
       <Position>PHOTOSTREAM_DELETE_WARNING_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">This will delete all Photo Stream photos from your iPod touch</base>
-        <tran loc="es">Se eliminarán del iPod touch todas las fotos de “Fotos en streaming”</tran>
+        <tran loc="es-419">Esto hará que se eliminen del iPod touch todas las fotos de “Secuencia de fotos”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1936,7 @@
       <Position>DEVICE_LOCATOR_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Find My iPod Enabled</base>
-        <tran loc="es">Buscar mi iPod activado</tran>
+        <tran loc="es-419">Buscar Mi iPod activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1944,7 @@
       <Position>MAX_TIER_AND_INSUFFICIENT_STORAGE_ALERT_MESSAGE_NO_FEATURE</Position>
       <TranslationSet>
         <base loc="en">You do not have enough iCloud storage available. Reduce the amount of storage you are using.</base>
-        <tran loc="es">No tienes suficiente espacio de almacenamiento disponible en iCloud. Reduce el espacio de almacenamiento en uso.</tran>
+        <tran loc="es-419">No cuentas con suficiente espacio disponible en iCloud; desocúpalo un poco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1960,7 +1952,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_FORMAT_IPOD</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPod touch on this account will turn off sync and Find My iPod touch for “%@”.</base>
-        <tran loc="es">La activación de Buscar mi iPod en esta cuenta desactiva la sincronización y Buscar mi iPod en “%@”.</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPod touch en esta cuenta desactiva la sincronización y Buscar Mi iPod touch en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1968,7 +1960,7 @@
       <Position>TURN_OFF_DEVICE_LOCATOR_IPAD</Position>
       <TranslationSet>
         <base loc="en">Turning Off Find My iPad…</base>
-        <tran loc="es">Desactivando Buscar mi iPad…</tran>
+        <tran loc="es-419">Desactivando Buscar Mi iPad…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1976,7 +1968,7 @@
       <Position>MOBILEME_DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My MobileMe Account</base>
-        <tran loc="es">Mi cuenta de MobileMe</tran>
+        <tran loc="es-419">Mi cuenta MobileMe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1984,7 +1976,7 @@
       <Position>DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My iCloud Account</base>
-        <tran loc="es">Mi cuenta de iCloud</tran>
+        <tran loc="es-419">Mi cuenta iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1992,7 +1984,7 @@
       <Position>STINGRAY_TITLE_VERIFYING</Position>
       <TranslationSet>
         <base loc="en">Verifying</base>
-        <tran loc="es">Verificando</tran>
+        <tran loc="es-419">Verificando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2000,7 +1992,7 @@
       <Position>VERIFYING</Position>
       <TranslationSet>
         <base loc="en">Verifying</base>
-        <tran loc="es">Verificando</tran>
+        <tran loc="es-419">Verificando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2008,7 +2000,7 @@
       <Position>NEW_ICLOUD_TOS_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPod touch you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPod touch, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para utilizar iCloud en este iPod touch, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2016,7 +2008,7 @@
       <Position>MAX_TIER_AND_INSUFFICIENT_STORAGE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not Enough iCloud Storage</base>
-        <tran loc="es">No hay suficiente espacio en iCloud</tran>
+        <tran loc="es-419">Espacio de almacenamiento insuficiente en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2024,7 +2016,7 @@
       <Position>APPLEID_ALERT_LOW_STORAGE_ACTION</Position>
       <TranslationSet>
         <base loc="en">Upgrade iCloud Storage</base>
-        <tran loc="es">Ampliar almacenamiento en iCloud</tran>
+        <tran loc="es-419">Actualizar almacenamiento de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2032,7 +2024,7 @@
       <Position>APPLEID_ALERT_VERIFY_EMAIL_MSG</Position>
       <TranslationSet>
         <base loc="en">Check your email at %@ for instructions to verify this account.</base>
-        <tran loc="es">Para verificar la cuenta, sigue las instrucciones incluidas en el mensaje enviado a %@.</tran>
+        <tran loc="es-419">Sigue las instrucciones del correo que recibiste en %@ para verificar la cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2040,7 +2032,7 @@
       <Position>VERIFICATION_EMAIL_SENT</Position>
       <TranslationSet>
         <base loc="en">Check your email at %@ for instructions to verify this account.</base>
-        <tran loc="es">Para verificar la cuenta, sigue las instrucciones incluidas en el mensaje enviado a %@.</tran>
+        <tran loc="es-419">Sigue las instrucciones del correo que recibiste en %@ para verificar la cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2048,7 +2040,7 @@
       <Position>NEW_ICLOUD_TOS_TITLE</Position>
       <TranslationSet>
         <base loc="en">New iCloud Terms and Conditions</base>
-        <tran loc="es">Nuevos términos y condiciones de iCloud</tran>
+        <tran loc="es-419">Nuevas condiciones de uso de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2056,7 +2048,7 @@
       <Position>MOBILEME_UNSUPPORTED_DEVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Device Not Supported</base>
-        <tran loc="es">Dispositivo incompatible</tran>
+        <tran loc="es-419">Dispositivo incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2056,7 @@
       <Position>WAITING_FOR_APPROVAL_MESSAGE_NO_SECURITY_CODE_IPAD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud Keychain on this iPad, approve it from another device that uses iCloud Keychain.\n\nIf you are unable to access another device, you can reset your keychain.</base>
-        <tran loc="es">Para utilizar el llavero de iCloud en este iPad, deberás aprobarlo desde otro dispositivo que lo utilice.\n\nSi no puedes acceder a otro dispositivo, puedes restablecer el llavero.</tran>
+        <tran loc="es-419">Para usar el llavero de iCloud en este iPad, deberás aprobarlo desde otro dispositivo que utilice el llavero de iCloud.\n\nSi no puedes acceder a otro dispositivo, puedes restablecer tu llavero.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2064,7 @@
       <Position>SHOEBOX</Position>
       <TranslationSet>
         <base loc="en">Wallet</base>
-        <tran loc="es">Wallet</tran>
+        <tran loc="es-419">Wallet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2072,7 @@
       <Position>MAIL_NOT_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">This Apple ID cannot be used for MobileMe Mail, but you can use it for other MobileMe services.</base>
-        <tran loc="es">Este ID de Apple no puede usarse para Mail de MobileMe, pero sí para otros servicios de MobileMe.</tran>
+        <tran loc="es-419">Este Apple ID no puede usarse para Mail de MobileMe, pero sí para otros servicios de MobileMe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2080,7 @@
       <Position>ENABLE_DEVICE_LOCATOR_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone allows you to locate, lock, or erase your iPod touch if it’s lost or stolen. It will also be enabled on any supported accessory that uses your Apple ID.</base>
-        <tran loc="es">Buscar mi iPhone te permite localizar, bloquear y borrar tu iPod touch si lo pierdes o te lo roban. También se activará en los accesorios compatibles que usen tu ID de Apple.</tran>
+        <tran loc="es-419">Buscar Mi iPhone te permite localizar, bloquear o borrar tu iPod touch si lo llegas a perder. También se activará en cualquier accesorio compatible que use tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2088,7 @@
       <Position>LAST_ICLOUD_BACKUP</Position>
       <TranslationSet>
         <base loc="en">Last iCloud backup: </base>
-        <tran loc="es">Última copia de seguridad de iCloud: </tran>
+        <tran loc="es-419">Último respaldo en iCloud: </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2096,7 @@
       <Position>ACTIVATION_LOCK_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">Link this iPad to your Apple ID to prevent another person from activating it.</base>
-        <tran loc="es">Vincula este iPad a tu ID de Apple para impedir que otra persona lo active.</tran>
+        <tran loc="es-419">Enlaza este iPad con tu Apple ID para prevenir que alguien más lo active.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2104,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2112,7 @@
       <Position>APPLEID_SPLIT_CLOUD</Position>
       <TranslationSet>
         <base loc="en">iCloud: %@</base>
-        <tran loc="es">iCloud: %@</tran>
+        <tran loc="es-419">iCloud: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2120,7 @@
       <Position>COULDNT_DELETE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Could Not Sign Out of iCloud</base>
-        <tran loc="es">Imposible cerrar la sesión de iCloud</tran>
+        <tran loc="es-419">No se pudo cerrar la sesión en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2128,7 @@
       <Position>UPDATE_NAME_FAILED_INVALID_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Invalid first or last name.</base>
-        <tran loc="es">Nombre o apellido no válido.</tran>
+        <tran loc="es-419">Nombre o apellido no válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2136,7 @@
       <Position>TAGLINE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Get the most out of iOS.</base>
-        <tran loc="es">Aprovecha iOS al máximo.</tran>
+        <tran loc="es-419">Aprovecha iOS al máximo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2144,7 @@
       <Position>NOT_AN_ICLOUD_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Move Your MobileMe Account to iCloud</base>
-        <tran loc="es">Traslada tu cuenta de MobileMe a iCloud</tran>
+        <tran loc="es-419">Traslada tu cuenta MobileMe a iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2152,7 @@
       <Position>ICLOUD_KEYCHAIN_LABEL</Position>
       <TranslationSet>
         <base loc="en">iCloud Keychain</base>
-        <tran loc="es">Llavero de iCloud</tran>
+        <tran loc="es-419">Llavero de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2160,7 @@
       <Position>UPGRADING</Position>
       <TranslationSet>
         <base loc="en">Upgrading</base>
-        <tran loc="es">Actualizando</tran>
+        <tran loc="es-419">Actualizando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2168,7 @@
       <Position>CONFIRM_CHANGE_SYNC_ACCOUNT_AOSLOCATOR_ON_WITH_DATA_FORMAT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Enabling Find My iPhone on this account will turn off sync and Find My iPhone for “%@”.\nWhat would you like to do with the currently synced data on your iPhone?</base>
-        <tran loc="es">La activación de Buscar mi iPhone en esta cuenta desactiva la sincronización y Buscar mi iPhone en “%@”.\n¿Qué quieres hacer con los datos sincronizados anteriormente de tu iPhone?</tran>
+        <tran loc="es-419">La activación de Buscar Mi iPhone en esta cuenta desactivará la sincronización y Buscar Mi iPhone en “%@”.\n¿Qué quieres hacer con los datos sincronizados actualmente en tu iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2176,7 @@
       <Position>MOBILEME_ACCOUNT_DISABLED_TITLE</Position>
       <TranslationSet>
         <base loc="en">%@ Disabled</base>
-        <tran loc="es">%@ desactivada</tran>
+        <tran loc="es-419">%@ desactivada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2184,7 @@
       <Position>CREATE_EMAIL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Create</base>
-        <tran loc="es">Crear</tran>
+        <tran loc="es-419">Crear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2192,7 @@
       <Position>NEW_ICLOUD_TOS_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPhone you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPhone, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para utilizar iCloud en este iPhone, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2208,7 +2200,7 @@
       <Position>NON_MAIN_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Secondary iCloud Account</base>
-        <tran loc="es">Cuenta de iCloud secundaria</tran>
+        <tran loc="es-419">Cuenta iCloud secundaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2216,7 +2208,7 @@
       <Position>KEYCHAIN_INFO</Position>
       <TranslationSet>
         <base loc="en">Keychain</base>
-        <tran loc="es">Llavero</tran>
+        <tran loc="es-419">Llavero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2224,7 +2216,7 @@
       <Position>KEYCHAIN_SYNC</Position>
       <TranslationSet>
         <base loc="en">Keychain</base>
-        <tran loc="es">Llavero</tran>
+        <tran loc="es-419">Llavero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2232,7 +2224,7 @@
       <Position>TURN_ON_MAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On Mail</base>
-        <tran loc="es">Activar Mail</tran>
+        <tran loc="es-419">Activar Mail</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2240,7 +2232,7 @@
       <Position>ICLOUD_KEYCHAIN_SYNC_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">iCloud Keychain keeps the passwords and credit card information you save up to date on the devices you approve. Your information is encrypted and cannot be read by Apple.</base>
-        <tran loc="es">El llavero de iCloud mantiene las contraseñas y los datos de las tarjetas de crédito que guardes actualizados en los dispositivos que apruebes. Tu información estará encriptada y Apple no podrá leerla.</tran>
+        <tran loc="es-419">El llavero de iCloud mantiene al día las contraseñas e información de tarjetas de crédito que guardas en los dispositivos que apruebas. Apple no tiene acceso a la información, ya que se encripta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2248,7 +2240,7 @@
       <Position>ACTIVATION_LOCK_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">Link this iPod touch to your Apple ID to prevent another person from activating it.</base>
-        <tran loc="es">Vincula este iPod touch a tu ID de Apple para impedir que otra persona lo active.</tran>
+        <tran loc="es-419">Enlaza este iPod touch con tu Apple ID para prevenir que alguien más lo active.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2256,7 +2248,7 @@
       <Position>ADVANCED</Position>
       <TranslationSet>
         <base loc="en">Advanced</base>
-        <tran loc="es">Avanzado</tran>
+        <tran loc="es-419">Avanzado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2264,7 +2256,7 @@
       <Position>APPLEID_PAYMENT_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Payment &amp; Shipping</base>
-        <tran loc="es">Pago y envío</tran>
+        <tran loc="es-419">Pago y envío</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2272,7 +2264,7 @@
       <Position>APPLEID_DEVICES_SHOW_LESS</Position>
       <TranslationSet>
         <base loc="en">Show Less</base>
-        <tran loc="es">Mostrar menos</tran>
+        <tran loc="es-419">Mostrar menos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2280,7 +2272,7 @@
       <Position>UPDATE_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Update account failed</base>
-        <tran loc="es">Error de actualización de la cuenta</tran>
+        <tran loc="es-419">Error de actualización de la cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2288,7 +2280,7 @@
       <Position>CREATING_ACCOUNTS</Position>
       <TranslationSet>
         <base loc="en">Creating Account</base>
-        <tran loc="es">Creando cuenta</tran>
+        <tran loc="es-419">Creando cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2296,7 +2288,7 @@
       <Position>MULTIPLE_SERVICES_SIGN_OUT_STORE</Position>
       <TranslationSet>
         <base loc="en">Sign Out of Store</base>
-        <tran loc="es">Cerrar sesión de iTunes Store</tran>
+        <tran loc="es-419">iTunes y App Store</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2304,7 +2296,7 @@
       <Position>TURN_ON_SHOEBOX_TITLE_CD</Position>
       <TranslationSet>
         <base loc="en">Wallet Data in iCloud\nRequires iCloud Drive</base>
-        <tran loc="es">Los datos de Wallet en iCloud requieren iCloud Drive</tran>
+        <tran loc="es-419">Los datos de Wallet en\niCloud requieren de iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2312,7 +2304,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2320,7 +2312,7 @@
       <Position>ENTER_PASSWORD_PROMPT_USERNAME</Position>
       <TranslationSet>
         <base loc="en">“%@”</base>
-        <tran loc="es">“%@”</tran>
+        <tran loc="es-419">“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2328,7 +2320,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2336,7 +2328,7 @@
       <Position>UPDATE_NAME_LOADING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Updating…</base>
-        <tran loc="es">Actualizando…</tran>
+        <tran loc="es-419">Actualizando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2344,7 +2336,7 @@
       <Position>MOBILEME_PAID_ACCOUNT_LAPSED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Paid Account Expired</base>
-        <tran loc="es">Cuenta de pago caducada</tran>
+        <tran loc="es-419">Cuenta de pago vencida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2352,7 +2344,7 @@
       <Position>UPDATE_NAME_FAILED_LAST_NAME_EMPTY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">No last name was provided.</base>
-        <tran loc="es">No se ha proporcionado ningún apellido.</tran>
+        <tran loc="es-419">No se proporcionó el apellido.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2363,7 +2355,7 @@
       <Position>SUBSCRIPTIONS</Position>
       <TranslationSet>
         <base loc="en">Subscriptions</base>
-        <tran loc="es">Suscripciones</tran>
+        <tran loc="es-419">Suscripciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2371,7 +2363,7 @@
       <Position>APPLEID_PATH</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2379,7 +2371,7 @@
       <Position>ICLOUD_MAIL</Position>
       <TranslationSet>
         <base loc="en">Mail</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Mail</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2387,7 +2379,7 @@
       <Position>ICLOUD_LOCATION_SHARING</Position>
       <TranslationSet>
         <base loc="en">Share My Location</base>
-        <tran loc="es">Compartir mi ubicación</tran>
+        <tran loc="es-419">Compartir mi ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2395,7 +2387,7 @@
       <Position>FAMILY</Position>
       <TranslationSet>
         <base loc="en">Family</base>
-        <tran loc="es">Familia</tran>
+        <tran loc="es-419">Familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2403,7 +2395,7 @@
       <Position>ICLOUD_FMIP</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone</base>
-        <tran loc="es">Buscar mi iPhone</tran>
+        <tran loc="es-419">Buscar Mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2411,7 +2403,7 @@
       <Position>STORAGE_PATH</Position>
       <TranslationSet>
         <base loc="en">Apple ID → iCloud → Manage Storage</base>
-        <tran loc="es">ID de Apple → iCloud → Gestionar almacenamiento</tran>
+        <tran loc="es-419">Apple ID → iCloud → Administrar almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2419,7 +2411,7 @@
       <Position>ICLOUD_ICLOUDDRIVE</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2427,7 +2419,7 @@
       <Position>ICLOUD_PATH</Position>
       <TranslationSet>
         <base loc="en">Apple ID → iCloud</base>
-        <tran loc="es">ID de Apple → iCloud</tran>
+        <tran loc="es-419">Apple ID → iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2435,7 +2427,7 @@
       <Position>ICLOUD_STORAGE</Position>
       <TranslationSet>
         <base loc="en">iCloud Storage</base>
-        <tran loc="es">Almacenamiento en iCloud</tran>
+        <tran loc="es-419">Almacenamiento de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2443,7 +2435,7 @@
       <Position>ICLOUD_BOOKMARKS</Position>
       <TranslationSet>
         <base loc="en">Safari</base>
-        <tran loc="es">Safari</tran>
+        <tran loc="es-419">Safari</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2451,7 +2443,7 @@
       <Position>ICLOUD_REMINDERS</Position>
       <TranslationSet>
         <base loc="en">Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2459,7 +2451,7 @@
       <Position>APPLE_ACCOUNT_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Name, Phone Numbers, Email</base>
-        <tran loc="es">Nombre, teléfonos, correo</tran>
+        <tran loc="es-419">Nombre, teléfonos, correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2467,7 +2459,7 @@
       <Position>FINDMY_PATH</Position>
       <TranslationSet>
         <base loc="en">Apple ID → Find My</base>
-        <tran loc="es">ID de Apple → Buscar</tran>
+        <tran loc="es-419">Apple ID → Encontrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2475,7 +2467,7 @@
       <Position>PASSWORD_AND_SECURITY</Position>
       <TranslationSet>
         <base loc="en">Password &amp; Security</base>
-        <tran loc="es">Contraseña y seguridad</tran>
+        <tran loc="es-419">Contraseña y seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2483,7 +2475,7 @@
       <Position>ICLOUD_NEWS</Position>
       <TranslationSet>
         <base loc="en">News</base>
-        <tran loc="es">Noticias</tran>
+        <tran loc="es-419">Noticias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2491,7 +2483,7 @@
       <Position>ICLOUD_PHOTOS</Position>
       <TranslationSet>
         <base loc="en">Photos</base>
-        <tran loc="es">Fotos</tran>
+        <tran loc="es-419">Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2505,7 +2497,7 @@
       <Position>ICLOUD</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2513,7 +2505,7 @@
       <Position>ICLOUD_BACKUP</Position>
       <TranslationSet>
         <base loc="en">Backup</base>
-        <tran loc="es">Copia de seguridad</tran>
+        <tran loc="es-419">Respaldo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2521,7 +2513,7 @@
       <Position>ICLOUD_NOTES</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2529,7 +2521,7 @@
       <Position>ICLOUD_CALENDARS</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2537,7 +2529,7 @@
       <Position>ICLOUD_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2545,7 +2537,7 @@
       <Position>ICLOUD_KEYCHAIN</Position>
       <TranslationSet>
         <base loc="en">Keychain</base>
-        <tran loc="es">Llavero</tran>
+        <tran loc="es-419">Llavero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2553,7 +2545,7 @@
       <Position>PAYMENT_AND_SHIPPING</Position>
       <TranslationSet>
         <base loc="en">Payment &amp; Shipping</base>
-        <tran loc="es">Pago y envío</tran>
+        <tran loc="es-419">Pago y envío</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2564,7 +2556,7 @@
       <Position>DIAG_NOTES_SAVING_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Saving logs</base>
-        <tran loc="es">Guardando registros</tran>
+        <tran loc="es-419">Guardando registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2572,7 +2564,7 @@
       <Position>DIAG_CLEAR_LOGS_SHEET_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to clear the diagnostics logs?</base>
-        <tran loc="es">¿Seguro que quieres borrar los registros de diagnósticos?</tran>
+        <tran loc="es-419">¿Seguro que quieres borrar los registros de diagnósticos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2580,7 +2572,7 @@
       <Position>DIAG_CLEAR_LOGS_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Clear Logs?</base>
-        <tran loc="es">¿Borrar registros?</tran>
+        <tran loc="es-419">¿Borrar registros?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2588,7 +2580,7 @@
       <Position>DIAG_NOTES_DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2596,7 +2588,7 @@
       <Position>DIAG_SIMPLE_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2604,7 +2596,7 @@
       <Position>DIAG_LOG_SAVED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Save Completed</base>
-        <tran loc="es">Guardado</tran>
+        <tran loc="es-419">Guardado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2612,7 +2604,7 @@
       <Position>DIAG_CLEAR_LOGS_SHEET_OK</Position>
       <TranslationSet>
         <base loc="en">Clear</base>
-        <tran loc="es">Borrar</tran>
+        <tran loc="es-419">Borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2620,7 +2612,7 @@
       <Position>DIAG_NOTES_FINISHED_SAVING_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Finished saving logs</base>
-        <tran loc="es">Registros guardados</tran>
+        <tran loc="es-419">Guardado de registros finalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2628,7 +2620,7 @@
       <Position>DIAG_CLEAR_LOGS_SHEET_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2636,7 +2628,7 @@
       <Position>DIAG_NOTES_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2644,7 +2636,7 @@
       <Position>DIAG_NOTES_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Enter notes about your issue</base>
-        <tran loc="es">Escribe comentarios sobre el problema</tran>
+        <tran loc="es-419">Ingresa notas acerca de tu problema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2658,7 +2650,7 @@
       <Position>DIAG_LINK_TITLE</Position>
       <TranslationSet>
         <base loc="en">Diagnostics</base>
-        <tran loc="es">Diagnóstico</tran>
+        <tran loc="es-419">Diagnóstico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2666,7 +2658,7 @@
       <Position>DIAG_SAVE_ALL_LOGS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Save Logs</base>
-        <tran loc="es">Guardar registros</tran>
+        <tran loc="es-419">Guardar registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2674,7 +2666,7 @@
       <Position>DIAG_CLEAR_ALL_LOGS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Clear Logs</base>
-        <tran loc="es">Borrar registros</tran>
+        <tran loc="es-419">Borrar registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2682,7 +2674,7 @@
       <Position>DIAG_NO_LOGS_TO_SAVE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">There are currently no logs to save.</base>
-        <tran loc="es">No hay ningún registro que guardar.</tran>
+        <tran loc="es-419">No hay registros que guardar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2690,7 +2682,7 @@
       <Position>DIAG_ENTER_NOTES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2698,7 +2690,7 @@
       <Position>DIAG_NOTES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2706,7 +2698,7 @@
       <Position>DIAG_NO_LOGS_TO_SAVE_TITLE</Position>
       <TranslationSet>
         <base loc="en">No Logs</base>
-        <tran loc="es">No hay registros</tran>
+        <tran loc="es-419">No hay registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2714,7 +2706,26 @@
       <Position>DIAG_LOG_SAVED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Log files have been saved in the folder '%@'. To view the log files, sync with iTunes.</base>
-        <tran loc="es">Los archivos de registro se han guardado en la carpeta “%@”. Para visualizarlos, sincroniza con iTunes.</tran>
+        <tran loc="es-419">Los archivos de los registros se guardaron en la carpeta "%@". Para verlos, sincroniza iTunes.</tran>
+      </TranslationSet>
+    </TextItem>
+  </File>
+  <File>
+    <Filepath>AppleAccountSettingsUI/System/Library/PreferenceBundles/AccountSettings/AppleAccountSettings.bundle/en.lproj/Localizable.stringsdict</Filepath>
+    <TextItem>
+      <Description/>
+      <Position>/AVAILABLE_STORAGE_VALUE:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%@ Available</base>
+        <tran loc="es_419">%@ disp.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>/AVAILABLE_STORAGE_VALUE:dict/NSStringVariableWidthRuleType:dict/27:dict/:string</Position>
+      <TranslationSet>
+        <base loc="en">%@ Available</base>
+        <tran loc="es_419">%@ disponibles</tran>
       </TranslationSet>
     </TextItem>
   </File>

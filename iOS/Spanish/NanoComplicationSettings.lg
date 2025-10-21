@@ -8,7 +8,7 @@
       <Position>NANO_COMPLICATION_NO_COMPLICATIONS</Position>
       <TranslationSet>
         <base loc="en">You have no apps with watch face complications installed on your Apple Watch yet.</base>
-        <tran loc="es">Aún no tienes ninguna app en el Apple Watch que muestre información en la esfera del reloj.</tran>
+        <tran loc="es-419">Aún no has instalado apps compatibles con complicaciones de carátulas en tu Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>NANO_COMPLICATION_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>NANO_COMPLICATION_GROUP_NAME</Position>
       <TranslationSet>
         <base loc="en">Complications</base>
-        <tran loc="es">Complicaciones</tran>
+        <tran loc="es-419">Complicaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>NANO_COMPLICATION_REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>NANO_COMPLICATION_DO_NOT_INCLUDE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Do Not Include</base>
-        <tran loc="es">No incluir</tran>
+        <tran loc="es-419">No incluir</tran>
       </TranslationSet>
     </TextItem>
   </File>

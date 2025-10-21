@@ -8,7 +8,7 @@
       <Position>PTP_FAILED_TEXT</Position>
       <TranslationSet>
         <base loc="en">Unlock this iPhone and then reconnect it to this device to access photos and videos</base>
-        <tran loc="es">Desbloquea este iPhone y vuelve a conectarlo a este dispositivo para acceder a las fotos y los vídeos</tran>
+        <tran loc="es-419">Desbloquea este iPhone y vuelve a conectarlo a este dispositivo para acceder a fotos y videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>PTP_DIALOG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This device will be able to access photos and videos while it is connected to your %@.</base>
-        <tran loc="es">Este dispositivo podrá acceder a las fotos y los vídeos mientras esté conectado a tu %@.</tran>
+        <tran loc="es-419">Este dispositivo podrá acceder a fotos y videos mientras esté conectado a tu %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>PTP_DIALOG_HEADER</Position>
       <TranslationSet>
         <base loc="en">Allow this device to access photos and videos?</base>
-        <tran loc="es">¿Permitir a este dispositivo acceder a las fotos y los vídeos?</tran>
+        <tran loc="es-419">¿Permitir que este dispositivo acceda a fotos y videos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>WATCH_PTP_DIALOG_HEADER</Position>
       <TranslationSet>
         <base loc="en">Allow this device to access photos and videos?</base>
-        <tran loc="es">¿Permitir a este dispositivo acceder a las fotos y los vídeos?</tran>
+        <tran loc="es-419">¿Permitir que este dispositivo acceda a fotos y videos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>WATCH_PTP_FAILED_TEXT</Position>
       <TranslationSet>
         <base loc="en">Unlock this Apple Watch and then reconnect it to this device to access photos and videos</base>
-        <tran loc="es">Desbloquea este Apple Watch y vuelve a conectarlo a este dispositivo para acceder a las fotos y los vídeos</tran>
+        <tran loc="es-419">Desbloquea este Apple Watch y vuelve a conectarlo a este dispositivo para acceder a fotos y videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>PTP_DIALOG_ALLOW_TRUST</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>WATCH_PTP_DIALOG_ALLOW_TRUST</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>PTP_DIALOG_DENY_TRUST</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>WATCH_PTP_DIALOG_DENY_TRUST</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>PTP_FAILED_HEADER</Position>
       <TranslationSet>
         <base loc="en">Trust This Device?</base>
-        <tran loc="es">¿Confiar en este dispositivo?</tran>
+        <tran loc="es-419">¿Confiar en este dispositivo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>WATCH_PTP_FAILED_HEADER</Position>
       <TranslationSet>
         <base loc="en">Trust This Device?</base>
-        <tran loc="es">¿Confiar en este dispositivo?</tran>
+        <tran loc="es-419">¿Confiar en este dispositivo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>WATCH_PTP_DIALOG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The device you connected would like to access photos and videos on this Apple Watch while it is connected.</base>
-        <tran loc="es">El dispositivo que has conectado quiere acceder a las fotos y los vídeos de este Apple Watch mientras esté conectado.</tran>
+        <tran loc="es-419">El dispositivo que conectaste quiere acceder a fotos y videos en este Apple Watch mientras está conectado.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -107,7 +107,7 @@
       <Position>SYNC_DIALOG_HEADER_WLAN</Position>
       <TranslationSet>
         <base loc="en">iTunes WLAN Sync</base>
-        <tran loc="es">Sincronización con iTunes a través de WLAN</tran>
+        <tran loc="es-419">Sinc. por WLAN de iTunes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>SYNC_DIALOG_MESSAGE_WLAN</Position>
       <TranslationSet>
         <base loc="en">Connect to your computer with a cable to reactivate iTunes WLAN Sync.</base>
-        <tran loc="es">Conecta el dispositivo al ordenador con un cable para reactivar la sincronización con iTunes a través de WLAN.</tran>
+        <tran loc="es-419">Conecta tu computadora con un cable para reactivar la sincronización por WLAN de iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>SYNC_DIALOG_HEADER_WIFI</Position>
       <TranslationSet>
         <base loc="en">iTunes Wi-Fi Sync</base>
-        <tran loc="es">Sincronización con iTunes a través de Wi-Fi</tran>
+        <tran loc="es-419">Sinc. por Wi-Fi de iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>SYNC_DIALOG_MESSAGE_WIFI</Position>
       <TranslationSet>
         <base loc="en">Connect to your computer with a cable to reactivate iTunes Wi-Fi Sync.</base>
-        <tran loc="es">Conecta el dispositivo al ordenador con un cable para reactivar la sincronización con iTunes a través de Wi-Fi.</tran>
+        <tran loc="es-419">Conecta tu computadora con un cable para reactivar la sincronización por Wi-Fi de iTunes.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -145,7 +145,7 @@
       <Position>TRUST_DIALOG_MESSAGE_DETAILED</Position>
       <TranslationSet>
         <base loc="en">Your settings and data will be accessible from \'%@\' when connected wirelessly or using a cable.</base>
-        <tran loc="es">Tus ajustes y datos estarán accesibles desde \'%@\' si se conectan de forma inalámbrica o usando un cable.</tran>
+        <tran loc="es-419">Podrás acceder a tu configuración y tus datos desde "%@" al conectarte de manera inalámbrica o usando un cable.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>TRUST_DIALOG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your settings and data will be accessible from this computer when connected wirelessly or using a cable.</base>
-        <tran loc="es">Tus ajustes y datos estarán accesibles desde este ordenador si se conectan de forma inalámbrica o usando un cable.</tran>
+        <tran loc="es-419">Podrás acceder a tu configuración y tus datos desde esta computadora al conectarte de manera inalámbrica o usando un cable.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>TRUST_DIALOG_HEADER</Position>
       <TranslationSet>
         <base loc="en">Trust This Computer?</base>
-        <tran loc="es">¿Confiar en este ordenador?</tran>
+        <tran loc="es-419">¿Confiar en esta computadora?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>TRUST_FAILED_HEADER</Position>
       <TranslationSet>
         <base loc="en">Trust This Computer?</base>
-        <tran loc="es">¿Confiar en este ordenador?</tran>
+        <tran loc="es-419">¿Confiar en esta computadora?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>TRUST_DIALOG_DENY_TRUST</Position>
       <TranslationSet>
         <base loc="en">Don’t Trust</base>
-        <tran loc="es">No confiar</tran>
+        <tran loc="es-419">No confiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>TRUST_DIALOG_MESSAGE_SIMPLE</Position>
       <TranslationSet>
         <base loc="en">Your settings and data will be accessible from this computer when connected.</base>
-        <tran loc="es">Podrás acceder a tus ajustes y datos desde este ordenador al conectarte.</tran>
+        <tran loc="es-419">Accede a tu configuración y datos con esta computadora al conectarte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>ENTER_PASSCODE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter Device Passcode to Trust This Computer</base>
-        <tran loc="es">Introduce el código del dispositivo para confiar en este ordenador</tran>
+        <tran loc="es-419">Ingresa el código del dispositivo para confiar en esta computadora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>TRUST_DIALOG_HEADER_INTERNAL</Position>
       <TranslationSet>
         <base loc="en">Trust This Computer? %@ %@</base>
-        <tran loc="es">¿Confiar en este ordenador? %@ %@</tran>
+        <tran loc="es-419">¿Confiar en esta computadora? %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>TRUST_DIALOG_ALLOW_TRUST</Position>
       <TranslationSet>
         <base loc="en">Trust</base>
-        <tran loc="es">Confiar</tran>
+        <tran loc="es-419">Confiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>TRUST_FAILED_TEXT</Position>
       <TranslationSet>
         <base loc="en">Unlock this device and then reconnect it to this computer to create a trusted connection.</base>
-        <tran loc="es">Desbloquea este dispositivo y vuelve a conectarlo a este ordenador para crear una conexión fiable.</tran>
+        <tran loc="es-419">Desbloquea este dispositivo y vuelve a conectarlo a esta computadora para crear una conexión confiable.</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>_$!&lt;EX-ImAddress2&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">messaging 2</base>
-        <tran loc="es">mensajería 2</tran>
+        <tran loc="es-419">mensajería 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>_$!&lt;EX-Business&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work</base>
-        <tran loc="es">trabajo</tran>
+        <tran loc="es-419">trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>_$!&lt;EX-BusinessPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work</base>
-        <tran loc="es">trabajo</tran>
+        <tran loc="es-419">trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>_$!&lt;Work&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work</base>
-        <tran loc="es">trabajo</tran>
+        <tran loc="es-419">trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>ABRelatedNamePlural</Position>
       <TranslationSet>
         <base loc="en">Related Names</base>
-        <tran loc="es">Nombres relacionados</tran>
+        <tran loc="es-419">Relaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>RelatedNames</Position>
       <TranslationSet>
         <base loc="en">Related Names</base>
-        <tran loc="es">Nombres relacionados</tran>
+        <tran loc="es-419">Relaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>_$!&lt;School&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">school</base>
-        <tran loc="es">escuela</tran>
+        <tran loc="es-419">escuela</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>_$!&lt;EX-TtyTddPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">TDD/TTY</base>
-        <tran loc="es">TDD/TTY</tran>
+        <tran loc="es-419">TDD/TTY</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Birthday</Position>
       <TranslationSet>
         <base loc="en">Birthday</base>
-        <tran loc="es">Cumpleaños</tran>
+        <tran loc="es-419">Cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>GroupDescription</Position>
       <TranslationSet>
         <base loc="en">Group Description</base>
-        <tran loc="es">Descripción del grupo</tran>
+        <tran loc="es-419">Descripción del grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>JobTitle</Position>
       <TranslationSet>
         <base loc="en">Job Title</base>
-        <tran loc="es">Cargo</tran>
+        <tran loc="es-419">Cargo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>_$!&lt;EX-BusinessHomePage&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">homepage</base>
-        <tran loc="es">página web</tran>
+        <tran loc="es-419">página web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>_$!&lt;HomePage&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">homepage</base>
-        <tran loc="es">página web</tran>
+        <tran loc="es-419">página web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>AIM IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">AIM</base>
-        <tran loc="es">AIM</tran>
+        <tran loc="es-419">AIM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>linkedin SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">LinkedIn</base>
-        <tran loc="es">LinkedIn</tran>
+        <tran loc="es-419">LinkedIn</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>_$!&lt;Main&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">main</base>
-        <tran loc="es">principal</tran>
+        <tran loc="es-419">principal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>_$!&lt;EX-CarPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">car phone</base>
-        <tran loc="es">teléfono de coche</tran>
+        <tran loc="es-419">teléfono de automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>myspace SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Myspace</base>
-        <tran loc="es">Myspace</tran>
+        <tran loc="es-419">Myspace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>_$!&lt;EX-Callback&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">callback</base>
-        <tran loc="es">devolución de llamada</tran>
+        <tran loc="es-419">devolución de llamada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>MaidenName</Position>
       <TranslationSet>
         <base loc="en">Maiden Name</base>
-        <tran loc="es">Nombre de soltera</tran>
+        <tran loc="es-419">Nombre de soltera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>Phone</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>_$!&lt;EX-SpouseName&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">partner</base>
-        <tran loc="es">pareja</tran>
+        <tran loc="es-419">pareja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>_$!&lt;Partner&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">partner</base>
-        <tran loc="es">pareja</tran>
+        <tran loc="es-419">pareja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>_$!&lt;Assistant&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">assistant</base>
-        <tran loc="es">asistente</tran>
+        <tran loc="es-419">asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>_$!&lt;AssistantPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">assistant</base>
-        <tran loc="es">asistente</tran>
+        <tran loc="es-419">asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>_$!&lt;EX-AssistantName&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">assistant</base>
-        <tran loc="es">asistente</tran>
+        <tran loc="es-419">asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>_$!&lt;EX-AssistantPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">assistant</base>
-        <tran loc="es">asistente</tran>
+        <tran loc="es-419">asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>GaduGadu IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Gadu-Gadu</base>
-        <tran loc="es">Gadu-Gadu</tran>
+        <tran loc="es-419">Gadu-Gadu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>ping SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Ping</base>
-        <tran loc="es">Ping</tran>
+        <tran loc="es-419">Ping</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>twitter SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Twitter</base>
-        <tran loc="es">Twitter</tran>
+        <tran loc="es-419">Twitter</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>_$!&lt;EX-Other&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other</base>
-        <tran loc="es">otro</tran>
+        <tran loc="es-419">otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>_$!&lt;EX-OtherTelephone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other</base>
-        <tran loc="es">otro</tran>
+        <tran loc="es-419">otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>_$!&lt;Other&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other</base>
-        <tran loc="es">otro</tran>
+        <tran loc="es-419">otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>Nickname</Position>
       <TranslationSet>
         <base loc="en">Nickname</base>
-        <tran loc="es">Alias</tran>
+        <tran loc="es-419">Apodo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>ICQ IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">ICQ</base>
-        <tran loc="es">ICQ</tran>
+        <tran loc="es-419">ICQ</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>_$!&lt;Email&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">email</base>
-        <tran loc="es">correo</tran>
+        <tran loc="es-419">correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>QQ IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">QQ</base>
-        <tran loc="es">QQ</tran>
+        <tran loc="es-419">QQ</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>facebook SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Facebook</base>
-        <tran loc="es">Facebook</tran>
+        <tran loc="es-419">Facebook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>_$!&lt;EX-Isdn&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">ISDN</base>
-        <tran loc="es">RDSI</tran>
+        <tran loc="es-419">RDSI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>IM</Position>
       <TranslationSet>
         <base loc="en">Instant Message</base>
-        <tran loc="es">Chat</tran>
+        <tran loc="es-419">Mensajería instantánea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>_$!&lt;Mother&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">mother</base>
-        <tran loc="es">madre</tran>
+        <tran loc="es-419">madre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>City</Position>
       <TranslationSet>
         <base loc="en">City</base>
-        <tran loc="es">Ciudad</tran>
+        <tran loc="es-419">Ciudad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>_$!&lt;EX-MobilePhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">mobile</base>
-        <tran loc="es">móvil</tran>
+        <tran loc="es-419">celular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>_$!&lt;Mobile&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">mobile</base>
-        <tran loc="es">móvil</tran>
+        <tran loc="es-419">celular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>Skype IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Skype</base>
-        <tran loc="es">Skype</tran>
+        <tran loc="es-419">Skype</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>_$!&lt;Son&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">son</base>
-        <tran loc="es">hijo</tran>
+        <tran loc="es-419">hijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>_$!&lt;EX-HomeFax&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home fax</base>
-        <tran loc="es">fax casa</tran>
+        <tran loc="es-419">fax casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>_$!&lt;HomeFAX&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home fax</base>
-        <tran loc="es">fax casa</tran>
+        <tran loc="es-419">fax casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>_$!&lt;Car&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">car</base>
-        <tran loc="es">coche</tran>
+        <tran loc="es-419">automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>service</Position>
       <TranslationSet>
         <base loc="en">Service</base>
-        <tran loc="es">Servicio</tran>
+        <tran loc="es-419">Servicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>username</Position>
       <TranslationSet>
         <base loc="en">User Name</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>_$!&lt;CompanyMain&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">company main</base>
-        <tran loc="es">empresa</tran>
+        <tran loc="es-419">empresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>Middle</Position>
       <TranslationSet>
         <base loc="en">Middle</base>
-        <tran loc="es">Segundo nombre</tran>
+        <tran loc="es-419">Segundo nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>ABDatePlural</Position>
       <TranslationSet>
         <base loc="en">Dates</base>
-        <tran loc="es">Fechas</tran>
+        <tran loc="es-419">Fechas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>_$!&lt;EX-Home&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home</base>
-        <tran loc="es">casa</tran>
+        <tran loc="es-419">casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>_$!&lt;EX-HomePhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home</base>
-        <tran loc="es">casa</tran>
+        <tran loc="es-419">casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>_$!&lt;Home&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home</base>
-        <tran loc="es">casa</tran>
+        <tran loc="es-419">casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>_$!&lt;EX-OtherFax&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other fax</base>
-        <tran loc="es">otro fax</tran>
+        <tran loc="es-419">otro fax</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>_$!&lt;OtherFAX&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other fax</base>
-        <tran loc="es">otro fax</tran>
+        <tran loc="es-419">otro fax</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>_$!&lt;EX-EmailAddress2&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">email 2</base>
-        <tran loc="es">correo 2</tran>
+        <tran loc="es-419">correo 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>Street</Position>
       <TranslationSet>
         <base loc="en">Street</base>
-        <tran loc="es">Calle</tran>
+        <tran loc="es-419">Calle</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>First</Position>
       <TranslationSet>
         <base loc="en">First</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@
       <Position>_$!&lt;EX-ImAddress1&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">messaging 1</base>
-        <tran loc="es">mensajería 1</tran>
+        <tran loc="es-419">mensajería 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@
       <Position>_$!&lt;Brother&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">brother</base>
-        <tran loc="es">hermano</tran>
+        <tran loc="es-419">hermano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>_$!&lt;EX-HomePhone2&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">alternate home</base>
-        <tran loc="es">segunda casa</tran>
+        <tran loc="es-419">segunda casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>_$!&lt;EX-PrimaryPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">primary</base>
-        <tran loc="es">primario</tran>
+        <tran loc="es-419">primario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>_$!&lt;Father&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">father</base>
-        <tran loc="es">padre</tran>
+        <tran loc="es-419">padre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@
       <Position>flickr SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Flickr</base>
-        <tran loc="es">Flickr</tran>
+        <tran loc="es-419">Flickr</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>_$!&lt;Anniversary&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">anniversary</base>
-        <tran loc="es">aniversario</tran>
+        <tran loc="es-419">aniversario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>_$!&lt;EX-Anniversary&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">anniversary</base>
-        <tran loc="es">aniversario</tran>
+        <tran loc="es-419">aniversario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>Email</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">correo</tran>
+        <tran loc="es-419">Correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>Sound</Position>
       <TranslationSet>
         <base loc="en">Ringtone</base>
-        <tran loc="es">tono</tran>
+        <tran loc="es-419">tono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>_$!&lt;EX-ImAddress3&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">messaging 3</base>
-        <tran loc="es">mensajería 3</tran>
+        <tran loc="es-419">mensajería 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>Organization</Position>
       <TranslationSet>
         <base loc="en">Company</base>
-        <tran loc="es">Empresa</tran>
+        <tran loc="es-419">Empresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>Date</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>MSN IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">MSN Messenger</base>
-        <tran loc="es">MSN Messenger</tran>
+        <tran loc="es-419">MSN Messenger</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@
       <Position>GroupName</Position>
       <TranslationSet>
         <base loc="en">Group Name</base>
-        <tran loc="es">Nombre del grupo</tran>
+        <tran loc="es-419">Nombre del grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +633,7 @@
       <Position>_$!&lt;Spouse&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">spouse</base>
-        <tran loc="es">cónyuge</tran>
+        <tran loc="es-419">cónyuge</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +641,7 @@
       <Position>Address</Position>
       <TranslationSet>
         <base loc="en">Address</base>
-        <tran loc="es">Dirección</tran>
+        <tran loc="es-419">Domicilio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +649,7 @@
       <Position>Last</Position>
       <TranslationSet>
         <base loc="en">Last</base>
-        <tran loc="es">Apellidos</tran>
+        <tran loc="es-419">Apellidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@
       <Position>State</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Provincia</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@
       <Position>_$!&lt;EX-Manager&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">manager</base>
-        <tran loc="es">jefe</tran>
+        <tran loc="es-419">jefe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@
       <Position>_$!&lt;Manager&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">manager</base>
-        <tran loc="es">jefe</tran>
+        <tran loc="es-419">jefe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +681,7 @@
       <Position>_$!&lt;EX-Telex&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">Telex</base>
-        <tran loc="es">Télex</tran>
+        <tran loc="es-419">Télex</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +689,7 @@
       <Position>Prefix</Position>
       <TranslationSet>
         <base loc="en">Prefix</base>
-        <tran loc="es">Tratamiento</tran>
+        <tran loc="es-419">Prefijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +697,7 @@
       <Position>_$!&lt;EX-BusinessFax&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work fax</base>
-        <tran loc="es">fax trabajo</tran>
+        <tran loc="es-419">fax trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +705,7 @@
       <Position>_$!&lt;WorkFAX&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work fax</base>
-        <tran loc="es">fax trabajo</tran>
+        <tran loc="es-419">fax trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +713,7 @@
       <Position>URLs</Position>
       <TranslationSet>
         <base loc="en">URL</base>
-        <tran loc="es">Dirección URL</tran>
+        <tran loc="es-419">Dirección URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +721,7 @@
       <Position>NOTES_BUILDING_NAME_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Building Name: %@</base>
-        <tran loc="es">Nombre del edificio: %@</tran>
+        <tran loc="es-419">Nombre del edificio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +729,7 @@
       <Position>_$!&lt;EX-CompanyMainPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">main corporate</base>
-        <tran loc="es">empresa principal</tran>
+        <tran loc="es-419">empresa principal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>_$!&lt;Child&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">child</base>
-        <tran loc="es">hijo/hija</tran>
+        <tran loc="es-419">hijo(a)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -745,7 +745,7 @@
       <Position>Jabber IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Jabber</base>
-        <tran loc="es">Jabber</tran>
+        <tran loc="es-419">Jabber</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -753,7 +753,7 @@
       <Position>Department</Position>
       <TranslationSet>
         <base loc="en">Department</base>
-        <tran loc="es">Departamento</tran>
+        <tran loc="es-419">Departamento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -761,7 +761,7 @@
       <Position>FirstPhonetic</Position>
       <TranslationSet>
         <base loc="en">Phonetic First Name</base>
-        <tran loc="es">Nombre (fonético)</tran>
+        <tran loc="es-419">Nombre (fonético)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -769,7 +769,7 @@
       <Position>Suffix</Position>
       <TranslationSet>
         <base loc="en">Suffix</base>
-        <tran loc="es">Sufijo</tran>
+        <tran loc="es-419">Sufijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -777,7 +777,7 @@
       <Position>Country</Position>
       <TranslationSet>
         <base loc="en">Country</base>
-        <tran loc="es">País</tran>
+        <tran loc="es-419">País</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -785,7 +785,7 @@
       <Position>_$!&lt;Friend&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">friend</base>
-        <tran loc="es">amigo/amiga</tran>
+        <tran loc="es-419">amigo(a)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -793,7 +793,7 @@
       <Position>MiddlePhonetic</Position>
       <TranslationSet>
         <base loc="en">Phonetic Middle Name</base>
-        <tran loc="es">Segundo nombre (fonético)</tran>
+        <tran loc="es-419">Segundo nombre (fonético)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -801,7 +801,7 @@
       <Position>SubAdministrativeArea</Position>
       <TranslationSet>
         <base loc="en">SubAdministrativeArea</base>
-        <tran loc="es">SubAdministrativeArea</tran>
+        <tran loc="es-419">SubAdministrativeArea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -809,7 +809,7 @@
       <Position>HomePage</Position>
       <TranslationSet>
         <base loc="en">Homepage</base>
-        <tran loc="es">Página web</tran>
+        <tran loc="es-419">Página web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -817,7 +817,7 @@
       <Position>SocialProfile</Position>
       <TranslationSet>
         <base loc="en">Social Profile</base>
-        <tran loc="es">Perfil social</tran>
+        <tran loc="es-419">perfil social</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -825,7 +825,7 @@
       <Position>_$!&lt;Birthday&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">birthday</base>
-        <tran loc="es">cumpleaños</tran>
+        <tran loc="es-419">cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -833,7 +833,7 @@
       <Position>_$!&lt;EX-Birthday&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">birthday</base>
-        <tran loc="es">cumpleaños</tran>
+        <tran loc="es-419">cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -841,7 +841,7 @@
       <Position>_$!&lt;Daughter&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">daughter</base>
-        <tran loc="es">hija</tran>
+        <tran loc="es-419">hija</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -850,7 +850,7 @@
       <Position>_$!&lt;Phone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">phone</base>
-        <tran loc="es">teléfono</tran>
+        <tran loc="es-419">teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +858,7 @@
       <Position>LastPhonetic</Position>
       <TranslationSet>
         <base loc="en">Phonetic Last Name</base>
-        <tran loc="es">Apellidos (fonéticos)</tran>
+        <tran loc="es-419">Apellidos (fonéticos)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +866,7 @@
       <Position>NOTES_APPLE_FLOOR_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Floor: %@</base>
-        <tran loc="es">Planta: %@</tran>
+        <tran loc="es-419">Planta: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -874,7 +874,7 @@
       <Position>Note</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -882,7 +882,7 @@
       <Position>_$!&lt;Parent&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">parent</base>
-        <tran loc="es">padres</tran>
+        <tran loc="es-419">padres</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -890,7 +890,7 @@
       <Position>ZIP</Position>
       <TranslationSet>
         <base loc="en">ZIP</base>
-        <tran loc="es">C. P.</tran>
+        <tran loc="es-419">C.P.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -898,7 +898,7 @@
       <Position>GoogleTalk IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Google Talk</base>
-        <tran loc="es">Google Talk</tran>
+        <tran loc="es-419">Google Talk</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -906,7 +906,7 @@
       <Position>gamecenter SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Game Center</base>
-        <tran loc="es">Game Center</tran>
+        <tran loc="es-419">Game Center</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -914,7 +914,7 @@
       <Position>_$!&lt;EX-EmailAddress3&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">email 3</base>
-        <tran loc="es">correo 3</tran>
+        <tran loc="es-419">correo 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -922,7 +922,7 @@
       <Position>_$!&lt;EX-RadioPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">radio</base>
-        <tran loc="es">radio</tran>
+        <tran loc="es-419">radio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -930,7 +930,7 @@
       <Position>_$!&lt;Radio&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">radio</base>
-        <tran loc="es">radio</tran>
+        <tran loc="es-419">radio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -938,7 +938,7 @@
       <Position>Yahoo IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Yahoo! Messenger</base>
-        <tran loc="es">Yahoo! Messenger</tran>
+        <tran loc="es-419">Yahoo! Messenger</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -946,7 +946,7 @@
       <Position>_$!&lt;EX-Pager&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">pager</base>
-        <tran loc="es">busca</tran>
+        <tran loc="es-419">radiolocalizador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -954,7 +954,7 @@
       <Position>_$!&lt;Pager&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">pager</base>
-        <tran loc="es">busca</tran>
+        <tran loc="es-419">radiolocalizador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -962,7 +962,7 @@
       <Position>Facebook IM_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Facebook Messenger</base>
-        <tran loc="es">Facebook Messenger</tran>
+        <tran loc="es-419">Facebook Messenger</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -970,7 +970,7 @@
       <Position>_$!&lt;EX-BusinessPhone2&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">alternate work</base>
-        <tran loc="es">segundo trabajo</tran>
+        <tran loc="es-419">segundo trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -978,7 +978,7 @@
       <Position>SubLocality</Position>
       <TranslationSet>
         <base loc="en">SubLocality</base>
-        <tran loc="es">SubLocality</tran>
+        <tran loc="es-419">SubLocality</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -986,7 +986,7 @@
       <Position>_$!&lt;PostalAddress&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">address</base>
-        <tran loc="es">dirección</tran>
+        <tran loc="es-419">domicilio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -994,7 +994,7 @@
       <Position>_$!&lt;Sister&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">sister</base>
-        <tran loc="es">hermana</tran>
+        <tran loc="es-419">hermana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1002,7 +1002,7 @@
       <Position>CountryCode</Position>
       <TranslationSet>
         <base loc="en">Country Code</base>
-        <tran loc="es">Código del país</tran>
+        <tran loc="es-419">Código del país</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1010,7 +1010,7 @@
       <Position>sinaweibo SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Sina Weibo</base>
-        <tran loc="es">Sina Weibo</tran>
+        <tran loc="es-419">Sina Weibo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1018,7 +1018,7 @@
       <Position>_$!&lt;EX-EmailAddress1&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">email 1</base>
-        <tran loc="es">correo 1</tran>
+        <tran loc="es-419">correo 1</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1029,7 +1029,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">AddressBook</base>
-        <tran loc="es">Agenda</tran>
+        <tran loc="es-419">AddressBook</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1040,7 +1040,7 @@
       <Position>_$!&lt;EX-ImAddress2&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">messaging 2</base>
-        <tran loc="es">mensajería 2</tran>
+        <tran loc="es-419">mensajería 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1048,7 +1048,7 @@
       <Position>_$!&lt;EX-Business&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work</base>
-        <tran loc="es">trabajo</tran>
+        <tran loc="es-419">trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1056,7 +1056,7 @@
       <Position>_$!&lt;EX-BusinessPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work</base>
-        <tran loc="es">trabajo</tran>
+        <tran loc="es-419">trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1064,7 @@
       <Position>_$!&lt;Work&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work</base>
-        <tran loc="es">trabajo</tran>
+        <tran loc="es-419">trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1072,7 +1072,7 @@
       <Position>_$!&lt;School&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">school</base>
-        <tran loc="es">escuela</tran>
+        <tran loc="es-419">escuela</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1080,7 +1080,7 @@
       <Position>_$!&lt;EX-TtyTddPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">TDD/TTY</base>
-        <tran loc="es">TDD/TTY</tran>
+        <tran loc="es-419">TDD/TTY</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1088,7 @@
       <Position>_$!&lt;EX-BusinessHomePage&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">homepage</base>
-        <tran loc="es">página web</tran>
+        <tran loc="es-419">página web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1096,7 @@
       <Position>_$!&lt;HomePage&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">homepage</base>
-        <tran loc="es">página web</tran>
+        <tran loc="es-419">página web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1104,7 @@
       <Position>_$!&lt;Main&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">main</base>
-        <tran loc="es">principal</tran>
+        <tran loc="es-419">principal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1112,7 @@
       <Position>_$!&lt;EX-CarPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">car phone</base>
-        <tran loc="es">teléfono de coche</tran>
+        <tran loc="es-419">teléfono de automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1120,7 @@
       <Position>_$!&lt;EX-Callback&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">callback</base>
-        <tran loc="es">devolución de llamada</tran>
+        <tran loc="es-419">devolución de llamada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1128,7 @@
       <Position>_$!&lt;EX-SpouseName&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">partner</base>
-        <tran loc="es">pareja</tran>
+        <tran loc="es-419">pareja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1136,7 @@
       <Position>_$!&lt;Partner&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">partner</base>
-        <tran loc="es">pareja</tran>
+        <tran loc="es-419">pareja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1144,7 @@
       <Position>_$!&lt;Assistant&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">assistant</base>
-        <tran loc="es">asistente</tran>
+        <tran loc="es-419">asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1152,7 @@
       <Position>_$!&lt;AssistantPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">assistant</base>
-        <tran loc="es">asistente</tran>
+        <tran loc="es-419">asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1160,7 @@
       <Position>_$!&lt;EX-AssistantName&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">assistant</base>
-        <tran loc="es">asistente</tran>
+        <tran loc="es-419">asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1168,7 @@
       <Position>_$!&lt;EX-AssistantPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">assistant</base>
-        <tran loc="es">asistente</tran>
+        <tran loc="es-419">asistente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1176,7 @@
       <Position>_$!&lt;EX-Other&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other</base>
-        <tran loc="es">otro</tran>
+        <tran loc="es-419">otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1184,7 @@
       <Position>_$!&lt;EX-OtherTelephone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other</base>
-        <tran loc="es">otro</tran>
+        <tran loc="es-419">otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1200,7 @@
       <Position>_$!&lt;Other&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other</base>
-        <tran loc="es">otro</tran>
+        <tran loc="es-419">otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1208,7 @@
       <Position>_$!&lt;Email&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">email</base>
-        <tran loc="es">correo</tran>
+        <tran loc="es-419">correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1216,7 @@
       <Position>_$!&lt;EX-Isdn&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">ISDN</base>
-        <tran loc="es">RDSI</tran>
+        <tran loc="es-419">RDSI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1224,7 @@
       <Position>_$!&lt;Mother&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">mother</base>
-        <tran loc="es">madre</tran>
+        <tran loc="es-419">madre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1232,7 @@
       <Position>_$!&lt;EX-MobilePhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">mobile</base>
-        <tran loc="es">móvil</tran>
+        <tran loc="es-419">celular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1240,7 @@
       <Position>_$!&lt;Mobile&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">mobile</base>
-        <tran loc="es">móvil</tran>
+        <tran loc="es-419">celular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@
       <Position>_$!&lt;Son&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">son</base>
-        <tran loc="es">hijo</tran>
+        <tran loc="es-419">hijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@
       <Position>_$!&lt;EX-HomeFax&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home fax</base>
-        <tran loc="es">fax casa</tran>
+        <tran loc="es-419">fax casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@
       <Position>_$!&lt;HomeFAX&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home fax</base>
-        <tran loc="es">fax casa</tran>
+        <tran loc="es-419">fax casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@
       <Position>_$!&lt;Car&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">car</base>
-        <tran loc="es">coche</tran>
+        <tran loc="es-419">automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@
       <Position>_$!&lt;CompanyMain&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">company main</base>
-        <tran loc="es">empresa</tran>
+        <tran loc="es-419">empresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@
       <Position>_$!&lt;EX-Home&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home</base>
-        <tran loc="es">casa</tran>
+        <tran loc="es-419">casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@
       <Position>_$!&lt;EX-HomePhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home</base>
-        <tran loc="es">casa</tran>
+        <tran loc="es-419">casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@
       <Position>_$!&lt;Home&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">home</base>
-        <tran loc="es">casa</tran>
+        <tran loc="es-419">casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@
       <Position>_$!&lt;EX-OtherFax&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other fax</base>
-        <tran loc="es">otro fax</tran>
+        <tran loc="es-419">otro fax</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>_$!&lt;OtherFAX&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">other fax</base>
-        <tran loc="es">otro fax</tran>
+        <tran loc="es-419">otro fax</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>_$!&lt;EX-EmailAddress2&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">email 2</base>
-        <tran loc="es">correo 2</tran>
+        <tran loc="es-419">correo 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>_$!&lt;EX-ImAddress1&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">messaging 1</base>
-        <tran loc="es">mensajería 1</tran>
+        <tran loc="es-419">mensajería 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>_$!&lt;Brother&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">brother</base>
-        <tran loc="es">hermano</tran>
+        <tran loc="es-419">hermano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>_$!&lt;EX-HomePhone2&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">alternate home</base>
-        <tran loc="es">segunda casa</tran>
+        <tran loc="es-419">segunda casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>_$!&lt;EX-PrimaryPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">primary</base>
-        <tran loc="es">primario</tran>
+        <tran loc="es-419">primario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>_$!&lt;Father&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">father</base>
-        <tran loc="es">padre</tran>
+        <tran loc="es-419">padre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@
       <Position>_$!&lt;Anniversary&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">anniversary</base>
-        <tran loc="es">aniversario</tran>
+        <tran loc="es-419">aniversario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@
       <Position>_$!&lt;EX-Anniversary&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">anniversary</base>
-        <tran loc="es">aniversario</tran>
+        <tran loc="es-419">aniversario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1392,7 @@
       <Position>_$!&lt;EX-ImAddress3&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">messaging 3</base>
-        <tran loc="es">mensajería 3</tran>
+        <tran loc="es-419">mensajería 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1400,7 @@
       <Position>_$!&lt;Spouse&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">spouse</base>
-        <tran loc="es">cónyuge</tran>
+        <tran loc="es-419">cónyuge</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1408,7 @@
       <Position>_$!&lt;EX-Manager&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">manager</base>
-        <tran loc="es">jefe</tran>
+        <tran loc="es-419">jefe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1416,7 @@
       <Position>_$!&lt;Manager&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">manager</base>
-        <tran loc="es">jefe</tran>
+        <tran loc="es-419">jefe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1424,7 @@
       <Position>_$!&lt;EX-Telex&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">Telex</base>
-        <tran loc="es">Télex</tran>
+        <tran loc="es-419">Télex</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@
       <Position>_$!&lt;EX-BusinessFax&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work fax</base>
-        <tran loc="es">fax trabajo</tran>
+        <tran loc="es-419">fax trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@
       <Position>_$!&lt;WorkFAX&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">work fax</base>
-        <tran loc="es">fax trabajo</tran>
+        <tran loc="es-419">fax trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@
       <Position>_$!&lt;EX-CompanyMainPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">main corporate</base>
-        <tran loc="es">empresa principal</tran>
+        <tran loc="es-419">empresa principal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>_$!&lt;Child&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">child</base>
-        <tran loc="es">hijo/hija</tran>
+        <tran loc="es-419">hijo(a)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@
       <Position>_$!&lt;Friend&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">friend</base>
-        <tran loc="es">amigo/amiga</tran>
+        <tran loc="es-419">amigo(a)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>_$!&lt;Birthday&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">birthday</base>
-        <tran loc="es">cumpleaños</tran>
+        <tran loc="es-419">cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>_$!&lt;EX-Birthday&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">birthday</base>
-        <tran loc="es">cumpleaños</tran>
+        <tran loc="es-419">cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>_$!&lt;Daughter&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">daughter</base>
-        <tran loc="es">hija</tran>
+        <tran loc="es-419">hija</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1497,7 +1497,7 @@
       <Position>_$!&lt;Phone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">phone</base>
-        <tran loc="es">teléfono</tran>
+        <tran loc="es-419">teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1505,7 +1505,7 @@
       <Position>_$!&lt;Parent&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">parent</base>
-        <tran loc="es">padres</tran>
+        <tran loc="es-419">padres</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1513,7 +1513,7 @@
       <Position>_$!&lt;EX-EmailAddress3&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">email 3</base>
-        <tran loc="es">correo 3</tran>
+        <tran loc="es-419">correo 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1521,7 +1521,7 @@
       <Position>_$!&lt;EX-RadioPhone&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">radio</base>
-        <tran loc="es">radio</tran>
+        <tran loc="es-419">radio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1529,7 +1529,7 @@
       <Position>_$!&lt;Radio&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">radio</base>
-        <tran loc="es">radio</tran>
+        <tran loc="es-419">radio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1537,7 +1537,7 @@
       <Position>_$!&lt;EX-Pager&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">pager</base>
-        <tran loc="es">busca</tran>
+        <tran loc="es-419">radiolocalizador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1545,7 +1545,7 @@
       <Position>_$!&lt;Pager&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">pager</base>
-        <tran loc="es">busca</tran>
+        <tran loc="es-419">radiolocalizador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1553,7 +1553,7 @@
       <Position>_$!&lt;EX-BusinessPhone2&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">alternate work</base>
-        <tran loc="es">segundo trabajo</tran>
+        <tran loc="es-419">segundo trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1561,7 +1561,7 @@
       <Position>_$!&lt;PostalAddress&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">address</base>
-        <tran loc="es">dirección</tran>
+        <tran loc="es-419">domicilio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1569,7 +1569,7 @@
       <Position>_$!&lt;Sister&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">sister</base>
-        <tran loc="es">hermana</tran>
+        <tran loc="es-419">hermana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1577,7 +1577,7 @@
       <Position>_$!&lt;EX-EmailAddress1&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">email 1</base>
-        <tran loc="es">correo 1</tran>
+        <tran loc="es-419">correo 1</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1588,7 +1588,7 @@
       <Position>HomePage</Position>
       <TranslationSet>
         <base loc="en">homepage</base>
-        <tran loc="es">página web</tran>
+        <tran loc="es-419">página web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1596,7 +1596,7 @@
       <Position>Note</Position>
       <TranslationSet>
         <base loc="en">notes</base>
-        <tran loc="es">notas</tran>
+        <tran loc="es-419">notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1604,7 +1604,7 @@
       <Position>MiddlePhonetic</Position>
       <TranslationSet>
         <base loc="en">phonetic middle name</base>
-        <tran loc="es">segundo nombre (fonético)</tran>
+        <tran loc="es-419">segundo nombre (fonético)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1612,7 +1612,7 @@
       <Position>GroupDescription</Position>
       <TranslationSet>
         <base loc="en">group description</base>
-        <tran loc="es">descripción del grupo</tran>
+        <tran loc="es-419">descripción del grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1620,7 +1620,7 @@
       <Position>ABRelatedNamePlural</Position>
       <TranslationSet>
         <base loc="en">related names</base>
-        <tran loc="es">nombres relacionados</tran>
+        <tran loc="es-419">relaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1628,7 +1628,7 @@
       <Position>MaidenName</Position>
       <TranslationSet>
         <base loc="en">maiden name</base>
-        <tran loc="es">nombre de soltera</tran>
+        <tran loc="es-419">nombre de soltera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1636,7 +1636,7 @@
       <Position>Email</Position>
       <TranslationSet>
         <base loc="en">email</base>
-        <tran loc="es">correo</tran>
+        <tran loc="es-419">correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1644,7 +1644,7 @@
       <Position>Middle</Position>
       <TranslationSet>
         <base loc="en">middle</base>
-        <tran loc="es">segundo nombre</tran>
+        <tran loc="es-419">segundo nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1652,7 +1652,7 @@
       <Position>Sound</Position>
       <TranslationSet>
         <base loc="en">ringtone</base>
-        <tran loc="es">tono</tran>
+        <tran loc="es-419">tono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1660,7 +1660,7 @@
       <Position>JobTitle</Position>
       <TranslationSet>
         <base loc="en">job title</base>
-        <tran loc="es">cargo</tran>
+        <tran loc="es-419">cargo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1668,7 +1668,7 @@
       <Position>LastPhonetic</Position>
       <TranslationSet>
         <base loc="en">phonetic last name</base>
-        <tran loc="es">apellidos (fonéticos)</tran>
+        <tran loc="es-419">apellidos (fonéticos)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1676,7 +1676,7 @@
       <Position>Date</Position>
       <TranslationSet>
         <base loc="en">date</base>
-        <tran loc="es">fecha</tran>
+        <tran loc="es-419">fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1684,7 +1684,7 @@
       <Position>Prefix</Position>
       <TranslationSet>
         <base loc="en">prefix</base>
-        <tran loc="es">tratamiento</tran>
+        <tran loc="es-419">prefijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1692,7 +1692,7 @@
       <Position>URLs</Position>
       <TranslationSet>
         <base loc="en">url</base>
-        <tran loc="es">url</tran>
+        <tran loc="es-419">dirección URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1700,7 +1700,7 @@
       <Position>Suffix</Position>
       <TranslationSet>
         <base loc="en">suffix</base>
-        <tran loc="es">sufijo</tran>
+        <tran loc="es-419">sufijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1708,7 +1708,7 @@
       <Position>ABDatePlural</Position>
       <TranslationSet>
         <base loc="en">dates</base>
-        <tran loc="es">fechas</tran>
+        <tran loc="es-419">fechas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1716,7 +1716,7 @@
       <Position>IM</Position>
       <TranslationSet>
         <base loc="en">IM</base>
-        <tran loc="es">chat</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1724,7 +1724,7 @@
       <Position>Last</Position>
       <TranslationSet>
         <base loc="en">last</base>
-        <tran loc="es">último</tran>
+        <tran loc="es-419">último</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1741,7 +1741,7 @@
       <Position>First</Position>
       <TranslationSet>
         <base loc="en">first</base>
-        <tran loc="es">nombre</tran>
+        <tran loc="es-419">primero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1749,7 +1749,7 @@
       <Position>SocialProfile</Position>
       <TranslationSet>
         <base loc="en">social profile</base>
-        <tran loc="es">perfil social</tran>
+        <tran loc="es-419">perfil social</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1757,7 +1757,7 @@
       <Position>Department</Position>
       <TranslationSet>
         <base loc="en">department</base>
-        <tran loc="es">departamento</tran>
+        <tran loc="es-419">departamento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1765,7 +1765,7 @@
       <Position>RelatedNames</Position>
       <TranslationSet>
         <base loc="en">related name</base>
-        <tran loc="es">nombre relacionado</tran>
+        <tran loc="es-419">relación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1773,7 +1773,7 @@
       <Position>Birthday</Position>
       <TranslationSet>
         <base loc="en">birthday</base>
-        <tran loc="es">cumpleaños</tran>
+        <tran loc="es-419">cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1781,7 +1781,7 @@
       <Position>FirstPhonetic</Position>
       <TranslationSet>
         <base loc="en">phonetic first name</base>
-        <tran loc="es">nombre (fonético)</tran>
+        <tran loc="es-419">nombre (fonético)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1789,7 +1789,7 @@
       <Position>Phone</Position>
       <TranslationSet>
         <base loc="en">phone</base>
-        <tran loc="es">teléfono</tran>
+        <tran loc="es-419">teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1797,7 +1797,7 @@
       <Position>Nickname</Position>
       <TranslationSet>
         <base loc="en">nickname</base>
-        <tran loc="es">alias</tran>
+        <tran loc="es-419">apodo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1805,7 +1805,7 @@
       <Position>Address</Position>
       <TranslationSet>
         <base loc="en">address</base>
-        <tran loc="es">dirección</tran>
+        <tran loc="es-419">domicilio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1813,7 +1813,7 @@
       <Position>GroupName</Position>
       <TranslationSet>
         <base loc="en">group name</base>
-        <tran loc="es">nombre del grupo</tran>
+        <tran loc="es-419">nombre del grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1821,7 +1821,7 @@
       <Position>Organization</Position>
       <TranslationSet>
         <base loc="en">company</base>
-        <tran loc="es">empresa</tran>
+        <tran loc="es-419">empresa</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1832,7 +1832,7 @@
       <Position>/_LOCALIZABLE_:dict/contactsSortOrder:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">1</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1840,7 @@
       <Position>/_LOCALIZABLE_:dict/personNameOrdering:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">0</base>
-        <tran loc="es">0</tran>
+        <tran loc="es-419">0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>/_LOCALIZABLE_:dict/personNameOrderingForEdit:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">0</base>
-        <tran loc="es">0</tran>
+        <tran loc="es-419">0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>/_LOCALIZABLE_:dict/personShortNameFormat:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">2</base>
-        <tran loc="es">2</tran>
+        <tran loc="es-419">2</tran>
       </TranslationSet>
     </TextItem>
   </File>

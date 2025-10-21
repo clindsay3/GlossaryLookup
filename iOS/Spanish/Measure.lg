@@ -8,7 +8,7 @@
       <Position>%@ m²</Position>
       <TranslationSet>
         <base loc="en">%@ m²</base>
-        <tran loc="es">%@ m²</tran>
+        <tran loc="es-419">%@ m²</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>%@ m</Position>
       <TranslationSet>
         <base loc="en">%@ m</base>
-        <tran loc="es">%@ m</tran>
+        <tran loc="es-419">%@ m</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>%1$@′ %2$@″</Position>
       <TranslationSet>
         <base loc="en">%1$@′ %2$@″</base>
-        <tran loc="es">%1$@ pies %2$@ pulgadas</tran>
+        <tran loc="es-419">%1$@ ft %2$@ in</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>%1$@′</Position>
       <TranslationSet>
         <base loc="en">%1$@′</base>
-        <tran loc="es">%1$@ pies</tran>
+        <tran loc="es-419">%1$@ ft</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -49,7 +49,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Measure</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Measure</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>SHORTCUT_MEASURE</Position>
       <TranslationSet>
         <base loc="en">Measure</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>ALTERNATE_NAME_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Level</base>
-        <tran loc="es">Nivel</tran>
+        <tran loc="es-419">Nivel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>SHORTCUT_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Level</base>
-        <tran loc="es">Nivel</tran>
+        <tran loc="es-419">Nivel</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -97,7 +97,7 @@
       <Position>/%@ square inches:dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d square inches</base>
-        <tran loc="es">%d pulgadas cuadradas</tran>
+        <tran loc="es-419">%d pulgadas cuadradas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>/%@ feet %@ inches (precise):dict/inches:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.2f inches</base>
-        <tran loc="es">%.2f pulgadas</tran>
+        <tran loc="es-419">%.2f pulgadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>/%@ inches (precise):dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.2f inches</base>
-        <tran loc="es">%.2f pulgadas</tran>
+        <tran loc="es-419">%.2f pulgadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>/%@ centimeters:dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d centimeters</base>
-        <tran loc="es">%d centímetros</tran>
+        <tran loc="es-419">%d centímetros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>/%@ feet %@ inches (precise):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@feet@ %#@inches@</base>
-        <tran loc="es">%#@feet@ %#@inches@</tran>
+        <tran loc="es-419">%#@feet@ %#@inches@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>/%@ feet %@ inches:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@feet@ %#@inches@</base>
-        <tran loc="es">%#@feet@ %#@inches@</tran>
+        <tran loc="es-419">%#@feet@ %#@inches@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>/%@ square feet (precise):dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">one square foot</base>
-        <tran loc="es">un pie cuadrado</tran>
+        <tran loc="es-419">un pie cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>/%@ centimeters (precise):dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">one centimeter</base>
-        <tran loc="es">un centímetro</tran>
+        <tran loc="es-419">un centímetro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>/%@ feet %@ inches (precise):dict/inches:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">one inch</base>
-        <tran loc="es">una pulgada</tran>
+        <tran loc="es-419">una pulgada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>/%@ inches (precise):dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">one inch</base>
-        <tran loc="es">una pulgada</tran>
+        <tran loc="es-419">una pulgada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>/%@ meters (precise):dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">one meter</base>
-        <tran loc="es">un metro</tran>
+        <tran loc="es-419">un metro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>/%@ square centimeters:dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d square centimeter</base>
-        <tran loc="es">%d centímetro cuadrado</tran>
+        <tran loc="es-419">%d centímetro cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>/%@ feet %@ inches (precise):dict/feet:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d feet</base>
-        <tran loc="es">%d pies</tran>
+        <tran loc="es-419">%d pies</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>/%@ feet %@ inches:dict/feet:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d feet</base>
-        <tran loc="es">%d pies</tran>
+        <tran loc="es-419">%d pies</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>/%@ feet:dict/feet:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d feet</base>
-        <tran loc="es">%d pies</tran>
+        <tran loc="es-419">%d pies</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>/%@ square meters (precise):dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">one square meter</base>
-        <tran loc="es">un metro cuadrado</tran>
+        <tran loc="es-419">un metro cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>/%@ feet %@ inches (precise):dict/feet:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d foot</base>
-        <tran loc="es">%d pie</tran>
+        <tran loc="es-419">%d pie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>/%@ feet %@ inches:dict/feet:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d foot</base>
-        <tran loc="es">%d pie</tran>
+        <tran loc="es-419">%d pie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>/%@ feet:dict/feet:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d foot</base>
-        <tran loc="es">%d pie</tran>
+        <tran loc="es-419">%d pie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>/%@ feet %@ inches:dict/inches:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d inch</base>
-        <tran loc="es">%d pulgada</tran>
+        <tran loc="es-419">%d pulgada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>/%@ inches:dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d inch</base>
-        <tran loc="es">%d pulgada</tran>
+        <tran loc="es-419">%d pulgada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>/%@ feet:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@feet@</base>
-        <tran loc="es">%#@feet@</tran>
+        <tran loc="es-419">%#@feet@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>/%@ square inches:dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d square inch</base>
-        <tran loc="es">%d pulgada cuadrada</tran>
+        <tran loc="es-419">%d pulgada cuadrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>/%@ and a half inches:dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d and a half inches</base>
-        <tran loc="es">%d pulgada y media</tran>
+        <tran loc="es-419">%d y media pulgadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>/%@ and a half inches:dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d and a half inches</base>
-        <tran loc="es">%d pulgadas y media</tran>
+        <tran loc="es-419">%d y media pulgadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>/%@ square centimeters:dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d square centimeters</base>
-        <tran loc="es">%d centímetros cuadrados</tran>
+        <tran loc="es-419">%d centímetros cuadrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>/%@ centimeters (precise):dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.2f centimeters</base>
-        <tran loc="es">%.2f centímetros</tran>
+        <tran loc="es-419">%.2f centímetros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -313,7 +313,7 @@
       <Position>/%@ feet %@ inches:dict/inches:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d inches</base>
-        <tran loc="es">%d pulgadas</tran>
+        <tran loc="es-419">%d pulgadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>/%@ inches:dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d inches</base>
-        <tran loc="es">%d pulgadas</tran>
+        <tran loc="es-419">%d pulgadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>/%@ square feet (precise):dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.2f square feet</base>
-        <tran loc="es">%.2f pies cuadrados</tran>
+        <tran loc="es-419">%.2f pies cuadrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>/%@ and a half inches:dict/length:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">half an inch</base>
-        <tran loc="es">pulgadas y media</tran>
+        <tran loc="es-419">media pulgada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>/%@ centimeters:dict/length:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d centimeter</base>
-        <tran loc="es">%d centímetro</tran>
+        <tran loc="es-419">%d centímetro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>/%@ square meters (precise):dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.2f square meters</base>
-        <tran loc="es">%.2f metros cuadrados</tran>
+        <tran loc="es-419">%.2f metros cuadrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>/%@ and a half inches:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>/%@ centimeters (precise):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>/%@ centimeters:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>/%@ inches (precise):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>/%@ inches:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>/%@ meters (precise):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>/%@ square centimeters:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>/%@ square feet (precise):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>/%@ square inches:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -433,7 +433,7 @@
       <Position>/%@ square meters (precise):dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@length@</base>
-        <tran loc="es">%#@length@</tran>
+        <tran loc="es-419">%#@length@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -441,7 +441,7 @@
       <Position>/%@ meters (precise):dict/length:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.2f meters</base>
-        <tran loc="es">%.2f metros</tran>
+        <tran loc="es-419">%.2f metros</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -452,7 +452,7 @@
       <Position>&lt; 1 cm</Position>
       <TranslationSet>
         <base loc="en">&lt; 1 cm</base>
-        <tran loc="es">&lt;1 cm</tran>
+        <tran loc="es-419">&lt; 1 cm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -460,7 +460,7 @@
       <Position>EDIT_BUTTON_ACCESSIBILITY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add a Point</base>
-        <tran loc="es">Añadir un punto</tran>
+        <tran loc="es-419">Agregar un punto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -468,7 +468,7 @@
       <Position>%@ cm</Position>
       <TranslationSet>
         <base loc="en">%@ cm</base>
-        <tran loc="es">%@ cm</tran>
+        <tran loc="es-419">%@ cm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@
       <Position>COMPASS_DEGREES</Position>
       <TranslationSet>
         <base loc="en">%li\U00b0</base>
-        <tran loc="es">%li\U00b0</tran>
+        <tran loc="es-419">%li\U00b0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>Diagonal length: %@</Position>
       <TranslationSet>
         <base loc="en">Diagonal length: %@</base>
-        <tran loc="es">Longitud de la diagonal: %@</tran>
+        <tran loc="es-419">Longitud diagonal: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>DONE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>FIND_SURFACE</Position>
       <TranslationSet>
         <base loc="en">Find a nearby surface to measure</base>
-        <tran loc="es">Busca una superficie cercana que medir</tran>
+        <tran loc="es-419">Encuentra una superficie cercana para medir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@
       <Position>%@½”</Position>
       <TranslationSet>
         <base loc="en">%@½″</base>
-        <tran loc="es">%@ ½ in</tran>
+        <tran loc="es-419">%@½″</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@
       <Position>REFINED_MEASUREMENT</Position>
       <TranslationSet>
         <base loc="en">Refined estimate</base>
-        <tran loc="es">Estimación refinada</tran>
+        <tran loc="es-419">Cálculo refinado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>TOO_CLOSE</Position>
       <TranslationSet>
         <base loc="en">Move farther away</base>
-        <tran loc="es">Aléjate</tran>
+        <tran loc="es-419">Aléjate</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>%@ sq cm</Position>
       <TranslationSet>
         <base loc="en">%@ sq cm</base>
-        <tran loc="es">%@ cm²</tran>
+        <tran loc="es-419">%@ cm²</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>AREA_DETAILS_PLATTER_APPROXIMATELY</Position>
       <TranslationSet>
         <base loc="en">Rectangle (Approximate)</base>
-        <tran loc="es">Rectángulo (aproximado)</tran>
+        <tran loc="es-419">Rectángulo (aproximado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@
       <Position>CLEAR_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Clear</base>
-        <tran loc="es">Borrar</tran>
+        <tran loc="es-419">Borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>DIAGONAL</Position>
       <TranslationSet>
         <base loc="en">Diagonal</base>
-        <tran loc="es">Diagonal</tran>
+        <tran loc="es-419">Diagonal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>MEASUREMENT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Measurement</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>Less than half an inch</Position>
       <TranslationSet>
         <base loc="en">Less than half an inch</base>
-        <tran loc="es">Menos de media pulgada</tran>
+        <tran loc="es-419">Menos de media pulgada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>Half an inch</Position>
       <TranslationSet>
         <base loc="en">Half an inch</base>
-        <tran loc="es">Media pulgada</tran>
+        <tran loc="es-419">Media pulgada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>&lt; ½”</Position>
       <TranslationSet>
         <base loc="en">&lt; ½″</base>
-        <tran loc="es">&lt; ½ in</tran>
+        <tran loc="es-419">&lt; ½″</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>%@ cm²</Position>
       <TranslationSet>
         <base loc="en">%@ cm²</base>
-        <tran loc="es">%@ cm²</tran>
+        <tran loc="es-419">%@ cm²</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>TOO_DARK</Position>
       <TranslationSet>
         <base loc="en">More light required</base>
-        <tran loc="es">Falta luz</tran>
+        <tran loc="es-419">Se necesita más luz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>MOVE_CLOSER</Position>
       <TranslationSet>
         <base loc="en">Move closer</base>
-        <tran loc="es">Acércate</tran>
+        <tran loc="es-419">Acércate</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@
       <Position>%@’²</Position>
       <TranslationSet>
         <base loc="en">%@′²</base>
-        <tran loc="es">%@ ft²</tran>
+        <tran loc="es-419">%@′²</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +633,7 @@
       <Position>%@ sq in</Position>
       <TranslationSet>
         <base loc="en">%@ sq in</base>
-        <tran loc="es">%@ in²</tran>
+        <tran loc="es-419">%@ in²</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +641,7 @@
       <Position>UNDO_BUTTON_ACCESSIBILITY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Undo</base>
-        <tran loc="es">Deshacer</tran>
+        <tran loc="es-419">Deshacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +649,7 @@
       <Position>LINE_DETAILS_PLATTER_APPROXIMATELY</Position>
       <TranslationSet>
         <base loc="en">Length (Approximate)</base>
-        <tran loc="es">Longitud (aproximada)</tran>
+        <tran loc="es-419">Longitud (aproximada)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@
       <Position>%@ by %@</Position>
       <TranslationSet>
         <base loc="en">%@ by %@</base>
-        <tran loc="es">%@ por %@</tran>
+        <tran loc="es-419">%@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@
       <Position>%@”</Position>
       <TranslationSet>
         <base loc="en">%@″</base>
-        <tran loc="es">%@ in</tran>
+        <tran loc="es-419">%@″</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@
       <Position>%@ sq ft</Position>
       <TranslationSet>
         <base loc="en">%@ sq ft</base>
-        <tran loc="es">%@ pies²</tran>
+        <tran loc="es-419">%@ ft²</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +681,7 @@
       <Position>%@”²</Position>
       <TranslationSet>
         <base loc="en">%@″²</base>
-        <tran loc="es">%@ in²</tran>
+        <tran loc="es-419">%@″²</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +689,7 @@
       <Position>COPY_MEASUREMENT</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +697,7 @@
       <Position>ADD_RECTANGLE</Position>
       <TranslationSet>
         <base loc="en">Add a rectangle</base>
-        <tran loc="es">Añadir un rectángulo</tran>
+        <tran loc="es-419">Agregar un rectángulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +705,7 @@
       <Position>MEASURE</Position>
       <TranslationSet>
         <base loc="en">Measure</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +713,7 @@
       <Position>ADD_POINT</Position>
       <TranslationSet>
         <base loc="en">Add a point</base>
-        <tran loc="es">Añadir un punto</tran>
+        <tran loc="es-419">Agregar un punto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +721,7 @@
       <Position>%@ sq m</Position>
       <TranslationSet>
         <base loc="en">%@ sq m</base>
-        <tran loc="es">%@ m²</tran>
+        <tran loc="es-419">%@ m²</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +729,7 @@
       <Position>SLOW_DOWN</Position>
       <TranslationSet>
         <base loc="en">Slow down</base>
-        <tran loc="es">Más despacio</tran>
+        <tran loc="es-419">Más despacio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>Less than one centimeter</Position>
       <TranslationSet>
         <base loc="en">Less than one centimeter</base>
-        <tran loc="es">Menos de un centímetro</tran>
+        <tran loc="es-419">Menos de un centímetro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -745,7 +745,7 @@
       <Position>LEVEL</Position>
       <TranslationSet>
         <base loc="en">Level</base>
-        <tran loc="es">Nivel</tran>
+        <tran loc="es-419">Nivel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -753,7 +753,7 @@
       <Position>CAPTURE_BUTTON_ACCESSIBILITY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Capture</base>
-        <tran loc="es">Capturar</tran>
+        <tran loc="es-419">Capturar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -764,7 +764,7 @@
       <Position>MEASURE_UNITS_IMPERIAL</Position>
       <TranslationSet>
         <base loc="en">Imperial</base>
-        <tran loc="es">Imperiales</tran>
+        <tran loc="es-419">Sistema inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -772,7 +772,7 @@
       <Position>MEASURE_UNITS_METRIC</Position>
       <TranslationSet>
         <base loc="en">Metric</base>
-        <tran loc="es">Métricas</tran>
+        <tran loc="es-419">Sistema internacional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@
       <Position>MEASURE</Position>
       <TranslationSet>
         <base loc="en">Measure</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -791,7 +791,7 @@
       <Position>MEASURE_UNITS</Position>
       <TranslationSet>
         <base loc="en">Measure Units</base>
-        <tran loc="es">Unidades de medida</tran>
+        <tran loc="es-419">Unidades de medición</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -802,7 +802,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Measure</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -815,7 +815,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Measure</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -823,7 +823,7 @@
       <Position>SHORTCUT_MEASURE</Position>
       <TranslationSet>
         <base loc="en">Measure</base>
-        <tran loc="es">Medidas</tran>
+        <tran loc="es-419">Medir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -831,7 +831,7 @@
       <Position>ALTERNATE_NAME_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Level</base>
-        <tran loc="es">Nivel</tran>
+        <tran loc="es-419">Nivel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -839,7 +839,7 @@
       <Position>SHORTCUT_LEVEL</Position>
       <TranslationSet>
         <base loc="en">Level</base>
-        <tran loc="es">Nivel</tran>
+        <tran loc="es-419">Nivel</tran>
       </TranslationSet>
     </TextItem>
   </File>

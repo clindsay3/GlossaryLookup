@@ -16,7 +16,7 @@
       <Position>WOT_24HR_TEXT</Position>
       <TranslationSet>
         <base loc="en">24 HR</base>
-        <tran loc="es">24 H</tran>
+        <tran loc="es-419">24 H</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>WOT_MINUTE_LABEL</Position>
       <TranslationSet>
         <base loc="en">MIN</base>
-        <tran loc="es">MIN</tran>
+        <tran loc="es-419">MIN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>WOT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>WOT_START_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Start</base>
-        <tran loc="es">Iniciar</tran>
+        <tran loc="es-419">Iniciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>WOT_COLON_LABEL</Position>
       <TranslationSet>
         <base loc="en">:</base>
-        <tran loc="es">:</tran>
+        <tran loc="es-419">:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>WOT_SET_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Set</base>
-        <tran loc="es">Ajustar</tran>
+        <tran loc="es-419">Definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>WOT_HOUR_LABEL</Position>
       <TranslationSet>
         <base loc="en">HR</base>
-        <tran loc="es">H</tran>
+        <tran loc="es-419">H</tran>
       </TranslationSet>
     </TextItem>
   </File>

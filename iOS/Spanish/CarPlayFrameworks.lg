@@ -8,7 +8,7 @@
       <Position>MI</Position>
       <TranslationSet>
         <base loc="en">mi</base>
-        <tran loc="es">mi</tran>
+        <tran loc="es-419">mi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>MORE_ROUTES</Position>
       <TranslationSet>
         <base loc="en">More Routes</base>
-        <tran loc="es">Más rutas</tran>
+        <tran loc="es-419">Más rutas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>ARRIVED</Position>
       <TranslationSet>
         <base loc="en">Arrived</base>
-        <tran loc="es">Has llegado</tran>
+        <tran loc="es-419">Llegaste</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>HRS</Position>
       <TranslationSet>
         <base loc="en">hrs</base>
-        <tran loc="es">h</tran>
+        <tran loc="es-419">h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>POSITION_IN_TRIP_PREVIEWS_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ of %2$@</base>
-        <tran loc="es">%1$@ de %2$@</tran>
+        <tran loc="es-419">%1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>REROUTING</Position>
       <TranslationSet>
         <base loc="en">Rerouting…</base>
-        <tran loc="es">Recalculando ruta…</tran>
+        <tran loc="es-419">Recalculando ruta…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>GO</Position>
       <TranslationSet>
         <base loc="en">Go</base>
-        <tran loc="es">Ir</tran>
+        <tran loc="es-419">Ir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>LOCATING</Position>
       <TranslationSet>
         <base loc="en">Locating…</base>
-        <tran loc="es">Localizando…</tran>
+        <tran loc="es-419">Localizando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>MIN</Position>
       <TranslationSet>
         <base loc="en">min</base>
-        <tran loc="es">min</tran>
+        <tran loc="es-419">min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>MINS</Position>
       <TranslationSet>
         <base loc="en">min</base>
-        <tran loc="es">min</tran>
+        <tran loc="es-419">min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>ARRIVAL</Position>
       <TranslationSet>
         <base loc="en">arrival</base>
-        <tran loc="es">llegada</tran>
+        <tran loc="es-419">llegada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>PROCEED_TO_ROUTE</Position>
       <TranslationSet>
         <base loc="en">Proceed to Route</base>
-        <tran loc="es">Ve al inicio de la ruta</tran>
+        <tran loc="es-419">Retomar la ruta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>OVERVIEW</Position>
       <TranslationSet>
         <base loc="en">Overview</base>
-        <tran loc="es">Visión general</tran>
+        <tran loc="es-419">Resumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>KMS</Position>
       <TranslationSet>
         <base loc="en">km</base>
-        <tran loc="es">km</tran>
+        <tran loc="es-419">km</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>HR</Position>
       <TranslationSet>
         <base loc="en">hr</base>
-        <tran loc="es">h</tran>
+        <tran loc="es-419">h</tran>
       </TranslationSet>
     </TextItem>
   </File>

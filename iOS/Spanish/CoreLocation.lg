@@ -8,7 +8,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Compass Calibration</base>
-        <tran loc="es">Calibración de la brújula</tran>
+        <tran loc="es-419">Calibración de brújula</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Altimeter Harvest</base>
-        <tran loc="es">Altímetro Harvest</tran>
+        <tran loc="es-419">Altímetro Harvest</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -30,7 +30,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_REPROMPT_ONE</Position>
       <TranslationSet>
         <base loc="en">“%@” has used your location once in the background over the past 3 days. Do you want to continue to allow background location use?</base>
-        <tran loc="es">“%@” ha usado tu ubicación una vez en segundo plano durante los últimos 3 días. ¿Quieres seguir permitiendo el uso de la ubicación en segundo plano?</tran>
+        <tran loc="es-419">“%@” ha estado usando tu ubicación una vez en segundo plano durante los últimos tres días. ¿Quieres seguir permitiéndoselo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_ONETIME_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Allow Once</base>
-        <tran loc="es">Permitir una vez</tran>
+        <tran loc="es-419">Permitir una vez</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_WHENINUSE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Allow While Using App</base>
-        <tran loc="es">Permitir al usarse la app</tran>
+        <tran loc="es-419">Permitir al usar la app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_ALWAYS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Change to Always Allow</base>
-        <tran loc="es">Cambiar a “Permitir siempre”</tran>
+        <tran loc="es-419">Cambiar a “Permitir siempre”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_WHENINUSE_ONLY_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Change to Only While Using</base>
-        <tran loc="es">Cambiar a “Solo mientras se usa”</tran>
+        <tran loc="es-419">Cambiar a “Sólo al usar”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>LOCATION_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Location Services is Not Available for “%@”</base>
-        <tran loc="es">Localización no disponible para “%@”</tran>
+        <tran loc="es-419">Localización no disponible para “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Allow “%@” to access your location even when you are not using the app?</base>
-        <tran loc="es">¿Permitir a %@ acceder a tu ubicación aunque no estés utilizando la app?</tran>
+        <tran loc="es-419">¿Permitir que “%@” acceda a tu ubicación incluso cuando la app no está en uso?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>IMPROVE_LOCATION_ACCURACY_WLAN</Position>
       <TranslationSet>
         <base loc="en">Turning on WLAN will improve location accuracy.</base>
-        <tran loc="es">Si activas WLAN, la precisión de la localización mejorará.</tran>
+        <tran loc="es-419">Activar WLAN aumenta la precisión de la ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_OK</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>LOCATION_DISABLED_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>LOCATION_CLIENT_PERMISSION</Position>
       <TranslationSet>
         <base loc="en">Allow “%@” to access your location?</base>
-        <tran loc="es">¿Permitir a %@ acceder a tu ubicación?</tran>
+        <tran loc="es-419">¿Permitir que “%@” acceda a tu ubicación?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_WHENINUSE</Position>
       <TranslationSet>
         <base loc="en">Allow “%@” to access your location?</base>
-        <tran loc="es">¿Permitir a %@ acceder a tu ubicación?</tran>
+        <tran loc="es-419">¿Permitir que “%@” acceda a tu ubicación?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_UPGRADE_WHENINUSE_ALWAYS_MESSAGE_LOCKSCREEN</Position>
       <TranslationSet>
         <base loc="en">“%@” would like access to your location even when you are not using the app.</base>
-        <tran loc="es">%@ quiere acceder a tu ubicación incluso cuando no estés usando la app.</tran>
+        <tran loc="es-419">“%@” quiere acceder a tu ubicación incluso cuando la app no esté en uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_REPROMPT_ZERO</Position>
       <TranslationSet>
         <base loc="en">“%@” has been using your location in the background over the past 3 days. Do you want to continue to allow background location use?</base>
-        <tran loc="es">%@ ha estado usando tu ubicación en segundo plano durante los últimos 3 días. ¿Quieres seguir permitiendo el uso en segundo plano?</tran>
+        <tran loc="es-419">%@ estuvo usando tu ubicación en segundo plano durante los últimos tres días. ¿Quieres seguir permitiéndoselo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_KEEP_WHENINUSE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Keep Only While Using</base>
-        <tran loc="es">Mantener “Solo mientras se usa”</tran>
+        <tran loc="es-419">Conservar “Sólo al usar”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">App explanation for always: “%@”\n\nApp explanation for while using: “%@”</base>
-        <tran loc="es">Explicación de la app de la opción Siempre: “%@”\n\nExplicación de la app de la opción “Al usarse la app”: “%@”</tran>
+        <tran loc="es-419">Explicación de la opción Siempre: “%@”\n\nExplicación de la opción \"Al usar la app\": “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_UPGRADE_WHENINUSE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Allow “%@” to also access your location even when you are not using the app?</base>
-        <tran loc="es">¿Permitir a %@ acceder también a tu ubicación aunque no estés utilizando la app?</tran>
+        <tran loc="es-419">¿Permitir que “%@” también acceda a tu ubicación incluso cuando la app no está en uso?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>COMPASS_CALIBRATION</Position>
       <TranslationSet>
         <base loc="en">Please Wave iPhone to Calibrate the Compass</base>
-        <tran loc="es">Mueve el iPhone para calibrar la brújula</tran>
+        <tran loc="es-419">Mueve el iPhone para calibrar la brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>DONT_ALLOW</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_NEVER_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_UPGRADE_WHENINUSE_ALWAYS_TITLE_LOCKSCREEN</Position>
       <TranslationSet>
         <base loc="en">Location Authorization Request</base>
-        <tran loc="es">Solicitud de autorización de ubicación</tran>
+        <tran loc="es-419">Solicitud para autorizar rastreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>LOCATION_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Turn On Location Services to Allow “%@” to Determine Your Location</base>
-        <tran loc="es">Activa la función de localización para que “%@” pueda determinar tu ubicación</tran>
+        <tran loc="es-419">Activa Localización para que “%@” pueda determinar tu ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>IMPROVE_LOCATION_ACCURACY_WIFI</Position>
       <TranslationSet>
         <base loc="en">Turning on Wi-Fi will improve location accuracy.</base>
-        <tran loc="es">Si activas Wi-Fi, la precisión de la localización mejorará.</tran>
+        <tran loc="es-419">Activar Wi-Fi aumenta la precisión de la ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>LOCATION_ACCURACY</Position>
       <TranslationSet>
         <base loc="en">Location Accuracy</base>
-        <tran loc="es">Precisión de la localización</tran>
+        <tran loc="es-419">Precisión de la ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_MESSAGE_REDUCED</Position>
       <TranslationSet>
         <base loc="en">App explanation for always: “%@”\n\nIf you only allow access to your location while you are using the app, some features may not work while this app is in the background.</base>
-        <tran loc="es">Explicación de la app de la opción Siempre: “%@”\n\nSi solo permites acceder a tu ubicación mientras utilizas la app, es posible que algunas características no funcionen mientras la app está en segundo plano.</tran>
+        <tran loc="es-419">Explicación de la opción Siempre: “%@”\n\nSi sólo permites el acceso a tu ubicación mientras estás usando la app, algunas funciones podrían no funcionar mientras esta app esté activa en segundo plano.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>IMPROVE_LOCATION_ACCURACY_BLUETOOTH</Position>
       <TranslationSet>
         <base loc="en">Turning on Bluetooth will improve location accuracy.</base>
-        <tran loc="es">Si activas Bluetooth, la precisión de la localización mejorará.</tran>
+        <tran loc="es-419">Activar Bluetooth aumenta la precisión de la ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>LOCATION_DISABLED_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_KEEP_ALWAYS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Always Allow</base>
-        <tran loc="es">Permitir siempre</tran>
+        <tran loc="es-419">Permitir siempre</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -289,7 +289,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Setting Time Zone</base>
-        <tran loc="es">Zona horaria</tran>
+        <tran loc="es-419">Zona horaria</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -300,7 +300,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Motion Calibration &amp; Distance</base>
-        <tran loc="es">Calibración del desplaz.</tran>
+        <tran loc="es-419">Calibración al desplazar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -311,7 +311,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Popular Near Me</base>
-        <tran loc="es">Populares cerca</tran>
+        <tran loc="es-419">Populares cerca</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -322,7 +322,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">System Customization</base>
-        <tran loc="es">Personalización del sistema</tran>
+        <tran loc="es-419">Personalización del sistema</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -333,7 +333,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Routing &amp; Traffic</base>
-        <tran loc="es">Enrutamiento y tráfico</tran>
+        <tran loc="es-419">Rutas y tráfico</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -344,7 +344,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_UPGRADE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">View the locations received…</base>
-        <tran loc="es">Ver las ubicaciones recibidas…</tran>
+        <tran loc="es-419">Ver las ubicaciones recibidas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>LOCATION_CLIENT_PERMISSION_UPGRADE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">“%@” has received %tu locations and has been launched in response to location %tu times.</base>
-        <tran loc="es">“%@” ha recibido %tu ubicaciones y se ha lanzado en respuesta a la ubicación %tu veces.</tran>
+        <tran loc="es-419">“%@” recibió %tu ubicaciones y se inició en respuesta a la ubicación %tu veces.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -363,7 +363,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">App Suggestions</base>
-        <tran loc="es">Sugerencias de apps</tran>
+        <tran loc="es-419">Sugerencias de apps</tran>
       </TranslationSet>
     </TextItem>
   </File>

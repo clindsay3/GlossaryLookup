@@ -8,7 +8,7 @@
       <Position>stat</Position>
       <TranslationSet>
         <base loc="en">Status</base>
-        <tran loc="es">Estado</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>name</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Serv Reg as %@</Position>
       <TranslationSet>
         <base loc="en">Now discoverable as %@</base>
-        <tran loc="es">Ahora visible como %@</tran>
+        <tran loc="es-419">Ahora visible como %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>stopping</Position>
       <TranslationSet>
         <base loc="en">Stopping Service…</base>
-        <tran loc="es">Deteniendo servicio…</tran>
+        <tran loc="es-419">Deteniendo el servicio…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Ext Devs</Position>
       <TranslationSet>
         <base loc="en">Bluetooth MIDI Devices</base>
-        <tran loc="es">Dispositivos MIDI por Bluetooth</tran>
+        <tran loc="es-419">Dispositivos MIDI por Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Input</Position>
       <TranslationSet>
         <base loc="en">Input</base>
-        <tran loc="es">Entrada</tran>
+        <tran loc="es-419">Entrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Searching</Position>
       <TranslationSet>
         <base loc="en">Searching for Bluetooth LE MIDI Devices…</base>
-        <tran loc="es">Buscando dispositivos MIDI Bluetooth LE…</tran>
+        <tran loc="es-419">Buscando dispositivos Bluetooth LE MIDI…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Offline</Position>
       <TranslationSet>
         <base loc="en">Offline</base>
-        <tran loc="es">Sin conexión</tran>
+        <tran loc="es-419">Sin conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Advertise as %@</Position>
       <TranslationSet>
         <base loc="en">Select Advertise to be discoverable as %@</base>
-        <tran loc="es">Selecciona Anunciar para mostrarte visible como %@</tran>
+        <tran loc="es-419">Selecciona "Anunciar" para ser visible como %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>rdy</Position>
       <TranslationSet>
         <base loc="en">Ready</base>
-        <tran loc="es">Listo</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Forget</Position>
       <TranslationSet>
         <base loc="en">Forget</base>
-        <tran loc="es">Olvidar</tran>
+        <tran loc="es-419">Olvidar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>stopErr</Position>
       <TranslationSet>
         <base loc="en">There has been an error stopping the service.</base>
-        <tran loc="es">Se ha producido un error al detener el servicio.</tran>
+        <tran loc="es-419">Se presentó un error al detener el servicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>/</Position>
       <TranslationSet>
         <base loc="en">/</base>
-        <tran loc="es">/</tran>
+        <tran loc="es-419">/</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>startErr</Position>
       <TranslationSet>
         <base loc="en">There has been an error starting the service.</base>
-        <tran loc="es">Se ha producido un error al iniciar el servicio.</tran>
+        <tran loc="es-419">Se presentó un error al iniciar el servicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Advertise</Position>
       <TranslationSet>
         <base loc="en">Advertise MIDI Service</base>
-        <tran loc="es">Servicio de publicidad MIDI</tran>
+        <tran loc="es-419">Anunciar servicio MIDI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>My Service</Position>
       <TranslationSet>
         <base loc="en">Local Bluetooth</base>
-        <tran loc="es">Bluetooth local</tran>
+        <tran loc="es-419">Bluetooth local</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>dis...</Position>
       <TranslationSet>
         <base loc="en">Disconnecting</base>
-        <tran loc="es">Desconectando</tran>
+        <tran loc="es-419">Desconectando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Settings</Position>
       <TranslationSet>
         <base loc="en">Peripheral Settings</base>
-        <tran loc="es">Ajustes de periféricos</tran>
+        <tran loc="es-419">Configuración de periféricos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>Connected</Position>
       <TranslationSet>
         <base loc="en">Connected</base>
-        <tran loc="es">Conectado</tran>
+        <tran loc="es-419">Conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>starting</Position>
       <TranslationSet>
         <base loc="en">Registering Service…</base>
-        <tran loc="es">Registrando servicio…</tran>
+        <tran loc="es-419">Registrando servicio…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>Local MIDI Service</Position>
       <TranslationSet>
         <base loc="en">Local MIDI Service</base>
-        <tran loc="es">Servicio MIDI local</tran>
+        <tran loc="es-419">Servicio local MIDI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>Connected to %@</Position>
       <TranslationSet>
         <base loc="en">Connected to %@. Advertising disabled.</base>
-        <tran loc="es">Conectado a %@. Modo de anuncio desactivado.</tran>
+        <tran loc="es-419">Conectado a %@. Se desactivaron los anuncios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>Not Connected</Position>
       <TranslationSet>
         <base loc="en">Not Connected</base>
-        <tran loc="es">No conectado</tran>
+        <tran loc="es-419">No conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>Serv Name</Position>
       <TranslationSet>
         <base loc="en">Service Name</base>
-        <tran loc="es">Nombre del servicio</tran>
+        <tran loc="es-419">Nombre del servicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>con...</Position>
       <TranslationSet>
         <base loc="en">Connecting…</base>
-        <tran loc="es">Conectando…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>Output</Position>
       <TranslationSet>
         <base loc="en">Output</base>
-        <tran loc="es">Salida</tran>
+        <tran loc="es-419">Salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Disconnecting %@</Position>
       <TranslationSet>
         <base loc="en">Disconnecting from %@…</base>
-        <tran loc="es">Desconectándose de %@…</tran>
+        <tran loc="es-419">Desconectando de %@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>disconnectErr</Position>
       <TranslationSet>
         <base loc="en">There has been an error disconnecting.</base>
-        <tran loc="es">Se ha producido un error al desconectarse.</tran>
+        <tran loc="es-419">Se presentó un error al desconectar.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -243,7 +243,7 @@
       <Position>/%d device(s) found:dict/devices:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d device found</base>
-        <tran loc="es">Se ha encontrado %d dispositivo</tran>
+        <tran loc="es-419">Se encontró %d dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>/%d device(s) found:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@devices@</base>
-        <tran loc="es">%#@devices@</tran>
+        <tran loc="es-419">%#@devices@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>/%d device(s) found:dict/devices:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d devices found</base>
-        <tran loc="es">Se han encontrado %d dispositivos</tran>
+        <tran loc="es-419">Se encontraron %d dispositivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>/%d device(s) found:dict/devices:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No devices found</base>
-        <tran loc="es">No se ha encontrado ningún dispositivo</tran>
+        <tran loc="es-419">No se encontró ningún dispositivo</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -278,7 +278,7 @@
       <Position>Samps</Position>
       <TranslationSet>
         <base loc="en">Samps</base>
-        <tran loc="es">Muestras</tran>
+        <tran loc="es-419">Muestras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>BPM</Position>
       <TranslationSet>
         <base loc="en">BPM</base>
-        <tran loc="es">BPM</tran>
+        <tran loc="es-419">BPM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>8ve</Position>
       <TranslationSet>
         <base loc="en">8ve</base>
-        <tran loc="es">8va</tran>
+        <tran loc="es-419">8va.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>Ratio</Position>
       <TranslationSet>
         <base loc="en">Ratio</base>
-        <tran loc="es">Proporción</tran>
+        <tran loc="es-419">Proporción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>Degr.</Position>
       <TranslationSet>
         <base loc="en">°</base>
-        <tran loc="es">°</tran>
+        <tran loc="es-419">°</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>Cents</Position>
       <TranslationSet>
         <base loc="en">Cents</base>
-        <tran loc="es">Cents</tran>
+        <tran loc="es-419">Centésimas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>Mtrs</Position>
       <TranslationSet>
         <base loc="en">Mtrs</base>
-        <tran loc="es">metros</tran>
+        <tran loc="es-419">Metros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -343,7 +343,7 @@
       <Position>T/F</Position>
       <TranslationSet>
         <base loc="en">T/F</base>
-        <tran loc="es">T/F</tran>
+        <tran loc="es-419">V/F</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +351,7 @@
       <Position>L/R</Position>
       <TranslationSet>
         <base loc="en">L/R</base>
-        <tran loc="es">I/D</tran>
+        <tran loc="es-419">I/D</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -359,7 +359,7 @@
       <Position>Hz</Position>
       <TranslationSet>
         <base loc="en">Hz</base>
-        <tran loc="es">Hz</tran>
+        <tran loc="es-419">Hz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -367,7 +367,7 @@
       <Position>Gain</Position>
       <TranslationSet>
         <base loc="en">Gain</base>
-        <tran loc="es">Ganancia</tran>
+        <tran loc="es-419">Ganancia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -375,7 +375,7 @@
       <Position>MIDI</Position>
       <TranslationSet>
         <base loc="en">MIDI</base>
-        <tran loc="es">MIDI</tran>
+        <tran loc="es-419">MIDI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +383,7 @@
       <Position>Beats</Position>
       <TranslationSet>
         <base loc="en">Beats</base>
-        <tran loc="es">Tiempos</tran>
+        <tran loc="es-419">Pulsos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>Secs</Position>
       <TranslationSet>
         <base loc="en">Secs</base>
-        <tran loc="es">s</tran>
+        <tran loc="es-419">Seg.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>msecs</Position>
       <TranslationSet>
         <base loc="en">msecs</base>
-        <tran loc="es">ms</tran>
+        <tran loc="es-419">ms</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>dB</Position>
       <TranslationSet>
         <base loc="en">dB</base>
-        <tran loc="es">dB</tran>
+        <tran loc="es-419">dB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>S-T</Position>
       <TranslationSet>
         <base loc="en">S-T</base>
-        <tran loc="es">S-T</tran>
+        <tran loc="es-419">S-T</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>%</Position>
       <TranslationSet>
         <base loc="en">%</base>
-        <tran loc="es">%</tran>
+        <tran loc="es-419">%</tran>
       </TranslationSet>
     </TextItem>
   </File>

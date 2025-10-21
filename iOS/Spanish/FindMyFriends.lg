@@ -8,7 +8,7 @@
       <Position>hJa-AB-BNC.segmentTitles[0]</Position>
       <TranslationSet>
         <base loc="en">Standard</base>
-        <tran loc="es">Estándar</tran>
+        <tran loc="es-419">Estándar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>hJa-AB-BNC.segmentTitles[2]</Position>
       <TranslationSet>
         <base loc="en">Satellite</base>
-        <tran loc="es">Satélite</tran>
+        <tran loc="es-419">Satélite</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>hJa-AB-BNC.segmentTitles[1]</Position>
       <TranslationSet>
         <base loc="en">Hybrid</base>
-        <tran loc="es">Híbrido</tran>
+        <tran loc="es-419">Híbrido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>VYe-sE-0xP.normalTitle</Position>
       <TranslationSet>
         <base loc="en">DNT Map Attribution</base>
-        <tran loc="es">DNT Map Attribution</tran>
+        <tran loc="es-419">DNT Map Attribution</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>1oW-bz-7fd.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Open In Maps</base>
-        <tran loc="es">Abrir en Mapas</tran>
+        <tran loc="es-419">Abrir en Mapas</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -51,7 +51,7 @@
       <Position>OFFER_TIME_REMAINING_LESS_THAN_A_MINUTE</Position>
       <TranslationSet>
         <base loc="en">Less than a minute left</base>
-        <tran loc="es">Queda menos de un minuto</tran>
+        <tran loc="es-419">Queda menos de un minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>SHARE_LOCATION_FROM</Position>
       <TranslationSet>
         <base loc="en">Share Location From</base>
-        <tran loc="es">Compartir ubicación desde</tran>
+        <tran loc="es-419">Compartir ubicación desde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>ACCESSIBILITY_REFRESH_BUTTON_HINT</Position>
       <TranslationSet>
         <base loc="en">Use this button to refresh locations.</base>
-        <tran loc="es">Usa este botón para actualizar las ubicaciones.</tran>
+        <tran loc="es-419">Usa este botón para actualizar las ubicaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>NOT_SELECTED</Position>
       <TranslationSet>
         <base loc="en">Not Selected</base>
-        <tran loc="es">No seleccionado</tran>
+        <tran loc="es-419">No se seleccionó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>THIS_DEVICE_AND_PAIRED_WATCHES</Position>
       <TranslationSet>
         <base loc="en">This device and cellular Apple Watches</base>
-        <tran loc="es">Este dispositivo y los Apple Watch con datos móviles</tran>
+        <tran loc="es-419">Este dispositivo y modelos de Apple Watch con datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>FIND_MY_DEVICE_FOOTER_IPAD</Position>
       <TranslationSet>
         <base loc="en">Enables your iPad and other supported accessories to be shown on the map.</base>
-        <tran loc="es">Muestra el iPad y otros accesorios compatibles en el mapa.</tran>
+        <tran loc="es-419">Permite que se muestre en el mapa tu iPad y otros accesorios compatibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>APP_NAME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Find My</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Encontrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>LOCATION_SHARING</Position>
       <TranslationSet>
         <base loc="en">Find My</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Encontrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>SHARE_MY_LOCATION</Position>
       <TranslationSet>
         <base loc="en">Share My Location</base>
-        <tran loc="es">Compartir mi ubicación</tran>
+        <tran loc="es-419">Compartir ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>FIND_MY_DEVICE_SWITCH_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Find My iPhone</base>
-        <tran loc="es">Buscar mi iPhone</tran>
+        <tran loc="es-419">Buscar Mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>DIRECTIONS</Position>
       <TranslationSet>
         <base loc="en">Directions</base>
-        <tran loc="es">Ruta</tran>
+        <tran loc="es-419">Cómo llegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>DEVICE_LIST_FOOTER</Position>
       <TranslationSet>
         <base loc="en">The location of the selected device and any paired cellular Apple Watch will be shared with family and friends in Messages and Find My.\n\nIf you’re no longer using a device, swipe left on the device name, then tap Delete.</base>
-        <tran loc="es">La ubicación del dispositivo seleccionado y de los Apple Watch con datos móviles enlazados se compartirá con familiares y amigos en Mensajes y Buscar.\n\nSi vas a dejar de utilizar un dispositivo, desliza un dedo hacia la izquierda sobre el nombre del dispositivo y pulsa Eliminar.</tran>
+        <tran loc="es-419">La ubicación del dispositivo seleccionado y de cualquier Apple Watch enlazado se compartirá con familia y amigos en Mensajes y Encontrar.\n\nSi ya no estás usando cierto dispositivo, desliza su nombre a la izquierda y luego toca Eliminar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>ACCESSIBILITY_REFRESH_BUTTON_VALUE_NOT_REFRESHING</Position>
       <TranslationSet>
         <base loc="en">Not Refreshing</base>
-        <tran loc="es">No se está actualizando</tran>
+        <tran loc="es-419">No se está actualizando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>ALERT_NO_NETWORK_TITLE_AIRPLANE_MODE</Position>
       <TranslationSet>
         <base loc="en">Turn Off Airplane Mode or Use Wi-Fi to Access Data</base>
-        <tran loc="es">Desactiva el modo Avión o utiliza la conexión Wi-Fi para acceder a los datos</tran>
+        <tran loc="es-419">Para acceder a tus datos, desactiva “Modo de vuelo” o usa Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>FIND_MY_DEVICE_SWITCH_IPOD</Position>
       <TranslationSet>
         <base loc="en">Find My iPod</base>
-        <tran loc="es">Buscar mi iPod</tran>
+        <tran loc="es-419">Buscar Mi iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>ALERT_NO_NETWORK_MESSAGE_CELLULAR_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Turn on cellular data or use Wi-Fi to access data.</base>
-        <tran loc="es">Activa la conexión de datos móviles o utiliza la red Wi-Fi para acceder a los datos.</tran>
+        <tran loc="es-419">Para acceder a tus datos, activa los datos celulares o usa Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>LOCATING</Position>
       <TranslationSet>
         <base loc="en">Locating…</base>
-        <tran loc="es">Localizando…</tran>
+        <tran loc="es-419">Localizando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>OFFER_TIME_REMAINING_HOURS</Position>
       <TranslationSet>
         <base loc="en">%1$@ hours left</base>
-        <tran loc="es">Quedan %1$@ horas</tran>
+        <tran loc="es-419">Quedan %1$@ horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>FOLLOWERS_HEADER</Position>
       <TranslationSet>
         <base loc="en">FRIENDS</base>
-        <tran loc="es">AMIGOS</tran>
+        <tran loc="es-419">AMIGOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>THIS_DEVICE</Position>
       <TranslationSet>
         <base loc="en">This Device</base>
-        <tran loc="es">Este dispositivo</tran>
+        <tran loc="es-419">Este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>THIS_DEVICE_SELECTION</Position>
       <TranslationSet>
         <base loc="en">This Device</base>
-        <tran loc="es">Este dispositivo</tran>
+        <tran loc="es-419">Este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>ACCESSIBILITY_REFRESH_BUTTON_VALUE_REFRESHING</Position>
       <TranslationSet>
         <base loc="en">Refreshing</base>
-        <tran loc="es">Actualizando</tran>
+        <tran loc="es-419">Actualizando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>OPEN_IN_MAPS</Position>
       <TranslationSet>
         <base loc="en">Open in Maps</base>
-        <tran loc="es">Abrir en Mapas</tran>
+        <tran loc="es-419">Abrir en Mapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>FAMILY_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Family members you share location with can also see the location of your devices in Find My iPhone.</base>
-        <tran loc="es">Los miembros de la familia con los que compartas tu ubicación también podrán ver la ubicación de tus dispositivos en Buscar mi iPhone.</tran>
+        <tran loc="es-419">Los familiares con los cuales compartes la ubicación también pueden ver la de tus dispositivos en Buscar mi iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>OFFER_TIME_REMAINING_HOURS_MINUTE</Position>
       <TranslationSet>
         <base loc="en">%1$@ hours %2$@ minute left</base>
-        <tran loc="es">Quedan %1$@ horas y %2$@ minuto</tran>
+        <tran loc="es-419">Quedan %1$@ horas, %2$@ minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>CHANGE_ME_DEVICE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Use This iPhone as My Location</base>
-        <tran loc="es">Usar este iPhone como mi ubicación</tran>
+        <tran loc="es-419">Usar este iPhone como mi ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>SHARE_MY_LOCATION_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Share your location with family and friends in Messages and Find My, make personal requests using Siri on HomePod, and use automations in the Home app.</base>
-        <tran loc="es">Comparte tu ubicación con familiares y amigos en Mensajes y Buscar, hazle peticiones personales a Siri con el HomePod y usa automatizaciones en la app Casa.</tran>
+        <tran loc="es-419">Comparte tu ubicación con familiares y amigos en Mensajes y Encontrar, realiza peticiones individuales mediante Siri en HomePod, y también utiliza automatizaciones en la app Casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>GENERIC_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share My Location Unavailable</base>
-        <tran loc="es">Compartir mi ubicación: no disponible</tran>
+        <tran loc="es-419">"Compartir ubicación" no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>OFFER_TIME_REMAINING_MINUTE</Position>
       <TranslationSet>
         <base loc="en">%1$@ minute left</base>
-        <tran loc="es">Queda %1$@ minuto</tran>
+        <tran loc="es-419">Queda %1$@ minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>FIND_MY_DEVICE_SWITCH_IPAD</Position>
       <TranslationSet>
         <base loc="en">Find My iPad</base>
-        <tran loc="es">Buscar mi iPad</tran>
+        <tran loc="es-419">Buscar Mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>OFFER_TIME_REMAINING_HOUR</Position>
       <TranslationSet>
         <base loc="en">%1$@ hour left</base>
-        <tran loc="es">Queda %1$@ hora</tran>
+        <tran loc="es-419">Queda %1$@ hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -313,7 +313,7 @@
       <Position>OFFER_TIME_REMAINING_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%1$@ minutes left</base>
-        <tran loc="es">Quedan %1$@ minutos</tran>
+        <tran loc="es-419">Quedan %1$@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>NO_FOLLOWERS_HEADER</Position>
       <TranslationSet>
         <base loc="en">People who can see your location will appear here.</base>
-        <tran loc="es">Aquí aparecerán las personas que pueden ver tu ubicación.</tran>
+        <tran loc="es-419">Aquí se mostrarán las personas que pueden ver tu ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>OFFER_TIME_REMAINING_HOUR_MINUTE</Position>
       <TranslationSet>
         <base loc="en">%1$@ hour %2$@ minute left</base>
-        <tran loc="es">Queda %1$@ hora y %2$@ minuto</tran>
+        <tran loc="es-419">Queda %1$@ hora, %2$@ minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>ALERT_NO_NETWORK_TITLE_NO_INTERNET</Position>
       <TranslationSet>
         <base loc="en">Your Device Is Not Connected to the Internet</base>
-        <tran loc="es">El dispositivo no está conectado a internet</tran>
+        <tran loc="es-419">Tu dispositivo no está conectado a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>FIND_MY_DEVICE_ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>CHANGE_ME_DEVICE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Use This iPod as My Location</base>
-        <tran loc="es">Usar este iPod como mi ubicación</tran>
+        <tran loc="es-419">Usar este iPod como mi ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>OFFER_TIME_REMAINING_HOUR_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%1$@ hour %2$@ minutes left</base>
-        <tran loc="es">Queda %1$@ hora y %2$@ minutos</tran>
+        <tran loc="es-419">Queda %1$@ hora, %2$@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>FIND_MY_DEVICE_FOOTER_IPOD</Position>
       <TranslationSet>
         <base loc="en">Enables your iPod and other supported accessories to be shown on the map.</base>
-        <tran loc="es">Muestra el iPod y otros accesorios compatibles en el mapa.</tran>
+        <tran loc="es-419">Permite que se muestre en el mapa tu iPod y otros accesorios compatibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>FIND_MY_DEVICE_FOOTER_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Enables your iPhone and other supported accessories to be shown on the map.</base>
-        <tran loc="es">Muestra el iPhone y otros accesorios compatibles en el mapa.</tran>
+        <tran loc="es-419">Permite que se muestre en el mapa tu iPhone y otros accesorios compatibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>ACCESSIBILITY_REFRESH_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Refresh</base>
-        <tran loc="es">Actualizar</tran>
+        <tran loc="es-419">Actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>AND_WATCHES</Position>
       <TranslationSet>
         <base loc="en">and cellular Apple Watches</base>
-        <tran loc="es">y los Apple Watch con datos móviles</tran>
+        <tran loc="es-419">y modelos de Apple Watch con datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>OFFER_TIME_REMAINING_HOURS_MINUTES</Position>
       <TranslationSet>
         <base loc="en">%1$@ hours %2$@ minutes left</base>
-        <tran loc="es">Quedan %1$@ horas y %2$@ minutos</tran>
+        <tran loc="es-419">Quedan %1$@ horas, %2$@ minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>FAMILY_HEADER</Position>
       <TranslationSet>
         <base loc="en">FAMILY</base>
-        <tran loc="es">FAMILIA</tran>
+        <tran loc="es-419">FAMILIA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>GENERIC_ALERT_TEXT</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to server. Please try again later.</base>
-        <tran loc="es">Imposible establecer conexión con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede conectar al servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>LOCATION_NOT_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Location Not Available</base>
-        <tran loc="es">Ubicación no disponible</tran>
+        <tran loc="es-419">Ubicación no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -433,7 +433,7 @@
       <Position>FAMILY_HIDING</Position>
       <TranslationSet>
         <base loc="en">Cannot see your location.</base>
-        <tran loc="es">No puede ver tu ubicación.</tran>
+        <tran loc="es-419">No puede ver tu ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -441,7 +441,7 @@
       <Position>FROM_TITLE</Position>
       <TranslationSet>
         <base loc="en">My Location</base>
-        <tran loc="es">Mi ubicación</tran>
+        <tran loc="es-419">Mi ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -449,7 +449,7 @@
       <Position>REMOVE_FOLLOWER</Position>
       <TranslationSet>
         <base loc="en">Stop Sharing My Location</base>
-        <tran loc="es">No compartir ubicación</tran>
+        <tran loc="es-419">Dejar de compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -457,7 +457,7 @@
       <Position>ADDRESS_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Address Unavailable</base>
-        <tran loc="es">Dirección no disponible</tran>
+        <tran loc="es-419">Dirección no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -465,7 +465,7 @@
       <Position>CHANGE_ME_DEVICE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Use This iPad as My Location</base>
-        <tran loc="es">Usar este iPad como mi ubicación</tran>
+        <tran loc="es-419">Usar este iPad como mi ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@
       <Position>ALERT_NO_NETWORK_ACTION_BUTTON_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@
       <Position>FIND_MY_DEVICE_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>SHARE_FOOTER_LOC_SVCS_OFF</Position>
       <TranslationSet>
         <base loc="en">Sharing your location from this device is disabled. Turn on Location Services to enable it, or choose another device.</base>
-        <tran loc="es">La función de compartir la ubicación está desactivada en este dispositivo. Activa la localización para activarla o selecciona otro dispositivo.</tran>
+        <tran loc="es-419">Este dispositivo tiene desactivada la función de compartir ubicación. Activa la función Localización para permitirla o selecciona otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>ALERT_NO_NETWORK_TITLE_CELLULAR_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Cellular Data is Turned Off</base>
-        <tran loc="es">La conexión de datos móviles está desactivada</tran>
+        <tran loc="es-419">Datos celulares desactivados</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -508,7 +508,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_LEAVE_LOCATION_EVERY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified every time you leave %2$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones cada vez que salgas de %2$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cada vez que salgas de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -516,7 +516,7 @@
       <Position>FENCE_TRIGGER_DID_NOT_ARRIVE_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">You did not arrive at %2$@ by %3$@. %1$@ is notified any time that you are not at %2$@ between %3$@ and %4$@, %5$@.</base>
-        <tran loc="es">No has llegado a %2$@ antes de las %3$@. %1$@ recibirá notificaciones cada vez que no estés en %2$@ entre las %3$@ y las %4$@ los %5$@.</tran>
+        <tran loc="es-419">No llegaste a %2$@ antes de la(s) %3$@. %1$@ recibirá una notificación cada vez que no estés en %2$@ entre la(s) %3$@ y la(s) %4$@, los %5$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -524,7 +524,7 @@
       <Position>DAYSLIST_5</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@, %3$@, %4$@, and %5$@</base>
-        <tran loc="es">%1$@, %2$@, %3$@, %4$@ y %5$@</tran>
+        <tran loc="es-419">%1$@, %2$@, %3$@, %4$@ y %5$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -532,7 +532,7 @@
       <Position>DAYSLIST_6</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@, %3$@, %4$@, %5$@, and %6$@</base>
-        <tran loc="es">%1$@, %2$@, %3$@, %4$@, %5$@ y %6$@</tran>
+        <tran loc="es-419">%1$@, %2$@, %3$@, %4$@, %5$@ y %6$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -540,7 +540,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I am not at %2$@ between %3$@ and %4$@.</base>
-        <tran loc="es">Notifica a %1$@ si no estoy en %2$@ entre las %3$@ y las %4$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cuando yo no esté en %2$@ entre la(s) %3$@ y la(s) %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -548,7 +548,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BETWEEN_TIMES_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I am not at %2$@ between %3$@ and %4$@.</base>
-        <tran loc="es">Notifica a %1$@ si no estoy en %2$@ entre las %3$@ y las %4$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cuando yo no esté en %2$@ entre la(s) %3$@ y la(s) %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -556,7 +556,7 @@
       <Position>FENCE_TRIGGERED_FRIEND_COULD_NOT_DETERMINE_AT_LOCATION_BY_TIME</Position>
       <TranslationSet>
         <base loc="en">Could not determine if %1$@ was at %2$@ by %3$@.</base>
-        <tran loc="es">No se ha podido determinar si %1$@ estaba en %2$@ a las %3$@.</tran>
+        <tran loc="es-419">No se pudo determinar si %1$@ llegó a %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -564,7 +564,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified when you are not at %2$@ between %3$@ and %4$@,  %5$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones si no estás en %2$@ entre las %3$@ y las %4$@ los %5$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cuando no estés en %2$@ entre la(s) %3$@ y la(s) %4$@, los %5$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +573,7 @@
       <Position>FENCE_TRIGGER_DID_NOT_ARRIVE_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
       <TranslationSet>
         <base loc="en">You did not arrive at %2$@ by %3$@. %1$@ is notified any time that you are not at %2$@ between %3$@ and %4$@.</base>
-        <tran loc="es">No has llegado a %2$@ antes de las %3$@. %1$@ recibirá notificaciones cada vez que no estés en %2$@ entre las %3$@ y las %4$@.</tran>
+        <tran loc="es-419">No llegaste a %2$@ antes de la(s) %3$@. %1$@ recibirá una notificación cada vez que no estés en %2$@ entre la(s) %3$@ y la(s) %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -582,7 +582,7 @@
       <Position>FENCE_TRIGGERED_FRIEND_LEFT</Position>
       <TranslationSet>
         <base loc="en">%1$@ left %2$@.</base>
-        <tran loc="es">%1$@ ha salido de %2$@.</tran>
+        <tran loc="es-419">%1$@ salió de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -590,7 +590,7 @@
       <Position>DAYSLIST_4</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@, %3$@, and %4$@</base>
-        <tran loc="es">%1$@, %2$@, %3$@ y %4$@</tran>
+        <tran loc="es-419">%1$@, %2$@, %3$@ y %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>DAYSLIST_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">every day</base>
-        <tran loc="es">todos los días</tran>
+        <tran loc="es-419">todos los días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARRIVE_AT_LOCATION_EVERY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified every time you arrive at %2$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones cada vez que llegues a %2$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cada vez que llegues a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>DAYSLIST_3</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@, and %3$@</base>
-        <tran loc="es">%1$@, %2$@ y %3$@</tran>
+        <tran loc="es-419">%1$@, %2$@ y %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ by %2$@</base>
-        <tran loc="es">%1$@ antes de las %2$@</tran>
+        <tran loc="es-419">%1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I am not at %2$@ between %3$@ and %4$@,  %5$@.</base>
-        <tran loc="es">Notifica a %1$@ si no estoy en %2$@ entre las %3$@ y las %4$@ los %5$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cuando yo no esté en %2$@ entre la(s) %3$@ y la(s) %4$@, los %5$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>DAYSLIST_1</Position>
       <TranslationSet>
         <base loc="en">%1$@s</base>
-        <tran loc="es">%1$@</tran>
+        <tran loc="es-419">%1$@ s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>FENCE_TRIGGERED_FRIEND_DEPARTED_LOCATION_BEFORE_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ left %2$@ before %3$@.</base>
-        <tran loc="es">%1$@ ha salido de %2$@ antes de las %3$@.</tran>
+        <tran loc="es-419">%1$@ salió de %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>DAYSLIST_2</Position>
       <TranslationSet>
         <base loc="en">%1$@ and %2$@</base>
-        <tran loc="es">%1$@ y %2$@</tran>
+        <tran loc="es-419">%1$@ y %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>DAYSLIST_CONTIGUOUS_2</Position>
       <TranslationSet>
         <base loc="en">%1$@ and %2$@</base>
-        <tran loc="es">%1$@ y %2$@</tran>
+        <tran loc="es-419">%1$@ y %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you are not at %2$@ between %3$@ and %4$@.</base>
-        <tran loc="es">%1$@ recibirá notificaciones si no estás en %2$@ entre las %3$@ y las %4$@.</tran>
+        <tran loc="es-419">Se notificará a %1$@ cuando no estés en %2$@ entre la(s) %3$@ y la(s) %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you are not at %2$@ between %3$@ and %4$@.</base>
-        <tran loc="es">%1$@ recibirá notificaciones si no estás en %2$@ entre las %3$@ y las %4$@.</tran>
+        <tran loc="es-419">Se notificará a %1$@ cuando no estés en %2$@ entre la(s) %3$@ y la(s) %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>FENCE_TRIGGER_DEPARTED_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">You left %2$@ before %3$@. %1$@ is notified any time that you are not at %2$@ between %4$@ and %3$@, %5$@.</base>
-        <tran loc="es">Has salido de %2$@ antes de las %3$@. %1$@ recibirá notificaciones cada vez que no estés en %2$@ entre las %4$@ y las %3$@ los %5$@.</tran>
+        <tran loc="es-419">No saliste de %2$@ antes de la(s) %3$@. %1$@ recibirá una notificación cada vez que no estés en %2$@ entre la(s) %4$@ y la(s) %3$@, los %5$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -745,7 +745,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified when you are not at %2$@ by %3$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones si no estás en %2$@ antes de las %3$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cuando no estés en %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -753,7 +753,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified when you are not at %2$@ by %3$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones si no estás en %2$@ antes de las %3$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cuando no estés en %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -761,7 +761,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you are not at %2$@ by %3$@.</base>
-        <tran loc="es">%1$@ recibirá notificaciones si no estás en %2$@ antes de las %3$@.</tran>
+        <tran loc="es-419">Se notificará a %1$@ cuando no estés en %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -769,7 +769,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you are not at %2$@ by %3$@.</base>
-        <tran loc="es">%1$@ recibirá notificaciones si no estás en %2$@ antes de las %3$@.</tran>
+        <tran loc="es-419">Se notificará a %1$@ cuando no estés en %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -777,7 +777,7 @@
       <Position>FENCE_TRIGGER_YOU_RETURNED_TO_LOCATION_BEFORE_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ was notified that you returned to %2$@ before %3$@.</base>
-        <tran loc="es">%1$@ ha recibido una notificación de que has vuelto a %2$@ antes de las %3$@.</tran>
+        <tran loc="es-419">Se le avisó a %1$@ que regresaste a %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -785,7 +785,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you are not at %2$@ between %3$@ and %4$@,  %5$@.</base>
-        <tran loc="es">%1$@ recibirá notificaciones si no estás en %2$@ entre las %3$@ y las %4$@ los %5$@.</tran>
+        <tran loc="es-419">Se notificará a %1$@ cuando no estés en %2$@ entre la(s) %3$@ y la(s) %4$@, los %5$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -793,7 +793,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified when you are not at %2$@ between %3$@ and %4$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones si no estás en %2$@ entre las %3$@ y las %4$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cuando no estés en %2$@ entre la(s) %3$@ y la(s) %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -801,7 +801,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified when you are not at %2$@ between %3$@ and %4$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones si no estás en %2$@ entre las %3$@ y las %4$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cuando no estés en %2$@ entre la(s) %3$@ y la(s) %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -809,7 +809,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified when you are not at %2$@ by %3$@, %4$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones si no estás en %2$@ antes de las %3$@ los %4$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cuando no estés en %2$@ antes de la(s) %3$@, los %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>FENCE_TRIGGER_DID_NOT_ARRIVE_YOU_ARE_NOT_AT_LOCATION_BY_TIME</Position>
       <TranslationSet>
         <base loc="en">You did not arrive at %2$@ by %3$@. %1$@ is notified any time that you are not at %2$@ by %3$@.</base>
-        <tran loc="es">No has llegado a %2$@ antes de las %3$@. %1$@ recibirá notificaciones cada vez que no estés en %2$@ antes de las %3$@.</tran>
+        <tran loc="es-419">No llegaste a %2$@ antes de la(s) %3$@. %1$@ recibirá una notificación cada vez que no estés en %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>FENCE_TRIGGER_DEPARTED_YOU_ARE_NOT_AT_LOCATION_BETWEEN_TIMES</Position>
       <TranslationSet>
         <base loc="en">You left %2$@ before %3$@. %1$@ is notified any time that you are not at %2$@ between %4$@ and %3$@.</base>
-        <tran loc="es">Has salido de %2$@ antes de las %3$@. %1$@ recibirá notificaciones cada vez que no estés en %2$@ entre las %4$@ y las %3$@.</tran>
+        <tran loc="es-419">No saliste de %2$@ antes de la(s) %3$@. %1$@ recibirá una notificación cada vez que no estés en %2$@ entre la(s) %4$@ y la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BY_TIME_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">%1$@ by %2$@, %3$@</base>
-        <tran loc="es">%1$@ antes de las %2$@ los %3$@</tran>
+        <tran loc="es-419">%1$@ antes de la(s) %2$@, los %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -843,7 +843,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARRIVE_AT_LOCATION_EVERY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you arrive at %2$@ every time.</base>
-        <tran loc="es">%1$@ recibirá notificaciones siempre que llegues a %2$@.</tran>
+        <tran loc="es-419">Se notificará a %1$@ cada vez que llegues a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -851,7 +851,7 @@
       <Position>FENCE_TRIGGERED_YOU_ARRIVED</Position>
       <TranslationSet>
         <base loc="en">%1$@ was notified that you arrived at %2$@.</base>
-        <tran loc="es">%1$@ ha recibido una notificación de que has llegado a %2$@.</tran>
+        <tran loc="es-419">Se le avisó a %1$@ cuando llegaste a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -859,7 +859,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARE_NOT_AT_LOCATION_BY_TIME_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you are not at %2$@ by %3$@, %4$@.</base>
-        <tran loc="es">%1$@ recibirá notificaciones si no estás en %2$@ antes de las %3$@ los %4$@.</tran>
+        <tran loc="es-419">Se notificará a %1$@ cuando no estés en %2$@ antes de la(s) %3$@, los %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -867,7 +867,7 @@
       <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BETWEEN_TIMES_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">%1$@ between %2$@ and %3$@ every day</base>
-        <tran loc="es">%1$@ entre las %2$@ y las %3$@ todos los días</tran>
+        <tran loc="es-419">%1$@ entre la(s) %2$@ y la(s) %3$@ todos los días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -875,7 +875,7 @@
       <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BY_TIME_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">%1$@ by %2$@ every day</base>
-        <tran loc="es">%1$@ antes de las %2$@ todos los días</tran>
+        <tran loc="es-419">%1$@ antes de la(s) %2$@ todos los días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -883,7 +883,7 @@
       <Position>FENCE_TRIGGER_DID_NOT_ARRIVE_YOU_ARE_NOT_AT_LOCATION_BY_TIME_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">You did not arrive at %2$@ by %3$@. %1$@ is notified any time that you are not at %2$@ by %3$@, %4$@.</base>
-        <tran loc="es">No has llegado a %2$@ antes de las %3$@. %1$@ recibirá notificaciones cada vez que no estés en %2$@ antes de las %3$@ los %4$@.</tran>
+        <tran loc="es-419">No llegaste a %2$@ antes de la(s) %3$@. %1$@ recibirá una notificación cada vez que no estés en %2$@ antes de la(s) %3$@, los %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -891,7 +891,7 @@
       <Position>FENCE_TRIGGER_FRIEND_RETURNED_TO_LOCATION_BEFORE_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ returned to %2$@ before %3$@.</base>
-        <tran loc="es">%1$@ ha vuelto a %2$@ antes de las %3$@.</tran>
+        <tran loc="es-419">%1$@ regresó a %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -899,7 +899,7 @@
       <Position>FENCE_TRIGGERED_FRIEND_DID_NOT_ARRIVE_AT_LOCATION_BY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ was not at %2$@ at %3$@.</base>
-        <tran loc="es">%1$@ no estaba en %2$@ a las %3$@.</tran>
+        <tran loc="es-419">%1$@ no estuvo en %2$@ a la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@
       <Position>FENCE_TRIGGERED_FRIEND_ARRIVED</Position>
       <TranslationSet>
         <base loc="en">%1$@ arrived at %2$@.</base>
-        <tran loc="es">%1$@ ha llegado a %2$@.</tran>
+        <tran loc="es-419">%1$@ llegó a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -915,7 +915,7 @@
       <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BETWEEN_TIMES_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">%1$@ between %2$@ and %3$@, %4$@</base>
-        <tran loc="es">%1$@ entre las %2$@ y las %3$@ los %4$@</tran>
+        <tran loc="es-419">%1$@ entre la(s) %2$@ y la(s) %3$@, los %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -923,7 +923,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BY_TIME</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I am not at %2$@ by %3$@.</base>
-        <tran loc="es">Notifica a %1$@ si no estoy en %2$@ a las %3$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cuando yo no esté en %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -931,7 +931,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BY_TIME_EVERY_DAY</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I am not at %2$@ by %3$@.</base>
-        <tran loc="es">Notifica a %1$@ si no estoy en %2$@ a las %3$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cuando yo no esté en %2$@ antes de la(s) %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -939,7 +939,7 @@
       <Position>FENCE_TRIGGERED_YOU_LEFT</Position>
       <TranslationSet>
         <base loc="en">%1$@ was notified that you left %2$@.</base>
-        <tran loc="es">%1$@ ha recibido una notificación de que has salido de %2$@.</tran>
+        <tran loc="es-419">Se le avisó a %1$@ cuando saliste de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -947,7 +947,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_AM_NOT_AT_LOCATION_BY_TIME_ON_DAYSLIST</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I am not at %2$@ by %3$@, %4$@.</base>
-        <tran loc="es">Notifica a %1$@ si no estoy en %2$@ antes de las %3$@ los %4$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cuando yo no esté en %2$@ antes de la(s) %3$@, los %4$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -955,7 +955,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_LEAVE_LOCATION_EVERY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you leave %2$@ every time.</base>
-        <tran loc="es">%1$@ recibirá notificaciones siempre que salgas de %2$@.</tran>
+        <tran loc="es-419">Se notificará a %1$@ cada vez que salgas de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -963,7 +963,7 @@
       <Position>FENCE_NOTIFICATION_LOCATION_AND_SCHEDULE_BETWEEN_TIMES</Position>
       <TranslationSet>
         <base loc="en">%1$@ between %2$@ and %3$@</base>
-        <tran loc="es">%1$@ entre las %2$@ y las %3$@</tran>
+        <tran loc="es-419">%1$@ entre la(s) %2$@ y la(s) %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -971,7 +971,7 @@
       <Position>DAYSLIST_CONTIGUOUS_3</Position>
       <TranslationSet>
         <base loc="en">%1$@ to %2$@</base>
-        <tran loc="es">de %1$@ a %2$@</tran>
+        <tran loc="es-419">%1$@ a %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -979,7 +979,7 @@
       <Position>DAYSLIST_CONTIGUOUS_4</Position>
       <TranslationSet>
         <base loc="en">%1$@ to %2$@</base>
-        <tran loc="es">de %1$@ a %2$@</tran>
+        <tran loc="es-419">%1$@ a %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -987,7 +987,7 @@
       <Position>DAYSLIST_CONTIGUOUS_5</Position>
       <TranslationSet>
         <base loc="en">%1$@ to %2$@</base>
-        <tran loc="es">de %1$@ a %2$@</tran>
+        <tran loc="es-419">%1$@ a %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -995,7 +995,7 @@
       <Position>DAYSLIST_CONTIGUOUS_6</Position>
       <TranslationSet>
         <base loc="en">%1$@ to %2$@</base>
-        <tran loc="es">de %1$@ a %2$@</tran>
+        <tran loc="es-419">%1$@ a %2$@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1009,7 +1009,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Share My Location</base>
-        <tran loc="es">Compartir mi ubicación</tran>
+        <tran loc="es-419">Compartir ubicación</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1020,7 +1020,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_ARRIVE_AT_LOCATION</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I arrive at %2$@.</base>
-        <tran loc="es">Notifica a %1$@ cuando yo llegue a %2$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cuando yo llegue a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1028,7 +1028,7 @@
       <Position>LOCATION_AGE_MINUTES</Position>
       <TranslationSet>
         <base loc="en">‎%@m ago</base>
-        <tran loc="es">‎hace %@ min</tran>
+        <tran loc="es-419">‎hace %@ m</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1036,7 +1036,7 @@
       <Position>LOCATION_LABEL_WITH_AGE</Position>
       <TranslationSet>
         <base loc="en">‎%1$@ – %2$@</base>
-        <tran loc="es">‎%1$@: %2$@</tran>
+        <tran loc="es-419">‎%1$@ – %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1044,7 +1044,7 @@
       <Position>_$!&lt;work&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">Work</base>
-        <tran loc="es">Trabajo</tran>
+        <tran loc="es-419">Trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1052,7 +1052,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_LEAVE_LOCATION_EVERY_TIME</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I leave %2$@ every time.</base>
-        <tran loc="es">Notifica a %1$@ siempre que me vaya de %2$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cada vez que yo salga a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1060,7 +1060,7 @@
       <Position>ME_ALERT_EXISTING_MESSAGE_HAS_ME</Position>
       <TranslationSet>
         <base loc="en">You are currently using “%@” to share your location in Find My and Messages.</base>
-        <tran loc="es">Estás usando “%@” para compartir tu ubicación en Buscar y en Mensajes.</tran>
+        <tran loc="es-419">Estás usando “%@” para compartir tu ubicación en Encontrar y Mensajes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1068,7 +1068,7 @@
       <Position>_$!&lt;school&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">School</base>
-        <tran loc="es">Colegio</tran>
+        <tran loc="es-419">Centro educativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1076,7 +1076,7 @@
       <Position>CITY_STATE_LABEL</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1084,7 +1084,7 @@
       <Position>SIGN_IN</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1098,7 +1098,7 @@
       <Position>SHARE_MY_LOCATION</Position>
       <TranslationSet>
         <base loc="en">Share My Location</base>
-        <tran loc="es">Compartir mi ubicación</tran>
+        <tran loc="es-419">Compartir ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1106,7 +1106,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_LEAVE_LOCATION</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you leave %2$@.</base>
-        <tran loc="es">%1$@ recibirá una notificación cuando te vayas de %2$@.</tran>
+        <tran loc="es-419">Se avisará a %1$@ cuando salgas de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1114,7 +1114,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_ARRIVE_AT_LOCATION</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified when you arrive at %2$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones cada vez que llegues a %2$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cuando llegues a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1122,7 +1122,7 @@
       <Position>FENCE_NOTIFICATION_LOCATION_AND_NEXT_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@</base>
-        <tran loc="es">%1$@</tran>
+        <tran loc="es-419">%1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1130,7 +1130,7 @@
       <Position>ALERT_NO_NETWORK_TITLE_AIRPLANE_MODE</Position>
       <TranslationSet>
         <base loc="en">Turn Off Airplane Mode or Use Wi-Fi to Access Data</base>
-        <tran loc="es">Desactiva el modo Avión o utiliza la conexión Wi-Fi para acceder a los datos</tran>
+        <tran loc="es-419">Para acceder a tus datos, desactiva “Modo de vuelo” o usa Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1138,7 +1138,7 @@
       <Position>LOCATION_AGE_LESS_THAN_1HR</Position>
       <TranslationSet>
         <base loc="en">%@h ago</base>
-        <tran loc="es">hace %@ h</tran>
+        <tran loc="es-419">hace %@ h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1146,7 +1146,7 @@
       <Position>OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1154,7 +1154,7 @@
       <Position>OK_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1162,7 +1162,7 @@
       <Position>WATCH_SHARE_MY_LOCATION_OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1170,7 +1170,7 @@
       <Position>_$!&lt;gym&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">Gym</base>
-        <tran loc="es">Gimnasio</tran>
+        <tran loc="es-419">Gimnasio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1178,7 +1178,7 @@
       <Position>FENCE_FRIEND_WILL_BE_NOTIFIED_WHEN_YOU_ARRIVE_AT_LOCATION</Position>
       <TranslationSet>
         <base loc="en">%1$@ will be notified when you arrive at %2$@.</base>
-        <tran loc="es">%1$@ recibirá una notificación cuando llegues a %2$@.</tran>
+        <tran loc="es-419">Se avisará a %1$@ cuando llegues a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1186,7 +1186,7 @@
       <Position>ALERT_NO_NETWORK_MESSAGE_CELLULAR_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Turn on cellular data or use Wi-Fi to access data.</base>
-        <tran loc="es">Activa la conexión de datos móviles o utiliza la red Wi-Fi para acceder a los datos.</tran>
+        <tran loc="es-419">Para acceder a tus datos, activa los datos celulares o usa Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1194,7 +1194,7 @@
       <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_CANCEL_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1202,7 +1202,7 @@
       <Position>CANCEL_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1210,7 +1210,7 @@
       <Position>_$!&lt;home&gt;!$_</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Casa</tran>
+        <tran loc="es-419">Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1218,7 +1218,7 @@
       <Position>LOCATING</Position>
       <TranslationSet>
         <base loc="en">Locating…</base>
-        <tran loc="es">Localizando…</tran>
+        <tran loc="es-419">Localizando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1226,7 +1226,7 @@
       <Position>5XX_ON_START_OFFER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Share Location</base>
-        <tran loc="es">Imposible compartir ubicación</tran>
+        <tran loc="es-419">No se puede compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1234,7 +1234,7 @@
       <Position>MAX_FOLLOWERS_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Share Location</base>
-        <tran loc="es">Imposible compartir ubicación</tran>
+        <tran loc="es-419">No se puede compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1242,7 +1242,7 @@
       <Position>NETWORK_OFFLINE_OFFER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Share Location</base>
-        <tran loc="es">Imposible compartir ubicación</tran>
+        <tran loc="es-419">No se puede compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1250,7 +1250,7 @@
       <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_ICLOUD_LINK_MSG</Position>
       <TranslationSet>
         <base loc="en">To see %@’s location, use the Find My app</base>
-        <tran loc="es">Para ver la ubicación de %@, usa la app Buscar</tran>
+        <tran loc="es-419">Para ver la ubicación de %@, usa la app Encontrar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1258,7 +1258,7 @@
       <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_MSG</Position>
       <TranslationSet>
         <base loc="en">To see %@’s location, use the Find My app</base>
-        <tran loc="es">Para ver la ubicación de %@, usa la app Buscar</tran>
+        <tran loc="es-419">Para ver la ubicación de %@, usa la app Encontrar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1266,7 +1266,7 @@
       <Position>ME_ALERT_USE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use</base>
-        <tran loc="es">Usar</tran>
+        <tran loc="es-419">Usar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1274,7 +1274,7 @@
       <Position>USE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Use</base>
-        <tran loc="es">Usar</tran>
+        <tran loc="es-419">Usar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1282,7 +1282,7 @@
       <Position>THIS_DEVICE</Position>
       <TranslationSet>
         <base loc="en">This Device</base>
-        <tran loc="es">Este dispositivo</tran>
+        <tran loc="es-419">Este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1290,7 +1290,7 @@
       <Position>RESTRICTED_ALERT_TEXT</Position>
       <TranslationSet>
         <base loc="en">Share My Location is restricted on this device. Please go to “Settings &gt; Screen Time &gt; Content &amp; Privacy Restrictions” to change the settings</base>
-        <tran loc="es">La función “Compartir mi ubicación” está restringida en este dispositivo. Para cambiar esta configuración, ve a Ajustes &gt; Tiempo de uso &gt; Restricciones de contenido y privacidad</tran>
+        <tran loc="es-419">"Compartir ubicación" tiene restricciones activas en este dispositivo, desactívalas en Configuración &gt; Tiempo en pantalla &gt; Restricciones de privacidad y contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1298,7 +1298,7 @@
       <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_CLOSE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1306,7 +1306,7 @@
       <Position>FENCE_FRIEND_REQUESTS_NOTIFICATION_WHEN_YOU_LEAVE_LOCATION</Position>
       <TranslationSet>
         <base loc="en">%1$@ would like to be notified when you leave %2$@.</base>
-        <tran loc="es">%1$@ quiere recibir notificaciones cada vez que salgas de %2$@.</tran>
+        <tran loc="es-419">%1$@ quiere recibir una notificación cuando salgas de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1314,7 +1314,7 @@
       <Position>LOCATION_SHARING_SYSTEM_SERVICE_SWITCH_OFF_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enable Share My Location in Settings &gt; Apple ID &gt; Find My to use this feature.</base>
-        <tran loc="es">Para usar esta función, activa “Compartir mi ubicación” en Ajustes &gt; ID de Apple &gt; Buscar.</tran>
+        <tran loc="es-419">Activa "Compartir ubicación" en Configuración &gt; Apple ID &gt; Encontrar para usar esta función.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1322,7 +1322,7 @@
       <Position>SHARE_MY_LOCATION_ICLOUD_SETTINGS_OFF_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enable Share My Location in Settings &gt; Apple ID &gt; Find My to use this feature.</base>
-        <tran loc="es">Para usar esta función, activa “Compartir mi ubicación” en Ajustes &gt; ID de Apple &gt; Buscar.</tran>
+        <tran loc="es-419">Activa "Compartir ubicación" en Configuración &gt; Apple ID &gt; Encontrar para usar esta función.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1330,7 +1330,7 @@
       <Position>AIR_DROP_OFFER_IMPORT_MAC_NO_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign in to iCloud to view shared locations</base>
-        <tran loc="es">Inicia sesión en iCloud para ver ubicaciones compartidas</tran>
+        <tran loc="es-419">Inicia sesión en iCloud para ver las ubicaciones compartidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1338,7 +1338,7 @@
       <Position>FORBIDDEN_REGION_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share My Location Unavailable</base>
-        <tran loc="es">Compartir mi ubicación: no disponible</tran>
+        <tran loc="es-419">"Compartir ubicación" no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1346,7 +1346,7 @@
       <Position>GENERIC_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share My Location Unavailable</base>
-        <tran loc="es">Compartir mi ubicación: no disponible</tran>
+        <tran loc="es-419">"Compartir ubicación" no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1354,7 +1354,7 @@
       <Position>GENERIC_ERROR_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share My Location Unavailable</base>
-        <tran loc="es">Compartir mi ubicación: no disponible</tran>
+        <tran loc="es-419">"Compartir ubicación" no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1362,7 +1362,7 @@
       <Position>WATCH_SHARE_MY_LOCATION_GENERIC_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share My Location Unavailable</base>
-        <tran loc="es">Compartir mi ubicación: no disponible</tran>
+        <tran loc="es-419">"Compartir ubicación" no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1370,7 +1370,7 @@
       <Position>ME_ALERT_NOT_NOW_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1378,7 +1378,7 @@
       <Position>NOT_NOW_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1386,7 +1386,7 @@
       <Position>FENCE_GENERIC_FRIEND</Position>
       <TranslationSet>
         <base loc="en">A friend</base>
-        <tran loc="es">Un amigo</tran>
+        <tran loc="es-419">Un amigo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1394,7 +1394,7 @@
       <Position>FORBIDDEN_REGION_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Share My Location is not available in your current location.</base>
-        <tran loc="es">La función “Compartir mi ubicación” no está disponible en tu ubicación actual.</tran>
+        <tran loc="es-419">"Compartir ubicación" no está disponible en tu ubicación actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1402,7 +1402,7 @@
       <Position>LOCATION_AGE_LESS_THAN_30SECONDS</Position>
       <TranslationSet>
         <base loc="en">%@s ago</base>
-        <tran loc="es">hace %@ s</tran>
+        <tran loc="es-419">hace %@ s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1410,7 +1410,7 @@
       <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_TITLE</Position>
       <TranslationSet>
         <base loc="en">%@ started sharing location with you.</base>
-        <tran loc="es">%@ ha empezado a compartir su ubicación contigo.</tran>
+        <tran loc="es-419">%@ comenzó a compartir la ubicación contigo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1418,7 +1418,7 @@
       <Position>NOT_LOGGED_INTO_ICLOUD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign In to iCloud to Share Your Location</base>
-        <tran loc="es">Inicia sesión en iCloud para compartir tu ubicación</tran>
+        <tran loc="es-419">Inicia sesión en iCloud para compartir tu ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1426,7 +1426,7 @@
       <Position>ALERT_NO_NETWORK_TITLE_NO_INTERNET</Position>
       <TranslationSet>
         <base loc="en">Your Device Is Not Connected to the Internet</base>
-        <tran loc="es">El dispositivo no está conectado a internet</tran>
+        <tran loc="es-419">Tu dispositivo no está conectado a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1434,7 +1434,7 @@
       <Position>RESTRICTED_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share My Location Restricted</base>
-        <tran loc="es">Compartir mi ubicación: restringido</tran>
+        <tran loc="es-419">"Compartir ubicación" está restringido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1442,7 +1442,7 @@
       <Position>5XX_ON_STOP_OFFER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Stop Sharing Location</base>
-        <tran loc="es">Imposible dejar de compartir ubicación</tran>
+        <tran loc="es-419">No se puede dejar de compartir la ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1450,7 +1450,7 @@
       <Position>NETWORK_OFFLINE_STOP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Stop Sharing Location</base>
-        <tran loc="es">Imposible dejar de compartir ubicación</tran>
+        <tran loc="es-419">No se puede dejar de compartir la ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1458,7 +1458,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_LEAVE_LOCATION</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I leave %2$@.</base>
-        <tran loc="es">Notifica a %1$@ cuando me vaya de %2$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cuando yo salga de %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1466,7 +1466,7 @@
       <Position>GLOBAL_LOCATION_SERVICES_SWITCH_OFF_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enable Location Services in Settings &gt; Privacy &gt; Location Services to use this feature.</base>
-        <tran loc="es">Para utilizar esta función, activa la opción Localización en Ajustes &gt; Privacidad &gt; Localización.</tran>
+        <tran loc="es-419">Para usar esta función, activa Localización en Configuración &gt; Privacidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1474,7 +1474,7 @@
       <Position>THIS_DEVICE_ACTIVE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">This Device Active</base>
-        <tran loc="es">Este dispositivo activo</tran>
+        <tran loc="es-419">Este dispositivo activo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1482,7 +1482,7 @@
       <Position>SWITCH_ME_DEVICE_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You are currently using “%@” to share your location in Find My, Messages, for personal requests on HomePod, and in automations in the Home app.</base>
-        <tran loc="es">Estás usando “%@” para compartir tu ubicación en Buscar, en Mensajes, para peticiones personales en el HomePod y en automatizaciones de la app Casa.</tran>
+        <tran loc="es-419">Estás usando “%@” para compartir tu ubicación en Encontrar, Mensajes, para realizar peticiones individuales en HomePod y activar automatizaciones en la app Casa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1490,7 +1490,7 @@
       <Position>GLOBAL_LOCATION_SERVICES_SWITCH_OFF_TITLE</Position>
       <TranslationSet>
         <base loc="en">Location Services Disabled</base>
-        <tran loc="es">Localización: desactivada</tran>
+        <tran loc="es-419">Localización desactivada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1498,7 +1498,7 @@
       <Position>MAX_FOLLOWERS_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You’ve reached the maximum number of followers.</base>
-        <tran loc="es">Has alcanzado el número máximo de seguidores.</tran>
+        <tran loc="es-419">Alcanzaste el número máximo de seguidores.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1506,7 +1506,7 @@
       <Position>ME_ALERT_EXISTING_MESSAGE_NO_ME</Position>
       <TranslationSet>
         <base loc="en">None of your devices are currently being used to share your location.</base>
-        <tran loc="es">Ninguno de tus dispositivos se está utilizando para compartir tu ubicación.</tran>
+        <tran loc="es-419">Ninguno de tus dispositivos se está usando para compartir tu ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1514,7 +1514,7 @@
       <Position>SWITCH_ME_DEVICE_ALERT_NO_ME_DEVICE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">None of your devices are currently being used to share your location.</base>
-        <tran loc="es">Ninguno de tus dispositivos se está utilizando para compartir tu ubicación.</tran>
+        <tran loc="es-419">Ninguno de tus dispositivos se está usando para compartir tu ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1522,7 +1522,7 @@
       <Position>UPSELL_ICLOUD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign In to iCloud to View Shared Locations</base>
-        <tran loc="es">Inicia sesión en iCloud para ver ubicaciones compartidas</tran>
+        <tran loc="es-419">Inicia sesión en iCloud para ver las ubicaciones compartidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1530,7 +1530,7 @@
       <Position>NOT_LOGGED_INTO_ICLOUD_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You can set up your iCloud account in Settings.</base>
-        <tran loc="es">Puedes configurar tu cuenta de iCloud desde Ajustes.</tran>
+        <tran loc="es-419">Puedes configurar tu cuenta de iCloud en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1538,7 +1538,7 @@
       <Position>NETWORK_OFFLINE_STOP_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You must be connected to the Internet to stop sharing your location.</base>
-        <tran loc="es">Para dejar de compartir tu ubicación, debes estar conectado a internet.</tran>
+        <tran loc="es-419">Debes conectarte a Internet para dejar de compartir tu ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1546,7 +1546,7 @@
       <Position>THIS_DEVICE_ACTIVE_ALERT_TEXT</Position>
       <TranslationSet>
         <base loc="en">Location of this device is now being shared.</base>
-        <tran loc="es">La ubicación de este dispositivo se está compartiendo.</tran>
+        <tran loc="es-419">Ahora se está compartiendo la ubicación de este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1554,7 +1554,7 @@
       <Position>LOCATION_AGE_NOW</Position>
       <TranslationSet>
         <base loc="en">Now</base>
-        <tran loc="es">Ahora</tran>
+        <tran loc="es-419">ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1562,7 +1562,7 @@
       <Position>AIR_DROP_OFFER_IMPORT_MAC_NO_ACCOUNT_SYSTEM_PREFERENCES</Position>
       <TranslationSet>
         <base loc="en">Open System Preferences</base>
-        <tran loc="es">Abrir Preferencias del Sistema</tran>
+        <tran loc="es-419">Abrir Preferencias del Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1570,7 +1570,7 @@
       <Position>5XX_ON_START_OFFER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to server. Please try again later.</base>
-        <tran loc="es">Imposible establecer conexión con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede conectar al servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1578,7 +1578,7 @@
       <Position>5XX_ON_STOP_OFFER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to server. Please try again later.</base>
-        <tran loc="es">Imposible establecer conexión con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede conectar al servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1586,7 +1586,7 @@
       <Position>GENERIC_ALERT_TEXT</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to server. Please try again later.</base>
-        <tran loc="es">Imposible establecer conexión con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede conectar al servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1594,7 +1594,7 @@
       <Position>GENERIC_ERROR_ALERT_TEXT</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to server. Please try again later.</base>
-        <tran loc="es">Imposible establecer conexión con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede conectar al servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1602,7 +1602,7 @@
       <Position>WATCH_SHARE_MY_LOCATION_GENERIC_ALERT_TEXT</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to server. Please try again later.</base>
-        <tran loc="es">Imposible establecer conexión con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede conectar al servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1610,7 +1610,7 @@
       <Position>FENCE_GENERIC_LOCATION</Position>
       <TranslationSet>
         <base loc="en">a location</base>
-        <tran loc="es">una ubicación</tran>
+        <tran loc="es-419">una ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1618,7 +1618,7 @@
       <Position>LOCATION_AGE_MORE_THAN_1HR</Position>
       <TranslationSet>
         <base loc="en">‎%@h ago</base>
-        <tran loc="es">‎hace %@ h</tran>
+        <tran loc="es-419">‎hace %@ h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1626,7 +1626,7 @@
       <Position>LOCATION_NOT_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Location Not Available</base>
-        <tran loc="es">Ubicación no disponible</tran>
+        <tran loc="es-419">Ubicación no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1634,7 +1634,7 @@
       <Position>AIR_DROP_OFFER_IMPORTED_ON_MAC_ICLOUD_LINK_VIEW_ON_ICLOUD_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">View on iCloud.com</base>
-        <tran loc="es">Ver en iCloud.com</tran>
+        <tran loc="es-419">Ver en iCloud.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1642,7 +1642,7 @@
       <Position>ADDRESS_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Address Unavailable</base>
-        <tran loc="es">Dirección no disponible</tran>
+        <tran loc="es-419">Dirección no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1650,7 +1650,7 @@
       <Position>ME_ALERT_EXISTING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use This Device When Sharing Your Location?</base>
-        <tran loc="es">¿Usar este dispositivo cuando compartas tu ubicación?</tran>
+        <tran loc="es-419">¿Usar este dispositivo al compartir tu ubicación?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1658,7 +1658,7 @@
       <Position>SWITCH_ME_DEVICE_ALERT_NO_ME_DEVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use This Device When Sharing Your Location?</base>
-        <tran loc="es">¿Usar este dispositivo cuando compartas tu ubicación?</tran>
+        <tran loc="es-419">¿Usar este dispositivo al compartir tu ubicación?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1666,7 +1666,7 @@
       <Position>ALERT_NO_NETWORK_ACTION_BUTTON_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1674,7 +1674,7 @@
       <Position>SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1682,7 +1682,7 @@
       <Position>NETWORK_OFFLINE_OFFER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You must be connected to the Internet to share your location.</base>
-        <tran loc="es">Para compartir tu ubicación, debes estar conectado a internet.</tran>
+        <tran loc="es-419">Debes conectarte a Internet para compartir tu ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1690,7 +1690,7 @@
       <Position>FENCE_NOTIFY_FRIEND_WHEN_I_ARRIVE_AT_LOCATION_EVERY_TIME</Position>
       <TranslationSet>
         <base loc="en">Notify %1$@ when I arrive at %2$@ every time.</base>
-        <tran loc="es">Notifica a %1$@ siempre que yo llegue a %2$@.</tran>
+        <tran loc="es-419">Notificar a %1$@ cada vez que yo llegue a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1698,7 +1698,7 @@
       <Position>FENCE_NOTIFICATION_LOCATION_AND_EVERY_TIME</Position>
       <TranslationSet>
         <base loc="en">%1$@ every time</base>
-        <tran loc="es">%1$@ todos los días</tran>
+        <tran loc="es-419">%1$@ siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1706,7 +1706,7 @@
       <Position>ALERT_NO_NETWORK_TITLE_CELLULAR_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Cellular Data is Turned Off</base>
-        <tran loc="es">La conexión de datos móviles está desactivada</tran>
+        <tran loc="es-419">Datos celulares desactivados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1714,7 +1714,7 @@
       <Position>AIR_DROP_OFFER_IMPORT_MAC_NO_ACCOUNT_MSG</Position>
       <TranslationSet>
         <base loc="en">Your friends are currently sharing locations with you.</base>
-        <tran loc="es">Tus amigos están compartiendo sus ubicaciones contigo.</tran>
+        <tran loc="es-419">Tus amigos están compartiendo ubicaciones contigo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1722,7 +1722,7 @@
       <Position>UPSELL_ICLOUD_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your friends are currently sharing locations with you.</base>
-        <tran loc="es">Tus amigos están compartiendo sus ubicaciones contigo.</tran>
+        <tran loc="es-419">Tus amigos están compartiendo ubicaciones contigo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1730,7 +1730,7 @@
       <Position>LOCATION_SHARING_SYSTEM_SERVICE_SWITCH_OFF_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share My Location Disabled</base>
-        <tran loc="es">Compartir mi ubicación: desactivado</tran>
+        <tran loc="es-419">"Compartir ubicación" está desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1738,7 +1738,7 @@
       <Position>SHARE_MY_LOCATION_ICLOUD_SETTINGS_OFF_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share My Location Disabled</base>
-        <tran loc="es">Compartir mi ubicación: desactivado</tran>
+        <tran loc="es-419">Se desactivó "Compartir ubicación"</tran>
       </TranslationSet>
     </TextItem>
   </File>

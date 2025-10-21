@@ -8,7 +8,7 @@
       <Position>SERVICE_NAME_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">iMessage</base>
-        <tran loc="es">iMessage</tran>
+        <tran loc="es-419">iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>PASSWORD_ALERT_TITLE_WITH_USERNAME_OSX_SERVICE_FACETIME</Position>
       <TranslationSet>
         <base loc="en">This Mac can’t connect to FaceTime because of a problem with “%@”.</base>
-        <tran loc="es">Este Mac no se puede conectar a FaceTime debido a un problema con “%@”.</tran>
+        <tran loc="es-419">No se puede conectar esta Mac a FaceTime debido a un problema con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>PASSWORD_ALERT_TITLE_WITH_USERNAME_OSX_SERVICE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">This Mac can’t connect to iCloud because of a problem with “%@”.</base>
-        <tran loc="es">Este Mac no se puede conectar a iCloud debido a un problema con “%@”.</tran>
+        <tran loc="es-419">No se puede conectar esta Mac a iCloud debido a un problema con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>SERVICE_NAME_ITUNES</Position>
       <TranslationSet>
         <base loc="en">Apple Media Services</base>
-        <tran loc="es">Servicios multimedia de Apple</tran>
+        <tran loc="es-419">Servicios mediáticos de Apple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>PASSWORD_ALERT_TITLE_OSX</Position>
       <TranslationSet>
         <base loc="en">Apple ID Login Required</base>
-        <tran loc="es">Inicio de sesión con ID de Apple necesario</tran>
+        <tran loc="es-419">Es necesario iniciar sesión con Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>UNDERAGE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">You are not eligible to create an account.</base>
-        <tran loc="es">No puedes crear una cuenta.</tran>
+        <tran loc="es-419">No reúnes los requisitos para crear una cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>CHANGE_PASSWORD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Change Apple ID Password?</base>
-        <tran loc="es">¿Cambiar la contraseña del ID de Apple?</tran>
+        <tran loc="es-419">¿Cambiar la contraseña del Apple ID?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>CHANGE_PASSWORD_ALERT_BODY</Position>
       <TranslationSet>
         <base loc="en">If you think someone is trying to sign in to your account, you should change your password.</base>
-        <tran loc="es">Si crees que alguien está intentando iniciar sesión en tu cuenta, debes cambiar la contraseña.</tran>
+        <tran loc="es-419">Si crees que alguien intentó iniciar sesión en tu cuenta, es aconsejable cambiar tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>PASSWORD_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Please sign in with your Apple ID in Settings.</base>
-        <tran loc="es">Inicia sesión en Ajustes con tu ID de Apple.</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>AUTH_ERROR_ALERT_UNVERIFIED_EMAIL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You need to verify your Apple ID email address to continue.</base>
-        <tran loc="es">Para continuar, debes verificar la dirección de correo electrónico de tu ID de Apple.</tran>
+        <tran loc="es-419">Para continuar, debes verificar la dirección de correo electrónico de tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>CONTINUE_AUTH_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Open Settings to continue signing in with “%@”.</base>
-        <tran loc="es">Abre Ajustes para continuar con el inicio de sesión con “%@”.</tran>
+        <tran loc="es-419">Abre Configuración para continuar iniciando sesión en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>WRONG_LOGIN_CODE_TRY_AGAIN_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>WRONG_PASSWORD_ALERT_TRY_AGAIN_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>INLINE_PASSWORD_ALERT_USERNAME_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>AUTH_ERROR_ALERT_INSUFFICIENT_SECURITY_LEVEL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To use Sign in with Apple you need to upgrade your account security.</base>
-        <tran loc="es">Para usar “Iniciar sesión con Apple” debes actualizar la seguridad de tu cuenta.</tran>
+        <tran loc="es-419">Para iniciar sesión con Apple debes actualizar la seguridad de tu cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>AUTH_ERROR_ALERT_ACCOUNT_NOT_SUPPORTED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Account Not Supported</base>
-        <tran loc="es">Cuenta no compatible</tran>
+        <tran loc="es-419">Cuenta no compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>SERVICE_NAME_FACETIME</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>PASSWORD_ALERT_MESSAGE_OSX</Position>
       <TranslationSet>
         <base loc="en">Open Apple ID preferences to fix this problem.</base>
-        <tran loc="es">Abre el panel de preferencias del ID de Apple para solucionar este problema.</tran>
+        <tran loc="es-419">Abre el panel de preferencias de Apple ID para solucionar este problema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>PASSWORD_ALERT_MESSAGE_WITH_USERNAME_OSX</Position>
       <TranslationSet>
         <base loc="en">Open Apple ID preferences to fix this problem.</base>
-        <tran loc="es">Abre el panel de preferencias del ID de Apple para solucionar este problema.</tran>
+        <tran loc="es-419">Abre el panel de preferencias de Apple ID para solucionar este problema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_IPAD_NO_SERVICE</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this iPad to finish signing in with your Apple ID.</base>
-        <tran loc="es">Para terminar de iniciar sesión en Apple ID, introduce el código que utilizas para desbloquear este iPad.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este iPad para completar el inicio de sesión con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_IPAD_SERVICE_ITUNES</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this iPad to finish signing in with your Apple ID.</base>
-        <tran loc="es">Para terminar de iniciar sesión en Apple ID, introduce el código que utilizas para desbloquear este iPad.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este iPad para finalizar el inicio de sesión con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>AUTH_ERROR_ALERT_INVALID_CONTEXT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The context does not have an authorization request</base>
-        <tran loc="es">El contexto no tiene una solicitud de autorización</tran>
+        <tran loc="es-419">El contexto no tiene una solicitud de autorización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>AUTH_ERROR_ALERT_UNDERAGE_ACCOUNT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You have to be %@ years or older to sign into apps using your Apple ID.</base>
-        <tran loc="es">Debes tener como mínimo %@ años para iniciar sesión en las apps con tu ID de Apple.</tran>
+        <tran loc="es-419">Debes tener al menos %@ de edad para iniciar sesión en las apps con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>PASSCODE_ALERT_TITLE_LOCKSCREEN</Position>
       <TranslationSet>
         <base loc="en">iPad Passcode</base>
-        <tran loc="es">Código de iPad</tran>
+        <tran loc="es-419">Código del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>PASSCODE_ALERT_TITLE_WITH_USERNAME</Position>
       <TranslationSet>
         <base loc="en">iPad Passcode</base>
-        <tran loc="es">Código de iPad</tran>
+        <tran loc="es-419">Código del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>PASSWORD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID Required</base>
-        <tran loc="es">ID de Apple necesario</tran>
+        <tran loc="es-419">Apple ID necesario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_WATCH_SERVICE_GAME_CENTER</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this Apple Watch to finish signing into Game Center.</base>
-        <tran loc="es">Para terminar de iniciar sesión en Game Center, introduce el código que utilizas para desbloquear este Apple Watch.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este Apple Watch para finalizar el inicio de sesión en Game Center.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>MISSING_INPUT_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">You must enter both your Apple ID and password.</base>
-        <tran loc="es">Debes introducir tu ID de Apple y tu contraseña.</tran>
+        <tran loc="es-419">Debes ingresar el Apple ID y la contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>INLINE_PASSWORD_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for your Apple ID “%@”.</base>
-        <tran loc="es">Introduce la contraseña de tu ID de Apple “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña de tu Apple ID “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>ACCOUNT_FORK_ALERT_BUTTON_KEYCHAIN_MACOS</Position>
       <TranslationSet>
         <base loc="en">Show Accounts</base>
-        <tran loc="es">Mostrar cuentas</tran>
+        <tran loc="es-419">Mostrar cuentas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>AUTH_ERROR_ALERT_INVALID_CONTEXT_TITLE</Position>
       <TranslationSet>
         <base loc="en">[Internal] Invalid Context</base>
-        <tran loc="es">[Interno] Contexto no válido</tran>
+        <tran loc="es-419">[Internal] Contexto inválido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>UNDERAGE_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Ask a parent to set up Family Sharing and create an account for you there.</base>
-        <tran loc="es">Pídele a tu padre o madre que configure “En familia” y cree una cuenta para ti.</tran>
+        <tran loc="es-419">Pídele a un padre o tutor que configure “Compartir en familia” y que cree una cuenta para ti.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>INLINE_PASSWORD_ALERT_USERNAME_PLACEHOLDER_TV</Position>
       <TranslationSet>
         <base loc="en">Enter your Apple ID</base>
-        <tran loc="es">Introduce tu ID de Apple</tran>
+        <tran loc="es-419">Ingresa tu Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>INLINE_PASSWORD_ALERT_TITLE_SERVICE_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">Sign In to iMessage</base>
-        <tran loc="es">Inicia sesión en iMessage</tran>
+        <tran loc="es-419">Iniciar sesión para enviar iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>AUTH_ERROR_ALERT_MISSING_APPLE_ACCOUNT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You need to sign in with your Apple ID in Settings.</base>
-        <tran loc="es">Debes iniciar sesión en Ajustes con tu ID de Apple.</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>ALERT_DEFAULT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>AUTH_ERROR_ALERT_BUTTON_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>FORGOT_PASSWORD_ALERT_OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>INLINE_PASSWORD_ALERT_OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>LOGIN_CODE_ALERT_OK_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>CONTINUE_AUTH_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID Verification</base>
-        <tran loc="es">Verificación del ID de Apple</tran>
+        <tran loc="es-419">Verificación de Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>PASSWORD_ALERT_TITLE_LOCKSCREEN</Position>
       <TranslationSet>
         <base loc="en">Apple ID Verification</base>
-        <tran loc="es">Verificación del ID de Apple</tran>
+        <tran loc="es-419">Verificación de Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>PASSWORD_ALERT_TITLE_WITH_USERNAME</Position>
       <TranslationSet>
         <base loc="en">Apple ID Verification</base>
-        <tran loc="es">Verificación del ID de Apple</tran>
+        <tran loc="es-419">Verificación de Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>INLINE_PASSWORD_ALERT_PASSCODE_PLACEHOLDER_WATCH</Position>
       <TranslationSet>
         <base loc="en">Enter Passcode</base>
-        <tran loc="es">Introduce el código</tran>
+        <tran loc="es-419">Código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>ACCOUNT_FORK_ALERT_BUTTON_CREATE</Position>
       <TranslationSet>
         <base loc="en">Create Account</base>
-        <tran loc="es">Crear cuenta</tran>
+        <tran loc="es-419">Crear cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>INLINE_PASSWORD_ALERT_TITLE_SERVICE_FACETIME</Position>
       <TranslationSet>
         <base loc="en">Sign In to FaceTime</base>
-        <tran loc="es">Inicia sesión en FaceTime</tran>
+        <tran loc="es-419">Inicia sesión para FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>INLINE_PASSWORD_ALERT_PASSWORD_PLACEHOLDER_TV</Position>
       <TranslationSet>
         <base loc="en">Enter your password</base>
-        <tran loc="es">Introduce la contraseña</tran>
+        <tran loc="es-419">Ingresa tu contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>FORGOT_PASSWORD_ALERT_RESET_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Reset Password</base>
-        <tran loc="es">Restablecer contraseña</tran>
+        <tran loc="es-419">Cambiar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>AUTH_ERROR_ALERT_CANNOT_FIND_SERVER_MESSAGE_WIFI</Position>
       <TranslationSet>
         <base loc="en">Make sure you are connected to Wi-Fi or your cellular network.</base>
-        <tran loc="es">Comprueba que te has conectado a tu red Wi-Fi o a tu red de datos móviles.</tran>
+        <tran loc="es-419">Asegúrate de tener conexión a Wi-Fi o a tu red de datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>LOGIN_CODE_ALERT_TITLE_FAILED</Position>
       <TranslationSet>
         <base loc="en">Cannot Generate Code</base>
-        <tran loc="es">No se puede generar código</tran>
+        <tran loc="es-419">No se puede generar un código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>PASSWORD_ALERT_TITLE_WITH_USERNAME_OSX_SERVICE_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">This Mac can’t connect to iMessage because of a problem with “%@”.</base>
-        <tran loc="es">Este Mac no se puede conectar a iMessage debido a un problema con “%@”.</tran>
+        <tran loc="es-419">No se puede conectar esta Mac a iMessage debido a un problema con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>AUTH_ERROR_ALERT_SIGN_UP_NOT_COMPLETED</Position>
       <TranslationSet>
         <base loc="en">Sign Up Not Completed</base>
-        <tran loc="es">No se ha completado el registro</tran>
+        <tran loc="es-419">Registro no completado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>DISPLAY_AUTH_RIGHT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>ALERT_DEFAULT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>ENTER_VERITIFCATION_CODE_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>FORGOT_PASSWORD_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>INLINE_PASSWORD_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>LOGIN_CODE_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>WRONG_LOGIN_CODE_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>WRONG_PASSWORD_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>PASSWORD_ALERT_MESSAGE_INTERNAL_BLAME</Position>
       <TranslationSet>
         <base loc="en"> (Brought to you by %@.)</base>
-        <tran loc="es"> (Proporcionado por %@).</tran>
+        <tran loc="es-419"> (para ti de parte de %@.)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>CODE_INVALID_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The code you entered was not valid.</base>
-        <tran loc="es">El código introducido no es válido.</tran>
+        <tran loc="es-419">El código ingresado no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>INLINE_PASSWORD_ALERT_TITLE_SERVICE_GAME_CENTER</Position>
       <TranslationSet>
         <base loc="en">Sign In to Game Center</base>
-        <tran loc="es">Inicia sesión en Game Center</tran>
+        <tran loc="es-419">Iniciar sesión en Game Center</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>FORGOT_PASSWORD_ALERT_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">If you forgot your Apple ID password, you can reset it using your iPhone passcode.</base>
-        <tran loc="es">Si has olvidado la contraseña de tu ID de Apple, puedes restablecerla utilizando el código de tu iPhone.</tran>
+        <tran loc="es-419">Si olvidaste la contraseña de tu Apple ID, puedes restablecerla usando el código de tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>AUTH_ERROR_ALERT_BUTTON_CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>CHANGE_PASSWORD_ALERT_DEF_BTN</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>PASSWORD_ALERT_TITLE_WITH_USERNAME_OSX_NO_SERVICE</Position>
       <TranslationSet>
         <base loc="en">This Mac can’t connect to your Apple ID because of a problem with “%@”.</base>
-        <tran loc="es">Este Mac no se puede conectar a tu ID de Apple debido a un problema con “%@”.</tran>
+        <tran loc="es-419">No se puede conectar esta Mac a tu Apple ID debido a un problema con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>AUTH_ERROR_ALERT_CREATE_PASSCODE_MESSAGE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Create a passcode for this Apple Watch to sign in to apps using your Apple ID.</base>
-        <tran loc="es">Crea un código para iniciar sesión en las apps con tu ID de Apple desde este Apple Watch.</tran>
+        <tran loc="es-419">Crea un código para este Apple Watch para iniciar sesión en las apps utilizando tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>APPLE_ID_LOCALE_AND_ADMINISTRATIVE_AREA_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>ACCOUNT_FORK_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Do you want to create a new account for this app, or sign in with one of the existing accounts?</base>
-        <tran loc="es">¿Quieres crear una nueva cuenta para esta app o iniciar sesión con una de las existentes?</tran>
+        <tran loc="es-419">¿Quieres crear una nueva cuenta para esta app o iniciar sesión con una de las existentes?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>AUTH_ERROR_ALERT_UNDERAGE_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Create Account</base>
-        <tran loc="es">Imposible crear cuenta</tran>
+        <tran loc="es-419">Imposible crear cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_IPAD_SERVICE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this iPad to finish signing into iCloud.</base>
-        <tran loc="es">Para terminar de iniciar sesión en iCloud, introduce el código que utilizas para desbloquear este iPad.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este iPad para completar el inicio de sesión en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>ENTER_VERIFICATION_CODE</Position>
       <TranslationSet>
         <base loc="en">A message with a verification code has been sent to your other devices running iOS 9 or OS X El Capitan or later. Enter the code to continue.</base>
-        <tran loc="es">Se ha enviado un mensaje con un código de verificación a tus otros dispositivos con iOS 9 u OS X El Capitan o posterior. Introduce el código para continuar.</tran>
+        <tran loc="es-419">Se envió un código de verificación a tus otros dispositivos con iOS 9, OS X El Capitan o versiones posteriores. Ingrésalo para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>PASSWORD_ALERT_MESSAGE_PROXY_INTERNAL_BLAME</Position>
       <TranslationSet>
         <base loc="en"> (Brought to you by %@ via %@.)</base>
-        <tran loc="es"> (Proporcionado por %@ mediante %@).</tran>
+        <tran loc="es-419"> (para ti de parte de %@ mediante %@.)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_LOCKSCREEN_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this iPad.</base>
-        <tran loc="es">Introduce el código que utilizas para desbloquear este iPad.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_LOCKSCREEN</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this iPad in Settings.</base>
-        <tran loc="es">Introduce el código que utilizas para desbloquear este iPad en Ajustes.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este iPad en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>AUTH_ERROR_ALERT_INSUFFICIENT_SECURITY_LEVEL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Two-Factor Authentication Required</base>
-        <tran loc="es">Autenticación de doble factor obligatoria</tran>
+        <tran loc="es-419">Autenticación de dos factores obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>AUTH_ERROR_ALERT_MISSING_APPLE_ACCOUNT_MESSAGE_WATCHOS</Position>
       <TranslationSet>
         <base loc="en">You need to sign in with your Apple ID on this Apple Watch before you can continue.</base>
-        <tran loc="es">Para poder continuar, debes iniciar sesión con tu ID de Apple en este Apple Watch.</tran>
+        <tran loc="es-419">Debes iniciar sesión con tu Apple ID en este Apple Watch antes de poder continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>AUTH_ERROR_ALERT_BUTTON_CLOSE</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>AUTH_ERROR_BUTTON_OPEN_PASSCODE_SETUP</Position>
       <TranslationSet>
         <base loc="en">Open Settings</base>
-        <tran loc="es">Abrir Ajustes</tran>
+        <tran loc="es-419">Abrir Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>AUTH_ERROR_ALERT_CREATE_PASSCODE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Create Passcode to Continue</base>
-        <tran loc="es">Crea un código para continuar</tran>
+        <tran loc="es-419">Crear código para continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>BAD_NETWORK_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">There was an error connecting to the Apple ID server.</base>
-        <tran loc="es">Se ha producido un error al establecer conexión con el servidor de ID de Apple.</tran>
+        <tran loc="es-419">Ocurrió un error al establecer conexión con el servidor de Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>ENTER_VERIFICATION_CODE_PIG</Position>
       <TranslationSet>
         <base loc="en">A message with a verification code has been sent to your other devices running iOS 10 or macOS Sierra or later. Enter the code to continue.</base>
-        <tran loc="es">Se ha enviado un código de verificación a tus otros dispositivos con iOS 10 o macOS Sierra o posterior. Introduce el código para continuar.</tran>
+        <tran loc="es-419">Se envió un código de verificación a tus otros dispositivos con iOS 10 o macOS Sierra, o versiones posteriores. Ingrésalo para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>AUTH_ERROR_ALERT_INSUFFICIENT_SECURITY_LEVEL_MESSAGE_TV</Position>
       <TranslationSet>
         <base loc="en">Sign in with Apple requires two-factor authentication. You can turn on two-factor authentication for your Apple ID from an iOS device or a Mac.</base>
-        <tran loc="es">Iniciar sesión con Apple requiere la autenticación de doble factor. Puedes activarla para tu ID de Apple en un dispositivo iOS o en un Mac.</tran>
+        <tran loc="es-419">Iniciar sesión con Apple requiere autenticación de dos factores. Actívala para tu Apple ID desde un dispositivo iOS o una Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>PASSWORD_ALERT_MESSAGE_SERVICE_TYPE_INTERNAL_BLAME</Position>
       <TranslationSet>
         <base loc="en"> (Requested to authenticate %@.)</base>
-        <tran loc="es"> (Se ha solicitado la autenticación de %@).</tran>
+        <tran loc="es-419"> (se solicitó para autenticar %@.)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_IPAD_SERVICE_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this iPad to finish signing into iMessage.</base>
-        <tran loc="es">Para terminar de iniciar sesión en iMessage, introduce el código que utilizas para desbloquear este iPad.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este iPad para completar el inicio de sesión en iMessage.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>LOGIN_CODE_ALERT_MESSAGE_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Enter this verification code on your other device to sign in.</base>
-        <tran loc="es">Introduce este código de verificación en tu otro dispositivo para iniciar sesión.</tran>
+        <tran loc="es-419">Ingresa este código de verificación en tu otro dispositivo para iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>PASSWORD_ALERT_MESSAGE_LOCKSCREEN_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Enter your Apple ID password.</base>
-        <tran loc="es">Introduce la contraseña de tu ID de Apple.</tran>
+        <tran loc="es-419">Ingresa la contraseña de tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>UNKNOWN_ERROR_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred.</base>
-        <tran loc="es">Se ha producido un error desconocido.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_WATCH_SERVICE_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this Apple Watch to finish signing into iMessage.</base>
-        <tran loc="es">Para terminar de iniciar sesión en iMessage, introduce el código que utilizas para desbloquear este Apple Watch.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este Apple Watch para finalizar el inicio de sesión en iMessage.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>CHANGE_PASSWORD_ALERT_ALT_BTN</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>PASSWORD_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>FORGOT_PASSWORD_ALERT_MESSAGE_OSX</Position>
       <TranslationSet>
         <base loc="en">If you forgot your Apple ID password, you can reset it using this Mac user password.</base>
-        <tran loc="es">Si has olvidado la contraseña de tu ID de Apple, puedes restablecerla utilizando la contraseña de usuario de este Mac.</tran>
+        <tran loc="es-419">Si olvidaste la contraseña de tu Apple ID, puedes restablecerla usando esta de usuario de Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -758,7 +758,7 @@
       <Position>INLINE_PASSWORD_ALERT_TITLE_NO_SERVICE</Position>
       <TranslationSet>
         <base loc="en">Sign In with Apple ID</base>
-        <tran loc="es">Inicia sesión con ID de Apple</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -766,7 +766,7 @@
       <Position>INLINE_PASSWORD_ALERT_TITLE_SERVICE_ITUNES</Position>
       <TranslationSet>
         <base loc="en">Sign In with Apple ID</base>
-        <tran loc="es">Inicia sesión con ID de Apple</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -774,7 +774,7 @@
       <Position>PASSWORD_ALERT_MESSAGE_WITH_USERNAME</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@” in Settings.</base>
-        <tran loc="es">Introduce la contraseña de “%@” en Ajustes.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@” en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -782,7 +782,7 @@
       <Position>WRONG_PASSWORD_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID or password is incorrect.</base>
-        <tran loc="es">El ID de Apple o la contraseña son incorrectos.</tran>
+        <tran loc="es-419">El Apple ID o la contraseña son incorrectos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -790,7 +790,7 @@
       <Position>LOGIN_CODE_ALERT_TITLE_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Apple ID Verification Code</base>
-        <tran loc="es">Código de verificación del ID de Apple</tran>
+        <tran loc="es-419">Código de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -798,7 +798,7 @@
       <Position>VERIFICATION_HEADER</Position>
       <TranslationSet>
         <base loc="en">Apple ID Verification Code</base>
-        <tran loc="es">Código de verificación del ID de Apple</tran>
+        <tran loc="es-419">Código de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -806,7 +806,7 @@
       <Position>AUTH_ERROR_ALERT_MISSING_APPLE_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign In with your Apple ID</base>
-        <tran loc="es">Inicia sesión con tu ID de Apple</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -814,7 +814,7 @@
       <Position>FORGOT_PASSWORD_ALERT_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">If you forgot your Apple ID password, you can reset it using your iPad passcode.</base>
-        <tran loc="es">Si has olvidado la contraseña de tu ID de Apple, puedes restablecerla utilizando el código de tu iPad.</tran>
+        <tran loc="es-419">Si olvidaste la contraseña de tu Apple ID, puedes restablecerla usando el código de tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -822,7 +822,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_IPAD_SERVICE_GAME_CENTER</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this iPad to finish signing into Game Center.</base>
-        <tran loc="es">Para terminar de iniciar sesión en Game Center, introduce el código que utilizas para desbloquear este iPad.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este iPad para completar el inicio de sesión en Game Center.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -830,7 +830,7 @@
       <Position>FORGOT_PASSWORD_ALERT_MESSAGE_APPLETV</Position>
       <TranslationSet>
         <base loc="en">To reset your password, go to iforgot.apple.com.</base>
-        <tran loc="es">Para restablecer tu contraseña, visita iforgot.apple.com.</tran>
+        <tran loc="es-419">Para restablecer tu contraseña, visita iforgot.apple.com/la.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -838,7 +838,7 @@
       <Position>DFR_AUTHENTICATE</Position>
       <TranslationSet>
         <base loc="en">Sign In with Touch ID</base>
-        <tran loc="es">Inicia sesión con Touch ID</tran>
+        <tran loc="es-419">Iniciar sesión con Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -846,7 +846,7 @@
       <Position>INLINE_PASSWORD_ALERT_PASSWORD_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -854,7 +854,7 @@
       <Position>INLINE_PASSWORD_ALERT_PASSWORD_PLACEHOLDER_WATCH</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -862,7 +862,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_IPAD_SERVICE_FACETIME</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this iPad to finish signing into FaceTime.</base>
-        <tran loc="es">Para terminar de iniciar sesión en FaceTime, introduce el código que utilizas para desbloquear este iPad.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este iPad para completar el inicio de sesión en FaceTime.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -870,7 +870,7 @@
       <Position>FORGOT_PASSWORD_ALERT_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">If you forgot your Apple ID password, you can reset it using your iPod touch passcode.</base>
-        <tran loc="es">Si has olvidado la contraseña de tu ID de Apple, puedes restablecerla utilizando el código de tu iPod touch.</tran>
+        <tran loc="es-419">Si olvidaste la contraseña de tu Apple ID, puedes restablecerla usando el código de tu iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -878,7 +878,7 @@
       <Position>PASSWORD_ALERT_SETTINGS_BUTTON_OSX</Position>
       <TranslationSet>
         <base loc="en">Apple ID Preferences…</base>
-        <tran loc="es">Preferencias del ID de Apple…</tran>
+        <tran loc="es-419">Preferencias de Apple ID…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -886,7 +886,7 @@
       <Position>DISPLAY_AUTH_RIGHT_TITLE</Position>
       <TranslationSet>
         <base loc="en">%@ wants to make changes.</base>
-        <tran loc="es">%@ quiere realizar cambios.</tran>
+        <tran loc="es-419">%@ quiere realizar cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -894,7 +894,7 @@
       <Position>SERVICE_NAME_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -902,7 +902,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_WATCH_SERVICE_FACETIME</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this Apple Watch to finish signing into FaceTime.</base>
-        <tran loc="es">Para terminar de iniciar sesión en FaceTime, introduce el código que utilizas para desbloquear este Apple Watch.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este Apple Watch para finalizar el inicio de sesión en FaceTime.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -910,7 +910,7 @@
       <Position>BAD_NETWORK_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -918,7 +918,7 @@
       <Position>CODE_INVALID_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -926,7 +926,7 @@
       <Position>SRP_VERIFICATION_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -934,7 +934,7 @@
       <Position>UNKNOWN_ERROR_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -942,7 +942,7 @@
       <Position>WRONG_PASSWORD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verification Failed</base>
-        <tran loc="es">Error de verificación</tran>
+        <tran loc="es-419">Error de verificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -950,7 +950,7 @@
       <Position>PASSWORD_ALERT_CANCEL_BUTTON_OSX</Position>
       <TranslationSet>
         <base loc="en">Later</base>
-        <tran loc="es">Más tarde</tran>
+        <tran loc="es-419">Más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -958,7 +958,7 @@
       <Position>ENTER_CODE</Position>
       <TranslationSet>
         <base loc="en">Enter Code</base>
-        <tran loc="es">Introduce el código</tran>
+        <tran loc="es-419">Ingresar código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -966,7 +966,7 @@
       <Position>PASSWORD_ALERT_MESSAGE_LOCKSCREEN</Position>
       <TranslationSet>
         <base loc="en">Enter your Apple ID password in Settings.</base>
-        <tran loc="es">Introduce la contraseña de tu ID de Apple en Ajustes.</tran>
+        <tran loc="es-419">Ingresa la contraseña de tu Apple ID en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -974,7 +974,7 @@
       <Position>AUTH_ERROR_ALERT_UNVERIFIED_EMAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unverified Email</base>
-        <tran loc="es">Correo electrónico no verificado</tran>
+        <tran loc="es-419">Correo no verificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -982,7 +982,7 @@
       <Position>APPLE_ID_UNABLE_TO_RESOLVE_LOCATION_FOR_REASON_RESET</Position>
       <TranslationSet>
         <base loc="en">A password reset request was sent from a device at the location shown below.</base>
-        <tran loc="es">Se ha enviado una solicitud de restablecimiento de contraseña desde un dispositivo que se encuentra en la ubicación mostrada abajo.</tran>
+        <tran loc="es-419">Se envió una solicitud para restablecer la contraseña desde un dispositivo con la siguiente ubicación:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -990,7 +990,7 @@
       <Position>APPLE_ID_UNABLE_TO_RESOLVE_LOCATION_FOR_REASON</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID is being used to sign in to a device.</base>
-        <tran loc="es">Tu ID de Apple se está utilizando para iniciar sesión en un dispositivo.</tran>
+        <tran loc="es-419">Se está usando tu Apple ID para iniciar sesión en un dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -998,7 +998,7 @@
       <Position>AUTH_ERROR_ALERT_ACCOUNT_NOT_SUPPORTED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID cannot be used to create accounts for other apps.</base>
-        <tran loc="es">No puedes usar tu ID de Apple para crear cuentas de otras apps.</tran>
+        <tran loc="es-419">Tu Apple ID no se puede utilizar para crear cuentas en otras apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1006,7 +1006,7 @@
       <Position>AUTH_ERROR_ALERT_BUTTON_SYSPREFS</Position>
       <TranslationSet>
         <base loc="en">Open System Preferences</base>
-        <tran loc="es">Abrir Preferencias del Sistema</tran>
+        <tran loc="es-419">Abrir Preferencias del Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1014,7 +1014,7 @@
       <Position>INLINE_PASSWORD_ALERT_PASSCODE_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Passcode</base>
-        <tran loc="es">Código</tran>
+        <tran loc="es-419">Código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1022,7 +1022,7 @@
       <Position>ACCOUNT_FORK_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Existing Accounts Found</base>
-        <tran loc="es">Cuentas existentes</tran>
+        <tran loc="es-419">Cuentas existentes encontradas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1030,7 +1030,7 @@
       <Position>ENTER_VERITIFCATION_CODE_FAILED_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Didn’t Get a Code?</base>
-        <tran loc="es">¿No has recibido un código?</tran>
+        <tran loc="es-419">¿No recibiste un código?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1038,7 +1038,7 @@
       <Position>INLINE_PASSWORD_ALERT_TITLE_SERVICE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Sign In to iCloud</base>
-        <tran loc="es">Inicia sesión en iCloud</tran>
+        <tran loc="es-419">Iniciar sesión en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1046,7 +1046,7 @@
       <Position>AUTH_ERROR_ALERT_MISSING_APPLE_ACCOUNT_MESSAGE_MACOS</Position>
       <TranslationSet>
         <base loc="en">You need to sign in with your Apple ID on this Mac before you can continue.\n\nGo to System Preferences and sign in to continue.</base>
-        <tran loc="es">Para continuar, debes iniciar sesión en este Mac con tu ID de Apple.\n\nVe a Preferencias del Sistema e inicia sesión.</tran>
+        <tran loc="es-419">Para continuar, debes iniciar sesión con tu Apple ID en esta Mac.\n\nPuedes iniciar sesión en Preferencias del Sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1054,7 +1054,7 @@
       <Position>SERVICE_NAME_GAMECENTER</Position>
       <TranslationSet>
         <base loc="en">Game Center</base>
-        <tran loc="es">Game Center</tran>
+        <tran loc="es-419">Game Center</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1062,7 +1062,7 @@
       <Position>PASSWORD_ALERT_TITLE_WITH_USERNAME_OSX_SERVICE_ITUNES</Position>
       <TranslationSet>
         <base loc="en">This Mac can’t connect to Apple Media Services because of a problem with “%@”.</base>
-        <tran loc="es">Este Mac no se puede conectar a los servicios multimedia de Apple por un problema con %@.</tran>
+        <tran loc="es-419">No se puede conectar esta Mac a los servicios de contenido multimedia de Apple debido a un problema con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1070,7 +1070,7 @@
       <Position>FORGOT_PASSWORD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Forgot Password?</base>
-        <tran loc="es">¿Has olvidado tu contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1078,7 +1078,7 @@
       <Position>PASSWORD_ALERT_TITLE_WITH_USERNAME_OSX_SERVICE_GAME_CENTER</Position>
       <TranslationSet>
         <base loc="en">This Mac can’t connect to Game Center because of a problem with “%@”.</base>
-        <tran loc="es">Este Mac no se puede conectar a Game Center debido a un problema con “%@”.</tran>
+        <tran loc="es-419">No se puede conectar esta Mac a Game Center debido a un problema con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1086,7 +1086,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_WATCH_SERVICE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this Apple Watch to finish signing into iCloud.</base>
-        <tran loc="es">Para terminar de iniciar sesión en iCloud, introduce el código que utilizas para desbloquear este Apple Watch.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este Apple Watch para finalizar el inicio de sesión en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1094,7 +1094,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_WATCH_NO_SERVICE</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this Apple Watch to finish signing in with your Apple ID.</base>
-        <tran loc="es">Para terminar de iniciar sesión con tu ID de Apple, introduce el código que utilizas para desbloquear este Apple Watch.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este Apple Watch para finalizar el inicio de sesión con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1102,7 +1102,7 @@
       <Position>PASSCODE_ALERT_MESSAGE_WATCH_SERVICE_ITUNES</Position>
       <TranslationSet>
         <base loc="en">Enter the passcode you use to unlock this Apple Watch to finish signing in with your Apple ID.</base>
-        <tran loc="es">Para terminar de iniciar sesión con tu ID de Apple, introduce el código que utilizas para desbloquear este Apple Watch.</tran>
+        <tran loc="es-419">Ingresa el código que usas para desbloquear este Apple Watch para finalizar el inicio de sesión con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1110,7 +1110,7 @@
       <Position>AUTH_ERROR_ALERT_CANNOT_FIND_SERVER_MESSAGE_WLAN</Position>
       <TranslationSet>
         <base loc="en">Make sure you are connected to WLAN or your cellular network.</base>
-        <tran loc="es">Comprueba que te has conectado a tu red WLAN o a tu red de datos móviles.</tran>
+        <tran loc="es-419">Asegúrate de tener conexión a WLAN o a tu red de datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1118,7 +1118,7 @@
       <Position>LOGIN_CODE_ALERT_OSX_TITLE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID is being used to sign in to a new device</base>
-        <tran loc="es">Tu ID de Apple se está utilizando para iniciar sesión en un dispositivo nuevo</tran>
+        <tran loc="es-419">Se está usando tu Apple ID para iniciar sesión en un nuevo dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1126,7 +1126,7 @@
       <Position>AUTH_ERROR_ALERT_CANNOT_FIND_SERVER_MESSAGE_MAC</Position>
       <TranslationSet>
         <base loc="en">Make sure you are connected to the internet.</base>
-        <tran loc="es">Asegúrate de que estás conectado a internet.</tran>
+        <tran loc="es-419">Asegúrate de tener conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1134,7 +1134,7 @@
       <Position>AUTH_ERROR_ALERT_BUTTON_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1142,7 +1142,7 @@
       <Position>PASSWORD_ALERT_SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1150,7 +1150,7 @@
       <Position>ACCOUNT_FORK_ALERT_BUTTON_KEYCHAIN</Position>
       <TranslationSet>
         <base loc="en">Show Existing Accounts</base>
-        <tran loc="es">Mostrar cuentas existentes</tran>
+        <tran loc="es-419">Mostrar cuentas existentes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1158,7 +1158,7 @@
       <Position>AUTH_ERROR_ALERT_CANNOT_FIND_SERVER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Could Not Connect</base>
-        <tran loc="es">Error de conexión</tran>
+        <tran loc="es-419">No se pudo conectar</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>TRY_AGAIN</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>USE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use Photo</base>
-        <tran loc="es">Usar foto</tran>
+        <tran loc="es-419">Usar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>CAMERA_SENSOR_ANOMALY_TOOL_COMPLETE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Tapping done will complete this test and you will not be able to make any further changes.</base>
-        <tran loc="es">Si pulsas OK, la prueba finalizará y no podrás realizar ningún otro cambio.</tran>
+        <tran loc="es-419">Tocar OK finalizará la prueba y no podrás hacer más cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>UIIMPC_ERROR_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">An error occurred while displaying the image.</base>
-        <tran loc="es">Se ha producido un error al mostrar la imagen.</tran>
+        <tran loc="es-419">Ocurrió un error al mostrar la imagen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>GO_BACK</Position>
       <TranslationSet>
         <base loc="en">Go Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>REMOVE_ITEM</Position>
       <TranslationSet>
         <base loc="en">Remove Selected Item?</base>
-        <tran loc="es">¿Eliminar el ítem seleccionado?</tran>
+        <tran loc="es-419">¿Eliminar el elemento seleccionado?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>CAMERA_SENSOR_ANOMALY_TOOL_COMPLETE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Done Marking Anomalies?</base>
-        <tran loc="es">¿Ya ha acabado la detección de anomalías?</tran>
+        <tran loc="es-419">¿Terminaste de marcar las anomalías?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>PRESS_BUTTON_TO_SKIP</Position>
       <TranslationSet>
         <base loc="en">Press a button to skip</base>
-        <tran loc="es">Pulsa un botón para omitirlo</tran>
+        <tran loc="es-419">Presiona un botón para omitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>RETAKE</Position>
       <TranslationSet>
         <base loc="en">Retake</base>
-        <tran loc="es">Repetir</tran>
+        <tran loc="es-419">Repetir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>UIIMPC_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to Display Image</base>
-        <tran loc="es">No se ha podido mostrar la imagen</tran>
+        <tran loc="es-419">No se puede mostrar la imagen</tran>
       </TranslationSet>
     </TextItem>
   </File>

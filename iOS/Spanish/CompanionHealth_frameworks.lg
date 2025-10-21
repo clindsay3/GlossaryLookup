@@ -14,7 +14,7 @@
       <Position>PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Breathe</base>
-        <tran loc="es">Respirar</tran>
+        <tran loc="es-419">Respirar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>DEEP_BREATHING_WEEKLY_SUMMARY_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Every Monday, the Weekly Summary gives you a brief recap of your Breathe sessions from the previous week.</base>
-        <tran loc="es">Cada lunes recibirás un resumen con las sesiones de respiración de la semana anterior.</tran>
+        <tran loc="es-419">Cada lunes, el resumen semanal te brinda un breve reporte de tus sesiones de Respirar de la semana pasada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>DEEP_BREATHING_WEEKLY_SUMMARY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Weekly Summary</base>
-        <tran loc="es">Resumen semanal</tran>
+        <tran loc="es-419">Resumen semanal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>DEEP_BREATHING_MUTE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Mute for today</base>
-        <tran loc="es">Silenciar hoy</tran>
+        <tran loc="es-419">Silenciar hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>DEEP_BREATHING_REMINDER_LABEL</Position>
       <TranslationSet>
         <base loc="en">Breathe Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios de Respirar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>DEEP_BREATHING_BREATH_RATE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Breath Rate</base>
-        <tran loc="es">Frecuencia respiratoria</tran>
+        <tran loc="es-419">Frecuencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>DEEP_BREATHING_SESSION_DURATION_FOOTER</Position>
       <TranslationSet>
         <base loc="en">When this is on, every new Breathe session will default to the duration of your previously completed session.</base>
-        <tran loc="es">Si esta opción está activada, cada nueva sesión de respiración tendrá por omisión la duración de la última sesión completada.</tran>
+        <tran loc="es-419">Si se activa, cada sesión nueva de Respirar tendrá la misma duración de la última que hayas terminado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>DEEP_BREATHING_HAPTICS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Haptics</base>
-        <tran loc="es">Vibración</tran>
+        <tran loc="es-419">Vibraciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>DEEP_BREATHING_SESSION_DURATION_LABEL</Position>
       <TranslationSet>
         <base loc="en">Use Previous Duration</base>
-        <tran loc="es">Usar duración anterior</tran>
+        <tran loc="es-419">Usar duración anterior</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -95,7 +95,7 @@
       <Position>TRENDS_NOTIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Activity Trends</base>
-        <tran loc="es">Tendencias de actividad</tran>
+        <tran loc="es-419">Tendencias de actividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -103,7 +103,7 @@
       <Position>TRENDS_NOTIFICATION_BODY</Position>
       <TranslationSet>
         <base loc="en">You can view details in the Activity app on your iPhone.</base>
-        <tran loc="es">Puedes consultar los detalles en la app Actividad de tu iPhone.</tran>
+        <tran loc="es-419">Puedes ver detalles en la app Actividad de tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -111,7 +111,7 @@
       <Position>TRENDS_NOTIFICATION_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Your Trends are ready.</base>
-        <tran loc="es">Tus tendencias están listas.</tran>
+        <tran loc="es-419">Tus tendencias están listas.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -128,7 +128,7 @@
       <Position>PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Activity</base>
-        <tran loc="es">Actividad</tran>
+        <tran loc="es-419">actividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>GOAL_COMPLETIONS_ENABLED_FOOTER_WHEELCHAIR</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when you reach your Move, Exercise, and Roll goals.</base>
-        <tran loc="es">Recibirás una notificación cuando alcances tus objetivos de moverte, darte impulso o hacer ejercicio.</tran>
+        <tran loc="es-419">Recibe una notificación al cumplir tus objetivos de Moverse, Ejercicio o Rodar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>WEEKLY_SUMMARY_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Weekly Summary</base>
-        <tran loc="es">Resumen semanal</tran>
+        <tran loc="es-419">Resumen semanal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>WEEKLY_SUMMARY_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Every Monday receive a brief recap of your Move performance from the previous week, and you can adjust your Move goal for the upcoming week.</base>
-        <tran loc="es">Cada lunes recibirás un resumen de cuánto te has movido la semana anterior y podrás ajustar tu objetivo de moverte para la semana que empieza.</tran>
+        <tran loc="es-419">Cada lunes recibirás un resumen del rendimiento de Moverse de la semana pasada y se puede ajustar el objetivo de la próxima semana.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>GOAL_COMPLETIONS_ENABLED_FOOTER_SMART_COACH_WHEELCHAIR</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when you reach your Move, Exercise, and Roll goals or earn an award.</base>
-        <tran loc="es">Recibirás una notificación cuando alcances tus objetivos de moverte, darte impulso o hacer ejercicio, o cuando ganes un premio.</tran>
+        <tran loc="es-419">Recibe una notificación al cumplir tus objetivos de Moverse, Ejercicio o Rodar, o al ganar un premio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>REMOTE_ACHIEVEMENTS_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Special Challenges</base>
-        <tran loc="es">Retos especiales</tran>
+        <tran loc="es-419">Retos especiales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>REMOTE_ACHIEVEMENTS_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Get notifications about limited edition awards you can earn by completing a challenge.</base>
-        <tran loc="es">Recibirás notificaciones sobre los premios de edición limitada que puedes ganar por completar un reto.</tran>
+        <tran loc="es-419">Obtén notificaciones sobre los premios de ediciones limitadas que ganaste al completar un reto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>ACTIVITY_SHARING_NOTIFICATIONS_ENABLED</Position>
       <TranslationSet>
         <base loc="en">Activity Sharing Notifications</base>
-        <tran loc="es">Notificaciones de actividades</tran>
+        <tran loc="es-419">Notificaciones al compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>STAND_REMINDERS_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Stand Reminders</base>
-        <tran loc="es">Recordatorios de levantarse</tran>
+        <tran loc="es-419">Recordatorios de Pararse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>PROGRESS_UPDATES_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Progress Updates</base>
-        <tran loc="es">Actualizar progreso</tran>
+        <tran loc="es-419">Avisos de progreso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>DAILY_PROGRESS_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Daily Coaching</base>
-        <tran loc="es">Entrenamiento diario</tran>
+        <tran loc="es-419">Notificaciones diarias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>ACTIVITY_SHARING_NOTIFICATIONS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when someone who shares Activity with you closes all three rings, finishes a workout, or earns an award.</base>
-        <tran loc="es">Recibirás una notificación cuando alguien que comparta su actividad contigo complete los tres anillos, termine un entreno o gane un premio.</tran>
+        <tran loc="es-419">Recibe una notificación cuando alguien con quien compartes Actividad haya llenado sus tres círculos, termine un entrenamiento o gane un premio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>STAND_REMINDERS_ENABLED_FOOTER_WHEELCHAIR</Position>
       <TranslationSet>
         <base loc="en">Receive a reminder to roll if you’ve been inactive for the first %@ minutes of an hour.</base>
-        <tran loc="es">Se te recordará que toca darse impulso si no te has movido durante los primeros %@ minutos de cada hora.</tran>
+        <tran loc="es-419">Recibe un recordatorio tras pasar los primeros %@ minutos de una hora sin rodar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>GOAL_COMPLETIONS_ENABLED_FOOTER_SMART_COACH</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when you reach your Move, Exercise, and Stand goals or earn an award.</base>
-        <tran loc="es">Recibirás una notificación cuando alcances tus objetivos de moverte, ponerte en pie o hacer ejercicio, o cuando ganes un premio.</tran>
+        <tran loc="es-419">Recibe una notificación al cumplir tus objetivos de Moverse, Ejercicio o Pararse, o al ganar un premio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>GOAL_COMPLETIONS_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when you reach your Move, Exercise, and Stand goals.</base>
-        <tran loc="es">Recibirás una notificación cuando alcances tus objetivos de moverte, ponerte en pie o hacer ejercicio.</tran>
+        <tran loc="es-419">Recibe una notificación al cumplir tus objetivos de Moverse, Ejercicio o Pararse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>ACHIEVEMENTS_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when you reach a milestone or personal best.</base>
-        <tran loc="es">Recibirás una notificación cuando alcances un logro o cuando batas tu récord personal.</tran>
+        <tran loc="es-419">Recibirás una notificación al lograr algo sobresaliente o romper récords.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>STAND_REMINDERS_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a reminder to stand if you’ve been sitting for the first %@ minutes of an hour.</base>
-        <tran loc="es">Se te recordará que toca ponerse de pie si no lo has hecho durante los primeros %@ minutos de cada hora.</tran>
+        <tran loc="es-419">Recibe un recordatorio tras pasar los primeros %@ minutos de una hora sin pararte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>STAND_REMINDERS_ENABLED_LABEL_WHEELCHAIR</Position>
       <TranslationSet>
         <base loc="en">Roll Reminders</base>
-        <tran loc="es">Recordatorios de impulsarse</tran>
+        <tran loc="es-419">Recordatorios de Rodar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>ACHIEVEMENTS_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Achievements</base>
-        <tran loc="es">Logros</tran>
+        <tran loc="es-419">Logros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>DAILY_PROGRESS_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Get notifications that help you complete your Activity goals and Monthly Challenges.</base>
-        <tran loc="es">Recibirás notificaciones que te ayudarán a completar tus objetivos de actividad y tus retos mensuales.</tran>
+        <tran loc="es-419">Obtén notificaciones que te ayudarán a cumplir con tus objetivos de Actividad y retos mensuales.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>PROGRESS_UPDATES_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Set a time interval to receive an update on your Activity progress.</base>
-        <tran loc="es">Indica cada cuánto quieres recibir actualizaciones sobre el progreso de los anillos de actividad.</tran>
+        <tran loc="es-419">Define cada cuándo se recibe un aviso del progreso de Actividad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>GOAL_COMPLETIONS_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Goal Completions</base>
-        <tran loc="es">Objetivos completados</tran>
+        <tran loc="es-419">Objetivos cumplidos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -307,7 +307,7 @@
       <Position>ABOUT_GYMKIT</Position>
       <TranslationSet>
         <base loc="en">About GymKit &amp; Privacy...</base>
-        <tran loc="es">Acerca de GymKit y la privacidad…</tran>
+        <tran loc="es-419">Acerca de GymKit y la privacidad...</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>AUTO_START_WORKOUT_NOTIFICATIONS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">When this is on, Apple Watch will remind you to start a workout if you're running, walking, swimming, on the elliptical, or on the rower.</base>
-        <tran loc="es">Si esta opción está activada, Apple Watch te recordará que inicies el entreno si estás corriendo, andando, nadando o usando la elíptica o el remo.</tran>
+        <tran loc="es-419">Si se activa, el Apple Watch te recordará empezar un entrenamiento si estás corriendo, caminando, nadando, remando o entrenando en la elíptica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>END_REMINDERS_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">End Workout Reminder</base>
-        <tran loc="es">Recordatorio de fin</tran>
+        <tran loc="es-419">Recordar finalizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>PACE_VIEW_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Change between displaying the average pace and the current pace for indoor and outdoor walking and running workouts, and speed for outdoor cycling workouts.</base>
-        <tran loc="es">Cambia entre la visualización del ritmo medio y el ritmo actual en los entrenos de andar o correr al aire libre o en cinta, o entre la velocidad media o actual durante las sesiones de bici al aire libre.</tran>
+        <tran loc="es-419">Cambia entre mostrar el ritmo promedio y el actual de los entrenamientos de caminata y carrera bajo techo y al aire libre, y la velocidad de los de bici al aire libre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>DISABLED_METRICS_TITLE</Position>
       <TranslationSet>
         <base loc="en">DO NOT INCLUDE</base>
-        <tran loc="es">NO INCLUIR</tran>
+        <tran loc="es-419">NO INCLUIR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -347,7 +347,7 @@
       <Position>AUTO_PAUSE_ENABLED_FOOTER_WITHOUT_SPARTAN</Position>
       <TranslationSet>
         <base loc="en">Automatically pauses running workouts when you stop moving and resumes when you start moving again.</base>
-        <tran loc="es">Los entrenos de correr se pondrán en pausa automáticamente cuando te detengas y se reanudarán cuando te pongas en marcha.</tran>
+        <tran loc="es-419">Los entrenamientos se pausan automáticamente cuando te dejas de mover y continúan cuando los reanudas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>METRIC_CURRENT_PACE</Position>
       <TranslationSet>
         <base loc="en">Current Pace</base>
-        <tran loc="es">Ritmo actual</tran>
+        <tran loc="es-419">Ritmo actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -363,7 +363,7 @@
       <Position>METRIC_GROUND_ELEVATION</Position>
       <TranslationSet>
         <base loc="en">Current Elevation</base>
-        <tran loc="es">Altitud</tran>
+        <tran loc="es-419">Elevación actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -371,7 +371,7 @@
       <Position>METRIC_AVERAGE_PACE</Position>
       <TranslationSet>
         <base loc="en">Average Pace</base>
-        <tran loc="es">Ritmo medio</tran>
+        <tran loc="es-419">Ritmo promedio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -379,7 +379,7 @@
       <Position>NFC_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Detect Gym Equipment</base>
-        <tran loc="es">Detectar máquina de gimnasio</tran>
+        <tran loc="es-419">Detectar equipo de gimnasio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>METRIC_ELEVATION</Position>
       <TranslationSet>
         <base loc="en">Elevation Gain</base>
-        <tran loc="es">Desnivel</tran>
+        <tran loc="es-419">Aumento de inclinación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>END_REMINDERS_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">When this is on, Apple Watch will remind you to end your workout if it looks like you’re done.</base>
-        <tran loc="es">Si esta opción está activada, el Apple Watch te recordará que finalices el entreno cuando parezca que has terminado.</tran>
+        <tran loc="es-419">Si se activa, el Apple Watch te recordará finalizar tu entrenamiento si parece que ya lo terminaste.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>END_REMINDERS_ENABLED_FOOTER_WITHOUT_SPARTAN</Position>
       <TranslationSet>
         <base loc="en">When this is on, Apple Watch will remind you to end your workout if it looks like you’re done.</base>
-        <tran loc="es">Si esta opción está activada, el Apple Watch te recordará que finalices el entreno cuando parezca que has terminado.</tran>
+        <tran loc="es-419">Si se activa, el Apple Watch te recordará finalizar tu entrenamiento si parece que ya lo terminaste.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>MUSIC_AUTOSTART_FOOTER</Position>
       <TranslationSet>
         <base loc="en">This playlist will automatically play when you start a workout, unless you’re already listening to music or other media.</base>
-        <tran loc="es">Esta lista de reproducción se reproducirá automáticamente cuando empieces un entreno, a menos que ya estés escuchando otra cosa.</tran>
+        <tran loc="es-419">Esta playlist se reproducirá automáticamente cuando empieces a ejercitarte, salvo si ya estabas escuchando música u otro tipo de contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -419,7 +419,7 @@
       <Position>MUSIC_AUTOSTART_PLAYBACK_FROM_BEGINNING</Position>
       <TranslationSet>
         <base loc="en">Play from beginning</base>
-        <tran loc="es">Reproducir desde el inicio</tran>
+        <tran loc="es-419">Reproducir desde el principio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -427,7 +427,7 @@
       <Position>PLAYLISTS</Position>
       <TranslationSet>
         <base loc="en">Playlists</base>
-        <tran loc="es">Listas</tran>
+        <tran loc="es-419">Playlists</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -435,7 +435,7 @@
       <Position>ABOUT_GYMKIT_TITLE</Position>
       <TranslationSet>
         <base loc="en">About GymKit &amp; Privacy</base>
-        <tran loc="es">Acerca de GymKit y la privacidad</tran>
+        <tran loc="es-419">GymKit y la privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -449,7 +449,7 @@
       <Position>PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Workout</base>
-        <tran loc="es">Entreno</tran>
+        <tran loc="es-419">Entrenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -457,7 +457,7 @@
       <Position>MULTIPLE_METRIC_LABEL</Position>
       <TranslationSet>
         <base loc="en">Multiple Metric</base>
-        <tran loc="es">Varias mediciones</tran>
+        <tran loc="es-419">Varias métricas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -465,7 +465,7 @@
       <Position>PACE_VIEW_LABEL</Position>
       <TranslationSet>
         <base loc="en">Pace/Speed View</base>
-        <tran loc="es">Ritmo/velocidad</tran>
+        <tran loc="es-419">Ver ritmo/velocidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@
       <Position>METRIC_AVERAGE_SPEED</Position>
       <TranslationSet>
         <base loc="en">Average Speed</base>
-        <tran loc="es">Velocidad media</tran>
+        <tran loc="es-419">Velocidad promedio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@
       <Position>METRIC_DURATION</Position>
       <TranslationSet>
         <base loc="en">Duration</base>
-        <tran loc="es">Duración</tran>
+        <tran loc="es-419">Duración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>AUTO_START_WORKOUT_NOTIFICATIONS_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Start Workout Reminder</base>
-        <tran loc="es">Recordatorio de inicio</tran>
+        <tran loc="es-419">Recordar empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>METRIC_DISTANCE</Position>
       <TranslationSet>
         <base loc="en">Distance</base>
-        <tran loc="es">Distancia</tran>
+        <tran loc="es-419">Distancia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>AUTO_PAUSE_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Running Auto Pause</base>
-        <tran loc="es">Pausas automáticas al correr</tran>
+        <tran loc="es-419">Pausa al dejar de correr</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@
       <Position>METRIC_LAPS</Position>
       <TranslationSet>
         <base loc="en">Laps</base>
-        <tran loc="es">Largos</tran>
+        <tran loc="es-419">Tramos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@
       <Position>AUTO_PAUSE_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Automatically pauses running workouts when you stop moving and resumes when you start moving again. This will not affect running workouts that are being controlled by a connected treadmill.</base>
-        <tran loc="es">Los entrenos de correr se pondrán en pausa automáticamente cuando te detengas y se reanudarán cuando te pongas en marcha. Esto no afecta a los entrenos de correr controlados mediante una cinta de correr conectada.</tran>
+        <tran loc="es-419">Los entrenamientos se pausan automáticamente cuando te dejas de mover y continúan cuando los reanudas; esto no afectará a los controlados por una caminadora conectada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>METRIC_CURRENT_CADENCE</Position>
       <TranslationSet>
         <base loc="en">Current Cadence</base>
-        <tran loc="es">Cadencia actual</tran>
+        <tran loc="es-419">Cadencia actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>MUSIC_AUTOSTART_TITLE</Position>
       <TranslationSet>
         <base loc="en">Workout Playlist</base>
-        <tran loc="es">Lista para los entrenos</tran>
+        <tran loc="es-419">Playlist para entrenar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>METRIC_ACTIVE_ENERGY_KCAL</Position>
       <TranslationSet>
         <base loc="en">Active Calories</base>
-        <tran loc="es">Calorías activas</tran>
+        <tran loc="es-419">Calorías activas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@
       <Position>MUSIC_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>MUSIC_ENABLED</Position>
       <TranslationSet>
         <base loc="en">Enabled</base>
-        <tran loc="es">Activada</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>DELETE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>METRIC_VIEW_LABEL</Position>
       <TranslationSet>
         <base loc="en">Workout View</base>
-        <tran loc="es">Durante el entreno ver</tran>
+        <tran loc="es-419">Visualización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>MULTIPLE_METRIC_FOOTER</Position>
       <TranslationSet>
         <base loc="en">This view shows the most popular metrics on one screen during a workout. You can customize the type and order of these metrics for each workout below.</base>
-        <tran loc="es">Esta visualización muestra varias mediciones populares en una misma pantalla durante el entreno. Más abajo puedes personalizar qué mediciones se muestran para cada entreno y en qué orden.</tran>
+        <tran loc="es-419">Esta visualización muestra las métricas más populares en la pantalla durante un entrenamiento. Puedes personalizar su tipo y orden para cada entrenamiento a continuación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>SINGLE_METRIC_FOOTER</Position>
       <TranslationSet>
         <base loc="en">This view shows one metric at a time during a workout. You can change the current metric displayed by turning the Digital Crown.</base>
-        <tran loc="es">Esta visualización muestra una sola medición a la vez durante el entreno. Puedes cambiar qué medición se muestra girando la corona Digital Crown.</tran>
+        <tran loc="es-419">Esta visualización muestra una sola métrica a la vez durante un entrenamiento. Al girar la Digital Crown, puedes cambiar la que se muestra.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>ENABLED_METRICS_TITLE</Position>
       <TranslationSet>
         <base loc="en">METRICS</base>
-        <tran loc="es">MEDICIONES</tran>
+        <tran loc="es-419">DIMENSIONES</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>CHORD_PRESS_PAUSE_WORKOUT_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Press to Pause</base>
-        <tran loc="es">Pulsar para poner en pausa</tran>
+        <tran loc="es-419">Presiona para pausar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>MUSIC_AUTOSTART_PLAYBACK_SHUFFLE</Position>
       <TranslationSet>
         <base loc="en">Shuffle</base>
-        <tran loc="es">Aleatorio</tran>
+        <tran loc="es-419">Aleatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@
       <Position>METRIC_HEART_RATE</Position>
       <TranslationSet>
         <base loc="en">Heart Rate</base>
-        <tran loc="es">Frecuencia cardiaca</tran>
+        <tran loc="es-419">Frecuencia cardiaca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +633,7 @@
       <Position>AVERAGE_PACE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Average</base>
-        <tran loc="es">Promedio</tran>
+        <tran loc="es-419">Promedio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +641,7 @@
       <Position>METRIC_TOTAL_ENERGY_KCAL</Position>
       <TranslationSet>
         <base loc="en">Total Calories</base>
-        <tran loc="es">Total de calorías</tran>
+        <tran loc="es-419">Cal en total</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +649,7 @@
       <Position>CHORD_PRESS_PAUSE_WORKOUT_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Pause or resume your workout by pressing the side button and Digital Crown at the same time.</base>
-        <tran loc="es">Pon en pausa o reanuda tu entreno pulsando el botón lateral y la corona Digital Crown al mismo tiempo.</tran>
+        <tran loc="es-419">Pausa o reanuda tu entrenamiento al presionar el botón lateral y la Digital Crown al mismo tiempo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@
       <Position>SINGLE_METRIC_LABEL</Position>
       <TranslationSet>
         <base loc="en">Single Metric</base>
-        <tran loc="es">Una medición</tran>
+        <tran loc="es-419">Una métrica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@
       <Position>CURRENT_PACE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Current</base>
-        <tran loc="es">Actual</tran>
+        <tran loc="es-419">Actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@
       <Position>METRIC_AVERAGE_CADENCE</Position>
       <TranslationSet>
         <base loc="en">Average Cadence</base>
-        <tran loc="es">Cadencia media</tran>
+        <tran loc="es-419">Índice de cadencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +681,7 @@
       <Position>METRIC_CURRENT_SPEED</Position>
       <TranslationSet>
         <base loc="en">Current Speed</base>
-        <tran loc="es">Velocidad actual</tran>
+        <tran loc="es-419">Velocidad actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +689,7 @@
       <Position>WORKOUTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">WORKOUTS</base>
-        <tran loc="es">ENTRENOS</tran>
+        <tran loc="es-419">ENTRENAMIENTOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +697,7 @@
       <Position>PRO_SETTING_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Show Goal Metric</base>
-        <tran loc="es">Ver valores</tran>
+        <tran loc="es-419">Mostrar medida de objetivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +705,7 @@
       <Position>NFC_ENABLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Quickly connect and start workouts by holding Apple Watch near compatible gym equipment. When this is off, you can connect by opening the Workout app, then holding Apple Watch near the gym equipment.</base>
-        <tran loc="es">Acerca el Apple Watch a una máquina de gimnasio compatible para conectarlo y empezar a entrenar rápidamente. Si esta opción está desactivada, puedes abrir la app Entreno y acercar el Apple Watch a la máquina para conectarlo.</tran>
+        <tran loc="es-419">Conéctate rápidamente y comienza entrenamientos al acercar tu Apple Watch al equipo de gimnasio que sea compatible. Si esta función está desactivada, puedes conectarte al abrir la app Entrenamiento y luego acercar tu Apple Watch al equipo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +713,7 @@
       <Position>METRIC_ROLLING_PACE</Position>
       <TranslationSet>
         <base loc="en">Rolling Pace</base>
-        <tran loc="es">Ritmo de tramo</tran>
+        <tran loc="es-419">Ritmo reciente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +721,7 @@
       <Position>POWER_SAVING_MODE_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Power Saving Mode</base>
-        <tran loc="es">Ahorrar batería</tran>
+        <tran loc="es-419">Ahorrar energía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +729,7 @@
       <Position>METRIC_ACTIVE_ENERGY_KJ</Position>
       <TranslationSet>
         <base loc="en">Active Kilojoules</base>
-        <tran loc="es">Kilojulios activos</tran>
+        <tran loc="es-419">Kilojoules activos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>METRIC_TOTAL_ENERGY_KJ</Position>
       <TranslationSet>
         <base loc="en">Total Kilojoules</base>
-        <tran loc="es">Total de kilojulios</tran>
+        <tran loc="es-419">Kilojoules en total</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -748,7 +748,7 @@
       <Position>DEEP_BREATHING_HAPTIC_LEVEL_MINIMAL</Position>
       <TranslationSet>
         <base loc="en">Minimal</base>
-        <tran loc="es">Mínima</tran>
+        <tran loc="es-419">Mínima</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -756,7 +756,7 @@
       <Position>DEEP_BREATHING_HAPTIC_LEVEL_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +770,7 @@
       <Position>PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Haptics</base>
-        <tran loc="es">Vibración</tran>
+        <tran loc="es-419">Vibraciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +778,7 @@
       <Position>DEEP_BREATHING_HAPTIC_LEVEL_PROMINENT</Position>
       <TranslationSet>
         <base loc="en">Prominent</base>
-        <tran loc="es">Especial</tran>
+        <tran loc="es-419">Especial</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -795,7 +795,7 @@
       <Position>PROGRESS_UPDATE_PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Progress Updates</base>
-        <tran loc="es">Actualizar progreso</tran>
+        <tran loc="es-419">Avisos de progreso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -803,7 +803,7 @@
       <Position>PROGRESS_UPDATE_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Nunca</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -811,7 +811,7 @@
       <Position>PROGRESS_UPDATE_GROUP_FOOTER_NONE</Position>
       <TranslationSet>
         <base loc="en">Choose a time interval to receive an update on your Activity progress that highlights the goal you’re closest to achieving.</base>
-        <tran loc="es">Indica cada cuándo quieres recibir actualizaciones sobre el progreso de los anillos de actividad, en las que se destaca el objetivo que tienes más cerca.</tran>
+        <tran loc="es-419">Selecciona cada cuándo recibir una actualización del progreso de Actividad que destaque el objetivo más pronto de lograr.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>PROGRESS_UPDATE_GROUP_FOOTER_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Choose a time interval to receive an update on your Activity progress that highlights the goal you’re closest to achieving. If you receive a goal completion or achievement during this time interval, the next progress update will be pushed back approximately %@ hours.</base>
-        <tran loc="es">Indica cada cuánto quieres recibir actualizaciones sobre el progreso de los anillos de actividad, en las que se destaca el objetivo que tienes más cerca. Si recibes una notificación de logro o de objetivo alcanzado, la siguiente actualización de progreso se retrasará unas %@ horas.</tran>
+        <tran loc="es-419">Selecciona cada cuándo recibir una actualización del progreso de Actividad que destaque el objetivo más pronto de lograr. Si completas un objetivo u obtienes un logro en este intervalo, la próxima actualización de progreso tardará aproximadamente %@ horas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>PROGRESS_UPDATE_%@</Position>
       <TranslationSet>
         <base loc="en">Every %@ hours</base>
-        <tran loc="es">Cada %@ horas</tran>
+        <tran loc="es-419">Cada %@ horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>SELECTED_PROGRESS_UPDATE_%@</Position>
       <TranslationSet>
         <base loc="en">Every %@ hours</base>
-        <tran loc="es">Cada %@ horas</tran>
+        <tran loc="es-419">Cada %@ horas</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -852,7 +852,7 @@
       <Position>PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Breath Rate</base>
-        <tran loc="es">Frecuencia respiratoria</tran>
+        <tran loc="es-419">Frecuencia</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -863,7 +863,7 @@
       <Position>/DEEP_BREATHING_BREATH_RATE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@breaths@</base>
-        <tran loc="es">%#@breaths@</tran>
+        <tran loc="es-419">%#@breaths@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -871,7 +871,7 @@
       <Position>/SELECTED_DEEP_BREATHING_BREATH_RATE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@breaths@</base>
-        <tran loc="es">%#@breaths@</tran>
+        <tran loc="es-419">%#@breaths@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -879,7 +879,7 @@
       <Position>/DEEP_BREATHING_BREATH_RATE:dict/breaths:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d breath per minute</base>
-        <tran loc="es">%d resp./min</tran>
+        <tran loc="es-419">%d vez por min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -887,7 +887,7 @@
       <Position>/SELECTED_DEEP_BREATHING_BREATH_RATE:dict/breaths:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d breath per minute</base>
-        <tran loc="es">%d resp./min</tran>
+        <tran loc="es-419">%d vez por min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -895,7 +895,7 @@
       <Position>/DEEP_BREATHING_BREATH_RATE:dict/breaths:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d breaths per minute</base>
-        <tran loc="es">%d resp./min</tran>
+        <tran loc="es-419">%d veces por min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -903,7 +903,7 @@
       <Position>/DEEP_BREATHING_BREATH_RATE:dict/breaths:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d breaths per minute</base>
-        <tran loc="es">%d resp./min</tran>
+        <tran loc="es-419">%d veces por min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -911,7 +911,7 @@
       <Position>/SELECTED_DEEP_BREATHING_BREATH_RATE:dict/breaths:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d breaths per minute</base>
-        <tran loc="es">%d resp./min</tran>
+        <tran loc="es-419">%d veces por min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -919,7 +919,7 @@
       <Position>/SELECTED_DEEP_BREATHING_BREATH_RATE:dict/breaths:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d breaths per minute</base>
-        <tran loc="es">%d resp./min</tran>
+        <tran loc="es-419">%d veces por min</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -936,7 +936,7 @@
       <Position>DEEP_BREATHING_REMINDER_PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Breathe Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios de Respirar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -947,7 +947,7 @@
       <Position>/DEEP_BREATHING_REMINDERS_PER_DAY:dict/times:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d time a day</base>
-        <tran loc="es">%d vez al día</tran>
+        <tran loc="es-419">%d vez al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -955,7 +955,7 @@
       <Position>/SELECTED_DEEP_BREATHING_REMINDERS_PER_DAY:dict/times:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d time a day</base>
-        <tran loc="es">%d vez al día</tran>
+        <tran loc="es-419">%d vez al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -963,7 +963,7 @@
       <Position>/DEEP_BREATHING_REMINDERS_PER_DAY:dict/times:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d times a day</base>
-        <tran loc="es">%d veces al día</tran>
+        <tran loc="es-419">%d veces al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -971,7 +971,7 @@
       <Position>/SELECTED_DEEP_BREATHING_REMINDERS_PER_DAY:dict/times:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d times a day</base>
-        <tran loc="es">%d veces al día</tran>
+        <tran loc="es-419">%d veces al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -979,7 +979,7 @@
       <Position>/DEEP_BREATHING_REMINDERS_PER_DAY:dict/times:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -987,7 +987,7 @@
       <Position>/DEEP_BREATHING_REMINDER_FREQUENCY:dict/hours:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -995,7 +995,7 @@
       <Position>/SELECTED_DEEP_BREATHING_REMINDERS_PER_DAY:dict/times:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1003,7 +1003,7 @@
       <Position>/SELECTED_DEEP_BREATHING_REMINDER_FREQUENCY:dict/hours:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1011,7 +1011,7 @@
       <Position>/DEEP_BREATHING_REMINDER_FREQUENCY:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@hours@</base>
-        <tran loc="es">%#@hours@</tran>
+        <tran loc="es-419">%#@hours@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1019,7 +1019,7 @@
       <Position>/SELECTED_DEEP_BREATHING_REMINDER_FREQUENCY:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@hours@</base>
-        <tran loc="es">%#@hours@</tran>
+        <tran loc="es-419">%#@hours@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1027,7 +1027,7 @@
       <Position>/DEEP_BREATHING_REMINDER_FREQUENCY:dict/hours:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Every %d hours</base>
-        <tran loc="es">Cada %d horas</tran>
+        <tran loc="es-419">Cada %d horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1035,7 +1035,7 @@
       <Position>/SELECTED_DEEP_BREATHING_REMINDER_FREQUENCY:dict/hours:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Every %d hours</base>
-        <tran loc="es">Cada %d horas</tran>
+        <tran loc="es-419">Cada %d horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1043,7 +1043,7 @@
       <Position>/DEEP_BREATHING_REMINDERS_PER_DAY:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@times@</base>
-        <tran loc="es">%#@times@</tran>
+        <tran loc="es-419">%#@times@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1051,7 +1051,7 @@
       <Position>/SELECTED_DEEP_BREATHING_REMINDERS_PER_DAY:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@times@</base>
-        <tran loc="es">%#@times@</tran>
+        <tran loc="es-419">%#@times@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1059,7 +1059,7 @@
       <Position>/DEEP_BREATHING_REMINDER_FREQUENCY:dict/hours:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Every hour</base>
-        <tran loc="es">Cada hora</tran>
+        <tran loc="es-419">Cada hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1067,7 +1067,7 @@
       <Position>/SELECTED_DEEP_BREATHING_REMINDER_FREQUENCY:dict/hours:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Every hour</base>
-        <tran loc="es">Cada hora</tran>
+        <tran loc="es-419">Cada hora</tran>
       </TranslationSet>
     </TextItem>
   </File>

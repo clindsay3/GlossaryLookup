@@ -9,7 +9,7 @@
       <Position> / </Position>
       <TranslationSet>
         <base loc="en"> / </base>
-        <tran loc="es"> / </tran>
+        <tran loc="es-419"> / </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -17,7 +17,7 @@
       <Position>%@: %@</Position>
       <TranslationSet>
         <base loc="en">%@: %@</base>
-        <tran loc="es">%@: %@</tran>
+        <tran loc="es-419">%@: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -25,7 +25,7 @@
       <Position>Sent</Position>
       <TranslationSet>
         <base loc="en">Sent</base>
-        <tran loc="es">Enviado</tran>
+        <tran loc="es-419">Se envió</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -33,7 +33,7 @@
       <Position>, </Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +41,7 @@
       <Position>Subject</Position>
       <TranslationSet>
         <base loc="en">Subject</base>
-        <tran loc="es">Asunto</tran>
+        <tran loc="es-419">Asunto</tran>
       </TranslationSet>
     </TextItem>
   </File>

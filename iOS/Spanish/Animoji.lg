@@ -8,7 +8,7 @@
       <Position>DELETE_MEMOJI_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete this Memoji?</base>
-        <tran loc="es">¿Seguro que quieres eliminar este Memoji?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar este Memoji?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>DELETE_MEMOJI_ALERT_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>STICKER_RECENTS_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Stickers</base>
-        <tran loc="es">Stickers</tran>
+        <tran loc="es-419">Stickers</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>MEMOJI_SPLASH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Memoji</base>
-        <tran loc="es">Memoji</tran>
+        <tran loc="es-419">Memoji</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>DUPLICATE</Position>
       <TranslationSet>
         <base loc="en">Duplicate</base>
-        <tran loc="es">Duplicar</tran>
+        <tran loc="es-419">Duplicar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>SHARE ALL</Position>
       <TranslationSet>
         <base loc="en">Share all</base>
-        <tran loc="es">Compartir todo</tran>
+        <tran loc="es-419">Compartir todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>MEMOJI_SPLASH_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Make your own Animoji. Make it look like you, or get creative.</base>
-        <tran loc="es">Crea tu propio Animoji. Haz que se te parezca o deja volar tu creatividad.</tran>
+        <tran loc="es-419">Crea tu propio Animoji. Que se parezca a ti o deja volar tu imaginación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>SESSION_INTERRUPTED</Position>
       <TranslationSet>
         <base loc="en">Audio is in use by another app</base>
-        <tran loc="es">Otra app está usando el audio</tran>
+        <tran loc="es-419">Otra app está usando el audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>ADD</Position>
       <TranslationSet>
         <base loc="en">Add</base>
-        <tran loc="es">Añadir</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>DELETE_MEMOJI_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>CREATE</Position>
       <TranslationSet>
         <base loc="en">New Memoji</base>
-        <tran loc="es">Nuevo Memoji</tran>
+        <tran loc="es-419">Nuevos Memojis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>STICKER_RECENTS_SPLASH_CONTINUE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>EDITING_DISCARD_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Keep Editing</base>
-        <tran loc="es">Continuar edición</tran>
+        <tran loc="es-419">Seguir editando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>TAP_TO_RESUME</Position>
       <TranslationSet>
         <base loc="en">Tap to Resume</base>
-        <tran loc="es">Pulsa para reanudar</tran>
+        <tran loc="es-419">Toca para reanudar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>DELETE_MEMOJI_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Delete Memoji</base>
-        <tran loc="es">Eliminar Memoji</tran>
+        <tran loc="es-419">Eliminar Memoji</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>EDITING_CREATE_DISCARD_CONFIRMATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to discard this new Memoji?</base>
-        <tran loc="es">¿Seguro que quieres descartar este nuevo Memoji?</tran>
+        <tran loc="es-419">¿Seguro que quieres descartar este nuevo Memoji?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>LOW_LIGHT</Position>
       <TranslationSet>
         <base loc="en">Low light</base>
-        <tran loc="es">Poca luz</tran>
+        <tran loc="es-419">Poca luz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>EDITING_DISCARD_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Discard Changes</base>
-        <tran loc="es">No guardar cambios</tran>
+        <tran loc="es-419">No guardar cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>STICKER_RECENTS_SPLASH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Memoji Stickers</base>
-        <tran loc="es">Stickers de Memoji</tran>
+        <tran loc="es-419">Stickers de Memojis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>MEMOJI_SPLASH_CREATE_YOURS</Position>
       <TranslationSet>
         <base loc="en">Get Started</base>
-        <tran loc="es">Primeros pasos</tran>
+        <tran loc="es-419">Empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>CAMERA_COVERED</Position>
       <TranslationSet>
         <base loc="en">Camera covered</base>
-        <tran loc="es">Cámara tapada</tran>
+        <tran loc="es-419">Cámara obstruida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>EDITING_DISCARD_CONFIRMATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to discard your changes?</base>
-        <tran loc="es">¿Seguro que quieres descartar los cambios?</tran>
+        <tran loc="es-419">¿Seguro que quieres descartar tus cambios?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>ROTATE_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Rotate %@</base>
-        <tran loc="es">Girar %@</tran>
+        <tran loc="es-419">Girar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>SHARE</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>TRACKING_LOST</Position>
       <TranslationSet>
         <base loc="en">Bring your face into view</base>
-        <tran loc="es">Enfoca la cámara a tu cara</tran>
+        <tran loc="es-419">Tu cara debe ser visible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>FACE_TRACKING_FAILED</Position>
       <TranslationSet>
         <base loc="en">Face tracking failed. Tap to retry.</base>
-        <tran loc="es">Error de seguimiento de cara. Pulsa para reintentarlo.</tran>
+        <tran loc="es-419">Error al reconocer la cara. Toca para reintentar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>STICKER_RECENTS_SPLASH_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Send stickers of your\nvery own Memoji</base>
-        <tran loc="es">Envía stickers de tu\n propio Memoji</tran>
+        <tran loc="es-419">Envía stickers de tu\npropio Memoji</tran>
       </TranslationSet>
     </TextItem>
   </File>

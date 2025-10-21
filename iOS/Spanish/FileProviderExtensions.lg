@@ -15,7 +15,7 @@
       <Position>%@ available</Position>
       <TranslationSet>
         <base loc="en">%@ available</base>
-        <tran loc="es">Espacio disponible: %@</tran>
+        <tran loc="es-419">%@ disponible(s)</tran>
       </TranslationSet>
     </TextItem>
   </File>

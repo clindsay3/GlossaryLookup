@@ -11,7 +11,7 @@
       <Position>SYNC_CONTACTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Allow Contacts and Favorites Sync?</base>
-        <tran loc="es">¿Permitir la sincronización de contactos y favoritos?</tran>
+        <tran loc="es-419">¿Permitir sincronizar los contactos y Favoritos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>PAIRING_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Pairing Unsuccessful</base>
-        <tran loc="es">Enlace no establecido</tran>
+        <tran loc="es-419">Enlace no establecido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>POWER_WLAN_TITLE</Position>
       <TranslationSet>
         <base loc="en">WLAN is Off</base>
-        <tran loc="es">La conexión WLAN está desactivada</tran>
+        <tran loc="es-419">WLAN: no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>POWER_BLUETOOTH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Bluetooth is Off</base>
-        <tran loc="es">Bluetooth está desactivado</tran>
+        <tran loc="es-419">Bluetooth está desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>POWER_ENABLE_WLAN_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Turn On WLAN</base>
-        <tran loc="es">Activar WLAN</tran>
+        <tran loc="es-419">Activa WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>POWER_ENABLE_BLUETOOTH_WLAN_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Turn On WLAN and Bluetooth</base>
-        <tran loc="es">Activar WLAN y Bluetooth</tran>
+        <tran loc="es-419">Activa WLAN y Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>PAIRING_FAILED_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>POWER_BLUETOOTH_WLAN_TITLE</Position>
       <TranslationSet>
         <base loc="en">WLAN and Bluetooth are Off</base>
-        <tran loc="es">Las conexiones WLAN y Bluetooth están desactivadas</tran>
+        <tran loc="es-419">WLAN y Bluetooth: no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>POWER_ENABLE_BLUETOOTH_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Turn On Bluetooth</base>
-        <tran loc="es">Activar Bluetooth</tran>
+        <tran loc="es-419">Activa Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>POWER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">CarPlay will only be available over USB. Do you also want to enable wireless CarPlay?</base>
-        <tran loc="es">CarPlay solo estará disponible a través de USB. ¿Quieres activar también el modo inalámbrico de CarPlay?</tran>
+        <tran loc="es-419">CarPlay sólo estará disponible por USB. ¿Quieres también permitir CarPlay inalámbrico?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>SYNC_ALLOW_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>PAIR_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Pair</base>
-        <tran loc="es">Enlazar</tran>
+        <tran loc="es-419">Enlazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>PAIRING_FAILED_MESSAGE_TIMEOUT</Position>
       <TranslationSet>
         <base loc="en">Pairing took too long.</base>
-        <tran loc="es">El proceso de enlace duró demasiado.</tran>
+        <tran loc="es-419">El proceso de enlace duró demasiado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>PAIRING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Pairing Request</base>
-        <tran loc="es">Solicitud de enlace Bluetooth</tran>
+        <tran loc="es-419">Solicitud de enlace Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>SYNC_CONTACTS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your car may request your contacts, phone favorites, and recent phone calls over Bluetooth. Do you wish to allow this? CarPlay will work without syncing.</base>
-        <tran loc="es">El coche puede solicitar tus contactos, números de teléfono favoritos y llamadas recientes por Bluetooth. ¿Quieres permitir la sincronización? CarPlay seguirá funcionando aunque no se sincronice.</tran>
+        <tran loc="es-419">Tu automóvil podría solicitar contactos, favoritos del teléfono y llamadas recientes por Bluetooth. ¿Quieres permitirlo? CarPlay no necesita sincronizar para su funcionamiento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>SYNC_DISALLOW_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>POWER_ENABLE_BLUETOOTH_WIFI_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Turn On Wi-Fi and Bluetooth</base>
-        <tran loc="es">Activar Wi-Fi y Bluetooth</tran>
+        <tran loc="es-419">Activa Wi‑Fi y Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>POWER_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">USB Only</base>
-        <tran loc="es">Solo USB</tran>
+        <tran loc="es-419">Sólo USB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>POWER_BLUETOOTH_WIFI_TITLE</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi and Bluetooth are Off</base>
-        <tran loc="es">Las conexiones Wi-Fi y Bluetooth están desactivadas</tran>
+        <tran loc="es-419">Wi-Fi y Bluetooth: no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>POWER_WIFI_TITLE</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi is Off</base>
-        <tran loc="es">La conexión Wi-Fi está desactivada</tran>
+        <tran loc="es-419">Wi-Fi: no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>POWER_ENABLE_WIFI_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Turn On Wi-Fi</base>
-        <tran loc="es">Activar Wi-Fi</tran>
+        <tran loc="es-419">Activa Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>PAIRING_FAILED_MESSAGE_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Make sure “%@” is turned on, in range, and is ready to pair.</base>
-        <tran loc="es">Asegúrate de que “%@” está encendido, se encuentra dentro del alcance y está preparado para el enlace.</tran>
+        <tran loc="es-419">Asegúrate de que “%@” está encendido, se encuentra dentro del alcance y está preparado para el enlace.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>NUMERIC_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%@” would like to pair with your %@. Confirm that the code “%@” is shown on “%@”.</base>
-        <tran loc="es">“%@” quiere enlazar con tu %@. Confirma que el código “%@” se muestra en “%@”.</tran>
+        <tran loc="es-419">“%@” quiere enlazarse con tu %@. Confirma que el código “%@” se muestra en “%@”.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -209,7 +209,7 @@
       <Position>/SMARTWIDGET_CALENDAR_EVENT_COUNT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@eventcount@</base>
-        <tran loc="es">%#@eventcount@</tran>
+        <tran loc="es-419">%#@eventcount@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>/SMARTWIDGET_CALENDAR_EVENT_COUNT:dict/eventcount:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Events</base>
-        <tran loc="es">%lu eventos</tran>
+        <tran loc="es-419">%lu eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>/SMARTWIDGET_CALENDAR_EVENT_COUNT:dict/eventcount:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">1 Event</base>
-        <tran loc="es">1 evento</tran>
+        <tran loc="es-419">1 evento</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -236,7 +236,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_CLOSING</Position>
       <TranslationSet>
         <base loc="en">Closing</base>
-        <tran loc="es">Cerrando</tran>
+        <tran loc="es-419">Cerrando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +244,7 @@
       <Position>LOCKOUT_DISCLOSURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Disclosure Check</base>
-        <tran loc="es">Comprobación de permisos</tran>
+        <tran loc="es-419">Verificación de autorización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +252,7 @@
       <Position>LOCKOUT_UNDISCLOSED</Position>
       <TranslationSet>
         <base loc="en">Undisclosed Passengers</base>
-        <tran loc="es">Pasajeros no revelados</tran>
+        <tran loc="es-419">Pasajeros no autorizados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -260,7 +260,7 @@
       <Position>LOCKOUT_SIRI_TITLE</Position>
       <TranslationSet>
         <base loc="en">CarPlay Not Available</base>
-        <tran loc="es">CarPlay no disponible</tran>
+        <tran loc="es-419">CarPlay no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -268,7 +268,7 @@
       <Position>LOCKOUT_SAFE</Position>
       <TranslationSet>
         <base loc="en">Confirmed Safe</base>
-        <tran loc="es">Seguridad confirmada</tran>
+        <tran loc="es-419">Privacidad confirmada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -276,7 +276,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_OBSTRUCTED</Position>
       <TranslationSet>
         <base loc="en">Obstruction detected</base>
-        <tran loc="es">Obstrucción detectada</tran>
+        <tran loc="es-419">Se detectó una obstrucción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -284,7 +284,7 @@
       <Position>APP_USING_MIC_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -292,7 +292,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_ERROR</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>LOCKOUT_BACK_TO_OEM</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>APP_USING_MIC_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">on iPhone is currently using the microphone.</base>
-        <tran loc="es">del iPhone está usando el micrófono en este momento.</tran>
+        <tran loc="es-419">en el iPhone está usando el micrófono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>LOCKOUT_GENERIC_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unlock your iPhone\nto start CarPlay</base>
-        <tran loc="es">Para usar CarPlay\ndesbloquea el iPhone</tran>
+        <tran loc="es-419">Desbloquea tu iPhone\npara iniciar CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -330,7 +330,7 @@
       <Position>LAUNCHER_NAME-com.apple.cardisplay.nowplaying</Position>
       <TranslationSet>
         <base loc="en">Now Playing</base>
-        <tran loc="es">Ahora suena</tran>
+        <tran loc="es-419">Ahora suena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -338,7 +338,7 @@
       <Position>LAUNCHER_NAME-com.apple.cardisplay.OEM</Position>
       <TranslationSet>
         <base loc="en">Car</base>
-        <tran loc="es">Coche</tran>
+        <tran loc="es-419">Automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -346,7 +346,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_UNREACHABLE</Position>
       <TranslationSet>
         <base loc="en">No Response</base>
-        <tran loc="es">Sin respuesta</tran>
+        <tran loc="es-419">Sin respuesta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -354,7 +354,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_UNKNOWN</Position>
       <TranslationSet>
         <base loc="en">Updating</base>
-        <tran loc="es">Actualizando</tran>
+        <tran loc="es-419">Actualizando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -362,7 +362,7 @@
       <Position>NOW_PLAYING_NOT_PLAYING</Position>
       <TranslationSet>
         <base loc="en">Not Playing</base>
-        <tran loc="es">Sin reproducir</tran>
+        <tran loc="es-419">Sin reproducción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -370,7 +370,7 @@
       <Position>LOCKOUT_SIRI_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To use CarPlay, enable Siri in the\nSettings app on your iPhone</base>
-        <tran loc="es">Para usar CarPlay, activa Siri desde\nla app Ajustes del iPhone</tran>
+        <tran loc="es-419">Para usar CarPlay en tu auto, activa Siri en la\napp Configuración de tu iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -378,7 +378,7 @@
       <Position>SMARTWIDGET_CALENDAR_EVENTS_STARTING</Position>
       <TranslationSet>
         <base loc="en">Starting at %@</base>
-        <tran loc="es">Empieza a las %@</tran>
+        <tran loc="es-419">Empieza a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -386,7 +386,7 @@
       <Position>LOCKOUT_THERMAL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Temperature</base>
-        <tran loc="es">Temperatura</tran>
+        <tran loc="es-419">Temperatura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -394,7 +394,7 @@
       <Position>LOCKOUT_DISCLOSURE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To use CarPlay, ensure non-disclosed persons are not present in the vehicle.</base>
-        <tran loc="es">Para usar CarPlay, comprueba que en el vehículo no hay pasajeros no revelados.</tran>
+        <tran loc="es-419">Para usar CarPlay, asegúrate de que en el vehículo no haya personas no autorizadas para que se les divulgue información confidencial.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -402,7 +402,7 @@
       <Position>SMARTWIDGET_CALENDAR_ALLDAY</Position>
       <TranslationSet>
         <base loc="en">all-day</base>
-        <tran loc="es">todo el día</tran>
+        <tran loc="es-419">todo el día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -410,7 +410,7 @@
       <Position>LOCKOUT_THERMAL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">iPhone needs to cool down\nbefore you can use it.</base>
-        <tran loc="es">La temperatura del iPhone debe\ndisminuir antes de que puedas usarlo.</tran>
+        <tran loc="es-419">El iPhone necesita enfriarse\npara poder usarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -418,7 +418,7 @@
       <Position>LOCKOUT_FEATURES_OFF</Position>
       <TranslationSet>
         <base loc="en">Trusted Passengers</base>
-        <tran loc="es">Pasajeros de confianza</tran>
+        <tran loc="es-419">Pasajeros confiables</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -426,7 +426,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_CLOSED</Position>
       <TranslationSet>
         <base loc="en">Closed</base>
-        <tran loc="es">Cerrada</tran>
+        <tran loc="es-419">Cerrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -434,7 +434,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_STOPPED</Position>
       <TranslationSet>
         <base loc="en">Stopped</base>
-        <tran loc="es">Detenido</tran>
+        <tran loc="es-419">Detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -442,7 +442,7 @@
       <Position>SMARTWIDGET_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Message</base>
-        <tran loc="es">Mensaje</tran>
+        <tran loc="es-419">Mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -450,7 +450,7 @@
       <Position>SMARTWIDGET_CALL</Position>
       <TranslationSet>
         <base loc="en">Call</base>
-        <tran loc="es">Llamar</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -458,7 +458,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_OPENING</Position>
       <TranslationSet>
         <base loc="en">Opening</base>
-        <tran loc="es">Apertura</tran>
+        <tran loc="es-419">Abriendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -466,7 +466,7 @@
       <Position>SMARTWIDGET_GARGAGEDOOR_OPEN</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abierta</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -477,7 +477,7 @@
       <Position>CUSTOMIZE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Add and organize apps to show in CarPlay’s home screen.</base>
-        <tran loc="es">Añade y organiza las apps que se muestran en la pantalla de inicio de CarPlay.</tran>
+        <tran loc="es-419">Agrega y organiza apps para que se muestren en la pantalla de inicio de CarPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -485,7 +485,7 @@
       <Position>CUSTOMIZE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Customize</base>
-        <tran loc="es">Personalizar</tran>
+        <tran loc="es-419">Personalizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -493,7 +493,7 @@
       <Position>MY_CARS_SINGULAR</Position>
       <TranslationSet>
         <base loc="en">My Car</base>
-        <tran loc="es">Mi coche</tran>
+        <tran loc="es-419">Mi auto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -501,7 +501,7 @@
       <Position>FORGET_CONFIRMATION_WIRED_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Forget “%@”?</base>
-        <tran loc="es">¿Omitir “%@”?</tran>
+        <tran loc="es-419">¿Olvidar “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -509,7 +509,7 @@
       <Position>DNL_INTERNAL_NOTES</Position>
       <TranslationSet>
         <base loc="en">Radar Notes</base>
-        <tran loc="es">Radar Notes</tran>
+        <tran loc="es-419">Radar Notes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -517,7 +517,7 @@
       <Position>DEBUG_BLUETOOTH_CONNECTING</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Connecting</base>
-        <tran loc="es">Conectando Bluetooth</tran>
+        <tran loc="es-419">Bluetooth conectándose</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -525,7 +525,7 @@
       <Position>MY_CARS_PLURAL</Position>
       <TranslationSet>
         <base loc="en">My Cars</base>
-        <tran loc="es">Mis coches</tran>
+        <tran loc="es-419">Mis automóviles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -533,7 +533,7 @@
       <Position>HOME_SCREEN_INSTRUCTIONS</Position>
       <TranslationSet>
         <base loc="en">Touch and hold any icon on the home screen, then drag it to the desired location.</base>
-        <tran loc="es">Mantén pulsado un icono de la pantalla de inicio y arrástralo hasta la ubicación deseada.</tran>
+        <tran loc="es-419">Mantén presionado cualquier ícono de la pantalla de Inicio y arrástralo hasta la ubicación que quieres.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -541,7 +541,7 @@
       <Position>DEBUG_BLUETOOTH_PAIRED</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Paired</base>
-        <tran loc="es">Bluetooth enlazado</tran>
+        <tran loc="es-419">Bluetooth enlazado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -549,7 +549,7 @@
       <Position>FORGET_CONFIRMATION_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -557,7 +557,7 @@
       <Position>HOME_SCREEN_RESET_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -565,7 +565,7 @@
       <Position>DEBUG_BLUETOOTH_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Connected</base>
-        <tran loc="es">Bluetooth conectado</tran>
+        <tran loc="es-419">Bluetooth conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +573,7 @@
       <Position>FORGET_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Forget This Car</base>
-        <tran loc="es">Omitir este coche</tran>
+        <tran loc="es-419">Olvidar este automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -581,7 +581,7 @@
       <Position>HOME_SCREEN_RESET</Position>
       <TranslationSet>
         <base loc="en">Reset</base>
-        <tran loc="es">Restablecer</tran>
+        <tran loc="es-419">Restablecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -589,7 +589,7 @@
       <Position>FORGET_CONFIRMATION_BLUETOOTH_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Forget “%@” for CarPlay and Bluetooth?</base>
-        <tran loc="es">¿Omitir “%@” en CarPlay y Bluetooth?</tran>
+        <tran loc="es-419">¿Olvidar “%@” para CarPlay y Bluetooth?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -598,7 +598,7 @@
       <Position>DNL_INTERNAL_ONLY</Position>
       <TranslationSet>
         <base loc="en">[Internal Only]</base>
-        <tran loc="es">[Internal Only]</tran>
+        <tran loc="es-419">[Internal Only]</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -606,7 +606,7 @@
       <Position>WIRELESS_SETUP_FOOTER</Position>
       <TranslationSet>
         <base loc="en">If your car supports wireless CarPlay, press and hold the voice control button on your steering wheel to start CarPlay setup.</base>
-        <tran loc="es">Si tu coche permite el uso inalámbrico de CarPlay, mantén pulsado el botón del control por voz del volante para iniciar la configuración de CarPlay.</tran>
+        <tran loc="es-419">Si tu automóvil soporta CarPlay inalámbrico, presiona sin soltar el botón de control de voz de tu volante para configurar CarPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -614,7 +614,7 @@
       <Position>DNL_INTERNAL_NOTES_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Custom text notes will be included in radars you file from this vehicle.</base>
-        <tran loc="es">Custom text notes will be included in radars you file from this vehicle.</tran>
+        <tran loc="es-419">Se incluirán notas personalizadas en los reportes de Radar que crees desde este vehículo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -622,7 +622,7 @@
       <Position>CUSTOMIZE_APP_REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -630,7 +630,7 @@
       <Position>FORGET</Position>
       <TranslationSet>
         <base loc="en">Forget</base>
-        <tran loc="es">Omitir</tran>
+        <tran loc="es-419">Olvidar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -638,7 +638,7 @@
       <Position>FORGET_CONFIRMATION_FORGET</Position>
       <TranslationSet>
         <base loc="en">Forget</base>
-        <tran loc="es">Omitir</tran>
+        <tran loc="es-419">Olvidar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -646,7 +646,7 @@
       <Position>CUSTOMIZE_ENABLED_APPS_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Include</base>
-        <tran loc="es">Incluir</tran>
+        <tran loc="es-419">Incluir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -654,7 +654,7 @@
       <Position>ALLOW_LOCKED_CARPLAY_SWITCH</Position>
       <TranslationSet>
         <base loc="en">Allow CarPlay While Locked</base>
-        <tran loc="es">CarPlay estando bloqueado</tran>
+        <tran loc="es-419">CarPlay al estar bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -662,7 +662,7 @@
       <Position>CARPLAY_ENHANCED_INTEGRATION_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Sharing which apps on your iPhone use CarPlay allows this car to quickly switch back to these apps in CarPlay. CarPlay will work without this.</base>
-        <tran loc="es">Compartir qué apps de tu iPhone usan CarPlay permite al coche volver rápidamente a ellas en CarPlay. CarPlay puede funcionar sin esta opción.</tran>
+        <tran loc="es-419">Compartir cuáles apps de tu iPhone pueden usar CarPlay permite que este auto regrese rápidamente a estas apps en CarPlay. CarPlay funciona de todas formas si no lo compartes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -670,7 +670,7 @@
       <Position>HOME_SCREEN_RESET_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Reset Home Screen Layout</base>
-        <tran loc="es">Restablecer pantalla de inicio</tran>
+        <tran loc="es-419">Restablecer pantalla de inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -678,7 +678,7 @@
       <Position>CARPLAY_NAVIGATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">CarPlay</base>
-        <tran loc="es">CarPlay</tran>
+        <tran loc="es-419">CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -686,7 +686,7 @@
       <Position>CARPLAY_SWITCH</Position>
       <TranslationSet>
         <base loc="en">CarPlay</base>
-        <tran loc="es">CarPlay</tran>
+        <tran loc="es-419">CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -694,7 +694,7 @@
       <Position>CARPLAY_FOOTER_TEXT_WIRELESS</Position>
       <TranslationSet>
         <base loc="en">When your phone is nearby and you start your car, CarPlay will start automatically.</base>
-        <tran loc="es">Cuando arranques el coche y tengas el teléfono cerca, CarPlay se iniciará automáticamente.</tran>
+        <tran loc="es-419">CarPlay se iniciará automáticamente cuando tu teléfono esté cerca y enciendas tu automóvil.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -702,7 +702,7 @@
       <Position>AVAILABLE_CARS</Position>
       <TranslationSet>
         <base loc="en">Available Cars</base>
-        <tran loc="es">Coches disponibles</tran>
+        <tran loc="es-419">Automóviles disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -710,7 +710,7 @@
       <Position>DEBUG_ACCESSORY_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Accessory Connected</base>
-        <tran loc="es">Accesorio conectado</tran>
+        <tran loc="es-419">Accesorio conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -718,7 +718,7 @@
       <Position>CUSTOMIZE_HIDDEN_APPS_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">More Apps</base>
-        <tran loc="es">Más apps</tran>
+        <tran loc="es-419">Más apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -726,7 +726,7 @@
       <Position>OTHER_CARS</Position>
       <TranslationSet>
         <base loc="en">Other Cars</base>
-        <tran loc="es">Otros coches</tran>
+        <tran loc="es-419">Otros automóviles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -734,7 +734,7 @@
       <Position>DEBUG_NOT_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Not Connected</base>
-        <tran loc="es">Sin conexión</tran>
+        <tran loc="es-419">No conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -742,7 +742,7 @@
       <Position>CARPLAY_ENHANCED_INTEGRATION_SWITCH</Position>
       <TranslationSet>
         <base loc="en">Enhanced Integration</base>
-        <tran loc="es">Integración mejorada</tran>
+        <tran loc="es-419">Integración mejorada</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -753,7 +753,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">CarPlaySettings</base>
-        <tran loc="es">CarPlaySettings</tran>
+        <tran loc="es-419">CarPlaySettings</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -778,7 +778,7 @@
       <Position>TEXT_SIZE_SMALL</Position>
       <TranslationSet>
         <base loc="en">Small</base>
-        <tran loc="es">Pequeño</tran>
+        <tran loc="es-419">Pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +786,7 @@
       <Position>DISPLAY_MODE_AUTOMATIC</Position>
       <TranslationSet>
         <base loc="en">Automatic</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +794,7 @@
       <Position>DISPLAY_MODE_ALWAYS_LIGHT</Position>
       <TranslationSet>
         <base loc="en">Always Light</base>
-        <tran loc="es">Siempre claro</tran>
+        <tran loc="es-419">Siempre claro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +802,7 @@
       <Position>ALBUM_ART_TITLE</Position>
       <TranslationSet>
         <base loc="en">Show Album Art</base>
-        <tran loc="es">Mostrar carátula del álbum</tran>
+        <tran loc="es-419">Ilustración del álbum</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +810,7 @@
       <Position>SUGGESTIONS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Suggestions in Dashboard</base>
-        <tran loc="es">Sugerencias en Panel</tran>
+        <tran loc="es-419">Sugerencias en el tablero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +818,7 @@
       <Position>TEXT_SIZE_MEDIUM</Position>
       <TranslationSet>
         <base loc="en">Medium</base>
-        <tran loc="es">Medio</tran>
+        <tran loc="es-419">Medio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +826,7 @@
       <Position>DISPLAY_MODE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Appearance</base>
-        <tran loc="es">Aspecto</tran>
+        <tran loc="es-419">Aspecto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -834,7 +834,7 @@
       <Position>DISPLAY_MODE_ALWAYS_DARK</Position>
       <TranslationSet>
         <base loc="en">Always Dark</base>
-        <tran loc="es">Siempre oscuro</tran>
+        <tran loc="es-419">Siempre obscuro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -842,7 +842,7 @@
       <Position>DNDWD_AUTOREPLY_FAVORITES</Position>
       <TranslationSet>
         <base loc="en">Your Favorites will receive an auto-reply message when they text you.</base>
-        <tran loc="es">Tus favoritos recibirán una respuesta automática cuando te envíen un mensaje.</tran>
+        <tran loc="es-419">Tus Favoritos recibirán un mensaje automático cuando te envíen algún mensaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -850,7 +850,7 @@
       <Position>DNDWD_AUTOREPLY_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Your Contacts will receive an auto-reply message when they text you.</base>
-        <tran loc="es">Tus contactos recibirán una respuesta automática cuando te envíen un mensaje.</tran>
+        <tran loc="es-419">Tus contactos recibirán un mensaje automático cuando te envíen algún mensaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +858,7 @@
       <Position>DNDWD_AUTOREPLY_RECENTS</Position>
       <TranslationSet>
         <base loc="en">People you’ve responded to in the last day will receive an auto-reply message when they text you.</base>
-        <tran loc="es">Cuando las personas a las que has respondido durante el último día te envíen un mensaje, recibirán una respuesta automática.</tran>
+        <tran loc="es-419">Las personas a las que respondiste el día anterior recibirán un mensaje automático cuando te envíen algún mensaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +866,7 @@
       <Position>TEXT_SIZE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Text Size</base>
-        <tran loc="es">Tamaño del texto</tran>
+        <tran loc="es-419">Tamaño del texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -874,7 +874,7 @@
       <Position>INTERNAL_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Internal Settings</base>
-        <tran loc="es">Ajustes internos</tran>
+        <tran loc="es-419">Configuración interna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -882,7 +882,7 @@
       <Position>TEXT_SIZE_LARGE</Position>
       <TranslationSet>
         <base loc="en">Large</base>
-        <tran loc="es">Grande</tran>
+        <tran loc="es-419">Amplia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -890,7 +890,7 @@
       <Position>DNDWD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb While Driving</base>
-        <tran loc="es">No molestar al conducir</tran>
+        <tran loc="es-419">No molestar al ir al volante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -898,7 +898,7 @@
       <Position>DISPLAY_TEXT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Display &amp; Text</base>
-        <tran loc="es">Pantalla y texto</tran>
+        <tran loc="es-419">Pantalla y texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>SETTINGS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>DNDWD_ACTIVATE_CARPLAY</Position>
       <TranslationSet>
         <base loc="en">Activate With CarPlay</base>
-        <tran loc="es">Activar con CarPlay</tran>
+        <tran loc="es-419">Activar con CarPlay</tran>
       </TranslationSet>
     </TextItem>
   </File>

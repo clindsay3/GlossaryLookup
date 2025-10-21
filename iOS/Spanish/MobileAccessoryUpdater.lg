@@ -8,7 +8,7 @@
       <Position>Apple iPad Pro Smart Keyboard</Position>
       <TranslationSet>
         <base loc="en">Apple iPad Pro Smart Keyboard</base>
-        <tran loc="es">Smart Keyboard para el iPad Pro de Apple</tran>
+        <tran loc="es-419">Apple Smart Keyboard para iPad Pro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Preparing…</Position>
       <TranslationSet>
         <base loc="en">Preparing…</base>
-        <tran loc="es">Preparando…</tran>
+        <tran loc="es-419">Preparando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Apple Pencil</Position>
       <TranslationSet>
         <base loc="en">Apple Pencil</base>
-        <tran loc="es">Apple Pencil</tran>
+        <tran loc="es-419">Apple Pencil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Percent Complete</Position>
       <TranslationSet>
         <base loc="en">%d%% Complete</base>
-        <tran loc="es">%d%% completado</tran>
+        <tran loc="es-419">%d%% completado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Restart Title</Position>
       <TranslationSet>
         <base loc="en">Restart</base>
-        <tran loc="es">Reiniciar</tran>
+        <tran loc="es-419">Reiniciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Update</Position>
       <TranslationSet>
         <base loc="en">Update</base>
-        <tran loc="es">Actualizar</tran>
+        <tran loc="es-419">Actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Updating Title Format</Position>
       <TranslationSet>
         <base loc="en">Updating “%@”</base>
-        <tran loc="es">Actualizando “%@”</tran>
+        <tran loc="es-419">Actualizando “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Accessory Update Available</Position>
       <TranslationSet>
         <base loc="en">Accessory Update Available</base>
-        <tran loc="es">Actualización de accesorio disponible</tran>
+        <tran loc="es-419">Actualización de accesorio disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Update Available Title</Position>
       <TranslationSet>
         <base loc="en">Accessory Update Available</base>
-        <tran loc="es">Actualización de accesorio disponible</tran>
+        <tran loc="es-419">Actualización de accesorio disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Current Firmware Version</Position>
       <TranslationSet>
         <base loc="en">\nCurrent Firmware on Accessory: %@</base>
-        <tran loc="es">\nFirmware actual del accesorio: %@</tran>
+        <tran loc="es-419">\nFirmware actual del accesorio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Not Now Title</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Update Available Body</Position>
       <TranslationSet>
         <base loc="en">Do you want to restart to update your %@?</base>
-        <tran loc="es">¿Quieres reiniciar para actualizar tu %@?</tran>
+        <tran loc="es-419">¿Quieres reiniciar para actualizar lo siguente?: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Later</Position>
       <TranslationSet>
         <base loc="en">Later</base>
-        <tran loc="es">Más tarde</tran>
+        <tran loc="es-419">Más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Accessory</Position>
       <TranslationSet>
         <base loc="en">Accessory</base>
-        <tran loc="es">Accesorio</tran>
+        <tran loc="es-419">Accesorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Update Optional Prompt</Position>
       <TranslationSet>
         <base loc="en">Would you like to update “%@”?</base>
-        <tran loc="es">¿Quieres actualizar “%@”?</tran>
+        <tran loc="es-419">¿Quieres actualizar “%@”?</tran>
       </TranslationSet>
     </TextItem>
   </File>

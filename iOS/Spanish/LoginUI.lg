@@ -8,7 +8,7 @@
       <Position>Server connection failed. Please try again.</Position>
       <TranslationSet>
         <base loc="en">Server connection failed. Please try again.</base>
-        <tran loc="es">Error de conexión con el servidor. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Error de conexión con el servidor. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Switching to user failed</Position>
       <TranslationSet>
         <base loc="en">Switching to user failed</base>
-        <tran loc="es">Error al cambiar de usuario</tran>
+        <tran loc="es-419">Error al cambiar usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Federated auth failed</Position>
       <TranslationSet>
         <base loc="en">Federated auth failed</base>
-        <tran loc="es">Error al realizar la autenticación federada</tran>
+        <tran loc="es-419">Error de autenticación federada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>The maximum number of users allowed on this device has been reached</Position>
       <TranslationSet>
         <base loc="en">The maximum number of users allowed on this device has been reached</base>
-        <tran loc="es">Se ha alcanzado el número máximo de usuarios permitidos en este dispositivo</tran>
+        <tran loc="es-419">Se alcanzó el número máximo de usuarios para este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Not a managed Apple ID</Position>
       <TranslationSet>
         <base loc="en">Not a managed Apple ID</base>
-        <tran loc="es">Este no es un ID de Apple gestionado</tran>
+        <tran loc="es-419">No es un Apple ID administrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Connection invalidated</Position>
       <TranslationSet>
         <base loc="en">Connection invalidated</base>
-        <tran loc="es">Se ha invalidado la conexión</tran>
+        <tran loc="es-419">Conexión no válida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>User‘s account is locked out</Position>
       <TranslationSet>
         <base loc="en">User‘s account is locked out</base>
-        <tran loc="es">La cuenta del usuario está bloqueada</tran>
+        <tran loc="es-419">Se bloqueó la cuenta del usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Not in Login Window</Position>
       <TranslationSet>
         <base loc="en">Not in Login Window</base>
-        <tran loc="es">Esta no es la ventana de inicio de sesión</tran>
+        <tran loc="es-419">No está en una ventana lógica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>User has not authenticated remotely in the last 7 days</Position>
       <TranslationSet>
         <base loc="en">User has not authenticated remotely in the last 7 days</base>
-        <tran loc="es">El usuario no se ha autenticado de forma remota en los últimos siete días</tran>
+        <tran loc="es-419">El usuario no ha autenticado remotamente en los últimos siete días.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Unable to register for a notification</Position>
       <TranslationSet>
         <base loc="en">Unable to register for a notification</base>
-        <tran loc="es">No se puede registrarse para una notificación</tran>
+        <tran loc="es-419">No se pudo registrar para una notificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>User not found</Position>
       <TranslationSet>
         <base loc="en">User not found</base>
-        <tran loc="es">Usuario no encontrado</tran>
+        <tran loc="es-419">Usuario no encontrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Operation interrupted</Position>
       <TranslationSet>
         <base loc="en">Operation interrupted</base>
-        <tran loc="es">Operación interrumpida</tran>
+        <tran loc="es-419">Operación interrumpida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Login timed out</Position>
       <TranslationSet>
         <base loc="en">Login timed out</base>
-        <tran loc="es">Inicio de sesión agotado</tran>
+        <tran loc="es-419">Se agotó el tiempo de la sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Unknown authentication mode received</Position>
       <TranslationSet>
         <base loc="en">Unknown authentication mode received</base>
-        <tran loc="es">Se ha recibido un método de autenticación desconocido</tran>
+        <tran loc="es-419">Modo de autenticación desconocida recibido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Device is not in multi user mode</Position>
       <TranslationSet>
         <base loc="en">Device is not in multi user mode</base>
-        <tran loc="es">El dispositivo no está en modo multiusuario</tran>
+        <tran loc="es-419">El dispositivo no tiene activado el modo de usuarios múltiples</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Cannot create user</Position>
       <TranslationSet>
         <base loc="en">Cannot create user</base>
-        <tran loc="es">No se puede crear el usuario</tran>
+        <tran loc="es-419">No se puede crear el usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>All Classes</Position>
       <TranslationSet>
         <base loc="en">All Classes</base>
-        <tran loc="es">Todas las clases</tran>
+        <tran loc="es-419">Todas las clases</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>User‘s short lived token is missing</Position>
       <TranslationSet>
         <base loc="en">User‘s short lived token is missing</base>
-        <tran loc="es">Falta el identificador de corta duración del usuario</tran>
+        <tran loc="es-419">Falta el token temporal del usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Device is not in homescreen</Position>
       <TranslationSet>
         <base loc="en">Device is not in homescreen</base>
-        <tran loc="es">El dispositivo no está en la pantalla de inicio</tran>
+        <tran loc="es-419">El dispositivo no está en la pantalla de Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>Not entitled to perform that action</Position>
       <TranslationSet>
         <base loc="en">Not entitled to perform that action</base>
-        <tran loc="es">Esa acción no está autorizada</tran>
+        <tran loc="es-419">Sin autorización para realizar esa acción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>Wrong password</Position>
       <TranslationSet>
         <base loc="en">Wrong password</base>
-        <tran loc="es">Contraseña incorrecta</tran>
+        <tran loc="es-419">Contraseña incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>Class not found</Position>
       <TranslationSet>
         <base loc="en">Class not found</base>
-        <tran loc="es">Clase no encontrada</tran>
+        <tran loc="es-419">Clase no encontrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>Connection interrupted</Position>
       <TranslationSet>
         <base loc="en">Connection interrupted</base>
-        <tran loc="es">Se ha interrumpido la conexión</tran>
+        <tran loc="es-419">Conexión interrumpida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>This Apple ID cannot be used on this device</Position>
       <TranslationSet>
         <base loc="en">This Apple ID cannot be used on this device</base>
-        <tran loc="es">Este ID de Apple no puede usarse en este dispositivo</tran>
+        <tran loc="es-419">Este Apple ID no puede usarse en este dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>Other Classes</Position>
       <TranslationSet>
         <base loc="en">Other Classes</base>
-        <tran loc="es">Otras clases</tran>
+        <tran loc="es-419">Otros clases</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>Please try again</Position>
       <TranslationSet>
         <base loc="en">Please try again</base>
-        <tran loc="es">Inténtalo de nuevo</tran>
+        <tran loc="es-419">Intenta de nuevo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>Passcode back off</Position>
       <TranslationSet>
         <base loc="en">Passcode back off</base>
-        <tran loc="es">El código está desactivado de nuevo</tran>
+        <tran loc="es-419">Retiro de código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Login was not ready for the given period of time</Position>
       <TranslationSet>
         <base loc="en">Login was not ready for the given period of time</base>
-        <tran loc="es">El inicio de sesión no estaba listo para el periodo de tiempo dado</tran>
+        <tran loc="es-419">El inicio de sesión no estaba listo para el periodo dado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>No internet connection</Position>
       <TranslationSet>
         <base loc="en">No internet connection</base>
-        <tran loc="es">No hay conexión a internet</tran>
+        <tran loc="es-419">Sin conexión a Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>User‘s Alt DSID is missing</Position>
       <TranslationSet>
         <base loc="en">User‘s Alt DSID is missing</base>
-        <tran loc="es">Falta el DSID alternativo del usuario</tran>
+        <tran loc="es-419">Falta el DSID alterno del usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>Cannot fetch authentication mode</Position>
       <TranslationSet>
         <base loc="en">Cannot fetch authentication mode</base>
-        <tran loc="es">No se puede obtener el modo de autenticación</tran>
+        <tran loc="es-419">No se puede recuperar el modo de autenticación</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -259,7 +259,7 @@
       <Position>RECENTS_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Recents</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>LAST_LOGIN_DATE</Position>
       <TranslationSet>
         <base loc="en">Last Login Date</base>
-        <tran loc="es">Fecha del último inicio de sesión</tran>
+        <tran loc="es-419">Fecha de último inicio de sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>SELECT_CLASS_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Select Your Class</base>
-        <tran loc="es">Selecciona tu clase</tran>
+        <tran loc="es-419">Selecciona tu clase</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>PASSCODE_TYPE</Position>
       <TranslationSet>
         <base loc="en">Passcode Type</base>
-        <tran loc="es">Tipo de código</tran>
+        <tran loc="es-419">Tipo de código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>APPLE_ID</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>APPLE_ID_LABEL</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>CLASS_ROSTER_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Classes</base>
-        <tran loc="es">Clases</tran>
+        <tran loc="es-419">Clases</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,8 +315,7 @@
       <Position>SWIPE_UP_TO_UNLOCK</Position>
       <TranslationSet>
         <base loc="en">Swipe up to unlock</base>
-        <tran loc="es">Desliza hacia arriba
-para desbloquear</tran>
+        <tran loc="es-419">Desliza hacia arriba para desbloquear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -324,7 +323,7 @@ para desbloquear</tran>
       <Position>SYNCING_RECENT_USERS</Position>
       <TranslationSet>
         <base loc="en">Syncing Recent Users</base>
-        <tran loc="es">Sincronizando usuarios recientes</tran>
+        <tran loc="es-419">Sincronización de usuarios recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -332,7 +331,7 @@ para desbloquear</tran>
       <Position>SELECT_YOUR_NETWORKS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Select Your Network</base>
-        <tran loc="es">Selecciona tu red</tran>
+        <tran loc="es-419">Selecciona tu red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -340,7 +339,7 @@ para desbloquear</tran>
       <Position>ACCOUNT_LOCKOUT_HINT</Position>
       <TranslationSet>
         <base loc="en">Your account has been locked out. Please contact\nyour administrator to unlock it.</base>
-        <tran loc="es">Tu cuenta se ha bloqueado. Ponte en contacto con el\nadministrador para desbloquearla.</tran>
+        <tran loc="es-419">Tu cuenta está bloqueada. Comunícate con tu\nadministrador para desbloquearla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -348,7 +347,7 @@ para desbloquear</tran>
       <Position>SIGN_IN</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -356,7 +355,7 @@ para desbloquear</tran>
       <Position>INCOMPATIBLE_APPLE_ID_IPAD</Position>
       <TranslationSet>
         <base loc="en">The Apple ID you entered can’t be used on this iPad.</base>
-        <tran loc="es">El ID de Apple introducido no puede usarse en este iPad.</tran>
+        <tran loc="es-419">El Apple ID que ingresaste no se puede usar en este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -364,7 +363,7 @@ para desbloquear</tran>
       <Position>OFFLINE_PASSWORD_HINT</Position>
       <TranslationSet>
         <base loc="en">Please try the password you most recently used\nto log in to this account.</base>
-        <tran loc="es">Prueba con la contraseña que has utilizado más\nrecientemente para iniciar sesión en esta cuenta.</tran>
+        <tran loc="es-419">Intenta con la contraseña más reciente que\nutilizaste para iniciar sesión en esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -372,7 +371,7 @@ para desbloquear</tran>
       <Position>DONE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -380,7 +379,7 @@ para desbloquear</tran>
       <Position>PRIVACY_TEXT_GENERIC</Position>
       <TranslationSet>
         <base loc="en">This iPad is managed.</base>
-        <tran loc="es">Este iPad está gestionado.</tran>
+        <tran loc="es-419">Este iPad está administrado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +389,7 @@ para desbloquear</tran>
       <Position>INFORMAL_WELCOME_TITLE_FORMAT_USER</Position>
       <TranslationSet>
         <base loc="en">Hello, %@</base>
-        <tran loc="es">Hola, %@</tran>
+        <tran loc="es-419">Hola, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +397,7 @@ para desbloquear</tran>
       <Position>TIMEOUT</Position>
       <TranslationSet>
         <base loc="en">Timeout. Please try again.</base>
-        <tran loc="es">Tiempo agotado. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Tiempo agotado. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +405,7 @@ para desbloquear</tran>
       <Position>INCOMPATIBLE_APPLE_ID_IPHONE SIMULATOR</Position>
       <TranslationSet>
         <base loc="en">The Apple ID you entered can’t be used on this iPhone Simulator.</base>
-        <tran loc="es">El ID de Apple introducido no puede usarse en este Simulador iPhone.</tran>
+        <tran loc="es-419">El Apple ID que ingresaste no se puede usar en este iPhone Simulator.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -415,7 +414,7 @@ para desbloquear</tran>
       <Position>PRIVACY_TEXT_FORMAT_ORG_NAME</Position>
       <TranslationSet>
         <base loc="en">This iPad is managed by “%@”.</base>
-        <tran loc="es">Este iPad está gestionado por “%@”.</tran>
+        <tran loc="es-419">Este iPad está administrado por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +422,7 @@ para desbloquear</tran>
       <Position>INCOMPATIBLE_APPLE_ID_GENERIC</Position>
       <TranslationSet>
         <base loc="en">The Apple ID you entered can’t be used on this device.</base>
-        <tran loc="es">El ID de Apple que has introducido no puede usarse en este dispositivo.</tran>
+        <tran loc="es-419">El Apple ID que ingresaste no se puede usar en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +430,7 @@ para desbloquear</tran>
       <Position>WIFI_CREDENTIAL_MISSING_OR_WRONG</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi credentials are either missing or wrong.</base>
-        <tran loc="es">Faltan credenciales de la red Wi-Fi o son incorrectas.</tran>
+        <tran loc="es-419">Faltan las credenciales de la red Wi-Fi o son incorrectas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +438,7 @@ para desbloquear</tran>
       <Position>ALL_CLASSES_SECTION_LABEL</Position>
       <TranslationSet>
         <base loc="en">All Classes</base>
-        <tran loc="es">Todas las clases</tran>
+        <tran loc="es-419">Todas las clases</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +446,7 @@ para desbloquear</tran>
       <Position>JOIN_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Join</base>
-        <tran loc="es">Acceder</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -458,7 +457,7 @@ para desbloquear</tran>
       <Position>SORT_ORDER_TYPE</Position>
       <TranslationSet>
         <base loc="en">&lt;bygivenname&gt;</base>
-        <tran loc="es">&lt;byfamilyname&gt;</tran>
+        <tran loc="es-419">&lt;byfamilyname&gt;</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -466,7 +465,7 @@ para desbloquear</tran>
       <Position>FULL_NAME</Position>
       <TranslationSet>
         <base loc="en">Full name</base>
-        <tran loc="es">Nombre completo</tran>
+        <tran loc="es-419">Nombre completo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -475,7 +474,7 @@ para desbloquear</tran>
       <Position>INFORMAL_WELCOME_TITLE_USER_NAME_FORMAT</Position>
       <TranslationSet>
         <base loc="en">&lt;firstname&gt;</base>
-        <tran loc="es">&lt;firstname&gt;</tran>
+        <tran loc="es-419">&lt;nombre&gt;</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -483,7 +482,7 @@ para desbloquear</tran>
       <Position>FAMILY_NAME</Position>
       <TranslationSet>
         <base loc="en">Last name</base>
-        <tran loc="es">Apellidos</tran>
+        <tran loc="es-419">Apellidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -491,7 +490,7 @@ para desbloquear</tran>
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -499,7 +498,7 @@ para desbloquear</tran>
       <Position>RECENT_USERS_SECTION_LABEL</Position>
       <TranslationSet>
         <base loc="en">Recent Users</base>
-        <tran loc="es">Usuarios recientes</tran>
+        <tran loc="es-419">Usuarios recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -507,7 +506,7 @@ para desbloquear</tran>
       <Position>RECENT_USERS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Recent Users</base>
-        <tran loc="es">Usuarios recientes</tran>
+        <tran loc="es-419">Usuarios recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +514,7 @@ para desbloquear</tran>
       <Position>SUPERVISION_TEXT_FORMAT_ORG_NAME</Position>
       <TranslationSet>
         <base loc="en">This iPad is managed by “%1$@”.\n\n“%1$@” can:\n\n• Configure accounts and settings\n• Control which features you can use\n• Monitor your Internet traffic\n• Enable Lost Mode to locate this device</base>
-        <tran loc="es">“%1$@” se encarga de gestionar este iPad.\n\n“%1$@” puede:\n\n• Configurar cuentas y ajustes.\n• Controlar qué funciones puedes usar.\n• Supervisar tu tráfico de internet.\n• Activar el modo Perdido para localizar el dispositivo.</tran>
+        <tran loc="es-419">%1$@ administra este iPad.\n\n%1$@ puede:\n\n• Modificar cuentas y configuración.\n• Controlar cuáles funciones puedes usar.\n• Supervisar tu tráfico de Internet.\n• Activar "Modo perdido" para localizar este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +522,7 @@ para desbloquear</tran>
       <Position>ONLINE_AUTHENTICATION_REQUIRED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Connect this iPad to the Internet before signing in.</base>
-        <tran loc="es">Conecta este iPad a internet antes de iniciar sesión.</tran>
+        <tran loc="es-419">Conecta este iPad a Internet antes de iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +530,7 @@ para desbloquear</tran>
       <Position>INCOMPATIBLE_APPLE_ID_IPHONE</Position>
       <TranslationSet>
         <base loc="en">The Apple ID you entered can’t be used on this iPhone.</base>
-        <tran loc="es">El ID de Apple introducido no puede usarse en este iPhone.</tran>
+        <tran loc="es-419">El Apple ID que ingresaste no se puede usar en este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +538,7 @@ para desbloquear</tran>
       <Position>USERS_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Users</base>
-        <tran loc="es">Usuarios</tran>
+        <tran loc="es-419">Usuarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +546,7 @@ para desbloquear</tran>
       <Position>MANAGED_APPLE_ID_TEXT_GENERIC</Position>
       <TranslationSet>
         <base loc="en">The Apple ID you are using is owned and managed by your organization.\n\nAuthorized administrators can sign in to this Apple ID and access the data that is associated with it — including data created on a personal device.</base>
-        <tran loc="es">El ID de Apple que estás usando es propiedad de tu organización, que se encarga de gestionarlo.\n\nLos administradores autorizados pueden iniciar sesión con este ID de Apple y acceder a los datos a los que está asociado, incluidos los que se hayan creado en un dispositivo personal.</tran>
+        <tran loc="es-419">El Apple ID que usas es propiedad y está bajo el control de tu organización.\n\nLos administradores autorizados pueden iniciar sesión con este Apple ID y acceder a los datos asociados incluyendo aquellos creados en un dispositivo personal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +554,7 @@ para desbloquear</tran>
       <Position>LAST_REMOTE_AUTH_DATE</Position>
       <TranslationSet>
         <base loc="en">Last Remote Auth Date</base>
-        <tran loc="es">Fecha de la última autenticación remota</tran>
+        <tran loc="es-419">Fecha de última autorización remota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +562,7 @@ para desbloquear</tran>
       <Position>ONLINE_AUTHENTICATION_REQUIRED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Connect this iPhone to the Internet before signing in.</base>
-        <tran loc="es">Conecta este iPhone a internet antes de iniciar sesión.</tran>
+        <tran loc="es-419">Conecta este iPhone a Internet antes de iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +570,7 @@ para desbloquear</tran>
       <Position>ACCOUNT_STATUS</Position>
       <TranslationSet>
         <base loc="en">Account Status</base>
-        <tran loc="es">Estado de la cuenta</tran>
+        <tran loc="es-419">Estado de la cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +578,7 @@ para desbloquear</tran>
       <Position>ONLINE_AUTHENTICATION_REQUIRED_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Connect this device to the Internet before signing in.</base>
-        <tran loc="es">Conecta este dispositivo a internet antes de iniciar sesión.</tran>
+        <tran loc="es-419">Conecta este dispositivo a Internet antes de iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +592,7 @@ para desbloquear</tran>
       <Position>PRESS_HOME_TO_UNLOCK</Position>
       <TranslationSet>
         <base loc="en">Press home to unlock</base>
-        <tran loc="es">Pulsa el botón de inicio para desbloquear</tran>
+        <tran loc="es-419">Presiona inicio para desbloquear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +600,7 @@ para desbloquear</tran>
       <Position>ONLINE_AUTHENTICATION_REQUIRED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Connect this iPod to the Internet before signing in.</base>
-        <tran loc="es">Conecta este iPod a internet antes de iniciar sesión.</tran>
+        <tran loc="es-419">Conecta este iPod a Internet antes de iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +608,7 @@ para desbloquear</tran>
       <Position>ENTER_PASSWORD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter Password</base>
-        <tran loc="es">Introduce la contraseña</tran>
+        <tran loc="es-419">Ingresa la contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +616,7 @@ para desbloquear</tran>
       <Position>ALL_STUDENTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">All Students</base>
-        <tran loc="es">Todos los alumnos</tran>
+        <tran loc="es-419">Todos los estudiantes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +624,7 @@ para desbloquear</tran>
       <Position>ACCOUNT_LOCKOUT</Position>
       <TranslationSet>
         <base loc="en">You’ve been locked out of your account. Contact your administrator to unlock it.</base>
-        <tran loc="es">Tu cuenta ha sido bloqueada. Ponte en contacto con el administrador para desbloquearla.</tran>
+        <tran loc="es-419">Tu cuenta está bloqueada. Comunícate con tu administrador para desbloquearla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +632,7 @@ para desbloquear</tran>
       <Position>REQUIRED_PLACEHOLDER_TEXT</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +640,7 @@ para desbloquear</tran>
       <Position>INFORMAL_WELCOME_TITLE_NO_NAME</Position>
       <TranslationSet>
         <base loc="en">Hello</base>
-        <tran loc="es">Hola</tran>
+        <tran loc="es-419">Hola</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +648,7 @@ para desbloquear</tran>
       <Position>OTHER_USER_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Other User</base>
-        <tran loc="es">Otro usuario</tran>
+        <tran loc="es-419">Otro usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +656,7 @@ para desbloquear</tran>
       <Position>MANAGED_DEVICES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Managed Devices</base>
-        <tran loc="es">Dispositivos gestionados</tran>
+        <tran loc="es-419">Dispositivos administrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +664,7 @@ para desbloquear</tran>
       <Position>GETTING_READY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Getting Ready…</base>
-        <tran loc="es">Preparando…</tran>
+        <tran loc="es-419">Preparándose…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +672,7 @@ para desbloquear</tran>
       <Position>UNKNOWN_STUDENT_NAME</Position>
       <TranslationSet>
         <base loc="en">Unnamed Student</base>
-        <tran loc="es">Alumno sin nombre</tran>
+        <tran loc="es-419">Estudiante sin nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +680,7 @@ para desbloquear</tran>
       <Position>ONLINE_AUTHENTICATION_REQUIRED_IPHONE SIMULATOR</Position>
       <TranslationSet>
         <base loc="en">Connect this iPhone Simulator to the Internet before signing in.</base>
-        <tran loc="es">Conecta este Simulador iPhone a internet antes de iniciar sesión.</tran>
+        <tran loc="es-419">Conecta este iPhone Simulator a Internet antes de iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +688,7 @@ para desbloquear</tran>
       <Position>LOGGING_OUT</Position>
       <TranslationSet>
         <base loc="en">Logging Out...</base>
-        <tran loc="es">Cerrando sesión…</tran>
+        <tran loc="es-419">Cerrando sesión...</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +696,7 @@ para desbloquear</tran>
       <Position>SUPERVISION_TEXT_GENERIC</Position>
       <TranslationSet>
         <base loc="en">This iPad is managed by your organization.\n\nYour organization can:\n\n• Configure accounts and settings\n• Control which features you can use\n• Monitor your Internet traffic\n• Enable Lost Mode to locate this device</base>
-        <tran loc="es">Tu organización se encarga de gestionar este iPad.\n\nTu organización puede:\n\n• Configurar cuentas y ajustes.\n• Controlar qué funciones puedes usar.\n• Supervisar tu tráfico de internet.\n• Activar el modo Perdido para localizar el dispositivo.</tran>
+        <tran loc="es-419">Tu organización administra este iPad.\n\nTu organización puede:\n\n• Modificar cuentas y configuración.\n• Controlar cuáles funciones puedes usar.\n• Supervisar tu tráfico de Internet.\n• Activar "Modo perdido" para localizar este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +704,7 @@ para desbloquear</tran>
       <Position>UNKNOWN_ERROR</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred.</base>
-        <tran loc="es">Se ha producido un error desconocido.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +712,7 @@ para desbloquear</tran>
       <Position>UNKNOWN_WIFI_ERROR</Position>
       <TranslationSet>
         <base loc="en">Unknown error occurred. Please try again.</base>
-        <tran loc="es">Se ha producido un error desconocido. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +720,7 @@ para desbloquear</tran>
       <Position>DATA_QUOTA</Position>
       <TranslationSet>
         <base loc="en">Data Quota</base>
-        <tran loc="es">Cuota de datos</tran>
+        <tran loc="es-419">Cuota de datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +728,7 @@ para desbloquear</tran>
       <Position>NOT_YOU_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not You?</base>
-        <tran loc="es">¿No eres tú?</tran>
+        <tran loc="es-419">¿No eres tú?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -738,7 +737,7 @@ para desbloquear</tran>
       <Position>PASSCODE_BACKOFF_WARNING</Position>
       <TranslationSet>
         <base loc="en">Please try again in %@</base>
-        <tran loc="es">Inténtalo de nuevo dentro de %@</tran>
+        <tran loc="es-419">Reintenta en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -746,7 +745,7 @@ para desbloquear</tran>
       <Position>DATA_USED</Position>
       <TranslationSet>
         <base loc="en">Data Used</base>
-        <tran loc="es">Datos usados</tran>
+        <tran loc="es-419">Datos usados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -754,7 +753,7 @@ para desbloquear</tran>
       <Position>ONLINE_AUTHENTICATION_REQUIRED_HINT</Position>
       <TranslationSet>
         <base loc="en">This iPad must be reconnected to the Internet\nbefore you can sign in.</base>
-        <tran loc="es">Para poder iniciar sesión, el iPad debe volver a\nestar conectado a internet.</tran>
+        <tran loc="es-419">Este iPad se debe conectar de nuevo a Internet\nantes de iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -762,7 +761,7 @@ para desbloquear</tran>
       <Position>HAS_MC_STATUS</Position>
       <TranslationSet>
         <base loc="en">Has Managed Credentials</base>
-        <tran loc="es">Tiene credenciales gestionadas</tran>
+        <tran loc="es-419">Tiene credenciales administradas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +769,7 @@ para desbloquear</tran>
       <Position>USER_LIMIT_REACHED_GENERIC</Position>
       <TranslationSet>
         <base loc="en">iPad has reached the maximum number of users with local data to be synced. At least one user’s data must finish syncing to the cloud before a new user can sign in.</base>
-        <tran loc="es">El iPad ha alcanzado el número máximo de usuarios con datos locales que se puede sincronizar. Para que un usuario nuevo pueda iniciar sesión, deben terminar de sincronizarse con la nube los datos de, al menos, un usuario.</tran>
+        <tran loc="es-419">El iPad alcanzó la cantidad máxima de usuarios con datos locales por sincronizar. Se debe terminar la sincronización en la nube de los datos de al menos un usuario antes de que otro pueda iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +777,7 @@ para desbloquear</tran>
       <Position>GIVEN_NAME</Position>
       <TranslationSet>
         <base loc="en">First name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +785,7 @@ para desbloquear</tran>
       <Position>SUPERVISION_HEADER</Position>
       <TranslationSet>
         <base loc="en">Using a Supervised iPad</base>
-        <tran loc="es">Uso de un iPad supervisado</tran>
+        <tran loc="es-419">Usando un iPad supervisado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +793,7 @@ para desbloquear</tran>
       <Position>LOGIN_FAILED</Position>
       <TranslationSet>
         <base loc="en">Login failed. Please try again.</base>
-        <tran loc="es">Error de inicio de sesión. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Error al iniciar sesión. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +801,7 @@ para desbloquear</tran>
       <Position>SWITCH_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Login failed. Please try again.</base>
-        <tran loc="es">Error de inicio de sesión. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Error al iniciar sesión. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +809,7 @@ para desbloquear</tran>
       <Position>INTERNAL_BUILD_LEGAL_DECLARATION_DO_NOT_LOCALIZE</Position>
       <TranslationSet>
         <base loc="en">Confidential &amp; Proprietary</base>
-        <tran loc="es">Confidential &amp; Proprietary</tran>
+        <tran loc="es-419">Confidential &amp; Proprietary</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +817,7 @@ para desbloquear</tran>
       <Position>WRONG_APPLE_ID_OR_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">The Apple ID or password you entered was incorrect. Please try again.</base>
-        <tran loc="es">El ID de Apple o la contraseña que has introducido son incorrectos. Inténtalo de nuevo. </tran>
+        <tran loc="es-419">La contraseña o el Apple ID ingresado es incorrecto. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +825,7 @@ para desbloquear</tran>
       <Position>INTERNAL_BUILD_LEGAL_CONTACT_DO_NOT_LOCALIZE</Position>
       <TranslationSet>
         <base loc="en">+1 877-595-1125</base>
-        <tran loc="es">+1 877-595-1125</tran>
+        <tran loc="es-419">+1 877-595-1125</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -834,7 +833,7 @@ para desbloquear</tran>
       <Position>WLAN_CREDENTIAL_MISSING_OR_WRONG</Position>
       <TranslationSet>
         <base loc="en">WLAN credentials are either missing or wrong.</base>
-        <tran loc="es">Faltan credenciales de la red WLAN o son incorrectas.</tran>
+        <tran loc="es-419">Faltan las credenciales de WLAN o son incorrectas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -842,7 +841,7 @@ para desbloquear</tran>
       <Position>PASSWORD_LABEL</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -850,7 +849,7 @@ para desbloquear</tran>
       <Position>ALL_USERS_TITLE</Position>
       <TranslationSet>
         <base loc="en">All Users</base>
-        <tran loc="es">Todos los usuarios</tran>
+        <tran loc="es-419">Todos los usuarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +857,7 @@ para desbloquear</tran>
       <Position>SIGN_IN_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Sign in with your Apple ID \nto continue</base>
-        <tran loc="es">Inicia sesión con tu ID de Apple \npara continuar</tran>
+        <tran loc="es-419">Inicia sesión con tu Apple ID\npara continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +865,7 @@ para desbloquear</tran>
       <Position>NETWORK_NOT_IDENTIFIED</Position>
       <TranslationSet>
         <base loc="en">Network can’t be identified. Please try again.</base>
-        <tran loc="es">No se puede identificar la red. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede identificar la red. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -874,7 +873,7 @@ para desbloquear</tran>
       <Position>LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn more…</base>
-        <tran loc="es">Más información…</tran>
+        <tran loc="es-419">Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -882,7 +881,7 @@ para desbloquear</tran>
       <Position>INCOMPATIBLE_APPLE_ID_IPOD</Position>
       <TranslationSet>
         <base loc="en">The Apple ID you entered can’t be used on this iPod.</base>
-        <tran loc="es">El ID de Apple introducido no puede usarse en este iPod.</tran>
+        <tran loc="es-419">El Apple ID que ingresaste no se puede usar en este iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -890,7 +889,7 @@ para desbloquear</tran>
       <Position>SYNC_STATUS</Position>
       <TranslationSet>
         <base loc="en">Sync Status</base>
-        <tran loc="es">Estado de la sincronización</tran>
+        <tran loc="es-419">Estado de sincronización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -898,7 +897,7 @@ para desbloquear</tran>
       <Position>USERNAME_LABEL</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -906,7 +905,7 @@ para desbloquear</tran>
       <Position>MANAGED_APPLE_ID_HEADER</Position>
       <TranslationSet>
         <base loc="en">Using a Managed Apple ID</base>
-        <tran loc="es">Uso de un ID de Apple gestionado</tran>
+        <tran loc="es-419">Usando un Apple ID administrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -914,7 +913,7 @@ para desbloquear</tran>
       <Position>CANNOT_CREATE_USER</Position>
       <TranslationSet>
         <base loc="en">To add a new user, contact your administrator.</base>
-        <tran loc="es">Para añadir un usuario nuevo, ponte en contacto con el administrador.</tran>
+        <tran loc="es-419">Para agregar a un nuevo usuario, comunícate con tu administrador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -922,7 +921,7 @@ para desbloquear</tran>
       <Position>UNKNOWN_CLASS_NAME</Position>
       <TranslationSet>
         <base loc="en">Unnamed Class</base>
-        <tran loc="es">Clase sin nombre</tran>
+        <tran loc="es-419">Clase sin nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -930,7 +929,7 @@ para desbloquear</tran>
       <Position>IMAGE_URL</Position>
       <TranslationSet>
         <base loc="en">Image URL</base>
-        <tran loc="es">URL de la imagen</tran>
+        <tran loc="es-419">URL de imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -938,7 +937,7 @@ para desbloquear</tran>
       <Position>INTERNAL_BUILD_LEGAL_INSTRUCTIONS_DO_NOT_LOCALIZE</Position>
       <TranslationSet>
         <base loc="en">Call</base>
-        <tran loc="es">Call</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -946,7 +945,7 @@ para desbloquear</tran>
       <Position>MANAGED_APPLE_ID_TEXT_FORMAT_ORG_NAME</Position>
       <TranslationSet>
         <base loc="en">The Apple ID you are using is owned and managed by “%1$@”.\n\nAuthorized administrators can sign in to this Apple ID and access the data that is associated with it — including data created on a personal device.</base>
-        <tran loc="es">El ID de Apple que estás usando es propiedad de “%1$@”, que se encarga de gestionarlo.\n\nLos administradores autorizados pueden iniciar sesión con este ID de Apple y acceder a los datos a los que está asociado, incluidos los que se hayan creado en un dispositivo personal.</tran>
+        <tran loc="es-419">El Apple ID que usas es propiedad y está bajo el control de "%1$@".\n\nLos administradores autorizados pueden iniciar sesión con este Apple ID y acceder a los datos asociados incluyendo aquellos creados en un dispositivo personal.</tran>
       </TranslationSet>
     </TextItem>
   </File>

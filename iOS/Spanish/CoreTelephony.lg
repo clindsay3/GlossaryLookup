@@ -8,7 +8,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Wireless emergency alert geofencing</base>
-        <tran loc="es">Alerta de emergencia inalámbrica de geocerca</tran>
+        <tran loc="es-419">Alerta de emergencia inalámbrica de geocerca</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi Calling</base>
-        <tran loc="es">Llamadas por Wi-Fi</tran>
+        <tran loc="es-419">Llamadas por Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -30,7 +30,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Wireless emergency alert geofencing</base>
-        <tran loc="es">Alerta de emergencia inalámbrica de geocerca</tran>
+        <tran loc="es-419">Alerta de emergencia inalámbrica de geocerca</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -41,7 +41,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Wireless emergency alert geofencing</base>
-        <tran loc="es">Alerta de emergencia inalámbrica de geocerca</tran>
+        <tran loc="es-419">Alerta de emergencia inalámbrica de geocerca</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -52,7 +52,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi Calling</base>
-        <tran loc="es">Llamadas por Wi-Fi</tran>
+        <tran loc="es-419">Llamadas por Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -63,7 +63,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi Calling</base>
-        <tran loc="es">Llamadas por Wi-Fi</tran>
+        <tran loc="es-419">Llamadas por Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -74,7 +74,7 @@
       <Position>AUTHENTICATION_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Authentication Failure</base>
-        <tran loc="es">Error de autenticación</tran>
+        <tran loc="es-419">Error al autenticar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -82,7 +82,7 @@
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading</base>
-        <tran loc="es">Cargando</tran>
+        <tran loc="es-419">Cargando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>USER_AUTHENTICATION_FAILURE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">User failed to authenticate.</base>
-        <tran loc="es">Error en la autenticación del usuario.</tran>
+        <tran loc="es-419">No se pudo autenticar al usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>NO</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>ENABLE_TOUCH_ID</Position>
       <TranslationSet>
         <base loc="en">Enable Touch ID for “%@”</base>
-        <tran loc="es">Activar Touch ID para “%@”</tran>
+        <tran loc="es-419">Activa Touch ID para "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>USE_FACE_ID</Position>
       <TranslationSet>
         <base loc="en">Use Face ID</base>
-        <tran loc="es">Usar Face ID</tran>
+        <tran loc="es-419">Usar Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>NOT_NOW</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>FACE_ID_LOGIN_ENABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Do you want to allow changes to this %@ account with Face ID?</base>
-        <tran loc="es">¿Quieres permitir cambios en esta cuenta de %@ con Face ID?</tran>
+        <tran loc="es-419">¿Quieres permitir cambios en esta cuenta de %@ mediante Face ID?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>TOUCH_ID_LOGIN_ENABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Do you want to allow changes to this %@ account with Touch ID?</base>
-        <tran loc="es">¿Quieres permitir cambios en esta cuenta de %@ con Touch ID?</tran>
+        <tran loc="es-419">¿Quieres permitir cambios en esta cuenta de %@ mediante Touch ID?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>USE_TOUCH_ID</Position>
       <TranslationSet>
         <base loc="en">Use Touch ID</base>
-        <tran loc="es">Usar Touch ID</tran>
+        <tran loc="es-419">Usar Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>CONNECTION_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Connection Failure</base>
-        <tran loc="es">Error de conexión</tran>
+        <tran loc="es-419">Error de conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>ENABLE_FACE_ID</Position>
       <TranslationSet>
         <base loc="en">Enable Face ID for “%@”</base>
-        <tran loc="es">Activar Face ID para “%@”</tran>
+        <tran loc="es-419">Activa Face ID para "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>CONNECTION_LOST_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The connection to the server was lost. Please try again later.</base>
-        <tran loc="es">Se ha perdido la conexión con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Se perdió la conexión con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -196,7 +196,7 @@
       <Position>Ggb-Yu-5E1.text</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -204,7 +204,7 @@
       <Position>Wlx-mZ-NhQ.text</Position>
       <TranslationSet>
         <base loc="en">Message</base>
-        <tran loc="es">Mensaje</tran>
+        <tran loc="es-419">Mensaje</tran>
       </TranslationSet>
     </TextItem>
   </File>

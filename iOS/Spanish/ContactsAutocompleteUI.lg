@@ -8,7 +8,7 @@
       <Position>REMOVE_RECENT_GROUP_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to remove this recent group?</base>
-        <tran loc="es">¿Seguro que quieres eliminar este grupo reciente?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar este grupo reciente?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>RECENT_GROUP_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Recent Group</base>
-        <tran loc="es">Grupo reciente</tran>
+        <tran loc="es-419">Grupo reciente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -31,7 +31,7 @@
       <Position>ADD_CONTACT_ACCESSIBILITY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Add Contact</base>
-        <tran loc="es">Añadir contacto</tran>
+        <tran loc="es-419">Agregar contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -39,7 +39,7 @@
       <Position>RECENT_GROUP</Position>
       <TranslationSet>
         <base loc="en">Group</base>
-        <tran loc="es">Grupo</tran>
+        <tran loc="es-419">Grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -47,7 +47,7 @@
       <Position>GROUP_FINAL_ITEM</Position>
       <TranslationSet>
         <base loc="en"> &amp; %@</base>
-        <tran loc="es"> y %@</tran>
+        <tran loc="es-419"> y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -55,7 +55,7 @@
       <Position>ADDRESS_DELETION</Position>
       <TranslationSet>
         <base loc="en">Address Deletion</base>
-        <tran loc="es">Eliminación de dirección</tran>
+        <tran loc="es-419">eliminación de dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -63,7 +63,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>SHORT_BINARY_RECIPIENT_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en"> &amp; </base>
-        <tran loc="es"> y </tran>
+        <tran loc="es-419"> y </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -79,7 +79,7 @@
       <Position>BINARY_RECIPIENT_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">%@ and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -87,7 +87,7 @@
       <Position>SUGGESTED_RECIPIENTS</Position>
       <TranslationSet>
         <base loc="en">Suggested Recipients</base>
-        <tran loc="es">Destinatarios sugeridos</tran>
+        <tran loc="es-419">Destinatarios sugeridos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -95,7 +95,7 @@
       <Position>RECENT_PLACEHOLDER_NAME</Position>
       <TranslationSet>
         <base loc="en">Recent</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -103,7 +103,7 @@
       <Position>REMOVE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -111,7 +111,7 @@
       <Position>REMOVE_RECENT</Position>
       <TranslationSet>
         <base loc="en">Remove From Recents</base>
-        <tran loc="es">Eliminar de recientes</tran>
+        <tran loc="es-419">Eliminar de recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -119,7 +119,7 @@
       <Position>FOUND_IN_MAIL</Position>
       <TranslationSet>
         <base loc="en">Siri Found in Apps</base>
-        <tran loc="es">Encontrado en apps por Siri</tran>
+        <tran loc="es-419">Siri lo encontró en apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>PLACEHOLDER_NAME</Position>
       <TranslationSet>
         <base loc="en">No Name</base>
-        <tran loc="es">Sin nombre</tran>
+        <tran loc="es-419">Sin nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>N_MORE</Position>
       <TranslationSet>
         <base loc="en">%@ more…</base>
-        <tran loc="es">%@ más…</tran>
+        <tran loc="es-419">%@ más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>TRUNCATED_RECIPIENT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@…</base>
-        <tran loc="es">%@…</tran>
+        <tran loc="es-419">%@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>ADDRESS_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -159,7 +159,7 @@
       <Position>GROUP_INITIAL_ITEM</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -167,7 +167,7 @@
       <Position>REMOVE_RECENT_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to remove this recent recipient?</base>
-        <tran loc="es">¿Seguro que quieres eliminar este destinatario reciente?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar este destinatario reciente?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -175,7 +175,7 @@
       <Position>ADDRESS_ADDITION</Position>
       <TranslationSet>
         <base loc="en">Address Addition</base>
-        <tran loc="es">Adición de dirección</tran>
+        <tran loc="es-419">adición de dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -183,7 +183,7 @@
       <Position>GROUP_NON_FINAL_ITEM</Position>
       <TranslationSet>
         <base loc="en">, %@</base>
-        <tran loc="es">, %@</tran>
+        <tran loc="es-419">, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -191,7 +191,7 @@
       <Position>FOUND_ON_SERVERS</Position>
       <TranslationSet>
         <base loc="en">Found on servers</base>
-        <tran loc="es">Encontrado en los servidores</tran>
+        <tran loc="es-419">Se encontró en servidores</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -202,7 +202,7 @@
       <Position>/AND_N_MORE:dict/more:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en"> &amp; %d more…</base>
-        <tran loc="es"> y %d más…</tran>
+        <tran loc="es-419"> y %d más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -210,7 +210,7 @@
       <Position>/AND_N_MORE:dict/more:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en"> &amp; %d more…</base>
-        <tran loc="es"> y %d más…</tran>
+        <tran loc="es-419"> y %d más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -218,7 +218,7 @@
       <Position>/N_RECIPIENTS:dict/recipients:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d recipient</base>
-        <tran loc="es">%d destinatario</tran>
+        <tran loc="es-419">%d destinatario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -226,7 +226,7 @@
       <Position>/AND_N_MORE_NO_ELLIPSIS:dict/more:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en"> &amp; %d more</base>
-        <tran loc="es"> y %d más</tran>
+        <tran loc="es-419"> y %d más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -234,7 +234,7 @@
       <Position>/AND_N_MORE_NO_ELLIPSIS:dict/more:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en"> &amp; %d more</base>
-        <tran loc="es"> y %d más</tran>
+        <tran loc="es-419"> y %d más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -242,7 +242,7 @@
       <Position>/N_MEMBERS:dict/members:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d member</base>
-        <tran loc="es">%d miembro</tran>
+        <tran loc="es-419">%d miembro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -250,7 +250,7 @@
       <Position>/N_RECIPIENTS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@recipients@</base>
-        <tran loc="es">%#@recipients@</tran>
+        <tran loc="es-419">%#@recipients@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -258,7 +258,7 @@
       <Position>/N_RECIPIENTS:dict/recipients:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d recipients</base>
-        <tran loc="es">%d destinatarios</tran>
+        <tran loc="es-419">%d destinatarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -266,7 +266,7 @@
       <Position>/N_MEMBERS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@members@</base>
-        <tran loc="es">%#@members@</tran>
+        <tran loc="es-419">%#@members@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -274,7 +274,7 @@
       <Position>/N_MEMBERS:dict/members:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d members</base>
-        <tran loc="es">%d miembros</tran>
+        <tran loc="es-419">%d miembros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>/AND_N_MORE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@more@</base>
-        <tran loc="es">%#@more@</tran>
+        <tran loc="es-419">%#@more@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>/AND_N_MORE_NO_ELLIPSIS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@more@</base>
-        <tran loc="es">%#@more@</tran>
+        <tran loc="es-419">%#@more@</tran>
       </TranslationSet>
     </TextItem>
   </File>

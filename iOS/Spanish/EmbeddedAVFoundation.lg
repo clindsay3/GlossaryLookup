@@ -8,7 +8,7 @@
       <Position>Back Telephoto Camera</Position>
       <TranslationSet>
         <base loc="en">Back Telephoto Camera</base>
-        <tran loc="es">Cámara trasera para telefotografía</tran>
+        <tran loc="es-419">Cámara Telephoto posterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Back Dual Camera</Position>
       <TranslationSet>
         <base loc="en">Back Dual Camera</base>
-        <tran loc="es">Cámara trasera dual</tran>
+        <tran loc="es-419">Cámara posterior doble</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Front TrueDepth Camera</Position>
       <TranslationSet>
         <base loc="en">Front TrueDepth Camera</base>
-        <tran loc="es">Cámara frontal TrueDepth</tran>
+        <tran loc="es-419">Cámara TrueDepth frontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Back Triple Camera</Position>
       <TranslationSet>
         <base loc="en">Back Triple Camera</base>
-        <tran loc="es">Cámara trasera triple</tran>
+        <tran loc="es-419">Cámara posterior triple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Back Dual Wide Camera</Position>
       <TranslationSet>
         <base loc="en">Back Dual Wide Camera</base>
-        <tran loc="es">Cámara trasera dual con gran angular</tran>
+        <tran loc="es-419">Cámara amplia posterior doble</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Camera</Position>
       <TranslationSet>
         <base loc="en">Camera</base>
-        <tran loc="es">Cámara</tran>
+        <tran loc="es-419">Cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Headphones</Position>
       <TranslationSet>
         <base loc="en">Headphones</base>
-        <tran loc="es">Auriculares</tran>
+        <tran loc="es-419">Audífonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Back Camera</Position>
       <TranslationSet>
         <base loc="en">Back Camera</base>
-        <tran loc="es">Cámara trasera</tran>
+        <tran loc="es-419">Cámara trasera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Unknown Device</Position>
       <TranslationSet>
         <base loc="en">Unknown Device</base>
-        <tran loc="es">Dispositivo desconocido</tran>
+        <tran loc="es-419">Dispositivo desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>iPhone Microphone</Position>
       <TranslationSet>
         <base loc="en">iPhone Microphone</base>
-        <tran loc="es">Micrófono del iPhone</tran>
+        <tran loc="es-419">Micrófono del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Back Ultra Wide Camera</Position>
       <TranslationSet>
         <base loc="en">Back Ultra Wide Camera</base>
-        <tran loc="es">Cámara trasera con ultra gran angular</tran>
+        <tran loc="es-419">Cámara ultra amplia posterior doble</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Front Camera</Position>
       <TranslationSet>
         <base loc="en">Front Camera</base>
-        <tran loc="es">Cámara frontal</tran>
+        <tran loc="es-419">Cámara frontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Built In Audio</Position>
       <TranslationSet>
         <base loc="en">Built-In Audio</base>
-        <tran loc="es">Audio integrado</tran>
+        <tran loc="es-419">Audio integrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>iPod touch Microphone</Position>
       <TranslationSet>
         <base loc="en">iPod touch Microphone</base>
-        <tran loc="es">Micrófono del iPod touch</tran>
+        <tran loc="es-419">Micrófono del iPod touch</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -123,7 +123,7 @@
       <Position>SDH_SUBTITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ SDH</base>
-        <tran loc="es">%1$@ (subtítulos para sordos)</tran>
+        <tran loc="es-419">%1$@ (subtítulos para sordos)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>EASYTOREAD_SUBTITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ Easy Reader</base>
-        <tran loc="es">%1$@ (lectura fácil)</tran>
+        <tran loc="es-419">%1$@ (lectura fácil)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>DESCRIBESVIDEO_AUDIO_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ AD</base>
-        <tran loc="es">%1$@ (audiodescripción)</tran>
+        <tran loc="es-419">%1$@ (audio descripción)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>CC_SUBTITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ CC</base>
-        <tran loc="es">%1$@ (subtítulos opc.)</tran>
+        <tran loc="es-419">%1$@ (subtítulos opcionales)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>FORCEDONLY_SUBTITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ Forced</base>
-        <tran loc="es">%1$@ (forzado)</tran>
+        <tran loc="es-419">%1$@ (forzado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>UNKNOWN_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>SUBTITLE_TRACK_DISPLAY_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ - %2$@</base>
-        <tran loc="es">%1$@ - %2$@</tran>
+        <tran loc="es-419">%1$@ - %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>AUDIOENCODING_AUDIO_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>VOICEOVERTRANSLATION_AUDIO_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1$@ Overdub Audio</base>
-        <tran loc="es">Audio superpuesto en %1$@</tran>
+        <tran loc="es-419">Audio de diálogo sobrepuesto en %1$@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -198,7 +198,7 @@
       <Position>Back Telephoto Camera</Position>
       <TranslationSet>
         <base loc="en">Back Telephoto Camera</base>
-        <tran loc="es">Cámara trasera para telefotografía</tran>
+        <tran loc="es-419">Cámara Telephoto posterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>Back Dual Camera</Position>
       <TranslationSet>
         <base loc="en">Back Dual Camera</base>
-        <tran loc="es">Cámara trasera dual</tran>
+        <tran loc="es-419">Cámara posterior doble</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>Front TrueDepth Camera</Position>
       <TranslationSet>
         <base loc="en">Front TrueDepth Camera</base>
-        <tran loc="es">Cámara frontal TrueDepth</tran>
+        <tran loc="es-419">Cámara TrueDepth frontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>Camera</Position>
       <TranslationSet>
         <base loc="en">Camera</base>
-        <tran loc="es">Cámara</tran>
+        <tran loc="es-419">Cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>Headphones</Position>
       <TranslationSet>
         <base loc="en">Headphones</base>
-        <tran loc="es">Auriculares</tran>
+        <tran loc="es-419">Audífonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>Back Camera</Position>
       <TranslationSet>
         <base loc="en">Back Camera</base>
-        <tran loc="es">Cámara trasera</tran>
+        <tran loc="es-419">Cámara trasera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>Unknown Device</Position>
       <TranslationSet>
         <base loc="en">Unknown Device</base>
-        <tran loc="es">Dispositivo desconocido</tran>
+        <tran loc="es-419">Dispositivo desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>iPhone Microphone</Position>
       <TranslationSet>
         <base loc="en">iPhone Microphone</base>
-        <tran loc="es">Micrófono del iPhone</tran>
+        <tran loc="es-419">Micrófono del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>Front Camera</Position>
       <TranslationSet>
         <base loc="en">Front Camera</base>
-        <tran loc="es">Cámara frontal</tran>
+        <tran loc="es-419">Cámara frontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>Built In Audio</Position>
       <TranslationSet>
         <base loc="en">Built-In Audio</base>
-        <tran loc="es">Audio integrado</tran>
+        <tran loc="es-419">Audio integrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>iPod touch Microphone</Position>
       <TranslationSet>
         <base loc="en">iPod touch Microphone</base>
-        <tran loc="es">Micrófono del iPod touch</tran>
+        <tran loc="es-419">Micrófono del iPod touch</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -289,7 +289,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationInterrupted_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Interrupted</base>
-        <tran loc="es">Operación interrumpida</tran>
+        <tran loc="es-419">Operación interrumpida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMaximumFileSizeReached_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The recording reached the maximum allowable file size.</base>
-        <tran loc="es">La grabación ha alcanzado el tamaño de archivo máximo permitido.</tran>
+        <tran loc="es-419">La grabación alcanzó el tamaño de archivo máximo permitido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileAlreadyExists_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Save</base>
-        <tran loc="es">No se puede guardar</tran>
+        <tran loc="es-419">No se puede guardar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -313,7 +313,7 @@
       <Position>AVFoundationErrorDomain_AVErrorContentIsProtected_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The operation is not supported for protected content.</base>
-        <tran loc="es">El contenido protegido no admite esta operación.</tran>
+        <tran loc="es-419">El contenido protegido no admite esta operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileTypeDoesNotSupportSampleReferences_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot write output file</base>
-        <tran loc="es">Imposible escribir archivo de salida</tran>
+        <tran loc="es-419">Imposible escribir archivo de salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidOutputURLPathExtension_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot write output file</base>
-        <tran loc="es">Imposible escribir archivo de salida</tran>
+        <tran loc="es-419">Imposible escribir archivo de salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>AVFoundationErrorDomain_AVErrorApplicationIsNotAuthorized_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>AVFoundationErrorDomain_AVErrorCompositionTrackSegmentsNotContiguous_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>AVFoundationErrorDomain_AVErrorContentIsNotAuthorized_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileFailedToParse_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileFormatNotRecognized_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>AVFoundationErrorDomain_AVErrorIncompatibleAsset_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentDuration_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentSourceDuration_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentSourceStartTime_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidSourceMedia_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoImageAtTime_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoSourceTrack_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -433,7 +433,7 @@
       <Position>AVFoundationErrorDomain_AVErrorReferenceForbiddenByReferencePolicy_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -441,7 +441,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUnknown_FailureReason</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred (%d)</base>
-        <tran loc="es">Se ha producido un error desconocido (%d)</tran>
+        <tran loc="es-419">Se presentó un error desconocido (%d)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -449,7 +449,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileAlreadyExists_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try saving again.</base>
-        <tran loc="es">Intenta guardar de nuevo.</tran>
+        <tran loc="es-419">Intenta guardar de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -457,7 +457,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUndecodableMediaData_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The media data could not be decoded on this device.</base>
-        <tran loc="es">No se han podido descodificar los datos de contenido de este dispositivo.</tran>
+        <tran loc="es-419">No se pudieron decodificar los datos de contenido en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -465,7 +465,7 @@
       <Position>AVFoundationErrorDomain_AVErrorExternalPlaybackNotSupportedForAsset_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The content cannot be played on the device.</base>
-        <tran loc="es">Este contenido no se puede reproducir en el dispositivo.</tran>
+        <tran loc="es-419">Este contenido no se puede reproducir en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoCompatibleAlternatesForExternalDisplay_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The content cannot be played on the device.</base>
-        <tran loc="es">Este contenido no se puede reproducir en el dispositivo.</tran>
+        <tran loc="es-419">Este contenido no se puede reproducir en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaServicesWereReset_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Complete Action</base>
-        <tran loc="es">No se puede completar la acción</tran>
+        <tran loc="es-419">No se puede completar la acción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOutOfMemory_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Complete Action</base>
-        <tran loc="es">No se puede completar la acción</tran>
+        <tran loc="es-419">No se puede completar la acción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>AVFoundationErrorDomain_AVErrorIncorrectPIN_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try connecting again using the correct passcode.</base>
-        <tran loc="es">Intenta conectarte de nuevo con el código correcto.</tran>
+        <tran loc="es-419">Intenta conectarte de nuevo utilizando el código correcto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoCompatibleAlternatesForExternalDisplay_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceWasDisconnected_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMaximumDurationReached_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMaximumFileSizeReached_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMaximumNumberOfSamplesForFileFormatReached_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaChanged_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaDiscontinuity_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>AVFoundationErrorDomain_AVErrorRecordingNotAllowedWhenMultipleAppsAreForeground_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionConfigurationChanged_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionWasInterrupted_Description</Position>
       <TranslationSet>
         <base loc="en">Recording Stopped</base>
-        <tran loc="es">Grabación detenida</tran>
+        <tran loc="es-419">Grabación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaServicesWereReset_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try again later.</base>
-        <tran loc="es">Inténtalo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOutOfMemory_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try again later.</base>
-        <tran loc="es">Inténtalo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>AVFoundationErrorDomain_AVErrorContentNotUpdated_FailureReason</Position>
       <TranslationSet>
         <base loc="en">Stream ended unexpectedly.</base>
-        <tran loc="es">La transmisión ha finalizado inesperadamente.</tran>
+        <tran loc="es-419">La transmisión se interrumpió inesperadamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDecoderTemporarilyUnavailable_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The decoder required for this media is busy.</base>
-        <tran loc="es">El descodificador necesario para este contenido está en uso.</tran>
+        <tran loc="es-419">El decodificador necesario para este contenido está en uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileFormatNotRecognized_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media format is not supported.</base>
-        <tran loc="es">El formato del contenido no es compatible.</tran>
+        <tran loc="es-419">El formato del contenido no es compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidSourceMedia_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media format is not supported.</base>
-        <tran loc="es">El formato del contenido no es compatible.</tran>
+        <tran loc="es-419">El formato del contenido no es compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +633,7 @@
       <Position>AVFoundationErrorDomain_AVErrorAirPlayControllerRequiresInternet_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This device requires an internet connection.</base>
-        <tran loc="es">Este dispositivo requiere una conexión a internet.</tran>
+        <tran loc="es-419">Este dispositivo requiere una conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +641,7 @@
       <Position>AVFoundationErrorDomain_AVErrorApplicationIsNotAuthorizedToUseDevice_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot use %@</base>
-        <tran loc="es">No se puede usar %@</tran>
+        <tran loc="es-419">No se puede usar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +649,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationRequiresBothBudsInEar_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Set Listening Mode</base>
-        <tran loc="es">No se puede configurar el modo de escucha</tran>
+        <tran loc="es-419">No se pudo configurar el modo para escuchar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@
       <Position>AVFoundationErrorDomain_AVErrorVideoCompositorFailed_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The video could not be composited.</base>
-        <tran loc="es">No se ha podido componer el vídeo.</tran>
+        <tran loc="es-419">No se pudo integrar el video.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationRequiresBothBudsInEar_FailureReason</Position>
       <TranslationSet>
         <base loc="en">Must have both buds in ear to set the desired listening mode.</base>
-        <tran loc="es">Para configurar el modo de escucha deseado, debes tener ambas almohadillas en los oídos.</tran>
+        <tran loc="es-419">Debes tener ambos audífonos en tus oídos para configurar el modo para escuchar que quieres.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaDataWritingExceededPredeterminedSize_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The size of the media data would exceed the predetermined size.</base>
-        <tran loc="es">El tamaño de los datos de contenido superaría el tamaño predeterminado.</tran>
+        <tran loc="es-419">El tamaño de los datos excedería el predeterminado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +681,7 @@
       <Position>AVFoundationErrorDomain_AVErrorApplicationIsNotAuthorizedToUseDevice_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This app is not authorized to use %@.</base>
-        <tran loc="es">Esta app no tiene autorización para usar %@.</tran>
+        <tran loc="es-419">Esta app no tiene autorización para usar %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +689,7 @@
       <Position>AVFoundationErrorDomain_AVErrorTorchLevelUnavailable_Description</Position>
       <TranslationSet>
         <base loc="en">The torch could not be turned on.</base>
-        <tran loc="es">No se ha podido encender la linterna.</tran>
+        <tran loc="es-419">No se pudo encender la lámpara de mano.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +697,7 @@
       <Position>AVFoundationErrorDomain_AVErrorPointlessOverCapture_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The asset does not contain sufficient media captured outside the frame.</base>
-        <tran loc="es">No se ha capturado suficiente contenido fuera del marco.</tran>
+        <tran loc="es-419">El activo no incluye suficiente contenido capturado fuera del cuadro.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +705,7 @@
       <Position>AVFoundationErrorDomain_AVErrorIncompatibleAsset_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The media cannot be used on this device.</base>
-        <tran loc="es">Este contenido no puede usarse en este dispositivo.</tran>
+        <tran loc="es-419">Este contenido no puede usarse en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +713,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceAlreadyUsedByAnotherSession_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop any other actions using the %@ and try again.</base>
-        <tran loc="es">Detén las otras acciones que usen el %@ e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén las otras acciones que usan el %@ e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +721,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceInUseByAnotherApplication_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop any other actions using the %@ and try again.</base>
-        <tran loc="es">Detén las otras acciones que usen el %@ e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén las otras acciones que usan el %@ e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +729,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceLockedForConfigurationByAnotherProcess_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop any other actions using the %@ and try again.</base>
-        <tran loc="es">Detén las otras acciones que usen el %@ e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén las otras acciones que usan el %@ e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceInUseByAnotherApplication_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Use %@</base>
-        <tran loc="es">No se puede usar %@</tran>
+        <tran loc="es-419">No se puede usar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -745,7 +745,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceIsNotAvailableInBackground_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Use %@</base>
-        <tran loc="es">No se puede usar %@</tran>
+        <tran loc="es-419">No se puede usar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -753,7 +753,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceLockedForConfigurationByAnotherProcess_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Use %@</base>
-        <tran loc="es">No se puede usar %@</tran>
+        <tran loc="es-419">No se puede usar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -761,7 +761,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUnsupportedDeviceActiveFormat_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Reset the camera to a supported active format, then restart the session.</base>
-        <tran loc="es">Restablece la cámara a un formato activo compatible y reinicia la sesión.</tran>
+        <tran loc="es-419">Restablece la cámara a un formato activo compatible y luego reinicia la sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -769,7 +769,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUnsupportedOutputSettings_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The encoding parameters are not supported.</base>
-        <tran loc="es">Los parámetros de codificación son incompatibles.</tran>
+        <tran loc="es-419">Los parámetros de codificación son incompatibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -777,7 +777,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceIsNotAvailableInBackground_FailureReason</Position>
       <TranslationSet>
         <base loc="en">%@ may not be used by an app running in the background.</base>
-        <tran loc="es">Las apps que se estén ejecutando en segundo plano no pueden usar %@.</tran>
+        <tran loc="es-419">Las apps que se estén ejecutando en segundo plano no pueden usar %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -785,7 +785,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidFileAtDownloadDestinationURL_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The cache file at the download destination URL cannot be used.</base>
-        <tran loc="es">No se puede usar el archivo de la caché de la URL de descarga.</tran>
+        <tran loc="es-419">No se puede usar el archivo de la caché de la URL de descarga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -793,7 +793,7 @@
       <Position>AVFoundationErrorDomain_AVErrorRecordingAlreadyInProgress_FailureReason</Position>
       <TranslationSet>
         <base loc="en">A movie recording is already in progress.</base>
-        <tran loc="es">Ya se está grabando un vídeo.</tran>
+        <tran loc="es-419">Ya se está grabando un video.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -801,7 +801,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaFileSegmentationFailed_Description</Position>
       <TranslationSet>
         <base loc="en">Media segmentation stopped</base>
-        <tran loc="es">Segmentación del contenido detenida</tran>
+        <tran loc="es-419">Segmentación de contenidos interrumpida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -809,7 +809,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDecodeFailed_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The media data could not be decoded. It may be damaged.</base>
-        <tran loc="es">No se han podido descodificar los datos de contenido. Puede que estén dañados.</tran>
+        <tran loc="es-419">No se pudieron decodificar los datos de contenido. Puede que estén dañados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -817,7 +817,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionHardwareCostOverage_FailureReason</Position>
       <TranslationSet>
         <base loc="en">Too many camera hardware resources were requested.</base>
-        <tran loc="es">Se han solicitado demasiados recursos de hardware de cámara.</tran>
+        <tran loc="es-419">Se solicitaron demasiados recursos de hardware.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -825,7 +825,7 @@
       <Position>AVFoundationErrorDomain_AVErrorIncorrectPassword_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The password is incorrect.</base>
-        <tran loc="es">La contraseña no es correcta.</tran>
+        <tran loc="es-419">La contraseña es incorrecta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -833,7 +833,7 @@
       <Position>AVFoundationErrorDomain_AVErrorClientProgrammingError_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The application encountered a programming error.</base>
-        <tran loc="es">La aplicación ha encontrado un error de programación.</tran>
+        <tran loc="es-419">La aplicación encontró un error de programación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -841,7 +841,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationNotAllowed_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The application encountered a programming error.</base>
-        <tran loc="es">La aplicación ha encontrado un error de programación.</tran>
+        <tran loc="es-419">La aplicación encontró un error de programación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -849,7 +849,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDecoderTemporarilyUnavailable_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop any other actions that decode media and try again.</base>
-        <tran loc="es">Detén las otras acciones que descodifiquen contenido e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén las otras acciones que decodifican contenido e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -857,7 +857,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationNotAllowed_Description</Position>
       <TranslationSet>
         <base loc="en">The operation is not allowed</base>
-        <tran loc="es">Esta operación no está permitida</tran>
+        <tran loc="es-419">No se permite la operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -865,7 +865,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionHardwareCostOverage_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Lower the frame rate or select a lower resolution format.</base>
-        <tran loc="es">Reduce la frecuencia de fotogramas o selecciona el formato de resolución más baja.</tran>
+        <tran loc="es-419">Reduce la frecuencia de cuadros o selecciona un formato de menor resolución.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -873,7 +873,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUnsupportedOutputSettings_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Encode Media</base>
-        <tran loc="es">No se puede codificar el contenido</tran>
+        <tran loc="es-419">No se puede codificar el contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -881,7 +881,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileTypeDoesNotSupportSampleReferences_FailureReason</Position>
       <TranslationSet>
         <base loc="en">File type “%@” does not support this feature</base>
-        <tran loc="es">El tipo de archivo “%@” es incompatible con esta función</tran>
+        <tran loc="es-419">El tipo de archivo "%@" no es compatible con esta función</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -889,7 +889,7 @@
       <Position>AVFoundationErrorDomain_AVErrorIncorrectPIN_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The passcode is incorrect.</base>
-        <tran loc="es">El código no es correcto.</tran>
+        <tran loc="es-419">El código es incorrecto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -897,7 +897,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoLongerPlayable_FailureReason</Position>
       <TranslationSet>
         <base loc="en">Could not download required resources.</base>
-        <tran loc="es">No se han podido descargar los recursos necesarios.</tran>
+        <tran loc="es-419">No se pudo descargar los recursos necesarios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -905,7 +905,7 @@
       <Position>AVFoundationErrorDomain_AVErrorClientProgrammingError_Description</Position>
       <TranslationSet>
         <base loc="en">The operation could not be completed</base>
-        <tran loc="es">No se ha podido completar la operación</tran>
+        <tran loc="es-419">No se pudo completar la operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -918,7 +918,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUnknown_Description</Position>
       <TranslationSet>
         <base loc="en">The operation could not be completed</base>
-        <tran loc="es">No se ha podido completar la operación</tran>
+        <tran loc="es-419">No se pudo completar la operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -926,7 +926,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMaximumDurationReached_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The recording reached the maximum allowable length.</base>
-        <tran loc="es">La grabación ha alcanzado la duración máxima permitida.</tran>
+        <tran loc="es-419">La grabación alcanzó la duración máxima permitida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -934,7 +934,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMaximumNumberOfSamplesForFileFormatReached_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The recording reached the maximum allowable length.</base>
-        <tran loc="es">La grabación ha alcanzado la duración máxima permitida.</tran>
+        <tran loc="es-419">La grabación alcanzó la duración máxima permitida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -942,7 +942,7 @@
       <Position>AVFoundationErrorDomain_AVErrorExportFailed_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Complete Export</base>
-        <tran loc="es">No se puede completar la exportación</tran>
+        <tran loc="es-419">No se puede completar la exportación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -950,7 +950,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationInterrupted_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop other operations and try again.</base>
-        <tran loc="es">Detén las demás operaciones e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén las demás operaciones e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -958,7 +958,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileChecksumFailed_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The file has an invalid checksum.</base>
-        <tran loc="es">La suma de control del archivo no es válida.</tran>
+        <tran loc="es-419">La suma de control del archivo no es válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -966,7 +966,7 @@
       <Position>AVFoundationErrorDomain_AVErrorContentIsProtected_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -974,7 +974,7 @@
       <Position>AVFoundationErrorDomain_AVErrorContentIsUnavailable_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -982,7 +982,7 @@
       <Position>AVFoundationErrorDomain_AVErrorCreateContentKeyRequestFailed_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -990,7 +990,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDiskFull_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -998,7 +998,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFailedToLoadMediaData_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1006,7 +1006,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileChecksumFailed_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1014,7 +1014,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidFileAtDownloadDestinationURL_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1022,7 +1022,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidVideoComposition_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1030,7 +1030,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationNotSupportedForAsset_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1038,7 +1038,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationNotSupportedForPreset_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1046,7 +1046,7 @@
       <Position>AVFoundationErrorDomain_AVErrorServerIncorrectlyConfigured_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1054,7 +1054,7 @@
       <Position>AVFoundationErrorDomain_AVErrorVideoCompositorFailed_Description</Position>
       <TranslationSet>
         <base loc="en">Operation Stopped</base>
-        <tran loc="es">Operación detenida</tran>
+        <tran loc="es-419">Operación detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1062,7 +1062,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFailedToParse_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Parse</base>
-        <tran loc="es">No se puede analizar</tran>
+        <tran loc="es-419">No se puede analizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1070,7 +1070,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFailedToLoadMediaData_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media may be damaged.</base>
-        <tran loc="es">Puede que el contenido esté dañado.</tran>
+        <tran loc="es-419">Puede que el contenido esté dañado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1078,7 +1078,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileFailedToParse_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media may be damaged.</base>
-        <tran loc="es">Puede que el contenido esté dañado.</tran>
+        <tran loc="es-419">Puede que el contenido esté dañado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1086,7 +1086,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationNotSupportedForPreset_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The operation cannot be performed for this preset.</base>
-        <tran loc="es">No se puede llevar a cabo esta operación para este preajuste.</tran>
+        <tran loc="es-419">No se puede realizar la operación para esta preconfiguración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1094,7 +1094,7 @@
       <Position>AVFoundationErrorDomain_AVErrorExternalPlaybackNotSupportedForAsset_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot play</base>
-        <tran loc="es">No se puede reproducir</tran>
+        <tran loc="es-419">No se puede reproducir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1102,7 +1102,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMalformedDepth_Description</Position>
       <TranslationSet>
         <base loc="en">Depth is malformed</base>
-        <tran loc="es">Profundidad mal formada</tran>
+        <tran loc="es-419">Deformación de la profundidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1110,7 +1110,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceNotConnected_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try recording again.</base>
-        <tran loc="es">Intenta grabar de nuevo.</tran>
+        <tran loc="es-419">Intenta grabar de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1118,7 +1118,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceWasDisconnected_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try recording again.</base>
-        <tran loc="es">Intenta grabar de nuevo.</tran>
+        <tran loc="es-419">Intenta grabar de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1126,7 +1126,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaChanged_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try recording again.</base>
-        <tran loc="es">Intenta grabar de nuevo.</tran>
+        <tran loc="es-419">Intenta grabar de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1134,7 +1134,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoDataCaptured_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try recording again.</base>
-        <tran loc="es">Intenta grabar de nuevo.</tran>
+        <tran loc="es-419">Intenta grabar de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1142,7 +1142,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionConfigurationChanged_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try recording again.</base>
-        <tran loc="es">Intenta grabar de nuevo.</tran>
+        <tran loc="es-419">Intenta grabar de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1150,7 +1150,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionNotRunning_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try recording again.</base>
-        <tran loc="es">Intenta grabar de nuevo.</tran>
+        <tran loc="es-419">Intenta grabar de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1158,7 +1158,7 @@
       <Position>AVFoundationErrorDomain_AVErrorExportFailed_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try exporting again.</base>
-        <tran loc="es">Intenta exportar de nuevo.</tran>
+        <tran loc="es-419">Intenta exportar de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1166,7 +1166,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMaximumStillImageCaptureRequestsExceeded_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try taking a photo again.</base>
-        <tran loc="es">Intenta hacer una foto de nuevo.</tran>
+        <tran loc="es-419">Intenta tomar una foto de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1174,7 +1174,7 @@
       <Position>AVFoundationErrorDomain_AVErrorAirPlayReceiverRequiresInternet_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Check the AirPlay device’s network settings and try again.</base>
-        <tran loc="es">Comprueba los ajustes de red del dispositivo AirPlay e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Verifica la configuración de red del dispositivo AirPlay y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1182,7 +1182,7 @@
       <Position>AVFoundationErrorDomain_AVErrorIncorrectPIN_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot connect to device</base>
-        <tran loc="es">Imposible conectarse al dispositivo</tran>
+        <tran loc="es-419">No se puede conectar con el dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1190,7 +1190,7 @@
       <Position>AVFoundationErrorDomain_AVErrorIncorrectPassword_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot connect to device</base>
-        <tran loc="es">Imposible conectarse al dispositivo</tran>
+        <tran loc="es-419">No se puede conectar con el dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1198,7 +1198,7 @@
       <Position>AVFoundationErrorDomain_AVErrorAirPlayControllerRequiresInternet_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Check network settings and try again.</base>
-        <tran loc="es">Comprueba los ajustes de red e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Verifica tu configuración de red y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1206,7 +1206,7 @@
       <Position>AVFoundationErrorDomain_AVErrorRecordingAlreadyInProgress_Description</Position>
       <TranslationSet>
         <base loc="en">Movie recording cannot be started</base>
-        <tran loc="es">No se puede iniciar la grabación de un vídeo</tran>
+        <tran loc="es-419">No se puede empezar a grabar el video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1214,7 +1214,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUnsupportedDeviceActiveFormat_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The camera's active format is unsupported by this session.</base>
-        <tran loc="es">Esta sesión no es compatible con el formato activo de la cámara.</tran>
+        <tran loc="es-419">El formato activo de la cámara no es compatible con esta sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1222,7 +1222,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileWritingExceededPredeterminedSize_Description</Position>
       <TranslationSet>
         <base loc="en">File writing Stopped</base>
-        <tran loc="es">Escritura del archivo detenida</tran>
+        <tran loc="es-419">Escritura detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1230,7 +1230,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaDataWritingExceededPredeterminedSize_Description</Position>
       <TranslationSet>
         <base loc="en">File writing Stopped</base>
-        <tran loc="es">Escritura del archivo detenida</tran>
+        <tran loc="es-419">Escritura detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1238,7 +1238,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidVideoComposition_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The video could not be composed.</base>
-        <tran loc="es">No se ha podido montar el vídeo.</tran>
+        <tran loc="es-419">No se pudo montar el video.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1246,7 +1246,7 @@
       <Position>AVFoundationErrorDomain_AVErrorRecordingNotAllowedWhenMultipleAppsAreForeground_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Dismiss any other foreground apps, then try recording again.</base>
-        <tran loc="es">Oculta las demás apps que estén en primer plano e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Oculta cualquier otra app en primer plano y reintenta grabar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1254,7 +1254,7 @@
       <Position>AVFoundationErrorDomain_AVErrorCompositionTrackSegmentsNotContiguous_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media cannot be used.</base>
-        <tran loc="es">Este contenido no puede usarse.</tran>
+        <tran loc="es-419">Este contenido no puede usarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1262,7 +1262,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentDuration_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media cannot be used.</base>
-        <tran loc="es">Este contenido no puede usarse.</tran>
+        <tran loc="es-419">Este contenido no puede usarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1270,7 +1270,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentSourceDuration_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media cannot be used.</base>
-        <tran loc="es">Este contenido no puede usarse.</tran>
+        <tran loc="es-419">Este contenido no puede usarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1278,7 +1278,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidCompositionTrackSegmentSourceStartTime_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media cannot be used.</base>
-        <tran loc="es">Este contenido no puede usarse.</tran>
+        <tran loc="es-419">Este contenido no puede usarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1286,7 +1286,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoImageAtTime_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media cannot be used.</base>
-        <tran loc="es">Este contenido no puede usarse.</tran>
+        <tran loc="es-419">Este contenido no puede usarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1294,7 +1294,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoSourceTrack_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media cannot be used.</base>
-        <tran loc="es">Este contenido no puede usarse.</tran>
+        <tran loc="es-419">Este contenido no puede usarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1302,7 +1302,7 @@
       <Position>AVFoundationErrorDomain_AVErrorReferenceForbiddenByReferencePolicy_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This media cannot be used.</base>
-        <tran loc="es">Este contenido no puede usarse.</tran>
+        <tran loc="es-419">Este contenido no puede usarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1310,7 +1310,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMaximumStillImageCaptureRequestsExceeded_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Take Photo</base>
-        <tran loc="es">No se pueden hacer fotos</tran>
+        <tran loc="es-419">No se pueden tomar fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1318,7 +1318,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDiskFull_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">There is not enough available space to continue the file writing. Make room by deleting existing videos or photos.</base>
-        <tran loc="es">No hay suficiente espacio disponible para continuar escribiendo en el archivo. Libera espacio eliminando vídeos o fotos existentes.</tran>
+        <tran loc="es-419">No hay suficiente espacio disponible para continuar escribiendo en el archivo. Libera espacio eliminando videos o fotos existentes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1326,7 +1326,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDecoderNotFound_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The decoder required for this media cannot be found.</base>
-        <tran loc="es">No se encuentra el descodificador necesario para este contenido.</tran>
+        <tran loc="es-419">No se encuentra el decodificador necesario para este contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1334,7 +1334,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDecodeFailed_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Decode</base>
-        <tran loc="es">No se puede descodificar</tran>
+        <tran loc="es-419">No se puede decodificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1342,7 +1342,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDecoderNotFound_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Decode</base>
-        <tran loc="es">No se puede descodificar</tran>
+        <tran loc="es-419">No se puede decodificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1350,7 +1350,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDecoderTemporarilyUnavailable_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Decode</base>
-        <tran loc="es">No se puede descodificar</tran>
+        <tran loc="es-419">No se puede decodificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1358,7 +1358,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUndecodableMediaData_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Decode</base>
-        <tran loc="es">No se puede descodificar</tran>
+        <tran loc="es-419">No se puede decodificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1366,7 +1366,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaDiscontinuity_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop any other actions using the recording device and try again.</base>
-        <tran loc="es">Detén las otras acciones que usen el dispositivo de grabación e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén las otras acciones que usan el dispositivo de grabación e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1374,7 +1374,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionWasInterrupted_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop any other actions using the recording device and try again.</base>
-        <tran loc="es">Detén las otras acciones que usen el dispositivo de grabación e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén las otras acciones que usan el dispositivo de grabación e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1382,7 +1382,7 @@
       <Position>AVFoundationErrorDomain_AVErrorRecordingAlreadyInProgress_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop the movie recording in progress and try again.</base>
-        <tran loc="es">Detén la grabación actual e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén la grabación del video y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1390,7 +1390,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationNotSupportedForAsset_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The operation is not supported for this media.</base>
-        <tran loc="es">Este contenido no admite esta operación.</tran>
+        <tran loc="es-419">Este contenido no admite esta operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1398,7 +1398,7 @@
       <Position>AVFoundationErrorDomain_AVErrorAirPlayControllerRequiresInternet_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot AirPlay</base>
-        <tran loc="es">No se puede usar AirPlay</tran>
+        <tran loc="es-419">AirPlay no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1406,7 +1406,7 @@
       <Position>AVFoundationErrorDomain_AVErrorAirPlayReceiverRequiresInternet_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot AirPlay</base>
-        <tran loc="es">No se puede usar AirPlay</tran>
+        <tran loc="es-419">AirPlay no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1414,7 +1414,7 @@
       <Position>AVFoundationErrorDomain_AVErrorEncoderTemporarilyUnavailable_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Stop any other actions that encode media and try again.</base>
-        <tran loc="es">Detén las otras acciones que codifiquen contenido e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Detén las otras acciones que codifican contenido e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1422,7 +1422,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceAlreadyUsedByAnotherSession_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Record</base>
-        <tran loc="es">No se puede grabar</tran>
+        <tran loc="es-419">No se puede grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1430,7 +1430,7 @@
       <Position>AVFoundationErrorDomain_AVErrorDeviceNotConnected_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Record</base>
-        <tran loc="es">No se puede grabar</tran>
+        <tran loc="es-419">No se puede grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1438,7 +1438,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoDataCaptured_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Record</base>
-        <tran loc="es">No se puede grabar</tran>
+        <tran loc="es-419">No se puede grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1446,7 +1446,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionHardwareCostOverage_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Record</base>
-        <tran loc="es">No se puede grabar</tran>
+        <tran loc="es-419">No se puede grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1454,7 +1454,7 @@
       <Position>AVFoundationErrorDomain_AVErrorSessionNotRunning_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Record</base>
-        <tran loc="es">No se puede grabar</tran>
+        <tran loc="es-419">No se puede grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1462,7 +1462,7 @@
       <Position>AVFoundationErrorDomain_AVErrorUnsupportedDeviceActiveFormat_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Record</base>
-        <tran loc="es">No se puede grabar</tran>
+        <tran loc="es-419">No se puede grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1470,7 +1470,7 @@
       <Position>AVFoundationErrorDomain_AVErrorIncorrectPassword_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try connecting again using the correct password.</base>
-        <tran loc="es">Intenta conectarte de nuevo con la contraseña correcta.</tran>
+        <tran loc="es-419">Intenta conectarte de nuevo utilizando la contraseña correcta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1478,7 +1478,7 @@
       <Position>AVFoundationErrorDomain_AVErrorEncoderNotFound_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The encoder required for this media cannot be found.</base>
-        <tran loc="es">No se encuentra el codificador necesario para este contenido.</tran>
+        <tran loc="es-419">No se encuentra el codificador necesario para este contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1486,7 +1486,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFormatUnsupported_Description</Position>
       <TranslationSet>
         <base loc="en">Format Unsupported</base>
-        <tran loc="es">Formato incompatible</tran>
+        <tran loc="es-419">Formato no compatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1494,7 +1494,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMalformedDepth_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The depth data provided is malformed and cannot be used.</base>
-        <tran loc="es">Los datos de profundidad proporcionados no están bien formados y no se pueden utilizar.</tran>
+        <tran loc="es-419">Los datos de profundidad están deformados y no se pueden usar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1502,7 +1502,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFileWritingExceededPredeterminedSize_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The size of the file would exceed the predetermined size.</base>
-        <tran loc="es">El tamaño del archivo superaría el tamaño predeterminado.</tran>
+        <tran loc="es-419">El tamaño del archivo excedería el predeterminado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1510,7 +1510,7 @@
       <Position>AVFoundationErrorDomain_AVErrorApplicationIsNotAuthorized_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This app is not authorized to play this file.</base>
-        <tran loc="es">Esta app no tiene autorización para reproducir este archivo.</tran>
+        <tran loc="es-419">Esta app no tiene autorización para reproducir este archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1518,7 +1518,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFailedToParse_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This data is damaged, incomplete, or incompatible.</base>
-        <tran loc="es">Los datos están dañados o incompletos o son incompatibles.</tran>
+        <tran loc="es-419">Los datos están dañados, incompletos, o son incompatibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1526,7 +1526,7 @@
       <Position>AVFoundationErrorDomain_AVErrorTorchLevelUnavailable_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try turning the torch on at a lower level.</base>
-        <tran loc="es">Enciende la linterna con una intensidad baja.</tran>
+        <tran loc="es-419">Enciende la lámpara con una intensidad baja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1534,7 +1534,7 @@
       <Position>AVFoundationErrorDomain_AVErrorContentIsUnavailable_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This content is no longer available.</base>
-        <tran loc="es">Este contenido ya no está disponible.</tran>
+        <tran loc="es-419">Este contenido ya no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1542,7 +1542,7 @@
       <Position>AVFoundationErrorDomain_AVErrorPointlessOverCapture_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Try disabling capture outside the frame, increase zoom at any point during the capture, or simply ignore this error.</base>
-        <tran loc="es">Prueba a desactivar la captura del contenido fuera del marco, aumentar el zoom en cualquier momento durante la captura o simplemente ignorar este error.</tran>
+        <tran loc="es-419">Intenta desactivar la captura fuera del cuadro, aumentar el zoom en cualquier punto durante la captura o simplemente ignorar este error.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1550,7 +1550,7 @@
       <Position>AVFoundationErrorDomain_AVErrorMediaFileSegmentationFailed_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The media file could not be segmented.</base>
-        <tran loc="es">No se ha podido segmentar el archivo del contenido.</tran>
+        <tran loc="es-419">No se pudo segmentar el archivo de contenido multimedia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1558,7 +1558,7 @@
       <Position>AVFoundationErrorDomain_AVErrorServerIncorrectlyConfigured_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The server is not correctly configured.</base>
-        <tran loc="es">El servidor no está configurado correctamente.</tran>
+        <tran loc="es-419">El servidor no está configurado correctamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1566,7 +1566,7 @@
       <Position>AVFoundationErrorDomain_AVErrorOperationRequiresBothBudsInEar_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Make sure both buds are in ear.</base>
-        <tran loc="es">Comprueba que tienes ambas almohadillas en los oídos.</tran>
+        <tran loc="es-419">Asegúrate de que ambos audífonos estén en tus oídos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1574,7 +1574,7 @@
       <Position>AVFoundationErrorDomain_AVErrorFormatUnsupported_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The format of this content is unsupported.</base>
-        <tran loc="es">El formato de este contenido es incompatible.</tran>
+        <tran loc="es-419">El formato de este contenido no es compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1582,7 +1582,7 @@
       <Position>AVFoundationErrorDomain_AVErrorEncoderTemporarilyUnavailable_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The encoder required for this media is busy.</base>
-        <tran loc="es">El codificador necesario para este contenido está en uso.</tran>
+        <tran loc="es-419">El codificador necesario para este contenido está en uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1590,7 +1590,7 @@
       <Position>AVFoundationErrorDomain_AVErrorAirPlayReceiverRequiresInternet_FailureReason</Position>
       <TranslationSet>
         <base loc="en">The AirPlay device requires an internet connection.</base>
-        <tran loc="es">El dispositivo AirPlay requiere una conexión a internet.</tran>
+        <tran loc="es-419">El dispositivo AirPlay requiere una conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1598,7 +1598,7 @@
       <Position>AVFoundationErrorDomain_AVErrorInvalidOutputURLPathExtension_RecoverySuggestion</Position>
       <TranslationSet>
         <base loc="en">Change the output extension and try again.</base>
-        <tran loc="es">Cambia la extensión de salida e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Cambia la extensión de salida e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1606,7 +1606,7 @@
       <Position>AVFoundationErrorDomain_AVErrorPointlessOverCapture_Description</Position>
       <TranslationSet>
         <base loc="en">Suppressed Duplicate Asset</base>
-        <tran loc="es">Se ha eliminado el contenido duplicado</tran>
+        <tran loc="es-419">Activo duplicado suprimido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1614,7 +1614,7 @@
       <Position>AVFoundationErrorDomain_AVErrorEncoderNotFound_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Encode</base>
-        <tran loc="es">No se puede codificar</tran>
+        <tran loc="es-419">No se puede codificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1622,7 +1622,7 @@
       <Position>AVFoundationErrorDomain_AVErrorEncoderTemporarilyUnavailable_Description</Position>
       <TranslationSet>
         <base loc="en">Cannot Encode</base>
-        <tran loc="es">No se puede codificar</tran>
+        <tran loc="es-419">No se puede codificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1630,7 +1630,7 @@
       <Position>AVFoundationErrorDomain_AVErrorContentIsNotAuthorized_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This content is not authorized.</base>
-        <tran loc="es">Este contenido no está autorizado.</tran>
+        <tran loc="es-419">Este contenido no está autorizado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1638,7 +1638,7 @@
       <Position>AVFoundationErrorDomain_AVErrorCreateContentKeyRequestFailed_FailureReason</Position>
       <TranslationSet>
         <base loc="en">This content cannot be authorized.</base>
-        <tran loc="es">Este contenido no se puede autorizar.</tran>
+        <tran loc="es-419">Este contenido no se puede autorizar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1646,7 +1646,7 @@
       <Position>AVFoundationErrorDomain_AVErrorContentNotUpdated_Description</Position>
       <TranslationSet>
         <base loc="en">Playback Stopped</base>
-        <tran loc="es">Reproducción detenida</tran>
+        <tran loc="es-419">Reproducción detenida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1654,7 +1654,7 @@
       <Position>AVFoundationErrorDomain_AVErrorNoLongerPlayable_Description</Position>
       <TranslationSet>
         <base loc="en">Playback Stopped</base>
-        <tran loc="es">Reproducción detenida</tran>
+        <tran loc="es-419">Reproducción detenida</tran>
       </TranslationSet>
     </TextItem>
   </File>

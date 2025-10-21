@@ -8,7 +8,7 @@
       <Position>/MINUTES_CAPS:dict/minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{MINS}</base>
-        <tran loc="es">%.f{MIN}</tran>
+        <tran loc="es-419">%.f{MIN}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/MINUTES_SHORTEST_CAPS:dict/minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{M}</base>
-        <tran loc="es">%.f{MIN}</tran>
+        <tran loc="es-419">%.f{M}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/MINUTES_SHORTEST_CAPS:dict/minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{M}</base>
-        <tran loc="es">%.f{MIN}</tran>
+        <tran loc="es-419">%.f{M}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>/HOURS_CAPS:dict/hours:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{HRS}</base>
-        <tran loc="es">%.f{H}</tran>
+        <tran loc="es-419">%.f{H}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>/HOURS_CAPS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@hours@</base>
-        <tran loc="es">%#@hours@</tran>
+        <tran loc="es-419">%#@hours@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>/HOURS_SHORTEST_CAPS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@hours@</base>
-        <tran loc="es">%#@hours@</tran>
+        <tran loc="es-419">%#@hours@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>/HOURS_SHORT_CAPS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@hours@</base>
-        <tran loc="es">%#@hours@</tran>
+        <tran loc="es-419">%#@hours@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>/HOURS_SHORTEST_CAPS:dict/hours:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{H}</base>
-        <tran loc="es">%.f{H}</tran>
+        <tran loc="es-419">%.f{H}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>/HOURS_SHORTEST_CAPS:dict/hours:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{H}</base>
-        <tran loc="es">%.f{H}</tran>
+        <tran loc="es-419">%.f{H}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>/MINUTES_CAPS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@minutes@</base>
-        <tran loc="es">%#@minutes@</tran>
+        <tran loc="es-419">%#@minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>/MINUTES_SHORTEST_CAPS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@minutes@</base>
-        <tran loc="es">%#@minutes@</tran>
+        <tran loc="es-419">%#@minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>/MINUTES_SHORT_CAPS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@minutes@</base>
-        <tran loc="es">%#@minutes@</tran>
+        <tran loc="es-419">%#@minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>/HOURS_CAPS:dict/hours:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{HR}</base>
-        <tran loc="es">%.f{H}</tran>
+        <tran loc="es-419">%.f{H}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>/HOURS_SHORT_CAPS:dict/hours:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{HR}</base>
-        <tran loc="es">%.f{H}</tran>
+        <tran loc="es-419">%.f{H}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>/HOURS_SHORT_CAPS:dict/hours:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{HR}</base>
-        <tran loc="es">%.f{H}</tran>
+        <tran loc="es-419">%.f{H}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>/MINUTES_CAPS:dict/minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{MIN}</base>
-        <tran loc="es">%.f{MIN}</tran>
+        <tran loc="es-419">%.f{MIN}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>/MINUTES_SHORT_CAPS:dict/minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{MIN}</base>
-        <tran loc="es">%.f{MIN}</tran>
+        <tran loc="es-419">%.f{MIN}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>/MINUTES_SHORT_CAPS:dict/minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%.f{MIN}</base>
-        <tran loc="es">%.f{MIN}</tran>
+        <tran loc="es-419">%.f{MIN}</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -155,7 +155,7 @@
       <Position>INTERVAL_HYPHEN_NARROW</Position>
       <TranslationSet>
         <base loc="en">–</base>
-        <tran loc="es">–</tran>
+        <tran loc="es-419">–</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>REORDER_INDEX_INDICATOR_TEXT</Position>
       <TranslationSet>
         <base loc="en">%ld OF %lu</base>
-        <tran loc="es">%ld DE %lu</tran>
+        <tran loc="es-419">%ld DE %lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>INTERVAL_DROP_LEFTMOST_REDUNDANT_DESIGNATOR</Position>
       <TranslationSet>
         <base loc="en">1</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>SMALL_CAPS_FONT_ALLOWED</Position>
       <TranslationSet>
         <base loc="en">1</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>EMPTY_TEXT_DASHES</Position>
       <TranslationSet>
         <base loc="en">--</base>
-        <tran loc="es">--</tran>
+        <tran loc="es-419">--</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>LESS_THAN_ONE_MINUTE</Position>
       <TranslationSet>
         <base loc="en">&lt;%@</base>
-        <tran loc="es">&lt;%@</tran>
+        <tran loc="es-419">&lt; %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>INTERVAL_HYPHEN_WIDE</Position>
       <TranslationSet>
         <base loc="en"> – </base>
-        <tran loc="es"> – </tran>
+        <tran loc="es-419"> – </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>HOUR_MINUTES</Position>
       <TranslationSet>
         <base loc="en">1:%.f</base>
-        <tran loc="es">1:%.f</tran>
+        <tran loc="es-419">1:%.f</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>DATE_WEEKDAY_DAY_REMOVE_PUNCTUATION</Position>
       <TranslationSet>
         <base loc="en">0</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>DESIGNATOR_REQUIRES_WHITESPACE</Position>
       <TranslationSet>
         <base loc="en">0</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>INTERVAL_ALLOW_FAUX_SMALL_CAPS_FOR_FIT</Position>
       <TranslationSet>
         <base loc="en">0</base>
-        <tran loc="es">0</tran>
+        <tran loc="es-419">0</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -14,7 +14,7 @@
       <Position>ETHERNET</Position>
       <TranslationSet>
         <base loc="en">Ethernet</base>
-        <tran loc="es">Ethernet</tran>
+        <tran loc="es-419">Ethernet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>INTERFACES</Position>
       <TranslationSet>
         <base loc="en">Interfaces</base>
-        <tran loc="es">Interfaces</tran>
+        <tran loc="es-419">Interfaces</tran>
       </TranslationSet>
     </TextItem>
   </File>

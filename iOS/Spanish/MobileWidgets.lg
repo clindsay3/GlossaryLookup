@@ -8,7 +8,7 @@
       <Position>/NEW_WIDGETS_AVAILABLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@widgets@</base>
-        <tran loc="es">%#@widgets@</tran>
+        <tran loc="es-419">%#@widgets@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/NEW_WIDGETS_AVAILABLE:dict/widgets:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u New Widget Available</base>
-        <tran loc="es">%u widget nuevo disponible</tran>
+        <tran loc="es-419">%u nuevo widget disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/NEW_WIDGETS_AVAILABLE:dict/widgets:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u New Widgets Available</base>
-        <tran loc="es">%u widgets nuevos disponibles</tran>
+        <tran loc="es-419">%u nuevos widgets disponibles</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -35,7 +35,7 @@
       <Position>WIDGETS_EDIT_HEADLINE</Position>
       <TranslationSet>
         <base loc="en">Add Widgets</base>
-        <tran loc="es">Añadir widgets</tran>
+        <tran loc="es-419">Agregar widgets</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>WIDGETS_EDIT_TODAY_HEADLINE</Position>
       <TranslationSet>
         <base loc="en">Today View</base>
-        <tran loc="es">Visualización Hoy</tran>
+        <tran loc="es-419">Visualización Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>WIDGETS_EDIT_DISABLED</Position>
       <TranslationSet>
         <base loc="en">More Widgets</base>
-        <tran loc="es">Más widgets</tran>
+        <tran loc="es-419">Más widgets</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>WIDGETS_EDIT_FAVORITES_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Pinned favorites will always appear on the Home Screen. Swipe up to see the rest.</base>
-        <tran loc="es">Los favoritos fijados aparecerán siempre en la pantalla de inicio. Desliza hacia arriba para ver el resto.</tran>
+        <tran loc="es-419">Tus favoritos anclados se mostrarán siempre en la pantalla de Inicio. Desliza hacia arriba para ver el resto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>WIDGETS_PIN_TEACHING_YES_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Add to Home Screen</base>
-        <tran loc="es">Añadir a pantalla de inicio</tran>
+        <tran loc="es-419">Agregar a Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>ADD_WIDGET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add Widget</base>
-        <tran loc="es">Añadir widget</tran>
+        <tran loc="es-419">Agregar widget</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>WIDGETS_EDIT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>WIDGETS_PIN_TEACHING_BODY</Position>
       <TranslationSet>
         <base loc="en">Add the Today View to the Home Screen next to your apps. You can do this later in Edit mode.</base>
-        <tran loc="es">Añade la visualización Hoy a la pantalla de inicio junto a las apps. Puedes hacerlo en el modo Editar.</tran>
+        <tran loc="es-419">Agrega la visualización Hoy a la pantalla de Inicio al lado de tus apps, lo cual puedes hacer después en el modo Editar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>WIDGETS_PIN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Keep on Home Screen</base>
-        <tran loc="es">Mantener en la pantalla de inicio</tran>
+        <tran loc="es-419">Mantener en Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>WIDGETS_EDIT_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Get timely information from your favorite apps, at a glance. Add and organize your widgets below.</base>
-        <tran loc="es">Obtén información actualizada de tus apps favoritas de un vistazo. Añade y organiza los widgets a continuación.</tran>
+        <tran loc="es-419">Obtén información oportuna acerca de tus apps favoritas de un vistazo. Agrega y organiza tus widgets a continuación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>WIDGETS_EDIT_DRAG_TO_PIN</Position>
       <TranslationSet>
         <base loc="en">Drag a widget here to pin</base>
-        <tran loc="es">Arrastra un widget aquí para fijarlo</tran>
+        <tran loc="es-419">Arrastra un widget aquí para anclarlo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>WIDGETS_EDIT_REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>WIDGETS_EDIT_TODAY_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Get timely information from your favorite apps, at a glance. Pin, add, and organize your widgets below.</base>
-        <tran loc="es">Obtén información actualizada de tus apps favoritas de un vistazo. Fija, añade y organiza los widgets a continuación.</tran>
+        <tran loc="es-419">Obtén información oportuna acerca de tus apps favoritas de un vistazo. Ancla, agrega y organiza tus widgets a continuación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>BROKEN_WIDGET_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Unable to Load</base>
-        <tran loc="es">No se puede cargar</tran>
+        <tran loc="es-419">No se pudo cargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>WIDGETS_PIN_TEACHING_NO_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>WIDGETS_EDIT_FAVORITES</Position>
       <TranslationSet>
         <base loc="en">Favorites</base>
-        <tran loc="es">Favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>WIDGETS_PIN_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Keep the Today View on the Home Screen next to your apps.</base>
-        <tran loc="es">Mantén la visualización Hoy en la pantalla de inicio junto a las apps.</tran>
+        <tran loc="es-419">Mantén la visualización Hoy en la pantalla de Inicio al lado de tus apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>WIDGETS_EDIT_PINNED_FAVORITES</Position>
       <TranslationSet>
         <base loc="en">Pinned Favorites</base>
-        <tran loc="es">Favoritos fijados</tran>
+        <tran loc="es-419">Favoritos anclados</tran>
       </TranslationSet>
     </TextItem>
   </File>

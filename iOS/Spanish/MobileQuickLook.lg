@@ -8,7 +8,7 @@
       <Position>Unable to uncompress %@.</Position>
       <TranslationSet>
         <base loc="en">Unable to uncompress %@.</base>
-        <tran loc="es">No se ha podido descomprimir %@.</tran>
+        <tran loc="es-419">No se puede descomprimir %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>It might be corrupted or of an unknown file format.</Position>
       <TranslationSet>
         <base loc="en">It might be corrupted or of an unknown file format.</base>
-        <tran loc="es">Puede que esté dañado o tenga un formato desconocido.</tran>
+        <tran loc="es-419">Puede que esté dañado o en un formato desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Unsupported file format</Position>
       <TranslationSet>
         <base loc="en">Unsupported file format</base>
-        <tran loc="es">Formato de archivo incompatible</tran>
+        <tran loc="es-419">Formato de archivo incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>This file cannot be previewed</Position>
       <TranslationSet>
         <base loc="en">This file cannot be previewed</base>
-        <tran loc="es">Este archivo no se puede previsualizar</tran>
+        <tran loc="es-419">No se puede previsualizar este archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Could not save edited movie successfully.</Position>
       <TranslationSet>
         <base loc="en">Could not save edited movie successfully.</base>
-        <tran loc="es">Imposible guardar la película editada.</tran>
+        <tran loc="es-419">No se pudo guardar el video editado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>The archive could not be uncompressed with the provided password.</Position>
       <TranslationSet>
         <base loc="en">The archive could not be uncompressed with the provided password.</base>
-        <tran loc="es">Imposible descomprimir el archivo con la contraseña proporcionada.</tran>
+        <tran loc="es-419">No se pudo descomprimir el archivo con la contraseña proporcionada.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -59,7 +59,7 @@
       <Position>/You have edited %lu files, what would you like to do?:dict/files:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">You have edited %ld files, what would you like to do?</base>
-        <tran loc="es">Has editado %ld archivos. ¿Qué te gustaría hacer?</tran>
+        <tran loc="es-419">Editaste %ld archivos, ¿qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>/You have edited %lu files, what would you like to do?:dict/files:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">You have edited a file, what would you like to do?</base>
-        <tran loc="es">Has editado un archivo. ¿Qué te gustaría hacer?</tran>
+        <tran loc="es-419">Editaste un archivo, ¿qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>/%ld files:dict/files:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No files</base>
-        <tran loc="es">Ningún archivo</tran>
+        <tran loc="es-419">Sin archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>/%ld files:dict/files:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld files</base>
-        <tran loc="es">%ld archivos</tran>
+        <tran loc="es-419">%ld archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>/%ld files:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@files@</base>
-        <tran loc="es">%#@files@</tran>
+        <tran loc="es-419">%#@files@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>/You have edited %lu files, what would you like to do?:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@files@</base>
-        <tran loc="es">%#@files@</tran>
+        <tran loc="es-419">%#@files@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>/You have edited %lu files, what would you like to do?:dict/files:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No files edited.</base>
-        <tran loc="es">No se han editado archivos.</tran>
+        <tran loc="es-419">No se editaron archivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>/%ld files:dict/files:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld file</base>
-        <tran loc="es">%ld archivo</tran>
+        <tran loc="es-419">%ld archivo</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -126,7 +126,7 @@
       <Position>Download</Position>
       <TranslationSet>
         <base loc="en">Download</base>
-        <tran loc="es">Descargar</tran>
+        <tran loc="es-419">Descargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>Save as New Clip</Position>
       <TranslationSet>
         <base loc="en">Save as New Clip</base>
-        <tran loc="es">Guardar como vídeo nuevo</tran>
+        <tran loc="es-419">Guardar como video nuevo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>Scroll Up</Position>
       <TranslationSet>
         <base loc="en">Scroll Up</base>
-        <tran loc="es">Desplazar hacia arriba</tran>
+        <tran loc="es-419">Desplazar arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>Rotate Right</Position>
       <TranslationSet>
         <base loc="en">Rotate Right</base>
-        <tran loc="es">Girar a la derecha</tran>
+        <tran loc="es-419">Girar a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>Turn Off Airplane Mode to Access Data</Position>
       <TranslationSet>
         <base loc="en">Turn Off Airplane Mode to Access Data</base>
-        <tran loc="es">Desactiva el modo Avión para acceder a los datos</tran>
+        <tran loc="es-419">Para acceder a tus datos, desactiva “Modo de vuelo”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>Connect to the Internet to download the file.</Position>
       <TranslationSet>
         <base loc="en">Connect to the Internet to download the file.</base>
-        <tran loc="es">Conéctate a internet para descargar el archivo.</tran>
+        <tran loc="es-419">Conéctate a Internet para descargar el archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>Exit Full Screen</Position>
       <TranslationSet>
         <base loc="en">Exit Full Screen</base>
-        <tran loc="es">Salir de pantalla completa</tran>
+        <tran loc="es-419">Salir de pantalla completa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>%@ of %@</Position>
       <TranslationSet>
         <base loc="en">%1$@ of %2$@</base>
-        <tran loc="es">%1$@ de %2$@</tran>
+        <tran loc="es-419">%1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>Turn Off Airplane Mode or Use Wi-Fi to Access Data</Position>
       <TranslationSet>
         <base loc="en">Turn Off Airplane Mode or Use Wi-Fi to Access Data</base>
-        <tran loc="es">Desactiva el modo Avión o utiliza la conexión Wi-Fi para acceder a los datos</tran>
+        <tran loc="es-419">Para acceder a tus datos, desactiva “Modo de vuelo” o usa Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>Scroll Down</Position>
       <TranslationSet>
         <base loc="en">Scroll Down</base>
-        <tran loc="es">Desplazar hacia abajo</tran>
+        <tran loc="es-419">Desplazar abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>OKPasswordFailure</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>OKSaveEditedMovie</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>OKUnarchivingFailure</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>Previous Preview</Position>
       <TranslationSet>
         <base loc="en">Previous Preview</base>
-        <tran loc="es">Previsualización anterior</tran>
+        <tran loc="es-419">Vista previa anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>Close Quick Look</Position>
       <TranslationSet>
         <base loc="en">Close Quick Look</base>
-        <tran loc="es">Cerrar “Vista rápida”</tran>
+        <tran loc="es-419">Cerrar Vista Rápida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>CancelDismissingAfterMarkup</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>CancelDownload</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>CancelOpeningLink</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>Play / Pause Media</Position>
       <TranslationSet>
         <base loc="en">Play / Pause Media</base>
-        <tran loc="es">Reproducir o poner en pausa el contenido</tran>
+        <tran loc="es-419">Reproducir/Pausa contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>Turn Off Airplane Mode or Use WLAN to Access Data</Position>
       <TranslationSet>
         <base loc="en">Turn Off Airplane Mode or Use WLAN to Access Data</base>
-        <tran loc="es">Desactiva el modo Avión o utiliza la conexión WLAN para acceder a los datos</tran>
+        <tran loc="es-419">Para acceder a tus datos, desactiva “Modo de vuelo” o usa WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>No file to preview</Position>
       <TranslationSet>
         <base loc="en">No file to preview</base>
-        <tran loc="es">Ningún archivo para previsualizar</tran>
+        <tran loc="es-419">Sin archivo para la vista previa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>Saving Video</Position>
       <TranslationSet>
         <base loc="en">Saving Video</base>
-        <tran loc="es">Guardando vídeo</tran>
+        <tran loc="es-419">Guardando video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>Close</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>Undo All</Position>
       <TranslationSet>
         <base loc="en">Undo All</base>
-        <tran loc="es">Deshacer todo</tran>
+        <tran loc="es-419">Deshacer todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>Enter Full Screen</Position>
       <TranslationSet>
         <base loc="en">Enter Full Screen</base>
-        <tran loc="es">Usar pantalla completa</tran>
+        <tran loc="es-419">Usar pantalla completa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>Preview Content</Position>
       <TranslationSet>
         <base loc="en">Preview Content</base>
-        <tran loc="es">Previsualizar contenido</tran>
+        <tran loc="es-419">Previsualización del contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>Undo</Position>
       <TranslationSet>
         <base loc="en">Undo</base>
-        <tran loc="es">Deshacer</tran>
+        <tran loc="es-419">Deshacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>Download to View</Position>
       <TranslationSet>
         <base loc="en">Download to View</base>
-        <tran loc="es">Descargar para ver</tran>
+        <tran loc="es-419">Descargar para ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>Discard Changes</Position>
       <TranslationSet>
         <base loc="en">Discard Changes</base>
-        <tran loc="es">No guardar cambios</tran>
+        <tran loc="es-419">No guardar cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>Trim...</Position>
       <TranslationSet>
         <base loc="en">Trim...</base>
-        <tran loc="es">Acortar...</tran>
+        <tran loc="es-419">Recortar…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>Next Preview</Position>
       <TranslationSet>
         <base loc="en">Next Preview</base>
-        <tran loc="es">Previsualización siguiente</tran>
+        <tran loc="es-419">Siguiente vista previa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>Redo</Position>
       <TranslationSet>
         <base loc="en">Redo</base>
-        <tran loc="es">Rehacer</tran>
+        <tran loc="es-419">Rehacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>Saving Image</Position>
       <TranslationSet>
         <base loc="en">Saving Image</base>
-        <tran loc="es">Guardando Imagen</tran>
+        <tran loc="es-419">Guardando imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@
       <Position>Trim Original</Position>
       <TranslationSet>
         <base loc="en">Trim Original</base>
-        <tran loc="es">Acortar original</tran>
+        <tran loc="es-419">Cortar original</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@
       <Position>Saving Changes</Position>
       <TranslationSet>
         <base loc="en">Saving Changes</base>
-        <tran loc="es">Guardando cambios</tran>
+        <tran loc="es-419">Guardando cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>%1$d of %2$d</Position>
       <TranslationSet>
         <base loc="en">%1$d of %2$d</base>
-        <tran loc="es">%1$d de %2$d</tran>
+        <tran loc="es-419">%1$d de %2$d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -434,7 +434,7 @@
       <Position>%1$@ (%2$d of %3$d)</Position>
       <TranslationSet>
         <base loc="en">%1$@ (%2$d of %3$d)</base>
-        <tran loc="es">%1$@ (%2$d de %3$d)</tran>
+        <tran loc="es-419">%1$@ (%2$d de %3$d)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -442,7 +442,7 @@
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">LOADING</base>
-        <tran loc="es">CARGANDO</tran>
+        <tran loc="es-419">CARGANDO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -450,7 +450,7 @@
       <Position>Leave %@ and open this link?</Position>
       <TranslationSet>
         <base loc="en">Leave %@ and open this link?</base>
-        <tran loc="es">¿Salir de %@ y abrir este enlace?</tran>
+        <tran loc="es-419">¿Salir de %@ y abrir este enlace?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -458,7 +458,7 @@
       <Position>Settings</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -466,7 +466,7 @@
       <Position>OpenLink</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
   </File>

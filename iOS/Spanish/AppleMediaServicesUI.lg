@@ -8,7 +8,7 @@
       <Position>SIGN_IN_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>PRIVACY_VIEW_CONTROLLER_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn More</base>
-        <tran loc="es">Más información</tran>
+        <tran loc="es-419">Más información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>PRIVACY_VIEW_CONTROLLER_CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>NEW_ACCOUNT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Create Apple ID</base>
-        <tran loc="es">Crear ID de Apple</tran>
+        <tran loc="es-419">Crear Apple ID</tran>
       </TranslationSet>
     </TextItem>
   </File>

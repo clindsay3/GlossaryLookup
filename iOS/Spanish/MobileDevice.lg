@@ -8,7 +8,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">MobileDevice</base>
-        <tran loc="es">MobileDevice</tran>
+        <tran loc="es-419">MobileDevice</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>kAMDApplicationVerificationFailedError</Position>
       <TranslationSet>
         <base loc="en">The application could not be verified.</base>
-        <tran loc="es">No se ha podido verificar la aplicación.</tran>
+        <tran loc="es-419">No se pudo verificar la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -27,7 +27,7 @@
       <Position>kAMDAlreadyArchivedError</Position>
       <TranslationSet>
         <base loc="en">The application is already archived.</base>
-        <tran loc="es">Esta aplicación ya se ha comprimido.</tran>
+        <tran loc="es-419">Esta aplicación ya se archivó.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>kAMDDeviceDisconnectedError</Position>
       <TranslationSet>
         <base loc="en">This device is no longer connected.</base>
-        <tran loc="es">Este dispositivo ya no está conectado.</tran>
+        <tran loc="es-419">Este dispositivo ya no está conectado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>kAMDDeviceRefNoGood</Position>
       <TranslationSet>
         <base loc="en">This device is no longer connected.</base>
-        <tran loc="es">Este dispositivo ya no está conectado.</tran>
+        <tran loc="es-419">Este dispositivo ya no está conectado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>kAMDPathConversionFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not convert the path.</base>
-        <tran loc="es">No se ha podido convertir la ruta.</tran>
+        <tran loc="es-419">No se pudo convertir la ruta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>The signature was not valid.</Position>
       <TranslationSet>
         <base loc="en">The signature was not valid.</base>
-        <tran loc="es">La firma no era válida.</tran>
+        <tran loc="es-419">La firma no era válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>kAMDMissingBundleIdentifierError</Position>
       <TranslationSet>
         <base loc="en">The application bundle does not contain a valid identifier.</base>
-        <tran loc="es">El paquete de la aplicación no contiene ningún identificador válido.</tran>
+        <tran loc="es-419">El paquete de la aplicación no contiene ningún identificador válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>kAMDInternalError</Position>
       <TranslationSet>
         <base loc="en">Internal error occurred on the device.</base>
-        <tran loc="es">Se ha producido un error interno en el dispositivo.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>kMobileHouseArrestPathConversionFailed</Position>
       <TranslationSet>
         <base loc="en">Could not convert the requested application’s data container path.</base>
-        <tran loc="es">No se ha podido convertir la ruta del contenedor de datos de la aplicación solicitada.</tran>
+        <tran loc="es-419">No se puede convertir la ruta de contenedor de datos de la aplicación solicitada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>kAMDMissingValueError</Position>
       <TranslationSet>
         <base loc="en">The value is missing.</base>
-        <tran loc="es">Falta el valor.</tran>
+        <tran loc="es-419">Falta el valor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>kAMDManifestCaptureFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not save the application manifest.</base>
-        <tran loc="es">No se ha podido guardar el manifiesto de la aplicación.</tran>
+        <tran loc="es-419">No se pudo guardar el manifiesto de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>kAMDMobileImageMounterDigestCreationFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>kAMDMobileImageMounterDigestFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>kAMDMobileImageMounterImageInfoCreationFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>kAMDMobileImageMounterImageMapLoadFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>kAMDMobileImageMounterImageMapStoreFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>kAMDMobileImageMounterImageMountFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>kAMDMobileImageMounterImageMoveFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>kAMDMobileImageMounterImageVerificationFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>kAMDMobileImageMounterMissingImagePath</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>kAMDMobileImageMounterMissingImageSignature</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>kAMDMobileImageMounterMissingImageType</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>kAMDMobileImageMounterMountPathMissing</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>kAMDMobileImageMounterMountPathNotEmpty</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>kAMDMobileImageMounterResponseCreationFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>kAMDMobileImageMounterTrustCacheLoadFailed</Position>
       <TranslationSet>
         <base loc="en">Could not support development.</base>
-        <tran loc="es">Desarrollo incompatible.</tran>
+        <tran loc="es-419">Desarrollo incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>The identity used to sign the executable is no longer valid.</Position>
       <TranslationSet>
         <base loc="en">The identity used to sign the executable is no longer valid.</base>
-        <tran loc="es">La identidad usada para firmar el ejecutable ya no es válida.</tran>
+        <tran loc="es-419">La identidad usada para firmar el ejecutable ya no es válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>kAMDPermissionError</Position>
       <TranslationSet>
         <base loc="en">You do not have permission.</base>
-        <tran loc="es">No dispone de permiso.</tran>
+        <tran loc="es-419">No dispones de permiso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>kAMDAPIInternalError</Position>
       <TranslationSet>
         <base loc="en">There was an internal API error.</base>
-        <tran loc="es">Se ha producido un error interno API.</tran>
+        <tran loc="es-419">Se presentó un error interno API.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>Unable to allocate memory.</Position>
       <TranslationSet>
         <base loc="en">Unable to allocate memory.</base>
-        <tran loc="es">No se ha podido asignar memoria.</tran>
+        <tran loc="es-419">No se pudo asignar memoria.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>kAMDSessionActiveError</Position>
       <TranslationSet>
         <base loc="en">The session is active.</base>
-        <tran loc="es">La sesión está activa.</tran>
+        <tran loc="es-419">La sesión está activa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>kAMDPairingDialogResponsePendingError</Position>
       <TranslationSet>
         <base loc="en">The user has not yet responded to the pairing request.</base>
-        <tran loc="es">El usuario aún no ha respondido a la solicitud de enlace.</tran>
+        <tran loc="es-419">El usuario aún no responde a la solicitud de enlace.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>kAMDNoSpaceError</Position>
       <TranslationSet>
         <base loc="en">No space is available on the device.</base>
-        <tran loc="es">No hay espacio libre en el dispositivo.</tran>
+        <tran loc="es-419">No hay espacio disponible en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>This provisioning profile is malformed.</Position>
       <TranslationSet>
         <base loc="en">This provisioning profile is malformed.</base>
-        <tran loc="es">El formato de este perfil de datos es incorrecto.</tran>
+        <tran loc="es-419">El formato de este perfil de datos es incorrecto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>kAMDStartServiceError</Position>
       <TranslationSet>
         <base loc="en">The service could not be started.</base>
-        <tran loc="es">No se ha podido iniciar el servicio.</tran>
+        <tran loc="es-419">No se pudo iniciar el servicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>kAMDMissingPairRecordError</Position>
       <TranslationSet>
         <base loc="en">The host is not paired with the device.</base>
-        <tran loc="es">El host no está enlazado con el dispositivo.</tran>
+        <tran loc="es-419">El host no está enlazado con el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>kAMDDeviceOSVersionTooLow</Position>
       <TranslationSet>
         <base loc="en">The device OS version is too low.</base>
-        <tran loc="es">La versión del sistema operativo del dispositivo no es suficientemente reciente.</tran>
+        <tran loc="es-419">La versión del sistema operativo del dispositivo no es suficientemente reciente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>kAMDMissingBundleVersionError</Position>
       <TranslationSet>
         <base loc="en">The bundle’s Info.plist does not contain a CFBundleVersion key or its value is not a string.</base>
-        <tran loc="es">El Info.plist del paquete no contiene una clave CFBundleVersion o su valor no es una serie.</tran>
+        <tran loc="es-419">El Info.plist del paquete no contiene una clave CFBundleVersion o su valor no es una serie.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>kAMDNoResourcesError</Position>
       <TranslationSet>
         <base loc="en">Could not allocate a resource.</base>
-        <tran loc="es">No se ha podido asignar un recurso.</tran>
+        <tran loc="es-419">No se pudo asignar un recurso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>kAMDBundleIDConflictWithOtherIdentifierError</Position>
       <TranslationSet>
         <base loc="en">This application’s bundle identifier conflicts with the identifier of another app or app extension already installed.</base>
-        <tran loc="es">El identificador de paquete de esta app entra en conflicto con el identificador de otra app o extensión de app ya instalada.</tran>
+        <tran loc="es-419">El identificador de paquetes de esta aplicación causa un conflicto con el de otra app o extensión de apps ya instaladas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>kAMDBadHeaderError</Position>
       <TranslationSet>
         <base loc="en">Could not transfer file.</base>
-        <tran loc="es">No se ha podido transferir el archivo.</tran>
+        <tran loc="es-419">No se pudo transferir el archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -347,7 +347,7 @@
       <Position>kAMDServiceProhibitedError</Position>
       <TranslationSet>
         <base loc="en">The service could not be started on the device.</base>
-        <tran loc="es">No se ha podido iniciar el servicio en el dispositivo.</tran>
+        <tran loc="es-419">No se pudo iniciar el servicio en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>kAMDCarrierBundleMissingSupportedSIMsError</Position>
       <TranslationSet>
         <base loc="en">There are no supported SIMs for this carrier bundle.</base>
-        <tran loc="es">No hay ninguna SIM compatible con este paquete del operador.</tran>
+        <tran loc="es-419">No hay ninguna SIM compatible con este paquete del operador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -363,7 +363,7 @@
       <Position>kAMDRemoveProhibitedError</Position>
       <TranslationSet>
         <base loc="en">Cannot remove value on device.</base>
-        <tran loc="es">El valor no puede eliminarse del dispositivo.</tran>
+        <tran loc="es-419">El valor no puede eliminarse del dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -371,7 +371,7 @@
       <Position>kAMDInvalidSessionIDError</Position>
       <TranslationSet>
         <base loc="en">The session ID is invalid.</base>
-        <tran loc="es">El ID de sesión no es válido.</tran>
+        <tran loc="es-419">El ID de sesión no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -379,7 +379,7 @@
       <Position>kAMDIncorrectArchitectureError</Position>
       <TranslationSet>
         <base loc="en">This application does not support this device’s CPU type.</base>
-        <tran loc="es">Esta aplicación no es compatible con el tipo de CPU de este dispositivo.</tran>
+        <tran loc="es-419">Esta aplicación no es compatible con el tipo de CPU de este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>kAMDMissingServiceError</Position>
       <TranslationSet>
         <base loc="en">The service is missing.</base>
-        <tran loc="es">Falta el servicio.</tran>
+        <tran loc="es-419">Falta el servicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>This provisioning profile does not have a valid signature (or it has a valid, but untrusted signature).</Position>
       <TranslationSet>
         <base loc="en">This provisioning profile does not have a valid signature (or it has a valid, but untrusted signature).</base>
-        <tran loc="es">Este perfil de datos no dispone de ninguna firma válida (o dispone de una firma válida pero no fiable).</tran>
+        <tran loc="es-419">Este perfil de datos no dispone de ninguna firma válida (o dispone de una firma válida pero no confiable).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>kMobileHouseArrestInvalidPath</Position>
       <TranslationSet>
         <base loc="en">The requested application contained an invalid data container path.</base>
-        <tran loc="es">La aplicación solicitada contenía una ruta del contenedor de datos no válida.</tran>
+        <tran loc="es-419">La aplicación solicitada contenía una ruta de contenedor de datos inválida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>kAMDMissingContainerPathError</Position>
       <TranslationSet>
         <base loc="en">Request was missing the container path.</base>
-        <tran loc="es">Faltaba la ruta del contenedor en la solicitud.</tran>
+        <tran loc="es-419">Faltaba la ruta del contenedor en la solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -419,7 +419,7 @@
       <Position>kAMDPasswordRequiredError</Position>
       <TranslationSet>
         <base loc="en">A passcode is required to be set on the device.</base>
-        <tran loc="es">Es necesario definir un código para el dispositivo.</tran>
+        <tran loc="es-419">Es necesario definir un código en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -427,7 +427,7 @@
       <Position>kAMDPairingProhibitedError</Position>
       <TranslationSet>
         <base loc="en">Pairing only allowed over USB.</base>
-        <tran loc="es">El enlace solo es posible mediante USB.</tran>
+        <tran loc="es-419">El enlace sólo es posible mediante USB.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -435,7 +435,7 @@
       <Position>kAMDBundleVerificationFailedError</Position>
       <TranslationSet>
         <base loc="en">The carrier bundle could not be verified.</base>
-        <tran loc="es">No se ha podido verificar el paquete del operador.</tran>
+        <tran loc="es-419">No se pudo verificar el paquete del operador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -443,7 +443,7 @@
       <Position>kAMDPackageExtractionFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not open the application package.</base>
-        <tran loc="es">No se ha podido abrir el paquete de la aplicación.</tran>
+        <tran loc="es-419">No se pudo abrir el paquete de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -451,7 +451,7 @@
       <Position>kAMDPackageInspectionFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not inspect the application package.</base>
-        <tran loc="es">No se ha podido inspeccionar el paquete de la aplicación.</tran>
+        <tran loc="es-419">No se pudo inspeccionar el paquete de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -459,7 +459,7 @@
       <Position>kMobileHouseArrestMissingCommand</Position>
       <TranslationSet>
         <base loc="en">The request was missing a command.</base>
-        <tran loc="es">Faltaba un comando en la solicitud.</tran>
+        <tran loc="es-419">A la solicitud le falta un comando.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -467,7 +467,7 @@
       <Position>kAMDContainerCreationFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not create application container.</base>
-        <tran loc="es">No se ha podido crear el contenedor de la aplicación.</tran>
+        <tran loc="es-419">No se pudo crear el contenedor de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -475,7 +475,7 @@
       <Position>kAMDPasswordProtectedError</Position>
       <TranslationSet>
         <base loc="en">The device is passcode protected.</base>
-        <tran loc="es">El dispositivo está protegido con código.</tran>
+        <tran loc="es-419">El dispositivo está protegido con código.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -483,7 +483,7 @@
       <Position>kAMDiTunesArtworkCaptureFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not save the iTunes artwork.</base>
-        <tran loc="es">No se ha podido guardar la ilustración de iTunes.</tran>
+        <tran loc="es-419">No se pudo guardar la ilustración de iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -491,7 +491,7 @@
       <Position>The executable contains an invalid signature.</Position>
       <TranslationSet>
         <base loc="en">The executable contains an invalid signature.</base>
-        <tran loc="es">La firma del ejecutable no es válida.</tran>
+        <tran loc="es-419">La firma del ejecutable no es válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -499,7 +499,7 @@
       <Position>Attempted to modify an immutable provisioning profile.</Position>
       <TranslationSet>
         <base loc="en">Attempted to modify an immutable provisioning profile.</base>
-        <tran loc="es">Se ha intentado modificar un perfil de datos inalterable.</tran>
+        <tran loc="es-419">Se intentó modificar un perfil de datos inalterable.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -507,7 +507,7 @@
       <Position>kAMDSendMessageError</Position>
       <TranslationSet>
         <base loc="en">Could not send a message to the device.</base>
-        <tran loc="es">No se ha podido enviar un mensaje al dispositivo.</tran>
+        <tran loc="es-419">No se pudo enviar un mensaje al dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +515,7 @@
       <Position>kAMDRequireCUPairingCodeError</Position>
       <TranslationSet>
         <base loc="en">Invalid PIN code entered.</base>
-        <tran loc="es">Has introducido un código PIN no válido.</tran>
+        <tran loc="es-419">Se ingresó un código de PIN no válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +523,7 @@
       <Position>kAMDReadError</Position>
       <TranslationSet>
         <base loc="en">Could not read from the device.</base>
-        <tran loc="es">No se ha podido leer el dispositivo.</tran>
+        <tran loc="es-419">No se pudo leer el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>kAMDInvalidResponseError</Position>
       <TranslationSet>
         <base loc="en">Received an unexpected response from the device.</base>
-        <tran loc="es">Se ha recibido una respuesta inesperada del dispositivo.</tran>
+        <tran loc="es-419">Se recibió una respuesta inesperada del dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>kAMDCUPairingResetError</Position>
       <TranslationSet>
         <base loc="en">Pairing was reset due to earlier issues, try again.</base>
-        <tran loc="es">El enlace se ha restablecido por problemas anteriores. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Se restableció el enlace debido a problemas anteriores, reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>kAMDInvalidDiskImageError</Position>
       <TranslationSet>
         <base loc="en">The disk image is invalid.</base>
-        <tran loc="es">La imagen de disco no es válida.</tran>
+        <tran loc="es-419">La imagen de disco no es válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>kAMDMissingAttributeValueError</Position>
       <TranslationSet>
         <base loc="en">Request was missing a required value.</base>
-        <tran loc="es">Faltaba un valor necesario en la solicitud.</tran>
+        <tran loc="es-419">Faltaba un valor necesario en la solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>kAMDNewsstandArtworkCaptureFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not save the Newsstand artwork.</base>
-        <tran loc="es">No se ha podido guardar la ilustración de Quiosco.</tran>
+        <tran loc="es-419">No se pudo guardar la ilustración de Puesto de revistas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>kAMDMobileImageMounterDeviceLocked</Position>
       <TranslationSet>
         <base loc="en">The device is locked.</base>
-        <tran loc="es">El dispositivo está bloqueado.</tran>
+        <tran loc="es-419">El dispositivo está bloqueado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +579,7 @@
       <Position>kAMDNotFoundError</Position>
       <TranslationSet>
         <base loc="en">The file could not be found.</base>
-        <tran loc="es">No se ha podido encontrar el archivo.</tran>
+        <tran loc="es-419">No se pudo encontrar el archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -587,7 +587,7 @@
       <Position>kAMDMissingPackagePathError</Position>
       <TranslationSet>
         <base loc="en">Request was missing the package path.</base>
-        <tran loc="es">Faltaba la ruta del paquete en la solicitud.</tran>
+        <tran loc="es-419">Faltaba la ruta del paquete en la solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>kAMDExecutableTwiddleFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not change executable permissions on the application.</base>
-        <tran loc="es">No se han podido cambiar los permisos de la aplicación en cuanto a ejecutables.</tran>
+        <tran loc="es-419">No se pudo cambiar los permisos de la aplicación en cuanto a ejecutables.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -603,7 +603,7 @@
       <Position>kAMDSeatbeltProfileRemovalFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not remove the application seatbelt profile.</base>
-        <tran loc="es">No se ha podido eliminar el perfil Seatbelt de la aplicación.</tran>
+        <tran loc="es-419">No se pudo eliminar el perfil Seatbelt de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -611,7 +611,7 @@
       <Position>kAMDInvalidHostIDError</Position>
       <TranslationSet>
         <base loc="en">The device does not recognize this host.</base>
-        <tran loc="es">El dispositivo no reconoce este host.</tran>
+        <tran loc="es-419">El dispositivo no reconoce este host.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -619,7 +619,7 @@
       <Position>kAMDMissingHostIDError</Position>
       <TranslationSet>
         <base loc="en">The device does not recognize this host.</base>
-        <tran loc="es">El dispositivo no reconoce este host.</tran>
+        <tran loc="es-419">El dispositivo no reconoce este host.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -627,7 +627,7 @@
       <Position>kAMDAppBlacklistedError</Position>
       <TranslationSet>
         <base loc="en">This app is not allowed to be installed on this device.</base>
-        <tran loc="es">No se permite la instalación de esta app en este dispositivo.</tran>
+        <tran loc="es-419">No se permite instalar esta app en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>A signed resource has been added, modified, or deleted.</Position>
       <TranslationSet>
         <base loc="en">A signed resource has been added, modified, or deleted.</base>
-        <tran loc="es">Se ha añadido, modificado o eliminado un recurso firmado.</tran>
+        <tran loc="es-419">Se agregó, modificó o eliminó un recurso firmado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -643,7 +643,7 @@
       <Position>kMobileHouseArrestUnknownCommand</Position>
       <TranslationSet>
         <base loc="en">The request contained an invalid command.</base>
-        <tran loc="es">La solicitud contenía un comando no válido.</tran>
+        <tran loc="es-419">La solicitud contiene un comando inválido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -651,7 +651,7 @@
       <Position>kAMDDeviceTooNewError</Position>
       <TranslationSet>
         <base loc="en">This application needs to be updated.</base>
-        <tran loc="es">Esta aplicación debe actualizarse.</tran>
+        <tran loc="es-419">Esta aplicación debe actualizarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>kAMDWrongDroidError</Position>
       <TranslationSet>
         <base loc="en">The device is in recovery mode.</base>
-        <tran loc="es">El dispositivo se encuentra en modo de recuperación.</tran>
+        <tran loc="es-419">El dispositivo se encuentra en modo de recuperación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>kAMDNotificationFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not post a notification.</base>
-        <tran loc="es">No se ha podido enviar una notificación.</tran>
+        <tran loc="es-419">No se pudo enviar una notificación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>kAMDCannotTranslateError</Position>
       <TranslationSet>
         <base loc="en">Could not translate messages from device</base>
-        <tran loc="es">No se han podido traducir los mensajes del dispositivo</tran>
+        <tran loc="es-419">No se pudieron traducir los mensajes del dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>kAMDFileExistsError</Position>
       <TranslationSet>
         <base loc="en">The file already exists.</base>
-        <tran loc="es">El archivo ya existe.</tran>
+        <tran loc="es-419">El archivo ya existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>kAMDPluginCopyFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not copy VPN Plugin into app container.</base>
-        <tran loc="es">No se ha podido copiar el módulo VPN en el contenedor de la app.</tran>
+        <tran loc="es-419">No se pudo copiar el módulo VPN en el contenedor de la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>kAMDMissingBundleExecutableError</Position>
       <TranslationSet>
         <base loc="en">The application bundle does not contain an executable.</base>
-        <tran loc="es">El paquete de la aplicación no contiene ningún ejecutable.</tran>
+        <tran loc="es-419">El paquete de la aplicación no contiene ningún ejecutable.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>kAMDInstallMapUpdateFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not update the installed applications list.</base>
-        <tran loc="es">No se ha podido actualizar la lista de aplicaciones instaladas.</tran>
+        <tran loc="es-419">No se pudo actualizar la lista de aplicaciones instaladas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -715,7 +715,7 @@
       <Position>kAMDMissingKeyError</Position>
       <TranslationSet>
         <base loc="en">The key is missing.</base>
-        <tran loc="es">Falta la clave.</tran>
+        <tran loc="es-419">Falta la clave.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -723,7 +723,7 @@
       <Position>The executable was signed with invalid entitlements.</Position>
       <TranslationSet>
         <base loc="en">The executable was signed with invalid entitlements.</base>
-        <tran loc="es">El ejecutable se ha firmado con una autorización no válida.</tran>
+        <tran loc="es-419">El ejecutable se firmó con una autorización no válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -731,7 +731,7 @@
       <Position>There was an error communicating with your device.</Position>
       <TranslationSet>
         <base loc="en">There was an error communicating with your device.</base>
-        <tran loc="es">Se ha producido un error de comunicación con el dispositivo.</tran>
+        <tran loc="es-419">Se presentó un error de comunicación con el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -739,7 +739,7 @@
       <Position>kAMDEOFError</Position>
       <TranslationSet>
         <base loc="en">End of file.</base>
-        <tran loc="es">Final del archivo.</tran>
+        <tran loc="es-419">Final del archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -747,7 +747,7 @@
       <Position>A valid provisioning profile for this executable was not found.</Position>
       <TranslationSet>
         <base loc="en">A valid provisioning profile for this executable was not found.</base>
-        <tran loc="es">No se encuentra ningún perfil de datos válido para este ejecutable.</tran>
+        <tran loc="es-419">No se encuentra ningún perfil de datos válido para este ejecutable.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -755,7 +755,7 @@
       <Position>kAMDNoWifiSyncSupportError</Position>
       <TranslationSet>
         <base loc="en">Device doesn’t support wireless sync.</base>
-        <tran loc="es">El dispositivo no admite la sincronización inalámbrica.</tran>
+        <tran loc="es-419">El dispositivo no admite la sincronización inalámbrica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -763,7 +763,7 @@
       <Position>kAMDBreadcrumbUnlockError</Position>
       <TranslationSet>
         <base loc="en">Could not update installation breadcrumb.</base>
-        <tran loc="es">No se ha podido actualizar el rastro de la instalación.</tran>
+        <tran loc="es-419">No se pudo actualizar el rastro de la instalación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -771,7 +771,7 @@
       <Position>kMobileHouseArrestPathMissing</Position>
       <TranslationSet>
         <base loc="en">The requested application’s data container path does not exist.</base>
-        <tran loc="es">La ruta del contenedor de datos de la aplicación solicitada no existe.</tran>
+        <tran loc="es-419">La ruta del contenedor de datos de la aplicación solicitada no existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -779,7 +779,7 @@
       <Position>kAMDInvalidArgumentError</Position>
       <TranslationSet>
         <base loc="en">The argument is invalid.</base>
-        <tran loc="es">El argumento no es válido.</tran>
+        <tran loc="es-419">El argumento no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -787,7 +787,7 @@
       <Position>kAMDInvalidActivationRecordError</Position>
       <TranslationSet>
         <base loc="en">The activation record is not valid.</base>
-        <tran loc="es">El registro de activación no es válido.</tran>
+        <tran loc="es-419">El registro de activación no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -795,7 +795,7 @@
       <Position>kAMDSUVerificationError</Position>
       <TranslationSet>
         <base loc="en">The software update package could not be verified.</base>
-        <tran loc="es">No se ha podido verificar el paquete de actualización de software.</tran>
+        <tran loc="es-419">No se pudo verificar el paquete de actualización de software.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -803,7 +803,7 @@
       <Position>kAMDMCChallengeRequired</Position>
       <TranslationSet>
         <base loc="en">A policy on the device requires secure pairing.</base>
-        <tran loc="es">Una política del dispositivo requiere el establecimiento de enlaces seguros.</tran>
+        <tran loc="es-419">Una política del dispositivo requiere el establecimiento de enlaces seguros.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -811,7 +811,7 @@
       <Position>kAMDMissingApplicationIdentifierError</Position>
       <TranslationSet>
         <base loc="en">Request was missing the application identifier.</base>
-        <tran loc="es">Faltaba el identificador de la aplicación en la solicitud.</tran>
+        <tran loc="es-419">Faltaba el identificador de la aplicación en la solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>kAMDArchiveDestructionFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not remove the application archive.</base>
-        <tran loc="es">No se ha podido eliminar el archivo comprimido de la aplicación.</tran>
+        <tran loc="es-419">No se pudo eliminar el archivo comprimido de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>kAMDMobileImageMounterAlreadyMounted</Position>
       <TranslationSet>
         <base loc="en">Image is already mounted.</base>
-        <tran loc="es">La imagen ya está montada.</tran>
+        <tran loc="es-419">La imagen ya está montada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>kAMDRequireCUPairingBackoffError</Position>
       <TranslationSet>
         <base loc="en">Retry later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -843,7 +843,7 @@
       <Position>kAMDTooBigError</Position>
       <TranslationSet>
         <base loc="en">The message is too big.</base>
-        <tran loc="es">El mensaje es demasiado grande.</tran>
+        <tran loc="es-419">El mensaje es demasiado grande.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -851,7 +851,7 @@
       <Position>kAMDNotEntitledError</Position>
       <TranslationSet>
         <base loc="en">The requesting application is not allowed to make this request.</base>
-        <tran loc="es">La aplicación que realiza la solicitud no está autorizada a hacer este tipo de solicitud.</tran>
+        <tran loc="es-419">La aplicación que realiza la solicitud no está autorizada a hacer este tipo de solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -859,7 +859,7 @@
       <Position>This provisioning profile cannot be installed on this device.</Position>
       <TranslationSet>
         <base loc="en">This provisioning profile cannot be installed on this device.</base>
-        <tran loc="es">Este perfil de datos no puede instalarse en el dispositivo.</tran>
+        <tran loc="es-419">Este perfil de datos no puede instalarse en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -867,7 +867,7 @@
       <Position>kAMDiTunesMetadataCaptureFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not save the iTunes metadata.</base>
-        <tran loc="es">No se han podido guardar los metadatos de iTunes.</tran>
+        <tran loc="es-419">No se pudieron guardar los metadatos de iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -875,7 +875,7 @@
       <Position>kAMDInvalidSINFError</Position>
       <TranslationSet>
         <base loc="en">The encryption information included with this application is not valid so this application cannot be installed on this device.</base>
-        <tran loc="es">La información de encriptación incluida en esta aplicación no es válida, por lo que la aplicación no podrá instalarse en este dispositivo.</tran>
+        <tran loc="es-419">No se puede instalar esta aplicación en este dispositivo ya que la información de encriptación incluida no es válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -883,7 +883,7 @@
       <Position>kAMDSuccess</Position>
       <TranslationSet>
         <base loc="en">There was no error.</base>
-        <tran loc="es">No se ha producido ningún error.</tran>
+        <tran loc="es-419">No se presentó ningún error.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -891,7 +891,7 @@
       <Position>kAMDMismatchedApplicationIdentifierEntitlementError</Position>
       <TranslationSet>
         <base loc="en">This application’s application-identifier entitlement does not match that of the installed application. These values must match for an upgrade to be allowed.</base>
-        <tran loc="es">La autorización del identificador de aplicación de esta aplicación no coincide con la de la aplicación instalada. Estos valores deben coincidir para que se pueda llevar a cabo la actualización.</tran>
+        <tran loc="es-419">La asignación del identificador de apps de esta aplicación no corresponde al de la que está instalada. Estos valores deben corresponder para permitir actualizaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -899,7 +899,7 @@
       <Position>kAMDBundleiTunesMetadataVersionMismatchError</Position>
       <TranslationSet>
         <base loc="en">This application’s iTunesMetadata.plist specifies versions that do not match the versions listed for the app in its Info.plist</base>
-        <tran loc="es">En el archivo iTunesMetadata.plist de esta app, se especifican versiones que no coinciden con las indicadas para la app en el archivo Info.plist</tran>
+        <tran loc="es-419">El archivo iTunesMetadata.plist de esta app especifica versiones que no corresponde a las versiones señaladas para la app en su archivo Info.plist.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@
       <Position>kMobileHouseArrestApplicationLookupFailed</Position>
       <TranslationSet>
         <base loc="en">The requested application is not a user application.</base>
-        <tran loc="es">La aplicación solicitada no es una aplicación de usuario.</tran>
+        <tran loc="es-419">La aplicación solicitada no es una aplicación de usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -915,7 +915,7 @@
       <Position>kAMDPackageMoveFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not move the application package into the staging location.</base>
-        <tran loc="es">No se ha podido trasladar el paquete de la aplicación a la ubicación temporal.</tran>
+        <tran loc="es-419">No se pudo trasladar el paquete de la aplicación a la ubicación temporal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -923,7 +923,7 @@
       <Position>kAMDMuxConnectError</Position>
       <TranslationSet>
         <base loc="en">Could not connect to the device.</base>
-        <tran loc="es">No se ha podido establecer conexión con el dispositivo.</tran>
+        <tran loc="es-419">No se pudo establecer conexión con el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -931,7 +931,7 @@
       <Position>kAMDNotConnectedError</Position>
       <TranslationSet>
         <base loc="en">Not connected to the device.</base>
-        <tran loc="es">No hay conexión con el dispositivo.</tran>
+        <tran loc="es-419">No hay conexión con el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -939,7 +939,7 @@
       <Position>kAMDMissingCommandError</Position>
       <TranslationSet>
         <base loc="en">The request did not contain a command.</base>
-        <tran loc="es">La solicitud no contenía un comando.</tran>
+        <tran loc="es-419">La solicitud no contenía un comando.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -947,7 +947,7 @@
       <Position>kAMDMCProtected</Position>
       <TranslationSet>
         <base loc="en">Pairing is prohibited by a policy on the device.</base>
-        <tran loc="es">Una política del dispositivo prohíbe el establecimiento de enlaces.</tran>
+        <tran loc="es-419">Una política del dispositivo prohíbe el establecimiento de enlaces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -955,7 +955,7 @@
       <Position>kAMDUserDeniedPairingError</Position>
       <TranslationSet>
         <base loc="en">The device rejected the pairing attempt.</base>
-        <tran loc="es">El dispositivo ha rechazado el intento de enlace.</tran>
+        <tran loc="es-419">El dispositivo rechazó el intento de enlace.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -963,7 +963,7 @@
       <Position>This provisioning profile is unsupported.</Position>
       <TranslationSet>
         <base loc="en">This provisioning profile is unsupported.</base>
-        <tran loc="es">Este perfil de datos es incompatible.</tran>
+        <tran loc="es-419">Este perfil de datos es incompatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -971,7 +971,7 @@
       <Position>kAMDMissingContainerError</Position>
       <TranslationSet>
         <base loc="en">Could not find the container for the installed application.</base>
-        <tran loc="es">No se ha podido encontrar el contenedor de la aplicación instalada.</tran>
+        <tran loc="es-419">No se pudo encontrar el contenedor de la aplicación instalada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -979,7 +979,7 @@
       <Position>kAMDBreadcrumbFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not write installation breadcrumb.</base>
-        <tran loc="es">No se ha podido escribir en el rastro de la instalación.</tran>
+        <tran loc="es-419">No se pudo escribir en el rastro de la instalación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -987,7 +987,7 @@
       <Position>kAMDImmutableValueError</Position>
       <TranslationSet>
         <base loc="en">This value cannot be changed.</base>
-        <tran loc="es">Este valor no puede modificarse.</tran>
+        <tran loc="es-419">Este valor no puede modificarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -995,7 +995,7 @@
       <Position>A file operation failed.</Position>
       <TranslationSet>
         <base loc="en">A file operation failed.</base>
-        <tran loc="es">Error en una operación de archivo.</tran>
+        <tran loc="es-419">Error en una operación de archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1003,7 +1003,7 @@
       <Position>The application does not have a valid signature.</Position>
       <TranslationSet>
         <base loc="en">The application does not have a valid signature.</base>
-        <tran loc="es">La aplicación no dispone de ninguna firma válida.</tran>
+        <tran loc="es-419">La aplicación no dispone de ninguna firma válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1011,7 +1011,7 @@
       <Position>kAMDSymlinkFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not create the symlink.</base>
-        <tran loc="es">No se ha podido crear el enlace simbólico.</tran>
+        <tran loc="es-419">No se pudo crear el enlace simbólico.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1019,7 +1019,7 @@
       <Position>kMobileHouseArrestMissingContainer</Position>
       <TranslationSet>
         <base loc="en">The requested application does not contain a valid data container.</base>
-        <tran loc="es">La aplicación solicitada no contenía un contenedor de datos válido.</tran>
+        <tran loc="es-419">La aplicación solicitada no contenía un contenedor de datos válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1027,7 +1027,7 @@
       <Position>kAMDSetProhibitedError</Position>
       <TranslationSet>
         <base loc="en">Cannot set value on device.</base>
-        <tran loc="es">El valor no puede configurarse en el dispositivo.</tran>
+        <tran loc="es-419">El valor no puede configurarse en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1035,7 +1035,7 @@
       <Position>kAMDGeoJSONCaptureFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not save the GeoJSON data.</base>
-        <tran loc="es">No se han podido guardar los datos GeoJSON.</tran>
+        <tran loc="es-419">No se pudieron guardar los datos GeoJSON.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1043,7 +1043,7 @@
       <Position>kAMDMissingOptionsError</Position>
       <TranslationSet>
         <base loc="en">The options are missing.</base>
-        <tran loc="es">Faltan las opciones.</tran>
+        <tran loc="es-419">Faltan las opciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1051,7 +1051,7 @@
       <Position>kAMDLookupFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not list installed applications.</base>
-        <tran loc="es">No se ha podido crear la lista de aplicaciones instaladas.</tran>
+        <tran loc="es-419">No se pudo crear la lista de aplicaciones instaladas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1059,7 +1059,7 @@
       <Position>kAMDDeviceFamilyNotSupported</Position>
       <TranslationSet>
         <base loc="en">This application does not support this kind of device.</base>
-        <tran loc="es">Esta aplicación no es compatible con este tipo de dispositivo.</tran>
+        <tran loc="es-419">Esta aplicación no es compatible con este tipo de dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1067,7 +1067,7 @@
       <Position>kMobileHouseArrestMissingIdentifier</Position>
       <TranslationSet>
         <base loc="en">The request was missing an application identifier.</base>
-        <tran loc="es">Faltaba un identificador de aplicación en la solicitud.</tran>
+        <tran loc="es-419">A la solicitud le falta un identificador de aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1075,7 +1075,7 @@
       <Position>kMobileHouseArrestInstallationLookupFailed</Position>
       <TranslationSet>
         <base loc="en">Could not find the requested application.</base>
-        <tran loc="es">No se ha podido encontrar la aplicación solicitada.</tran>
+        <tran loc="es-419">No se encontró la aplicación solicitada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1083,7 +1083,7 @@
       <Position>The application’s signature is valid but it does not match the expected hash.</Position>
       <TranslationSet>
         <base loc="en">The application’s signature is valid but it does not match the expected hash.</base>
-        <tran loc="es">La firma de la aplicación es válida pero no coincide con los datos esperados.</tran>
+        <tran loc="es-419">La firma de la aplicación es válida pero no coincide con los datos esperados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1091,7 +1091,7 @@
       <Position>kAMDUndefinedError</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred.</base>
-        <tran loc="es">Se ha producido un error desconocido.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1099,7 +1099,7 @@
       <Position>kAMDIsDirectoryError</Position>
       <TranslationSet>
         <base loc="en">The path is a directory.</base>
-        <tran loc="es">La ruta es un directorio.</tran>
+        <tran loc="es-419">La ruta es un directorio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1107,7 +1107,7 @@
       <Position>kAMDReceiveMessageError</Position>
       <TranslationSet>
         <base loc="en">Could not receive a message from the device.</base>
-        <tran loc="es">No se ha podido recibir un mensaje del dispositivo.</tran>
+        <tran loc="es-419">No se pudo recibir un mensaje del dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1115,7 +1115,7 @@
       <Position>kAMDApplicationAlreadyInstalledError</Position>
       <TranslationSet>
         <base loc="en">A system application with the given bundle identifier is already installed on the device and cannot be replaced.</base>
-        <tran loc="es">El dispositivo ya tiene instalada una aplicación del sistema con este identificador de paquete y no se puede reemplazar.</tran>
+        <tran loc="es-419">El dispositivo ya tiene instalada una aplicación del sistema con este identificador de paquete y no se puede reemplazar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1123,7 +1123,7 @@
       <Position>This provisioning profile has expired.</Position>
       <TranslationSet>
         <base loc="en">This provisioning profile has expired.</base>
-        <tran loc="es">Este perfil de datos ha caducado.</tran>
+        <tran loc="es-419">Este perfil de datos está vencido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1131,7 +1131,7 @@
       <Position>kAMDFMiPProtectedError</Position>
       <TranslationSet>
         <base loc="en">The device is in lost mode.</base>
-        <tran loc="es">El dispositivo se encuentra en modo Perdido.</tran>
+        <tran loc="es-419">El dispositivo se encuentra en modo perdido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1139,7 +1139,7 @@
       <Position>kAMDCUPairingContinueError</Position>
       <TranslationSet>
         <base loc="en">Continue pairing process over the network.</base>
-        <tran loc="es">Completar proceso de enlace a través de la red.</tran>
+        <tran loc="es-419">Continúa el proceso de enlace mediante la red.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1147,7 +1147,7 @@
       <Position>kAMDMapGenerationFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not generate the map.</base>
-        <tran loc="es">No se ha podido generar el mapa.</tran>
+        <tran loc="es-419">No se pudo generar el mapa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1155,7 +1155,7 @@
       <Position>kAMDWriteError</Position>
       <TranslationSet>
         <base loc="en">Could not write to the device.</base>
-        <tran loc="es">No se ha podido escribir en el dispositivo.</tran>
+        <tran loc="es-419">No se pudo escribir en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1163,7 +1163,7 @@
       <Position>kAMDInvalidServiceError</Position>
       <TranslationSet>
         <base loc="en">The service is invalid.</base>
-        <tran loc="es">El servicio no es válido.</tran>
+        <tran loc="es-419">El servicio no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1171,7 +1171,7 @@
       <Position>kAMDCarrierBundleCopyFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not install the carrier bundle.</base>
-        <tran loc="es">No se ha podido instalar el paquete del operador.</tran>
+        <tran loc="es-419">No se pudo instalar el paquete del operador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1179,7 +1179,7 @@
       <Position>kAMDAppexBundleIDConflictWithOtherIdentifierError</Position>
       <TranslationSet>
         <base loc="en">This application contains an app extension with a bundle identifier that conflicts with the bundle identifier of another app or app extension already installed.</base>
-        <tran loc="es">Esta app contiene una extensión con un identificador de paquete que entra en conflicto con el identificador de paquete de otra app o extensión de app ya instalada.</tran>
+        <tran loc="es-419">Esta app contiene una extensión de apps con un identificador de paquetes que causa un conflicto con el de otra app o extensión de apps ya instaladas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1187,7 +1187,7 @@
       <Position>kAMDMissingSessionIDError</Position>
       <TranslationSet>
         <base loc="en">The session ID is missing.</base>
-        <tran loc="es">Falta el ID de sesión.</tran>
+        <tran loc="es-419">Falta el ID de sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1195,7 +1195,7 @@
       <Position>kAMDMuxError</Position>
       <TranslationSet>
         <base loc="en">There was an error with the USB device multiplexor.</base>
-        <tran loc="es">Se ha producido un error en el multiplexor del dispositivo USB.</tran>
+        <tran loc="es-419">Se presentó un error en el multiplexor del dispositivo USB.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1203,7 +1203,7 @@
       <Position>kAMDCUPairingError</Position>
       <TranslationSet>
         <base loc="en">General failure while pairing over the network.</base>
-        <tran loc="es">Error general al enlazar a través de la red.</tran>
+        <tran loc="es-419">Error general al enlazar mediante la red.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1211,7 +1211,7 @@
       <Position>kAMDDictCreationFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not extract capabilities from the request.</base>
-        <tran loc="es">No se han podido extraer las posibilidades de la solicitud.</tran>
+        <tran loc="es-419">No se pudo extraer las posibilidades de la solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1219,7 +1219,7 @@
       <Position>kAMDErrorError</Position>
       <TranslationSet>
         <base loc="en">An error occurred.</base>
-        <tran loc="es">Se ha producido un error.</tran>
+        <tran loc="es-419">Ocurrió un error.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1227,7 +1227,7 @@
       <Position>kAMDCryptoError</Position>
       <TranslationSet>
         <base loc="en">Could not establish a secure connection to the device.</base>
-        <tran loc="es">No se ha podido establecer una conexión segura con el dispositivo.</tran>
+        <tran loc="es-419">No se pudo establecer una conexión segura con el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1235,7 +1235,7 @@
       <Position>kAMDApplicationMoveFailedError</Position>
       <TranslationSet>
         <base loc="en">The application could not be moved into place on the device.</base>
-        <tran loc="es">La aplicación no se ha podido trasladar al dispositivo.</tran>
+        <tran loc="es-419">La aplicación no se pudo trasladar al dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1243,7 +1243,7 @@
       <Position>kAMDProhibitedBySupervision</Position>
       <TranslationSet>
         <base loc="en">Operation prohibited on supervised devices.</base>
-        <tran loc="es">Operación no permitida en dispositivos supervisados.</tran>
+        <tran loc="es-419">Operación no permitida en dispositivos supervisados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1251,7 +1251,7 @@
       <Position>kAMDMismatchedBundleIDSigningIdentifierError</Position>
       <TranslationSet>
         <base loc="en">This application’s bundle identifier does not match its code signing identifier.</base>
-        <tran loc="es">El identificador de paquete de esta aplicación no coincide con el identificador de firma de código.</tran>
+        <tran loc="es-419">El identificador de paquetes de esta app no corresponde a su identificador de firma de códigos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1259,7 +1259,7 @@
       <Position>An unknown error has occurred.</Position>
       <TranslationSet>
         <base loc="en">An unknown error has occurred.</base>
-        <tran loc="es">Se ha producido un error desconocido.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1267,7 +1267,7 @@
       <Position>kAMDEmbeddedProfileInstallFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not install the embedded provisioning profile.</base>
-        <tran loc="es">No se ha podido instalar el perfil de datos incorporado.</tran>
+        <tran loc="es-419">No se pudo instalar el perfil de datos incorporado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1275,7 +1275,7 @@
       <Position>kAMDContainerP0wnFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not repair permissions on application container.</base>
-        <tran loc="es">No se han podido reparar los permisos del contenedor de la aplicación.</tran>
+        <tran loc="es-419">No se pudieron reparar los permisos del contenedor de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1283,7 +1283,7 @@
       <Position>kAMDMuxGetListenerError</Position>
       <TranslationSet>
         <base loc="en">Could not get the USB listener.</base>
-        <tran loc="es">No se ha podido detectar el receptor USB.</tran>
+        <tran loc="es-419">No se pudo detectar el receptor USB.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1291,7 +1291,7 @@
       <Position>kAMDStageCreationFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not create the staging directory.</base>
-        <tran loc="es">No se ha podido crear el directorio temporal.</tran>
+        <tran loc="es-419">No se pudo crear el directorio temporal.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1299,7 +1299,7 @@
       <Position>kAMDUninstallProhibitedError</Position>
       <TranslationSet>
         <base loc="en">Uninstallation of apps is prohibited by a policy on the device.</base>
-        <tran loc="es">Una política del dispositivo prohíbe la desinstalación de apps.</tran>
+        <tran loc="es-419">Una política del dispositivo prohíbe la desinstalación de apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1307,7 +1307,7 @@
       <Position>kAMDMuxCreateListenerError</Position>
       <TranslationSet>
         <base loc="en">Could not listen for USB devices.</base>
-        <tran loc="es">No se ha podido detectar ningún dispositivo USB.</tran>
+        <tran loc="es-419">No se pudo detectar ningún dispositivo USB.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1315,7 +1315,7 @@
       <Position>kAMDUnknownCommandError</Position>
       <TranslationSet>
         <base loc="en">The device does not recognize the command.</base>
-        <tran loc="es">El dispositivo no reconoce el comando.</tran>
+        <tran loc="es-419">El dispositivo no reconoce el comando.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1323,7 +1323,7 @@
       <Position>kAMDDeviceNotSupportedByThinningError</Position>
       <TranslationSet>
         <base loc="en">This application is not built for this device.</base>
-        <tran loc="es">Esta aplicación no está diseñada para su uso en este dispositivo.</tran>
+        <tran loc="es-419">Esta app no se desarrolló para este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1331,7 +1331,7 @@
       <Position>kAMDTimeOutError</Position>
       <TranslationSet>
         <base loc="en">The operation timed out.</base>
-        <tran loc="es">El tiempo de espera para la operación se ha agotado.</tran>
+        <tran loc="es-419">El tiempo de espera para la operación se agotó.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1339,7 +1339,7 @@
       <Position>kAMDDigestFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not read disk image.</base>
-        <tran loc="es">No se ha podido leer la imagen de disco.</tran>
+        <tran loc="es-419">No se pudo leer la imagen de disco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1347,7 +1347,7 @@
       <Position>kAMDSessionInactiveError</Position>
       <TranslationSet>
         <base loc="en">The session is inactive.</base>
-        <tran loc="es">La sesión está inactiva.</tran>
+        <tran loc="es-419">La sesión está inactiva.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1355,7 +1355,7 @@
       <Position>kAMDServiceLimitError</Position>
       <TranslationSet>
         <base loc="en">Too many instances of this service are already running.</base>
-        <tran loc="es">Ya se están ejecutando demasiadas instancias de este servicio.</tran>
+        <tran loc="es-419">Ya se están ejecutando demasiadas instancias de este servicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1363,7 +1363,7 @@
       <Position>kAMDCheckinConnectionFailedError</Position>
       <TranslationSet>
         <base loc="en">The service did not start properly on the device.</base>
-        <tran loc="es">El servicio no se ha iniciado correctamente en el dispositivo.</tran>
+        <tran loc="es-419">El servicio no se inició correctamente en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1371,7 +1371,7 @@
       <Position>kAMDCheckinOutOfMemoryError</Position>
       <TranslationSet>
         <base loc="en">The service did not start properly on the device.</base>
-        <tran loc="es">El servicio no se ha iniciado correctamente en el dispositivo.</tran>
+        <tran loc="es-419">El servicio no se inició correctamente en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1379,7 +1379,7 @@
       <Position>kAMDCheckinReceiveFailedError</Position>
       <TranslationSet>
         <base loc="en">The service did not start properly on the device.</base>
-        <tran loc="es">El servicio no se ha iniciado correctamente en el dispositivo.</tran>
+        <tran loc="es-419">El servicio no se inició correctamente en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1387,7 +1387,7 @@
       <Position>kAMDCheckinResponseFailedError</Position>
       <TranslationSet>
         <base loc="en">The service did not start properly on the device.</base>
-        <tran loc="es">El servicio no se ha iniciado correctamente en el dispositivo.</tran>
+        <tran loc="es-419">El servicio no se inició correctamente en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1395,7 +1395,7 @@
       <Position>kAMDCheckinSendFailedError</Position>
       <TranslationSet>
         <base loc="en">The service did not start properly on the device.</base>
-        <tran loc="es">El servicio no se ha iniciado correctamente en el dispositivo.</tran>
+        <tran loc="es-419">El servicio no se inició correctamente en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1403,7 +1403,7 @@
       <Position>kAMDCheckinTimeoutError</Position>
       <TranslationSet>
         <base loc="en">The service did not start properly on the device.</base>
-        <tran loc="es">El servicio no se ha iniciado correctamente en el dispositivo.</tran>
+        <tran loc="es-419">El servicio no se inició correctamente en el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1411,7 +1411,7 @@
       <Position>kAMDRequireCUPairingError</Position>
       <TranslationSet>
         <base loc="en">Cannot pair over network yet</base>
-        <tran loc="es">Aún no es posible enlazar a través de la red</tran>
+        <tran loc="es-419">No se puede enlazar por red aún</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1419,7 +1419,7 @@
       <Position>kAMDCommCenterNotificationFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not listen for notification from the baseband.</base>
-        <tran loc="es">No se ha podido recibir ninguna notificación de la banda base.</tran>
+        <tran loc="es-419">No se pudo recibir ninguna notificación de la banda base.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1427,7 +1427,7 @@
       <Position>kAMDProvisioningProfileNotValid</Position>
       <TranslationSet>
         <base loc="en">The provisioning profile is not valid.</base>
-        <tran loc="es">El perfil de datos no es válido.</tran>
+        <tran loc="es-419">El perfil de datos no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1435,7 +1435,7 @@
       <Position>kAMDInvalidPairRecordError</Position>
       <TranslationSet>
         <base loc="en">The host is no longer paired with the device.</base>
-        <tran loc="es">El host ya no está enlazado con el dispositivo.</tran>
+        <tran loc="es-419">El host ya no está enlazado con el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1443,7 +1443,7 @@
       <Position>kAMDInvalidiTunesMetadataPlistError</Position>
       <TranslationSet>
         <base loc="en">This application’s iTunesMetadata.plist is not valid.</base>
-        <tran loc="es">El archivo iTunesMetadata.plist de esta aplicación no es válido.</tran>
+        <tran loc="es-419">El archivo iTunesMetadata.plist de esta app no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1451,7 +1451,7 @@
       <Position>kAMDSUFirmwareError</Position>
       <TranslationSet>
         <base loc="en">Could not flash the firmware.</base>
-        <tran loc="es">No se ha podido actualizar el firmware.</tran>
+        <tran loc="es-419">No se pudo actualizar el firmware.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1459,7 +1459,7 @@
       <Position>kAMDMissingActivationRecordError</Position>
       <TranslationSet>
         <base loc="en">The activation record could not be found.</base>
-        <tran loc="es">No se ha podido encontrar el registro de activación.</tran>
+        <tran loc="es-419">No se pudo encontrar el registro de activación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1467,7 +1467,7 @@
       <Position>kAMDInvalidSymlinkError</Position>
       <TranslationSet>
         <base loc="en">The bundle contained an invalid symlink.</base>
-        <tran loc="es">El paquete contenía un enlace simbólico no válido.</tran>
+        <tran loc="es-419">El paquete contiene un symlink inválido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1475,7 +1475,7 @@
       <Position>kAMDMissingDigestError</Position>
       <TranslationSet>
         <base loc="en">The digest is missing.</base>
-        <tran loc="es">Falta el procesamiento.</tran>
+        <tran loc="es-419">Falta el procesamiento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1483,7 +1483,7 @@
       <Position>kAMDPackagePatchFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not apply patch update to application.</base>
-        <tran loc="es">No se ha podido aplicar la actualización de corrección a la aplicación.</tran>
+        <tran loc="es-419">No se pudo aplicar la actualización de corrección a la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1491,7 +1491,7 @@
       <Position>kAMDUnknownPacketError</Position>
       <TranslationSet>
         <base loc="en">The packet is unknown.</base>
-        <tran loc="es">El paquete es desconocido.</tran>
+        <tran loc="es-419">El paquete es desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1499,7 +1499,7 @@
       <Position>kAMDApplicationSandboxFailedError</Position>
       <TranslationSet>
         <base loc="en">The application could not be sandboxed.</base>
-        <tran loc="es">No se han podido aislar los procesos de la aplicación.</tran>
+        <tran loc="es-419">No se pudieron aislar los procesos de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1507,7 +1507,7 @@
       <Position>kAMDMissingImageTypeError</Position>
       <TranslationSet>
         <base loc="en">The image is missing.</base>
-        <tran loc="es">Falta la imagen.</tran>
+        <tran loc="es-419">Falta la imagen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1515,7 +1515,7 @@
       <Position>kAMDGetProhibitedError</Position>
       <TranslationSet>
         <base loc="en">Cannot retrieve value from the passcode locked device.</base>
-        <tran loc="es">No se puede obtener el valor del dispositivo bloqueado con código.</tran>
+        <tran loc="es-419">No se puede obtener el valor del dispositivo bloqueado con código.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1523,7 +1523,7 @@
       <Position>kAMDMissingBundlePathError</Position>
       <TranslationSet>
         <base loc="en">Could not determine the application bundle path.</base>
-        <tran loc="es">No se ha podido determinar la ruta del paquete de la aplicación.</tran>
+        <tran loc="es-419">No se pudo determinar la ruta del paquete de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1531,7 +1531,7 @@
       <Position>kAMDSUPatchError</Position>
       <TranslationSet>
         <base loc="en">Could not patch the file.</base>
-        <tran loc="es">No se ha podido corregir el archivo.</tran>
+        <tran loc="es-419">No se pudo corregir el archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1539,7 +1539,7 @@
       <Position>kAMDExistenceCheckFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not check to see if the application already exists.</base>
-        <tran loc="es">No se ha podido comprobar si la aplicación ya existe.</tran>
+        <tran loc="es-419">No se pudo verificar si la aplicación ya existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1547,7 +1547,7 @@
       <Position>kAMDCarrierBundleDirectoryCreationFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not create the carrier bundle directory.</base>
-        <tran loc="es">No se ha podido crear el directorio del paquete del operador.</tran>
+        <tran loc="es-419">No se pudo crear el directorio del paquete del operador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1555,7 +1555,7 @@
       <Position>kAMDRestoreContainerFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not restore the application container.</base>
-        <tran loc="es">No se ha podido restaurar el contenedor de la aplicación.</tran>
+        <tran loc="es-419">No se pudo restaurar el contenedor de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1563,7 +1563,7 @@
       <Position>kAMDEscrowLockedError</Position>
       <TranslationSet>
         <base loc="en">Device is not available until first unlock after boot.</base>
-        <tran loc="es">El dispositivo no estará disponible hasta que se desbloquee por primera vez después de encenderlo.</tran>
+        <tran loc="es-419">El dispositivo no estará disponible hasta que se desbloquee por primera vez después de encenderlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1571,7 +1571,7 @@
       <Position>kAMDOverrunError</Position>
       <TranslationSet>
         <base loc="en">There was a buffer overrun.</base>
-        <tran loc="es">Hay un exceso de datos en el búfer.</tran>
+        <tran loc="es-419">Hay un exceso de datos en la memoria intermedia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1579,7 +1579,7 @@
       <Position>kAMDBusyError</Position>
       <TranslationSet>
         <base loc="en">The device is busy.</base>
-        <tran loc="es">El dispositivo está ocupado.</tran>
+        <tran loc="es-419">El dispositivo está ocupado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1587,7 +1587,7 @@
       <Position>kAMDInstallProhibitedError</Position>
       <TranslationSet>
         <base loc="en">Installation of apps is prohibited by a policy on the device.</base>
-        <tran loc="es">Una política del dispositivo prohíbe la instalación de apps.</tran>
+        <tran loc="es-419">Una política del dispositivo prohíbe la instalación de apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1595,7 +1595,7 @@
       <Position>kAMDContainerRemovalFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not remove the application container.</base>
-        <tran loc="es">No se ha podido eliminar el contenedor de la aplicación.</tran>
+        <tran loc="es-419">No se pudo eliminar el contenedor de la aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1603,7 +1603,7 @@
       <Position>kAMDSavePairRecordFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not save the pairing record.</base>
-        <tran loc="es">No se ha podido guardar el registro de enlaces.</tran>
+        <tran loc="es-419">No se pudo guardar el registro de enlaces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1611,7 +1611,7 @@
       <Position>kAMDCheckinSetupFailedError</Position>
       <TranslationSet>
         <base loc="en">Could not start service on device</base>
-        <tran loc="es">No se ha podido iniciar el servicio en el dispositivo</tran>
+        <tran loc="es-419">No se pudo iniciar el servicio en el dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1619,7 +1619,7 @@
       <Position>kAMDInvalidCheckinError</Position>
       <TranslationSet>
         <base loc="en">Could not start service on device</base>
-        <tran loc="es">No se ha podido iniciar el servicio en el dispositivo</tran>
+        <tran loc="es-419">No se pudo iniciar el servicio en el dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1627,7 +1627,7 @@
       <Position>kMobileHouseArrestDictionaryFailed</Position>
       <TranslationSet>
         <base loc="en">The request contained an invalid request dictionary.</base>
-        <tran loc="es">La solicitud contenía un diccionario de solicitud no válido.</tran>
+        <tran loc="es-419">La solicitud contiene un diccionario de solicitudes inválido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1635,7 +1635,7 @@
       <Position>kAMDUnsupportedError</Position>
       <TranslationSet>
         <base loc="en">This operation is unsupported.</base>
-        <tran loc="es">Esta operación no es compatible.</tran>
+        <tran loc="es-419">Esta operación no es compatible.</tran>
       </TranslationSet>
     </TextItem>
   </File>

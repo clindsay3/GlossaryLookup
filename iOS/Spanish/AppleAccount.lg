@@ -13,7 +13,7 @@
       <Position>INVALID_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">User name or password is incorrect.</base>
-        <tran loc="es">Nombre de usuario o contraseña incorrectos.</tran>
+        <tran loc="es-419">Nombre de usuario o contraseña incorrectos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -21,7 +21,7 @@
       <Position>MOBILEME_INVALID_SIGNATURE_IPAD</Position>
       <TranslationSet>
         <base loc="en">The identity of this iPad could not be validated.</base>
-        <tran loc="es">No se ha podido validar la identidad de este iPad.</tran>
+        <tran loc="es-419">No se pudo validar la identidad de este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -29,7 +29,7 @@
       <Position>RETRY</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -37,7 +37,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">password</base>
-        <tran loc="es">contraseña</tran>
+        <tran loc="es-419">contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -45,7 +45,7 @@
       <Position>NETWORK_ERROR_TIMEOUT</Position>
       <TranslationSet>
         <base loc="en">The connection to iCloud timed out.</base>
-        <tran loc="es">Se ha agotado el tiempo de conexión a iCloud.</tran>
+        <tran loc="es-419">El tiempo de conexión con iCloud se agotó.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -53,7 +53,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -61,7 +61,7 @@
       <Position>THIS_DEVICE</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -69,7 +69,7 @@
       <Position>SERVICE_TYPE_FACETIME</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -77,7 +77,7 @@
       <Position>FOLLOWUP_RENEW_CREDENTIALS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Some account services require you to sign in again.</base>
-        <tran loc="es">Algunos servicios de la cuenta requieren que vuelvas a iniciar sesión.</tran>
+        <tran loc="es-419">Algunos servicios de tu cuenta podrían solicitar que vuelvas a iniciar sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -85,7 +85,7 @@
       <Position>COMMUNICATIONS_ERROR</Position>
       <TranslationSet>
         <base loc="en">Could not communicate with the server.</base>
-        <tran loc="es">Imposible comunicarse con el servidor.</tran>
+        <tran loc="es-419">Imposible comunicarse con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -93,7 +93,7 @@
       <Position>SCHEDULED_MAINTENENCE</Position>
       <TranslationSet>
         <base loc="en">Could not communicate with the server.</base>
-        <tran loc="es">Imposible comunicarse con el servidor.</tran>
+        <tran loc="es-419">Imposible comunicarse con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -101,7 +101,7 @@
       <Position>MOBILEME_CREATE_UNAVAILABLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">The maximum number of free accounts have been activated on this iPad.</base>
-        <tran loc="es">Has alcanzado la cantidad máxima de cuentas gratuitas activadas en este iPad.</tran>
+        <tran loc="es-419">Se alcanzó la cantidad máxima de cuentas gratuitas activadas en este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -109,7 +109,7 @@
       <Position>MOBILEME_PAID_ACCOUNT_LAPSED</Position>
       <TranslationSet>
         <base loc="en">This paid MobileMe account has expired.</base>
-        <tran loc="es">Esta cuenta de MobileMe de pago ha caducado.</tran>
+        <tran loc="es-419">Esta cuenta MobileMe de pago venció.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -117,7 +117,7 @@
       <Position>SIGN_IN</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -125,7 +125,7 @@
       <Position>MOBILEME_UNSUPPORTED_DEVICE_APPLETV</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID is valid, but this Apple TV is not qualified for iCloud.</base>
-        <tran loc="es">Tu ID de Apple es válido, pero este Apple TV es incompatible con iCloud.</tran>
+        <tran loc="es-419">Tu Apple ID es válido, pero este Apple TV es incompatible con iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -133,7 +133,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_MESSAGE_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this device you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este dispositivo, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para usar iCloud en este dispositivo, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -141,7 +141,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_NOTIFICATION_MESSAGE_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this device you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este dispositivo, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para usar iCloud en este dispositivo, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -149,7 +149,7 @@
       <Position>SERVICE_TYPE_STORE</Position>
       <TranslationSet>
         <base loc="en">Media &amp; Purchases</base>
-        <tran loc="es">Contenido y compras</tran>
+        <tran loc="es-419">Contenido y compras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -157,7 +157,7 @@
       <Position>QUOTA_ALERT_UPGRADE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Upgrade Storage</base>
-        <tran loc="es">Ampliar almacenamiento</tran>
+        <tran loc="es-419">Actualizar almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -165,7 +165,7 @@
       <Position>FOLLOWUP_START_USING_BUTTON_PRIMARY</Position>
       <TranslationSet>
         <base loc="en">Start Using iCloud</base>
-        <tran loc="es">Empezar a usar iCloud</tran>
+        <tran loc="es-419">Comenzar a usar iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>FOLLOWUP_START_USING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Start Using iCloud</base>
-        <tran loc="es">Empezar a usar iCloud</tran>
+        <tran loc="es-419">Comenzar a usar iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>MOBILEME_UNSUPPORTED_DEVICE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID is valid, but this iPhone is not qualified for iCloud.</base>
-        <tran loc="es">Tu ID de Apple es válido, pero este iPhone es incompatible con iCloud.</tran>
+        <tran loc="es-419">Tu Apple ID es válido, pero este iPhone es incompatible con iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>QUOTA_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Photos, videos, and iCloud Drive are no longer updating.</base>
-        <tran loc="es">Las fotos, los vídeos y iCloud Drive han dejado de actualizarse.</tran>
+        <tran loc="es-419">Fotos, videos y iCloud Drive ya no se están actualizando.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>MOBILEME_INVALID_SIGNATURE_IPOD</Position>
       <TranslationSet>
         <base loc="en">The identity of this iPod touch could not be validated.</base>
-        <tran loc="es">No se ha podido validar la identidad de este iPod touch.</tran>
+        <tran loc="es-419">No se pudo validar la identidad de este iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>MOBILEME_ACCOUNT_MISSING_INFO</Position>
       <TranslationSet>
         <base loc="en">The Apple ID %@ is missing information needed for iCloud setup.</base>
-        <tran loc="es">El ID de Apple %@ no dispone de información necesaria para la configuración de iCloud.</tran>
+        <tran loc="es-419">El Apple ID %@ no dispone de información necesaria para la configuración de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>QUOTA_ALERT_MANAGE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Manage Storage</base>
-        <tran loc="es">Gestionar almacenamiento</tran>
+        <tran loc="es-419">Administrar almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_MESSAGE_APPLETV</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this Apple TV you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este Apple TV, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para utilizar iCloud en este Apple TV, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_NOTIFICATION_MESSAGE_APPLETV</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this Apple TV you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este Apple TV, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para utilizar iCloud en este Apple TV, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>FOLLOWUP_RENEW_CREDENTIALS_MESSAGE_BLAME</Position>
       <TranslationSet>
         <base loc="en"> (Brought to you by %@)</base>
-        <tran loc="es"> (Proporcionado por %@)</tran>
+        <tran loc="es-419"> (para ti de parte de %@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>FOLLOWUP_RENEW_CREDENTIALS_PRIMARY</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>MOBILEME_CREATE_UNAVAILABLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">The maximum number of free accounts have been activated on this iPod touch.</base>
-        <tran loc="es">Has alcanzado la cantidad máxima de cuentas gratuitas activadas en este iPod touch.</tran>
+        <tran loc="es-419">Se alcanzó la cantidad máxima de cuentas gratuitas activadas en este iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>TURN OFF</Position>
       <TranslationSet>
         <base loc="en">Turn Off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>QUOTA_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Storage Is Full</base>
-        <tran loc="es">Espacio de almacenamiento en iCloud lleno</tran>
+        <tran loc="es-419">Sin más espacio en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>ALERT_CLOSE</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_NOTIFICATION_BUTTON_PRIMARY</Position>
       <TranslationSet>
         <base loc="en">View Terms</base>
-        <tran loc="es">Ver condiciones</tran>
+        <tran loc="es-419">Ver condiciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>QUOTA_ALERT_BACKUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not Enough Storage</base>
-        <tran loc="es">Almacenamiento insuficiente</tran>
+        <tran loc="es-419">Almacenamiento insuficiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -313,7 +313,7 @@
       <Position>FOLLOWUP_START_USING_BUTTON_DISMISS</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>MOBILEME_UNSUPPORTED_DEVICE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID is valid, but this iPod touch is not qualified for iCloud.</base>
-        <tran loc="es">Tu ID de Apple es válido, pero este iPod touch es incompatible con iCloud.</tran>
+        <tran loc="es-419">Tu Apple ID es válido, pero este iPod touch es incompatible con iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_MESSAGE_MAC</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this Mac you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este Mac, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para utilizar iCloud en esta Mac, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_NOTIFICATION_MESSAGE_MAC</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this Mac you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este Mac, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para utilizar iCloud en esta Mac, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>FOLLOWUP_START_USING_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">iCloud securely stores your photos, videos, documents, music, apps, and more, and keeps them updated across all your devices.</base>
-        <tran loc="es">iCloud guarda de forma segura tus fotos, vídeos, documentos, música, apps y otros contenidos, y los mantiene actualizados en todos tus dispositivos.</tran>
+        <tran loc="es-419">iCloud guarda de forma segura tus fotos, videos, documentos, música, apps y más, y los mantiene actualizados en todos tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>MOBILEME_REGION_DENIED</Position>
       <TranslationSet>
         <base loc="en">iCloud is not available in your country.</base>
-        <tran loc="es">iCloud no está disponible en tu país.</tran>
+        <tran loc="es-419">iCloud no está disponible en tu país.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPad you must accept the new iCloud Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPad, deberás aceptar los nuevos términos y condiciones de iCloud.</tran>
+        <tran loc="es-419">Para usar iCloud en este iPad, deberás aceptar las nuevas condiciones de uso de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_NOTIFICATION_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPad you must accept the new iCloud Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPad, deberás aceptar los nuevos términos y condiciones de iCloud.</tran>
+        <tran loc="es-419">Para usar iCloud en este iPad, deberás aceptar las nuevas condiciones de uso de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>SET_UP</Position>
       <TranslationSet>
         <base loc="en">Set Up</base>
-        <tran loc="es">Configurar</tran>
+        <tran loc="es-419">Configurar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>MOBILEME_AUTHENTICATION_FAILED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID or password is incorrect.</base>
-        <tran loc="es">El ID de Apple o la contraseña son incorrectos.</tran>
+        <tran loc="es-419">Tu Apple ID o contraseña son incorrectos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>MOBILEME_INVALID_SIGNATURE_APPLETV</Position>
       <TranslationSet>
         <base loc="en">The identity of this Apple TV could not be validated.</base>
-        <tran loc="es">No se ha podido validar la identidad de este Apple TV.</tran>
+        <tran loc="es-419">No se pudo validar la identidad de este Apple TV.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>QUOTA_ALERT_BACKUP_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">This iPod touch cannot be backed up because there is not enough iCloud storage available.\nYou can manage your storage in Settings.</base>
-        <tran loc="es">No se puede guardar una copia de seguridad de este iPod touch porque no hay suficiente espacio de almacenamiento disponible en iCloud.\nPuedes gestionar el almacenamiento desde Ajustes.</tran>
+        <tran loc="es-419">No se puede guardar un respaldo de este iPod touch porque no hay suficiente espacio de almacenamiento disponible en iCloud.\nPuedes administrar el almacenamiento desde Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>MOBILEME_ACCOUNT_DISABLED</Position>
       <TranslationSet>
         <base loc="en">This account has been disabled.</base>
-        <tran loc="es">Esta cuenta se ha desactivado.</tran>
+        <tran loc="es-419">Esta cuenta se desactivó.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>NETWORK_ERROR_NOT_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">You are not connected to the Internet.</base>
-        <tran loc="es">No estás conectado a internet.</tran>
+        <tran loc="es-419">Sin conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>SERVICE_TYPE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -433,7 +433,7 @@
       <Position>NETWORK_ERROR_PROXY</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to iCloud because of a proxy error.</base>
-        <tran loc="es">No se ha podido establecer conexión con iCloud debido a un error de proxy.</tran>
+        <tran loc="es-419">Un error de proxy impide conectarse a iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -441,7 +441,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_BUTTON_PRIMARY</Position>
       <TranslationSet>
         <base loc="en">Terms and Conditions</base>
-        <tran loc="es">Términos y condiciones</tran>
+        <tran loc="es-419">Términos y condiciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -449,7 +449,7 @@
       <Position>MOBILEME_TERMS_OF_SERVICE_UPDATE</Position>
       <TranslationSet>
         <base loc="en">The iCloud Terms of Service have changed.</base>
-        <tran loc="es">Las condiciones de servicio de iCloud han cambiado.</tran>
+        <tran loc="es-419">Las condiciones de servicio de iCloud cambiaron.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -457,7 +457,7 @@
       <Position>ICLOUD_CONFIG_ERROR</Position>
       <TranslationSet>
         <base loc="en">There was an error connecting to iCloud.</base>
-        <tran loc="es">Se ha producido un error de conexión a iCloud.</tran>
+        <tran loc="es-419">Ocurrió un error al conectarse a iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -465,7 +465,7 @@
       <Position>NETWORK_ERROR_GENERIC</Position>
       <TranslationSet>
         <base loc="en">There was an error connecting to iCloud.</base>
-        <tran loc="es">Se ha producido un error de conexión a iCloud.</tran>
+        <tran loc="es-419">Ocurrió un error al conectarse a iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@
       <Position>LATER</Position>
       <TranslationSet>
         <base loc="en">Later</base>
-        <tran loc="es">Más tarde</tran>
+        <tran loc="es-419">Más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@
       <Position>SERVICE_TYPE_IMESSAGE</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPod touch you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPod touch, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para usar iCloud en este iPod touch, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_NOTIFICATION_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPod touch you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPod touch, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para usar iCloud en este iPod touch, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>QUOTA_ALERT_BACKUP_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">This iPad cannot be backed up because there is not enough iCloud storage available.\nYou can manage your storage in Settings.</base>
-        <tran loc="es">No se puede guardar una copia de seguridad de este iPad porque no hay suficiente espacio de almacenamiento disponible en iCloud.\nPuedes gestionar el almacenamiento desde Ajustes.</tran>
+        <tran loc="es-419">No se puede guardar un respaldo de este iPad porque no hay suficiente espacio de almacenamiento disponible en iCloud.\nPuedes administrar el almacenamiento desde Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@
       <Position>MOBILEME_CREATE_UNAVAILABLE_APPLETV</Position>
       <TranslationSet>
         <base loc="en">The maximum number of free accounts have been activated on this Apple TV.</base>
-        <tran loc="es">Has alcanzado la cantidad máxima de cuentas gratuitas activadas en este Apple TV.</tran>
+        <tran loc="es-419">Alcanzó la cantidad máxima de cuentas gratuitas activadas en este Apple TV.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_NOTIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">New iCloud Terms and Conditions</base>
-        <tran loc="es">Nuevos términos y condiciones de iCloud</tran>
+        <tran loc="es-419">Nuevas condiciones de uso de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_TITLE</Position>
       <TranslationSet>
         <base loc="en">New iCloud Terms and Conditions</base>
-        <tran loc="es">Nuevos términos y condiciones de iCloud</tran>
+        <tran loc="es-419">Nuevas condiciones de uso de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>FOLLOWUP_RENEW_CREDENTIALS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Update Apple ID Settings</base>
-        <tran loc="es">Definir ajustes del ID de Apple</tran>
+        <tran loc="es-419">Configuración de Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>MOBILEME_CREATE_UNAVAILABLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">The maximum number of free accounts have been activated on this iPhone.</base>
-        <tran loc="es">Has alcanzado la cantidad máxima de cuentas gratuitas activadas en este iPhone.</tran>
+        <tran loc="es-419">Se alcanzó la cantidad máxima de cuentas gratuitas activadas en este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@
       <Position>ERASE</Position>
       <TranslationSet>
         <base loc="en">Erase</base>
-        <tran loc="es">Borrar</tran>
+        <tran loc="es-419">Borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>SERVICE_TYPE_GAMECENTER</Position>
       <TranslationSet>
         <base loc="en">Game Center</base>
-        <tran loc="es">Game Center</tran>
+        <tran loc="es-419">Game Center</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>QUOTA_ALERT_BACKUP_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This iPhone cannot be backed up because there is not enough iCloud storage available.\nYou can manage your storage in Settings.</base>
-        <tran loc="es">No se puede guardar una copia de seguridad de este iPhone porque no hay suficiente espacio de almacenamiento disponible en iCloud.\nPuedes gestionar el almacenamiento desde Ajustes.</tran>
+        <tran loc="es-419">No se puede guardar un respaldo de este iPhone porque no hay suficiente espacio de almacenamiento disponible en iCloud.\nPuedes administrar el almacenamiento desde Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>MOBILEME_UNSUPPORTED_DEVICE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID is valid, but this iPad is not qualified for iCloud.</base>
-        <tran loc="es">Tu ID de Apple es válido, pero este iPad es incompatible con iCloud.</tran>
+        <tran loc="es-419">Tu Apple ID es válido, pero este iPad es incompatible con iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPhone you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPhone, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para usar iCloud en este iPhone, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>FOLLOWUP_VERIFY_TERMS_NOTIFICATION_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this iPhone you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este iPhone, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para usar iCloud en este iPhone, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>MOBILEME_INVALID_SIGNATURE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">The identity of this iPhone could not be validated.</base>
-        <tran loc="es">No se ha podido validar la identidad de este iPhone.</tran>
+        <tran loc="es-419">No se pudo validar la identidad de este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>ALERT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -620,7 +620,7 @@
       <Position>PASSWORD_ENTRY_REQUIRED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Please re-enter your iCloud password on your iPhone.</base>
-        <tran loc="es">Vuelve a introducir tu contraseña de iCloud en el iPhone.</tran>
+        <tran loc="es-419">Vuelve a ingresar la contraseña de iCloud en tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -628,7 +628,7 @@
       <Position>PASSWORD_ENTRY_REQUIRED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Password Failed</base>
-        <tran loc="es">Contraseña incorrecta</tran>
+        <tran loc="es-419">Error en la contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -636,7 +636,7 @@
       <Position>IFORGOT_DIALOG_OKAY</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -644,7 +644,7 @@
       <Position>PASSWORD_ENTRY_DISMISS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -652,7 +652,7 @@
       <Position>NEW_ICLOUD_TOS_MESSAGE_APPLETV</Position>
       <TranslationSet>
         <base loc="en">To use iCloud on this Apple TV you must accept the new Terms and Conditions.</base>
-        <tran loc="es">Para utilizar iCloud en este Apple TV, deberás aceptar los nuevos términos y condiciones.</tran>
+        <tran loc="es-419">Para utilizar iCloud en este Apple TV, deberás aceptar las nuevas condiciones de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>IFORGOT_DIALOG_TITLE</Position>
       <TranslationSet>
         <base loc="en">Incorrect Apple ID Password</base>
-        <tran loc="es">Contraseña del ID de Apple incorrecta</tran>
+        <tran loc="es-419">Contraseña del Apple ID incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>IFORGOT_DIALOG_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Reset</base>
-        <tran loc="es">Cambiar</tran>
+        <tran loc="es-419">Cambiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>VIEW_TERMS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">View Terms</base>
-        <tran loc="es">Ver condiciones</tran>
+        <tran loc="es-419">Ver condiciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>NOT_NOW_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>IFORGOT_DIALOG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">If you have forgotten your password, you can reset it.</base>
-        <tran loc="es">Si has olvidado la contraseña, puedes cambiarla.</tran>
+        <tran loc="es-419">Si olvidaste tu contraseña, puedes cambiarla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>NEW_ICLOUD_TOS_TITLE</Position>
       <TranslationSet>
         <base loc="en">New iCloud Terms and Conditions</base>
-        <tran loc="es">Nuevos términos y condiciones de iCloud</tran>
+        <tran loc="es-419">Nuevas condiciones de uso de iCloud</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -718,7 +718,7 @@
       <Position>BRIDGE_LOGIN_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">Sign In Now</base>
-        <tran loc="es">Iniciar sesión ahora</tran>
+        <tran loc="es-419">Iniciar sesión ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -732,7 +732,7 @@
       <Position>BRIDGE_LOGIN_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do you want to use “%@” with your Apple Watch?</base>
-        <tran loc="es">¿Quieres usar “%@” con tu Apple Watch?</tran>
+        <tran loc="es-419">¿Quieres usar “%@” con tu Apple Watch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -740,7 +740,7 @@
       <Position>BRIDGE_LOGIN_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Sign in to “%@” in the Apple Watch app.</base>
-        <tran loc="es">Inicia sesión con “%@” desde la app Apple Watch.</tran>
+        <tran loc="es-419">Inicia sesión en “%@” con la app Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -748,7 +748,7 @@
       <Position>BRIDGE_LOGIN_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Later</base>
-        <tran loc="es">Más tarde</tran>
+        <tran loc="es-419">Más tarde</tran>
       </TranslationSet>
     </TextItem>
   </File>

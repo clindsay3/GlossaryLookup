@@ -8,7 +8,7 @@
       <Position>/NOTE_LIST_SCANNED_DOCUMENTS_%lu:dict/num_documents:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu scanned documents</base>
-        <tran loc="es">%lu documentos escaneados</tran>
+        <tran loc="es-419">%lu documentos escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/%lu Notes:dict/num_notes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Notes</base>
-        <tran loc="es">%lu notas</tran>
+        <tran loc="es-419">%lu notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/NOTE_LIST_ATTACHMENTS_%lu:dict/num_attachments:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No additional text</base>
-        <tran loc="es">Ningún texto adicional</tran>
+        <tran loc="es-419">No hay texto adicional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>/NOTE_LIST_ATTACHMENTS_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_attachments@</base>
-        <tran loc="es">%#@num_attachments@</tran>
+        <tran loc="es-419">%#@num_attachments@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>/NOTE_LIST_VIDEOS_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_videos@</base>
-        <tran loc="es">%#@num_videos@</tran>
+        <tran loc="es-419">%#@num_videos@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>/%lu Notes:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_notes@</base>
-        <tran loc="es">%#@num_notes@</tran>
+        <tran loc="es-419">%#@num_notes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>/NOTE_LIST_WEB_LINKS_%lu:dict/num_web_links:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No web links</base>
-        <tran loc="es">Ningún enlace web</tran>
+        <tran loc="es-419">No hay enlaces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>/%lu Notes:dict/num_notes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Note</base>
-        <tran loc="es">%lu nota</tran>
+        <tran loc="es-419">%lu nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>/NOTE_LIST_PHOTOS_%lu:dict/num_photos:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu photo</base>
-        <tran loc="es">%lu foto</tran>
+        <tran loc="es-419">%lu foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>/%d minutes:dict/num_minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d minutes</base>
-        <tran loc="es">%d minutos</tran>
+        <tran loc="es-419">%d minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>/NOTE_LIST_VIDEOS_%lu:dict/num_videos:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No videos</base>
-        <tran loc="es">Ningún vídeo</tran>
+        <tran loc="es-419">No hay videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>/NOTE_LIST_AUDIO_RECORDINGS_%lu:dict/num_audio_recordings:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu audio recordings</base>
-        <tran loc="es">%lu grabaciones de audio</tran>
+        <tran loc="es-419">%lu grabaciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>/%lu scans:dict/num_scans:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu scan</base>
-        <tran loc="es">%lu archivo escaneado</tran>
+        <tran loc="es-419">%lu escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>/NOTE_LIST_ATTACHMENTS_%lu:dict/num_attachments:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu attachments</base>
-        <tran loc="es">%lu archivos adjuntos</tran>
+        <tran loc="es-419">%lu archivos adjuntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>/%2$@ &amp; %1$d More Edited:dict/num_more_editors:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%2$@ &amp; %1$d More Edited</base>
-        <tran loc="es">%2$@ y %1$d más editados</tran>
+        <tran loc="es-419">%2$@ y %1$d más editaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>/%2$@ &amp; %1$d More Edited:dict/num_more_editors:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%2$@ &amp; %1$d More Edited</base>
-        <tran loc="es">%2$@ y %1$d más editados</tran>
+        <tran loc="es-419">%2$@ y %1$d más editaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>/NOTE_LIST_SKETCHES_%lu:dict/num_sketches:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu sketches</base>
-        <tran loc="es">%lu dibujos</tran>
+        <tran loc="es-419">%lu bosquejos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>/Pasted Image %lu:dict/num_image:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Pasted Image</base>
-        <tran loc="es">Imagen pegada</tran>
+        <tran loc="es-419">Imágenes pegadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>/%2$@ &amp; %1$d More Edited:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_more_editors@</base>
-        <tran loc="es">%#@num_more_editors@</tran>
+        <tran loc="es-419">%#@num_more_editors@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>/Pasted Image %lu:dict/num_image:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Pasted Image %lu</base>
-        <tran loc="es">Imagen pegada %lu</tran>
+        <tran loc="es-419">%lu imagen pegada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>/Pasted Image %lu:dict/num_image:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Pasted Image %lu</base>
-        <tran loc="es">Imágenes pegadas %lu</tran>
+        <tran loc="es-419">%lu imágenes pegadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>/NOTE_LIST_PHOTOS_%lu:dict/num_photos:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No photos</base>
-        <tran loc="es">Ninguna foto</tran>
+        <tran loc="es-419">No hay fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>/NOTE_LIST_ATTACHMENTS_%lu:dict/num_attachments:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu attachment</base>
-        <tran loc="es">%lu archivo adjunto</tran>
+        <tran loc="es-419">%lu archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>/NOTE_LIST_PHOTOS_%lu:dict/num_photos:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu photos</base>
-        <tran loc="es">%lu fotos</tran>
+        <tran loc="es-419">%lu fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>/NOTE_LIST_SCANNED_DOCUMENTS_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_documents@</base>
-        <tran loc="es">%#@num_documents@</tran>
+        <tran loc="es-419">%#@num_documents@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>/NOTE_LIST_VIDEOS_%lu:dict/num_videos:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu videos</base>
-        <tran loc="es">%lu vídeos</tran>
+        <tran loc="es-419">%lu videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>/%lu scans:dict/num_scans:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu scans</base>
-        <tran loc="es">%lu archivos escaneados</tran>
+        <tran loc="es-419">%lu escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>/Pasted Image %lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_image@</base>
-        <tran loc="es">%#@num_image@</tran>
+        <tran loc="es-419">%#@num_image@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>/%d days:dict/num_days:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d days</base>
-        <tran loc="es">%d días</tran>
+        <tran loc="es-419">%d días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>/NOTE_LIST_WEB_LINKS_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_web_links@</base>
-        <tran loc="es">%#@num_web_links@</tran>
+        <tran loc="es-419">%#@num_web_links@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>/%d days:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_days@</base>
-        <tran loc="es">%#@num_days@</tran>
+        <tran loc="es-419">%#@num_days@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>/NOTE_LIST_PDFS_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_PDFs@</base>
-        <tran loc="es">%#@num_PDFs@</tran>
+        <tran loc="es-419">%#@num_PDFs@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>/NOTE_LIST_SCANNED_DOCUMENTS_%lu:dict/num_documents:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu scanned document</base>
-        <tran loc="es">%lu documento escaneado</tran>
+        <tran loc="es-419">%lu documento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>/%d days:dict/num_days:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d day</base>
-        <tran loc="es">%d día</tran>
+        <tran loc="es-419">%d día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>/%d hours:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_hours@</base>
-        <tran loc="es">%#@num_hours@</tran>
+        <tran loc="es-419">%#@num_hours@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>/NOTE_LIST_MAP_LOCATIONS_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_map_locations@</base>
-        <tran loc="es">%#@num_map_locations@</tran>
+        <tran loc="es-419">%#@num_map_locations@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>/%d seconds:dict/num_seconds:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d second</base>
-        <tran loc="es">%d segundo</tran>
+        <tran loc="es-419">%d segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>/NOTE_LIST_AUDIO_RECORDINGS_%lu:dict/num_audio_recordings:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu audio recording</base>
-        <tran loc="es">%lu grabación de audio</tran>
+        <tran loc="es-419">%lu grabación de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>/%d seconds:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_seconds@</base>
-        <tran loc="es">%#@num_seconds@</tran>
+        <tran loc="es-419">%#@num_seconds@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>/NOTE_LIST_PDFS_%lu:dict/num_PDFs:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu PDFs</base>
-        <tran loc="es">%lu PDF</tran>
+        <tran loc="es-419">%lu archivos PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>/NOTE_LIST_AUDIO_RECORDINGS_%lu:dict/num_audio_recordings:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No audio recordings</base>
-        <tran loc="es">Ninguna grabación de audio</tran>
+        <tran loc="es-419">No hay grabaciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>/%d hours:dict/num_hours:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d hour</base>
-        <tran loc="es">%d hora</tran>
+        <tran loc="es-419">%d hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>/NOTE_LIST_WEB_LINKS_%lu:dict/num_web_links:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu web links</base>
-        <tran loc="es">%lu enlaces web</tran>
+        <tran loc="es-419">%lu enlaces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>/NOTE_LIST_WEB_LINKS_%lu:dict/num_web_links:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu web link</base>
-        <tran loc="es">%lu enlace web</tran>
+        <tran loc="es-419">%lu enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>/NOTE_LIST_TABLES_%lu:dict/num_tables:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu tables</base>
-        <tran loc="es">%lu tablas</tran>
+        <tran loc="es-419">%lu tablas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>/%lu Notes:dict/num_notes:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No Notes</base>
-        <tran loc="es">Ninguna nota</tran>
+        <tran loc="es-419">Sin notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>/NOTE_LIST_PHOTOS_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_photos@</base>
-        <tran loc="es">%#@num_photos@</tran>
+        <tran loc="es-419">%#@num_photos@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>/%lu scans:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_scans@</base>
-        <tran loc="es">%#@num_scans@</tran>
+        <tran loc="es-419">%#@num_scans@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>/NOTE_LIST_PDFS_%lu:dict/num_PDFs:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No PDFs</base>
-        <tran loc="es">Ningún PDF</tran>
+        <tran loc="es-419">No hay archivos PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>/NOTE_LIST_MAP_LOCATIONS_%lu:dict/num_map_locations:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No map locations</base>
-        <tran loc="es">Ninguna ubicación de mapa</tran>
+        <tran loc="es-419">No hay ubicaciones en mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>/NOTE_LIST_SKETCHES_%lu:dict/num_sketches:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No sketches</base>
-        <tran loc="es">Ningún dibujo</tran>
+        <tran loc="es-419">No hay bosquejos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>/NOTE_LIST_TABLES_%lu:dict/num_tables:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No tables</base>
-        <tran loc="es">Ninguna tabla</tran>
+        <tran loc="es-419">Sin tablas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>/%d hours:dict/num_hours:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d hours</base>
-        <tran loc="es">%d horas</tran>
+        <tran loc="es-419">%d horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>/NOTE_LIST_AUDIO_RECORDINGS_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_audio_recordings@</base>
-        <tran loc="es">%#@num_audio_recordings@</tran>
+        <tran loc="es-419">%#@num_audio_recordings@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>/%d minutes:dict/num_minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d minute</base>
-        <tran loc="es">%d minuto</tran>
+        <tran loc="es-419">%d minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>/NOTE_LIST_SKETCHES_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_sketches@</base>
-        <tran loc="es">%#@num_sketches@</tran>
+        <tran loc="es-419">%#@num_sketches@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>/%d seconds:dict/num_seconds:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d seconds</base>
-        <tran loc="es">%d segundos</tran>
+        <tran loc="es-419">%d segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>/NOTE_LIST_SCANNED_DOCUMENTS_%lu:dict/num_documents:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No scanned documents</base>
-        <tran loc="es">Ningún documento escaneado</tran>
+        <tran loc="es-419">Ningún documento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>/%d minutes:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_minutes@</base>
-        <tran loc="es">%#@num_minutes@</tran>
+        <tran loc="es-419">%#@num_minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>/NOTE_LIST_SKETCHES_%lu:dict/num_sketches:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu sketch</base>
-        <tran loc="es">%lu dibujo</tran>
+        <tran loc="es-419">%lu bosquejo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>/NOTE_LIST_PDFS_%lu:dict/num_PDFs:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu PDF</base>
-        <tran loc="es">%lu PDF</tran>
+        <tran loc="es-419">%lu archivo PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>/NOTE_LIST_TABLES_%lu:dict/num_tables:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu table</base>
-        <tran loc="es">%lu tabla</tran>
+        <tran loc="es-419">%lu tabla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>/NOTE_LIST_TABLES_%lu:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_tables@</base>
-        <tran loc="es">%#@num_tables@</tran>
+        <tran loc="es-419">%#@num_tables@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>/NOTE_LIST_VIDEOS_%lu:dict/num_videos:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu video</base>
-        <tran loc="es">%lu vídeo</tran>
+        <tran loc="es-419">%lu video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>/NOTE_LIST_MAP_LOCATIONS_%lu:dict/num_map_locations:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu map location</base>
-        <tran loc="es">%lu ubicación de mapa</tran>
+        <tran loc="es-419">%lu ubicación en mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>/NOTE_LIST_MAP_LOCATIONS_%lu:dict/num_map_locations:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu map locations</base>
-        <tran loc="es">%lu ubicaciones de mapa</tran>
+        <tran loc="es-419">%lu ubicaciones en mapa</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -539,7 +539,7 @@
       <Position>Zp0-67-sEj.text</Position>
       <TranslationSet>
         <base loc="en">Locked</base>
-        <tran loc="es">Bloqueado</tran>
+        <tran loc="es-419">Bloqueada</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -550,7 +550,7 @@
       <Position>t4N-dC-9TF.text</Position>
       <TranslationSet>
         <base loc="en"> Label</base>
-        <tran loc="es"> Etiqueta</tran>
+        <tran loc="es-419"> Etiqueta</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -561,7 +561,7 @@
       <Position>cWg-eI-3xp.text</Position>
       <TranslationSet>
         <base loc="en">Old Password</base>
-        <tran loc="es">Antigua</tran>
+        <tran loc="es-419">Anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>C9g-55-tuv.text</Position>
       <TranslationSet>
         <base loc="en">A hint is strongly recommended.</base>
-        <tran loc="es">Se recomienda encarecidamente definir una indicación.</tran>
+        <tran loc="es-419">Se recomienda usar una pista.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>U46-h3-8oe.text</Position>
       <TranslationSet>
         <base loc="en">Hint</base>
-        <tran loc="es">Indicación</tran>
+        <tran loc="es-419">Pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>0C3-kT-oCY.placeholder</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Campo obligatorio</tran>
+        <tran loc="es-419">Campo obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>fYc-0q-402.placeholder</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Campo obligatorio</tran>
+        <tran loc="es-419">Campo obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>x0j-QR-taX.placeholder</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Campo obligatorio</tran>
+        <tran loc="es-419">Campo obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>gGr-Qs-C8i.placeholder</Position>
       <TranslationSet>
         <base loc="en">Recommended</base>
-        <tran loc="es">Recomendada</tran>
+        <tran loc="es-419">Recomendado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>MHk-YB-tFb.text</Position>
       <TranslationSet>
         <base loc="en">Verify</base>
-        <tran loc="es">Verificar</tran>
+        <tran loc="es-419">Verificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@
       <Position>x1v-EP-44t.text</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -636,7 +636,7 @@
       <Position>ACCESS_NOTES_FROM_LOCK_SCREEN</Position>
       <TranslationSet>
         <base loc="en">Access Notes from Lock Screen</base>
-        <tran loc="es">Acceder con pantalla bloqueada</tran>
+        <tran loc="es-419">Acceso en pantalla bloqueada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -644,7 +644,7 @@
       <Position>PAPER_STYLE_LINES_MEDIUM</Position>
       <TranslationSet>
         <base loc="en">Lines Medium</base>
-        <tran loc="es">Rayado mediano</tran>
+        <tran loc="es-419">Rayas m</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -652,7 +652,7 @@
       <Position>RESET_NOTES_PW_FOOTER</Position>
       <TranslationSet>
         <base loc="en">This allows you to create a new password for notes you lock from now on. Notes that already have a password aren’t affected.</base>
-        <tran loc="es">Esto te permitirá crear otra contraseña para las notas que bloquees a partir de ahora. Las notas que ya estén bloqueadas no se verán afectadas.</tran>
+        <tran loc="es-419">Esto te permite crear una contraseña nueva para las notas que bloquees de ahora en adelante. Las notas que ya tienen contraseña no se verán afectadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -660,7 +660,7 @@
       <Position>PW_TOUCH_ID_NOT_ENROLLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">To use Touch ID in addition to the password for your locked notes, set up Touch ID in Settings &gt; Touch ID &amp; Passcode.</base>
-        <tran loc="es">Para utilizar Touch ID además de la contraseña de tus notas bloqueadas, configura Touch ID en Ajustes &gt; Touch ID y código.</tran>
+        <tran loc="es-419">Para usar Touch ID además de la contraseña para tus notas bloqueadas, configura Touch ID en Configuración &gt; "Touch ID y código".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -668,7 +668,7 @@
       <Position>RESET_NOTES_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for your “%@” iCloud account.</base>
-        <tran loc="es">Introduce la contraseña de tu cuenta de iCloud “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña de tu cuenta de iCloud “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -676,7 +676,7 @@
       <Position>RESUME_LAST_NOTE_CREATED_HELP</Position>
       <TranslationSet>
         <base loc="en">Resume the last note created on the Lock Screen, or create a new note after some amount of time.</base>
-        <tran loc="es">Continúa la última nota creada en la pantalla bloqueada o crea una nueva después de un tiempo.</tran>
+        <tran loc="es-419">Reanudar la última nota creada en la pantalla bloqueada o crear una nueva al transcurrir un periodo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -684,7 +684,7 @@
       <Position>PW_FACE_ID_ENROLLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Use Face ID to view and manage locked notes.</base>
-        <tran loc="es">Usa Face ID para ver y gestionar notas bloqueadas.</tran>
+        <tran loc="es-419">Usa Face ID para ver y administrar notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -692,7 +692,7 @@
       <Position>NOTE_DEFAULT_STYLE</Position>
       <TranslationSet>
         <base loc="en">New Notes Start With</base>
-        <tran loc="es">Empezar notas nuevas por</tran>
+        <tran loc="es-419">Las nuevas inician por</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -700,7 +700,7 @@
       <Position>DURATION_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Shorter times are more secure.</base>
-        <tran loc="es">Los intervalos cortos son más seguros.</tran>
+        <tran loc="es-419">Los intervalos cortos son más seguros.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -708,7 +708,7 @@
       <Position>SORT_CHECKED_ITEMS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Automatically move checklist items to the bottom of the list as they are checked.</base>
-        <tran loc="es">Coloca automáticamente al final de la lista de comprobación los ítems a medida que se van marcando.</tran>
+        <tran loc="es-419">Mover automáticamente al final de la lista los elementos seleccionados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -716,7 +716,7 @@
       <Position>PW_FACE_ID_NOT_ENROLLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">To use Face ID in addition to the password for your locked notes, set up Face ID in Settings &gt; Face ID &amp; Passcode.</base>
-        <tran loc="es">Para utilizar Face ID además de la contraseña de tus notas bloqueadas, configura Face ID en Ajustes &gt; Face ID y código.</tran>
+        <tran loc="es-419">Para usar Face ID además de la contraseña para tus notas bloqueadas, configura Face ID en Configuración &gt; “Face ID y código”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -724,7 +724,7 @@
       <Position>DELETE_LOCAL_NOTES_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your “%@” account contains notes. You need to move or delete them before you can disable this account.</base>
-        <tran loc="es">Tu cuenta “%@” contiene notas. Debes trasladarlas o eliminarlas antes de desactivar la cuenta.</tran>
+        <tran loc="es-419">Tu cuenta de “%@” incluye notas. Debes moverlas o eliminarlas para poder desactivar esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -732,7 +732,7 @@
       <Position>LOCKSCREEN_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Lock Screen &amp; Control Center</base>
-        <tran loc="es">Pantalla bloqueada y centro de control</tran>
+        <tran loc="es-419">Pantalla bloqueada y centro de control</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -740,7 +740,7 @@
       <Position>ALLOW_DARK_BACKGROUNDS</Position>
       <TranslationSet>
         <base loc="en">Dark</base>
-        <tran loc="es">Oscuro</tran>
+        <tran loc="es-419">Obscuro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -748,7 +748,7 @@
       <Position>RESUME_TO_PREVIOUS_NOTE_EXPLANATION_WITH_PENCIL</Position>
       <TranslationSet>
         <base loc="en">Quickly create or resume notes by tapping anywhere on the Lock Screen with Apple Pencil, or pressing the Notes control in Control Center. You can configure Notes access from Control Center in Settings.</base>
-        <tran loc="es">Crea o continúa notas rápidamente pulsando la pantalla bloqueada con el Apple Pencil o el control Notas en el centro de control. El acceso a las notas desde el centro de control puede configurarse en Ajustes.</tran>
+        <tran loc="es-419">Crea o continúa notas rápidamente al tocar la pantalla bloqueada con el Apple Pencil o al presionar el control de Notas en el centro de control. Puedes configurar el acceso a Notas desde el centro de control en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -756,7 +756,7 @@
       <Position>HINT_WITH_COLON</Position>
       <TranslationSet>
         <base loc="en">Hint:</base>
-        <tran loc="es">Indicación:</tran>
+        <tran loc="es-419">Pista:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -764,7 +764,7 @@
       <Position>CREATED_ON_LOCK_SCREEN</Position>
       <TranslationSet>
         <base loc="en">Created on Lock Screen</base>
-        <tran loc="es">Creada en pantalla bloqueada</tran>
+        <tran loc="es-419">Creada en la pantalla bloqueada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -772,7 +772,7 @@
       <Position>PAPER_STYLE_GRID_SMALL</Position>
       <TranslationSet>
         <base loc="en">Grid Small</base>
-        <tran loc="es">Retícula pequeña</tran>
+        <tran loc="es-419">Cuadros ch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -780,7 +780,7 @@
       <Position>PW_NO_PASSWORD_CAPABLE_ACCOUNT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To configure password protection, you’ll need to go to Notes and upgrade your notes.</base>
-        <tran loc="es">Para configurar la protección mediante contraseña, accede a Notas y actualiza tus notas.</tran>
+        <tran loc="es-419">Para configurar el bloqueo con contraseña, tendrás que abrir Notas y actualizar tus notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -788,7 +788,7 @@
       <Position>APPLE_PENCIL_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple Pencil</base>
-        <tran loc="es">Apple Pencil</tran>
+        <tran loc="es-419">Apple Pencil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -796,7 +796,7 @@
       <Position>ONLY_DRAW_WITH_APPLE_PENCIL_EXPLANATORY_TEXT</Position>
       <TranslationSet>
         <base loc="en">When enabled, only Apple Pencil will draw inline in a note. Your fingers will be used for scrolling instead.</base>
-        <tran loc="es">Si está activado, solo se podrá dibujar en las notas con el Apple Pencil. Con los dedos únicamente podrás desplazarte.</tran>
+        <tran loc="es-419">Si se activa, sólo se podrá dibujar con el Apple Pencil. Podrás usar tus dedos sólo para desplazarte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -804,7 +804,7 @@
       <Position>PASSWORD_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Require a password to view locked notes.</base>
-        <tran loc="es">Es necesario introducir una contraseña para ver las notas bloqueadas.</tran>
+        <tran loc="es-419">Solicitar contraseña para ver notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -812,7 +812,7 @@
       <Position>ALWAYS_CREATE_NEW_NOTE_HELP_NO_PENCIL</Position>
       <TranslationSet>
         <base loc="en">Always create a new note when pressing the Notes control in Control Center.</base>
-        <tran loc="es">Crea una nota nueva cada vez que pulses el control Notas en el centro de control.</tran>
+        <tran loc="es-419">Crear una nueva nota siempre que se presione el control de Notas en el centro de control.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -820,7 +820,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -828,7 +828,7 @@
       <Position>RESUME_LAST_NOTE</Position>
       <TranslationSet>
         <base loc="en">Resume Last Note</base>
-        <tran loc="es">Continuar última nota</tran>
+        <tran loc="es-419">Reanudar última nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -836,7 +836,7 @@
       <Position>PW_TOUCH_ID_ENROLLED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint to view locked notes.</base>
-        <tran loc="es">Utiliza tu huella digital para ver las notas bloqueadas.</tran>
+        <tran loc="es-419">Usa tu huella digital para ver las notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -844,7 +844,7 @@
       <Position>DEFAULT_LOCAL_NOTES_PREF_DESC</Position>
       <TranslationSet>
         <base loc="en">Using an “%@” account allows you to store notes on this device. Your other notes won’t be affected.</base>
-        <tran loc="es">Utiliza una cuenta de “%@” para poder almacenar notas en este dispositivo. Tus otras notas no se verán afectadas.</tran>
+        <tran loc="es-419">Usar una cuenta de “%@” te permite guardar notas en este dispositivo; no se afectarán tus otras notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -852,7 +852,7 @@
       <Position>PAPER_STYLE_LINES_LARGE</Position>
       <TranslationSet>
         <base loc="en">Lines Large</base>
-        <tran loc="es">Rayado grande</tran>
+        <tran loc="es-419">Rayas g</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -860,7 +860,7 @@
       <Position>RESET_NOTES_PW_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Reset Password</base>
-        <tran loc="es">Restablecer contraseña</tran>
+        <tran loc="es-419">Restablecer contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -868,7 +868,7 @@
       <Position>SHOULD_SAVE_PHOTOS_VIDEOS_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Save photos and videos taken in Notes to the Photos app.</base>
-        <tran loc="es">Las fotos y los vídeos capturados con Notas se guardan en la app Fotos.</tran>
+        <tran loc="es-419">Guarda fotos y videos tomados en Notas en la app Fotos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -876,7 +876,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -884,7 +884,7 @@
       <Position>CANCEL_ACTION</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -892,7 +892,7 @@
       <Position>DEFAULT_NOTES_ACCOUNT_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Choose a default account for Siri and the Notes widget in Today View.</base>
-        <tran loc="es">Selecciona una cuenta por omisión para Siri y el widget de Notas en la visualización Hoy.</tran>
+        <tran loc="es-419">Selecciona una cuenta predeterminada para Siri y el widget de Notas en la visualización Hoy.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -900,7 +900,7 @@
       <Position>PAPER_STYLE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Lines &amp; Grids</base>
-        <tran loc="es">Líneas y retículas</tran>
+        <tran loc="es-419">Rayas y cuadrícula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>PW_NO_PASSWORD_CAPABLE_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Upgrade Your Notes</base>
-        <tran loc="es">Actualizar tus notas</tran>
+        <tran loc="es-419">Actualizar tus notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>CREATE_NEW_NOTE_HEADER</Position>
       <TranslationSet>
         <base loc="en">CREATE NEW NOTE</base>
-        <tran loc="es">CREAR NUEVA NOTA</tran>
+        <tran loc="es-419">CREAR NUEVA NOTA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -924,7 +924,7 @@
       <Position>USE_FACE_ID_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use Face ID</base>
-        <tran loc="es">Usar Face ID</tran>
+        <tran loc="es-419">Usar Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -932,7 +932,7 @@
       <Position>HINT</Position>
       <TranslationSet>
         <base loc="en">Hint</base>
-        <tran loc="es">Indicación</tran>
+        <tran loc="es-419">Pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -940,7 +940,7 @@
       <Position>RESET_NOTES_ACTION_SHEET_HEADER</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to reset your password? This will change the password you use for notes from now on.</base>
-        <tran loc="es">¿Seguro que quieres restablecer la contraseña? Si lo haces, la contraseña que utilizas para proteger tus notas cambiará a partir de ahora.</tran>
+        <tran loc="es-419">¿Seguro que quieres restablecer tu contraseña? Esto cambiará desde ahora la que usas para tus notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -948,7 +948,7 @@
       <Position>QUICK_NOTE_DURATION_ONE_HOUR</Position>
       <TranslationSet>
         <base loc="en">After 1 Hour</base>
-        <tran loc="es">Tras 1 hora</tran>
+        <tran loc="es-419">Después de una hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -956,7 +956,7 @@
       <Position>PAPER_STYLE_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Sin</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -964,7 +964,7 @@
       <Position>TOUCH_ID_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Touch ID for “Notes”</base>
-        <tran loc="es">Touch ID para Notas</tran>
+        <tran loc="es-419">Touch ID para "Notas"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -972,7 +972,7 @@
       <Position> </Position>
       <TranslationSet>
         <base loc="en">Default Account</base>
-        <tran loc="es">Cuenta por omisión</tran>
+        <tran loc="es-419">Cuenta predeterminada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -980,7 +980,7 @@
       <Position>ONLY_DRAW_WITH_APPLE_PENCIL</Position>
       <TranslationSet>
         <base loc="en">Only Draw with Apple Pencil</base>
-        <tran loc="es">Dibujar solo con el Apple Pencil</tran>
+        <tran loc="es-419">Dibujar sólo con el Apple Pencil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -988,7 +988,7 @@
       <Position>SHOULD_SAVE_PHOTOS_VIDEOS_PREF</Position>
       <TranslationSet>
         <base loc="en">Save to Photos</base>
-        <tran loc="es">Guardar en Fotos</tran>
+        <tran loc="es-419">Guardar en Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -996,7 +996,7 @@
       <Position>PAPER_STYLE_GRID_MEDIUM</Position>
       <TranslationSet>
         <base loc="en">Grid Medium</base>
-        <tran loc="es">Retícula mediana</tran>
+        <tran loc="es-419">Cuadro m</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1004,7 +1004,7 @@
       <Position>HINT_WITH_COLON_WITH_ACCOUNT_NAME</Position>
       <TranslationSet>
         <base loc="en">“%@” Hint:</base>
-        <tran loc="es">Indicación de “%@”:</tran>
+        <tran loc="es-419">Pista para “%@”:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1012,7 +1012,7 @@
       <Position>QUICK_NOTE_DURATION_FIVE_MINUTES</Position>
       <TranslationSet>
         <base loc="en">After 5 Minutes</base>
-        <tran loc="es">Tras 5 minutos</tran>
+        <tran loc="es-419">Después de 5 minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1020,7 +1020,7 @@
       <Position>PAPER_STYLE_LINES_SMALL</Position>
       <TranslationSet>
         <base loc="en">Lines Small</base>
-        <tran loc="es">Rayado pequeño</tran>
+        <tran loc="es-419">Rayas ch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1028,7 +1028,7 @@
       <Position>TOUCH_ID_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for your locked notes.</base>
-        <tran loc="es">Introduce la contraseña de tus notas bloqueadas.</tran>
+        <tran loc="es-419">Ingresa la contraseña para tus notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1036,7 +1036,7 @@
       <Position>QUICK_NOTE_DURATION_ALL_DAY</Position>
       <TranslationSet>
         <base loc="en">After Today</base>
-        <tran loc="es">A partir del día siguiente</tran>
+        <tran loc="es-419">Después de hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1044,7 +1044,7 @@
       <Position>Verify</Position>
       <TranslationSet>
         <base loc="en">Verify</base>
-        <tran loc="es">Verificar</tran>
+        <tran loc="es-419">Verificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1052,7 +1052,7 @@
       <Position>ACCOUNTS_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Accounts</base>
-        <tran loc="es">Cuentas</tran>
+        <tran loc="es-419">Cuentas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1060,7 +1060,7 @@
       <Position>DISALLOW_DARK_BACKGROUNDS</Position>
       <TranslationSet>
         <base loc="en">Light</base>
-        <tran loc="es">Claro</tran>
+        <tran loc="es-419">Iluminación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1068,7 +1068,7 @@
       <Position>DELETE_LOCAL_NOTES_ACTION</Position>
       <TranslationSet>
         <base loc="en">Delete Notes</base>
-        <tran loc="es">Eliminar notas</tran>
+        <tran loc="es-419">Eliminar notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1076,7 +1076,7 @@
       <Position>FACE_ID_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Face ID for “Notes”</base>
-        <tran loc="es">Face ID para Notas</tran>
+        <tran loc="es-419">Face ID para Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1084,7 +1084,7 @@
       <Position>TOUCH_ID_PW_INCORRECT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">That‘s not the correct password. \n Please try again.</base>
-        <tran loc="es">Esta no es la contraseña correcta. \n Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Esa no es la contraseña correcta. \n Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1092,7 +1092,7 @@
       <Position>NOTE_CONTENT_BACKGROUNDS</Position>
       <TranslationSet>
         <base loc="en">Note Backgrounds</base>
-        <tran loc="es">Fondos de nota</tran>
+        <tran loc="es-419">Fondos de notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1100,7 +1100,7 @@
       <Position>QUICK_NOTE_DURATION_ZERO</Position>
       <TranslationSet>
         <base loc="en">Always</base>
-        <tran loc="es">Siempre</tran>
+        <tran loc="es-419">Siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1108,7 +1108,7 @@
       <Position>ALWAYS_CREATE_NEW_NOTE</Position>
       <TranslationSet>
         <base loc="en">Always Create New Note</base>
-        <tran loc="es">Crear siempre una nueva nota</tran>
+        <tran loc="es-419">Siempre crear una nueva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1116,7 +1116,7 @@
       <Position>SORT_CHECKED_ITEMS_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Sort Checked Items</base>
-        <tran loc="es">Ordenar ítems marcados</tran>
+        <tran loc="es-419">Ordenar elementos seleccionados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1124,7 +1124,7 @@
       <Position>RESUME_TO_PREVIOUS_NOTE_EXPLANATION_WITHOUT_PENCIL</Position>
       <TranslationSet>
         <base loc="en">Quickly create or resume notes by pressing the Notes control in Control Center. You can configure Notes access from Control Center in Settings.</base>
-        <tran loc="es">Crea o continúa notas rápidamente pulsando el control Notas en el centro de control. El acceso a las notas desde el centro de control puede configurarse en Ajustes.</tran>
+        <tran loc="es-419">Crea o continúa notas rápidamente al presionar el control de Notas en el centro de control. Puedes configurar el acceso a Notas desde el centro de control en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1132,7 +1132,7 @@
       <Position>QUICK_NOTE_DURATION_FIFTEEN_MINUTES</Position>
       <TranslationSet>
         <base loc="en">After 15 Minutes</base>
-        <tran loc="es">Tras 15 minutos</tran>
+        <tran loc="es-419">Después de 15 minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1140,7 +1140,7 @@
       <Position>RESUME_LAST_NOTE_IPHONE_HEADER</Position>
       <TranslationSet>
         <base loc="en">RESUME LAST NOTE</base>
-        <tran loc="es">CONTINUAR ÚLTIMA NOTA</tran>
+        <tran loc="es-419">REANUDAR ÚLTIMA NOTA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1148,7 +1148,7 @@
       <Position>AUTO_SORT_CHECKLIST_OFF</Position>
       <TranslationSet>
         <base loc="en">Manually</base>
-        <tran loc="es">Manualmente</tran>
+        <tran loc="es-419">Orden manual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1156,7 +1156,7 @@
       <Position>QUICK_NOTE_DURATION_INFINITE</Position>
       <TranslationSet>
         <base loc="en">Never</base>
-        <tran loc="es">Nunca</tran>
+        <tran loc="es-419">Nunca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1164,7 +1164,7 @@
       <Position>MEDIA_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Media</base>
-        <tran loc="es">Contenido</tran>
+        <tran loc="es-419">Contenido multimedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1172,7 +1172,7 @@
       <Position>NOTES_PW_NAVIGATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1180,7 +1180,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1188,7 +1188,7 @@
       <Position>PASSWORD_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1196,7 +1196,7 @@
       <Position>ACCESS_FROM_LOCKSCREEN_ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1204,7 +1204,7 @@
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1212,7 +1212,7 @@
       <Position>ALWAYS_CREATE_NEW_NOTE_HELP_PENCIL</Position>
       <TranslationSet>
         <base loc="en">Always create a new note when tapping anywhere on the Lock Screen with Apple Pencil, or pressing the Notes control in Control Center.</base>
-        <tran loc="es">Crea una nota nueva cada vez que pulses la pantalla bloqueada con el Apple Pencil o al pulsar el control Notas en el centro de control.</tran>
+        <tran loc="es-419">Crear una nota nueva siempre que se toque la pantalla bloqueada con el Apple Pencil o al presionar el control de Notas en el centro de control.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1220,7 +1220,7 @@
       <Position>PW_FACE_ID_DENIED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">To use Face ID in addition to the password for your locked notes, enable Notes in Settings &gt; Face ID &amp; Passcode &gt; Other Apps.</base>
-        <tran loc="es">Para utilizar Face ID además de la contraseña de tus notas bloqueadas, activa Notas en Ajustes &gt; Face ID y código &gt; Otras apps.</tran>
+        <tran loc="es-419">Para usar Face ID además de la contraseña para tus notas bloqueadas, activa Notas en Configuración &gt; Face ID y código &gt; Otras apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1228,7 +1228,7 @@
       <Position>USE_TOUCH_ID_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use Touch ID</base>
-        <tran loc="es">Usar Touch ID</tran>
+        <tran loc="es-419">Usar Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1236,7 +1236,7 @@
       <Position>TOUCH_ID_ALERT_MESSAGE_MULTIPLE_ACCOUNTS</Position>
       <TranslationSet>
         <base loc="en">Enter the notes password for one of your accounts.</base>
-        <tran loc="es">Introduce la contraseña de Notas de una de tus cuentas.</tran>
+        <tran loc="es-419">Ingresa la contraseña de las notas de alguna de tus cuentas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1244,7 +1244,7 @@
       <Position>VIEWED_IN_NOTES_APP</Position>
       <TranslationSet>
         <base loc="en">Viewed in Notes App</base>
-        <tran loc="es">Vista en la app Notas</tran>
+        <tran loc="es-419">Vistas en la app Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1252,7 +1252,7 @@
       <Position>AUTO_SORT_CHECKLIST_ON</Position>
       <TranslationSet>
         <base loc="en">Automatically</base>
-        <tran loc="es">Automáticamente</tran>
+        <tran loc="es-419">Automáticamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1260,7 +1260,7 @@
       <Position>RESUME_LAST_NOTE_VIEWED_HELP</Position>
       <TranslationSet>
         <base loc="en">Resume the last note viewed in the Notes app, and require a passcode after some amount of time.</base>
-        <tran loc="es">Continúa la última nota abierta en la app Notas y requiere un código después de un tiempo.</tran>
+        <tran loc="es-419">Reanudar la última nota vista en la app Notas y requerir un código al transcurrir un periodo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1268,7 +1268,7 @@
       <Position>DEFAULT_LOCAL_NOTES_PREF</Position>
       <TranslationSet>
         <base loc="en">“%@” Account</base>
-        <tran loc="es">Cuenta de “%@”</tran>
+        <tran loc="es-419">Cuenta de "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1276,7 +1276,7 @@
       <Position>RESET_NOTES_PW_FOOTER_ACCOUNT_NAME</Position>
       <TranslationSet>
         <base loc="en">This allows you to create a new password for notes you lock in your “%@” account from now on. Notes that already have a password aren’t affected.</base>
-        <tran loc="es">Esto te permitirá crear otra contraseña para las notas que bloquees en la cuenta “%@” a partir de ahora. Las notas que ya estén bloqueadas no se verán afectadas.</tran>
+        <tran loc="es-419">Esto te permite crear una contraseña nueva para las notas que bloquees en tu cuenta “%@” de ahora en adelante. Las notas que ya tienen contraseña no se verán afectadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1284,7 +1284,7 @@
       <Position>RESET_NOTES_ACTION_SHEET_HEADER_ACCOUNT_NAME</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to reset your password? This will change the password you use for notes in your “%@” account from now on.</base>
-        <tran loc="es">¿Seguro que quieres restablecer la contraseña? Si lo haces, la contraseña que utilizas para las notas en tu cuenta “%@” cambiará a partir de ahora.</tran>
+        <tran loc="es-419">¿Seguro que quieres restablecer tu contraseña? Esto cambiará desde ahora la que usas para tus notas de tu cuenta "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1292,7 +1292,7 @@
       <Position>DELETE_LOCAL_NOTES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Delete Notes?</base>
-        <tran loc="es">¿Quieres eliminar las notas?</tran>
+        <tran loc="es-419">¿Eliminar notas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1300,7 +1300,7 @@
       <Position>NOTES</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1308,7 +1308,7 @@
       <Position>NOTE_DEFAULT_SORT</Position>
       <TranslationSet>
         <base loc="en">Sort Notes By</base>
-        <tran loc="es">Ordenar por</tran>
+        <tran loc="es-419">Ordenar notas por</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1316,7 +1316,7 @@
       <Position>REQUIRE_PASSCODE_HEADER</Position>
       <TranslationSet>
         <base loc="en">REQUIRE PASSCODE</base>
-        <tran loc="es">SOLICITAR CÓDIGO</tran>
+        <tran loc="es-419">SOLICITAR CÓDIGO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1324,7 +1324,7 @@
       <Position>VIEWING_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Viewing</base>
-        <tran loc="es">Visualización</tran>
+        <tran loc="es-419">Visualización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1332,7 +1332,7 @@
       <Position>GO_TO_NOTES_ACTION</Position>
       <TranslationSet>
         <base loc="en">Go To Notes</base>
-        <tran loc="es">Ir a Notas</tran>
+        <tran loc="es-419">Ir a notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1340,7 +1340,7 @@
       <Position>PAPER_STYLE_GRID_LARGE</Position>
       <TranslationSet>
         <base loc="en">Grid Large</base>
-        <tran loc="es">Retícula grande</tran>
+        <tran loc="es-419">Cuadros g</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1348,7 +1348,7 @@
       <Position>ACCESS_FROM_LOCKSCREEN_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1356,7 +1356,7 @@
       <Position>ACCESS_NOTES_FROM_LOCK_SCREEN_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1364,7 +1364,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1372,7 +1372,7 @@
       <Position>CHANGE_PW_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Change Password…</base>
-        <tran loc="es">Cambiar contraseña…</tran>
+        <tran loc="es-419">Cambiar contraseña…</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1383,7 +1383,7 @@
       <Position>mSM-lA-ZET.text</Position>
       <TranslationSet>
         <base loc="en">This note is locked.</base>
-        <tran loc="es">Esta nota está bloqueada.</tran>
+        <tran loc="es-419">Esta nota está bloqueada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1391,7 +1391,7 @@
       <Position>7HO-ZD-raW.normalTitle</Position>
       <TranslationSet>
         <base loc="en">View Note</base>
-        <tran loc="es">Ver nota</tran>
+        <tran loc="es-419">Ver nota</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1402,7 +1402,7 @@
       <Position>This note is password protected.</Position>
       <TranslationSet>
         <base loc="en">This note is password protected.</base>
-        <tran loc="es">Esta nota está protegida con contraseña.</tran>
+        <tran loc="es-419">Esta nota está protegida con contraseña.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1413,7 +1413,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1424,7 +1424,7 @@
       <Position>cWg-eI-3xp.text</Position>
       <TranslationSet>
         <base loc="en">Old Password</base>
-        <tran loc="es">Antigua</tran>
+        <tran loc="es-419">Anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@
       <Position>U46-h3-8oe.text</Position>
       <TranslationSet>
         <base loc="en">Hint</base>
-        <tran loc="es">Indicación</tran>
+        <tran loc="es-419">Pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@
       <Position>0C3-kT-oCY.placeholder</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Campo obligatorio</tran>
+        <tran loc="es-419">Campo obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@
       <Position>fYc-0q-402.placeholder</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Campo obligatorio</tran>
+        <tran loc="es-419">Campo obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>x0j-QR-taX.placeholder</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Campo obligatorio</tran>
+        <tran loc="es-419">Campo obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@
       <Position>W0y-Ua-yLw.text</Position>
       <TranslationSet>
         <base loc="en">Set the password for all password protected notes:</base>
-        <tran loc="es">Define la contraseña de todas las notas protegidas:</tran>
+        <tran loc="es-419">Define la contraseña para todas las notas bloqueadas:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>gGr-Qs-C8i.placeholder</Position>
       <TranslationSet>
         <base loc="en">Recommended</base>
-        <tran loc="es">Recomendada</tran>
+        <tran loc="es-419">Recomendado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>v2l-3Z-aiY.text</Position>
       <TranslationSet>
         <base loc="en">A password hint is strongly recommended.</base>
-        <tran loc="es">Se recomienda encarecidamente definir una indicación de contraseña.</tran>
+        <tran loc="es-419">Se recomienda usar una pista para la contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>MHk-YB-tFb.text</Position>
       <TranslationSet>
         <base loc="en">Verify</base>
-        <tran loc="es">Verificar</tran>
+        <tran loc="es-419">Verificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>cAV-36-yHz.text</Position>
       <TranslationSet>
         <base loc="en">Important: If you forget this password, you won’t be able to view your password-protected notes.</base>
-        <tran loc="es">Importante: Si olvidas esta contraseña, no podrás ver tus notas protegidas con contraseña.</tran>
+        <tran loc="es-419">Importante: si se te olvida la contraseña, no podrás ver tus notas bloqueadas con contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>x1v-EP-44t.text</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>fdi-IH-lMT.text</Position>
       <TranslationSet>
         <base loc="en">Use Touch ID</base>
-        <tran loc="es">Usar Touch ID</tran>
+        <tran loc="es-419">Usar Touch ID</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1523,7 +1523,7 @@
       <Position>Shared with %@ and %@</Position>
       <TranslationSet>
         <base loc="en">Shared with %1$@ and %2$@</base>
-        <tran loc="es">Compartida con %1$@ y %2$@</tran>
+        <tran loc="es-419">Se comparte con %1$@ y %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1531,7 +1531,7 @@
       <Position>Upgrade macOS to view this table.</Position>
       <TranslationSet>
         <base loc="en">Upgrade macOS to view this table.</base>
-        <tran loc="es">Actualiza macOS para ver esta tabla.</tran>
+        <tran loc="es-419">Actualiza macOS para ver esta tabla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1539,7 +1539,7 @@
       <Position>Portrait orientation</Position>
       <TranslationSet>
         <base loc="en">Portrait orientation</base>
-        <tran loc="es">Orientación vertical</tran>
+        <tran loc="es-419">Orientación vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1547,7 +1547,7 @@
       <Position>Double tap to show additional colors</Position>
       <TranslationSet>
         <base loc="en">Double tap to show additional colors</base>
-        <tran loc="es">Pulsa dos veces para mostrar más colores</tran>
+        <tran loc="es-419">Toca dos veces para mostrar más colores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1555,7 +1555,7 @@
       <Position>grayish</Position>
       <TranslationSet>
         <base loc="en">grayish</base>
-        <tran loc="es">grisáceo</tran>
+        <tran loc="es-419">grisáceo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1563,7 +1563,7 @@
       <Position>Default (Date Edited)</Position>
       <TranslationSet>
         <base loc="en">Default (Date Edited)</base>
-        <tran loc="es">Por omisión (fecha de edición)</tran>
+        <tran loc="es-419">Predeterminado (fecha de edición)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1571,7 +1571,7 @@
       <Position>Masked by ruler</Position>
       <TranslationSet>
         <base loc="en">Masked by ruler</base>
-        <tran loc="es">Enmascarado por la regla</tran>
+        <tran loc="es-419">Enmascaramiento con regla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1579,7 +1579,7 @@
       <Position>Pencil selected</Position>
       <TranslationSet>
         <base loc="en">Pencil selected</base>
-        <tran loc="es">Lápiz seleccionado</tran>
+        <tran loc="es-419">Lápiz seleccionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1587,7 +1587,7 @@
       <Position>IMPORTANT: If you forget this password, you won’t be able to view your locked notes.</Position>
       <TranslationSet>
         <base loc="en">IMPORTANT: If you forget this password, you won’t be able to view your locked notes.</base>
-        <tran loc="es">IMPORTANTE: Si olvidas la contraseña, no podrás ver las notas que hayas bloqueado.</tran>
+        <tran loc="es-419">Importante: si se te olvida la contraseña, no podrás ver tus notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1596,7 +1596,7 @@
       <Position>Sort by Date Created</Position>
       <TranslationSet>
         <base loc="en">Sort by Date Created</base>
-        <tran loc="es">Ordenar por fecha de creación</tran>
+        <tran loc="es-419">Ordenar por fecha de creación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1604,7 +1604,7 @@
       <Position>Create a password for all your locked notes.</Position>
       <TranslationSet>
         <base loc="en">Create a password for all your locked notes.</base>
-        <tran loc="es">Crea una contraseña para todas las notas bloqueadas.</tran>
+        <tran loc="es-419">Crea una contraseña para tus notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1612,7 +1612,7 @@
       <Position>Saved Photos and Saved Video</Position>
       <TranslationSet>
         <base loc="en">Saved Photos and Saved Video</base>
-        <tran loc="es">Fotos guardadas y vídeo guardado</tran>
+        <tran loc="es-419">Fotos guardadas y video guardado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1621,7 @@
       <Position>Old Password</Position>
       <TranslationSet>
         <base loc="en">Old Password</base>
-        <tran loc="es">Antigua</tran>
+        <tran loc="es-419">Anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1629,7 @@
       <Position>Enter a hint for your new password.</Position>
       <TranslationSet>
         <base loc="en">Enter a hint for your new password.</base>
-        <tran loc="es">Introduce una indicación para la contraseña nueva.</tran>
+        <tran loc="es-419">Ingresa una pista para la nueva contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1637,7 @@
       <Position>Upgrade iOS to view this attachment.</Position>
       <TranslationSet>
         <base loc="en">Upgrade iOS to view this attachment.</base>
-        <tran loc="es">Actualiza iOS para ver este archivo adjunto.</tran>
+        <tran loc="es-419">Actualiza iOS para ver este archivo adjunto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1645,7 @@
       <Position>Locked Notes</Position>
       <TranslationSet>
         <base loc="en">Locked Notes</base>
-        <tran loc="es">Notas bloqueadas</tran>
+        <tran loc="es-419">Notas bloqueadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1653,7 @@
       <Position>– Dashed List</Position>
       <TranslationSet>
         <base loc="en">– Dashed List</base>
-        <tran loc="es">– Lista con guiones</tran>
+        <tran loc="es-419">– Lista con guiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1661,7 +1661,7 @@
       <Position>Double tap to choose paper style.</Position>
       <TranslationSet>
         <base loc="en">Double tap to choose paper style.</base>
-        <tran loc="es">Pulsa dos veces para seleccionar el estilo de papel.</tran>
+        <tran loc="es-419">Toca dos veces para seleccionar el estilo del papel.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1669,7 +1669,7 @@
       <Position>That’s not the correct password. Please try again.</Position>
       <TranslationSet>
         <base loc="en">That’s not the correct password. Please try again.</base>
-        <tran loc="es">Esta contraseña no es la correcta. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Esa no es la contraseña correcta. Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1677,7 +1677,7 @@
       <Position>Use your fingerprint or enter the notes password for your “%@” account to remove the lock from this note.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter the notes password for your “%@” account to remove the lock from this note.</base>
-        <tran loc="es">Usa tu huella digital o introduce la contraseña de Notas de la cuenta “%@” para desbloquear esta nota.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa la contraseña de las notas de tu cuenta "%@" para desbloquear esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1685,7 +1685,7 @@
       <Position>Use your fingerprint or enter the notes password for your “%@” account to move this note.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter the notes password for your “%@” account to move this note.</base>
-        <tran loc="es">Usa tu huella digital o introduce la contraseña de Notas de la cuenta “%@” para trasladar esta nota.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa la contraseña de las notas de tu cuenta "%@" para mover esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1693,7 +1693,7 @@
       <Position>Body</Position>
       <TranslationSet>
         <base loc="en">Body</base>
-        <tran loc="es">Cuerpo</tran>
+        <tran loc="es-419">Cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1701,7 +1701,7 @@
       <Position>SETTINGS_TEXT_STYLE_BODY</Position>
       <TranslationSet>
         <base loc="en">Body</base>
-        <tran loc="es">Cuerpo</tran>
+        <tran loc="es-419">Cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1709,7 +1709,7 @@
       <Position>Use your fingerprint or enter the notes password for your “%@” account to delete this locked note.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter the notes password for your “%@” account to delete this locked note.</base>
-        <tran loc="es">Usa tu huella digital o introduce la contraseña de Notas de la cuenta “%@” para eliminar esta nota bloqueada.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa la contraseña de las notas de tu cuenta "%@" para eliminar esta nota bloqueada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1717,7 +1717,7 @@
       <Position>Sort by Date Created (Default)</Position>
       <TranslationSet>
         <base loc="en">Sort by Date Created (Default)</base>
-        <tran loc="es">Ordenar por fecha de creación (por omisión)</tran>
+        <tran loc="es-419">Ordenar por fecha de creación (predeterminado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1725,7 +1725,7 @@
       <Position>top of sketching area</Position>
       <TranslationSet>
         <base loc="en">top of sketching area</base>
-        <tran loc="es">parte superior del área de dibujo</tran>
+        <tran loc="es-419">arriba del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1733,7 +1733,7 @@
       <Position>Enter your password to remove the lock from this note.</Position>
       <TranslationSet>
         <base loc="en">Enter your password to remove the lock from this note.</base>
-        <tran loc="es">Introduce la contraseña para desbloquear esta nota.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para desbloquear esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1741,7 +1741,7 @@
       <Position>New Folder</Position>
       <TranslationSet>
         <base loc="en">New Folder</base>
-        <tran loc="es">Nueva carpeta</tran>
+        <tran loc="es-419">Nueva carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1749,7 +1749,7 @@
       <Position>Three-finger swipe left or right to change color palettes</Position>
       <TranslationSet>
         <base loc="en">Three-finger swipe left or right to change color palettes</base>
-        <tran loc="es">Desliza con tres dedos hacia la izquierda o la derecha para cambiar las paletas de color</tran>
+        <tran loc="es-419">Desliza a los lados con tres dedos para cambiar las paletas de color</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1757,7 +1757,7 @@
       <Position>Move Note</Position>
       <TranslationSet>
         <base loc="en">Move Note</base>
-        <tran loc="es">Trasladar nota</tran>
+        <tran loc="es-419">Mover nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1765,7 +1765,7 @@
       <Position>Marker Stroke</Position>
       <TranslationSet>
         <base loc="en">Marker Stroke</base>
-        <tran loc="es">Trazo de marcador</tran>
+        <tran loc="es-419">Trazo de marcador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1773,7 +1773,7 @@
       <Position>Sketching tools hidden</Position>
       <TranslationSet>
         <base loc="en">Sketching tools hidden</base>
-        <tran loc="es">Herramientas de dibujo ocultadas</tran>
+        <tran loc="es-419">Herramientas de dibujo ocultas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1781,7 +1781,7 @@
       <Position>Sketch</Position>
       <TranslationSet>
         <base loc="en">Sketch</base>
-        <tran loc="es">Dibujo</tran>
+        <tran loc="es-419">Bosquejo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1789,7 +1789,7 @@
       <Position>Mixed</Position>
       <TranslationSet>
         <base loc="en">Mixed</base>
-        <tran loc="es">Mixto</tran>
+        <tran loc="es-419">Mixto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1797,7 +1797,7 @@
       <Position>Enter your password to move “%@”.</Position>
       <TranslationSet>
         <base loc="en">Enter your password to move “%@”.</base>
-        <tran loc="es">Introduce la contraseña para trasladar “%@”.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para mover “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1805,7 +1805,7 @@
       <Position>…</Position>
       <TranslationSet>
         <base loc="en">…</base>
-        <tran loc="es">…</tran>
+        <tran loc="es-419">…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1813,7 +1813,7 @@
       <Position>%@ &amp; %@ Edited</Position>
       <TranslationSet>
         <base loc="en">%1$@ &amp; %2$@ Edited</base>
-        <tran loc="es">%1$@ y %2$@ la han editado</tran>
+        <tran loc="es-419">%1$@ y %2$@ editaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1821,7 +1821,7 @@
       <Position>Sketching tools</Position>
       <TranslationSet>
         <base loc="en">Sketching tools</base>
-        <tran loc="es">Herramientas de dibujo</tran>
+        <tran loc="es-419">Herramientas de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1829,7 +1829,7 @@
       <Position>body</Position>
       <TranslationSet>
         <base loc="en">body</base>
-        <tran loc="es">cuerpo</tran>
+        <tran loc="es-419">cuerpo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1837,7 +1837,7 @@
       <Position>Horizontal</Position>
       <TranslationSet>
         <base loc="en">Horizontal</base>
-        <tran loc="es">Horizontal</tran>
+        <tran loc="es-419">Horizontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1845,7 +1845,7 @@
       <Position>LOCK_TILE_LOCKED</Position>
       <TranslationSet>
         <base loc="en">Locked</base>
-        <tran loc="es">Bloqueado</tran>
+        <tran loc="es-419">Bloqueadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1853,7 +1853,7 @@
       <Position>NOTE_SNIPPET_LOCKED</Position>
       <TranslationSet>
         <base loc="en">Locked</base>
-        <tran loc="es">Bloqueada</tran>
+        <tran loc="es-419">Bloqueada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1861,7 +1861,7 @@
       <Position>orange</Position>
       <TranslationSet>
         <base loc="en">orange</base>
-        <tran loc="es">naranja</tran>
+        <tran loc="es-419">naranja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1869,7 +1869,7 @@
       <Position>news article attachment</Position>
       <TranslationSet>
         <base loc="en">news article attachment</base>
-        <tran loc="es">artículo adjunto</tran>
+        <tran loc="es-419">artículo de News adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1877,7 +1877,7 @@
       <Position>Enter your old password first in order to set a new password.</Position>
       <TranslationSet>
         <base loc="en">Enter your old password first in order to set a new password.</base>
-        <tran loc="es">Introduce la antigua contraseña para definir una nueva.</tran>
+        <tran loc="es-419">Para establecer una nueva contraseña, primero debes ingresar tu contraseña antigua.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1885,7 +1885,7 @@
       <Position>Three-finger swipe to the left to view next sketch</Position>
       <TranslationSet>
         <base loc="en">Three-finger swipe to the left to view next sketch</base>
-        <tran loc="es">Desliza con tres dedos hacia la izquierda para ver el dibujo siguiente</tran>
+        <tran loc="es-419">Desliza a la izquierda con tres dedos para ver el siguiente dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1893,7 +1893,7 @@
       <Position>Double tap to learn more.</Position>
       <TranslationSet>
         <base loc="en">Double tap to learn more.</base>
-        <tran loc="es">Pulsa dos veces para obtener más información.</tran>
+        <tran loc="es-419">Toca dos veces para obtener más información.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1902,7 +1902,7 @@
       <Position>Lock Note</Position>
       <TranslationSet>
         <base loc="en">Lock Note</base>
-        <tran loc="es">Bloquear nota</tran>
+        <tran loc="es-419">Bloquear nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1910,7 +1910,7 @@
       <Position>Enter the notes password for your “%@” account to delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">Enter the notes password for your “%@” account to delete these locked notes.</base>
-        <tran loc="es">Introduce la contraseña de Notas de tu cuenta “%@” para eliminar estas notas bloqueadas.</tran>
+        <tran loc="es-419">Ingresa la contraseña de notas de tu cuenta “%@” para eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1918,7 +1918,7 @@
       <Position>dark</Position>
       <TranslationSet>
         <base loc="en">dark</base>
-        <tran loc="es">oscuro</tran>
+        <tran loc="es-419">obscuro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1926,7 +1926,7 @@
       <Position>Heading</Position>
       <TranslationSet>
         <base loc="en">Heading</base>
-        <tran loc="es">Encabezamiento</tran>
+        <tran loc="es-419">Encabezado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1934,7 +1934,7 @@
       <Position>SETTINGS_TEXT_STYLE_HEADING</Position>
       <TranslationSet>
         <base loc="en">Heading</base>
-        <tran loc="es">Encabezamiento</tran>
+        <tran loc="es-419">Encabezado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1942,7 +1942,7 @@
       <Position>red orange</Position>
       <TranslationSet>
         <base loc="en">red orange</base>
-        <tran loc="es">naranja rojizo</tran>
+        <tran loc="es-419">naranja rojizo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1950,7 +1950,7 @@
       <Position>All %@</Position>
       <TranslationSet>
         <base loc="en">All %@</base>
-        <tran loc="es">Todo (%@)</tran>
+        <tran loc="es-419">Todo lo de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1958,7 +1958,7 @@
       <Position>Three-finger swipe down to hide the tools view</Position>
       <TranslationSet>
         <base loc="en">Three-finger swipe down to hide the tools view</base>
-        <tran loc="es">Desliza con tres dedos hacia abajo para ocultar las herramientas</tran>
+        <tran loc="es-419">Desliza con tres dedos para ocultar las herramientas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1966,7 +1966,7 @@
       <Position>blue green</Position>
       <TranslationSet>
         <base loc="en">blue green</base>
-        <tran loc="es">turquesa</tran>
+        <tran loc="es-419">verde azulado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1974,7 +1974,7 @@
       <Position>Use your fingerprint or enter your password to lock this note.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter your password to lock this note.</base>
-        <tran loc="es">Utiliza tu huella o introduce la contraseña para bloquear esta nota.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa tu contraseña para bloquear esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1982,7 +1982,7 @@
       <Position>book attachment</Position>
       <TranslationSet>
         <base loc="en">book attachment</base>
-        <tran loc="es">libro adjunto</tran>
+        <tran loc="es-419">libro adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1991,7 +1991,7 @@
       <Position>Done</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1999,7 +1999,7 @@
       <Position>Eraser Stroke</Position>
       <TranslationSet>
         <base loc="en">Eraser Stroke</base>
-        <tran loc="es">Trazo de borrador</tran>
+        <tran loc="es-419">Trazo de borrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2007,7 +2007,7 @@
       <Position>Choose your preferred line or grid style for handwriting in new notes.</Position>
       <TranslationSet>
         <base loc="en">Choose your preferred line or grid style for handwriting in new notes.</base>
-        <tran loc="es">Elige el estilo de línea o de cuadrícula que prefieras para escribir a mano en las notas nuevas.</tran>
+        <tran loc="es-419">Elige tu estilo preferido de líneas o cuadros para escribir a mano en las notas nuevas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2015,7 +2015,7 @@
       <Position>Try again or enter your password</Position>
       <TranslationSet>
         <base loc="en">Try again or enter your password</base>
-        <tran loc="es">Reinténtalo o introduce tu contraseña</tran>
+        <tran loc="es-419">Reintenta o ingresa tu contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2023,7 +2023,7 @@
       <Position>That‘s not the correct password for this note. Try a different password</Position>
       <TranslationSet>
         <base loc="en">That‘s not the correct password for this note. Try a different password</base>
-        <tran loc="es">Esta no es la contraseña correcta de esta nota. Prueba con otra.</tran>
+        <tran loc="es-419">Esa no es la contraseña correcta de esta nota. Intenta con otra.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2031,7 +2031,7 @@
       <Position>Change the line or grid style for handwriting in this note.</Position>
       <TranslationSet>
         <base loc="en">Change the line or grid style for handwriting in this note.</base>
-        <tran loc="es">Cambia el estilo de las líneas o de las cuadrículas para escribir a mano en esta nota.</tran>
+        <tran loc="es-419">Cambia el estilo de líneas o cuadros para escribir a mano en esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2039,7 +2039,7 @@
       <Position>Italics</Position>
       <TranslationSet>
         <base loc="en">Italics</base>
-        <tran loc="es">Cursiva</tran>
+        <tran loc="es-419">Cursiva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2047,7 +2047,7 @@
       <Position>yellow green</Position>
       <TranslationSet>
         <base loc="en">yellow green</base>
-        <tran loc="es">verde amarillento</tran>
+        <tran loc="es-419">verde amarillento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2055,7 +2055,7 @@
       <Position>Double-tap and hold to erase all.</Position>
       <TranslationSet>
         <base loc="en">Double-tap and hold to erase all.</base>
-        <tran loc="es">Pulsa dos veces y mantén pulsado para borrarlo todo.</tran>
+        <tran loc="es-419">Toca dos veces sin soltar para borrar todo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2063,7 +2063,7 @@
       <Position>purple</Position>
       <TranslationSet>
         <base loc="en">purple</base>
-        <tran loc="es">morado</tran>
+        <tran loc="es-419">morado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2071,7 +2071,7 @@
       <Position>Vertical</Position>
       <TranslationSet>
         <base loc="en">Vertical</base>
-        <tran loc="es">Vertical</tran>
+        <tran loc="es-419">Vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2080,7 @@
       <Position>Ruler</Position>
       <TranslationSet>
         <base loc="en">Ruler</base>
-        <tran loc="es">Regla</tran>
+        <tran loc="es-419">Regla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2088,7 @@
       <Position>sketch</Position>
       <TranslationSet>
         <base loc="en">sketch</base>
-        <tran loc="es">dibujo</tran>
+        <tran loc="es-419">bosquejo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2096,7 @@
       <Position>Use your fingerprint or enter your current password to delete this locked note.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter your current password to delete this locked note.</base>
-        <tran loc="es">Usa tu huella digital o introduce tu contraseña para eliminar esta nota bloqueada.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa tu contraseña actual para eliminar esta nota bloqueada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2104,7 @@
       <Position>Sort by Date Edited (Default)</Position>
       <TranslationSet>
         <base loc="en">Sort by Date Edited (Default)</base>
-        <tran loc="es">Ordenar por fecha de edición (por omisión)</tran>
+        <tran loc="es-419">Ordenar por fecha de edición (predeterminado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2112,7 @@
       <Position>Passwords Don’t Match</Position>
       <TranslationSet>
         <base loc="en">Passwords Don’t Match</base>
-        <tran loc="es">Las contraseñas no coinciden</tran>
+        <tran loc="es-419">Las contraseñas no coinciden</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2120,7 @@
       <Position>• Bulleted List</Position>
       <TranslationSet>
         <base loc="en">• Bulleted List</base>
-        <tran loc="es">• Lista con viñetas</tran>
+        <tran loc="es-419">• Lista con viñetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2128,7 @@
       <Position>Use your fingerprint or enter your current password to delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter your current password to delete these locked notes.</base>
-        <tran loc="es">Usa tu huella digital o introduce tu contraseña para eliminar estas notas bloqueadas.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa tu contraseña actual para eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2136,7 @@
       <Position>left of sketching area</Position>
       <TranslationSet>
         <base loc="en">left of sketching area</base>
-        <tran loc="es">parte izquierda del área de dibujo</tran>
+        <tran loc="es-419">izquierda del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2144,7 @@
       <Position>One or more notes are locked. Use your fingerprint or enter your current password to delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">One or more notes are locked. Use your fingerprint or enter your current password to delete these locked notes.</base>
-        <tran loc="es">Hay una o varias notas bloqueadas. Usa tu huella digital o introduce tu contraseña para eliminar estas notas bloqueadas.</tran>
+        <tran loc="es-419">Una o más notas están bloqueadas. Usa tu huella o ingresa tu contraseña actual para eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2152,7 @@
       <Position>cyan blue</Position>
       <TranslationSet>
         <base loc="en">cyan blue</base>
-        <tran loc="es">azul cian</tran>
+        <tran loc="es-419">azul cian</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2160,7 @@
       <Position>Attachment</Position>
       <TranslationSet>
         <base loc="en">Attachment</base>
-        <tran loc="es">Archivo adjunto</tran>
+        <tran loc="es-419">Archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2168,7 @@
       <Position>Unsupported Attachment</Position>
       <TranslationSet>
         <base loc="en">Unsupported Attachment</base>
-        <tran loc="es">Archivo adjunto incompatible</tran>
+        <tran loc="es-419">Archivo adjunto incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2176,7 @@
       <Position>Image</Position>
       <TranslationSet>
         <base loc="en">Image</base>
-        <tran loc="es">Imagen</tran>
+        <tran loc="es-419">Imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2184,7 @@
       <Position>Preparing…</Position>
       <TranslationSet>
         <base loc="en">Preparing…</base>
-        <tran loc="es">Preparando…</tran>
+        <tran loc="es-419">Preparando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@
       <Position>Updating note %ld of %lu</Position>
       <TranslationSet>
         <base loc="en">Updating note %1$ld of %2$lu</base>
-        <tran loc="es">Actualizando la nota %1$ld de %2$lu</tran>
+        <tran loc="es-419">Actualizando nota (%1$ld de %2$lu)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2200,7 @@
       <Position>Ended sketching</Position>
       <TranslationSet>
         <base loc="en">Ended sketching</base>
-        <tran loc="es">Dibujo finalizado</tran>
+        <tran loc="es-419">Terminaste de dibujar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2209,7 +2209,7 @@
       <Position>Shared with %@</Position>
       <TranslationSet>
         <base loc="en">Shared with %@</base>
-        <tran loc="es">Compartida con %@</tran>
+        <tran loc="es-419">Se comparte con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2217,7 +2217,7 @@
       <Position>Enable to use Face ID to view password protected notes.</Position>
       <TranslationSet>
         <base loc="en">Enable to use Face ID to view password protected notes.</base>
-        <tran loc="es">Utiliza Face ID para ver las notas protegidas con contraseña.</tran>
+        <tran loc="es-419">Permite usar Face ID para ver las notas bloqueadas con contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2225,7 +2225,7 @@
       <Position>Saved Photos and Saved Videos</Position>
       <TranslationSet>
         <base loc="en">Saved Photos and Saved Videos</base>
-        <tran loc="es">Fotos guardadas y vídeos guardados</tran>
+        <tran loc="es-419">Fotos guardadas y videos guardados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2233,7 +2233,7 @@
       <Position>completed: %@</Position>
       <TranslationSet>
         <base loc="en">completed: %@</base>
-        <tran loc="es">completada: %@</tran>
+        <tran loc="es-419">completado: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2241,7 +2241,7 @@
       <Position>pink</Position>
       <TranslationSet>
         <base loc="en">pink</base>
-        <tran loc="es">rosa</tran>
+        <tran loc="es-419">rosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2249,7 +2249,7 @@
       <Position>iTunes media attachment</Position>
       <TranslationSet>
         <base loc="en">iTunes media attachment</base>
-        <tran loc="es">contenido de iTunes adjunto</tran>
+        <tran loc="es-419">contenido de iTunes adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2257,7 +2257,7 @@
       <Position>Enter your current password to delete this locked note.</Position>
       <TranslationSet>
         <base loc="en">Enter your current password to delete this locked note.</base>
-        <tran loc="es">Introduce la contraseña actual para eliminar esta nota bloqueada.</tran>
+        <tran loc="es-419">Ingresa tu contraseña actual para eliminar esta nota bloqueada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2265,7 +2265,7 @@
       <Position>app attachment</Position>
       <TranslationSet>
         <base loc="en">app attachment</base>
-        <tran loc="es">app adjunta</tran>
+        <tran loc="es-419">app adjunta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2273,7 +2273,7 @@
       <Position>attachment</Position>
       <TranslationSet>
         <base loc="en">attachment</base>
-        <tran loc="es">archivo adjunto</tran>
+        <tran loc="es-419">archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2281,7 +2281,7 @@
       <Position>Blank paper</Position>
       <TranslationSet>
         <base loc="en">Blank paper</base>
-        <tran loc="es">Folio en blanco</tran>
+        <tran loc="es-419">Papel en blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2289,7 +2289,7 @@
       <Position>Numbered List</Position>
       <TranslationSet>
         <base loc="en">Numbered List</base>
-        <tran loc="es">Lista numerada</tran>
+        <tran loc="es-419">Lista numerada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2297,7 +2297,7 @@
       <Position>SETTINGS_TEXT_STYLE_NUMBERED_LIST</Position>
       <TranslationSet>
         <base loc="en">Numbered List</base>
-        <tran loc="es">Lista numerada</tran>
+        <tran loc="es-419">Lista numerada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2305,7 +2305,7 @@
       <Position>Sort by Title (Default)</Position>
       <TranslationSet>
         <base loc="en">Sort by Title (Default)</base>
-        <tran loc="es">Ordenar por título (por omisión)</tran>
+        <tran loc="es-419">Ordenar por título (predeterminado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2313,7 +2313,7 @@
       <Position>ax.color.format.lightness.saturation.hue</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@ %3$@</base>
-        <tran loc="es">%3$@ %2$@ %1$@</tran>
+        <tran loc="es-419">%3$@ %2$@ %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2321,7 +2321,7 @@
       <Position>SETTINGS_TEXT_STYLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2329,7 +2329,7 @@
       <Position>SORT_BY_TITLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2340,7 +2340,7 @@
       <Position>Title</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2348,7 +2348,7 @@
       <Position>Newest to Oldest</Position>
       <TranslationSet>
         <base loc="en">Newest to Oldest</base>
-        <tran loc="es">De nuevo a antiguo</tran>
+        <tran loc="es-419">Nuevos primero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2356,7 +2356,7 @@
       <Position>°%d°</Position>
       <TranslationSet>
         <base loc="en">°%d°</base>
-        <tran loc="es">°%d°</tran>
+        <tran loc="es-419">°%d°</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2364,7 +2364,7 @@
       <Position>Would you like to enable automatic sorting of checked items?</Position>
       <TranslationSet>
         <base loc="en">Would you like to enable automatic sorting of checked items?</base>
-        <tran loc="es">¿Quieres activar la ordenación automática de los ítems marcados?</tran>
+        <tran loc="es-419">¿Quieres activar la ordenación automática de los elementos seleccionados?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2372,7 +2372,7 @@
       <Position>SETTINGS_TEXT_STYLE_SUBHEADING</Position>
       <TranslationSet>
         <base loc="en">Subheading</base>
-        <tran loc="es">Subtítulo</tran>
+        <tran loc="es-419">Subtítulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2381,7 +2381,7 @@
       <Position>Subheading</Position>
       <TranslationSet>
         <base loc="en">Subheading</base>
-        <tran loc="es">Subtítulo</tran>
+        <tran loc="es-419">Subtítulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2389,7 +2389,7 @@
       <Position>Me</Position>
       <TranslationSet>
         <base loc="en">Me</base>
-        <tran loc="es">Yo</tran>
+        <tran loc="es-419">Yo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2397,7 +2397,7 @@
       <Position>Enter the notes password for your “%@” account to remove the lock from this note.</Position>
       <TranslationSet>
         <base loc="en">Enter the notes password for your “%@” account to remove the lock from this note.</base>
-        <tran loc="es">Introduce la contraseña de Notas de tu cuenta “%@” para desbloquear esta nota.</tran>
+        <tran loc="es-419">Ingresa la contraseña de notas de tu cuenta “%@” para desbloquear esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2405,7 +2405,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2413,7 +2413,7 @@
       <Position>Password Hint</Position>
       <TranslationSet>
         <base loc="en">Password Hint</base>
-        <tran loc="es">Indicación de la contraseña</tran>
+        <tran loc="es-419">Pista de la contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2421,7 +2421,7 @@
       <Position>Use your fingerprint or enter your password to view locked notes.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter your password to view locked notes.</base>
-        <tran loc="es">Utiliza tu huella o introduce la contraseña para ver las notas bloqueadas.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa tu contraseña para ver estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2429,7 +2429,7 @@
       <Position>Style Change</Position>
       <TranslationSet>
         <base loc="en">Style Change</base>
-        <tran loc="es">cambio de estilo</tran>
+        <tran loc="es-419">cambio de estilo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2437,7 +2437,7 @@
       <Position>pink red</Position>
       <TranslationSet>
         <base loc="en">pink red</base>
-        <tran loc="es">rojo rosáceo</tran>
+        <tran loc="es-419">rojo rosáceo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2445,7 +2445,7 @@
       <Position>red</Position>
       <TranslationSet>
         <base loc="en">red</base>
-        <tran loc="es">rojo</tran>
+        <tran loc="es-419">rojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2453,7 +2453,7 @@
       <Position>Double tap and hold, then drag to draw in the sketching area.</Position>
       <TranslationSet>
         <base loc="en">Double tap and hold, then drag to draw in the sketching area.</base>
-        <tran loc="es">Pulsa dos veces y mantén pulsado; luego arrastra para dibujar en el área de dibujo.</tran>
+        <tran loc="es-419">Toca dos veces sin soltar y arrastra para dibujar en el área respectiva.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2461,7 +2461,7 @@
       <Position>To delete these notes, enter the password for “%@”.</Position>
       <TranslationSet>
         <base loc="en">To delete these notes, enter the password for “%@”.</base>
-        <tran loc="es">Para eliminar estas notas, introduce la contraseña de “%@”.</tran>
+        <tran loc="es-419">Para eliminar estas notas, ingresa la contraseña de "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2469,7 +2469,7 @@
       <Position>Use your fingerprint or enter your password to remove the lock from this note.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter your password to remove the lock from this note.</base>
-        <tran loc="es">Utiliza tu huella o introduce la contraseña para desbloquear esta nota.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa tu contraseña para desbloquear esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2477,7 +2477,7 @@
       <Position>incomplete: %@</Position>
       <TranslationSet>
         <base loc="en">incomplete: %@</base>
-        <tran loc="es">incompleto: %@</tran>
+        <tran loc="es-419">incompleta: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2485,7 +2485,7 @@
       <Position>Eraser selected</Position>
       <TranslationSet>
         <base loc="en">Eraser selected</base>
-        <tran loc="es">Borrador seleccionado</tran>
+        <tran loc="es-419">Se seleccionó la goma de borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2493,7 +2493,7 @@
       <Position>Oldest to Newest</Position>
       <TranslationSet>
         <base loc="en">Oldest to Newest</base>
-        <tran loc="es">De antiguo a nuevo</tran>
+        <tran loc="es-419">Antiguos primero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2501,7 +2501,7 @@
       <Position>Three-finger swipe to the left to add an additional sketch</Position>
       <TranslationSet>
         <base loc="en">Three-finger swipe to the left to add an additional sketch</base>
-        <tran loc="es">Desliza con tres dedos hacia la izquierda para añadir un dibujo más</tran>
+        <tran loc="es-419">Desliza a la izquierda con tres dedos para agregar otro dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2509,7 +2509,7 @@
       <Position>Shared notes can’t be locked.</Position>
       <TranslationSet>
         <base loc="en">Shared notes can’t be locked.</base>
-        <tran loc="es">Las notas compartidas no se pueden bloquear.</tran>
+        <tran loc="es-419">No se puede bloquear las notas compartidas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2517,7 +2517,7 @@
       <Position>Began sketching</Position>
       <TranslationSet>
         <base loc="en">Began sketching</base>
-        <tran loc="es">Dibujo iniciado</tran>
+        <tran loc="es-419">Comenzaste a dibujar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2525,7 +2525,7 @@
       <Position>Selection changed by remote edit</Position>
       <TranslationSet>
         <base loc="en">Selection changed by remote edit</base>
-        <tran loc="es">La selección ha cambiado debido a una edición remota</tran>
+        <tran loc="es-419">Selección cambiada mediante edición remota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2533,7 +2533,7 @@
       <Position>Unable to set password</Position>
       <TranslationSet>
         <base loc="en">Unable to set password</base>
-        <tran loc="es">No se ha podido definir la contraseña</tran>
+        <tran loc="es-419">No se pudo definir la contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2541,7 +2541,7 @@
       <Position>Saved Videos</Position>
       <TranslationSet>
         <base loc="en">Saved Videos</base>
-        <tran loc="es">Vídeos guardados</tran>
+        <tran loc="es-419">Videos guardados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2549,7 +2549,7 @@
       <Position>Double tap to edit sketch</Position>
       <TranslationSet>
         <base loc="en">Double tap to edit sketch</base>
-        <tran loc="es">Pulsa dos veces para editar el dibujo</tran>
+        <tran loc="es-419">Toca dos veces para editar el dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2559,7 +2559,7 @@
       <Position>Please choose a different name.</Position>
       <TranslationSet>
         <base loc="en">Please choose a different name.</base>
-        <tran loc="es">Selecciona otro nombre.</tran>
+        <tran loc="es-419">Elige otro nombre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2567,7 +2567,7 @@
       <Position>IMPORTANT: If you forget this password, you won’t be able to view the locked notes that use it.</Position>
       <TranslationSet>
         <base loc="en">IMPORTANT: If you forget this password, you won’t be able to view the locked notes that use it.</base>
-        <tran loc="es">IMPORTANTE: Si olvidas esta contraseña, no podrás ver las notas bloqueadas que la utilicen.</tran>
+        <tran loc="es-419">IMPORTANTE: Si se te olvida la contraseña, no podrás ver las notas que se bloquearon con ella.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2575,7 +2575,7 @@
       <Position>Strikethrough</Position>
       <TranslationSet>
         <base loc="en">Strikethrough</base>
-        <tran loc="es">Tachado</tran>
+        <tran loc="es-419">Tachado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2583,7 +2583,7 @@
       <Position>This note is using an old password. Would you like to update all notes using this password to use your current password?</Position>
       <TranslationSet>
         <base loc="en">This note is using an old password. Would you like to update all notes using this password to use your current password?</base>
-        <tran loc="es">Esta nota utiliza una contraseña antigua. ¿Quieres actualizar todas las notas que tengan esa contraseña para que utilicen la contraseña actual?</tran>
+        <tran loc="es-419">La nota usa una contraseña antigua. ¿Quieres actualizar todas las notas que usan esta contraseña para que usen tu contraseña antigua?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2591,7 +2591,7 @@
       <Position>Landscape orientation</Position>
       <TranslationSet>
         <base loc="en">Landscape orientation</base>
-        <tran loc="es">Orientación horizontal</tran>
+        <tran loc="es-419">Orientación horizontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2599,7 +2599,7 @@
       <Position>Saved Photo</Position>
       <TranslationSet>
         <base loc="en">Saved Photo</base>
-        <tran loc="es">Foto guardada</tran>
+        <tran loc="es-419">Foto guardada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2607,7 +2607,7 @@
       <Position>Update</Position>
       <TranslationSet>
         <base loc="en">Update</base>
-        <tran loc="es">Actualizar</tran>
+        <tran loc="es-419">Actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2615,7 +2615,7 @@
       <Position>%@\nHint: %@</Position>
       <TranslationSet>
         <base loc="en">%1$@\nHint: %2$@</base>
-        <tran loc="es">%1$@\nIndicación: %2$@</tran>
+        <tran loc="es-419">%1$@\n Pista: %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2623,7 +2623,7 @@
       <Position>Set Password</Position>
       <TranslationSet>
         <base loc="en">Set Password</base>
-        <tran loc="es">Definir contraseña</tran>
+        <tran loc="es-419">Definir contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2631,7 +2631,7 @@
       <Position>Caption</Position>
       <TranslationSet>
         <base loc="en">Caption</base>
-        <tran loc="es">Pie de foto</tran>
+        <tran loc="es-419">Leyenda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2639,7 +2639,7 @@
       <Position>SETTINGS_TEXT_STYLE_CAPTION</Position>
       <TranslationSet>
         <base loc="en">Caption</base>
-        <tran loc="es">Pie de foto</tran>
+        <tran loc="es-419">Leyenda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2647,7 +2647,7 @@
       <Position>Movie</Position>
       <TranslationSet>
         <base loc="en">Movie</base>
-        <tran loc="es">Vídeo</tran>
+        <tran loc="es-419">Video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2655,7 +2655,7 @@
       <Position>middle of sketching area</Position>
       <TranslationSet>
         <base loc="en">middle of sketching area</base>
-        <tran loc="es">parte central del área de dibujo</tran>
+        <tran loc="es-419">mitad del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2663,7 +2663,7 @@
       <Position>map attachment</Position>
       <TranslationSet>
         <base loc="en">map attachment</base>
-        <tran loc="es">mapa adjunto</tran>
+        <tran loc="es-419">map adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2673,7 +2673,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2682,7 +2682,7 @@
       <Position>New Password</Position>
       <TranslationSet>
         <base loc="en">New Password</base>
-        <tran loc="es">Nueva</tran>
+        <tran loc="es-419">Nueva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2690,7 +2690,7 @@
       <Position>Default (Date Created)</Position>
       <TranslationSet>
         <base loc="en">Default (Date Created)</base>
-        <tran loc="es">Por omisión (fecha de creación)</tran>
+        <tran loc="es-419">Predeterminado (fecha de creación)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2698,7 +2698,7 @@
       <Position>To delete this note, enter the password for “%@”.</Position>
       <TranslationSet>
         <base loc="en">To delete this note, enter the password for “%@”.</base>
-        <tran loc="es">Para eliminar esta nota, introduce la contraseña de “%@”.</tran>
+        <tran loc="es-419">Para eliminar esta nota, ingresa la contraseña de "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2706,7 +2706,7 @@
       <Position>light</Position>
       <TranslationSet>
         <base loc="en">light</base>
-        <tran loc="es">claro</tran>
+        <tran loc="es-419">claro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2715,7 +2715,7 @@
       <Position>Enable Sorting</Position>
       <TranslationSet>
         <base loc="en">Enable Sorting</base>
-        <tran loc="es">Activar ordenación</tran>
+        <tran loc="es-419">Activar ordenación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2723,7 +2723,7 @@
       <Position>Saved Photo and Saved Video</Position>
       <TranslationSet>
         <base loc="en">Saved Photo and Saved Video</base>
-        <tran loc="es">Foto guardada y vídeo guardado</tran>
+        <tran loc="es-419">Foto guardada y video guardado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2731,7 +2731,7 @@
       <Position>Enter a new password to use for your protected notes.</Position>
       <TranslationSet>
         <base loc="en">Enter a new password to use for your protected notes.</base>
-        <tran loc="es">Introduce una contraseña nueva para las notas protegidas.</tran>
+        <tran loc="es-419">Ingresa una nueva contraseña para bloquear tus notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2739,7 +2739,7 @@
       <Position>Play</Position>
       <TranslationSet>
         <base loc="en">Play</base>
-        <tran loc="es">Reproducir</tran>
+        <tran loc="es-419">Reproducir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2748,7 +2748,7 @@
       <Position>Lines &amp; Grids</Position>
       <TranslationSet>
         <base loc="en">Lines &amp; Grids</base>
-        <tran loc="es">Líneas y retículas</tran>
+        <tran loc="es-419">Rayas y cuadrícula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2756,7 +2756,7 @@
       <Position>Typing</Position>
       <TranslationSet>
         <base loc="en">Typing</base>
-        <tran loc="es">texto escrito</tran>
+        <tran loc="es-419">Escritura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2764,7 +2764,7 @@
       <Position>Enter the notes password for your “%@” account to move “%@”.</Position>
       <TranslationSet>
         <base loc="en">Enter the notes password for your “%1$@” account to move “%2$@”.</base>
-        <tran loc="es">Introduce la contraseña de Notas de tu cuenta “%1$@” para trasladar %2$@.</tran>
+        <tran loc="es-419">Ingresa la contraseña de notas de tu cuenta “%1$@” para mover “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2772,7 +2772,7 @@
       <Position>A hint is strongly recommended.</Position>
       <TranslationSet>
         <base loc="en">A hint is strongly recommended.</base>
-        <tran loc="es">Se recomienda encarecidamente definir una indicación.</tran>
+        <tran loc="es-419">Se recomienda usar una pista.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2780,7 +2780,7 @@
       <Position>Name Taken</Position>
       <TranslationSet>
         <base loc="en">Name Taken</base>
-        <tran loc="es">Este nombre ya existe</tran>
+        <tran loc="es-419">Nombre ya en uso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2788,7 +2788,7 @@
       <Position>Horizontal lines with large line spacing</Position>
       <TranslationSet>
         <base loc="en">Horizontal lines with large line spacing</base>
-        <tran loc="es">Líneas horizontales con interlineado grande</tran>
+        <tran loc="es-419">Líneas horizontales con espacio amplio entre ellas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2796,7 +2796,7 @@
       <Position>PDF</Position>
       <TranslationSet>
         <base loc="en">PDF</base>
-        <tran loc="es">PDF</tran>
+        <tran loc="es-419">Archivo PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2804,7 +2804,7 @@
       <Position>right of sketching area</Position>
       <TranslationSet>
         <base loc="en">right of sketching area</base>
-        <tran loc="es">parte derecha del área de dibujo</tran>
+        <tran loc="es-419">derecha del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2813,7 +2813,7 @@
       <Position>Remove Lock</Position>
       <TranslationSet>
         <base loc="en">Remove Lock</base>
-        <tran loc="es">Desbloquear</tran>
+        <tran loc="es-419">Desbloquear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2821,7 +2821,7 @@
       <Position>Lock Added</Position>
       <TranslationSet>
         <base loc="en">Lock Added</base>
-        <tran loc="es">Candado añadido</tran>
+        <tran loc="es-419">Bloqueada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2829,7 +2829,7 @@
       <Position>All Notes</Position>
       <TranslationSet>
         <base loc="en">All Notes</base>
-        <tran loc="es">Todas las notas</tran>
+        <tran loc="es-419">Todas las notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2837,7 +2837,7 @@
       <Position>“%@” Password</Position>
       <TranslationSet>
         <base loc="en">“%@” Password</base>
-        <tran loc="es">Contraseña de “%@”</tran>
+        <tran loc="es-419">Contraseña de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2845,7 +2845,7 @@
       <Position>Created list</Position>
       <TranslationSet>
         <base loc="en">Created list</base>
-        <tran loc="es">Lista creada</tran>
+        <tran loc="es-419">Lista creada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2853,7 +2853,7 @@
       <Position>Pen selected</Position>
       <TranslationSet>
         <base loc="en">Pen selected</base>
-        <tran loc="es">Bolígrafo seleccionado</tran>
+        <tran loc="es-419">Pluma seleccionada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2861,7 +2861,7 @@
       <Position>Added lock to %@</Position>
       <TranslationSet>
         <base loc="en">Added lock to %@</base>
-        <tran loc="es">Se ha bloqueado la nota %@</tran>
+        <tran loc="es-419">Se bloqueó %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2869,7 +2869,7 @@
       <Position>Enter Password</Position>
       <TranslationSet>
         <base loc="en">Enter Password</base>
-        <tran loc="es">Introducir contraseña</tran>
+        <tran loc="es-419">Ingresar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2877,7 +2877,7 @@
       <Position>Delete Note</Position>
       <TranslationSet>
         <base loc="en">Delete Note</base>
-        <tran loc="es">Eliminar nota</tran>
+        <tran loc="es-419">Eliminar nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2885,7 +2885,7 @@
       <Position>No</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2893,7 +2893,7 @@
       <Position>Showing sketching tools</Position>
       <TranslationSet>
         <base loc="en">Showing sketching tools</base>
-        <tran loc="es">Mostrando herramientas de dibujo</tran>
+        <tran loc="es-419">Mostrando las herramientas de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2902,7 +2902,7 @@
       <Position>Use Face ID</Position>
       <TranslationSet>
         <base loc="en">Use Face ID</base>
-        <tran loc="es">Usar Face ID</tran>
+        <tran loc="es-419">Usar Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2910,7 +2910,7 @@
       <Position>Bright colors</Position>
       <TranslationSet>
         <base loc="en">Bright colors</base>
-        <tran loc="es">Colores vivos</tran>
+        <tran loc="es-419">Colores vivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2919,7 +2919,7 @@
       <Position>Hint</Position>
       <TranslationSet>
         <base loc="en">Hint</base>
-        <tran loc="es">Indicación</tran>
+        <tran loc="es-419">Pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2928,7 +2928,7 @@
       <Position>Sort by Title</Position>
       <TranslationSet>
         <base loc="en">Sort by Title</base>
-        <tran loc="es">Ordenar por título</tran>
+        <tran loc="es-419">Ordenar por título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2936,7 +2936,7 @@
       <Position>Horizontal lines with medium line spacing</Position>
       <TranslationSet>
         <base loc="en">Horizontal lines with medium line spacing</base>
-        <tran loc="es">Líneas horizontales con interlineado mediano</tran>
+        <tran loc="es-419">Líneas horizontales con espacio medio entre ellas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2944,7 +2944,7 @@
       <Position>View Note</Position>
       <TranslationSet>
         <base loc="en">View Note</base>
-        <tran loc="es">Ver nota</tran>
+        <tran loc="es-419">Ver nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2952,7 +2952,7 @@
       <Position>Removed lock from %@</Position>
       <TranslationSet>
         <base loc="en">Removed lock from %@</base>
-        <tran loc="es">Se ha desbloqueado la nota %@</tran>
+        <tran loc="es-419">Se desbloqueó %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2960,7 +2960,7 @@
       <Position>yellow orange</Position>
       <TranslationSet>
         <base loc="en">yellow orange</base>
-        <tran loc="es">naranja amarillento</tran>
+        <tran loc="es-419">amarillo anaranjado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2968,7 +2968,7 @@
       <Position>Upgrade iOS to view this table.</Position>
       <TranslationSet>
         <base loc="en">Upgrade iOS to view this table.</base>
-        <tran loc="es">Actualiza iOS para ver esta tabla.</tran>
+        <tran loc="es-419">Actualiza iOS para ver esta tabla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2976,7 +2976,7 @@
       <Position>Delete this locked note.</Position>
       <TranslationSet>
         <base loc="en">Delete this locked note.</base>
-        <tran loc="es">Elimina esta nota bloqueada.</tran>
+        <tran loc="es-419">Eliminar esta nota bloqueada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2984,7 +2984,7 @@
       <Position>Bold</Position>
       <TranslationSet>
         <base loc="en">Bold</base>
-        <tran loc="es">Negrita</tran>
+        <tran loc="es-419">Negrita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2992,7 +2992,7 @@
       <Position>Saved Photos</Position>
       <TranslationSet>
         <base loc="en">Saved Photos</base>
-        <tran loc="es">Fotos guardadas</tran>
+        <tran loc="es-419">Fotos guardadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3000,7 +3000,7 @@
       <Position>Bulleted List</Position>
       <TranslationSet>
         <base loc="en">Bulleted List</base>
-        <tran loc="es">Lista con viñetas</tran>
+        <tran loc="es-419">Lista con viñetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3008,7 +3008,7 @@
       <Position>SETTINGS_TEXT_STYLE_BULLETED_LIST</Position>
       <TranslationSet>
         <base loc="en">Bulleted List</base>
-        <tran loc="es">Lista con viñetas</tran>
+        <tran loc="es-419">Lista con viñetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3016,7 +3016,7 @@
       <Position>Sorted by Date Created</Position>
       <TranslationSet>
         <base loc="en">Sorted by Date Created</base>
-        <tran loc="es">Ordenadas por fecha de creación</tran>
+        <tran loc="es-419">Ordenadas por fecha de creación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3024,7 +3024,7 @@
       <Position>Grid lines with large tiles</Position>
       <TranslationSet>
         <base loc="en">Grid lines with large tiles</base>
-        <tran loc="es">Líneas de cuadrícula con cuadrados grandes</tran>
+        <tran loc="es-419">Líneas de cuadrículas con casillas grandes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3032,7 +3032,7 @@
       <Position>Grid lines with small tiles</Position>
       <TranslationSet>
         <base loc="en">Grid lines with small tiles</base>
-        <tran loc="es">Líneas de cuadrícula con cuadrados pequeños</tran>
+        <tran loc="es-419">Líneas de cuadrículas con casillas pequeñas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3040,7 +3040,7 @@
       <Position>top right of sketching area</Position>
       <TranslationSet>
         <base loc="en">top right of sketching area</base>
-        <tran loc="es">parte superior derecha del área de dibujo</tran>
+        <tran loc="es-419">arriba a la derecha del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3048,7 +3048,7 @@
       <Position>default</Position>
       <TranslationSet>
         <base loc="en">default</base>
-        <tran loc="es">sentence</tran>
+        <tran loc="es-419">default</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3056,7 +3056,7 @@
       <Position>Enter your new password again for confirmation.</Position>
       <TranslationSet>
         <base loc="en">Enter your new password again for confirmation.</base>
-        <tran loc="es">Vuelve a introducir la contraseña nueva para confirmarla.</tran>
+        <tran loc="es-419">Para confirmar, vuelve a ingresar tu nueva contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3064,7 +3064,7 @@
       <Position>Fixed width</Position>
       <TranslationSet>
         <base loc="en">Fixed width</base>
-        <tran loc="es">Ancho fijo</tran>
+        <tran loc="es-419">Ancho fijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3072,7 +3072,7 @@
       <Position>SETTINGS_TEXT_STYLE_FIXED_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Fixed width</base>
-        <tran loc="es">Ancho fijo</tran>
+        <tran loc="es-419">Ancho fijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3080,7 +3080,7 @@
       <Position>Undo</Position>
       <TranslationSet>
         <base loc="en">Undo</base>
-        <tran loc="es">Deshacer</tran>
+        <tran loc="es-419">Deshacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3088,7 +3088,7 @@
       <Position>magenta pink</Position>
       <TranslationSet>
         <base loc="en">magenta pink</base>
-        <tran loc="es">rosa magenta</tran>
+        <tran loc="es-419">rosa magenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3097,7 +3097,7 @@
       <Position>Date Edited</Position>
       <TranslationSet>
         <base loc="en">Date Edited</base>
-        <tran loc="es">Fecha de edición</tran>
+        <tran loc="es-419">Fecha de modificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3105,7 +3105,7 @@
       <Position>SORT_BY_DATE_EDITED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Date Edited</base>
-        <tran loc="es">Fecha de edición</tran>
+        <tran loc="es-419">Fecha de modificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3113,7 +3113,7 @@
       <Position>Eraser tool</Position>
       <TranslationSet>
         <base loc="en">Eraser tool</base>
-        <tran loc="es">Herramienta Borrador</tran>
+        <tran loc="es-419">Goma de borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3121,7 +3121,7 @@
       <Position>%lu%% complete</Position>
       <TranslationSet>
         <base loc="en">%lu%% complete</base>
-        <tran loc="es">%lu %% completado</tran>
+        <tran loc="es-419">%lu%% completado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3129,7 +3129,7 @@
       <Position>Hint: %@</Position>
       <TranslationSet>
         <base loc="en">Hint: %@</base>
-        <tran loc="es">Indicación: %@</tran>
+        <tran loc="es-419">Pista: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3137,7 +3137,7 @@
       <Position>Create a password for all your locked notes in your “%@” account.</Position>
       <TranslationSet>
         <base loc="en">Create a password for all your locked notes in your “%@” account.</base>
-        <tran loc="es">Crea una contraseña para todas tus notas bloqueadas de la cuenta “%@”.</tran>
+        <tran loc="es-419">Crea una contraseña para todas las notas bloqueadas de tu cuenta “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3145,7 +3145,7 @@
       <Position>Notes with video, audio, PDF, or file attachments can’t be locked.</Position>
       <TranslationSet>
         <base loc="en">Notes with video, audio, PDF, or file attachments can’t be locked.</base>
-        <tran loc="es">Las notas con vídeo, audio, documentos PDF o archivos adjuntos no se pueden bloquear.</tran>
+        <tran loc="es-419">No se pueden bloquear las notas con video, audio, archivos PDF o archivos adjuntos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3153,7 +3153,7 @@
       <Position>Sorted by Title</Position>
       <TranslationSet>
         <base loc="en">Sorted by Title</base>
-        <tran loc="es">Ordenadas por título</tran>
+        <tran loc="es-419">Ordenadas por título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3161,7 +3161,7 @@
       <Position>INSERT_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Insert Photo</base>
-        <tran loc="es">Insertar foto</tran>
+        <tran loc="es-419">Insertar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3169,7 +3169,7 @@
       <Position>Double tap to rotate sketch counter-clockwise</Position>
       <TranslationSet>
         <base loc="en">Double tap to rotate sketch counter-clockwise</base>
-        <tran loc="es">Pulsa dos veces para girar el dibujo a la izquierda</tran>
+        <tran loc="es-419">Toca dos veces para girar el dibujo a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3177,7 +3177,7 @@
       <Position>Audio</Position>
       <TranslationSet>
         <base loc="en">Audio</base>
-        <tran loc="es">Audio</tran>
+        <tran loc="es-419">Audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3185,7 +3185,7 @@
       <Position>exited list</Position>
       <TranslationSet>
         <base loc="en">exited list</base>
-        <tran loc="es">has salido de la lista</tran>
+        <tran loc="es-419">se salió de la lista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3193,7 +3193,7 @@
       <Position>Pen tool</Position>
       <TranslationSet>
         <base loc="en">Pen tool</base>
-        <tran loc="es">Herramienta Bolígrafo</tran>
+        <tran loc="es-419">Pluma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3201,7 +3201,7 @@
       <Position>Redo</Position>
       <TranslationSet>
         <base loc="en">Redo</base>
-        <tran loc="es">Rehacer</tran>
+        <tran loc="es-419">Rehacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3209,7 +3209,7 @@
       <Position>Preparing scanned documents…</Position>
       <TranslationSet>
         <base loc="en">Preparing scanned documents…</base>
-        <tran loc="es">Preparando documentos escaneados…</tran>
+        <tran loc="es-419">Preparando elementos escaneados…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3217,7 +3217,7 @@
       <Position>bottom of sketching area</Position>
       <TranslationSet>
         <base loc="en">bottom of sketching area</base>
-        <tran loc="es">parte inferior del área de dibujo</tran>
+        <tran loc="es-419">abajo del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3225,7 +3225,7 @@
       <Position>New Note</Position>
       <TranslationSet>
         <base loc="en">New Note</base>
-        <tran loc="es">Nueva nota</tran>
+        <tran loc="es-419">Nueva nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3234,7 +3234,7 @@
       <Position> Learn more…</Position>
       <TranslationSet>
         <base loc="en"> Learn more…</base>
-        <tran loc="es"> Más información…</tran>
+        <tran loc="es-419"> Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3242,7 +3242,7 @@
       <Position>Notes Unlocked</Position>
       <TranslationSet>
         <base loc="en">Notes Unlocked</base>
-        <tran loc="es">Notas desbloqueadas</tran>
+        <tran loc="es-419">Notas desbloqueadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3250,7 +3250,7 @@
       <Position>scanned document attachment</Position>
       <TranslationSet>
         <base loc="en">scanned document attachment</base>
-        <tran loc="es">documento escaneado adjunto</tran>
+        <tran loc="es-419">documento escaneado adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3258,7 +3258,7 @@
       <Position>Began erasing</Position>
       <TranslationSet>
         <base loc="en">Began erasing</base>
-        <tran loc="es">Borrado iniciado</tran>
+        <tran loc="es-419">Se comenzó a borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3266,7 +3266,7 @@
       <Position>Enable to use your fingerprint to view password protected notes.</Position>
       <TranslationSet>
         <base loc="en">Enable to use your fingerprint to view password protected notes.</base>
-        <tran loc="es">Utiliza tu huella para ver las notas protegidas con contraseña.</tran>
+        <tran loc="es-419">Permite usar tu huella para ver las notas bloqueadas con contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3274,7 +3274,7 @@
       <Position>Map</Position>
       <TranslationSet>
         <base loc="en">Map</base>
-        <tran loc="es">Mapa</tran>
+        <tran loc="es-419">Mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3282,7 +3282,7 @@
       <Position>Loading…</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3290,7 +3290,7 @@
       <Position>Ended erasing</Position>
       <TranslationSet>
         <base loc="en">Ended erasing</base>
-        <tran loc="es">Borrado finalizado</tran>
+        <tran loc="es-419">Se terminó de borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3298,7 +3298,7 @@
       <Position>Hide ruler</Position>
       <TranslationSet>
         <base loc="en">Hide ruler</base>
-        <tran loc="es">Ocultar regla</tran>
+        <tran loc="es-419">Ocultar regla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3306,7 +3306,7 @@
       <Position>New Edits</Position>
       <TranslationSet>
         <base loc="en">New Edits</base>
-        <tran loc="es">Nuevos cambios</tran>
+        <tran loc="es-419">Ediciones nuevas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3314,7 +3314,7 @@
       <Position>Browse Sketches</Position>
       <TranslationSet>
         <base loc="en">Browse Sketches</base>
-        <tran loc="es">Buscar dibujos</tran>
+        <tran loc="es-419">Explorar dibujos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3322,7 +3322,7 @@
       <Position>Three-finger swipe to the right to view previous sketch</Position>
       <TranslationSet>
         <base loc="en">Three-finger swipe to the right to view previous sketch</base>
-        <tran loc="es">Desliza con tres dedos hacia la derecha para ver el dibujo anterior</tran>
+        <tran loc="es-419">Desliza a la derecha con tres dedos para ver el dibujo anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3331,7 +3331,7 @@
       <Position>Verify</Position>
       <TranslationSet>
         <base loc="en">Verify</base>
-        <tran loc="es">Verificar</tran>
+        <tran loc="es-419">Verificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3339,7 +3339,7 @@
       <Position>Enter your password to lock this note.</Position>
       <TranslationSet>
         <base loc="en">Enter your password to lock this note.</base>
-        <tran loc="es">Introduce la contraseña para bloquear esta nota.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para bloquear esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3347,7 +3347,7 @@
       <Position>Pencil tool</Position>
       <TranslationSet>
         <base loc="en">Pencil tool</base>
-        <tran loc="es">Herramienta Lápiz</tran>
+        <tran loc="es-419">Lápiz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3355,7 +3355,7 @@
       <Position>Rotate</Position>
       <TranslationSet>
         <base loc="en">Rotate</base>
-        <tran loc="es">Girar</tran>
+        <tran loc="es-419">Girar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3363,7 +3363,7 @@
       <Position>Enter the notes password for your “%@” account to delete this locked note.</Position>
       <TranslationSet>
         <base loc="en">Enter the notes password for your “%@” account to delete this locked note.</base>
-        <tran loc="es">Introduce la contraseña de Notas de tu cuenta “%@” para eliminar esta nota bloqueada.</tran>
+        <tran loc="es-419">Ingresa la contraseña de notas de tu cuenta “%@” para eliminar esta nota bloqueada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3371,7 +3371,7 @@
       <Position>magenta</Position>
       <TranslationSet>
         <base loc="en">magenta</base>
-        <tran loc="es">magenta</tran>
+        <tran loc="es-419">magenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3379,7 +3379,7 @@
       <Position>black</Position>
       <TranslationSet>
         <base loc="en">black</base>
-        <tran loc="es">negro</tran>
+        <tran loc="es-419">negro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3387,7 +3387,7 @@
       <Position>Grid lines with medium tiles</Position>
       <TranslationSet>
         <base loc="en">Grid lines with medium tiles</base>
-        <tran loc="es">Líneas de cuadrícula con cuadrados medianos</tran>
+        <tran loc="es-419">Líneas de cuadrículas con casillas medianas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3397,7 +3397,7 @@
       <Position>Erase All</Position>
       <TranslationSet>
         <base loc="en">Erase All</base>
-        <tran loc="es">Borrar todo</tran>
+        <tran loc="es-419">Borrar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3405,7 +3405,7 @@
       <Position>gray</Position>
       <TranslationSet>
         <base loc="en">gray</base>
-        <tran loc="es">gris</tran>
+        <tran loc="es-419">gris</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3413,7 +3413,7 @@
       <Position>%@ Edited</Position>
       <TranslationSet>
         <base loc="en">%@ Edited</base>
-        <tran loc="es">%@ la ha editado</tran>
+        <tran loc="es-419">%@ editó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3421,7 +3421,7 @@
       <Position>Copy</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3429,7 +3429,7 @@
       <Position>Use your fingerprint or enter the notes password for your “%@” account to delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter the notes password for your “%@” account to delete these locked notes.</base>
-        <tran loc="es">Usa tu huella digital o introduce la contraseña de Notas de la cuenta “%@” para eliminar estas notas bloqueadas.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa la contraseña de las notas de tu cuenta "%@" para eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3437,7 +3437,7 @@
       <Position>file attachment</Position>
       <TranslationSet>
         <base loc="en">file attachment</base>
-        <tran loc="es">archivo adjunto</tran>
+        <tran loc="es-419">archivo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3445,7 +3445,7 @@
       <Position>Delete Notes</Position>
       <TranslationSet>
         <base loc="en">Delete Notes</base>
-        <tran loc="es">Eliminar notas</tran>
+        <tran loc="es-419">Eliminar notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3453,7 +3453,7 @@
       <Position>green</Position>
       <TranslationSet>
         <base loc="en">green</base>
-        <tran loc="es">verde</tran>
+        <tran loc="es-419">verde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3461,7 +3461,7 @@
       <Position>yellow</Position>
       <TranslationSet>
         <base loc="en">yellow</base>
-        <tran loc="es">amarillo</tran>
+        <tran loc="es-419">amarillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3469,7 +3469,7 @@
       <Position>Insertion point changed by remote edit</Position>
       <TranslationSet>
         <base loc="en">Insertion point changed by remote edit</base>
-        <tran loc="es">El punto de inserción ha cambiado debido a una edición remota</tran>
+        <tran loc="es-419">Punto de inserción cambiado mediante edición remota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3477,7 +3477,7 @@
       <Position>URL</Position>
       <TranslationSet>
         <base loc="en">URL</base>
-        <tran loc="es">URL</tran>
+        <tran loc="es-419">Dirección URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3485,7 +3485,7 @@
       <Position>Created</Position>
       <TranslationSet>
         <base loc="en">Created</base>
-        <tran loc="es">Fecha de creación</tran>
+        <tran loc="es-419">Creación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3493,7 +3493,7 @@
       <Position>Scanned Documents</Position>
       <TranslationSet>
         <base loc="en">Scanned Documents</base>
-        <tran loc="es">Documentos escaneados</tran>
+        <tran loc="es-419">Documentos escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3501,7 +3501,7 @@
       <Position>Enter a Password</Position>
       <TranslationSet>
         <base loc="en">Enter a Password</base>
-        <tran loc="es">Introducir una contraseña</tran>
+        <tran loc="es-419">Ingresa una contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3509,7 +3509,7 @@
       <Position>Saved Video</Position>
       <TranslationSet>
         <base loc="en">Saved Video</base>
-        <tran loc="es">Vídeo guardado</tran>
+        <tran loc="es-419">Video guardado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3517,7 +3517,7 @@
       <Position>brown</Position>
       <TranslationSet>
         <base loc="en">brown</base>
-        <tran loc="es">marrón</tran>
+        <tran loc="es-419">café</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3525,7 +3525,7 @@
       <Position>That’s not the correct password.</Position>
       <TranslationSet>
         <base loc="en">That’s not the correct password.</base>
-        <tran loc="es">Esta contraseña no es la correcta.</tran>
+        <tran loc="es-419">Esa no es la contraseña correcta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3534,7 +3534,7 @@
       <Position>Sort by Date Edited</Position>
       <TranslationSet>
         <base loc="en">Sort by Date Edited</base>
-        <tran loc="es">Ordenar por fecha de edición</tran>
+        <tran loc="es-419">Ordenar por fecha de edición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3542,7 +3542,7 @@
       <Position>Monospaced</Position>
       <TranslationSet>
         <base loc="en">Monospaced</base>
-        <tran loc="es">Monoespaciado</tran>
+        <tran loc="es-419">Monoespaciado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3550,7 +3550,7 @@
       <Position>Recently Deleted</Position>
       <TranslationSet>
         <base loc="en">Recently Deleted</base>
-        <tran loc="es">Recién eliminado</tran>
+        <tran loc="es-419">Eliminadas hace poco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3558,7 +3558,7 @@
       <Position>top left of sketching area</Position>
       <TranslationSet>
         <base loc="en">top left of sketching area</base>
-        <tran loc="es">parte superior izquierda del área de dibujo</tran>
+        <tran loc="es-419">arriba a la izquierda del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3566,7 +3566,7 @@
       <Position>Folder names can’t be blank.</Position>
       <TranslationSet>
         <base loc="en">Folder names can’t be blank.</base>
-        <tran loc="es">Los nombres de carpetas no pueden quedar en blanco.</tran>
+        <tran loc="es-419">Los nombres de carpetas no puede quedar vacíos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3574,7 +3574,7 @@
       <Position>One or more notes are locked. Enter your current password to delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">One or more notes are locked. Enter your current password to delete these locked notes.</base>
-        <tran loc="es">Hay una o varias notas bloqueadas. Introduce tu contraseña para eliminar estas notas bloqueadas.</tran>
+        <tran loc="es-419">Una o más notas están bloqueadas. Ingresa tu contraseña actual para eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3582,7 +3582,7 @@
       <Position>Tap the lock icon in the toolbar or lock your device to hide the contents of your locked notes.</Position>
       <TranslationSet>
         <base loc="en">Tap the lock icon in the toolbar or lock your device to hide the contents of your locked notes.</base>
-        <tran loc="es">Pulsa el icono del candado de la barra de herramientas o bloquea tu dispositivo para ocultar el contenido de tus notas bloqueadas.</tran>
+        <tran loc="es-419">Toca el ícono de candado en la barra o bloquea tu dispositivo para ocultar el contenido de tus notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3590,7 +3590,7 @@
       <Position>Z to A</Position>
       <TranslationSet>
         <base loc="en">Z to A</base>
-        <tran loc="es">Z-A</tran>
+        <tran loc="es-419">Z-A</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3598,7 +3598,7 @@
       <Position>Shared with %@ and %lu others</Position>
       <TranslationSet>
         <base loc="en">Shared with %1$@ and %2$lu others</base>
-        <tran loc="es">Compartida con %1$@ y con %2$lu personas más</tran>
+        <tran loc="es-419">Se comparte con %1$@ y %2$lu más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3606,7 +3606,7 @@
       <Position>Wrong Password</Position>
       <TranslationSet>
         <base loc="en">Wrong Password</base>
-        <tran loc="es">Contraseña incorrecta</tran>
+        <tran loc="es-419">Contraseña incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3614,7 +3614,7 @@
       <Position>Double tap to show sketching tools.</Position>
       <TranslationSet>
         <base loc="en">Double tap to show sketching tools.</base>
-        <tran loc="es">Pulsa dos veces para mostrar las herramientas de dibujo.</tran>
+        <tran loc="es-419">Toca dos veces para mostrar las herramientas de dibujo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3622,7 +3622,7 @@
       <Position>Saved Photo and Saved Videos</Position>
       <TranslationSet>
         <base loc="en">Saved Photo and Saved Videos</base>
-        <tran loc="es">Foto guardada y vídeos guardados</tran>
+        <tran loc="es-419">Foto guardada y videos guardados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3630,7 +3630,7 @@
       <Position>Use your fingerprint or enter your password to move this note.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter your password to move this note.</base>
-        <tran loc="es">Utiliza tu huella o introduce la contraseña para trasladar esta nota.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa tu contraseña para mover esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3638,7 +3638,7 @@
       <Position>Share</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3647,7 +3647,7 @@
       <Position>Password</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3655,7 +3655,7 @@
       <Position>On</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3663,7 +3663,7 @@
       <Position>Checked items will move to the bottom of your lists. You can change this later in Notes Preferences.</Position>
       <TranslationSet>
         <base loc="en">Checked items will move to the bottom of your lists. You can change this later in Notes Preferences.</base>
-        <tran loc="es">Los ítems marcados se colocarán al final de las listas. Puedes cambiar este ajuste más tarde en las preferencias de Notas.</tran>
+        <tran loc="es-419">Los elementos seleccionados no se moverán al final de tus listas. Puedes modificar esta configuración en las preferencias de Notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3671,7 +3671,7 @@
       <Position>Underline</Position>
       <TranslationSet>
         <base loc="en">Underline</base>
-        <tran loc="es">Subrayar</tran>
+        <tran loc="es-419">Subrayado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3679,7 +3679,7 @@
       <Position>Dashed List</Position>
       <TranslationSet>
         <base loc="en">Dashed List</base>
-        <tran loc="es">Lista con guiones</tran>
+        <tran loc="es-419">Lista con guiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3687,7 +3687,7 @@
       <Position>SETTINGS_TEXT_STYLE_DASHED_LIST</Position>
       <TranslationSet>
         <base loc="en">Dashed List</base>
-        <tran loc="es">Lista con guiones</tran>
+        <tran loc="es-419">Lista con guiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3695,7 +3695,7 @@
       <Position>To view locked notes in your “%@” account, enter its notes password.</Position>
       <TranslationSet>
         <base loc="en">To view locked notes in your “%@” account, enter its notes password.</base>
-        <tran loc="es">Para ver las notas bloqueadas de tu cuenta “%@” account, introduce la contraseña correspondiente.</tran>
+        <tran loc="es-419">Para ver las notas bloqueadas de tu cuenta “%@”, ingresa su contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3703,7 +3703,7 @@
       <Position>You changed the password for your ”%@” account. Would you like your “%@” account to use the new password? </Position>
       <TranslationSet>
         <base loc="en">You changed the password for your ”%1$@” account. Would you like your “%2$@” account to use the new password? </base>
-        <tran loc="es">Has cambiado la contraseña de la cuenta ”%1$@”. ¿Quieres que la cuenta “%2$@” use la nueva contraseña?</tran>
+        <tran loc="es-419">Cambiaste la contraseña de tu cuenta ”%1$@”. ¿Quieres que tu cuenta “%2$@” use la contraseña nueva? </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3711,7 +3711,7 @@
       <Position>white</Position>
       <TranslationSet>
         <base loc="en">white</base>
-        <tran loc="es">blanco</tran>
+        <tran loc="es-419">blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3719,7 +3719,7 @@
       <Position>Show ruler</Position>
       <TranslationSet>
         <base loc="en">Show ruler</base>
-        <tran loc="es">Mostrar regla</tran>
+        <tran loc="es-419">Mostrar regla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3727,7 +3727,7 @@
       <Position>Sorted by Date Edited</Position>
       <TranslationSet>
         <base loc="en">Sorted by Date Edited</base>
-        <tran loc="es">Ordenadas por fecha de edición</tran>
+        <tran loc="es-419">Ordenadas por fecha de edición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3735,7 +3735,7 @@
       <Position>Update Password?</Position>
       <TranslationSet>
         <base loc="en">Update Password?</base>
-        <tran loc="es">¿Actualizar contraseña?</tran>
+        <tran loc="es-419">¿Actualizar contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3743,7 +3743,7 @@
       <Position>Lock Removed</Position>
       <TranslationSet>
         <base loc="en">Lock Removed</base>
-        <tran loc="es">Candado eliminado</tran>
+        <tran loc="es-419">Desbloqueada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3751,7 +3751,7 @@
       <Position>Note</Position>
       <TranslationSet>
         <base loc="en">Note</base>
-        <tran loc="es">Nota</tran>
+        <tran loc="es-419">Nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3759,7 +3759,7 @@
       <Position>Handwritten note</Position>
       <TranslationSet>
         <base loc="en">Handwritten note</base>
-        <tran loc="es">Nota escrita a mano</tran>
+        <tran loc="es-419">Nota a mano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3767,7 +3767,7 @@
       <Position>Marker selected</Position>
       <TranslationSet>
         <base loc="en">Marker selected</base>
-        <tran loc="es">Marcador seleccionado</tran>
+        <tran loc="es-419">Se seleccionó el marcador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3775,7 +3775,7 @@
       <Position>Show sketching tools</Position>
       <TranslationSet>
         <base loc="en">Show sketching tools</base>
-        <tran loc="es">Mostrar herramientas de dibujo</tran>
+        <tran loc="es-419">Mostrar herramientas de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3783,7 +3783,7 @@
       <Position>Use Touch ID</Position>
       <TranslationSet>
         <base loc="en">Use Touch ID</base>
-        <tran loc="es">Usar Touch ID</tran>
+        <tran loc="es-419">Usar Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3791,7 +3791,7 @@
       <Position>Edited</Position>
       <TranslationSet>
         <base loc="en">Edited</base>
-        <tran loc="es">Fecha de edición</tran>
+        <tran loc="es-419">Editada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3799,7 +3799,7 @@
       <Position>Unmasked</Position>
       <TranslationSet>
         <base loc="en">Unmasked</base>
-        <tran loc="es">Desenmascarado</tran>
+        <tran loc="es-419">Sin máscara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3807,7 +3807,7 @@
       <Position>A to Z</Position>
       <TranslationSet>
         <base loc="en">A to Z</base>
-        <tran loc="es">A-Z</tran>
+        <tran loc="es-419">A-Z</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3815,7 +3815,7 @@
       <Position>bottom right of sketching area</Position>
       <TranslationSet>
         <base loc="en">bottom right of sketching area</base>
-        <tran loc="es">parte inferior derecha del área de dibujo</tran>
+        <tran loc="es-419">abajo a la derecha del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3823,7 +3823,7 @@
       <Position>One or more notes are locked. Use your fingerprint or enter the notes password for your “%@” account to delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">One or more notes are locked. Use your fingerprint or enter the notes password for your “%@” account to delete these locked notes.</base>
-        <tran loc="es">Hay una o varias notas bloqueadas. Usa tu huella digital o introduce la contraseña de Notas de la cuenta “%@” para eliminar estas notas bloqueadas.</tran>
+        <tran loc="es-419">Una o más notas están bloqueadas. Usa tu huella o ingresa la contraseña de las notas de tu cuenta "%@" para eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3831,7 +3831,7 @@
       <Position>Grayscale colors</Position>
       <TranslationSet>
         <base loc="en">Grayscale colors</base>
-        <tran loc="es">Colores de la escala de grises</tran>
+        <tran loc="es-419">Escala de grises</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3839,7 +3839,7 @@
       <Position>To view locked notes, enter the notes password.</Position>
       <TranslationSet>
         <base loc="en">To view locked notes, enter the notes password.</base>
-        <tran loc="es">Para ver las notas bloqueadas, introduce la contraseña correspondiente.</tran>
+        <tran loc="es-419">Para ver las notas bloqueadas, ingresa su contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3847,7 +3847,7 @@
       <Position>zero seconds</Position>
       <TranslationSet>
         <base loc="en">zero seconds</base>
-        <tran loc="es">cero segundos</tran>
+        <tran loc="es-419">cero segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3855,7 +3855,7 @@
       <Position>Dark colors</Position>
       <TranslationSet>
         <base loc="en">Dark colors</base>
-        <tran loc="es">Colores oscuros</tran>
+        <tran loc="es-419">Colores obscuros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3863,7 +3863,7 @@
       <Position>Default (Title)</Position>
       <TranslationSet>
         <base loc="en">Default (Title)</base>
-        <tran loc="es">Por omisión (título)</tran>
+        <tran loc="es-419">Predeterminado (título)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3871,7 +3871,7 @@
       <Position>This account doesn’t support locked notes.</Position>
       <TranslationSet>
         <base loc="en">This account doesn’t support locked notes.</base>
-        <tran loc="es">Esta cuenta no admite notas bloqueadas.</tran>
+        <tran loc="es-419">Esta cuenta no admite notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3879,7 +3879,7 @@
       <Position>Shared by %@</Position>
       <TranslationSet>
         <base loc="en">Shared by %@</base>
-        <tran loc="es">Compartido por %@</tran>
+        <tran loc="es-419">Contenido compartido por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3887,7 +3887,7 @@
       <Position>Use your fingerprint or enter the notes password for your “%@” account to view its locked notes.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter the notes password for your “%@” account to view its locked notes.</base>
-        <tran loc="es">Usa tu huella digital o introduce la contraseña de Notas de la cuenta “%@” para ver sus notas bloqueadas.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa la contraseña de las notas de tu cuenta "%@" para ver sus notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3895,7 +3895,7 @@
       <Position>Folder names can’t be longer than %d characters.</Position>
       <TranslationSet>
         <base loc="en">Folder names can’t be longer than %d characters.</base>
-        <tran loc="es">Los nombres de carpetas no pueden tener más de %d caracteres.</tran>
+        <tran loc="es-419">Los nombres de carpeta no pueden superar los %d caracteres.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3903,7 +3903,7 @@
       <Position>Try again or enter the notes password for your “%@” account.</Position>
       <TranslationSet>
         <base loc="en">Try again or enter the notes password for your “%@” account.</base>
-        <tran loc="es">Inténtalo de nuevo o introduce la contraseña de Notas de tu cuenta “%@”.</tran>
+        <tran loc="es-419">Reintenta o ingresa la contraseña de las notas de tu cuenta "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3912,7 +3912,7 @@
       <Position>Date Created</Position>
       <TranslationSet>
         <base loc="en">Date Created</base>
-        <tran loc="es">Fecha de creación</tran>
+        <tran loc="es-419">Fecha de creación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3920,7 +3920,7 @@
       <Position>SORT_BY_DATE_CREATED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Date Created</base>
-        <tran loc="es">Fecha de creación</tran>
+        <tran loc="es-419">Fecha de creación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3928,7 +3928,7 @@
       <Position>Change Password</Position>
       <TranslationSet>
         <base loc="en">Change Password</base>
-        <tran loc="es">Cambiar contraseña</tran>
+        <tran loc="es-419">Cambiar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3936,7 +3936,7 @@
       <Position>Confirm Password</Position>
       <TranslationSet>
         <base loc="en">Confirm Password</base>
-        <tran loc="es">Confirmar contraseña</tran>
+        <tran loc="es-419">Confirmar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3944,7 +3944,7 @@
       <Position>Add Sketch</Position>
       <TranslationSet>
         <base loc="en">Add Sketch</base>
-        <tran loc="es">Añadir dibujo</tran>
+        <tran loc="es-419">Agregar dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3952,7 +3952,7 @@
       <Position>cyan</Position>
       <TranslationSet>
         <base loc="en">cyan</base>
-        <tran loc="es">cian</tran>
+        <tran loc="es-419">cian</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3960,7 +3960,7 @@
       <Position>ax.color.format.lightness.hue</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%2$@ %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3968,7 +3968,7 @@
       <Position>ax.color.format.saturation.hue</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%2$@ %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3976,7 +3976,7 @@
       <Position>sketching area</Position>
       <TranslationSet>
         <base loc="en">sketching area</base>
-        <tran loc="es">área de dibujo</tran>
+        <tran loc="es-419">área para dibujar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3984,7 +3984,7 @@
       <Position>Would you like checked items to automatically move to the bottom of your lists? You can change this later in Notes Settings.</Position>
       <TranslationSet>
         <base loc="en">Would you like checked items to automatically move to the bottom of your lists? You can change this later in Notes Settings.</base>
-        <tran loc="es">¿Quieres que los ítems marcados se coloquen automáticamente al final de tus listas? Puedes cambiar esta configuración en los ajustes de Notas más tarde.</tran>
+        <tran loc="es-419">¿Quieres que los elementos seleccionados se muevan automáticamente al final de tus listas? Puedes modificar esta configuración en las preferencias de Notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3992,7 +3992,7 @@
       <Position>One or more notes are locked. Enter the notes password for your “%@” account to delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">One or more notes are locked. Enter the notes password for your “%@” account to delete these locked notes.</base>
-        <tran loc="es">Hay una o varias notas bloqueadas. Introduce la contraseña de Notas de tu cuenta “%@” para eliminar estas notas bloqueadas.</tran>
+        <tran loc="es-419">Una o más notas están bloqueadas. Ingresa la contraseña de notas de tu cuenta “%@” para eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4000,7 +4000,7 @@
       <Position>bottom left of sketching area</Position>
       <TranslationSet>
         <base loc="en">bottom left of sketching area</base>
-        <tran loc="es">parte inferior izquierda del área de dibujo</tran>
+        <tran loc="es-419">abajo a la izquierda del área de dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4010,7 +4010,7 @@
       <Position>Notes</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4018,7 +4018,7 @@
       <Position>Swipe with two fingers to move between sketches.</Position>
       <TranslationSet>
         <base loc="en">Swipe with two fingers to move between sketches.</base>
-        <tran loc="es">Desliza con dos dedos para desplazarte por los dibujos.</tran>
+        <tran loc="es-419">Hojea los dibujos deslizando con dos dedos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4026,7 +4026,7 @@
       <Position>Use your fingerprint or enter the notes password for your “%@” account to lock this note.</Position>
       <TranslationSet>
         <base loc="en">Use your fingerprint or enter the notes password for your “%@” account to lock this note.</base>
-        <tran loc="es">Usa tu huella digital o introduce la contraseña de Notas de la cuenta “%@” para bloquear esta nota.</tran>
+        <tran loc="es-419">Usa tu huella o ingresa la contraseña de las notas de tu cuenta "%@" para bloquear esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4034,7 +4034,7 @@
       <Position>sketch attachment</Position>
       <TranslationSet>
         <base loc="en">sketch attachment</base>
-        <tran loc="es">dibujo adjunto</tran>
+        <tran loc="es-419">bosquejo adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4042,7 +4042,7 @@
       <Position>%ld. Numbered List</Position>
       <TranslationSet>
         <base loc="en">%ld. Numbered List</base>
-        <tran loc="es">%ld. Lista numerada</tran>
+        <tran loc="es-419">%ld lista numerada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4050,7 +4050,7 @@
       <Position>audio attachment</Position>
       <TranslationSet>
         <base loc="en">audio attachment</base>
-        <tran loc="es">archivo adjunto de audio</tran>
+        <tran loc="es-419">audio adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4058,7 +4058,7 @@
       <Position>website attachment</Position>
       <TranslationSet>
         <base loc="en">website attachment</base>
-        <tran loc="es">sitio web adjunto</tran>
+        <tran loc="es-419">sitio de Internet adjunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4066,7 +4066,7 @@
       <Position>All Accounts</Position>
       <TranslationSet>
         <base loc="en">All Accounts</base>
-        <tran loc="es">Todas las cuentas</tran>
+        <tran loc="es-419">Todas las cuentas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4075,7 +4075,7 @@
       <Position>Default</Position>
       <TranslationSet>
         <base loc="en">Default</base>
-        <tran loc="es">Por omisión</tran>
+        <tran loc="es-419">Predeterminada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4083,7 +4083,7 @@
       <Position>blue</Position>
       <TranslationSet>
         <base loc="en">blue</base>
-        <tran loc="es">azul</tran>
+        <tran loc="es-419">azul</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4091,7 +4091,7 @@
       <Position>Upgrade macOS to view this attachment.</Position>
       <TranslationSet>
         <base loc="en">Upgrade macOS to view this attachment.</base>
-        <tran loc="es">Actualiza macOS para ver este archivo adjunto.</tran>
+        <tran loc="es-419">Actualiza macOS para ver este archivo adjunto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4099,7 +4099,7 @@
       <Position>Horizontal lines with small line spacing</Position>
       <TranslationSet>
         <base loc="en">Horizontal lines with small line spacing</base>
-        <tran loc="es">Líneas horizontales con interlineado pequeño</tran>
+        <tran loc="es-419">Líneas horizontales con espacio reducido entre ellas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4107,7 +4107,7 @@
       <Position>Pencil Stroke</Position>
       <TranslationSet>
         <base loc="en">Pencil Stroke</base>
-        <tran loc="es">Trazo de lápiz</tran>
+        <tran loc="es-419">Trazo de lápiz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4115,7 +4115,7 @@
       <Position>Enable Automatic Sorting?</Position>
       <TranslationSet>
         <base loc="en">Enable Automatic Sorting?</base>
-        <tran loc="es">¿Activar la ordenación automática?</tran>
+        <tran loc="es-419">¿Desactivar la ordenación automática?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4123,7 +4123,7 @@
       <Position>You’ve entered your “%@” password. Enter your “%@” password.</Position>
       <TranslationSet>
         <base loc="en">You’ve entered your “%1$@” password. Enter your “%2$@” password.</base>
-        <tran loc="es">Has introducido la contraseña de “%1$@”. Introduce la contraseña de “%2$@”.</tran>
+        <tran loc="es-419">Ingresaste la contraseña de “%1$@”. Ingresa la de “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4131,7 +4131,7 @@
       <Position>Scan</Position>
       <TranslationSet>
         <base loc="en">Scan</base>
-        <tran loc="es">Archivo escaneado</tran>
+        <tran loc="es-419">Documento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4139,7 +4139,7 @@
       <Position>Pen Stroke</Position>
       <TranslationSet>
         <base loc="en">Pen Stroke</base>
-        <tran loc="es">Trazo de bolígrafo</tran>
+        <tran loc="es-419">Trazo de pluma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4147,7 +4147,7 @@
       <Position>Checklist</Position>
       <TranslationSet>
         <base loc="en">Checklist</base>
-        <tran loc="es">Lista</tran>
+        <tran loc="es-419">Lista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4155,7 +4155,7 @@
       <Position>SETTINGS_TEXT_STYLE_CHECKLIST</Position>
       <TranslationSet>
         <base loc="en">Checklist</base>
-        <tran loc="es">Lista</tran>
+        <tran loc="es-419">Lista de control</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4163,7 +4163,7 @@
       <Position>Document</Position>
       <TranslationSet>
         <base loc="en">Document</base>
-        <tran loc="es">Documento</tran>
+        <tran loc="es-419">Documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4171,7 +4171,7 @@
       <Position>Please try again.</Position>
       <TranslationSet>
         <base loc="en">Please try again.</base>
-        <tran loc="es">Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4179,7 +4179,7 @@
       <Position>Color chooser page control</Position>
       <TranslationSet>
         <base loc="en">Color chooser page control</base>
-        <tran loc="es">Control de página del selector de color</tran>
+        <tran loc="es-419">Control de página del selector de color</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4187,7 +4187,7 @@
       <Position>Enter your current password to delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">Enter your current password to delete these locked notes.</base>
-        <tran loc="es">Introduce la contraseña actual para eliminar estas notas bloqueadas.</tran>
+        <tran loc="es-419">Ingresa tu contraseña actual para eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4195,7 +4195,7 @@
       <Position>To lock this note, enter the notes password for your “%@” account.</Position>
       <TranslationSet>
         <base loc="en">To lock this note, enter the notes password for your “%@” account.</base>
-        <tran loc="es">Para bloquear esta nota, introduce la contraseña de Notas de tu cuenta “%@”.</tran>
+        <tran loc="es-419">Para bloquear esta nota, ingresa la contraseña de las notas de tu cuenta "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4203,7 +4203,7 @@
       <Position>Sketch %ld of %lu</Position>
       <TranslationSet>
         <base loc="en">Sketch %1$ld of %2$lu</base>
-        <tran loc="es">Dibujo %1$ld de %2$lu</tran>
+        <tran loc="es-419">Dibujo (%1$ld de %2$lu)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4211,7 +4211,7 @@
       <Position>Delete these locked notes.</Position>
       <TranslationSet>
         <base loc="en">Delete these locked notes.</base>
-        <tran loc="es">Elimina estas notas bloqueadas.</tran>
+        <tran loc="es-419">Eliminar estas notas bloqueadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4219,7 +4219,7 @@
       <Position>Marker tool</Position>
       <TranslationSet>
         <base loc="en">Marker tool</base>
-        <tran loc="es">Herramienta Marcador</tran>
+        <tran loc="es-419">Marcador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4227,7 +4227,7 @@
       <Position>Use New Password</Position>
       <TranslationSet>
         <base loc="en">Use New Password</base>
-        <tran loc="es">Usar nueva contraseña</tran>
+        <tran loc="es-419">Usar contraseña nueva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4235,7 +4235,7 @@
       <Position>NOTE_SNIPPET_UNLOCKED</Position>
       <TranslationSet>
         <base loc="en">Unlocked</base>
-        <tran loc="es">Desbloqueada</tran>
+        <tran loc="es-419">Desbloqueada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4243,7 +4243,7 @@
       <Position>Off</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4251,7 +4251,7 @@
       <Position>QUOTED_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">“%@”</base>
-        <tran loc="es">“%@”</tran>
+        <tran loc="es-419">“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4259,7 +4259,7 @@
       <Position>Pause</Position>
       <TranslationSet>
         <base loc="en">Pause</base>
-        <tran loc="es">Pausa</tran>
+        <tran loc="es-419">Pausa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4268,7 +4268,7 @@
       <Position>Can’t Lock Note</Position>
       <TranslationSet>
         <base loc="en">Can’t Lock Note</base>
-        <tran loc="es">No se puede bloquear la nota</tran>
+        <tran loc="es-419">No se puede bloquear la nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4278,7 +4278,7 @@
       <Position>Table</Position>
       <TranslationSet>
         <base loc="en">Table</base>
-        <tran loc="es">Tabla</tran>
+        <tran loc="es-419">Tabla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4286,7 +4286,7 @@
       <Position>Keep Existing Password</Position>
       <TranslationSet>
         <base loc="en">Keep Existing Password</base>
-        <tran loc="es">Conservar contraseña actual</tran>
+        <tran loc="es-419">Conservar contraseña existente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4294,7 +4294,7 @@
       <Position>Exchange accounts don’t support attachments.</Position>
       <TranslationSet>
         <base loc="en">Exchange accounts don’t support attachments.</base>
-        <tran loc="es">Las cuentas Exchange no permiten archivos adjuntos.</tran>
+        <tran loc="es-419">Las cuentas de Exchange no admiten archivos adjuntos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -4302,7 +4302,7 @@
       <Position>vibrant</Position>
       <TranslationSet>
         <base loc="en">vibrant</base>
-        <tran loc="es">brillante</tran>
+        <tran loc="es-419">colorido</tran>
       </TranslationSet>
     </TextItem>
   </File>

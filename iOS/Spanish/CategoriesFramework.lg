@@ -8,7 +8,7 @@
       <Position>Productivity</Position>
       <TranslationSet>
         <base loc="en">Productivity</base>
-        <tran loc="es">Productividad</tran>
+        <tran loc="es-419">Productividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Productivity_Short</Position>
       <TranslationSet>
         <base loc="en">Productivity</base>
-        <tran loc="es">Productividad</tran>
+        <tran loc="es-419">Productividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>System Applications</Position>
       <TranslationSet>
         <base loc="en">System Applications</base>
-        <tran loc="es">Aplicaciones del sistema</tran>
+        <tran loc="es-419">Aplicaciones del sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>Games</Position>
       <TranslationSet>
         <base loc="en">Games</base>
-        <tran loc="es">Juegos</tran>
+        <tran loc="es-419">Juegos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>Games_Short</Position>
       <TranslationSet>
         <base loc="en">Games</base>
-        <tran loc="es">Juegos</tran>
+        <tran loc="es-419">Juegos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>Reading &amp; Reference</Position>
       <TranslationSet>
         <base loc="en">Reading &amp; Reference</base>
-        <tran loc="es">Lectura y consulta</tran>
+        <tran loc="es-419">Lectura y referencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>Reading &amp; Reference_Short</Position>
       <TranslationSet>
         <base loc="en">Reading &amp; Reference</base>
-        <tran loc="es">Lectura y consulta</tran>
+        <tran loc="es-419">Lectura y referencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>Social Networking</Position>
       <TranslationSet>
         <base loc="en">Social Networking</base>
-        <tran loc="es">Redes sociales</tran>
+        <tran loc="es-419">Redes sociales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>Social Networking_Short</Position>
       <TranslationSet>
         <base loc="en">Social Networking</base>
-        <tran loc="es">Redes sociales</tran>
+        <tran loc="es-419">Redes sociales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>System Blockable Applications</Position>
       <TranslationSet>
         <base loc="en">System Blockable Applications</base>
-        <tran loc="es">Aplicaciones bloqueables del sistema</tran>
+        <tran loc="es-419">Aplicaciones del sistema que se pueden bloquear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>Creativity</Position>
       <TranslationSet>
         <base loc="en">Creativity</base>
-        <tran loc="es">Creatividad</tran>
+        <tran loc="es-419">Creatividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>Creativity_Short</Position>
       <TranslationSet>
         <base loc="en">Creativity</base>
-        <tran loc="es">Creatividad</tran>
+        <tran loc="es-419">Creatividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>Health &amp; Fitness</Position>
       <TranslationSet>
         <base loc="en">Health &amp; Fitness</base>
-        <tran loc="es">Salud y forma física</tran>
+        <tran loc="es-419">Salud y condición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>Health &amp; Fitness_Short</Position>
       <TranslationSet>
         <base loc="en">Health &amp; Fitness</base>
-        <tran loc="es">Salud y forma física</tran>
+        <tran loc="es-419">Salud y condición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>Entertainment</Position>
       <TranslationSet>
         <base loc="en">Entertainment</base>
-        <tran loc="es">Entretenimiento</tran>
+        <tran loc="es-419">Ocio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>Entertainment_Short</Position>
       <TranslationSet>
         <base loc="en">Entertainment</base>
-        <tran loc="es">Entretenimiento</tran>
+        <tran loc="es-419">Ocio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>System Hidden Applications</Position>
       <TranslationSet>
         <base loc="en">System Hidden Applications</base>
-        <tran loc="es">Aplicaciones ocultas del sistema</tran>
+        <tran loc="es-419">Aplicaciones del sistema ocultas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>System Applications_Short</Position>
       <TranslationSet>
         <base loc="en">System</base>
-        <tran loc="es">Sistema</tran>
+        <tran loc="es-419">Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>System Blockable Applications_Short</Position>
       <TranslationSet>
         <base loc="en">System</base>
-        <tran loc="es">Sistema</tran>
+        <tran loc="es-419">Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>System Hidden Applications_Short</Position>
       <TranslationSet>
         <base loc="en">System</base>
-        <tran loc="es">Sistema</tran>
+        <tran loc="es-419">Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>System Unblockable Applications_Short</Position>
       <TranslationSet>
         <base loc="en">System</base>
-        <tran loc="es">Sistema</tran>
+        <tran loc="es-419">Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>Education</Position>
       <TranslationSet>
         <base loc="en">Education</base>
-        <tran loc="es">Formación</tran>
+        <tran loc="es-419">Educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>Education_Short</Position>
       <TranslationSet>
         <base loc="en">Education</base>
-        <tran loc="es">Formación</tran>
+        <tran loc="es-419">Educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>System Unblockable Applications</Position>
       <TranslationSet>
         <base loc="en">System Unblockable Applications</base>
-        <tran loc="es">Aplicaciones desbloqueables del sistema</tran>
+        <tran loc="es-419">Aplicaciones del sistema que se pueden desbloquear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>Other</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otros</tran>
+        <tran loc="es-419">Etc.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>Other_Short</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otros</tran>
+        <tran loc="es-419">Etc.</tran>
       </TranslationSet>
     </TextItem>
   </File>

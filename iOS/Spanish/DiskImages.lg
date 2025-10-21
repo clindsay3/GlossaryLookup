@@ -8,7 +8,7 @@
       <Position>No child processes</Position>
       <TranslationSet>
         <base loc="en">No child processes</base>
-        <tran loc="es">No hay procesos secundarios</tran>
+        <tran loc="es-419">No hay procesos secundarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Authentication error</Position>
       <TranslationSet>
         <base loc="en">Authentication error</base>
-        <tran loc="es">Error de autenticación</tran>
+        <tran loc="es-419">Error de autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Protocol not available</Position>
       <TranslationSet>
         <base loc="en">Protocol not available</base>
-        <tran loc="es">Protocolo no disponible</tran>
+        <tran loc="es-419">Protocolo no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Previous owner died</Position>
       <TranslationSet>
         <base loc="en">Previous owner died</base>
-        <tran loc="es">El propietario anterior ha muerto</tran>
+        <tran loc="es-419">El propietario anterior murió</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Too many links</Position>
       <TranslationSet>
         <base loc="en">Too many links</base>
-        <tran loc="es">Demasiados enlaces</tran>
+        <tran loc="es-419">Demasiados enlaces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Software caused connection abort</Position>
       <TranslationSet>
         <base loc="en">Software caused connection abort</base>
-        <tran loc="es">El software ha causado la anulación de la conexión</tran>
+        <tran loc="es-419">El software causó la anulación de la conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Not a directory</Position>
       <TranslationSet>
         <base loc="en">Not a directory</base>
-        <tran loc="es">No es un directorio</tran>
+        <tran loc="es-419">No es un directorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Malformed Mach-o file</Position>
       <TranslationSet>
         <base loc="en">Malformed Mach-o file</base>
-        <tran loc="es">Archivo mach-o erróneo</tran>
+        <tran loc="es-419">Archivo mach-o erróneo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Protocol wrong type for socket</Position>
       <TranslationSet>
         <base loc="en">Protocol wrong type for socket</base>
-        <tran loc="es">Tipo de protocolo incorrecto para el conector</tran>
+        <tran loc="es-419">Tipo de protocolo incorrecto para el conector</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Directory not empty</Position>
       <TranslationSet>
         <base loc="en">Directory not empty</base>
-        <tran loc="es">El directorio no está vacío</tran>
+        <tran loc="es-419">El directorio no está vacío</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Program version wrong</Position>
       <TranslationSet>
         <base loc="en">Program version wrong</base>
-        <tran loc="es">Versión del programa incorrecta</tran>
+        <tran loc="es-419">Versión del programa incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Operation not supported</Position>
       <TranslationSet>
         <base loc="en">Operation not supported</base>
-        <tran loc="es">Operación no admitida</tran>
+        <tran loc="es-419">Operación no admitida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Socket is already connected</Position>
       <TranslationSet>
         <base loc="en">Socket is already connected</base>
-        <tran loc="es">Conector ya conectado</tran>
+        <tran loc="es-419">Conector ya conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Invalid argument</Position>
       <TranslationSet>
         <base loc="en">Invalid argument</base>
-        <tran loc="es">Argumento no válido</tran>
+        <tran loc="es-419">Argumento no válido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Resource deadlock avoided</Position>
       <TranslationSet>
         <base loc="en">Resource deadlock avoided</base>
-        <tran loc="es">Bloqueo del recurso evitado</tran>
+        <tran loc="es-419">Bloqueo del recurso evitado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Not a STREAM</Position>
       <TranslationSet>
         <base loc="en">Not a STREAM</base>
-        <tran loc="es">Ninguna secuencia</tran>
+        <tran loc="es-419">Ninguna secuencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>Too many levels of remote in path</Position>
       <TranslationSet>
         <base loc="en">Too many levels of remote in path</base>
-        <tran loc="es">Demasiados niveles remotos en la ruta</tran>
+        <tran loc="es-419">Demasiados niveles remotos en la ruta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>Value too large to be stored in data type</Position>
       <TranslationSet>
         <base loc="en">Value too large to be stored in data type</base>
-        <tran loc="es">Valor demasiado grande para guardarlo en el tipo de datos</tran>
+        <tran loc="es-419">Valor demasiado grande para guardarlo en el tipo de datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Cross-device link</Position>
       <TranslationSet>
         <base loc="en">Cross-device link</base>
-        <tran loc="es">Enlace de dispositivo cruzado</tran>
+        <tran loc="es-419">Enlace de dispositivo cruzado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>File name too long</Position>
       <TranslationSet>
         <base loc="en">File name too long</base>
-        <tran loc="es">Nombre de archivo demasiado largo</tran>
+        <tran loc="es-419">Nombre de archivo demasiado largo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>File too large</Position>
       <TranslationSet>
         <base loc="en">File too large</base>
-        <tran loc="es">Archivo demasiado grande</tran>
+        <tran loc="es-419">Archivo demasiado grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>No space left on device</Position>
       <TranslationSet>
         <base loc="en">No space left on device</base>
-        <tran loc="es">No queda espacio en el dispositivo</tran>
+        <tran loc="es-419">No queda espacio en el dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>Shared library version mismatch</Position>
       <TranslationSet>
         <base loc="en">Shared library version mismatch</base>
-        <tran loc="es">No coincide la versión de la biblioteca compartida</tran>
+        <tran loc="es-419">No coincide la versión de la biblioteca compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>RPC struct is bad</Position>
       <TranslationSet>
         <base loc="en">RPC struct is bad</base>
-        <tran loc="es">Estructura RPC errónea</tran>
+        <tran loc="es-419">Estructura RPC errónea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>Operation timed out</Position>
       <TranslationSet>
         <base loc="en">Operation timed out</base>
-        <tran loc="es">Tiempo para la operación agotado</tran>
+        <tran loc="es-419">Tiempo para la operación agotado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>Resource busy</Position>
       <TranslationSet>
         <base loc="en">Resource busy</base>
-        <tran loc="es">Recurso ocupado</tran>
+        <tran loc="es-419">Recurso ocupado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>Operation not supported by device</Position>
       <TranslationSet>
         <base loc="en">Operation not supported by device</base>
-        <tran loc="es">Operación no admitida por el dispositivo</tran>
+        <tran loc="es-419">Operación no admitida por el dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Device error</Position>
       <TranslationSet>
         <base loc="en">Device error</base>
-        <tran loc="es">Error del dispositivo</tran>
+        <tran loc="es-419">Error del dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>Operation now in progress</Position>
       <TranslationSet>
         <base loc="en">Operation now in progress</base>
-        <tran loc="es">Operación en curso</tran>
+        <tran loc="es-419">Operación en curso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>Argument list too long</Position>
       <TranslationSet>
         <base loc="en">Argument list too long</base>
-        <tran loc="es">Lista de argumentos demasiado larga</tran>
+        <tran loc="es-419">Lista de argumentos demasiado larga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>error %1$d</Position>
       <TranslationSet>
         <base loc="en">error %1$d</base>
-        <tran loc="es">error %1$d</tran>
+        <tran loc="es-419">error %1$d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>Device power is off</Position>
       <TranslationSet>
         <base loc="en">Device power is off</base>
-        <tran loc="es">La alimentación del dispositivo está apagada</tran>
+        <tran loc="es-419">La alimentación del dispositivo está apagada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>Bad procedure for program</Position>
       <TranslationSet>
         <base loc="en">Bad procedure for program</base>
-        <tran loc="es">Procedimiento de programa erróneo</tran>
+        <tran loc="es-419">Procedimiento de programa erróneo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>Socket type not supported</Position>
       <TranslationSet>
         <base loc="en">Socket type not supported</base>
-        <tran loc="es">Tipo de conector incompatible</tran>
+        <tran loc="es-419">Tipo de conector incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>Address family not supported by protocol family</Position>
       <TranslationSet>
         <base loc="en">Address family not supported by protocol family</base>
-        <tran loc="es">La familia de direcciones no es compatible con la familia de protocolos</tran>
+        <tran loc="es-419">La familia de direcciones no es compatible con la familia de protocolos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>Too many processes</Position>
       <TranslationSet>
         <base loc="en">Too many processes</base>
-        <tran loc="es">Demasiados procesos</tran>
+        <tran loc="es-419">Demasiados procesos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>Input/output error</Position>
       <TranslationSet>
         <base loc="en">Input/output error</base>
-        <tran loc="es">Error de entrada/salida</tran>
+        <tran loc="es-419">Error de entrada/salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>Protocol family not supported</Position>
       <TranslationSet>
         <base loc="en">Protocol family not supported</base>
-        <tran loc="es">Familia de protocolos incompatible</tran>
+        <tran loc="es-419">Familia de protocolos incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>Block device required</Position>
       <TranslationSet>
         <base loc="en">Block device required</base>
-        <tran loc="es">Se necesita un dispositivo de bloqueo</tran>
+        <tran loc="es-419">Se necesita un dispositivo de bloqueo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>Numerical argument out of domain</Position>
       <TranslationSet>
         <base loc="en">Numerical argument out of domain</base>
-        <tran loc="es">Argumento numérico fuera de dominio</tran>
+        <tran loc="es-419">Argumento numérico fuera de dominio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>Connection refused</Position>
       <TranslationSet>
         <base loc="en">Connection refused</base>
-        <tran loc="es">Conexión rechazada</tran>
+        <tran loc="es-419">Conexión rechazada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>Can't send after socket shutdown</Position>
       <TranslationSet>
         <base loc="en">Can't send after socket shutdown</base>
-        <tran loc="es">No se puede enviar tras apagar el conector</tran>
+        <tran loc="es-419">No se puede enviar después de apagar el conector</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>Result too large</Position>
       <TranslationSet>
         <base loc="en">Result too large</base>
-        <tran loc="es">Resultado demasiado grande</tran>
+        <tran loc="es-419">Resultado demasiado grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>Connection reset by peer</Position>
       <TranslationSet>
         <base loc="en">Connection reset by peer</base>
-        <tran loc="es">Conexión restablecida por el interlocutor</tran>
+        <tran loc="es-419">Conexión restablecida por el interlocutor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>error %1$#x</Position>
       <TranslationSet>
         <base loc="en">error %1$#x</base>
-        <tran loc="es">error %1$#x</tran>
+        <tran loc="es-419">error %1$#x</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>Message too long</Position>
       <TranslationSet>
         <base loc="en">Message too long</base>
-        <tran loc="es">Mensaje demasiado largo</tran>
+        <tran loc="es-419">Mensaje demasiado largo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>Can't assign requested address</Position>
       <TranslationSet>
         <base loc="en">Can't assign requested address</base>
-        <tran loc="es">No se puede asignar la dirección solicitada</tran>
+        <tran loc="es-419">No se puede asignar la dirección solicitada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>Permission denied</Position>
       <TranslationSet>
         <base loc="en">Permission denied</base>
-        <tran loc="es">Permiso denegado</tran>
+        <tran loc="es-419">Permiso denegado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>Host is down</Position>
       <TranslationSet>
         <base loc="en">Host is down</base>
-        <tran loc="es">Host fuera de servicio</tran>
+        <tran loc="es-419">Servidor fuera de servicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>No STREAM resources</Position>
       <TranslationSet>
         <base loc="en">No STREAM resources</base>
-        <tran loc="es">Ningún recurso de secuencia</tran>
+        <tran loc="es-419">Ningún recurso de secuencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>Need authenticator</Position>
       <TranslationSet>
         <base loc="en">Need authenticator</base>
-        <tran loc="es">Autenticador necesario</tran>
+        <tran loc="es-419">Autenticador necesario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>Resource temporarily unavailable</Position>
       <TranslationSet>
         <base loc="en">Resource temporarily unavailable</base>
-        <tran loc="es">Recurso no disponible temporalmente</tran>
+        <tran loc="es-419">Recurso no disponible temporalmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>EMULTIHOP (Reserved)</Position>
       <TranslationSet>
         <base loc="en">EMULTIHOP (Reserved)</base>
-        <tran loc="es">EMULTIHOP (reservado)</tran>
+        <tran loc="es-419">EMULTIHOP (reservado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>No route to host</Position>
       <TranslationSet>
         <base loc="en">No route to host</base>
-        <tran loc="es">No hay ruta al host</tran>
+        <tran loc="es-419">No hay ruta al servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>Function not implemented</Position>
       <TranslationSet>
         <base loc="en">Function not implemented</base>
-        <tran loc="es">Función no implementada</tran>
+        <tran loc="es-419">Función no implementada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>RPC prog. not avail</Position>
       <TranslationSet>
         <base loc="en">RPC prog. not avail</base>
-        <tran loc="es">Programa RPC no disponible</tran>
+        <tran loc="es-419">Programa RPC no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>Text file busy</Position>
       <TranslationSet>
         <base loc="en">Text file busy</base>
-        <tran loc="es">Archivo de texto no disponible</tran>
+        <tran loc="es-419">Archivo de texto no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>ENOLINK (Reserved)</Position>
       <TranslationSet>
         <base loc="en">ENOLINK (Reserved)</base>
-        <tran loc="es">ENOLINK (reservado)</tran>
+        <tran loc="es-419">ENOLINK (reservado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>Interrupted system call</Position>
       <TranslationSet>
         <base loc="en">Interrupted system call</base>
-        <tran loc="es">Llamada del sistema interrumpida</tran>
+        <tran loc="es-419">Llamada del sistema interrumpida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>Identifier removed</Position>
       <TranslationSet>
         <base loc="en">Identifier removed</base>
-        <tran loc="es">Identificador eliminado</tran>
+        <tran loc="es-419">Identificador eliminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>Network is down</Position>
       <TranslationSet>
         <base loc="en">Network is down</base>
-        <tran loc="es">Red fuera de servicio</tran>
+        <tran loc="es-419">Red fuera de servicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>Too many users</Position>
       <TranslationSet>
         <base loc="en">Too many users</base>
-        <tran loc="es">Demasiados usuarios</tran>
+        <tran loc="es-419">Demasiados usuarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>Interface output queue is full</Position>
       <TranslationSet>
         <base loc="en">Interface output queue is full</base>
-        <tran loc="es">La cola de salida de la interfaz está llena</tran>
+        <tran loc="es-419">La cola de salida de la interfaz está llena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>Policy not found</Position>
       <TranslationSet>
         <base loc="en">Policy not found</base>
-        <tran loc="es">Política no encontrada</tran>
+        <tran loc="es-419">Política no encontrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>Operation canceled</Position>
       <TranslationSet>
         <base loc="en">Operation canceled</base>
-        <tran loc="es">Operación cancelada</tran>
+        <tran loc="es-419">Operación cancelada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>Too many open files in system</Position>
       <TranslationSet>
         <base loc="en">Too many open files in system</base>
-        <tran loc="es">Demasiados archivos abiertos en el sistema</tran>
+        <tran loc="es-419">Demasiados archivos abiertos en el sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>Too many levels of symbolic links</Position>
       <TranslationSet>
         <base loc="en">Too many levels of symbolic links</base>
-        <tran loc="es">Demasiados niveles de enlaces simbólicos</tran>
+        <tran loc="es-419">Demasiados niveles de enlaces simbólicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>Bad address</Position>
       <TranslationSet>
         <base loc="en">Bad address</base>
-        <tran loc="es">Dirección errónea</tran>
+        <tran loc="es-419">Dirección errónea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>Socket operation on non-socket</Position>
       <TranslationSet>
         <base loc="en">Socket operation on non-socket</base>
-        <tran loc="es">Operación de conector sobre otro objeto distinto</tran>
+        <tran loc="es-419">Operación de conector sobre otro objeto distinto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>Bad CPU type in executable</Position>
       <TranslationSet>
         <base loc="en">Bad CPU type in executable</base>
-        <tran loc="es">Tipo de CPU erróneo en archivo ejecutable</tran>
+        <tran loc="es-419">Tipo de CPU erróneo en archivo ejecutable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>No message available on STREAM</Position>
       <TranslationSet>
         <base loc="en">No message available on STREAM</base>
-        <tran loc="es">Ningún mensaje disponible en la secuencia</tran>
+        <tran loc="es-419">Ningún mensaje disponible en la secuencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>Operation not permitted</Position>
       <TranslationSet>
         <base loc="en">Operation not permitted</base>
-        <tran loc="es">Operación no permitida</tran>
+        <tran loc="es-419">Operación no permitida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>No such file or directory</Position>
       <TranslationSet>
         <base loc="en">No such file or directory</base>
-        <tran loc="es">No existe este archivo o directorio</tran>
+        <tran loc="es-419">No existe este archivo o directorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>Too many references: can't splice</Position>
       <TranslationSet>
         <base loc="en">Too many references: can't splice</base>
-        <tran loc="es">Demasiadas referencias: imposible unirlas</tran>
+        <tran loc="es-419">Demasiadas referencias: imposible unirlas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>No buffer space available</Position>
       <TranslationSet>
         <base loc="en">No buffer space available</base>
-        <tran loc="es">No hay espacio disponible en el búfer</tran>
+        <tran loc="es-419">No hay espacio disponible en la memoria intermedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>Bad message</Position>
       <TranslationSet>
         <base loc="en">Bad message</base>
-        <tran loc="es">Mensaje erróneo</tran>
+        <tran loc="es-419">Mensaje erróneo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>Bad executable (or shared library)</Position>
       <TranslationSet>
         <base loc="en">Bad executable (or shared library)</base>
-        <tran loc="es">Archivo ejecutable (o biblioteca compartida) erróneo</tran>
+        <tran loc="es-419">Archivo ejecutable (o biblioteca compartida) erróneo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>Inappropriate file type or format</Position>
       <TranslationSet>
         <base loc="en">Inappropriate file type or format</base>
-        <tran loc="es">Tipo o formato de archivo no adecuado</tran>
+        <tran loc="es-419">Tipo o formato de archivo no adecuado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>Attribute not found</Position>
       <TranslationSet>
         <base loc="en">Attribute not found</base>
-        <tran loc="es">Atributo no encontrado</tran>
+        <tran loc="es-419">Atributo no encontrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>Protocol not supported</Position>
       <TranslationSet>
         <base loc="en">Protocol not supported</base>
-        <tran loc="es">Protocolo incompatible</tran>
+        <tran loc="es-419">Protocolo incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>Broken pipe</Position>
       <TranslationSet>
         <base loc="en">Broken pipe</base>
-        <tran loc="es">Canal interrumpido</tran>
+        <tran loc="es-419">Canal interrumpido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>No locks available</Position>
       <TranslationSet>
         <base loc="en">No locks available</base>
-        <tran loc="es">No hay bloqueos disponibles</tran>
+        <tran loc="es-419">No hay bloqueos disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>Exec format error</Position>
       <TranslationSet>
         <base loc="en">Exec format error</base>
-        <tran loc="es">Error de formato en el archivo ejecutable</tran>
+        <tran loc="es-419">Error de formato en el archivo ejecutable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>Destination address required</Position>
       <TranslationSet>
         <base loc="en">Destination address required</base>
-        <tran loc="es">Se requiere una dirección de destino</tran>
+        <tran loc="es-419">Se requiere una dirección de destino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>Device not configured</Position>
       <TranslationSet>
         <base loc="en">Device not configured</base>
-        <tran loc="es">Dispositivo no configurado</tran>
+        <tran loc="es-419">Dispositivo no configurado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>Network is unreachable</Position>
       <TranslationSet>
         <base loc="en">Network is unreachable</base>
-        <tran loc="es">Imposible acceder a la red</tran>
+        <tran loc="es-419">Imposible acceder a la red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>Protocol error</Position>
       <TranslationSet>
         <base loc="en">Protocol error</base>
-        <tran loc="es">Error del protocolo</tran>
+        <tran loc="es-419">Error del protocolo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>Address already in use</Position>
       <TranslationSet>
         <base loc="en">Address already in use</base>
-        <tran loc="es">Dirección en uso</tran>
+        <tran loc="es-419">Dirección en uso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>Bad file descriptor</Position>
       <TranslationSet>
         <base loc="en">Bad file descriptor</base>
-        <tran loc="es">Descriptor de archivo erróneo</tran>
+        <tran loc="es-419">Descriptor de archivo erróneo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>Network dropped connection on reset</Position>
       <TranslationSet>
         <base loc="en">Network dropped connection on reset</base>
-        <tran loc="es">La red ha cancelado la conexión al reiniciar</tran>
+        <tran loc="es-419">La red canceló la conexión al reiniciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>Disc quota exceeded</Position>
       <TranslationSet>
         <base loc="en">Disc quota exceeded</base>
-        <tran loc="es">Exceso de cuota de disco</tran>
+        <tran loc="es-419">Exceso de cuota de disco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>Stale NFS file handle</Position>
       <TranslationSet>
         <base loc="en">Stale NFS file handle</base>
-        <tran loc="es">Identificador de archivo NFS corrupto</tran>
+        <tran loc="es-419">Identificador de archivo NFS corrupto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>STREAM ioctl timeout</Position>
       <TranslationSet>
         <base loc="en">STREAM ioctl timeout</base>
-        <tran loc="es">Tiempo límite de ioctl de la secuencia</tran>
+        <tran loc="es-419">Tiempo límite de ioctl de la secuencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>Is a directory</Position>
       <TranslationSet>
         <base loc="en">Is a directory</base>
-        <tran loc="es">Es un directorio</tran>
+        <tran loc="es-419">Es un directorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>Inappropriate ioctl for device</Position>
       <TranslationSet>
         <base loc="en">Inappropriate ioctl for device</base>
-        <tran loc="es">Ioctl no adecuada para el dispositivo</tran>
+        <tran loc="es-419">Ioctl no adecuada para el dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>Illegal byte sequence</Position>
       <TranslationSet>
         <base loc="en">Illegal byte sequence</base>
-        <tran loc="es">Secuencia ilegal de bytes</tran>
+        <tran loc="es-419">Secuencia ilegal de bytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>Operation not supported on socket</Position>
       <TranslationSet>
         <base loc="en">Operation not supported on socket</base>
-        <tran loc="es">Operación no permitida en el conector</tran>
+        <tran loc="es-419">Operación no permitida en el conector</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>File exists</Position>
       <TranslationSet>
         <base loc="en">File exists</base>
-        <tran loc="es">Archivo existente</tran>
+        <tran loc="es-419">Archivo existente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>Socket is not connected</Position>
       <TranslationSet>
         <base loc="en">Socket is not connected</base>
-        <tran loc="es">Conector no conectado</tran>
+        <tran loc="es-419">Conector no conectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>Read-only file system</Position>
       <TranslationSet>
         <base loc="en">Read-only file system</base>
-        <tran loc="es">Sistema de archivos de solo lectura</tran>
+        <tran loc="es-419">Sistema de archivos de sólo lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>Illegal seek</Position>
       <TranslationSet>
         <base loc="en">Illegal seek</base>
-        <tran loc="es">Búsqueda no válida</tran>
+        <tran loc="es-419">Búsqueda no válida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>Cannot allocate memory</Position>
       <TranslationSet>
         <base loc="en">Cannot allocate memory</base>
-        <tran loc="es">No se puede asignar memoria</tran>
+        <tran loc="es-419">No se puede asignar memoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>Operation already in progress</Position>
       <TranslationSet>
         <base loc="en">Operation already in progress</base>
-        <tran loc="es">Operación ya en curso</tran>
+        <tran loc="es-419">Operación ya en curso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>No message of desired type</Position>
       <TranslationSet>
         <base loc="en">No message of desired type</base>
-        <tran loc="es">Ningún mensaje del tipo deseado</tran>
+        <tran loc="es-419">Ningún mensaje del tipo deseado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>RPC version wrong</Position>
       <TranslationSet>
         <base loc="en">RPC version wrong</base>
-        <tran loc="es">Versión RPC incorrecta</tran>
+        <tran loc="es-419">Versión RPC incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>No such process</Position>
       <TranslationSet>
         <base loc="en">No such process</base>
-        <tran loc="es">No existe este proceso</tran>
+        <tran loc="es-419">No existe este proceso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>Undefined error: 0</Position>
       <TranslationSet>
         <base loc="en">Undefined error: 0</base>
-        <tran loc="es">Error no definido: 0</tran>
+        <tran loc="es-419">Error no definido: 0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>State not recoverable</Position>
       <TranslationSet>
         <base loc="en">State not recoverable</base>
-        <tran loc="es">Estado irrecuperable</tran>
+        <tran loc="es-419">Estado irrecuperable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>Too many open files</Position>
       <TranslationSet>
         <base loc="en">Too many open files</base>
-        <tran loc="es">Demasiados archivos abiertos</tran>
+        <tran loc="es-419">Demasiados archivos abiertos</tran>
       </TranslationSet>
     </TextItem>
   </File>

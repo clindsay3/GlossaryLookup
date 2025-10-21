@@ -8,7 +8,7 @@
       <Position>IQl3gd</Position>
       <TranslationSet>
         <base loc="en">Creates a new contact</base>
-        <tran loc="es">Crea un nuevo contacto</tran>
+        <tran loc="es-419">Crea un nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>LBTZ3b</Position>
       <TranslationSet>
         <base loc="en">Create a new contact</base>
-        <tran loc="es">Crear nuevo contacto</tran>
+        <tran loc="es-419">Crear un nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>xsBeCv</Position>
       <TranslationSet>
         <base loc="en">Create Contact</base>
-        <tran loc="es">Crear contacto</tran>
+        <tran loc="es-419">Crear contacto</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -37,7 +37,7 @@
       <Position>MAIL_ACTION_TYPE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">mail</base>
-        <tran loc="es">correo</tran>
+        <tran loc="es-419">correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -45,7 +45,7 @@
       <Position>FIND_MY_FRIENDS</Position>
       <TranslationSet>
         <base loc="en">Find My Friends</base>
-        <tran loc="es">Buscar a mis Amigos</tran>
+        <tran loc="es-419">Buscar a Mis Amigos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -53,7 +53,7 @@
       <Position>MAIL_ACTION_TYPE_DISAMBIGUATION</Position>
       <TranslationSet>
         <base loc="en">Mail</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Mail</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -61,7 +61,7 @@
       <Position>PHONE</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -69,7 +69,7 @@
       <Position>VIDEOCALL_ACTION_TYPE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">video</base>
-        <tran loc="es">vídeo</tran>
+        <tran loc="es-419">video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -77,7 +77,7 @@
       <Position>FACETIME_VIDEO</Position>
       <TranslationSet>
         <base loc="en">FaceTime Video</base>
-        <tran loc="es">FaceTime de vídeo</tran>
+        <tran loc="es-419">FaceTime de video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -85,7 +85,7 @@
       <Position>DIRECTIONS_ACTION_TYPE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">directions</base>
-        <tran loc="es">ruta</tran>
+        <tran loc="es-419">cómo llegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -93,7 +93,7 @@
       <Position>DIRECTIONS_ACTION_TYPE_DISAMBIGUATION</Position>
       <TranslationSet>
         <base loc="en">Directions</base>
-        <tran loc="es">Ruta</tran>
+        <tran loc="es-419">Cómo llegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -101,7 +101,7 @@
       <Position>FACETIME_AUDIO</Position>
       <TranslationSet>
         <base loc="en">FaceTime Audio</base>
-        <tran loc="es">FaceTime de audio</tran>
+        <tran loc="es-419">FaceTime de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -109,7 +109,7 @@
       <Position>MESSAGE_ACTION_TYPE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">message</base>
-        <tran loc="es">mensaje</tran>
+        <tran loc="es-419">mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -117,7 +117,7 @@
       <Position>NO_NAME</Position>
       <TranslationSet>
         <base loc="en">No Name</base>
-        <tran loc="es">Ningún nombre</tran>
+        <tran loc="es-419">Sin nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -125,7 +125,7 @@
       <Position>AUDIOCALL_ACTION_TYPE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">call</base>
-        <tran loc="es">llamada</tran>
+        <tran loc="es-419">llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -133,7 +133,7 @@
       <Position>VIDEOCALL_ACTION_TYPE_DISAMBIGUATION</Position>
       <TranslationSet>
         <base loc="en">Video</base>
-        <tran loc="es">Vídeo</tran>
+        <tran loc="es-419">Video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -141,7 +141,7 @@
       <Position>MESSAGE_ACTION_TYPE_DISAMBIGUATION</Position>
       <TranslationSet>
         <base loc="en">Message</base>
-        <tran loc="es">Mensaje</tran>
+        <tran loc="es-419">Mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -149,7 +149,7 @@
       <Position>AUDIOCALL_ACTION_TYPE_DISAMBIGUATION</Position>
       <TranslationSet>
         <base loc="en">Call</base>
-        <tran loc="es">Llamada</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -160,7 +160,7 @@
       <Position>PAY_ACTION_TYPE_DISAMBIGUATION</Position>
       <TranslationSet>
         <base loc="en">Pay</base>
-        <tran loc="es">Pagar</tran>
+        <tran loc="es-419">Pagar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>PAY_ACTION_TYPE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">pay</base>
-        <tran loc="es">pagar</tran>
+        <tran loc="es-419">pagar</tran>
       </TranslationSet>
     </TextItem>
   </File>

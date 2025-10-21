@@ -8,7 +8,7 @@
       <Position>Calendars &amp; Reminders</Position>
       <TranslationSet>
         <base loc="en">Calendars &amp; Reminders</base>
-        <tran loc="es">Calendarios y Recordatorios</tran>
+        <tran loc="es-419">Calend. y Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Attachments</Position>
       <TranslationSet>
         <base loc="en">Attachments</base>
-        <tran loc="es">Archivos adjuntos</tran>
+        <tran loc="es-419">Archivos adjuntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Events</Position>
       <TranslationSet>
         <base loc="en">Events</base>
-        <tran loc="es">Eventos</tran>
+        <tran loc="es-419">Eventos</tran>
       </TranslationSet>
     </TextItem>
   </File>

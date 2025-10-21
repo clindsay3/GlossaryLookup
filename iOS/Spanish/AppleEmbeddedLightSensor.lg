@@ -8,7 +8,7 @@
       <Position>BLR_ALERT_TEXT_2</Position>
       <TranslationSet>
         <base loc="en">Night Shift can automatically adjust the colors of your display at night to reduce eye strain</base>
-        <tran loc="es">La función “Night Shift” puede ajustar automáticamente los colores de la pantalla por la noche para reducir la fatiga ocular.</tran>
+        <tran loc="es-419">Night Shift puede cambiar automáticamente los colores de tu pantalla para que esfuerces menos la vista durante la noche</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>BLR_ALERT_CANCEL_3</Position>
       <TranslationSet>
         <base loc="en">Turn On Until %@</base>
-        <tran loc="es">Activar hasta las %@</tran>
+        <tran loc="es-419">Sí hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>BLR_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Night Shift</base>
-        <tran loc="es">Night Shift</tran>
+        <tran loc="es-419">Night Shift</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>BLR_ALERT_OK_2</Position>
       <TranslationSet>
         <base loc="en">Schedule Settings…</base>
-        <tran loc="es">Ajustes de programación…</tran>
+        <tran loc="es-419">Configuración…</tran>
       </TranslationSet>
     </TextItem>
   </File>

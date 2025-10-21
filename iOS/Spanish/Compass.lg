@@ -8,7 +8,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Compass</base>
-        <tran loc="es">Brújula</tran>
+        <tran loc="es-419">Brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Compass</base>
-        <tran loc="es">Brújula</tran>
+        <tran loc="es-419">Brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>QUICKACTION_START_COMPASS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Compass</base>
-        <tran loc="es">Brújula</tran>
+        <tran loc="es-419">Brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>NSLocationWhenInUseUsageDescription</Position>
       <TranslationSet>
         <base loc="en">Your location is used to show latitude and longitude.</base>
-        <tran loc="es">Se utiliza tu ubicación para mostrar la latitud y la longitud.</tran>
+        <tran loc="es-419">Tu ubicación se usa para mostrar la latitud y longitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>QUICKACTION_START_LEVEL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Level</base>
-        <tran loc="es">Nivel</tran>
+        <tran loc="es-419">Nivelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple Inc. 2009</base>
-        <tran loc="es">© Apple Inc. 2009</tran>
+        <tran loc="es-419">© Apple Inc. 2009</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -59,7 +59,7 @@
       <Position>S</Position>
       <TranslationSet>
         <base loc="en">S</base>
-        <tran loc="es">S</tran>
+        <tran loc="es-419">S</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>cS</Position>
       <TranslationSet>
         <base loc="en">S</base>
-        <tran loc="es">S</tran>
+        <tran loc="es-419">S</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>NE</Position>
       <TranslationSet>
         <base loc="en">NE</base>
-        <tran loc="es">NE</tran>
+        <tran loc="es-419">NE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>%1$@, %2$@</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>W</Position>
       <TranslationSet>
         <base loc="en">W</base>
-        <tran loc="es">O</tran>
+        <tran loc="es-419">O</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>cW</Position>
       <TranslationSet>
         <base loc="en">W</base>
-        <tran loc="es">O</tran>
+        <tran loc="es-419">O</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>°</Position>
       <TranslationSet>
         <base loc="en">°</base>
-        <tran loc="es">°</tran>
+        <tran loc="es-419">°</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>SW</Position>
       <TranslationSet>
         <base loc="en">SW</base>
-        <tran loc="es">SO</tran>
+        <tran loc="es-419">SO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>%1$@°</Position>
       <TranslationSet>
         <base loc="en">%1$@°</base>
-        <tran loc="es">%1$@°</tran>
+        <tran loc="es-419">%1$@°</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>--</Position>
       <TranslationSet>
         <base loc="en">--</base>
-        <tran loc="es">--</tran>
+        <tran loc="es-419">--</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>N</Position>
       <TranslationSet>
         <base loc="en">N</base>
-        <tran loc="es">N</tran>
+        <tran loc="es-419">N</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>cN</Position>
       <TranslationSet>
         <base loc="en">N</base>
-        <tran loc="es">N</tran>
+        <tran loc="es-419">N</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>NW</Position>
       <TranslationSet>
         <base loc="en">NW</base>
-        <tran loc="es">NO</tran>
+        <tran loc="es-419">NO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>%@  %@</Position>
       <TranslationSet>
         <base loc="en">%1$@  %2$@</base>
-        <tran loc="es">%1$@  %2$@</tran>
+        <tran loc="es-419">%1$@  %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>Tilt the screen to roll the ball around the circle</Position>
       <TranslationSet>
         <base loc="en">Tilt the screen to roll the ball around the circle</base>
-        <tran loc="es">Haz rodar la bola por el círculo girando la pantalla</tran>
+        <tran loc="es-419">Inclina la pantalla para rodar la pelota por el círculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>SE</Position>
       <TranslationSet>
         <base loc="en">SE</base>
-        <tran loc="es">SE</tran>
+        <tran loc="es-419">SE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>E</Position>
       <TranslationSet>
         <base loc="en">E</base>
-        <tran loc="es">E</tran>
+        <tran loc="es-419">E</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>cE</Position>
       <TranslationSet>
         <base loc="en">E</base>
-        <tran loc="es">E</tran>
+        <tran loc="es-419">E</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>%@ ft Elevation</Position>
       <TranslationSet>
         <base loc="en">%@ ft Elevation</base>
-        <tran loc="es">%@ pies de altitud</tran>
+        <tran loc="es-419">%@ pies de altitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>%1$@°%2$@′%3$@″ %4$@</Position>
       <TranslationSet>
         <base loc="en">%1$@°%2$@′%3$@″ %4$@</base>
-        <tran loc="es">%1$@°%2$@′%3$@″ %4$@</tran>
+        <tran loc="es-419">%1$@°%2$@′%3$@″ %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>Calibrate</Position>
       <TranslationSet>
         <base loc="en">Calibrate</base>
-        <tran loc="es">Calibrar</tran>
+        <tran loc="es-419">Calibrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>%@ m Elevation</Position>
       <TranslationSet>
         <base loc="en">%@ m Elevation</base>
-        <tran loc="es">%@ m de altitud</tran>
+        <tran loc="es-419">%@ metros de altitud</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -246,7 +246,7 @@
       <Position>S</Position>
       <TranslationSet>
         <base loc="en">S</base>
-        <tran loc="es">S</tran>
+        <tran loc="es-419">S</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>cS</Position>
       <TranslationSet>
         <base loc="en">S</base>
-        <tran loc="es">S</tran>
+        <tran loc="es-419">S</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>NE</Position>
       <TranslationSet>
         <base loc="en">NE</base>
-        <tran loc="es">NE</tran>
+        <tran loc="es-419">NE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>%1$@, %2$@</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>W</Position>
       <TranslationSet>
         <base loc="en">W</base>
-        <tran loc="es">O</tran>
+        <tran loc="es-419">O</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>cW</Position>
       <TranslationSet>
         <base loc="en">W</base>
-        <tran loc="es">O</tran>
+        <tran loc="es-419">O</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>°</Position>
       <TranslationSet>
         <base loc="en">°</base>
-        <tran loc="es">°</tran>
+        <tran loc="es-419">°</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>SW</Position>
       <TranslationSet>
         <base loc="en">SW</base>
-        <tran loc="es">SO</tran>
+        <tran loc="es-419">SO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>%1$@°</Position>
       <TranslationSet>
         <base loc="en">%1$@°</base>
-        <tran loc="es">%1$@°</tran>
+        <tran loc="es-419">%1$@°</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>--</Position>
       <TranslationSet>
         <base loc="en">--</base>
-        <tran loc="es">--</tran>
+        <tran loc="es-419">--</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>N</Position>
       <TranslationSet>
         <base loc="en">N</base>
-        <tran loc="es">N</tran>
+        <tran loc="es-419">N</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>cN</Position>
       <TranslationSet>
         <base loc="en">N</base>
-        <tran loc="es">N</tran>
+        <tran loc="es-419">N</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>NW</Position>
       <TranslationSet>
         <base loc="en">NW</base>
-        <tran loc="es">NO</tran>
+        <tran loc="es-419">NO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>%@  %@</Position>
       <TranslationSet>
         <base loc="en">%1$@  %2$@</base>
-        <tran loc="es">%1$@  %2$@</tran>
+        <tran loc="es-419">%1$@  %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>Tilt the screen to roll the ball around the circle</Position>
       <TranslationSet>
         <base loc="en">Tilt the screen to roll the ball around the circle</base>
-        <tran loc="es">Haz rodar la bola por el círculo girando la pantalla</tran>
+        <tran loc="es-419">Inclina la pantalla para rodar la pelota por el círculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>SE</Position>
       <TranslationSet>
         <base loc="en">SE</base>
-        <tran loc="es">SE</tran>
+        <tran loc="es-419">SE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>E</Position>
       <TranslationSet>
         <base loc="en">E</base>
-        <tran loc="es">E</tran>
+        <tran loc="es-419">E</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>cE</Position>
       <TranslationSet>
         <base loc="en">E</base>
-        <tran loc="es">E</tran>
+        <tran loc="es-419">E</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>%@ ft Elevation</Position>
       <TranslationSet>
         <base loc="en">%@ ft Elevation</base>
-        <tran loc="es">%@ pies de altitud</tran>
+        <tran loc="es-419">%@ pies de altitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@
       <Position>%1$@°%2$@′%3$@″ %4$@</Position>
       <TranslationSet>
         <base loc="en">%1$@°%2$@′%3$@″ %4$@</base>
-        <tran loc="es">%1$@°%2$@′%3$@″ %4$@</tran>
+        <tran loc="es-419">%1$@°%2$@′%3$@″ %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@
       <Position>Calibrate</Position>
       <TranslationSet>
         <base loc="en">Calibrate</base>
-        <tran loc="es">Calibrar</tran>
+        <tran loc="es-419">Calibrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -422,7 +422,7 @@
       <Position>%@ m Elevation</Position>
       <TranslationSet>
         <base loc="en">%@ m Elevation</base>
-        <tran loc="es">%@ m de altitud</tran>
+        <tran loc="es-419">%@ metros de altitud</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -433,7 +433,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Compass</base>
-        <tran loc="es">Brújula</tran>
+        <tran loc="es-419">Brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -441,7 +441,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Compass</base>
-        <tran loc="es">Brújula</tran>
+        <tran loc="es-419">Brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -449,7 +449,7 @@
       <Position>QUICKACTION_START_COMPASS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Compass</base>
-        <tran loc="es">Brújula</tran>
+        <tran loc="es-419">Brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -457,7 +457,7 @@
       <Position>NSLocationWhenInUseUsageDescription</Position>
       <TranslationSet>
         <base loc="en">Your location is used to show latitude and longitude.</base>
-        <tran loc="es">Se utiliza tu ubicación para mostrar la latitud y la longitud.</tran>
+        <tran loc="es-419">Tu ubicación se usa para mostrar la latitud y longitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -465,7 +465,7 @@
       <Position>QUICKACTION_START_LEVEL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Level</base>
-        <tran loc="es">Nivel</tran>
+        <tran loc="es-419">Nivelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple Inc. 2009</base>
-        <tran loc="es">© Apple Inc. 2009</tran>
+        <tran loc="es-419">© Apple Inc. 2009</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -491,7 +491,7 @@
       <Position>COMPASS</Position>
       <TranslationSet>
         <base loc="en">Compass</base>
-        <tran loc="es">Brújula</tran>
+        <tran loc="es-419">Brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -499,7 +499,7 @@
       <Position>USE_TRUE_NORTH</Position>
       <TranslationSet>
         <base loc="en">Use True North</base>
-        <tran loc="es">Usar norte verdadero</tran>
+        <tran loc="es-419">Usar norte verdadero</tran>
       </TranslationSet>
     </TextItem>
   </File>

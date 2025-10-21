@@ -8,7 +8,7 @@
       <Position>BUTTON_TITLE_DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>kIXUserPresentableDataRestoreFailedError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Restore Data</base>
-        <tran loc="es">Imposible restaurar datos</tran>
+        <tran loc="es-419">No se pudo restaurar los datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>kIXUserPresentableMissingRequiredCapabilitiesError_BODY</Position>
       <TranslationSet>
         <base loc="en">This app is not compatible with this device.</base>
-        <tran loc="es">Esta app no es compatible con este dispositivo.</tran>
+        <tran loc="es-419">Esta app no es compatible con este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>kIXUserPresentableBlacklistedError_BODY</Position>
       <TranslationSet>
         <base loc="en">This app is no longer allowed to be installed on this version of iOS.</base>
-        <tran loc="es">Esta app ya no se puede instalar en esta versión de iOS.</tran>
+        <tran loc="es-419">Ya no se permite instalar esta app en esta versión de iOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>kIXUserPresentableGenericHardError_BODY</Position>
       <TranslationSet>
         <base loc="en">This app could not be installed.</base>
-        <tran loc="es">Esta app no se ha podido instalar.</tran>
+        <tran loc="es-419">No se pudo instalar esta app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>BUTTON_TITLE_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>kIXUserPresentableInsufficientStorageError_BODY</Position>
       <TranslationSet>
         <base loc="en">Your device does not have enough available storage to install this app.</base>
-        <tran loc="es">No hay suficiente espacio de almacenamiento disponible en el dispositivo para instalar esta app.</tran>
+        <tran loc="es-419">Tu dispositivo no cuenta con espacio suficiente para instalar esta app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>kIXUserPresentableNeedsMDMRestoreError_BODY</Position>
       <TranslationSet>
         <base loc="en">This app needs to be reinstalled from your organization’s device management app.</base>
-        <tran loc="es">Es necesario volver a instalar esta app desde la app de gestión de dispositivos de tu organización.</tran>
+        <tran loc="es-419">Esta app más se debe reinstalar mediante la app de administración de dispositivos de tu empresa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>kIXUserPresentableNoApplicableArchitecturesError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Apps Need To Be Updated</base>
-        <tran loc="es">Algunas apps deben actualizarse</tran>
+        <tran loc="es-419">Ciertas apps deben actualizarse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>kIXUserPresentableNeedsSideLoadRestoreError_BODY</Position>
       <TranslationSet>
         <base loc="en">This app was not installed from the App Store and must be reinstalled manually.</base>
-        <tran loc="es">Esta app no se ha instalado desde App Store y se debe volver a instalar manualmente.</tran>
+        <tran loc="es-419">Esta app más no se instaló mediante la App Store y se debe reinstalar manualmente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>kIXUserPresentableNoApplicableArchitecturesError_TITLE</Position>
       <TranslationSet>
         <base loc="en">“%@” Needs To Be Updated</base>
-        <tran loc="es">%@ debe actualizarse</tran>
+        <tran loc="es-419">Se necesita actualizar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>kIXUserPresentableNoApplicableArchitecturesError_BODY</Position>
       <TranslationSet>
         <base loc="en">This app needs to be updated by the developer to work on this version of this OS.</base>
-        <tran loc="es">El desarrollador debe actualizar esta app para que funcione con la versión que tiene este sistema operativo.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar esta app más para que sea compatibles con esta versión del sistema operativo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>kIXUserPresentableContentNotOwnedError_BODY</Position>
       <TranslationSet>
         <base loc="en">You must purchase this app to install it.</base>
-        <tran loc="es">Para instalar esta app, primero debes comprarla.</tran>
+        <tran loc="es-419">Debes comprar esta app para instalarla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>kIXUserPresentableDataRestoreFailedError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Restore Data For “%@”</base>
-        <tran loc="es">Imposible restaurar datos de %@</tran>
+        <tran loc="es-419">No se pudo restaurar los datos de "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>kIXUserPresentableDataRestoreFailedError_BODY</Position>
       <TranslationSet>
         <base loc="en">We were unable to restore your data for this app.</base>
-        <tran loc="es">No se han podido restaurar los datos de esta app.</tran>
+        <tran loc="es-419">No pudimos restaurar tus datos de esta app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>kIXUserPresentableBlacklistedError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>kIXUserPresentableContentNotOwnedError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>kIXUserPresentableGenericHardError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>kIXUserPresentableGenericSoftError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>kIXUserPresentableIncorrectPlatformError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>kIXUserPresentableInsufficientStorageError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>kIXUserPresentableMissingRequiredCapabilitiesError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>kIXUserPresentableNeedsMDMRestoreError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>kIXUserPresentableNeedsSideLoadRestoreError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>kIXUserPresentableNoLongerAvailableInStoreError_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install</base>
-        <tran loc="es">Imposible instalar</tran>
+        <tran loc="es-419">No se pudo instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>BUTTON_TITLE_KEEP</Position>
       <TranslationSet>
         <base loc="en">Keep</base>
-        <tran loc="es">Conservar</tran>
+        <tran loc="es-419">Conservar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>kIXUserPresentableUserInitiatedCancellationError_BODY</Position>
       <TranslationSet>
         <base loc="en">Installation of “%@” was canceled.</base>
-        <tran loc="es">Se ha cancelado la instalación de %@.</tran>
+        <tran loc="es-419">Se canceló la instalación de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>BUTTON_TITLE_VIEW_IN_APP_STORE</Position>
       <TranslationSet>
         <base loc="en">View in App Store</base>
-        <tran loc="es">Ver en App Store</tran>
+        <tran loc="es-419">Ver en App Store</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>kIXUserPresentableNoLongerAvailableInStoreError_BODY</Position>
       <TranslationSet>
         <base loc="en">The app is no longer available in the App Store.</base>
-        <tran loc="es">La app ya no está disponible en App Store.</tran>
+        <tran loc="es-419">Esta app ya no está disponible en App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>kIXUserPresentableIncorrectPlatformError_BODY</Position>
       <TranslationSet>
         <base loc="en">This app is not made for this device.</base>
-        <tran loc="es">Esta app no está diseñada para este dispositivo.</tran>
+        <tran loc="es-419">Esta app no es compatible con este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>kIXUserPresentableBlacklistedError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>kIXUserPresentableContentNotOwnedError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>kIXUserPresentableGenericHardError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>kIXUserPresentableGenericSoftError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>kIXUserPresentableIncorrectPlatformError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>kIXUserPresentableInsufficientStorageError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>kIXUserPresentableMissingRequiredCapabilitiesError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>kIXUserPresentableNeedsMDMRestoreError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>kIXUserPresentableNeedsSideLoadRestoreError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>kIXUserPresentableNoLongerAvailableInStoreError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>kIXUserPresentableUnknownError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>kIXUserPresentableUserInitiatedCancellationError_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable To Install “%@”</base>
-        <tran loc="es">Imposible instalar %@</tran>
+        <tran loc="es-419">No se pudo instalar “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>kIXUserPresentableGenericSoftError_BODY</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>kIXUserPresentableUnknownError_BODY</Position>
       <TranslationSet>
         <base loc="en">An error occurred while installing “%@”.</base>
-        <tran loc="es">Se ha producido un error al instalar %@.</tran>
+        <tran loc="es-419">Ocurrió un error al instalar "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>BUTTON_TITLE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -379,7 +379,7 @@
       <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_LEAVES_DOCUMENTS_IN_CLOUD_SINGULAR</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data and the installed font %@, but any documents or data stored in iCloud will not be deleted.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos y el tipo de letra instalado “%@”, pero no los documentos o datos almacenados en iCloud.</tran>
+        <tran loc="es-419">Borrar esta app también eliminará sus datos y el tipo de letra instalado %@, aunque no se eliminarán los documentos ni datos ya almacenados en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_PLURAL</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data and the following installed fonts: %@.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos y los siguientes tipos de letras instalados: %@.</tran>
+        <tran loc="es-419">Eliminar esta app también eliminará sus datos y los siguientes tipos de letra instalados: %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>HEALTHKIT_DELETE_DATA_DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>UNINSTALL_ICON_BUTTON_DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>UNINSTALL_ICON_BODY_DELETE_DATA</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos.</tran>
+        <tran loc="es-419">Borrar esta app también eliminará sus datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -419,7 +419,7 @@
       <Position>HEALTHKIT_DELETE_DATA_TITLE</Position>
       <TranslationSet>
         <base loc="en">Health Data from “%@”</base>
-        <tran loc="es">Datos de salud de %@</tran>
+        <tran loc="es-419">Datos de salud de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -427,7 +427,7 @@
       <Position>UNINSTALL_ICON_BUTTON_DETAILS</Position>
       <TranslationSet>
         <base loc="en">Details</base>
-        <tran loc="es">Detalles</tran>
+        <tran loc="es-419">Detalles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -435,7 +435,7 @@
       <Position>UNINSTALL_ICON_TITLE_NOT_ALLOWED</Position>
       <TranslationSet>
         <base loc="en">Uninstall Not Allowed</base>
-        <tran loc="es">No se permite desinstalar</tran>
+        <tran loc="es-419">No se permite desinstalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -443,7 +443,7 @@
       <Position>HEALTHKIT_DELETE_DATA_BODY</Position>
       <TranslationSet>
         <base loc="en">You have data from “%@” in your Health data.</base>
-        <tran loc="es">Tienes información de %@ en tus datos de salud.</tran>
+        <tran loc="es-419">Tienes datos de “%@” en los de Salud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -451,7 +451,7 @@
       <Position>UNINSTALL_ICON_BUTTON_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -459,7 +459,7 @@
       <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_LEAVES_DOCUMENTS_IN_CLOUD_PLURAL</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data and the installed fonts %@, but any documents or data stored in iCloud will not be deleted.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos y los tipos de letra instalados %@, pero no los documentos o datos almacenados en iCloud.</tran>
+        <tran loc="es-419">Borrar esta app también eliminará sus datos y los tipos de letra instalados %@, aunque no se eliminarán los documentos ni datos ya almacenados en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -467,7 +467,7 @@
       <Position>UNINSTALL_ICON_BODY_NOT_ALLOWED</Position>
       <TranslationSet>
         <base loc="en">It is not possible to uninstall this app at this time.</base>
-        <tran loc="es">No se puede desinstalar esta app en este momento.</tran>
+        <tran loc="es-419">Por ahora no se puede desinstalar esta app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>UNINSTALL_ICON_TITLE_DELETE_WITH_NAME</Position>
       <TranslationSet>
         <base loc="en">Delete “%@”?</base>
-        <tran loc="es">¿Quieres eliminar %@?</tran>
+        <tran loc="es-419">¿Eliminar “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>HEALTHKIT_DELETE_DATA_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Keep</base>
-        <tran loc="es">Conservar</tran>
+        <tran loc="es-419">Conservar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_SINGULAR</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data and the following installed font: %@.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos y el tipo de letra instalado “%@”.</tran>
+        <tran loc="es-419">Eliminar esta app también eliminará sus datos y el siguiente tipo de letra instalado: %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>UNINSTALL_ICON_BODY_DELETE_DATA_AND_FONTS_LEAVES_DOCUMENTS_IN_CLOUD_ZERO</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data, but any documents or data stored in iCloud will not be deleted.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos, pero no los documentos o datos almacenados en iCloud.</tran>
+        <tran loc="es-419">Borrar esta app también eliminará sus datos, aunque no se eliminarán los documentos ni datos ya almacenados en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>UNINSTALL_ICON_BUTTON_FONTS</Position>
       <TranslationSet>
         <base loc="en">Show Installed Fonts</base>
-        <tran loc="es">Mostrar tipos de letra instalados</tran>
+        <tran loc="es-419">Mostrar tipos instalados</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -523,7 +523,7 @@
       <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +579,7 @@
       <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -587,7 +587,7 @@
       <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -603,7 +603,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -611,7 +611,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -619,7 +619,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -627,7 +627,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -643,7 +643,7 @@
       <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/other_apps:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other app</base>
-        <tran loc="es">otra app</tran>
+        <tran loc="es-419">%lu app más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -651,7 +651,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of iPadOS.</base>
-        <tran loc="es">El desarrollador debe actualizar %@ y %#@other_apps@ para que funcionen con esta versión de iPadOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar “%@” y %#@other_apps@ para que sean compatibles con esta versión de iPadOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Your device does not have enough available storage to install “%@” and %#@other_apps@.</base>
-        <tran loc="es">No hay suficiente espacio de almacenamiento disponible en el dispositivo para instalar %@ y %#@other_apps@.</tran>
+        <tran loc="es-419">Tu dispositivo no cuenta con espacio suficiente para instalar “%@” y %#@other_apps@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ were not installed from the App Store and must be reinstalled manually.</base>
-        <tran loc="es">%@ y %#@other_apps@ no se han instalado desde App Store y se deben volver a instalar manualmente.</tran>
+        <tran loc="es-419">“%@” y %#@other_apps@ no se instalaron desde App Store y se deben reinstalar manualmente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of watchOS.</base>
-        <tran loc="es">El desarrollador debe actualizar %@ y %#@other_apps@ para que funcionen con esta versión de watchOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar “%@” y %#@other_apps@ para que sean compatibles con esta versión de watchOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ are no longer available in the App Store.</base>
-        <tran loc="es">%@ y %#@other_apps@ ya no están disponibles en App Store.</tran>
+        <tran loc="es-419">“%@” y %#@other_apps@ ya no están disponibles en App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of tvOS.</base>
-        <tran loc="es">El desarrollador debe actualizar %@ y %#@other_apps@ para que funcionen con esta versión de tvOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar “%@” y %#@other_apps@ para que sean compatibles con esta versión de tvOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/:string</Position>
       <TranslationSet>
         <base loc="en">This app needs to be updated by the developer to work on this version of tvOS.</base>
-        <tran loc="es">El desarrollador debe actualizar esta app para que funcione con esta versión de tvOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar esta app más para que sea compatibles con esta versión de tvOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">We were unable to restore your data for “%@” and %#@other_apps@.</base>
-        <tran loc="es">No se han podido restaurar los datos de %@ y %#@other_apps@.</tran>
+        <tran loc="es-419">No pudimos restaurar tus datos de “%@” y %#@other_apps@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -715,7 +715,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/:string</Position>
       <TranslationSet>
         <base loc="en">This app needs to be updated by the developer to work on this version of iOS.</base>
-        <tran loc="es">El desarrollador debe actualizar esta app para que funcione con esta versión de iOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar esta app más para que sea compatibles con esta versión de iOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -723,7 +723,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/:string</Position>
       <TranslationSet>
         <base loc="en">This app needs to be updated by the developer to work on this version of iOS.</base>
-        <tran loc="es">El desarrollador debe actualizar esta app para que funcione con esta versión de iOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar esta app más para que sea compatibles con esta versión de iOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -731,7 +731,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/:string</Position>
       <TranslationSet>
         <base loc="en">This app needs to be updated by the developer to work on this version of watchOS.</base>
-        <tran loc="es">El desarrollador debe actualizar esta app para que funcione con esta versión de watchOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar esta app más para que sea compatibles con esta versión de watchOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -739,7 +739,7 @@
       <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ need to be reinstalled from your organization's device management app.</base>
-        <tran loc="es">Es necesario volver a instalar %@ y %#@other_apps@ desde la app de gestión de dispositivos de tu organización.</tran>
+        <tran loc="es-419">“%@” y %#@other_apps@ se deben reinstalar desde la app de administración de dispositivos de tu empresa.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -747,7 +747,7 @@
       <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ could not be installed. Please try again later.</base>
-        <tran loc="es">%@ y %#@other_apps@ no se han podido instalar. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">“%@” y %#@other_apps@ no se pudieron instalar. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -755,7 +755,7 @@
       <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">You must purchase “%@” and %#@other_apps@ to install them.</base>
-        <tran loc="es">Para instalar %@ y %#@other_apps@, primero debes comprarlas.</tran>
+        <tran loc="es-419">Debes comprar “%@” y %#@other_apps@ para instalarlas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -763,7 +763,7 @@
       <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -771,7 +771,7 @@
       <Position>/kIXUserPresentableContentNotOwnedError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -779,7 +779,7 @@
       <Position>/kIXUserPresentableDataRestoreFailedError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -787,7 +787,7 @@
       <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -795,7 +795,7 @@
       <Position>/kIXUserPresentableGenericSoftError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -803,7 +803,7 @@
       <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -811,7 +811,7 @@
       <Position>/kIXUserPresentableInsufficientStorageError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>/kIXUserPresentableNeedsMDMRestoreError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>/kIXUserPresentableNeedsSideLoadRestoreError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -843,7 +843,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/appletv:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -851,7 +851,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/applewatch:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -859,7 +859,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -867,7 +867,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -875,7 +875,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -883,7 +883,7 @@
       <Position>/kIXUserPresentableNoLongerAvailableInStoreError_BODY_MULTIPLE:dict/other_apps:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu other apps</base>
-        <tran loc="es">%lu apps más</tran>
+        <tran loc="es-419">%lu apps más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -891,7 +891,7 @@
       <Position>/kIXUserPresentableIncorrectPlatformError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ are not made for this device.</base>
-        <tran loc="es">%@ y %#@other_apps@ no están diseñadas para este dispositivo.</tran>
+        <tran loc="es-419">“%@” y %#@other_apps@ no están diseñadas para este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -899,7 +899,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/iphone:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of iOS.</base>
-        <tran loc="es">El desarrollador debe actualizar %@ y %#@other_apps@ para que funcionen con esta versión de iOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar “%@” y %#@other_apps@ para que sean compatibles con esta versión de iOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY_MULTIPLE:dict/NSStringDeviceSpecificRuleType:dict/ipod:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ need to be updated by the developer to work on this version of iOS.</base>
-        <tran loc="es">El desarrollador debe actualizar %@ y %#@other_apps@ para que funcionen con esta versión de iOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar “%@” y %#@other_apps@ para que sean compatibles con esta versión de iOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -915,7 +915,7 @@
       <Position>/kIXUserPresentableGenericHardError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ could not be installed.</base>
-        <tran loc="es">%@ y %#@other_apps@ no se han podido instalar.</tran>
+        <tran loc="es-419">“%@” y %#@other_apps@ no se pudieron instalar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -923,7 +923,7 @@
       <Position>/kIXUserPresentableMissingRequiredCapabilitiesError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ are not compatible with this device.</base>
-        <tran loc="es">%@ y %#@other_apps@ no son compatibles con este dispositivo.</tran>
+        <tran loc="es-419">“%@” y %#@other_apps@ no son compatibles con este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -931,7 +931,7 @@
       <Position>/kIXUserPresentableNoApplicableArchitecturesError_BODY:dict/NSStringDeviceSpecificRuleType:dict/ipad:dict/:string</Position>
       <TranslationSet>
         <base loc="en">This app needs to be updated by the developer to work on this version of iPadOS.</base>
-        <tran loc="es">El desarrollador debe actualizar esta app para que funcione con esta versión de iPadOS.</tran>
+        <tran loc="es-419">El desarrollador debe actualizar esta app más para que sea compatibles con esta versión de iPadOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -939,7 +939,7 @@
       <Position>/kIXUserPresentableBlacklistedError_BODY_MULTIPLE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">“%@” and %#@other_apps@ are no longer allowed to be installed on this version of iOS.</base>
-        <tran loc="es">%@ y %#@other_apps@ ya no se pueden instalar en esta versión de iOS.</tran>
+        <tran loc="es-419">Ya no se permite instalar “%@” y %#@other_apps@ en esta versión de iOS.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -950,7 +950,7 @@
       <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos.</tran>
+        <tran loc="es-419">Borrar esta app también eliminará sus datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -958,7 +958,7 @@
       <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data and %ld installed fonts, but any documents or data stored in iCloud will not be deleted.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos y los %ld tipos de letra instalados, pero no los documentos o datos almacenados en iCloud.</tran>
+        <tran loc="es-419">Borrar esta app también eliminará sus datos y %ld tipos de letra instalados, aunque no se eliminarán los documentos ni datos ya almacenados en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -966,7 +966,7 @@
       <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data and one installed font.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos y un tipo de letra instalado.</tran>
+        <tran loc="es-419">Eliminar esta app también eliminará sus datos y un tipo de letra instalado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -974,7 +974,7 @@
       <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data and one installed font, but any documents or data stored in iCloud will not be deleted.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos y un tipo de letra instalado, pero no los documentos o datos almacenados en iCloud.</tran>
+        <tran loc="es-419">Borrar esta app también eliminará sus datos y un tipo de letra instalado, aunque no se eliminarán los documentos ni datos ya almacenados en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -982,7 +982,7 @@
       <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@VARIABLE@</base>
-        <tran loc="es">%#@VARIABLE@</tran>
+        <tran loc="es-419">%#@VARIABLE@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -990,7 +990,7 @@
       <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@VARIABLE@</base>
-        <tran loc="es">%#@VARIABLE@</tran>
+        <tran loc="es-419">%#@VARIABLE@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -998,7 +998,7 @@
       <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS_LEAVES_DOCUMENTS_IN_CLOUD:dict/VARIABLE:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data, but any documents or data stored in iCloud will not be deleted.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos, pero no los documentos o datos almacenados en iCloud.</tran>
+        <tran loc="es-419">Borrar esta app también eliminará sus datos, aunque no se eliminarán los documentos ni datos ya almacenados en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1006,7 +1006,7 @@
       <Position>/UNINSTALL_ICON_BODY_DELETE_DATA_AND_MANY_FONTS:dict/VARIABLE:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will also delete its data and %ld installed fonts.</base>
-        <tran loc="es">Al eliminar esta app, también se eliminarán sus datos y los %ld tipos de letra instalados.</tran>
+        <tran loc="es-419">Eliminar esta app también eliminará sus datos y %ld tipos de letra instalados.</tran>
       </TranslationSet>
     </TextItem>
   </File>

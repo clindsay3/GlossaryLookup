@@ -8,7 +8,7 @@
       <Position>Incoming invitation timed out.</Position>
       <TranslationSet>
         <base loc="en">Incoming invitation timed out.</base>
-        <tran loc="es">El tiempo de espera de la invitación entrante se ha agotado.</tran>
+        <tran loc="es-419">Tiempo de espera agotado para la invitación entrante.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Connection to peer already in progress after initially succeeding.</Position>
       <TranslationSet>
         <base loc="en">Connection to peer already in progress after initially succeeding.</base>
-        <tran loc="es">La conexión con el par está en progreso después de haberse iniciado correctamente.</tran>
+        <tran loc="es-419">La conexión con la persona ya está procesándose después de lograrse exitosamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Remote declined.</Position>
       <TranslationSet>
         <base loc="en">Remote declined.</base>
-        <tran loc="es">Se ha rechazado de forma remota.</tran>
+        <tran loc="es-419">Declinación remota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Failed while pending incoming invitation.</Position>
       <TranslationSet>
         <base loc="en">Failed while pending incoming invitation.</base>
-        <tran loc="es">Se ha producido un error mientras la invitación entrante estaba pendiente.</tran>
+        <tran loc="es-419">Error al esperar la invitación entrante.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>The invited peer has cancelled the connection.</Position>
       <TranslationSet>
         <base loc="en">The invited peer has cancelled the connection.</base>
-        <tran loc="es">La persona invitada ha cancelado la conexión.</tran>
+        <tran loc="es-419">La persona invitada canceló la conexión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Connection timed out.</Position>
       <TranslationSet>
         <base loc="en">Connection timed out.</base>
-        <tran loc="es">Tiempo de conexión excedido.</tran>
+        <tran loc="es-419">Tiempo de conexión agotado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Failed while not pending.</Position>
       <TranslationSet>
         <base loc="en">Failed while not pending.</base>
-        <tran loc="es">Error mientras no estaba pendiente.</tran>
+        <tran loc="es-419">Error al no estar en espera.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Outgoing invitation timed out.</Position>
       <TranslationSet>
         <base loc="en">Outgoing invitation timed out.</base>
-        <tran loc="es">El tiempo de espera de la invitación saliente se ha agotado.</tran>
+        <tran loc="es-419">Tiempo de espera agotado para la invitación saliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Unknown disconnect.</Position>
       <TranslationSet>
         <base loc="en">Unknown disconnect.</base>
-        <tran loc="es">Desconexión de Desconocido.</tran>
+        <tran loc="es-419">Desconexión desconocida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Connection error: system error</Position>
       <TranslationSet>
         <base loc="en">Connection error: system error</base>
-        <tran loc="es">Error de conexión: error de sistema</tran>
+        <tran loc="es-419">Error de conexión: sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Connection error: internal (%08X).</Position>
       <TranslationSet>
         <base loc="en">Connection error: internal (%08X).</base>
-        <tran loc="es">Error de conexión: interno (%08X).</tran>
+        <tran loc="es-419">Error de conexión: interno (%08X).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Remote cancelled.</Position>
       <TranslationSet>
         <base loc="en">Remote cancelled.</base>
-        <tran loc="es">Se ha cancelado de forma remota.</tran>
+        <tran loc="es-419">Cancelación remota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Failed while pending outgoing invitation.</Position>
       <TranslationSet>
         <base loc="en">Failed while pending outgoing invitation.</base>
-        <tran loc="es">Se ha producido un error mientras la invitación saliente estaba pendiente.</tran>
+        <tran loc="es-419">Error al esperar la invitación saliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Invitation timed out.</Position>
       <TranslationSet>
         <base loc="en">Invitation timed out.</base>
-        <tran loc="es">El tiempo de espera de la invitación se ha agotado.</tran>
+        <tran loc="es-419">Tiempo de espera agotado para la invitación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Connection error: internal</Position>
       <TranslationSet>
         <base loc="en">Connection error: internal</base>
-        <tran loc="es">Error de conexión: interno</tran>
+        <tran loc="es-419">Error de conexión: interno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Outgoing invitation timed out before TCP.</Position>
       <TranslationSet>
         <base loc="en">Outgoing invitation timed out before TCP.</base>
-        <tran loc="es">El tiempo de espera de la invitación saliente se ha agotado antes que el TCP.</tran>
+        <tran loc="es-419">Tiempo de espera agotado para la invitación saliente antes de TCP.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>Connection error: system (%d).</Position>
       <TranslationSet>
         <base loc="en">Connection error: system (%d).</base>
-        <tran loc="es">Error de conexión: sistema (%d).</tran>
+        <tran loc="es-419">Error de conexión: sistema (%d).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>The invited peer has declined the connection.</Position>
       <TranslationSet>
         <base loc="en">The invited peer has declined the connection.</base>
-        <tran loc="es">La persona invitada ha rechazado la conexión.</tran>
+        <tran loc="es-419">La persona invitada declinó la conexión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Unknown connection timed out.</Position>
       <TranslationSet>
         <base loc="en">Unknown connection timed out.</base>
-        <tran loc="es">Se agotado el tiempo de espera de la conexión de Desconocido.</tran>
+        <tran loc="es-419">Se agotó el tiempo de espera de la conexión desconocida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>Found in progress after success.</Position>
       <TranslationSet>
         <base loc="en">Found in progress after success.</base>
-        <tran loc="es">Encontrado en progreso después de haberse realizado correctamente.</tran>
+        <tran loc="es-419">Se encontró procesando después de lograrse.</tran>
       </TranslationSet>
     </TextItem>
   </File>

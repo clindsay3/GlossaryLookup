@@ -8,7 +8,7 @@
       <Position>AIRPLAY_PASSWORD_ALERT_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">password</base>
-        <tran loc="es">contraseña</tran>
+        <tran loc="es-419">contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>TV_REMOTE_AUTHENTICATION_PIN_DIALOG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your passcode is:</base>
-        <tran loc="es">Tu código es:</tran>
+        <tran loc="es-419">Tu código es:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -25,7 +25,7 @@
       <Position>EXTERNAL_DEVICE_AUTHENTICATION_PIN_DIALOG_HEADER</Position>
       <TranslationSet>
         <base loc="en">Remote Passcode</base>
-        <tran loc="es">Código del mando a distancia</tran>
+        <tran loc="es-419">Código del control</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -33,7 +33,7 @@
       <Position>AIRPLAY_GENERIC_ERROR_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +41,7 @@
       <Position>AIRPLAY_POPOVER_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -49,7 +49,7 @@
       <Position>AIRPLAY_VIDEO_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>AIRPLAY_VIDEO_POPOVER_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>AIRPLAY_PASSWORD_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@”</base>
-        <tran loc="es">Introduce la contraseña de “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>PLAYING_ON_DEVICE_DELIMITER</Position>
       <TranslationSet>
         <base loc="en">,</base>
-        <tran loc="es">,</tran>
+        <tran loc="es-419">,</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -82,7 +82,7 @@
       <Position>AIRPLAY_PASSWORD_ALERT_PLACEHOLDER_TEXT_FIELD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Password:</base>
-        <tran loc="es">Contraseña:</tran>
+        <tran loc="es-419">Contraseña:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -90,7 +90,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -98,7 +98,7 @@
       <Position>ROUTE_NAME_ARROW_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ → %@</base>
-        <tran loc="es">%@ → %@</tran>
+        <tran loc="es-419">%@ → %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -106,7 +106,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -114,7 +114,7 @@
       <Position>AIRPLAY_GENERIC_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to “%@”.</base>
-        <tran loc="es">No se ha podido establecer conexión con “%@”.</tran>
+        <tran loc="es-419">No se puede conectar con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -122,7 +122,7 @@
       <Position>AIRPLAY_NOT_CONNETED_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to “%@” because “%@“ is not connected to the internet.</base>
-        <tran loc="es">No se puede conectar a “%@” porque “%@“ no tiene conexión a internet.</tran>
+        <tran loc="es-419">No hay conexión con “%@” debido a que “%@“ no tiene conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -130,7 +130,7 @@
       <Position>AIRPLAY_VIDEO_PLACEHOLDER_SUBTITLE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">This video is playing on “%@”.</base>
-        <tran loc="es">Este vídeo se está reproduciendo en “%@”.</tran>
+        <tran loc="es-419">Este video se está reproduciendo en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -138,7 +138,7 @@
       <Position>FROM_DEVICE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">from %@</base>
-        <tran loc="es">desde el %@</tran>
+        <tran loc="es-419">desde %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -146,7 +146,7 @@
       <Position>TITLE_BY_ARTIST_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ by %@</base>
-        <tran loc="es">%@ por %@</tran>
+        <tran loc="es-419">%@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>AIRPLAY_PASSCODE_ALERT_PLACEHOLDER_TEXT_FIELD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Code:</base>
-        <tran loc="es">Código:</tran>
+        <tran loc="es-419">Código:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>AIRPLAY_BUSY_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">“%@” is being used by someone else.</base>
-        <tran loc="es">Otra persona está usando “%@”.</tran>
+        <tran loc="es-419">Otra persona está usando “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>AIRPLAY_PASSWORD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay Password</base>
-        <tran loc="es">Contraseña de AirPlay</tran>
+        <tran loc="es-419">Contraseña de AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>AIRPLAY_PIN_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay Code</base>
-        <tran loc="es">Código de AirPlay</tran>
+        <tran loc="es-419">Código de AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>AIRPLAY_PASSCODE_ALERT_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">code</base>
-        <tran loc="es">código</tran>
+        <tran loc="es-419">código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>AIRPLAY_PIN_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Enter the onscreen code for “%@”</base>
-        <tran loc="es">Introduce el código de la pantalla de “%@”</tran>
+        <tran loc="es-419">Ingresa el código de la pantalla de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>AIRPLAY_BUSY_ATV_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple TV Not Available</base>
-        <tran loc="es">Apple TV no disponible</tran>
+        <tran loc="es-419">Apple TV no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -212,7 +212,7 @@
       <Position>ROUTE_NAMES_CONCAT_DELIMITER</Position>
       <TranslationSet>
         <base loc="en"> + </base>
-        <tran loc="es"> + </tran>
+        <tran loc="es-419"> + </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -220,7 +220,7 @@
       <Position>AIRPLAY_OUT_OF_RANGE_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to “%@” because the wireless signal is too weak.</base>
-        <tran loc="es">No se ha podido establecer conexión con “%@” porque la señal inalámbrica es demasiado débil.</tran>
+        <tran loc="es-419">No se puede conectar con “%@” debido a que la señal inalámbrica es muy débil.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>PLAYING_ON_DEVICE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Playing on %@</base>
-        <tran loc="es">Reproduciendo en el %@</tran>
+        <tran loc="es-419">Reproduciendo en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -236,7 +236,7 @@
       <Position>AIRPLAY_BUSY_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay Speaker Not Available</base>
-        <tran loc="es">Altavoz AirPlay no disponible</tran>
+        <tran loc="es-419">Bocina de AirPlay no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +244,7 @@
       <Position>AIRPLAY_VIDEO_ALERT_BODY_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Cannot play video on “%@”.</base>
-        <tran loc="es">No se puede reproducir el vídeo en “%@”.</tran>
+        <tran loc="es-419">No se puede reproducir el video en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +252,7 @@
       <Position>TV_REMOTE_AUTHENTICATION_PIN_DIALOG_HEADER</Position>
       <TranslationSet>
         <base loc="en">Authenticate Remote</base>
-        <tran loc="es">Autenticar el mando a distancia</tran>
+        <tran loc="es-419">Autenticar el control</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -260,7 +260,7 @@
       <Position>PLAY_ON_DEVICE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Play on %@</base>
-        <tran loc="es">Reproducir en el %@</tran>
+        <tran loc="es-419">Reproducir en %@</tran>
       </TranslationSet>
     </TextItem>
   </File>

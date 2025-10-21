@@ -8,7 +8,7 @@
       <Position>The operation couldn\\U2019t be completed. %@</Position>
       <TranslationSet>
         <base loc="en">The operation couldn’t be completed. %@</base>
-        <tran loc="es">No se ha podido completar la operación. %@</tran>
+        <tran loc="es-419">No se pudo completar la operación. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>BundleErr4-C</Position>
       <TranslationSet>
         <base loc="en">The bundle’s executable couldn’t be located.</base>
-        <tran loc="es">No se ha encontrado el archivo ejecutable del paquete.</tran>
+        <tran loc="es-419">No se encontró el archivo ejecutable del paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>NSCoreFoundationErrorDomain</Position>
       <TranslationSet>
         <base loc="en">Core Foundation</base>
-        <tran loc="es">Core Foundation</tran>
+        <tran loc="es-419">Core Foundation</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>The operation couldn\\U2019t be completed. (%@ error %ld.)</Position>
       <TranslationSet>
         <base loc="en">The operation couldn’t be completed. (%1$@ error %2$ld.)</base>
-        <tran loc="es">No se ha podido completar la operación. (Error de %1$@ %2$ld.)</tran>
+        <tran loc="es-419">No se pudo completar la operación. (Error de %1$@ %2$ld)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>BundleErr3586-R</Position>
       <TranslationSet>
         <base loc="en">Try installing a newer version of the bundle.</base>
-        <tran loc="es">Instala una versión más reciente del paquete.</tran>
+        <tran loc="es-419">Intenta instalar una versión más reciente del paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>BundleErr3588</Position>
       <TranslationSet>
         <base loc="en">The bundle “%@” couldn’t be loaded.</base>
-        <tran loc="es">No se ha podido cargar el paquete “%@”.</tran>
+        <tran loc="es-419">No se pudo cargar el paquete “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>BundleErr3585-R</Position>
       <TranslationSet>
         <base loc="en">Try installing a universal version of the bundle.</base>
-        <tran loc="es">Instala una versión universal del paquete.</tran>
+        <tran loc="es-419">Intenta instalar una versión universal del paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>BundleErr3584-R</Position>
       <TranslationSet>
         <base loc="en">Try reinstalling the bundle.</base>
-        <tran loc="es">Vuelve a instalar el paquete.</tran>
+        <tran loc="es-419">Intenta reinstalar el paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>BundleErr3587-R</Position>
       <TranslationSet>
         <base loc="en">Try reinstalling the bundle.</base>
-        <tran loc="es">Vuelve a instalar el paquete.</tran>
+        <tran loc="es-419">Intenta reinstalar el paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>BundleErr3588-R</Position>
       <TranslationSet>
         <base loc="en">Try reinstalling the bundle.</base>
-        <tran loc="es">Vuelve a instalar el paquete.</tran>
+        <tran loc="es-419">Intenta reinstalar el paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>BundleErr4-R</Position>
       <TranslationSet>
         <base loc="en">Try reinstalling the bundle.</base>
-        <tran loc="es">Vuelve a instalar el paquete.</tran>
+        <tran loc="es-419">Intenta reinstalar el paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>BundleErr3588-C</Position>
       <TranslationSet>
         <base loc="en">The bundle couldn’t be loaded.</base>
-        <tran loc="es">No se ha podido cargar el paquete.</tran>
+        <tran loc="es-419">No se pudo cargar el paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>BundleErr3587</Position>
       <TranslationSet>
         <base loc="en">The bundle “%@” couldn’t be loaded because it is damaged or missing necessary resources.</base>
-        <tran loc="es">El paquete “%@” no se ha podido cargar porque está dañado o le faltan recursos necesarios.</tran>
+        <tran loc="es-419">No se pudo cargar el paquete “%@” porque está dañado o le faltan recursos obligatorios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>BundleErr3586</Position>
       <TranslationSet>
         <base loc="en">The bundle “%@” couldn’t be loaded because it isn’t compatible with the current application.</base>
-        <tran loc="es">El paquete “%@” no se ha podido cargar porque no es compatible con la aplicación actual.</tran>
+        <tran loc="es-419">No se pudo cargar el paquete “%@” porque no es compatible con la aplicación actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>BundleErr3587-C</Position>
       <TranslationSet>
         <base loc="en">The bundle is damaged or missing necessary resources.</base>
-        <tran loc="es">El paquete está dañado o le faltan recursos necesarios.</tran>
+        <tran loc="es-419">El paquete está dañado o le faltan los recursos necesarios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>NSMachErrorDomain</Position>
       <TranslationSet>
         <base loc="en">Mach</base>
-        <tran loc="es">Mach</tran>
+        <tran loc="es-419">Mach</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>BundleErr3584-C</Position>
       <TranslationSet>
         <base loc="en">The bundle’s executable isn’t loadable.</base>
-        <tran loc="es">El archivo ejecutable del paquete no se puede cargar.</tran>
+        <tran loc="es-419">No se pudo cargar el archivo ejecutable del paquete.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>BundleErr3586-C</Position>
       <TranslationSet>
         <base loc="en">The bundle isn’t compatible with this application.</base>
-        <tran loc="es">El paquete no es compatible con esta aplicación.</tran>
+        <tran loc="es-419">El paquete no es compatible con esta aplicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>BundleErr4</Position>
       <TranslationSet>
         <base loc="en">The bundle “%@” couldn’t be loaded because its executable couldn’t be located.</base>
-        <tran loc="es">El paquete “%@” no se ha podido cargar porque no se ha encontrado su archivo ejecutable.</tran>
+        <tran loc="es-419">No se pudo cargar el paquete “%@” porque no se encontró el archivo ejecutable.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>BundleErr3585</Position>
       <TranslationSet>
         <base loc="en">The bundle “%@” couldn’t be loaded because it doesn’t contain a version for the current architecture.</base>
-        <tran loc="es">El paquete “%@” no se ha podido cargar porque no contiene ninguna versión para la arquitectura actual.</tran>
+        <tran loc="es-419">No se pudo cargar el paquete “%@” porque no incluye una versión para la arquitectura actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>NSCocoaErrorDomain</Position>
       <TranslationSet>
         <base loc="en">Cocoa</base>
-        <tran loc="es">Cocoa</tran>
+        <tran loc="es-419">Cocoa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>BundleErr3585-C</Position>
       <TranslationSet>
         <base loc="en">The bundle doesn’t contain a version for the current architecture.</base>
-        <tran loc="es">El paquete no contiene ninguna versión para la arquitectura actual.</tran>
+        <tran loc="es-419">El paquete no incluye una versión para la arquitectura actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>NSOSStatusErrorDomain</Position>
       <TranslationSet>
         <base loc="en">OSStatus</base>
-        <tran loc="es">OSStatus</tran>
+        <tran loc="es-419">OSStatus</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>BundleErr3584</Position>
       <TranslationSet>
         <base loc="en">The bundle “%@” couldn’t be loaded because its executable isn’t loadable.</base>
-        <tran loc="es">El paquete “%@” no se ha podido cargar porque su archivo ejecutable no se puede cargar.</tran>
+        <tran loc="es-419">No se pudo cargar el paquete “%@” porque no se pudo cargar el archivo ejecutable.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>NSPOSIXErrorDomain</Position>
       <TranslationSet>
         <base loc="en">POSIX</base>
-        <tran loc="es">POSIX</tran>
+        <tran loc="es-419">POSIX</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>%@ %@</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>The operation couldn\\U2019t be completed. (%@ error %ld - %@)</Position>
       <TranslationSet>
         <base loc="en">The operation couldn’t be completed. (%1$@ error %2$ld - %3$@)</base>
-        <tran loc="es">No se ha podido completar la operación. (Error de %1$@ %2$ld: %3$@)</tran>
+        <tran loc="es-419">No se pudo completar la operación. (Error de %1$@ %2$ld - %3$@)</tran>
       </TranslationSet>
     </TextItem>
   </File>

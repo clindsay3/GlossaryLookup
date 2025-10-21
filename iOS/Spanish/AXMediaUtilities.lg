@@ -8,7 +8,7 @@
       <Position>/photo.description.expression.smile:dict/smile:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d smiling</base>
-        <tran loc="es">%d sonriendo</tran>
+        <tran loc="es-419">%d cara sonriente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>/photo.description.expression.smile:dict/smile:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d smiling</base>
-        <tran loc="es">%d sonriendo</tran>
+        <tran loc="es-419">%d caras sonrientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>/photo.description.expression.suspicious:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@suspicious@</base>
-        <tran loc="es">%#@suspicious@</tran>
+        <tran loc="es-419">%#@suspicious@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>/photo.description.expression.suspicious:dict/suspicious:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d suspicious</base>
-        <tran loc="es">%d con expresión de sospecha</tran>
+        <tran loc="es-419">%d cara sospechando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>/photo.description.expression.suspicious:dict/suspicious:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d suspicious</base>
-        <tran loc="es">%d con expresión de sospecha</tran>
+        <tran loc="es-419">%d caras sospechando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>/qr.code.count:dict/qrcodes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d QR codes</base>
-        <tran loc="es">%d códigos QR</tran>
+        <tran loc="es-419">%d códigos QR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>/face.count:dict/faces:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d faces</base>
-        <tran loc="es">%d caras</tran>
+        <tran loc="es-419">%d caras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>/photo.description.faces:dict/faces:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d faces</base>
-        <tran loc="es">%d caras</tran>
+        <tran loc="es-419">%d caras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>/people.count:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@people@</base>
-        <tran loc="es">%#@people@</tran>
+        <tran loc="es-419">%#@people@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>/qr.code.count:dict/qrcodes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d QR code</base>
-        <tran loc="es">%d código QR</tran>
+        <tran loc="es-419">%d código QR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>/photo.description.expression.surprise:dict/surprise:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d surprised</base>
-        <tran loc="es">%d con expresión de sorpresa</tran>
+        <tran loc="es-419">%d cara sorprendida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>/photo.description.expression.surprise:dict/surprise:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d surprised</base>
-        <tran loc="es">%d con expresión de sorpresa</tran>
+        <tran loc="es-419">%d caras sorprendidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>/face.count:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@faces@</base>
-        <tran loc="es">%#@faces@</tran>
+        <tran loc="es-419">%#@faces@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>/photo.description.faces:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@faces@</base>
-        <tran loc="es">%#@faces@</tran>
+        <tran loc="es-419">%#@faces@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>/photo.description.expression.surprise:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@surprise@</base>
-        <tran loc="es">%#@surprise@</tran>
+        <tran loc="es-419">%#@surprise@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>/photo.description.expression.disgust:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@disgust@</base>
-        <tran loc="es">%#@disgust@</tran>
+        <tran loc="es-419">%#@disgust@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>/photo.description.expression.disgust:dict/disgust:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d disgusted</base>
-        <tran loc="es">%d con expresión de disgusto</tran>
+        <tran loc="es-419">%d cara disgustada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>/photo.description.expression.disgust:dict/disgust:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d disgusted</base>
-        <tran loc="es">%d con expresión de disgusto</tran>
+        <tran loc="es-419">%d caras disgustadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>/photo.description.expression.scream:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@scream@</base>
-        <tran loc="es">%#@scream@</tran>
+        <tran loc="es-419">%#@scream@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>/people.count:dict/people:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d person</base>
-        <tran loc="es">%d persona</tran>
+        <tran loc="es-419">%d persona</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>/photo.description.expression.smile:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@smile@</base>
-        <tran loc="es">%#@smile@</tran>
+        <tran loc="es-419">%#@smile@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>/people.count:dict/people:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d people</base>
-        <tran loc="es">%d personas</tran>
+        <tran loc="es-419">%d personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>/qr.code.count:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@qrcodes@</base>
-        <tran loc="es">%#@qrcodes@</tran>
+        <tran loc="es-419">%#@qrcodes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>/photo.description.expression.scream:dict/scream:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d screaming</base>
-        <tran loc="es">%d gritando</tran>
+        <tran loc="es-419">%d cara gritando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>/photo.description.expression.scream:dict/scream:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d screaming</base>
-        <tran loc="es">%d gritando</tran>
+        <tran loc="es-419">%d caras gritando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>/face.count:dict/faces:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d face</base>
-        <tran loc="es">%d cara</tran>
+        <tran loc="es-419">%d cara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>/photo.description.faces:dict/faces:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d face</base>
-        <tran loc="es">%d cara</tran>
+        <tran loc="es-419">%d cara</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -227,7 +227,7 @@
       <Position>emoji.face.eyes.bandages</Position>
       <TranslationSet>
         <base loc="en">Bandages on head</base>
-        <tran loc="es">Vendas en la cabeza</tran>
+        <tran loc="es-419">Cabeza vendada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>icon.type.chat</Position>
       <TranslationSet>
         <base loc="en">Chat</base>
-        <tran loc="es">Chat</tran>
+        <tran loc="es-419">Chat</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>emoji.face.eyes.crying</Position>
       <TranslationSet>
         <base loc="en">Tear falling from one eye</base>
-        <tran loc="es">Lágrima cayendo de un ojo</tran>
+        <tran loc="es-419">Lágrima saliendo de un ojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>icon.type.download</Position>
       <TranslationSet>
         <base loc="en">Download</base>
-        <tran loc="es">Descargar</tran>
+        <tran loc="es-419">Descargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>filetype.csv.file</Position>
       <TranslationSet>
         <base loc="en">CSV file</base>
-        <tran loc="es">Archivo CSV</tran>
+        <tran loc="es-419">Archivo CSV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -269,7 +269,7 @@
       <Position>wearing.glasses</Position>
       <TranslationSet>
         <base loc="en">wearing %@</base>
-        <tran loc="es">con %@</tran>
+        <tran loc="es-419">con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -277,7 +277,7 @@
       <Position>filetype.rar</Position>
       <TranslationSet>
         <base loc="en">RAR archive file</base>
-        <tran loc="es">Archivo comprimido RAR</tran>
+        <tran loc="es-419">Archivo comprimido RAR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -285,7 +285,7 @@
       <Position>chart.series.meanvalue.format</Position>
       <TranslationSet>
         <base loc="en">mean %1$@ %2$@</base>
-        <tran loc="es">valor medio de %1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ promedio de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -293,7 +293,7 @@
       <Position>emoji.hand.waving.royal</Position>
       <TranslationSet>
         <base loc="en">Hand waving with fingers close together</base>
-        <tran loc="es">Mano saludando con los dedos juntos</tran>
+        <tran loc="es-419">Saludo con los dedos juntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -301,7 +301,7 @@
       <Position>emoji.face.mouth.thermometer</Position>
       <TranslationSet>
         <base loc="en">Thermometer in mouth</base>
-        <tran loc="es">Termómetro en la boca</tran>
+        <tran loc="es-419">Termómetro en la boca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -309,7 +309,7 @@
       <Position>three.attributes.described</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@ and %3$@</base>
-        <tran loc="es">%1$@, %2$@ y %3$@</tran>
+        <tran loc="es-419">%1$@, %2$@ y %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -317,7 +317,7 @@
       <Position>outside.top-left.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">outside top-left edge</base>
-        <tran loc="es">fuera del borde superior izquierdo</tran>
+        <tran loc="es-419">fuera del borde superior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>filetype.json</Position>
       <TranslationSet>
         <base loc="en">JSON file</base>
-        <tran loc="es">Archivo JSON</tran>
+        <tran loc="es-419">Archivo JSON</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>emoji.heart.red.arrow</Position>
       <TranslationSet>
         <base loc="en">Red heart being shot with an arrow</base>
-        <tran loc="es">Corazón rojo atravesado por una flecha</tran>
+        <tran loc="es-419">Corazón rojo flechado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>near.top.edge</Position>
       <TranslationSet>
         <base loc="en">%@ near top edge</base>
-        <tran loc="es">%@ cerca del borde superior</tran>
+        <tran loc="es-419">%@ cerca del borde superior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>icon.type.down</Position>
       <TranslationSet>
         <base loc="en">Down Arrow</base>
-        <tran loc="es">Flecha hacia abajo</tran>
+        <tran loc="es-419">Flecha hacia abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>emoji.face.mouth.blowing.kiss</Position>
       <TranslationSet>
         <base loc="en">Blowing kiss</base>
-        <tran loc="es">Dando un beso</tran>
+        <tran loc="es-419">Mandando un beso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>emoji.hand.peace</Position>
       <TranslationSet>
         <base loc="en">Hand showing peace sign</base>
-        <tran loc="es">Mano haciendo el signo de la paz</tran>
+        <tran loc="es-419">Mano haciendo el signo de paz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>icon.type.checkmark</Position>
       <TranslationSet>
         <base loc="en">Checkmark</base>
-        <tran loc="es">Marca de verificación</tran>
+        <tran loc="es-419">Marca de selección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>icon.type.gift</Position>
       <TranslationSet>
         <base loc="en">Gift</base>
-        <tran loc="es">Regalo</tran>
+        <tran loc="es-419">Regalo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>icon.type.mail</Position>
       <TranslationSet>
         <base loc="en">Mail</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Mail</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>face.blinking</Position>
       <TranslationSet>
         <base loc="en">blinking</base>
-        <tran loc="es">cerrando los ojos</tran>
+        <tran loc="es-419">cerrando los ojos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>faceattributes.age.senior</Position>
       <TranslationSet>
         <base loc="en">adult</base>
-        <tran loc="es">adulto</tran>
+        <tran loc="es-419">adulto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +413,7 @@
       <Position>emoji.face.mouth.smirking</Position>
       <TranslationSet>
         <base loc="en">Smirking</base>
-        <tran loc="es">Sonrisa de superioridad</tran>
+        <tran loc="es-419">Sonrisa confiada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +421,7 @@
       <Position>emoji.hands.double.thumbs.up</Position>
       <TranslationSet>
         <base loc="en">Two hands giving thumbs up</base>
-        <tran loc="es">Dos manos con los pulgares hacia arriba</tran>
+        <tran loc="es-419">Dos pulgares arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>chart.series.trend.increasing</Position>
       <TranslationSet>
         <base loc="en">increasing</base>
-        <tran loc="es">creciente</tran>
+        <tran loc="es-419">aumentando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -437,7 +437,7 @@
       <Position>emoji.heart.blue</Position>
       <TranslationSet>
         <base loc="en">Blue heart</base>
-        <tran loc="es">Corazón azul</tran>
+        <tran loc="es-419">Corazón azul</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -445,7 +445,7 @@
       <Position>filetype.word</Position>
       <TranslationSet>
         <base loc="en">Word document</base>
-        <tran loc="es">Documento de Word</tran>
+        <tran loc="es-419">Documento de Word</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -453,7 +453,7 @@
       <Position>emoji.face.eyes.tearing.up</Position>
       <TranslationSet>
         <base loc="en">Tears in both eyes</base>
-        <tran loc="es">Lágrimas en los ojos</tran>
+        <tran loc="es-419">Lágrimas en ambos ojos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -461,7 +461,7 @@
       <Position>icon.type.locked</Position>
       <TranslationSet>
         <base loc="en">Locked</base>
-        <tran loc="es">Bloqueado</tran>
+        <tran loc="es-419">Bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -469,7 +469,7 @@
       <Position>photo.landmarks.face</Position>
       <TranslationSet>
         <base loc="en">Face</base>
-        <tran loc="es">Cara</tran>
+        <tran loc="es-419">Cara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -477,7 +477,7 @@
       <Position>icon.type.phone</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -485,7 +485,7 @@
       <Position>emoji.face.sunglasses</Position>
       <TranslationSet>
         <base loc="en">Wearing sunglasses</base>
-        <tran loc="es">Con gafas de sol</tran>
+        <tran loc="es-419">Con lentes obscuros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -493,7 +493,7 @@
       <Position>photo.landmarks.mouth</Position>
       <TranslationSet>
         <base loc="en">Mouth</base>
-        <tran loc="es">Boca</tran>
+        <tran loc="es-419">Boca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -501,7 +501,7 @@
       <Position>outside.bottom-left</Position>
       <TranslationSet>
         <base loc="en">%@ outside bottom-left edge</base>
-        <tran loc="es">%@ fuera del borde inferior izquierdo</tran>
+        <tran loc="es-419">%@ fuera del borde inferior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +511,7 @@
       <Position>centered</Position>
       <TranslationSet>
         <base loc="en">%@ centered</base>
-        <tran loc="es">%@ en el centro</tran>
+        <tran loc="es-419">%@ en el centro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -519,7 +519,7 @@
       <Position>photo.description.brightness.level.2</Position>
       <TranslationSet>
         <base loc="en">dark</base>
-        <tran loc="es">oscura</tran>
+        <tran loc="es-419">obscura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +527,7 @@
       <Position>outside.bottom-right.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">outside bottom-right edge</base>
-        <tran loc="es">fuera del borde inferior derecho</tran>
+        <tran loc="es-419">fuera del borde inferior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -535,7 +535,7 @@
       <Position>emoji.hand.hang.loose</Position>
       <TranslationSet>
         <base loc="en">Hang loose sign, hand with pinky and thumb extended</base>
-        <tran loc="es">Puño con el meñique y el pulgar extendidos</tran>
+        <tran loc="es-419">Mano haciendo cuernos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -543,7 +543,7 @@
       <Position>emoji.face.confused.and.dismayed</Position>
       <TranslationSet>
         <base loc="en">Confused and dismayed face</base>
-        <tran loc="es">Cara de confusión y consternación</tran>
+        <tran loc="es-419">Cara de confundida y consternada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -551,7 +551,7 @@
       <Position>emoji.heart.blue.exploding</Position>
       <TranslationSet>
         <base loc="en">Blue heart exploding into smaller hearts</base>
-        <tran loc="es">Explosión de corazoncitos azules</tran>
+        <tran loc="es-419">Explosión de corazoncitos azules</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -559,7 +559,7 @@
       <Position>icon.type.heart</Position>
       <TranslationSet>
         <base loc="en">Heart</base>
-        <tran loc="es">Corazón</tran>
+        <tran loc="es-419">Corazón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -567,7 +567,7 @@
       <Position>faceattributes.haircolor.gray</Position>
       <TranslationSet>
         <base loc="en">gray hair</base>
-        <tran loc="es">pelo gris</tran>
+        <tran loc="es-419">cabello canoso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -575,7 +575,7 @@
       <Position>emoji.heart.purple.arrow</Position>
       <TranslationSet>
         <base loc="en">Purple heart being shot with an arrow</base>
-        <tran loc="es">Corazón morado atravesado por una flecha</tran>
+        <tran loc="es-419">Corazón morado flechado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -583,7 +583,7 @@
       <Position>filetype.3D.model</Position>
       <TranslationSet>
         <base loc="en">3D Model</base>
-        <tran loc="es">Modelo 3D</tran>
+        <tran loc="es-419">Modelo 3D</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -591,7 +591,7 @@
       <Position>near.top-left.edge</Position>
       <TranslationSet>
         <base loc="en">%@ near top-left edge</base>
-        <tran loc="es">%@ cerca del borde superior izquierdo</tran>
+        <tran loc="es-419">%@ cerca del borde superior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -599,7 +599,7 @@
       <Position>emoji.hands.fist.bump</Position>
       <TranslationSet>
         <base loc="en">Two fists bumping together</base>
-        <tran loc="es">Dos puños chocándose</tran>
+        <tran loc="es-419">Saludo de choque de puños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -607,7 +607,7 @@
       <Position>faceattributes.facehair.moustache</Position>
       <TranslationSet>
         <base loc="en">moustache</base>
-        <tran loc="es">bigote</tran>
+        <tran loc="es-419">bigote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -615,7 +615,7 @@
       <Position>emoji.heart.purple.thinking.heart</Position>
       <TranslationSet>
         <base loc="en">Purple heart with smaller hearts floating upwards</base>
-        <tran loc="es">Corazón morado con corazoncitos flotando hacia arriba</tran>
+        <tran loc="es-419">Corazón morado con corazoncitos flotando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -623,7 +623,7 @@
       <Position>filetype.rss</Position>
       <TranslationSet>
         <base loc="en">RSS file</base>
-        <tran loc="es">Archivo RSS</tran>
+        <tran loc="es-419">Archivo RSS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -631,7 +631,7 @@
       <Position>photo.description.blurriness.level.3</Position>
       <TranslationSet>
         <base loc="en">somewhat sharp</base>
-        <tran loc="es">algo nítida</tran>
+        <tran loc="es-419">casi nítida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -639,7 +639,7 @@
       <Position>emoji.heart.red.broken</Position>
       <TranslationSet>
         <base loc="en">Red broken heart</base>
-        <tran loc="es">Corazón rojo partido en dos</tran>
+        <tran loc="es-419">Corazón rojo roto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -647,7 +647,7 @@
       <Position>emoji.hands.raising.roof</Position>
       <TranslationSet>
         <base loc="en">Raise the roof.  Two hands pushing upwards</base>
-        <tran loc="es">Dos manos levantadas.</tran>
+        <tran loc="es-419">Manos arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -655,7 +655,7 @@
       <Position>filetype.css.file</Position>
       <TranslationSet>
         <base loc="en">Text file</base>
-        <tran loc="es">Archivo de texto</tran>
+        <tran loc="es-419">Archivo de texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -663,7 +663,7 @@
       <Position>filetype.text.file</Position>
       <TranslationSet>
         <base loc="en">Text file</base>
-        <tran loc="es">Archivo de texto</tran>
+        <tran loc="es-419">Archivo de texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -671,7 +671,7 @@
       <Position>photo.landmarks.lefteye</Position>
       <TranslationSet>
         <base loc="en">Left Eye</base>
-        <tran loc="es">Ojo izquierdo</tran>
+        <tran loc="es-419">Ojo izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -679,7 +679,7 @@
       <Position>emoji.face.mouth.smiling.teeth</Position>
       <TranslationSet>
         <base loc="en">Smiling with teeth showing</base>
-        <tran loc="es">Sonriendo mostrando los dientes</tran>
+        <tran loc="es-419">Sonrisa que muestra los dientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -687,7 +687,7 @@
       <Position>photo.description.blurriness.level.2</Position>
       <TranslationSet>
         <base loc="en">sharp</base>
-        <tran loc="es">nítida</tran>
+        <tran loc="es-419">nítida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +695,7 @@
       <Position>filetype.image</Position>
       <TranslationSet>
         <base loc="en">Image</base>
-        <tran loc="es">Imagen</tran>
+        <tran loc="es-419">Imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +703,7 @@
       <Position>filetype.tiff</Position>
       <TranslationSet>
         <base loc="en">Image</base>
-        <tran loc="es">Imagen</tran>
+        <tran loc="es-419">Imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +711,7 @@
       <Position>photo.landmarks.nose</Position>
       <TranslationSet>
         <base loc="en">Nose</base>
-        <tran loc="es">Nariz</tran>
+        <tran loc="es-419">Nariz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +719,7 @@
       <Position>faceattributes.age.baby</Position>
       <TranslationSet>
         <base loc="en">baby</base>
-        <tran loc="es">bebé</tran>
+        <tran loc="es-419">bebé</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +727,7 @@
       <Position>centered.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">centered</base>
-        <tran loc="es">centrado</tran>
+        <tran loc="es-419">centrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -735,7 +735,7 @@
       <Position>emoji.face.mouth.half.frowning</Position>
       <TranslationSet>
         <base loc="en">Half frowning</base>
-        <tran loc="es">Boca cerrada de preocupación</tran>
+        <tran loc="es-419">Ceño un poco fruncido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -743,7 +743,7 @@
       <Position>faceattributes.facehair.stubble</Position>
       <TranslationSet>
         <base loc="en">stubble</base>
-        <tran loc="es">barba incipiente</tran>
+        <tran loc="es-419">barba de tres días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -751,7 +751,7 @@
       <Position>icon.type.smile</Position>
       <TranslationSet>
         <base loc="en">Smile</base>
-        <tran loc="es">Sonrisa</tran>
+        <tran loc="es-419">Sonrisa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -759,7 +759,7 @@
       <Position>faceattributes.bald</Position>
       <TranslationSet>
         <base loc="en">bald head</base>
-        <tran loc="es">la cabeza sin pelo</tran>
+        <tran loc="es-419">cabeza calva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@
       <Position>faceattributes.eyes.open</Position>
       <TranslationSet>
         <base loc="en">eyes open</base>
-        <tran loc="es">ojos abiertos</tran>
+        <tran loc="es-419">ojos abiertos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -775,7 +775,7 @@
       <Position>icon.type.notification</Position>
       <TranslationSet>
         <base loc="en">Notification</base>
-        <tran loc="es">Notificación</tran>
+        <tran loc="es-419">Notificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@
       <Position>emoji.heart.red.shattering</Position>
       <TranslationSet>
         <base loc="en">Red shattering heart</base>
-        <tran loc="es">Corazón rojo desmenuzándose</tran>
+        <tran loc="es-419">Corazón rojo rompiéndose</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -791,7 +791,7 @@
       <Position>icon.type.thumbs up</Position>
       <TranslationSet>
         <base loc="en">Thumbs Up</base>
-        <tran loc="es">Pulgar hacia arriba</tran>
+        <tran loc="es-419">Pulgar hacia arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -799,7 +799,7 @@
       <Position>emoji.face.eyes.closed</Position>
       <TranslationSet>
         <base loc="en">Eyes closed</base>
-        <tran loc="es">Ojos cerrados</tran>
+        <tran loc="es-419">Ojos cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -807,7 +807,7 @@
       <Position>chart.model.power</Position>
       <TranslationSet>
         <base loc="en">power curve</base>
-        <tran loc="es">curva de potencia</tran>
+        <tran loc="es-419">curva de potencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -815,7 +815,7 @@
       <Position>icon.type.camera</Position>
       <TranslationSet>
         <base loc="en">Camera</base>
-        <tran loc="es">Cámara</tran>
+        <tran loc="es-419">Cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -823,7 +823,7 @@
       <Position>filetype.calendar.event</Position>
       <TranslationSet>
         <base loc="en">Calendar event</base>
-        <tran loc="es">Evento de calendario</tran>
+        <tran loc="es-419">Evento de calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -831,7 +831,7 @@
       <Position>photo.landmarks.nosecrest</Position>
       <TranslationSet>
         <base loc="en">Nose Crest</base>
-        <tran loc="es">Parte inferior de la nariz</tran>
+        <tran loc="es-419">Puente de la nariz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -839,7 +839,7 @@
       <Position>chart.model.logarithmic</Position>
       <TranslationSet>
         <base loc="en">logarithmic</base>
-        <tran loc="es">logarítmico</tran>
+        <tran loc="es-419">logarítmico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -847,7 +847,7 @@
       <Position>emoji.face.eyes.half.closed.one</Position>
       <TranslationSet>
         <base loc="en">One eye half-closed</base>
-        <tran loc="es">Un ojo medio cerrado</tran>
+        <tran loc="es-419">Entrecerrando un ojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -855,7 +855,7 @@
       <Position>emoji.heart.purple.wings</Position>
       <TranslationSet>
         <base loc="en">Purple heart with wings</base>
-        <tran loc="es">Corazón morado con alas</tran>
+        <tran loc="es-419">Corazón morado con alas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -863,7 +863,7 @@
       <Position>emoji.heart.blue.broken</Position>
       <TranslationSet>
         <base loc="en">Blue broken heart</base>
-        <tran loc="es">Corazón azul partido en dos</tran>
+        <tran loc="es-419">Corazón azul roto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -871,7 +871,7 @@
       <Position>emoji.heart.purple.sparkling</Position>
       <TranslationSet>
         <base loc="en">Purple sparkling heart</base>
-        <tran loc="es">Corazón morado con destellos</tran>
+        <tran loc="es-419">Corazón morado centelleante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -879,7 +879,7 @@
       <Position>near.bottom-right.edge</Position>
       <TranslationSet>
         <base loc="en">%@ near bottom-right edge</base>
-        <tran loc="es">%@ cerca del borde inferior derecho</tran>
+        <tran loc="es-419">%@ cerca del borde inferior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -887,7 +887,7 @@
       <Position>icon.type.add</Position>
       <TranslationSet>
         <base loc="en">Add</base>
-        <tran loc="es">Añadir</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -895,7 +895,7 @@
       <Position>outside.right.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">outside right edge</base>
-        <tran loc="es">fuera del borde derecho</tran>
+        <tran loc="es-419">fuera del borde derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -903,7 +903,7 @@
       <Position>chart.series.maxvalue.format</Position>
       <TranslationSet>
         <base loc="en">maximum %1$@ of %2$@ with %3$@ %4$@</base>
-        <tran loc="es">valor máximo de %1$@ de %2$@ con %3$@ %4$@</tran>
+        <tran loc="es-419">valor máximo de %1$@ de %2$@ con %3$@ %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -911,7 +911,7 @@
       <Position>emoji.heart.red.beating</Position>
       <TranslationSet>
         <base loc="en">Red beating heart</base>
-        <tran loc="es">Corazón rojo latiendo</tran>
+        <tran loc="es-419">Corazón rojo latiendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -919,7 +919,7 @@
       <Position>near.bottom-left.edge.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">near bottom-left edge</base>
-        <tran loc="es">cerca del borde inferior izquierdo</tran>
+        <tran loc="es-419">cerca del borde inferior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -927,7 +927,7 @@
       <Position>two.attributes.described</Position>
       <TranslationSet>
         <base loc="en">%1$@ and %2$@</base>
-        <tran loc="es">%1$@ y %2$@</tran>
+        <tran loc="es-419">%1$@ y %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -935,7 +935,7 @@
       <Position>emoji.face.mouth.frowning</Position>
       <TranslationSet>
         <base loc="en">Frowning</base>
-        <tran loc="es">Boca cerrada de mucha preocupación</tran>
+        <tran loc="es-419">Ceño fruncido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -943,7 +943,7 @@
       <Position>filetype.media</Position>
       <TranslationSet>
         <base loc="en">Media file</base>
-        <tran loc="es">Archivo multimedia</tran>
+        <tran loc="es-419">Archivo multimedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -951,7 +951,7 @@
       <Position>emoji.heart.blue.shattering</Position>
       <TranslationSet>
         <base loc="en">Blue shattering heart</base>
-        <tran loc="es">Corazón azul desmenuzándose</tran>
+        <tran loc="es-419">Corazón azul rompiéndose</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -959,7 +959,7 @@
       <Position>near.bottom.edge.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">near bottom edge</base>
-        <tran loc="es">cerca del borde inferior</tran>
+        <tran loc="es-419">cerca del borde inferior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -967,7 +967,7 @@
       <Position>icon.type.more</Position>
       <TranslationSet>
         <base loc="en">More</base>
-        <tran loc="es">Más</tran>
+        <tran loc="es-419">Más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -975,7 +975,7 @@
       <Position>emoji.face.eyes.crosses</Position>
       <TranslationSet>
         <base loc="en">Crosses for eyes</base>
-        <tran loc="es">Ojos de cruces</tran>
+        <tran loc="es-419">Expresión muerta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -983,7 +983,7 @@
       <Position>emoji.heart.purple.broken</Position>
       <TranslationSet>
         <base loc="en">Purple broken heart</base>
-        <tran loc="es">Corazón morado partido en dos</tran>
+        <tran loc="es-419">Corazón morado roto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -991,7 +991,7 @@
       <Position>filetype.postscript</Position>
       <TranslationSet>
         <base loc="en">Postscript file</base>
-        <tran loc="es">Archivo PostScript</tran>
+        <tran loc="es-419">Archivo PostScript</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -999,7 +999,7 @@
       <Position>chart.series.trend.weak</Position>
       <TranslationSet>
         <base loc="en">weak association</base>
-        <tran loc="es">asociación débil</tran>
+        <tran loc="es-419">asociación baja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1007,7 +1007,7 @@
       <Position>icon.type.error</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1015,7 +1015,7 @@
       <Position>icon.type.home</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Casa</tran>
+        <tran loc="es-419">Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1023,7 +1023,7 @@
       <Position>emoji.face.eyes.zzz</Position>
       <TranslationSet>
         <base loc="en">Eyes closed with letter Zs floating above head</base>
-        <tran loc="es">Ojos cerrados y zetas por encima de la cabeza</tran>
+        <tran loc="es-419">Durmiendo y roncando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1031,7 +1031,7 @@
       <Position>with.face.attributes</Position>
       <TranslationSet>
         <base loc="en">with </base>
-        <tran loc="es">con </tran>
+        <tran loc="es-419">con </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1039,7 +1039,7 @@
       <Position>emoji.face.mouth.screaming</Position>
       <TranslationSet>
         <base loc="en">Screaming</base>
-        <tran loc="es">Gritando</tran>
+        <tran loc="es-419">Gritando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1047,7 +1047,7 @@
       <Position>icon.type.microphone</Position>
       <TranslationSet>
         <base loc="en">Microphone</base>
-        <tran loc="es">Micrófono</tran>
+        <tran loc="es-419">Micrófono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1055,7 +1055,7 @@
       <Position>chart.series.trend.strong</Position>
       <TranslationSet>
         <base loc="en">strong association</base>
-        <tran loc="es">asociación fuerte</tran>
+        <tran loc="es-419">asociación alta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1063,7 +1063,7 @@
       <Position>icon.type.play</Position>
       <TranslationSet>
         <base loc="en">Play</base>
-        <tran loc="es">Reproducir</tran>
+        <tran loc="es-419">Reproducir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1071,7 +1071,7 @@
       <Position>emoji.hand.crossing.fingers</Position>
       <TranslationSet>
         <base loc="en">Hand crossing fingers</base>
-        <tran loc="es">Mano con los dedos índice y corazón cruzados</tran>
+        <tran loc="es-419">Mano cruzando los dedos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1079,7 +1079,7 @@
       <Position>emoji.hand.thumbs.up.palm.of.hand</Position>
       <TranslationSet>
         <base loc="en">Hand giving thumbs up with palm of hand visible</base>
-        <tran loc="es">Palma de una mano con el pulgar hacia arriba</tran>
+        <tran loc="es-419">Pulgar hacia arriba mostrando la palma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1087,7 +1087,7 @@
       <Position>outside.bottom</Position>
       <TranslationSet>
         <base loc="en">%@ outside bottom edge</base>
-        <tran loc="es">%@ fuera del borde inferior</tran>
+        <tran loc="es-419">%@ fuera del borde inferior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1095,7 +1095,7 @@
       <Position>emoji.face.eyes.hearts</Position>
       <TranslationSet>
         <base loc="en">Hearts for eyes</base>
-        <tran loc="es">Ojos de corazones</tran>
+        <tran loc="es-419">Corazones en los ojos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1103,7 +1103,7 @@
       <Position>near.top-right.edge</Position>
       <TranslationSet>
         <base loc="en">%@ near top-right edge</base>
-        <tran loc="es">%@ cerca del borde superior derecho</tran>
+        <tran loc="es-419">%@ cerca del borde superior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1111,7 +1111,7 @@
       <Position>photo.landmarks.righteyebrow</Position>
       <TranslationSet>
         <base loc="en">Right Eyebrow</base>
-        <tran loc="es">Ceja derecha</tran>
+        <tran loc="es-419">Ceja derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1119,7 +1119,7 @@
       <Position>outside.top.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">outside top edge</base>
-        <tran loc="es">fuera del borde superior</tran>
+        <tran loc="es-419">fuera del borde superior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1127,7 +1127,7 @@
       <Position>outside.top-right.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">outside top-right edge</base>
-        <tran loc="es">fuera del borde superior derecho</tran>
+        <tran loc="es-419">fuera del borde superior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1135,7 +1135,7 @@
       <Position>filetype.rtf.document</Position>
       <TranslationSet>
         <base loc="en">RTF document</base>
-        <tran loc="es">Documento RTF</tran>
+        <tran loc="es-419">Documento RTF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1143,7 +1143,7 @@
       <Position>emoji.face.eyes.black.hearts</Position>
       <TranslationSet>
         <base loc="en">Black hearts for eyes</base>
-        <tran loc="es">Ojos de corazones negros</tran>
+        <tran loc="es-419">Corazones negros en los ojos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1151,7 +1151,7 @@
       <Position>filetype.pdf</Position>
       <TranslationSet>
         <base loc="en">PDF document</base>
-        <tran loc="es">Documento PDF</tran>
+        <tran loc="es-419">Documento PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1160,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.red.face</Position>
       <TranslationSet>
         <base loc="en">Red face</base>
-        <tran loc="es">Cara roja</tran>
+        <tran loc="es-419">Cara sonrojada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1168,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>face.number</Position>
       <TranslationSet>
         <base loc="en">Face %d</base>
-        <tran loc="es">Cara %d</tran>
+        <tran loc="es-419">Cara %d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1176,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.landmarks.lefteyebrow</Position>
       <TranslationSet>
         <base loc="en">Left Eyebrow</base>
-        <tran loc="es">Ceja izquierda</tran>
+        <tran loc="es-419">Ceja izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1184,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.haircolor.blonde</Position>
       <TranslationSet>
         <base loc="en">blonde hair</base>
-        <tran loc="es">pelo rubio</tran>
+        <tran loc="es-419">cabello rubio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1192,7 +1192,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.latex</Position>
       <TranslationSet>
         <base loc="en">Latex file</base>
-        <tran loc="es">Archivo Latex</tran>
+        <tran loc="es-419">Archivo de Látex</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1200,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.landmarks.righteye</Position>
       <TranslationSet>
         <base loc="en">Right Eye</base>
-        <tran loc="es">Ojo derecho</tran>
+        <tran loc="es-419">Ojo derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1208,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.purple.dizzy</Position>
       <TranslationSet>
         <base loc="en">Purple heart with smaller hearts circling above</base>
-        <tran loc="es">Corazón morado con corazoncitos rodeándolo por encima</tran>
+        <tran loc="es-419">Corazón morado rodeado de corazoncitos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1216,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.unknown</Position>
       <TranslationSet>
         <base loc="en">File</base>
-        <tran loc="es">Archivo</tran>
+        <tran loc="es-419">Archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1224,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.blue.dizzy</Position>
       <TranslationSet>
         <base loc="en">Blue heart with smaller hearts circling above</base>
-        <tran loc="es">Corazón azul con corazoncitos rodeándolo por encima</tran>
+        <tran loc="es-419">Corazón azul rodeado de corazoncitos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1232,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.eyes.closed</Position>
       <TranslationSet>
         <base loc="en">eyes closed</base>
-        <tran loc="es">ojos cerrados</tran>
+        <tran loc="es-419">ojos cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1240,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.info</Position>
       <TranslationSet>
         <base loc="en">Info</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.series.outlier.format</Position>
       <TranslationSet>
         <base loc="en">outlier at %@ %@ with %@ %@</base>
-        <tran loc="es">valor atípico en %@ %@ con %@ %@</tran>
+        <tran loc="es-419">valor atípico en %@ %@ con %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>face.number.format</Position>
       <TranslationSet>
         <base loc="en">Face %1$@: %2$@</base>
-        <tran loc="es">Cara %1$@: %2$@</tran>
+        <tran loc="es-419">Cara %1$@: %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.model.sinusoidal</Position>
       <TranslationSet>
         <base loc="en">sinusoidal</base>
-        <tran loc="es">sinusoidal</tran>
+        <tran loc="es-419">sinusoidal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.right.edge.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">near right edge</base>
-        <tran loc="es">cerca del borde derecho</tran>
+        <tran loc="es-419">cerca del borde derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.left.edge</Position>
       <TranslationSet>
         <base loc="en">%@ near left edge</base>
-        <tran loc="es">%@ cerca del borde izquierdo</tran>
+        <tran loc="es-419">%@ cerca del borde izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.location</Position>
       <TranslationSet>
         <base loc="en">Location</base>
-        <tran loc="es">Ubicación</tran>
+        <tran loc="es-419">Ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.excel</Position>
       <TranslationSet>
         <base loc="en">Microsoft Excel file</base>
-        <tran loc="es">Archivo de Microsoft Excel</tran>
+        <tran loc="es-419">Archivo de Microsoft Excel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.crossing.fingers.palm.of.hand</Position>
       <TranslationSet>
         <base loc="en">Hand crossing fingers with palm of hand visible</base>
-        <tran loc="es">Palma de una mano con los dedos índice y corazón cruzados</tran>
+        <tran loc="es-419">Mano cruzando los dedos mostrando la palma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.star</Position>
       <TranslationSet>
         <base loc="en">Star</base>
-        <tran loc="es">Asterisco</tran>
+        <tran loc="es-419">Estrella</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hands.pressing.together</Position>
       <TranslationSet>
         <base loc="en">Two hands pressing together</base>
-        <tran loc="es">Dos manos unidas por las palmas</tran>
+        <tran loc="es-419">Dos manos en postura de rezo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.landmarks.innerlips</Position>
       <TranslationSet>
         <base loc="en">Inner Lips</base>
-        <tran loc="es">Parte interior de los labios</tran>
+        <tran loc="es-419">Labios internos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1339,7 +1339,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>speech.formatter.email.address.standard.phonetic</Position>
       <TranslationSet>
         <base loc="en">%1$@ at %2$@ dot %3$@</base>
-        <tran loc="es">%1$@ arroba %2$@ punto %3$@</tran>
+        <tran loc="es-419">%1$@ arroba %2$@ punto %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1347,7 +1347,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.top</Position>
       <TranslationSet>
         <base loc="en">%@ outside top edge</base>
-        <tran loc="es">%@ fuera del borde superior</tran>
+        <tran loc="es-419">%@ fuera del borde superior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1355,7 +1355,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.red.dizzy</Position>
       <TranslationSet>
         <base loc="en">Red heart with smaller hearts circling above</base>
-        <tran loc="es">Corazón rojo con corazoncitos rodeándolo por encima</tran>
+        <tran loc="es-419">Corazón rojo rodeado de corazoncitos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1363,7 +1363,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.close</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1371,7 +1371,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.flag</Position>
       <TranslationSet>
         <base loc="en">Flag</base>
-        <tran loc="es">Indicador</tran>
+        <tran loc="es-419">Bandera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1379,7 +1379,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.series.trend.decreasing</Position>
       <TranslationSet>
         <base loc="en">decreasing</base>
-        <tran loc="es">decreciente</tran>
+        <tran loc="es-419">disminuyendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1387,7 +1387,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.facehair.goatee</Position>
       <TranslationSet>
         <base loc="en">goatee</base>
-        <tran loc="es">perilla</tran>
+        <tran loc="es-419">barba de chivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1395,7 +1395,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.description.blurriness.level.5</Position>
       <TranslationSet>
         <base loc="en">blurry</base>
-        <tran loc="es">borrosa</tran>
+        <tran loc="es-419">borrosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1403,7 +1403,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.blue.wings</Position>
       <TranslationSet>
         <base loc="en">Blue heart with wings</base>
-        <tran loc="es">Corazón azul con alas</tran>
+        <tran loc="es-419">Corazón azul con alas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1411,7 +1411,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.mouth.gasping</Position>
       <TranslationSet>
         <base loc="en">Gasping</base>
-        <tran loc="es">Boca abierta</tran>
+        <tran loc="es-419">Incredulidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1419,7 +1419,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.html.file</Position>
       <TranslationSet>
         <base loc="en">HTML file</base>
-        <tran loc="es">Archivo HTML</tran>
+        <tran loc="es-419">Archivo HTML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1427,7 +1427,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.facehair.beard</Position>
       <TranslationSet>
         <base loc="en">beard</base>
-        <tran loc="es">barba</tran>
+        <tran loc="es-419">barba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1435,7 +1435,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.glasses.prescription</Position>
       <TranslationSet>
         <base loc="en">prescription glasses</base>
-        <tran loc="es">gafas de graduación</tran>
+        <tran loc="es-419">lentes de graduación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1443,7 +1443,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.description.blurriness.level.4</Position>
       <TranslationSet>
         <base loc="en">slightly blurry</base>
-        <tran loc="es">un poco borrosa</tran>
+        <tran loc="es-419">ligeramente borrosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1451,7 +1451,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.blue.thinking.heart</Position>
       <TranslationSet>
         <base loc="en">Blue heart with smaller hearts floating upwards</base>
-        <tran loc="es">Corazón azul con corazoncitos flotando hacia arriba</tran>
+        <tran loc="es-419">Corazón azul con corazoncitos flotando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1459,7 +1459,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.right arrow</Position>
       <TranslationSet>
         <base loc="en">Right Arrow</base>
-        <tran loc="es">Flecha hacia la derecha</tran>
+        <tran loc="es-419">Flecha hacia la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1467,7 +1467,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.audio</Position>
       <TranslationSet>
         <base loc="en">Audio</base>
-        <tran loc="es">Audio</tran>
+        <tran loc="es-419">Audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1475,7 +1475,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.zip</Position>
       <TranslationSet>
         <base loc="en">Zip archive file</base>
-        <tran loc="es">Archivo comprimido Zip</tran>
+        <tran loc="es-419">Archivo comprimido Zip</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1483,7 +1483,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.purple.shattering</Position>
       <TranslationSet>
         <base loc="en">Purple shattering heart</base>
-        <tran loc="es">Corazón morado desmenuzándose</tran>
+        <tran loc="es-419">Corazón morado rompiéndose</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1491,7 +1491,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.series.outliers.none</Position>
       <TranslationSet>
         <base loc="en">no outliers</base>
-        <tran loc="es">ningún valor atípico</tran>
+        <tran loc="es-419">sin valores atípicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1499,7 +1499,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.blue.sparkling</Position>
       <TranslationSet>
         <base loc="en">Blue sparkling heart</base>
-        <tran loc="es">Corazón azul con destellos</tran>
+        <tran loc="es-419">Corazón azul centelleante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1507,7 +1507,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.fist</Position>
       <TranslationSet>
         <base loc="en">Fist</base>
-        <tran loc="es">Puño</tran>
+        <tran loc="es-419">Puño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1515,7 +1515,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.landmarks.leftpupil</Position>
       <TranslationSet>
         <base loc="en">Left Pupil</base>
-        <tran loc="es">Pupila izquierda</tran>
+        <tran loc="es-419">Pupila izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1523,7 +1523,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.back</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1531,7 +1531,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.bottom-right</Position>
       <TranslationSet>
         <base loc="en">%@ outside bottom-right edge</base>
-        <tran loc="es">%@ fuera del borde inferior derecho</tran>
+        <tran loc="es-419">%@ fuera del borde inferior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1539,7 +1539,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.landmarks.rightpupil</Position>
       <TranslationSet>
         <base loc="en">Right Pupil</base>
-        <tran loc="es">Pupila derecha</tran>
+        <tran loc="es-419">Pupila derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1547,7 +1547,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>detected.text.hint</Position>
       <TranslationSet>
         <base loc="en">Possible Text</base>
-        <tran loc="es">Texto posible</tran>
+        <tran loc="es-419">Texto posible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1555,7 +1555,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.age.youngadult</Position>
       <TranslationSet>
         <base loc="en">young adult</base>
-        <tran loc="es">joven</tran>
+        <tran loc="es-419">joven</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1563,7 +1563,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.haircolor.red</Position>
       <TranslationSet>
         <base loc="en">red hair</base>
-        <tran loc="es">pelo pelirrojo</tran>
+        <tran loc="es-419">cabello rojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1571,7 +1571,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.series.trend.verystrong</Position>
       <TranslationSet>
         <base loc="en">very strong association</base>
-        <tran loc="es">asociación muy fuerte</tran>
+        <tran loc="es-419">asociación muy alta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1579,7 +1579,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.red.wings</Position>
       <TranslationSet>
         <base loc="en">Red heart with wings</base>
-        <tran loc="es">Corazón rojo con alas</tran>
+        <tran loc="es-419">Corazón rojo con alas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1587,7 +1587,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.aviator.sunglasses</Position>
       <TranslationSet>
         <base loc="en">Wearing aviator sunglasses</base>
-        <tran loc="es">Con gafas de sol de aviador</tran>
+        <tran loc="es-419">Con lentes obscuros de aviador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1595,7 +1595,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.right</Position>
       <TranslationSet>
         <base loc="en">%@ outside right edge</base>
-        <tran loc="es">%@ fuera del borde derecho</tran>
+        <tran loc="es-419">%@ fuera del borde derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1603,7 +1603,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>face.smiling</Position>
       <TranslationSet>
         <base loc="en">smiling</base>
-        <tran loc="es">sonriendo</tran>
+        <tran loc="es-419">sonriendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1611,7 +1611,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.smiling</Position>
       <TranslationSet>
         <base loc="en">smiling</base>
-        <tran loc="es">sonriendo</tran>
+        <tran loc="es-419">sonriendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1619,7 +1619,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.right.edge</Position>
       <TranslationSet>
         <base loc="en">%@ near right edge</base>
-        <tran loc="es">%@ cerca del borde derecho</tran>
+        <tran loc="es-419">%@ cerca del borde derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1627,7 +1627,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.model.linear</Position>
       <TranslationSet>
         <base loc="en">linear</base>
-        <tran loc="es">lineal</tran>
+        <tran loc="es-419">lineal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1635,7 +1635,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.top-left</Position>
       <TranslationSet>
         <base loc="en">%@ outside top-left edge</base>
-        <tran loc="es">%@ fuera del borde superior izquierdo</tran>
+        <tran loc="es-419">%@ fuera del borde superior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1643,7 +1643,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.description.brightness.level.3</Position>
       <TranslationSet>
         <base loc="en">slightly dark</base>
-        <tran loc="es">un poco oscura</tran>
+        <tran loc="es-419">ligeramente obscura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1651,7 +1651,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.blue.beating</Position>
       <TranslationSet>
         <base loc="en">Blue beating heart</base>
-        <tran loc="es">Corazón azul latiendo</tran>
+        <tran loc="es-419">Corazón azul latiendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1659,7 +1659,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.number</Position>
       <TranslationSet>
         <base loc="en">Numbers file</base>
-        <tran loc="es">Archivo de Numbers</tran>
+        <tran loc="es-419">Archivo de Numbers</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1667,7 +1667,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.mouth.smiling.wide</Position>
       <TranslationSet>
         <base loc="en">Smiling with open mouth</base>
-        <tran loc="es">Sonriendo con la boca abierta</tran>
+        <tran loc="es-419">Sonriendo con la boca abierta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1675,7 +1675,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.onenote</Position>
       <TranslationSet>
         <base loc="en">Microsoft One Note file</base>
-        <tran loc="es">Archivo de Microsoft OneNote</tran>
+        <tran loc="es-419">Archivo de Microsoft One Note</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1683,7 +1683,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.purple.exploding</Position>
       <TranslationSet>
         <base loc="en">Purple heart exploding into smaller hearts</base>
-        <tran loc="es">Explosión de corazoncitos morados</tran>
+        <tran loc="es-419">Explosión de corazoncitos morados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1691,7 +1691,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.clapping</Position>
       <TranslationSet>
         <base loc="en">Two hands clapping together</base>
-        <tran loc="es">Dos manos aplaudiendo</tran>
+        <tran loc="es-419">Dos manos aplaudiendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1699,7 +1699,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.cat.eye.sunglasses</Position>
       <TranslationSet>
         <base loc="en">Wearing cat-eye sunglasses</base>
-        <tran loc="es">Con gafas de sol de ojos de gato</tran>
+        <tran loc="es-419">Con lentes obscuros alargados horizontalmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1707,7 +1707,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.description.blurriness.level.6</Position>
       <TranslationSet>
         <base loc="en">very blurry</base>
-        <tran loc="es">muy borrosa</tran>
+        <tran loc="es-419">muy borrosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1715,7 +1715,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.mouth.surgical.mask</Position>
       <TranslationSet>
         <base loc="en">Surgical mask covering mouth</base>
-        <tran loc="es">Con mascarilla quirúrgica</tran>
+        <tran loc="es-419">Mascarilla quirúrgica cubriendo la boca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1723,7 +1723,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.powerpoint</Position>
       <TranslationSet>
         <base loc="en">Microsoft Powerpoint file</base>
-        <tran loc="es">Archivo de Microsoft PowerPoint</tran>
+        <tran loc="es-419">Archivo de Microsoft PowerPoint</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1731,7 +1731,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.xml</Position>
       <TranslationSet>
         <base loc="en">XML file</base>
-        <tran loc="es">Archivo XML</tran>
+        <tran loc="es-419">Archivo XML</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1739,7 +1739,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.mouth.tongue</Position>
       <TranslationSet>
         <base loc="en">Sticking out tongue</base>
-        <tran loc="es">Sacando la lengua</tran>
+        <tran loc="es-419">Sacando la lengua</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1747,7 +1747,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.landmarks.medianline</Position>
       <TranslationSet>
         <base loc="en">Median Line</base>
-        <tran loc="es">Línea central</tran>
+        <tran loc="es-419">Mediana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1755,7 +1755,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.age.child</Position>
       <TranslationSet>
         <base loc="en">child</base>
-        <tran loc="es">niño o niña</tran>
+        <tran loc="es-419">niño(a)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1763,7 +1763,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.left</Position>
       <TranslationSet>
         <base loc="en">%@ outside left edge</base>
-        <tran loc="es">%@ fuera del borde izquierdo</tran>
+        <tran loc="es-419">%@ fuera del borde izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1771,7 +1771,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.top.edge.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">near top edge</base>
-        <tran loc="es">cerca del borde superior</tran>
+        <tran loc="es-419">cerca del borde superior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1779,7 +1779,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.blue.arrow</Position>
       <TranslationSet>
         <base loc="en">Blue heart being shot with an arrow</base>
-        <tran loc="es">Corazón azul atravesado por una flecha</tran>
+        <tran loc="es-419">Corazón azul flechado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1787,7 +1787,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.bottom.edge</Position>
       <TranslationSet>
         <base loc="en">%@ near bottom edge</base>
-        <tran loc="es">%@ cerca del borde inferior</tran>
+        <tran loc="es-419">%@ cerca del borde inferior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1795,7 +1795,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.svg</Position>
       <TranslationSet>
         <base loc="en">Scalable Vector Graphics file</base>
-        <tran loc="es">Archivo SVG</tran>
+        <tran loc="es-419">Archivo SVG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1803,7 +1803,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.sleeping</Position>
       <TranslationSet>
         <base loc="en">Sleeping face</base>
-        <tran loc="es">Cara durmiendo</tran>
+        <tran loc="es-419">Cara durmiendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1811,7 +1811,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.configuration.profile</Position>
       <TranslationSet>
         <base loc="en">Configuration profile</base>
-        <tran loc="es">Perfil de configuración</tran>
+        <tran loc="es-419">Perfil de configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1819,7 +1819,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.share</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1827,7 +1827,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.pointing.right</Position>
       <TranslationSet>
         <base loc="en">Hand pointing right</base>
-        <tran loc="es">Mano señalando hacia la derecha</tran>
+        <tran loc="es-419">Mano apuntando a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1835,7 +1835,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.haircolor.white</Position>
       <TranslationSet>
         <base loc="en">white hair</base>
-        <tran loc="es">pelo blanco</tran>
+        <tran loc="es-419">cabello blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1843,7 +1843,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.pages</Position>
       <TranslationSet>
         <base loc="en">Pages file</base>
-        <tran loc="es">Archivo de Pages</tran>
+        <tran loc="es-419">Archivo de Pages</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1851,7 +1851,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.series.trend.moderate</Position>
       <TranslationSet>
         <base loc="en">moderate association</base>
-        <tran loc="es">asociación moderada</tran>
+        <tran loc="es-419">asociación moderada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1859,7 +1859,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.contact.card</Position>
       <TranslationSet>
         <base loc="en">Contact card</base>
-        <tran loc="es">Tarjeta de contacto</tran>
+        <tran loc="es-419">Tarjeta de contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1867,7 +1867,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.thumbs.up.back.of.hand</Position>
       <TranslationSet>
         <base loc="en">Hand giving thumbs up with back of hand visible</base>
-        <tran loc="es">Dorso de una mano con el pulgar hacia arriba</tran>
+        <tran loc="es-419">Pulgar hacia arriba mostrando el anverso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1875,7 +1875,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.series.minvalue.format</Position>
       <TranslationSet>
         <base loc="en">minimum %1$@ of %2$@ with %3$@ %4$@</base>
-        <tran loc="es">valor mínimo %1$@ de %2$@ con %3$@ %4$@</tran>
+        <tran loc="es-419">valor mínimo de %1$@ de %2$@ con %3$@ %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1883,7 +1883,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.keynote</Position>
       <TranslationSet>
         <base loc="en">Keynote file</base>
-        <tran loc="es">Archivo de Keynote</tran>
+        <tran loc="es-419">Archivo de Keynote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1891,7 +1891,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.raised.hand</Position>
       <TranslationSet>
         <base loc="en">Raised hand</base>
-        <tran loc="es">Mano alzada</tran>
+        <tran loc="es-419">Mano alzada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1899,7 +1899,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.pointing.left</Position>
       <TranslationSet>
         <base loc="en">Hand pointing left</base>
-        <tran loc="es">Mano señalando hacia la izquierda</tran>
+        <tran loc="es-419">Mano apuntando a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1907,7 +1907,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.mouth.smiling</Position>
       <TranslationSet>
         <base loc="en">Smiling</base>
-        <tran loc="es">Sonriendo</tran>
+        <tran loc="es-419">Sonriendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1915,7 +1915,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>speech.formatter.email.address.at.phonetic</Position>
       <TranslationSet>
         <base loc="en">at</base>
-        <tran loc="es">arroba</tran>
+        <tran loc="es-419">arroba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1923,7 +1923,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.ok.symbol</Position>
       <TranslationSet>
         <base loc="en">OK sign, hand with thumb and index finger forming circle</base>
-        <tran loc="es">Mano con el pulgar y el dedo índice tocándose formando un círculo</tran>
+        <tran loc="es-419">Dedos índice y pulgar formando un círculo y los demás extendidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1931,7 +1931,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.yellow.face</Position>
       <TranslationSet>
         <base loc="en">Yellow face</base>
-        <tran loc="es">Cara amarilla</tran>
+        <tran loc="es-419">Cara amarilla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1939,7 +1939,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.tar</Position>
       <TranslationSet>
         <base loc="en">TAR archive file</base>
-        <tran loc="es">Archivo comprimido TAR</tran>
+        <tran loc="es-419">Archivo comprimido TAR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1947,7 +1947,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.glasses.sunglasses</Position>
       <TranslationSet>
         <base loc="en">sunglasses</base>
-        <tran loc="es">gafas de sol</tran>
+        <tran loc="es-419">lentes obscuros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1955,7 +1955,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.refresh</Position>
       <TranslationSet>
         <base loc="en">Refresh</base>
-        <tran loc="es">Actualizar</tran>
+        <tran loc="es-419">Actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1963,7 +1963,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.red.exploding</Position>
       <TranslationSet>
         <base loc="en">Red heart exploding into smaller hearts</base>
-        <tran loc="es">Explosión de corazoncitos rojos</tran>
+        <tran loc="es-419">Explosión de corazoncitos rojos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1971,7 +1971,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.bottom-left.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">outside bottom-left edge</base>
-        <tran loc="es">fuera del borde inferior izquierdo</tran>
+        <tran loc="es-419">fuera del borde inferior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1979,7 +1979,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.thumbs.down</Position>
       <TranslationSet>
         <base loc="en">Hand giving thumbs down</base>
-        <tran loc="es">Mano con el pulgar hacia abajo</tran>
+        <tran loc="es-419">Pulgar hacia abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1987,7 +1987,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.crossing.fingers.back.of.hand</Position>
       <TranslationSet>
         <base loc="en">Hand crossing fingers with back of hand visible</base>
-        <tran loc="es">Dorso de una mano con los dedos índice y corazón cruzados</tran>
+        <tran loc="es-419">Mano cruzando los dedos mostrando el anverso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1995,7 +1995,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.top-right</Position>
       <TranslationSet>
         <base loc="en">%@ outside top-right edge</base>
-        <tran loc="es">%@ fuera del borde superior derecho</tran>
+        <tran loc="es-419">%@ fuera del borde superior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2003,7 +2003,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.description.brightness.level.4</Position>
       <TranslationSet>
         <base loc="en">bright</base>
-        <tran loc="es">clara</tran>
+        <tran loc="es-419">brillante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2011,7 +2011,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.mouth.smiling.half.open</Position>
       <TranslationSet>
         <base loc="en">Smiling with half open mouth</base>
-        <tran loc="es">Sonriendo con la boca medio abierta</tran>
+        <tran loc="es-419">Sonriendo con la boca entreabierta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2019,7 +2019,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.red.sparkling</Position>
       <TranslationSet>
         <base loc="en">Red sparkling heart</base>
-        <tran loc="es">Corazón rojo con destellos</tran>
+        <tran loc="es-419">Corazón rojo centelleante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2027,7 +2027,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.bottom.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">outside bottom edge</base>
-        <tran loc="es">fuera del borde inferior</tran>
+        <tran loc="es-419">fuera del borde inferior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2035,7 +2035,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.top-right.edge.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">near top-right edge</base>
-        <tran loc="es">cerca del borde superior derecho</tran>
+        <tran loc="es-419">cerca del borde superior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2043,7 +2043,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.red.thinking.heart</Position>
       <TranslationSet>
         <base loc="en">Red heart with smaller hearts floating upwards</base>
-        <tran loc="es">Corazón rojo con corazoncitos flotando hacia arriba</tran>
+        <tran loc="es-419">Corazón rojo con corazoncitos flotando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2051,7 +2051,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.model.exponential</Position>
       <TranslationSet>
         <base loc="en">exponential curve</base>
-        <tran loc="es">curva exponencial</tran>
+        <tran loc="es-419">curva exponencial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2059,7 +2059,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>outside.left.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">outside left edge</base>
-        <tran loc="es">fuera del borde izquierdo</tran>
+        <tran loc="es-419">fuera del borde izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2067,7 +2067,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.bottom-right.edge.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">near bottom-right edge</base>
-        <tran loc="es">cerca del borde inferior derecho</tran>
+        <tran loc="es-419">cerca del borde inferior derecho</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2075,7 +2075,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.purple.beating</Position>
       <TranslationSet>
         <base loc="en">Purple beating heart</base>
-        <tran loc="es">Corazón morado latiendo</tran>
+        <tran loc="es-419">Corazón morado latiendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2083,7 +2083,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.top-left.edge.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">near top-left edge</base>
-        <tran loc="es">cerca del borde superior izquierdo</tran>
+        <tran loc="es-419">cerca del borde superior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2091,7 +2091,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.eyes.one.eye.closed</Position>
       <TranslationSet>
         <base loc="en">One eye winking</base>
-        <tran loc="es">Guiñando un ojo</tran>
+        <tran loc="es-419">Guiño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2099,7 +2099,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.eyes.wide.open</Position>
       <TranslationSet>
         <base loc="en">Wide open eyes</base>
-        <tran loc="es">Ojos muy abiertos</tran>
+        <tran loc="es-419">Expresión de sorpresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2107,7 +2107,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.calendar</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2115,7 +2115,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.search</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2123,7 +2123,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.video</Position>
       <TranslationSet>
         <base loc="en">Video</base>
-        <tran loc="es">Vídeo</tran>
+        <tran loc="es-419">Video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2131,7 +2131,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.eyes.open</Position>
       <TranslationSet>
         <base loc="en">Eyes open</base>
-        <tran loc="es">Ojos abiertos</tran>
+        <tran loc="es-419">Ojos abiertos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2139,7 +2139,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.person</Position>
       <TranslationSet>
         <base loc="en">Person</base>
-        <tran loc="es">Persona</tran>
+        <tran loc="es-419">Persona</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2147,7 +2147,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.left.edge.implicit-subject</Position>
       <TranslationSet>
         <base loc="en">near left edge</base>
-        <tran loc="es">cerca del borde izquierdo</tran>
+        <tran loc="es-419">cerca del borde izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2155,7 +2155,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.description.brightness.level.1</Position>
       <TranslationSet>
         <base loc="en">very dark</base>
-        <tran loc="es">muy oscura</tran>
+        <tran loc="es-419">muy obscura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2163,7 +2163,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.speaker</Position>
       <TranslationSet>
         <base loc="en">Speaker</base>
-        <tran loc="es">Altavoz</tran>
+        <tran loc="es-419">Bocina</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2171,7 +2171,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.description.blurriness.level.1</Position>
       <TranslationSet>
         <base loc="en">very sharp</base>
-        <tran loc="es">muy nítida</tran>
+        <tran loc="es-419">muy nítida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2179,7 +2179,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.hand.waving</Position>
       <TranslationSet>
         <base loc="en">Hand waving</base>
-        <tran loc="es">Mano saludando</tran>
+        <tran loc="es-419">Saludo con la mano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2187,7 +2187,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>near.bottom-left.edge</Position>
       <TranslationSet>
         <base loc="en">%@ near bottom-left edge</base>
-        <tran loc="es">%@ cerca del borde inferior izquierdo</tran>
+        <tran loc="es-419">%@ cerca del borde inferior izquierdo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2195,7 +2195,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.haircolor.black</Position>
       <TranslationSet>
         <base loc="en">black hair</base>
-        <tran loc="es">pelo moreno</tran>
+        <tran loc="es-419">cabello negro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2203,7 +2203,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>chart.series.trend.none</Position>
       <TranslationSet>
         <base loc="en">no association</base>
-        <tran loc="es">ninguna asociación</tran>
+        <tran loc="es-419">sin asociación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2211,7 +2211,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.settings</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2219,7 +2219,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>detected.icon.hint</Position>
       <TranslationSet>
         <base loc="en">Possibly</base>
-        <tran loc="es">Posiblemente</tran>
+        <tran loc="es-419">Posiblemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2227,7 +2227,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>filetype.psd</Position>
       <TranslationSet>
         <base loc="en">Photoshop document</base>
-        <tran loc="es">Documento de Photoshop</tran>
+        <tran loc="es-419">Documento de Photoshop</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2235,7 +2235,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.red</Position>
       <TranslationSet>
         <base loc="en">Red heart</base>
-        <tran loc="es">Corazón rojo</tran>
+        <tran loc="es-419">Corazón rojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2243,7 +2243,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.menu</Position>
       <TranslationSet>
         <base loc="en">Menu</base>
-        <tran loc="es">Menú</tran>
+        <tran loc="es-419">Menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2251,7 +2251,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>photo.description.brightness.level.5</Position>
       <TranslationSet>
         <base loc="en">very bright</base>
-        <tran loc="es">muy clara</tran>
+        <tran loc="es-419">muy brillante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2259,7 +2259,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.eyes.half.closed</Position>
       <TranslationSet>
         <base loc="en">Eyes half closed</base>
-        <tran loc="es">Ojos medio cerrados</tran>
+        <tran loc="es-419">Ojos entrecerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2267,7 +2267,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.people</Position>
       <TranslationSet>
         <base loc="en">People</base>
-        <tran loc="es">Personas</tran>
+        <tran loc="es-419">Personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2275,7 +2275,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.heart.purple</Position>
       <TranslationSet>
         <base loc="en">Purple heart</base>
-        <tran loc="es">Corazón morado</tran>
+        <tran loc="es-419">Corazón morado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2283,7 +2283,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>faceattributes.haircolor.brown</Position>
       <TranslationSet>
         <base loc="en">brown hair</base>
-        <tran loc="es">pelo castaño</tran>
+        <tran loc="es-419">cabello castaño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2291,7 +2291,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.sad</Position>
       <TranslationSet>
         <base loc="en">Sad face</base>
-        <tran loc="es">Cara triste</tran>
+        <tran loc="es-419">Cara triste</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2299,7 +2299,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.pause</Position>
       <TranslationSet>
         <base loc="en">Pause</base>
-        <tran loc="es">Pausar</tran>
+        <tran loc="es-419">Pausa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2307,7 +2307,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>emoji.face.eyes.furled</Position>
       <TranslationSet>
         <base loc="en">Eyes open with furled eyebrows</base>
-        <tran loc="es">Ojos abiertos y ceño fruncido</tran>
+        <tran loc="es-419">Ojos abiertos con cejas juntas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2315,7 +2315,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>icon.type.up</Position>
       <TranslationSet>
         <base loc="en">Up Arrow</base>
-        <tran loc="es">Flecha hacia arriba</tran>
+        <tran loc="es-419">Flecha hacia arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2323,7 +2323,7 @@ NOTE TO LOCALIZERS: These are pre-existing strings moved from PepperAccessibilit
       <Position>speech.formatter.email.address.dot.phonetic</Position>
       <TranslationSet>
         <base loc="en">dot</base>
-        <tran loc="es">punto</tran>
+        <tran loc="es-419">punto</tran>
       </TranslationSet>
     </TextItem>
   </File>

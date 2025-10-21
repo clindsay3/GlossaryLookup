@@ -8,7 +8,7 @@
       <Position>Reminders</Position>
       <TranslationSet>
         <base loc="en">Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Calendar</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Reminder</Position>
       <TranslationSet>
         <base loc="en">Reminder</base>
-        <tran loc="es">Recordatorio</tran>
+        <tran loc="es-419">Recordatorio</tran>
       </TranslationSet>
     </TextItem>
   </File>

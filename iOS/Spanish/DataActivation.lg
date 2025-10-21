@@ -8,7 +8,7 @@
       <Position>CONSENT_CURRENT_PLAN_CANNOT_BE_DELETED_IPAD_%@</Position>
       <TranslationSet>
         <base loc="en">Your %@ iPad plan has a cellular plan lock. It can only be removed if it is the only cellular plan installed.</base>
-        <tran loc="es">El plan %@ del iPad tiene un bloqueo de plan de datos móviles. Solo se puede eliminar si es el único plan de datos móviles instalado.</tran>
+        <tran loc="es-419">Tu plan de datos celulares de %@ para iPad está bloqueado y sólo se puede eliminar si es el único instalado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Data Plan Activation</Position>
       <TranslationSet>
         <base loc="en">Data Plan Activation</base>
-        <tran loc="es">Activación del plan de datos</tran>
+        <tran loc="es-419">Plan de datos activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>CONSENT_DELETE_ACTION</Position>
       <TranslationSet>
         <base loc="en">Remove Plan</base>
-        <tran loc="es">Eliminar plan</tran>
+        <tran loc="es-419">Eliminar plan</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>CONSENT_CURRENT_PLAN_CANNOT_BE_DELETED_IPHONE_%@</Position>
       <TranslationSet>
         <base loc="en">Your %@ iPhone plan has a cellular plan lock. It can only be removed if it is the only cellular plan installed.</base>
-        <tran loc="es">El plan %@ del iPhone tiene un bloqueo de plan de datos móviles. Solo se puede eliminar si es el único plan de datos móviles instalado.</tran>
+        <tran loc="es-419">Tu plan de datos celulares de %@ para iPhone está bloqueado y sólo se puede eliminar si es el único instalado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Cellular Data Plan Updated</Position>
       <TranslationSet>
         <base loc="en">Cellular Data Plan Updated</base>
-        <tran loc="es">Plan de datos móviles actualizado</tran>
+        <tran loc="es-419">Plan de datos celulares actualizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Setting Up Cellular Data Requires Location Services</Position>
       <TranslationSet>
         <base loc="en">Setting Up Cellular Data Requires Location Services</base>
-        <tran loc="es">Para configurar los datos móviles, la localización debe estar activada.</tran>
+        <tran loc="es-419">Configurar los datos celulares requiere de Localización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Other …</Position>
       <TranslationSet>
         <base loc="en">Other …</base>
-        <tran loc="es">Otro…</tran>
+        <tran loc="es-419">Otro…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Location Unavailable</Position>
       <TranslationSet>
         <base loc="en">Location Unavailable</base>
-        <tran loc="es">Localización no disponible</tran>
+        <tran loc="es-419">Ubicación no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Cellular Account</Position>
       <TranslationSet>
         <base loc="en">Cellular Account</base>
-        <tran loc="es">Cuenta de datos móviles</tran>
+        <tran loc="es-419">Cuenta de datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>CONSENT_CURRENT_PLAN_CANNOT_BE_DISABLED_NO_NAME_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Your current iPhone plan has a cellular plan lock. To add another cellular plan to iPhone, you must first remove the current iPhone plan.</base>
-        <tran loc="es">El plan actual del iPhone tiene un bloqueo de plan de datos móviles. Para poder añadir otro plan de datos móviles al iPhone, primero tienes que eliminar el plan actual del iPhone.</tran>
+        <tran loc="es-419">Tu plan de datos actual para iPhone está bloqueado y tendrás que eliminarlo para agregar otro.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Cellular Data Account</Position>
       <TranslationSet>
         <base loc="en">Cellular Data Account</base>
-        <tran loc="es">Cuenta de datos móviles</tran>
+        <tran loc="es-419">Cuenta de datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>TURN_ON_LOCATION_SERVICES_BUTTON_TEXT</Position>
       <TranslationSet>
         <base loc="en">Turn on Location Services</base>
-        <tran loc="es">Activar localización</tran>
+        <tran loc="es-419">Activar Localización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>SELECT CARRIER</Position>
       <TranslationSet>
         <base loc="en">SELECT CARRIER</base>
-        <tran loc="es">SELECCIONAR OPERADOR</tran>
+        <tran loc="es-419">SELECCIONAR OPERADOR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>CONSENT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>Continue</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>Please wait while the page is loading...</Position>
       <TranslationSet>
         <base loc="en">Please wait while the page is loading…</base>
-        <tran loc="es">Espera mientras la página se carga…</tran>
+        <tran loc="es-419">Espera mientras se carga la página…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Updating Cellular Data...</Position>
       <TranslationSet>
         <base loc="en">Updating Cellular Data…</base>
-        <tran loc="es">Actualizando datos móviles…</tran>
+        <tran loc="es-419">Actualizando datos celulares…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>CONSENT_CURRENT_PLAN_CANNOT_BE_DISABLED_NO_NAME_IPAD</Position>
       <TranslationSet>
         <base loc="en">Your current iPad plan has a cellular plan lock. To add another cellular plan to iPad, you must first remove the current iPad plan.</base>
-        <tran loc="es">El plan actual del iPad tiene un bloqueo de plan de datos móviles. Para poder añadir otro plan de datos móviles al iPad, primero tienes que eliminar el plan actual del iPad.</tran>
+        <tran loc="es-419">Tu plan de datos actual para iPad está bloqueado y tendrás que eliminarlo para agregar otro.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>Connection Failed</Position>
       <TranslationSet>
         <base loc="en">Connection Failed</base>
-        <tran loc="es">Error de conexión</tran>
+        <tran loc="es-419">Error de conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>This may take a few minutes to complete.</Position>
       <TranslationSet>
         <base loc="en">This may take a few minutes to complete.</base>
-        <tran loc="es">Esta operación puede tardar unos minutos en completarse.</tran>
+        <tran loc="es-419">El proceso podría tardar algunos minutos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>CONSENT_CURRENT_PLAN_CANNOT_BE_DISABLED_IPHONE_%@_%@</Position>
       <TranslationSet>
         <base loc="en">Your %@ plan does not allow additional cellular plans to be set up. To add a new plan to iPhone, your %@ plan must be deleted first.</base>
-        <tran loc="es">El plan %@ no permite configurar más planes de datos móviles. Para añadir otro plan al iPhone, primero tienes que eliminar el plan %@.</tran>
+        <tran loc="es-419">El plan de %@ no permite configurar planes adicionales. Para agregar un nuevo plan a este iPhone, primero debes eliminar el de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>CONSENT_NEW_PROFILE_POLICY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Subscription Lock</base>
-        <tran loc="es">Bloqueo de suscripción</tran>
+        <tran loc="es-419">Bloqueo de suscripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>PPR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Subscription Lock</base>
-        <tran loc="es">Bloqueo de suscripción</tran>
+        <tran loc="es-419">Bloqueo de suscripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>CONSENT_KEEP_ACTION</Position>
       <TranslationSet>
         <base loc="en">Keep Plan</base>
-        <tran loc="es">Mantener plan</tran>
+        <tran loc="es-419">Mantener plan</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>The connection to the server was lost.  Please try again later.</Position>
       <TranslationSet>
         <base loc="en">The connection to the server was lost.  Please try again later.</base>
-        <tran loc="es">Se ha perdido la conexión con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Se perdió la conexión con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>LOCATION_SERVICES_DISABLED_TEXT</Position>
       <TranslationSet>
         <base loc="en">Turn on Location Services to see cellular plans available in your area.</base>
-        <tran loc="es">Activa la localización para ver los planes de datos disponibles en tu área.</tran>
+        <tran loc="es-419">Activa Localización para ver los planes de datos celulares disponibles en tu área.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>CONSENT_CURRENT_PLAN_CANNOT_BE_DELETED_NO_NAME_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Your current iPhone plan has a cellular plan lock. It can only be removed if it is the only cellular plan installed.</base>
-        <tran loc="es">El plan actual del iPhone tiene un bloqueo de plan de datos móviles. Solo se puede eliminar si es el único plan de datos móviles instalado.</tran>
+        <tran loc="es-419">Tu plan de datos celulares actual para iPhone está bloqueado y sólo se puede eliminar si es el único instalado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>CONSENT_CURRENT_PLAN_CANNOT_BE_DELETED_NO_NAME_IPAD</Position>
       <TranslationSet>
         <base loc="en">Your current iPad Plan has a cellular plan lock. It can only be removed if it is the only cellular plan installed.</base>
-        <tran loc="es">El plan actual del iPad tiene un bloqueo de plan de datos móviles. Solo se puede eliminar si es el único plan de datos móviles instalado.</tran>
+        <tran loc="es-419">Tu plan de datos celulares actual para iPad está bloqueado y sólo se puede eliminar si es el único instalado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>Location is currently unavailable. Please try again later.</Position>
       <TranslationSet>
         <base loc="en">Location is currently unavailable. Please try again later.</base>
-        <tran loc="es">La función de localización no está disponible en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se pudo determinar la ubicación. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>This should only take a few seconds to complete.</Position>
       <TranslationSet>
         <base loc="en">This should only take a few seconds to complete.</base>
-        <tran loc="es">Esta operación debería tardar pocos segundos en completarse.</tran>
+        <tran loc="es-419">Esta operación debería tardar pocos segundos en completarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>Verifying</Position>
       <TranslationSet>
         <base loc="en">Verifying</base>
-        <tran loc="es">Verificando</tran>
+        <tran loc="es-419">Verificando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>Your cellular data plan has been successfully updated.</Position>
       <TranslationSet>
         <base loc="en">Your cellular data plan has been successfully updated.</base>
-        <tran loc="es">Tu plan de datos móviles se ha actualizado correctamente.</tran>
+        <tran loc="es-419">El plan de datos celulares se actualizó correctamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>CONSENT_CURRENT_PLAN_CANNOT_BE_DISABLED_IPAD_%@_%@</Position>
       <TranslationSet>
         <base loc="en">Your %@ plan does not allow additional cellular plans to be set up. To add a new plan to iPad, your %@ plan must be deleted first.</base>
-        <tran loc="es">El plan %@ no permite configurar más planes de datos móviles. Para añadir otro plan al iPad, primero tienes que eliminar el plan %@.</tran>
+        <tran loc="es-419">El plan de %@ no permite configurar planes adicionales. Para agregar un nuevo plan a este iPad, primero debes eliminar el de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>Settings</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>

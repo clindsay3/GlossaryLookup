@@ -8,7 +8,7 @@
       <Position>WATCH_INTERRUPTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Complete Purchase</base>
-        <tran loc="es">No se puede completar la compra</tran>
+        <tran loc="es-419">No se puede realizar la compra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>TOUCHID_AUTHENTICATION_REASON</Position>
       <TranslationSet>
         <base loc="en">authenticate your Apple\U00A0ID %@</base>
-        <tran loc="es">autenticar tu Apple ID %@</tran>
+        <tran loc="es-419">autenticar tu Apple\U00A0ID “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_ICLOUD_STORAGE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Activate iCloud Storage</base>
-        <tran loc="es">Activar el almacenamiento en iCloud</tran>
+        <tran loc="es-419">Activar almacenamiento en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_ICLOUD_STORAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Activate iCloud Storage</base>
-        <tran loc="es">Activar el almacenamiento en iCloud</tran>
+        <tran loc="es-419">Activar almacenamiento en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>WATCH_PASSCODE_REQUIRED_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A passcode is required to download and buy apps.</base>
-        <tran loc="es">Se requiere un código para descargar y comprar apps.</tran>
+        <tran loc="es-419">Se requiere un código para descargar y comprar apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>WATCH_INTERRUPTION_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To view and correct the problem, open the Watch app on your paired iPhone.</base>
-        <tran loc="es">Para ver y arreglar el problema, abre la app Watch en el iPhone enlazado.</tran>
+        <tran loc="es-419">Para ver y corregir el problema, abre la app Apple Watch en tu iPhone enlazado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -63,7 +63,7 @@
       <Position>DEFAULT_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred. Please try again.</base>
-        <tran loc="es">Se ha producido un error desconocido. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido. Reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_UNIFIED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Redeem Purchases</base>
-        <tran loc="es">Canjear compras</tran>
+        <tran loc="es-419">Canjear compras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -79,7 +79,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -87,7 +87,7 @@
       <Position>WATCH_PASSCODE_REQUIRED_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple Watch Passcode Required</base>
-        <tran loc="es">Código del Apple Watch necesario</tran>
+        <tran loc="es-419">Ingresa el código del Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -95,7 +95,7 @@
       <Position>TOUCHID_CONFIRMATION_DIALOG_TITLE</Position>
       <TranslationSet>
         <base loc="en">Using Touch\U00A0ID</base>
-        <tran loc="es">Usar Touch ID</tran>
+        <tran loc="es-419">Cómo usar Touch\U00A0ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -103,7 +103,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -111,7 +111,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_CONTINUE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -119,7 +119,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_APPLE_MUSIC_DESC</Position>
       <TranslationSet>
         <base loc="en">Apple Music is ready to be used with your Apple\U00A0ID “%@”.</base>
-        <tran loc="es">Ya puedes usar Apple Music con tu ID de Apple “%@”.</tran>
+        <tran loc="es-419">El servicio de Apple Music está listo para usarse con tu Apple\U00A0ID “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>WATCH_PASSCODE_REQUIRED_ALERT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Turn Passcode On</base>
-        <tran loc="es">Activar código</tran>
+        <tran loc="es-419">Activar código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_UNIFIED_DESC</Position>
       <TranslationSet>
         <base loc="en">Apple Music and an iCloud storage upgrade are ready to be used with your Apple\U00A0ID “%@”.</base>
-        <tran loc="es">Ya puedes usar tanto Apple Music como la ampliación del espacio de almacenamiento en iCloud con tu ID de Apple “%@”.</tran>
+        <tran loc="es-419">El servicio de Apple Music y una actualización para el almacenamiento de iCloud están listos para usarse con tu Apple\U00A0ID “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>VERIFY_PAYMENT_ENTER_CVV</Position>
       <TranslationSet>
         <base loc="en">CVV</base>
-        <tran loc="es">CVV</tran>
+        <tran loc="es-419">CVV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>TOUCHID_CONFIRMATION_DIALOG_OPT_OUT</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -159,7 +159,7 @@
       <Position>TOUCHID_CONFIRMATION_DIALOG_OPT_IN</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -167,7 +167,7 @@
       <Position>TOUCHID_CONFIRMATION_DIALOG_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Do you want to use Touch\U00A0ID for future purchases?</base>
-        <tran loc="es">¿Quieres usar Touch ID para tus futuras compras?</tran>
+        <tran loc="es-419">¿Quieres usar Touch\U00A0ID para compras futuras?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -175,7 +175,7 @@
       <Position>VERIFY_PAYMENT_ENTER_CODE</Position>
       <TranslationSet>
         <base loc="en">Enter Code</base>
-        <tran loc="es">Introduce el código</tran>
+        <tran loc="es-419">Ingresar código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -183,7 +183,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_APPLE_MUSIC_LABEL</Position>
       <TranslationSet>
         <base loc="en">Activate Apple Music</base>
-        <tran loc="es">Activar Apple Music</tran>
+        <tran loc="es-419">Activar Apple Music</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -191,7 +191,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_APPLE_MUSIC_TITLE</Position>
       <TranslationSet>
         <base loc="en">Activate Apple Music</base>
-        <tran loc="es">Activar Apple Music</tran>
+        <tran loc="es-419">Activar Apple Music</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -199,7 +199,7 @@
       <Position>DEVICE_OFFERS_FOLLOWUP_ICLOUD_STORAGE_DESC</Position>
       <TranslationSet>
         <base loc="en">An iCloud storage upgrade is ready to be used with your Apple\U00A0ID “%@”.</base>
-        <tran loc="es">Ya puedes usar una ampliación del espacio de almacenamiento en iCloud con tu ID de Apple “%@”.</tran>
+        <tran loc="es-419">Una actualización para el almacenamiento de iCloud está lista para usarse con tu Apple\U00A0ID “%@”.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -210,7 +210,7 @@
       <Position>PROMPT_REASON_NEW_FACE_ANONYMOUS</Position>
       <TranslationSet>
         <base loc="en">Enter your password to enable new Face\U00A0ID scan for iTunes and App Store purchases.</base>
-        <tran loc="es">Introduce tu contraseña para permitir una nueva exploración de Face ID para las compras en iTunes y App Store.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para autorizar un nuevo Face\U00A0ID para las compras en iTunes Store y App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -218,7 +218,7 @@
       <Position>BIO_OPT_IN_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -226,7 +226,7 @@
       <Position>PASSCODE_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -234,7 +234,7 @@
       <Position>PROMPT_REASON_NEW_FACE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@” to enable new Face\U00A0ID scan for iTunes and App Store purchases.</base>
-        <tran loc="es">Introduce la contraseña de “%@” para permitir una nueva exploración de Face ID para las compras en iTunes y App Store.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@” para autorizar un nuevo Face\U00A0ID para las compras en iTunes Store y App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -242,7 +242,7 @@
       <Position>PASSCODE_TITLE_FACE</Position>
       <TranslationSet>
         <base loc="en">Enter Passcode to Enable Face\U00A0ID Purchases</base>
-        <tran loc="es">Introduce el código para poder comprar con Face\U00A0ID</tran>
+        <tran loc="es-419">Ingresar código para activar las compras con Face\U00A0ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -250,7 +250,7 @@
       <Position>BIO_USE_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Enter Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Ingresar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -258,7 +258,7 @@
       <Position>CONFIRMATION_TITLE_PAY</Position>
       <TranslationSet>
         <base loc="en">Pay</base>
-        <tran loc="es">Pagar</tran>
+        <tran loc="es-419">Pagar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -266,7 +266,7 @@
       <Position>PROMPT_REASON_FACE_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Your password is required to enable Face\U00A0ID. Enter the password for “%@”.</base>
-        <tran loc="es">Para activar Face\U00A0ID, se requiere la contraseña. Introduce la de “%@”.</tran>
+        <tran loc="es-419">Se requiere una contraseña para activar Face\U00A0ID. Ingresa la de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -274,7 +274,7 @@
       <Position>BIO_OPT_IN_NOT_NOW</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>PASSCODE_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>PROMPT_REASON_NEW_FINGERS_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@” to enable new fingerprints for iTunes and App Store purchases.</base>
-        <tran loc="es">Introduce la contraseña de “%@” para permitir nuevas huellas para las compras en iTunes Store y App Store.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@” para autorizar nuevas huellas digitales para las compras en iTunes Store y App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>PASSCODE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter Passcode to Enable Touch\U00A0ID Purchases</base>
-        <tran loc="es">Introduce el código para poder comprar con Touch\U00A0ID</tran>
+        <tran loc="es-419">Ingresar código para activar las compras con Touch\U00A0ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>PROMPT_REASON_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Your password is required to enable Touch\U00A0ID. Enter the password for “%@”.</base>
-        <tran loc="es">Para activar Touch\U00A0ID, se requiere la contraseña. Introduce la de “%@”.</tran>
+        <tran loc="es-419">Se requiere una contraseña para activar Touch\U00A0ID. Ingresa la de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>BIO_OPT_IN_FACE_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Would you like to use Face\U00A0ID for purchases?</base>
-        <tran loc="es">¿Quieres usar Face\U00A0ID para las compras?</tran>
+        <tran loc="es-419">¿Quieres usar Face\U00A0ID para hacer compras?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>PASSCODE_INCORRECT</Position>
       <TranslationSet>
         <base loc="en">Incorrect Passcode</base>
-        <tran loc="es">Código incorrecto</tran>
+        <tran loc="es-419">Código incorrecto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>BIO_OPT_IN_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Would you like to use Touch\U00A0ID for purchases?</base>
-        <tran loc="es">¿Quieres usar Touch\U00A0ID para las compras?</tran>
+        <tran loc="es-419">¿Quieres usar Touch\U00A0ID para hacer compras?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>PROMPT_REASON_NEW_FINGERS_ANONYMOUS</Position>
       <TranslationSet>
         <base loc="en">Enter your password to enable new fingerprints for iTunes and App Store purchases.</base>
-        <tran loc="es">Introduce tu contraseña para permitir nuevas huellas para las compras en iTunes Store y App Store.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para autorizar nuevas huellas digitales para las compras en iTunes Store y App Store.</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>REMOVE_ALL</Position>
       <TranslationSet>
         <base loc="en">Remove Now</base>
-        <tran loc="es">Eliminar ahora</tran>
+        <tran loc="es-419">Eliminar ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>NANO_BACKUPS</Position>
       <TranslationSet>
         <base loc="en">Apple Watch Backups</base>
-        <tran loc="es">Copias de seguridad del Apple Watch</tran>
+        <tran loc="es-419">Respaldos de Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>REMOVE_ALL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Remove All Backups</base>
-        <tran loc="es">Eliminar todas las copias</tran>
+        <tran loc="es-419">Eliminar todos los respaldos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>REMOVE_ALL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This will delete all your Apple Watch backups.</base>
-        <tran loc="es">Se eliminarán todas las copias de seguridad de tu Apple Watch.</tran>
+        <tran loc="es-419">Se borrarán todos los respaldos de tu Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -55,7 +55,7 @@
       <Position>DESCRIPTION_FORMAT_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ - %2$@ on %3$@</base>
-        <tran loc="es">%1$@ - %2$@ (%3$@)</tran>
+        <tran loc="es-419">%1$@ - %2$@, el %3$@</tran>
       </TranslationSet>
     </TextItem>
   </File>

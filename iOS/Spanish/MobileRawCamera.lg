@@ -8,7 +8,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">RawCamera</base>
-        <tran loc="es">RawCamera</tran>
+        <tran loc="es-419">RawCamera</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>Leaf raw image</Position>
       <TranslationSet>
         <base loc="en">Leaf raw image</base>
-        <tran loc="es">Imagen raw de Leaf</tran>
+        <tran loc="es-419">Imagen raw de Leaf</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -27,7 +27,7 @@
       <Position>Canon TIF raw image</Position>
       <TranslationSet>
         <base loc="en">Canon TIF raw image</base>
-        <tran loc="es">Imagen raw TIF de Canon</tran>
+        <tran loc="es-419">Imagen raw TIF de Canon</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>Canon CR2 raw image</Position>
       <TranslationSet>
         <base loc="en">Canon CR2 raw image</base>
-        <tran loc="es">Imagen raw CR2 de Canon</tran>
+        <tran loc="es-419">Imagen raw CR2 de Canon</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>Epson raw image</Position>
       <TranslationSet>
         <base loc="en">Epson raw image</base>
-        <tran loc="es">Imagen raw de Epson</tran>
+        <tran loc="es-419">Imagen raw de Epson</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>Olympus raw image</Position>
       <TranslationSet>
         <base loc="en">Olympus raw image</base>
-        <tran loc="es">Imagen raw de Olympus</tran>
+        <tran loc="es-419">Imagen raw de Olympus</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>Hasselblad FFF raw image</Position>
       <TranslationSet>
         <base loc="en">Hasselblad FFF raw image</base>
-        <tran loc="es">Imagen raw FFF de Hasselblad</tran>
+        <tran loc="es-419">Imagen raw FFF de Hasselblad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>Pentax raw image</Position>
       <TranslationSet>
         <base loc="en">Pentax raw image</base>
-        <tran loc="es">Imagen raw de Pentax</tran>
+        <tran loc="es-419">Imagen raw de Pentax</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>Sony ARW raw image</Position>
       <TranslationSet>
         <base loc="en">Sony ARW raw image</base>
-        <tran loc="es">Imagen raw ARW de Sony</tran>
+        <tran loc="es-419">Imagen raw ARW de Sony</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Adobe raw image</Position>
       <TranslationSet>
         <base loc="en">Adobe raw image</base>
-        <tran loc="es">Imagen raw de Adobe</tran>
+        <tran loc="es-419">Imagen raw de Adobe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Leica PWL raw image</Position>
       <TranslationSet>
         <base loc="en">Leica PWL raw image</base>
-        <tran loc="es">Imagen raw PWL de Leica</tran>
+        <tran loc="es-419">Imagen raw PWL de Leica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Olympus SR raw image</Position>
       <TranslationSet>
         <base loc="en">Olympus SR raw image</base>
-        <tran loc="es">Imagen raw SR de Olympus</tran>
+        <tran loc="es-419">Imagen raw SR de Olympus</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Nikon NRW raw image</Position>
       <TranslationSet>
         <base loc="en">Nikon NRW raw image</base>
-        <tran loc="es">Imagen raw NRW de Nikon</tran>
+        <tran loc="es-419">Imagen raw NRW de Nikon</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">RawCameraTypes</base>
-        <tran loc="es">RawCameraTypes</tran>
+        <tran loc="es-419">RawCameraTypes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Minolta raw image</Position>
       <TranslationSet>
         <base loc="en">Minolta raw image</base>
-        <tran loc="es">Imagen raw de Minolta</tran>
+        <tran loc="es-419">Imagen raw de Minolta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Leica raw image</Position>
       <TranslationSet>
         <base loc="en">Leica raw image</base>
-        <tran loc="es">Imagen raw de Leica</tran>
+        <tran loc="es-419">Imagen raw de Leica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Nikon raw image</Position>
       <TranslationSet>
         <base loc="en">Nikon raw image</base>
-        <tran loc="es">Imagen raw de Nikon</tran>
+        <tran loc="es-419">Imagen raw de Nikon</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Sony raw image</Position>
       <TranslationSet>
         <base loc="en">Sony raw image</base>
-        <tran loc="es">Imagen raw de Sony</tran>
+        <tran loc="es-419">Imagen raw de Sony</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Sony SR2 raw image</Position>
       <TranslationSet>
         <base loc="en">Sony SR2 raw image</base>
-        <tran loc="es">Imagen raw SR2 de Sony</tran>
+        <tran loc="es-419">Imagen raw SR2 de Sony</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2004–2007 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2004–2007 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2004–2007 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Canon CRW raw image</Position>
       <TranslationSet>
         <base loc="en">Canon CRW raw image</base>
-        <tran loc="es">Imagen raw CRW de Canon</tran>
+        <tran loc="es-419">Imagen raw CRW de Canon</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Kodak raw image</Position>
       <TranslationSet>
         <base loc="en">Kodak raw image</base>
-        <tran loc="es">Imagen raw de Kodak</tran>
+        <tran loc="es-419">Imagen raw de Kodak</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Fuji raw image</Position>
       <TranslationSet>
         <base loc="en">Fuji raw image</base>
-        <tran loc="es">Imagen raw de Fuji</tran>
+        <tran loc="es-419">Imagen raw de Fuji</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Hasselblad 3FR raw image</Position>
       <TranslationSet>
         <base loc="en">Hasselblad 3FR raw image</base>
-        <tran loc="es">Imagen raw 3FR de Hasselblad</tran>
+        <tran loc="es-419">Imagen raw 3FR de Hasselblad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Panasonic raw image</Position>
       <TranslationSet>
         <base loc="en">Panasonic raw image</base>
-        <tran loc="es">Imagen raw de Panasonic</tran>
+        <tran loc="es-419">Imagen raw de Panasonic</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@ N.B. "raw" is a description tag and should most likely not be translated.
       <Position>Olympus OR raw image</Position>
       <TranslationSet>
         <base loc="en">Olympus OR raw image</base>
-        <tran loc="es">Imagen raw OR de Olympus</tran>
+        <tran loc="es-419">Imagen raw OR de Olympus</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>CERT_INFO_TITLE</Position>
       <TranslationSet>
         <base loc="en">Certificate for “%@”</base>
-        <tran loc="es">Certificado para “%@”</tran>
+        <tran loc="es-419">Certificado para “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ACCEPT</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>DETAILS</Position>
       <TranslationSet>
         <base loc="en">Details</base>
-        <tran loc="es">Detalles</tran>
+        <tran loc="es-419">Detalles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>UNTRUSTED_CERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Verify Server Identity</base>
-        <tran loc="es">Imposible verificar identidad del servidor</tran>
+        <tran loc="es-419">Imposible verificar identidad del servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>WEBSHEET_LOCALIZED_NAME</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi</base>
-        <tran loc="es">Wi-Fi</tran>
+        <tran loc="es-419">Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>UNTRUSTED_CERT_MESSAGE_NO_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">The identity of “%@” cannot be verified. Review the certificate details to continue.</base>
-        <tran loc="es">No se puede verificar la identidad de “%@”. Para continuar, revisa la información del certificado.</tran>
+        <tran loc="es-419">No se puede verificar la identidad de “%@”. Revisa los detalles del certificado para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>UNTRUSTED_CERT_MESSAGE_NO_ACCEPT_NO_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">The identity of “%@” cannot be verified.</base>
-        <tran loc="es">No se puede verificar la identidad de “%@”.</tran>
+        <tran loc="es-419">No se puede verificar la identidad de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>UNTRUSTED_CERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The identity of “%@” cannot be verified by %@. Review the certificate details to continue.</base>
-        <tran loc="es">%2$@ no puede verificar la identidad de “%1$@”. Para continuar, revisa la información del certificado.</tran>
+        <tran loc="es-419">%2$@ no puede verificar la identidad de “%1$@”. Revisa los detalles del certificado para continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>UNTRUSTED_CERT_MESSAGE_NO_ACCEPT</Position>
       <TranslationSet>
         <base loc="en">The identity of “%@” cannot be verified by %@.</base>
-        <tran loc="es">%2$@ no puede verificar la identidad de “%1$@”.</tran>
+        <tran loc="es-419">%2$@ no puede verificar la identidad de “%1$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>CERTIFICATE</Position>
       <TranslationSet>
         <base loc="en">Certificate</base>
-        <tran loc="es">Certificado</tran>
+        <tran loc="es-419">Certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>WEBSHEET_LOCALIZED_NAME_CHINA</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
   </File>

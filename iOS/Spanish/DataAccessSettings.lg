@@ -8,7 +8,7 @@
       <Position>EMPTY_SEARCH_BASE</Position>
       <TranslationSet>
         <base loc="en">Empty Search Base</base>
-        <tran loc="es">Base de búsqueda vacía</tran>
+        <tran loc="es-419">Base de búsqueda vacía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>LDAP_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">LDAP Account</base>
-        <tran loc="es">Cuenta LDAP</tran>
+        <tran loc="es-419">Cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>PROFILE_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">These settings are installed by the profile “%@”</base>
-        <tran loc="es">Estos ajustes se instalan con el perfil “%@”</tran>
+        <tran loc="es-419">El perfil “%@” instaló esta configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>DELETE_ACCOUNT_WARNING_IPAD</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will prevent you from searching for contacts with it on your iPad.</base>
-        <tran loc="es">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con el iPad.</tran>
+        <tran loc="es-419">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>ENABLED</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>BASE_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">ou=people,o=company</base>
-        <tran loc="es">ou=people,o=company</tran>
+        <tran loc="es-419">ou=people,o=company</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>DELETE_ACCOUNT_WARNING_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will prevent you from searching for contacts with it on your iPhone.</base>
-        <tran loc="es">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con el iPhone.</tran>
+        <tran loc="es-419">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>ADD_SEARCH_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Add Search Settings\U2026</base>
-        <tran loc="es">Añadir ajustes de búsqueda\U2026</tran>
+        <tran loc="es-419">Agregar configuración de búsqueda\U2026</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>LDAP_INFO</Position>
       <TranslationSet>
         <base loc="en">LDAP Account Information</base>
-        <tran loc="es">Datos de la cuenta LDAP</tran>
+        <tran loc="es-419">Información de la cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">User Name</base>
-        <tran loc="es">Usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>DELETE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Delete Account</base>
-        <tran loc="es">Eliminar cuenta</tran>
+        <tran loc="es-419">Eliminar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>HOST</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>DELETE_SEARCH_SETTINGS_WARNING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete this search base?</base>
-        <tran loc="es">¿Seguro que quieres eliminar la base de búsqueda?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar la base de búsqueda?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>SUBTREE</Position>
       <TranslationSet>
         <base loc="en">Subtree</base>
-        <tran loc="es">Subdirectorio</tran>
+        <tran loc="es-419">Subdirectorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>DELETE_ACCOUNT_WARNING_IPOD</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will prevent you from searching for contacts with it on your iPod touch.</base>
-        <tran loc="es">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con el iPod touch.</tran>
+        <tran loc="es-419">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con tu iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>LDAP_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">LDAP Settings</base>
-        <tran loc="es">Ajustes LDAP</tran>
+        <tran loc="es-419">Configuración LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>ONE_LEVEL</Position>
       <TranslationSet>
         <base loc="en">One Level</base>
-        <tran loc="es">Un nivel</tran>
+        <tran loc="es-419">Un nivel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My LDAP Account</base>
-        <tran loc="es">Mi cuenta LDAP</tran>
+        <tran loc="es-419">Mi cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>SEARCH_BASE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Search Settings</base>
-        <tran loc="es">Ajustes de búsqueda</tran>
+        <tran loc="es-419">Configuración de búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>SERVER_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">ldap.example.com</base>
-        <tran loc="es">ldap.example.com</tran>
+        <tran loc="es-419">ldap.example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>DELETE_SEARCH_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Delete Search Settings</base>
-        <tran loc="es">Eliminar ajustes de búsqueda</tran>
+        <tran loc="es-419">Eliminar configuración de búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>LDAP</Position>
       <TranslationSet>
         <base loc="en">LDAP</base>
-        <tran loc="es">LDAP</tran>
+        <tran loc="es-419">LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>NEW_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">LDAP</base>
-        <tran loc="es">LDAP</tran>
+        <tran loc="es-419">LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>SETUP_WITHOUT_SSL_BODY</Position>
       <TranslationSet>
         <base loc="en">Do you want to try setting up the account without SSL?</base>
-        <tran loc="es">¿Quieres intentar configurar la cuenta sin SSL?</tran>
+        <tran loc="es-419">¿Quieres intentar configurar la cuenta sin SSL?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account may not be able to search contacts. Are you sure you want to continue?</base>
-        <tran loc="es">Es posible que esta cuenta no pueda buscar contactos. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Es posible que esta cuenta no pueda buscar contactos. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>ACCOUNT_VERIFICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Unable to verify account information.</base>
-        <tran loc="es">Imposible verificar la información de la cuenta.</tran>
+        <tran loc="es-419">Imposible verificar la información de la cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>SEARCH_DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My LDAP Search</base>
-        <tran loc="es">Mi búsqueda LDAP</tran>
+        <tran loc="es-419">Mi búsqueda LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>SETUP_WITHOUT_SSL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Connect Using SSL</base>
-        <tran loc="es">No se puede conectar con SSL</tran>
+        <tran loc="es-419">No se puede conectar con SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>BASE</Position>
       <TranslationSet>
         <base loc="en">Base</base>
-        <tran loc="es">Base</tran>
+        <tran loc="es-419">Base</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>SEARCH_BASE</Position>
       <TranslationSet>
         <base loc="en">Base</base>
-        <tran loc="es">Base</tran>
+        <tran loc="es-419">Base</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>OPTIONAL</Position>
       <TranslationSet>
         <base loc="en">Optional</base>
-        <tran loc="es">Opcional</tran>
+        <tran loc="es-419">Opcional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -313,7 +313,7 @@
       <Position>ADD_LDAP_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add LDAP Account</base>
-        <tran loc="es">Añadir cuenta LDAP</tran>
+        <tran loc="es-419">Agregar cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>SCOPE</Position>
       <TranslationSet>
         <base loc="en">Scope</base>
-        <tran loc="es">Alcance</tran>
+        <tran loc="es-419">Alcance</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>SCOPE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Search Scope</base>
-        <tran loc="es">Alcance de la búsqueda</tran>
+        <tran loc="es-419">Alcance de la búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -362,7 +362,7 @@
       <Position>NEW_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">CalDAV</base>
-        <tran loc="es">CalDAV</tran>
+        <tran loc="es-419">CalDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -370,7 +370,7 @@
       <Position>DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My CalDAV Account</base>
-        <tran loc="es">Mi cuenta CalDAV</tran>
+        <tran loc="es-419">Mi cuenta CalDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -378,7 +378,7 @@
       <Position>DAV_INFO</Position>
       <TranslationSet>
         <base loc="en">CalDAV Account Information</base>
-        <tran loc="es">Datos de la cuenta CalDAV</tran>
+        <tran loc="es-419">Información de la cuenta CalDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -386,7 +386,7 @@
       <Position>ENABLED</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -394,7 +394,7 @@
       <Position>SERVER_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">cal.example.com</base>
-        <tran loc="es">cal.example.com</tran>
+        <tran loc="es-419">cal.example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -402,7 +402,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">User Name</base>
-        <tran loc="es">Usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -410,7 +410,7 @@
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -418,7 +418,7 @@
       <Position>HOST</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -426,7 +426,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -434,7 +434,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -442,7 +442,7 @@
       <Position>DAV_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Calendar Account</base>
-        <tran loc="es">Cuenta de calendario</tran>
+        <tran loc="es-419">Cuenta de calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -450,7 +450,7 @@
       <Position>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account may not be able to sync calendars. Are you sure you want to save?</base>
-        <tran loc="es">Es posible que esta cuenta no pueda sincronizar calendarios. ¿Seguro que quieres guardarla?</tran>
+        <tran loc="es-419">Es posible que esta cuenta no pueda sincronizar calendarios. ¿Seguro que quieres guardarla?</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -461,7 +461,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">LDAPSettings</base>
-        <tran loc="es">LDAPSettings</tran>
+        <tran loc="es-419">LDAPSettings</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -469,7 +469,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple Inc., 2007</base>
-        <tran loc="es">© Apple Inc., 2007</tran>
+        <tran loc="es-419">© Apple Inc., 2007</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -480,7 +480,7 @@
       <Position>BASE_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">ou=people,o=company</base>
-        <tran loc="es">ou=people,o=company</tran>
+        <tran loc="es-419">ou=people,o=company</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>DELETE_SEARCH_SETTINGS_WARNING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete this search base?</base>
-        <tran loc="es">¿Seguro que quieres eliminar la base de búsqueda?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar la base de búsqueda?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>SUBTREE</Position>
       <TranslationSet>
         <base loc="en">Subtree</base>
-        <tran loc="es">Subdirectorio</tran>
+        <tran loc="es-419">Subdirectorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>ONE_LEVEL</Position>
       <TranslationSet>
         <base loc="en">One Level</base>
-        <tran loc="es">Un nivel</tran>
+        <tran loc="es-419">Un nivel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>SEARCH_BASE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Search Settings</base>
-        <tran loc="es">Ajustes de búsqueda</tran>
+        <tran loc="es-419">Configuración de búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>DELETE_SEARCH_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Delete Search Settings</base>
-        <tran loc="es">Eliminar ajustes de búsqueda</tran>
+        <tran loc="es-419">Eliminar configuración de búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>SEARCH_DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My LDAP Search</base>
-        <tran loc="es">Mi búsqueda LDAP</tran>
+        <tran loc="es-419">Mi búsqueda LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>BASE</Position>
       <TranslationSet>
         <base loc="en">Base</base>
-        <tran loc="es">Base</tran>
+        <tran loc="es-419">Base</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>SEARCH_BASE</Position>
       <TranslationSet>
         <base loc="en">Base</base>
-        <tran loc="es">Base</tran>
+        <tran loc="es-419">Base</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>SCOPE</Position>
       <TranslationSet>
         <base loc="en">Scope</base>
-        <tran loc="es">Alcance</tran>
+        <tran loc="es-419">Alcance</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>SCOPE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Search Scope</base>
-        <tran loc="es">Alcance de la búsqueda</tran>
+        <tran loc="es-419">Alcance de la búsqueda</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -587,7 +587,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple Inc., 2009</base>
-        <tran loc="es">© Apple Inc., 2009</tran>
+        <tran loc="es-419">© Apple Inc., 2009</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">DAVSettings</base>
-        <tran loc="es">DAVSettings</tran>
+        <tran loc="es-419">DAVSettings</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -613,7 +613,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">SubscribedCalendarSettings</base>
-        <tran loc="es">SubscribedCalendarSettings</tran>
+        <tran loc="es-419">SubscribedCalendarSettings</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -621,7 +621,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple Inc., 2009</base>
-        <tran loc="es">© Apple Inc., 2009</tran>
+        <tran loc="es-419">© Apple Inc., 2009</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -632,7 +632,7 @@
       <Position>DAV_INFO</Position>
       <TranslationSet>
         <base loc="en">CardDAV Account Information</base>
-        <tran loc="es">Datos de la cuenta CardDAV</tran>
+        <tran loc="es-419">Información de la cuenta CardDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>ENABLED</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>SERVER_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">contacts.example.com</base>
-        <tran loc="es">contactos.example.com</tran>
+        <tran loc="es-419">contactos.example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>DAV_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Contacts Account</base>
-        <tran loc="es">Cuenta de Contactos</tran>
+        <tran loc="es-419">Cuenta de Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">User Name</base>
-        <tran loc="es">Usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My CardDAV Account</base>
-        <tran loc="es">Mi cuenta CardDAV</tran>
+        <tran loc="es-419">Mi cuenta CardDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>HOST</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -718,7 +718,7 @@
       <Position>NEW_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">CardDAV</base>
-        <tran loc="es">CardDAV</tran>
+        <tran loc="es-419">CardDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -726,7 +726,7 @@
       <Position>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account may not be able to sync contacts. Are you sure you want to save?</base>
-        <tran loc="es">Es posible que esta cuenta no pueda sincronizar contactos. ¿Seguro que quieres guardarla?</tran>
+        <tran loc="es-419">Es posible que esta cuenta no pueda sincronizar contactos. ¿Seguro que quieres guardarla?</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -743,7 +743,7 @@
       <Position>ADVANCED_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Advanced Settings</base>
-        <tran loc="es">Ajustes avanzados</tran>
+        <tran loc="es-419">Configuración avanzada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -751,7 +751,7 @@
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -759,7 +759,7 @@
       <Position>ACCOUNT_URL</Position>
       <TranslationSet>
         <base loc="en">Account URL</base>
-        <tran loc="es">URL de la cuenta</tran>
+        <tran loc="es-419">URL de la cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@
       <Position>PORT</Position>
       <TranslationSet>
         <base loc="en">Port</base>
-        <tran loc="es">Puerto</tran>
+        <tran loc="es-419">Puerto</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -778,7 +778,7 @@
       <Position>EMPTY_SEARCH_BASE</Position>
       <TranslationSet>
         <base loc="en">Empty Search Base</base>
-        <tran loc="es">Base de búsqueda vacía</tran>
+        <tran loc="es-419">Base de búsqueda vacía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +786,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +794,7 @@
       <Position>LDAP_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">LDAP Account</base>
-        <tran loc="es">Cuenta LDAP</tran>
+        <tran loc="es-419">Cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +802,7 @@
       <Position>PROFILE_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">These settings are installed by the profile “%@”</base>
-        <tran loc="es">Estos ajustes se instalan con el perfil “%@”</tran>
+        <tran loc="es-419">El perfil “%@” instaló esta configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +810,7 @@
       <Position>DELETE_ACCOUNT_WARNING_IPAD</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will prevent you from searching for contacts with it on your iPad.</base>
-        <tran loc="es">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con el iPad.</tran>
+        <tran loc="es-419">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +818,7 @@
       <Position>ENABLED</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +826,7 @@
       <Position>BASE_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">ou=people,o=company</base>
-        <tran loc="es">ou=people,o=company</tran>
+        <tran loc="es-419">ou=people,o=company</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>DELETE_ACCOUNT_WARNING_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will prevent you from searching for contacts with it on your iPhone.</base>
-        <tran loc="es">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con el iPhone.</tran>
+        <tran loc="es-419">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -843,7 +843,7 @@
       <Position>ADD_SEARCH_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Add Search Settings\U2026</base>
-        <tran loc="es">Añadir ajustes de búsqueda\U2026</tran>
+        <tran loc="es-419">Agregar configuración de búsqueda\U2026</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -851,7 +851,7 @@
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -859,7 +859,7 @@
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -867,7 +867,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -875,7 +875,7 @@
       <Position>LDAP_INFO</Position>
       <TranslationSet>
         <base loc="en">LDAP Account Information</base>
-        <tran loc="es">Datos de la cuenta LDAP</tran>
+        <tran loc="es-419">Información de la cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -883,7 +883,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">User Name</base>
-        <tran loc="es">Usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -891,7 +891,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -899,7 +899,7 @@
       <Position>DELETE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Delete Account</base>
-        <tran loc="es">Eliminar cuenta</tran>
+        <tran loc="es-419">Eliminar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@
       <Position>HOST</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -915,7 +915,7 @@
       <Position>DELETE_SEARCH_SETTINGS_WARNING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete this search base?</base>
-        <tran loc="es">¿Seguro que quieres eliminar la base de búsqueda?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar la base de búsqueda?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -923,7 +923,7 @@
       <Position>SUBTREE</Position>
       <TranslationSet>
         <base loc="en">Subtree</base>
-        <tran loc="es">Subdirectorio</tran>
+        <tran loc="es-419">Subdirectorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -931,7 +931,7 @@
       <Position>DELETE_ACCOUNT_WARNING_IPOD</Position>
       <TranslationSet>
         <base loc="en">Deleting this account will prevent you from searching for contacts with it on your iPod touch.</base>
-        <tran loc="es">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con el iPod touch.</tran>
+        <tran loc="es-419">Si eliminas esta cuenta, no podrás buscar contactos de la cuenta con tu iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -939,7 +939,7 @@
       <Position>LDAP_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">LDAP Settings</base>
-        <tran loc="es">Ajustes LDAP</tran>
+        <tran loc="es-419">Configuración LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -947,7 +947,7 @@
       <Position>ONE_LEVEL</Position>
       <TranslationSet>
         <base loc="en">One Level</base>
-        <tran loc="es">Un nivel</tran>
+        <tran loc="es-419">Un nivel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -955,7 +955,7 @@
       <Position>DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My LDAP Account</base>
-        <tran loc="es">Mi cuenta LDAP</tran>
+        <tran loc="es-419">Mi cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -963,7 +963,7 @@
       <Position>SEARCH_BASE_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Search Settings</base>
-        <tran loc="es">Ajustes de búsqueda</tran>
+        <tran loc="es-419">Configuración de búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -971,7 +971,7 @@
       <Position>SERVER_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">ldap.example.com</base>
-        <tran loc="es">ldap.example.com</tran>
+        <tran loc="es-419">ldap.example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -979,7 +979,7 @@
       <Position>DELETE_SEARCH_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Delete Search Settings</base>
-        <tran loc="es">Eliminar ajustes de búsqueda</tran>
+        <tran loc="es-419">Eliminar configuración de búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -987,7 +987,7 @@
       <Position>LDAP</Position>
       <TranslationSet>
         <base loc="en">LDAP</base>
-        <tran loc="es">LDAP</tran>
+        <tran loc="es-419">LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -995,7 +995,7 @@
       <Position>NEW_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">LDAP</base>
-        <tran loc="es">LDAP</tran>
+        <tran loc="es-419">LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1003,7 +1003,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1011,7 +1011,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1019,7 +1019,7 @@
       <Position>SETUP_WITHOUT_SSL_BODY</Position>
       <TranslationSet>
         <base loc="en">Do you want to try setting up the account without SSL?</base>
-        <tran loc="es">¿Quieres intentar configurar la cuenta sin SSL?</tran>
+        <tran loc="es-419">¿Quieres intentar configurar la cuenta sin SSL?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1027,7 +1027,7 @@
       <Position>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account may not be able to search contacts. Are you sure you want to continue?</base>
-        <tran loc="es">Es posible que esta cuenta no pueda buscar contactos. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Es posible que esta cuenta no pueda buscar contactos. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1035,7 +1035,7 @@
       <Position>ACCOUNT_VERIFICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Unable to verify account information.</base>
-        <tran loc="es">Imposible verificar la información de la cuenta.</tran>
+        <tran loc="es-419">Imposible verificar la información de la cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1043,7 +1043,7 @@
       <Position>SEARCH_DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">My LDAP Search</base>
-        <tran loc="es">Mi búsqueda LDAP</tran>
+        <tran loc="es-419">Mi búsqueda LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1051,7 +1051,7 @@
       <Position>SETUP_WITHOUT_SSL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Connect Using SSL</base>
-        <tran loc="es">No se puede conectar con SSL</tran>
+        <tran loc="es-419">No se puede conectar con SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1059,7 +1059,7 @@
       <Position>BASE</Position>
       <TranslationSet>
         <base loc="en">Base</base>
-        <tran loc="es">Base</tran>
+        <tran loc="es-419">Base</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1067,7 +1067,7 @@
       <Position>SEARCH_BASE</Position>
       <TranslationSet>
         <base loc="en">Base</base>
-        <tran loc="es">Base</tran>
+        <tran loc="es-419">Base</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1075,7 +1075,7 @@
       <Position>OPTIONAL</Position>
       <TranslationSet>
         <base loc="en">Optional</base>
-        <tran loc="es">Opcional</tran>
+        <tran loc="es-419">Opcional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1083,7 +1083,7 @@
       <Position>ADD_LDAP_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add LDAP Account</base>
-        <tran loc="es">Añadir cuenta LDAP</tran>
+        <tran loc="es-419">Agregar cuenta LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1091,7 +1091,7 @@
       <Position>SCOPE</Position>
       <TranslationSet>
         <base loc="en">Scope</base>
-        <tran loc="es">Alcance</tran>
+        <tran loc="es-419">Alcance</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1099,7 +1099,7 @@
       <Position>SCOPE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Search Scope</base>
-        <tran loc="es">Alcance de la búsqueda</tran>
+        <tran loc="es-419">Alcance de la búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1107,7 +1107,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1115,7 +1115,7 @@
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1132,7 +1132,7 @@
       <Position>ADVANCED_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Advanced Settings</base>
-        <tran loc="es">Ajustes avanzados</tran>
+        <tran loc="es-419">Configuración avanzada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1140,7 +1140,7 @@
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1148,7 +1148,7 @@
       <Position>ACCOUNT_URL</Position>
       <TranslationSet>
         <base loc="en">Account URL</base>
-        <tran loc="es">URL de la cuenta</tran>
+        <tran loc="es-419">URL de la cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1156,7 +1156,7 @@
       <Position>PORT</Position>
       <TranslationSet>
         <base loc="en">Port</base>
-        <tran loc="es">Puerto</tran>
+        <tran loc="es-419">Puerto</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1167,7 +1167,7 @@
       <Position>SUBCAL_INFO</Position>
       <TranslationSet>
         <base loc="en">Subscribed Calendar Information</base>
-        <tran loc="es">Datos del calendario suscrito</tran>
+        <tran loc="es-419">Datos del calendario suscrito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1175,7 +1175,7 @@
       <Position>INACTIVE</Position>
       <TranslationSet>
         <base loc="en">Inactive</base>
-        <tran loc="es">Inactiva</tran>
+        <tran loc="es-419">Inactiva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1183,7 +1183,7 @@
       <Position>WEEK</Position>
       <TranslationSet>
         <base loc="en">Weekly</base>
-        <tran loc="es">Semanalmente</tran>
+        <tran loc="es-419">Semanalmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1191,7 +1191,7 @@
       <Position>PROFILE_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">These settings are installed by the profile “%@”</base>
-        <tran loc="es">Estos ajustes se instalan con el perfil “%@”</tran>
+        <tran loc="es-419">El perfil “%@” instaló esta configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1199,7 +1199,7 @@
       <Position>SUBCAL</Position>
       <TranslationSet>
         <base loc="en">Subscribed Calendar</base>
-        <tran loc="es">Calendario suscrito</tran>
+        <tran loc="es-419">Calendario suscrito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1207,7 +1207,7 @@
       <Position>SUBCAL_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Subscribed Calendar Settings</base>
-        <tran loc="es">Ajustes del calendario suscrito</tran>
+        <tran loc="es-419">Configuración del calendario suscrito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1215,7 +1215,7 @@
       <Position>ENABLED</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1223,7 +1223,7 @@
       <Position>ACCOUNT_VERIFICATION_AUTH_CHALLENGE</Position>
       <TranslationSet>
         <base loc="en">Account requires a username and password</base>
-        <tran loc="es">La cuenta requiere un nombre de usuario y una contraseña</tran>
+        <tran loc="es-419">La cuenta requiere un nombre de usuario y una contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1231,7 +1231,7 @@
       <Position>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account may not be able to reach a calendar. Are you sure you want to continue?</base>
-        <tran loc="es">Es posible que esta cuenta no pueda acceder al calendario. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Es posible que esta cuenta no pueda acceder al calendario. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1245,7 +1245,7 @@
       <Position>NEW_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Subscription</base>
-        <tran loc="es">Suscripción</tran>
+        <tran loc="es-419">Suscripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1253,7 +1253,7 @@
       <Position>REFRESH_INTERVAL</Position>
       <TranslationSet>
         <base loc="en">Refresh Interval</base>
-        <tran loc="es">Intervalo de actualización</tran>
+        <tran loc="es-419">Intervalo de actualización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1261,7 +1261,7 @@
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1269,7 +1269,7 @@
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1277,7 +1277,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1285,7 +1285,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">User Name</base>
-        <tran loc="es">Usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1293,7 +1293,7 @@
       <Position>SUBSCRIBED_CALENDARS</Position>
       <TranslationSet>
         <base loc="en">Subscribed Calendars</base>
-        <tran loc="es">Calendarios suscritos</tran>
+        <tran loc="es-419">Calendarios suscritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1301,7 +1301,7 @@
       <Position>NO</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1309,7 +1309,7 @@
       <Position>HOST</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1317,7 +1317,7 @@
       <Position>ADD_SUBCAL_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Add Subscribed Calendar</base>
-        <tran loc="es">Añadir calendario suscrito</tran>
+        <tran loc="es-419">Agregar calendario suscrito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1325,7 +1325,7 @@
       <Position>CALENDARS</Position>
       <TranslationSet>
         <base loc="en">Calendars</base>
-        <tran loc="es">Calendarios</tran>
+        <tran loc="es-419">Calendarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1333,7 +1333,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1341,7 +1341,7 @@
       <Position>HOUR</Position>
       <TranslationSet>
         <base loc="en">Hourly</base>
-        <tran loc="es">Cada hora</tran>
+        <tran loc="es-419">Cada hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1349,7 +1349,7 @@
       <Position>MANUALLY</Position>
       <TranslationSet>
         <base loc="en">Manually</base>
-        <tran loc="es">Manualmente</tran>
+        <tran loc="es-419">Manualmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1357,7 +1357,7 @@
       <Position>SERVER_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">example.com/cal.ics</base>
-        <tran loc="es">example.com/cal.ics</tran>
+        <tran loc="es-419">example.com/cal.ics</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1365,7 +1365,7 @@
       <Position>YES</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1373,7 +1373,7 @@
       <Position>DESCRIPTION_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Calendar Subscription</base>
-        <tran loc="es">Suscripción al calendario</tran>
+        <tran loc="es-419">Suscripción al calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1381,7 +1381,7 @@
       <Position>SUBCAL_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Calendar Subscription</base>
-        <tran loc="es">Suscripción al calendario</tran>
+        <tran loc="es-419">Suscripción al calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1389,7 +1389,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1397,7 +1397,7 @@
       <Position>REMOVE_ALARMS</Position>
       <TranslationSet>
         <base loc="en">Remove Alarms</base>
-        <tran loc="es">Eliminar alarmas</tran>
+        <tran loc="es-419">Eliminar alarmas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1405,7 +1405,7 @@
       <Position>SETUP_WITHOUT_SSL_BODY</Position>
       <TranslationSet>
         <base loc="en">Do you want to try setting up the account without SSL?</base>
-        <tran loc="es">¿Quieres intentar configurar la cuenta sin SSL?</tran>
+        <tran loc="es-419">¿Quieres intentar configurar la cuenta sin SSL?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1413,7 +1413,7 @@
       <Position>DAY</Position>
       <TranslationSet>
         <base loc="en">Daily</base>
-        <tran loc="es">Diariamente</tran>
+        <tran loc="es-419">Diariamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1421,7 +1421,7 @@
       <Position>ACCOUNT_VERIFICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Unable to verify account information.</base>
-        <tran loc="es">Imposible verificar la información de la cuenta.</tran>
+        <tran loc="es-419">Imposible verificar la información de la cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1429,7 +1429,7 @@
       <Position>SETUP_WITHOUT_SSL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Connect Using SSL</base>
-        <tran loc="es">No se puede conectar con SSL</tran>
+        <tran loc="es-419">No se puede conectar con SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1437,7 +1437,7 @@
       <Position>OPTIONAL</Position>
       <TranslationSet>
         <base loc="en">Optional</base>
-        <tran loc="es">Opcional</tran>
+        <tran loc="es-419">Opcional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1445,7 +1445,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1453,7 +1453,7 @@
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1464,7 +1464,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>ADVANCED_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Advanced Settings</base>
-        <tran loc="es">Ajustes avanzados</tran>
+        <tran loc="es-419">Configuración avanzada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>PROFILE_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">These settings are installed by the profile “%@”</base>
-        <tran loc="es">Estos ajustes se instalan con el perfil “%@”</tran>
+        <tran loc="es-419">El perfil “%@” instaló esta configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>ENABLED</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>ACCOUNT_VERIFIED_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ account verified</base>
-        <tran loc="es">Se ha verificado la cuenta %@</tran>
+        <tran loc="es-419">Se verificó la cuenta %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>DONT_SYNC</Position>
       <TranslationSet>
         <base loc="en">Don’t Sync</base>
-        <tran loc="es">No sincronizar</tran>
+        <tran loc="es-419">No sincronizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1520,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@
       <Position>SYNC</Position>
       <TranslationSet>
         <base loc="en">Sync</base>
-        <tran loc="es">Sincronizar</tran>
+        <tran loc="es-419">Sincronizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">User Name</base>
-        <tran loc="es">Usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@
       <Position>DELETE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Delete Account</base>
-        <tran loc="es">Eliminar cuenta</tran>
+        <tran loc="es-419">Eliminar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@
       <Position>HOST</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1608,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1616,7 +1616,7 @@
       <Position>SETUP_WITHOUT_SSL_BODY</Position>
       <TranslationSet>
         <base loc="en">Do you want to try setting up the account without SSL?</base>
-        <tran loc="es">¿Quieres intentar configurar la cuenta sin SSL?</tran>
+        <tran loc="es-419">¿Quieres intentar configurar la cuenta sin SSL?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1624,7 +1624,7 @@
       <Position>VERIFYING</Position>
       <TranslationSet>
         <base loc="en">Verifying</base>
-        <tran loc="es">Verificando</tran>
+        <tran loc="es-419">Verificando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1632,7 +1632,7 @@
       <Position>ACCOUNT_VERIFICATION_FAILED_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ account verification failed</base>
-        <tran loc="es">Error al verificar la cuenta %@</tran>
+        <tran loc="es-419">Error al verificar la cuenta %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1640,7 +1640,7 @@
       <Position>ACCOUNT_VERIFICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Unable to verify account information.</base>
-        <tran loc="es">Imposible verificar la información de la cuenta.</tran>
+        <tran loc="es-419">Imposible verificar la información de la cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1648,7 +1648,7 @@
       <Position>SETUP_WITHOUT_SSL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Connect Using SSL</base>
-        <tran loc="es">No se puede conectar con SSL</tran>
+        <tran loc="es-419">No se puede conectar con SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1656,7 +1656,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1664,7 +1664,7 @@
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>

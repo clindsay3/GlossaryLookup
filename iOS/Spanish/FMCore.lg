@@ -8,7 +8,7 @@
       <Position>DISTANCE_BADGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ %@</base>
-        <tran loc="es">%@ %@</tran>
+        <tran loc="es-419">%@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>MILES</Position>
       <TranslationSet>
         <base loc="en">mi</base>
-        <tran loc="es">mi</tran>
+        <tran loc="es-419">mi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>DISTANCE_BADGE_RANGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@–%@ %@</base>
-        <tran loc="es">%@–%@ %@</tran>
+        <tran loc="es-419">%@–%@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>FMRELATIVEDATEFORMATTER__LESS_THAN_A_MINUTE_AGO__MIDDLEOFSENTENCE</Position>
       <TranslationSet>
         <base loc="en">now</base>
-        <tran loc="es">ahora</tran>
+        <tran loc="es-419">ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>KILOMETERS</Position>
       <TranslationSet>
         <base loc="en">km</base>
-        <tran loc="es">km</tran>
+        <tran loc="es-419">km</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>WLAN</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>FMRELATIVEDATEFORMATTER__LESS_THAN_A_MINUTE_AGO__BEGINNINGOFSENTENCE</Position>
       <TranslationSet>
         <base loc="en">Now</base>
-        <tran loc="es">Ahora</tran>
+        <tran loc="es-419">Ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>FMRELATIVEDATEFORMATTER__LESS_THAN_A_MINUTE_AGO__LISTITEM</Position>
       <TranslationSet>
         <base loc="en">Now</base>
-        <tran loc="es">Ahora</tran>
+        <tran loc="es-419">Ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>FMRELATIVEDATEFORMATTER__LESS_THAN_A_MINUTE_AGO__STANDALONE</Position>
       <TranslationSet>
         <base loc="en">Now</base>
-        <tran loc="es">Ahora</tran>
+        <tran loc="es-419">Ahora</tran>
       </TranslationSet>
     </TextItem>
   </File>

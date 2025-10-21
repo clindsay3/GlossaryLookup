@@ -8,7 +8,7 @@
       <Position>URL.UnsupportedURL.title</Position>
       <TranslationSet>
         <base loc="en">The operation can’t be completed because this URL is not supported.</base>
-        <tran loc="es">No se puede completar la operación porque esta URL no es compatible.</tran>
+        <tran loc="es-419">No se puede completar la operación porque esta URL no es compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>POSIX.ENOTCONN.recovery</Position>
       <TranslationSet>
         <base loc="en">Check the server name or IP address, and then try again. If you continue to have problems, contact your system administrator.</base>
-        <tran loc="es">Comprueba el nombre del servidor o la dirección IP e inténtalo de nuevo. Si el problema persiste, ponte en contacto con el administrador del sistema.</tran>
+        <tran loc="es-419">Verifica el nombre del servidor o la dirección IP e intenta de nuevo. Si el problema persiste, ponte en contacto con el administrador del sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>POSIX.ENOTCONN.title</Position>
       <TranslationSet>
         <base loc="en">There was a problem connecting to the server.</base>
-        <tran loc="es">Ha habido un problema al conectar con el servidor.</tran>
+        <tran loc="es-419">Ocurrió un problema al conectar con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Cocoa.XPCConnectionInterrupted.title</Position>
       <TranslationSet>
         <base loc="en">The operation can’t be completed because an unexpected error occurred.</base>
-        <tran loc="es">No se puede completar la operación porque se ha producido un error inesperado.</tran>
+        <tran loc="es-419">No se puede realizar la operación debido a un error inesperado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>POSIX.EBADF.title</Position>
       <TranslationSet>
         <base loc="en">The operation can’t be completed because an unexpected error occurred.</base>
-        <tran loc="es">No se puede completar la operación porque se ha producido un error inesperado.</tran>
+        <tran loc="es-419">No se puede realizar la operación debido a un error inesperado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>POSIX.EAUTH.title</Position>
       <TranslationSet>
         <base loc="en">You entered an invalid username or password for the server.</base>
-        <tran loc="es">Has introducido un nombre de usuario o una contraseña no válidos para el servidor.</tran>
+        <tran loc="es-419">Ingresaste un nombre de usuario o una contraseña no válidos para el servidor.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -59,7 +59,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/5:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Purple</base>
-        <tran loc="es">Morada</tran>
+        <tran loc="es-419">Morado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/7:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Work</base>
-        <tran loc="es">Trabajo</tran>
+        <tran loc="es-419">Trabajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/9:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Important</base>
-        <tran loc="es">Importante</tran>
+        <tran loc="es-419">Importante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/1:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Orange</base>
-        <tran loc="es">Naranja</tran>
+        <tran loc="es-419">Naranja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/5:array/l:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">3</base>
-        <tran loc="es">3</tran>
+        <tran loc="es-419">3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/0:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Red</base>
-        <tran loc="es">Roja</tran>
+        <tran loc="es-419">Rojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/6:array/l:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">1</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/8:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Casa</tran>
+        <tran loc="es-419">Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/3:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Green</base>
-        <tran loc="es">Verde</tran>
+        <tran loc="es-419">Verde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/1:array/l:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">7</base>
-        <tran loc="es">7</tran>
+        <tran loc="es-419">7</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/2:array/l:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">5</base>
-        <tran loc="es">5</tran>
+        <tran loc="es-419">5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/2:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Yellow</base>
-        <tran loc="es">Amarilla</tran>
+        <tran loc="es-419">Amarillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/6:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Gray</base>
-        <tran loc="es">Gris</tran>
+        <tran loc="es-419">Gris</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTagDictVersion:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">2</base>
-        <tran loc="es">2</tran>
+        <tran loc="es-419">2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/3:array/l:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">2</base>
-        <tran loc="es">2</tran>
+        <tran loc="es-419">2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTagSerialNumber:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">4</base>
-        <tran loc="es">4</tran>
+        <tran loc="es-419">4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/4:array/l:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">4</base>
-        <tran loc="es">4</tran>
+        <tran loc="es-419">4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/0:array/l:dict/:integer</Position>
       <TranslationSet>
         <base loc="en">6</base>
-        <tran loc="es">6</tran>
+        <tran loc="es-419">6</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>/_LOCALIZABLE_:dict/FinderTagDict:dict/FinderTags:dict/4:array/n:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Blue</base>
-        <tran loc="es">Azul</tran>
+        <tran loc="es-419">Azul</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -216,7 +216,7 @@
       <Position>Recents</Position>
       <TranslationSet>
         <base loc="en">Recents</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Something went wrong.</Position>
       <TranslationSet>
         <base loc="en">Something went wrong.</base>
-        <tran loc="es">Se ha producido un error.</tran>
+        <tran loc="es-419">Ocurrió un error.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>Browse</Position>
       <TranslationSet>
         <base loc="en">Browse</base>
-        <tran loc="es">Explorar</tran>
+        <tran loc="es-419">Explorar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>Choose a location.</Position>
       <TranslationSet>
         <base loc="en">Choose a location.</base>
-        <tran loc="es">Selecciona una ubicación.</tran>
+        <tran loc="es-419">Selecciona una ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>Items will be copied to “%@” on %@.</Position>
       <TranslationSet>
         <base loc="en">Items will be copied to “%1$@” on %2$@.</base>
-        <tran loc="es">Los ítems se copiarán en ”%1$@” en %2$@.</tran>
+        <tran loc="es-419">Los elementos se copiarán a ”%1$@” en %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>AudiosSearchPhrases</Position>
       <TranslationSet>
         <base loc="en">audio|sound</base>
-        <tran loc="es">audio|sonido</tran>
+        <tran loc="es-419">audio|sonido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>Download [UIMenuController]</Position>
       <TranslationSet>
         <base loc="en">Download</base>
-        <tran loc="es">Descargar</tran>
+        <tran loc="es-419">Descargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>Copy Link</Position>
       <TranslationSet>
         <base loc="en">Copy Link</base>
-        <tran loc="es">Copiar enlace</tran>
+        <tran loc="es-419">Copiar enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>Copy Link [Action Sheet]</Position>
       <TranslationSet>
         <base loc="en">Copy Link</base>
-        <tran loc="es">Copiar enlace</tran>
+        <tran loc="es-419">Copiar enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>Delete Tag</Position>
       <TranslationSet>
         <base loc="en">Delete Tag</base>
-        <tran loc="es">Eliminar etiqueta</tran>
+        <tran loc="es-419">Eliminar etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>Failed to create PDF</Position>
       <TranslationSet>
         <base loc="en">Failed to create PDF</base>
-        <tran loc="es">Error al crear el PDF</tran>
+        <tran loc="es-419">Error al crear archivo PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>Album</Position>
       <TranslationSet>
         <base loc="en">Album</base>
-        <tran loc="es">Álbum</tran>
+        <tran loc="es-419">Álbum</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>Moving items to “%@” on %@…</Position>
       <TranslationSet>
         <base loc="en">Moving items to “%1$@” on %2$@…</base>
-        <tran loc="es">Trasladando ítems a “%1$@” en %2$@…</tran>
+        <tran loc="es-419">Moviendo elementos a "%1$@" en %2$@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>Metadata GPSLatLon Component [South]</Position>
       <TranslationSet>
         <base loc="en">S</base>
-        <tran loc="es">S</tran>
+        <tran loc="es-419">S</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>Choose a new location to save this item.</Position>
       <TranslationSet>
         <base loc="en">Choose a new location to save this item.</base>
-        <tran loc="es">Selecciona dónde quieres guardar este ítem.</tran>
+        <tran loc="es-419">Elige en dónde guardar este elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>Add New Tag</Position>
       <TranslationSet>
         <base loc="en">Add New Tag</base>
-        <tran loc="es">Añadir nueva etiqueta</tran>
+        <tran loc="es-419">Agregar nueva etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>Where</Position>
       <TranslationSet>
         <base loc="en">Where</base>
-        <tran loc="es">Ubicación</tran>
+        <tran loc="es-419">Ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>Musical genre</Position>
       <TranslationSet>
         <base loc="en">Musical genre</base>
-        <tran loc="es">Género musical</tran>
+        <tran loc="es-419">Género musical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>To view the items in this folder, you need to authenticate.</Position>
       <TranslationSet>
         <base loc="en">To view the items in this folder, you need to authenticate.</base>
-        <tran loc="es">Para ver los ítems de esta carpeta, debes autenticarte.</tran>
+        <tran loc="es-419">Para ver los elementos en esta carpeta, debes autenticar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>Read-Only</Position>
       <TranslationSet>
         <base loc="en">Read-Only</base>
-        <tran loc="es">Solo lectura</tran>
+        <tran loc="es-419">Sólo lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>Try Again</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>Delete</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>Delete [Action Sheet]</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>New Folder [Button Title]</Position>
       <TranslationSet>
         <base loc="en">New Folder</base>
-        <tran loc="es">Nueva carpeta</tran>
+        <tran loc="es-419">Nueva carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>New Folder [menu]</Position>
       <TranslationSet>
         <base loc="en">New Folder</base>
-        <tran loc="es">Nueva carpeta</tran>
+        <tran loc="es-419">Nueva carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>New Folder [title]</Position>
       <TranslationSet>
         <base loc="en">New Folder</base>
-        <tran loc="es">Nueva carpeta</tran>
+        <tran loc="es-419">Nueva carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>Rotate Right</Position>
       <TranslationSet>
         <base loc="en">Rotate Right</base>
-        <tran loc="es">Girar a la derecha</tran>
+        <tran loc="es-419">Girar a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -433,7 +433,7 @@
       <Position>Sort by Date</Position>
       <TranslationSet>
         <base loc="en">Sort by Date</base>
-        <tran loc="es">Ordenar por fecha</tran>
+        <tran loc="es-419">Ordenar por fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -441,7 +441,7 @@
       <Position>Encoding software</Position>
       <TranslationSet>
         <base loc="en">Encoding software</base>
-        <tran loc="es">Software de codificación</tran>
+        <tran loc="es-419">Software de codificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -449,7 +449,7 @@
       <Position>Item will be moved to “%@” on %@.</Position>
       <TranslationSet>
         <base loc="en">Item will be moved to “%1$@” on %2$@.</base>
-        <tran loc="es">El ítem se trasladará a ”%1$@” en %2$@.</tran>
+        <tran loc="es-419">El elemento se moverá a ”%1$@” en %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -457,7 +457,7 @@
       <Position>Version</Position>
       <TranslationSet>
         <base loc="en">Version</base>
-        <tran loc="es">Versión</tran>
+        <tran loc="es-419">Versión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -465,7 +465,7 @@
       <Position>Metering Mode [MultiSpot]</Position>
       <TranslationSet>
         <base loc="en">Multi-spot</base>
-        <tran loc="es">Múltiple</tran>
+        <tran loc="es-419">Puntos múltiples</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@
       <Position>Authentication Required</Position>
       <TranslationSet>
         <base loc="en">Authentication Required</base>
-        <tran loc="es">Autenticación obligatoria</tran>
+        <tran loc="es-419">Autenticación obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@
       <Position>Something went wrong while displaying documents.</Position>
       <TranslationSet>
         <base loc="en">Something went wrong while displaying documents.</base>
-        <tran loc="es">Se ha producido un error al mostrar los documentos.</tran>
+        <tran loc="es-419">Algo salió mal al mostrar documentos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>↓ %@ of %@</Position>
       <TranslationSet>
         <base loc="en">↓ %1$@ of %2$@</base>
-        <tran loc="es">↓ %1$@ de %2$@</tran>
+        <tran loc="es-419">↓ %1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>Open folder %@</Position>
       <TranslationSet>
         <base loc="en">Open folder %@</base>
-        <tran loc="es">Abrir carpeta %@</tran>
+        <tran loc="es-419">Abrir la carpeta %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -506,7 +506,7 @@
       <Position>Authors</Position>
       <TranslationSet>
         <base loc="en">Authors</base>
-        <tran loc="es">Autores</tran>
+        <tran loc="es-419">Autores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +515,7 @@
       <Position>Name</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +523,7 @@
       <Position>Sorted by Name</Position>
       <TranslationSet>
         <base loc="en">Sorted by Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Ordenados por nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>Copying %@ to %@…</Position>
       <TranslationSet>
         <base loc="en">Copying %1$@ to %2$@…</base>
-        <tran loc="es">Copiando %1$@ en %2$@…</tran>
+        <tran loc="es-419">Copiando %1$@ a %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>The location %@ uses to save new documents to is no longer available. Choose a new location in Settings.</Position>
       <TranslationSet>
         <base loc="en">The location %@ uses to save new documents to is no longer available. Choose a new location in Settings.</base>
-        <tran loc="es">La ubicación %@ usada para guardar nuevos documentos ya no está disponible. Selecciona una nueva ubicación en Ajustes.</tran>
+        <tran loc="es-419">Ya no está disponible la ubicación que %@ usa para guardar nuevos documentos. Selecciona una nueva en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>Shared Documents</Position>
       <TranslationSet>
         <base loc="en">Shared Documents</base>
-        <tran loc="es">Documentos compartidos</tran>
+        <tran loc="es-419">Documentos compartidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>Content Creator</Position>
       <TranslationSet>
         <base loc="en">Content Creator</base>
-        <tran loc="es">Creador del contenido</tran>
+        <tran loc="es-419">Creador del contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>Sorted by %@</Position>
       <TranslationSet>
         <base loc="en">Sorted by %@</base>
-        <tran loc="es">Por: %@</tran>
+        <tran loc="es-419">Por: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>New documents will be saved to iCloud Drive. Existing documents on your iPhone will not be moved.</Position>
       <TranslationSet>
         <base loc="en">New documents will be saved to iCloud Drive. Existing documents on your iPhone will not be moved.</base>
-        <tran loc="es">Los documentos nuevos se guardarán en iCloud Drive. Los documentos que ya tengas en tu iPhone no se trasladarán.</tran>
+        <tran loc="es-419">Los documentos nuevos se guardarán en iCloud Drive. No se moverán los que ya existen en tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +579,7 @@
       <Position>+Tag</Position>
       <TranslationSet>
         <base loc="en">+Tag</base>
-        <tran loc="es">+Etiqueta</tran>
+        <tran loc="es-419">+Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -587,7 +587,7 @@
       <Position>The folder contents could not be displayed because the connection to the server timed out.</Position>
       <TranslationSet>
         <base loc="en">The folder contents could not be displayed because the connection to the server timed out.</base>
-        <tran loc="es">No se ha podido mostrar el contenido de la carpeta porque se ha agotado el tiempo de espera para la conexión al servidor.</tran>
+        <tran loc="es-419">No se pudo mostrar el contenido de la carpeta debido a que se agotó la espera de conexión con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>The item “%@” could not be opened because it could not be found in %@.</Position>
       <TranslationSet>
         <base loc="en">The item “%1$@” could not be opened because it could not be found in %2$@.</base>
-        <tran loc="es">El ítem “%1$@” no ha podido abrirse porque no ha podido encontrarse en %2$@.</tran>
+        <tran loc="es-419">El elemento “%1$@” no pudo abrirse porque no se pudo encontrar en %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -603,7 +603,7 @@
       <Position>Latitude</Position>
       <TranslationSet>
         <base loc="en">Latitude</base>
-        <tran loc="es">Latitud</tran>
+        <tran loc="es-419">Latitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -611,7 +611,7 @@
       <Position>Dismiss Preview</Position>
       <TranslationSet>
         <base loc="en">Dismiss Preview</base>
-        <tran loc="es">Cerrar previsualización</tran>
+        <tran loc="es-419">Omitir previsualización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -619,7 +619,7 @@
       <Position>Choose a new location to save these items.</Position>
       <TranslationSet>
         <base loc="en">Choose a new location to save these items.</base>
-        <tran loc="es">Selecciona dónde quieres guardar estos ítems.</tran>
+        <tran loc="es-419">Elige en dónde guardar estos elementos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -627,7 +627,7 @@
       <Position>Delete All</Position>
       <TranslationSet>
         <base loc="en">Delete All</base>
-        <tran loc="es">Eliminar todo</tran>
+        <tran loc="es-419">Eliminar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>Saving items to “%@” on %@…</Position>
       <TranslationSet>
         <base loc="en">Saving items to “%1$@” on %2$@…</base>
-        <tran loc="es">Guardando ítems a “%1$@” en %2$@…</tran>
+        <tran loc="es-419">Guardando elementos en "%1$@" en %2$@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -643,7 +643,7 @@
       <Position>Is Shared with Others</Position>
       <TranslationSet>
         <base loc="en">Is Shared with Others</base>
-        <tran loc="es">Compartidos con otras personas</tran>
+        <tran loc="es-419">se comparte con otros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -651,7 +651,7 @@
       <Position>%1$@, %2$@</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>Alpha Channel</Position>
       <TranslationSet>
         <base loc="en">Alpha Channel</base>
-        <tran loc="es">Canal alfa</tran>
+        <tran loc="es-419">Canal alfa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>SoureCodeAtomTitle</Position>
       <TranslationSet>
         <base loc="en">Source Code</base>
-        <tran loc="es">Código fuente</tran>
+        <tran loc="es-419">Código fuente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>SoureCodeSuggestionTitle</Position>
       <TranslationSet>
         <base loc="en">Source Code</base>
-        <tran loc="es">Código fuente</tran>
+        <tran loc="es-419">Código fuente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>Done</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>Kinds</Position>
       <TranslationSet>
         <base loc="en">Kinds</base>
-        <tran loc="es">Clases</tran>
+        <tran loc="es-419">Clases</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>Metadata GPSLatLon Format</Position>
       <TranslationSet>
         <base loc="en">%1$d° %2$d' %3$.3f\" %4$@</base>
-        <tran loc="es">%1$d° %2$d' %3$.3f\" %4$@</tran>
+        <tran loc="es-419">%1$d° %2$d' %3$.3f\" %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>SharedSearchPhrases</Position>
       <TranslationSet>
         <base loc="en">shared|is shared</base>
-        <tran loc="es">compartido|se comparte</tran>
+        <tran loc="es-419">compartido|se comparte|compartida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -715,7 +715,7 @@
       <Position>Metadata GPSLatLon Component [West]</Position>
       <TranslationSet>
         <base loc="en">W</base>
-        <tran loc="es">O</tran>
+        <tran loc="es-419">O</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -723,7 +723,7 @@
       <Position>Metering mode</Position>
       <TranslationSet>
         <base loc="en">Metering mode</base>
-        <tran loc="es">Modalidad de medición</tran>
+        <tran loc="es-419">Modalidad de medición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -731,7 +731,7 @@
       <Position>Hide</Position>
       <TranslationSet>
         <base loc="en">Hide</base>
-        <tran loc="es">Ocultar</tran>
+        <tran loc="es-419">Ocultar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -739,7 +739,7 @@
       <Position>To view the items in this folder, you need to authenticate in the %@ app.</Position>
       <TranslationSet>
         <base loc="en">To view the items in this folder, you need to authenticate in the %@ app.</base>
-        <tran loc="es">Para ver los ítems de esta carpeta, debes autenticarte en la app %@.</tran>
+        <tran loc="es-419">Para ver los elementos en esta carpeta, debes autenticar en la app %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -747,7 +747,7 @@
       <Position>Scanned Document Filename</Position>
       <TranslationSet>
         <base loc="en">Scanned Document</base>
-        <tran loc="es">Documento escaneado</tran>
+        <tran loc="es-419">Documento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -755,7 +755,7 @@
       <Position>Save to My iPhone</Position>
       <TranslationSet>
         <base loc="en">Save to My iPhone</base>
-        <tran loc="es">Guardar en mi iPhone</tran>
+        <tran loc="es-419">Guardar en mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -763,7 +763,7 @@
       <Position>Device model</Position>
       <TranslationSet>
         <base loc="en">Device model</base>
-        <tran loc="es">Modelo</tran>
+        <tran loc="es-419">Modelo del dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -771,7 +771,7 @@
       <Position>Enable at least one location to be able to save documents.</Position>
       <TranslationSet>
         <base loc="en">Enable at least one location to be able to save documents.</base>
-        <tran loc="es">Activa al menos una ubicación para poder guardar documentos.</tran>
+        <tran loc="es-419">Activa por lo menos una ubicación para poder guardar documentos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -779,7 +779,7 @@
       <Position>Sort by Kind</Position>
       <TranslationSet>
         <base loc="en">Sort by Kind</base>
-        <tran loc="es">Ordenar por tipo</tran>
+        <tran loc="es-419">Ordenar por tipo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -787,7 +787,7 @@
       <Position>Moving “%@” to %@…</Position>
       <TranslationSet>
         <base loc="en">Moving “%1$@” to %2$@…</base>
-        <tran loc="es">Trasladando “%1$@” a %2$@…</tran>
+        <tran loc="es-419">Moviendo “%1$@” a %2$@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -795,7 +795,7 @@
       <Position>On My iPod</Position>
       <TranslationSet>
         <base loc="en">On My iPod</base>
-        <tran loc="es">En mi iPod</tran>
+        <tran loc="es-419">iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -803,7 +803,7 @@
       <Position>Invalid URL wrapper</Position>
       <TranslationSet>
         <base loc="en">Invalid URL wrapper</base>
-        <tran loc="es">Contenedor de URL incorrecto</tran>
+        <tran loc="es-419">Prefijo de URL inválido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -811,7 +811,7 @@
       <Position>Copying items to %@…</Position>
       <TranslationSet>
         <base loc="en">Copying items to %@…</base>
-        <tran loc="es">Copiando ítems en %@…</tran>
+        <tran loc="es-419">Copiando elementos a %@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>New documents will be saved to iCloud Drive. Existing documents on your iPod will not be moved.</Position>
       <TranslationSet>
         <base loc="en">New documents will be saved to iCloud Drive. Existing documents on your iPod will not be moved.</base>
-        <tran loc="es">Los documentos nuevos se guardarán en iCloud Drive. Los documentos que ya tengas en tu iPod no se trasladarán.</tran>
+        <tran loc="es-419">Los documentos nuevos se guardarán en iCloud Drive. No se moverán los que ya existen en tu iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>Items will be saved to %@.</Position>
       <TranslationSet>
         <base loc="en">Items will be saved to %@.</base>
-        <tran loc="es">Los ítems se guardarán en “%@”.</tran>
+        <tran loc="es-419">Los elementos se guadarán en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>Unlock iPod to View</Position>
       <TranslationSet>
         <base loc="en">Unlock iPod to View</base>
-        <tran loc="es">Desbloquea el iPod para ver</tran>
+        <tran loc="es-419">Desbloquear el iPod para ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -843,7 +843,7 @@
       <Position>Go to Desktop</Position>
       <TranslationSet>
         <base loc="en">Go to Desktop</base>
-        <tran loc="es">Ir a Escritorio</tran>
+        <tran loc="es-419">Ir al escritorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -852,7 +852,7 @@
       <Position>Duplicate</Position>
       <TranslationSet>
         <base loc="en">Duplicate</base>
-        <tran loc="es">Duplicar</tran>
+        <tran loc="es-419">Duplicar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -860,7 +860,7 @@
       <Position>Duplicate [Action Sheet]</Position>
       <TranslationSet>
         <base loc="en">Duplicate</base>
-        <tran loc="es">Duplicar</tran>
+        <tran loc="es-419">Duplicar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -868,7 +868,7 @@
       <Position>The folder “%@” can’t be opened because you don’t have permission to see its contents.</Position>
       <TranslationSet>
         <base loc="en">The folder “%@” can’t be opened because you don’t have permission to see its contents.</base>
-        <tran loc="es">La carpeta “%@” no puede abrirse porque no dispones de permiso para ver su contenido.</tran>
+        <tran loc="es-419">La carpeta “%@” no se puede abrir porque no tienes permiso para ver su contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -876,7 +876,7 @@
       <Position>Is Shared</Position>
       <TranslationSet>
         <base loc="en">Is Shared</base>
-        <tran loc="es">Compartido</tran>
+        <tran loc="es-419">se comparte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -884,7 +884,7 @@
       <Position>Compress [Action Sheet]</Position>
       <TranslationSet>
         <base loc="en">Compress</base>
-        <tran loc="es">Comprimir</tran>
+        <tran loc="es-419">Comprimir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -892,7 +892,7 @@
       <Position>Compress [UIMenuController]</Position>
       <TranslationSet>
         <base loc="en">Compress</base>
-        <tran loc="es">Comprimir</tran>
+        <tran loc="es-419">Comprimir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -900,7 +900,7 @@
       <Position>Exposure Program [Creative]</Position>
       <TranslationSet>
         <base loc="en">Creative</base>
-        <tran loc="es">Creativo</tran>
+        <tran loc="es-419">Creativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>The Operation Can’t Be Completed.</Position>
       <TranslationSet>
         <base loc="en">The Operation Can’t Be Completed.</base>
-        <tran loc="es">La operación no puede completarse.</tran>
+        <tran loc="es-419">No se puede completar la operación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>Filenames</Position>
       <TranslationSet>
         <base loc="en">Filenames</base>
-        <tran loc="es">Nombres de archivo</tran>
+        <tran loc="es-419">Nombres de archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -924,7 +924,7 @@
       <Position>Modified</Position>
       <TranslationSet>
         <base loc="en">Modified</base>
-        <tran loc="es">Edición</tran>
+        <tran loc="es-419">Modific.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -932,7 +932,7 @@
       <Position>The name “%@” with extension “.%@” is already taken. Please choose a different name.</Position>
       <TranslationSet>
         <base loc="en">The name “%1$@” with extension “.%2$@” is already taken. Please choose a different name.</base>
-        <tran loc="es">El nombre “%1$@” con la extensión “.%2$@” ya existe. Selecciona otro nombre.</tran>
+        <tran loc="es-419">El nombre “%1$@” con la extensión “%2$@” ya existe. Elige otro nombre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -940,7 +940,7 @@
       <Position>The folder contents could not be displayed because you don’t have permission to see its contents.</Position>
       <TranslationSet>
         <base loc="en">The folder contents could not be displayed because you don’t have permission to see its contents.</base>
-        <tran loc="es">No se ha podido mostrar el contenido de la carpeta porque no tienes permiso para verlo.</tran>
+        <tran loc="es-419">No se puede mostrar el contenido de la carpeta porque no cuentas con el permiso necesario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -948,7 +948,7 @@
       <Position>Can not open file</Position>
       <TranslationSet>
         <base loc="en">Can not open file</base>
-        <tran loc="es">No se puede abrir el archivo</tran>
+        <tran loc="es-419">No se puede abrir el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -956,7 +956,7 @@
       <Position>Quick Look</Position>
       <TranslationSet>
         <base loc="en">Quick Look</base>
-        <tran loc="es">Vista rápida</tran>
+        <tran loc="es-419">Vista rápida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -964,7 +964,7 @@
       <Position>Quick Look [UIMenuController]</Position>
       <TranslationSet>
         <base loc="en">Quick Look</base>
-        <tran loc="es">Vista rápida</tran>
+        <tran loc="es-419">Vista rápida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -972,7 +972,7 @@
       <Position>View as Column</Position>
       <TranslationSet>
         <base loc="en">View as Column</base>
-        <tran loc="es">Ver como columna</tran>
+        <tran loc="es-419">Ver como columna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -981,7 +981,7 @@
       <Position>Title</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -989,7 +989,7 @@
       <Position>WhiteBalance Mode [Auto]</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Auto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +997,7 @@
       <Position>AudiosAtomTitle</Position>
       <TranslationSet>
         <base loc="en">Audio Files</base>
-        <tran loc="es">Archivos de audio</tran>
+        <tran loc="es-419">Archivos de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1005,7 +1005,7 @@
       <Position>AudiosSuggestionTitle</Position>
       <TranslationSet>
         <base loc="en">Audio Files</base>
-        <tran loc="es">Archivos de audio</tran>
+        <tran loc="es-419">Archivos de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1013,7 +1013,7 @@
       <Position>Shared by Me</Position>
       <TranslationSet>
         <base loc="en">Shared by Me</base>
-        <tran loc="es">Compartido por mí</tran>
+        <tran loc="es-419">Contenido compartido por mí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1021,7 +1021,7 @@
       <Position>Focal length</Position>
       <TranslationSet>
         <base loc="en">Focal length</base>
-        <tran loc="es">Longitud focal</tran>
+        <tran loc="es-419">Longitud focal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@
       <Position>On My Device</Position>
       <TranslationSet>
         <base loc="en">On My Device</base>
-        <tran loc="es">En mi dispositivo</tran>
+        <tran loc="es-419">En mi dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@
       <Position>Metadata Boolean Value [NO]</Position>
       <TranslationSet>
         <base loc="en">NO</base>
-        <tran loc="es">NO</tran>
+        <tran loc="es-419">NO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@
       <Position>untitled folder</Position>
       <TranslationSet>
         <base loc="en">untitled folder</base>
-        <tran loc="es">carpeta sin título</tran>
+        <tran loc="es-419">sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1053,7 @@
       <Position>Color space</Position>
       <TranslationSet>
         <base loc="en">Color space</base>
-        <tran loc="es">Espacio de color</tran>
+        <tran loc="es-419">Espacio de color</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1061,7 @@
       <Position>N/A</Position>
       <TranslationSet>
         <base loc="en">N/A</base>
-        <tran loc="es">N/D</tran>
+        <tran loc="es-419">ND</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1069,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1077,7 +1077,7 @@
       <Position>On My iPhone</Position>
       <TranslationSet>
         <base loc="en">On My iPhone</base>
-        <tran loc="es">En mi iPhone</tran>
+        <tran loc="es-419">iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1085,7 +1085,7 @@
       <Position>Unable to import scanned document.</Position>
       <TranslationSet>
         <base loc="en">Unable to import scanned document.</base>
-        <tran loc="es">No se pueden importar los documentos escaneados.</tran>
+        <tran loc="es-419">No se pudo importar el documento escaneado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1093,7 +1093,7 @@
       <Position>Download Error</Position>
       <TranslationSet>
         <base loc="en">Download Error</base>
-        <tran loc="es">Error de descarga</tran>
+        <tran loc="es-419">Error de descarga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1102,7 +1102,7 @@
       <Position>Rename</Position>
       <TranslationSet>
         <base loc="en">Rename</base>
-        <tran loc="es">Renombrar</tran>
+        <tran loc="es-419">Renombrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1110,7 +1110,7 @@
       <Position>Rename [Action Sheet]</Position>
       <TranslationSet>
         <base loc="en">Rename</base>
-        <tran loc="es">Renombrar</tran>
+        <tran loc="es-419">Renombrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1118,7 +1118,7 @@
       <Position>%@ Recents</Position>
       <TranslationSet>
         <base loc="en">%@ Recents</base>
-        <tran loc="es">Recientes de %@</tran>
+        <tran loc="es-419">Recientes de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1126,7 +1126,7 @@
       <Position>ImagesSearchPhrases</Position>
       <TranslationSet>
         <base loc="en">images|pictures</base>
-        <tran loc="es">imágenes|fotos</tran>
+        <tran loc="es-419">imágenes|fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1134,7 +1134,7 @@
       <Position>Choose a new location to move these items.</Position>
       <TranslationSet>
         <base loc="en">Choose a new location to move these items.</base>
-        <tran loc="es">Selecciona dónde quieres trasladar estos ítems.</tran>
+        <tran loc="es-419">Elige a dónde mover estos elementos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1142,7 +1142,7 @@
       <Position>1 Item Selected</Position>
       <TranslationSet>
         <base loc="en">1 Item Selected</base>
-        <tran loc="es">1 ítem seleccionado</tran>
+        <tran loc="es-419">1 elemento seleccionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1150,7 +1150,7 @@
       <Position>More [Action Bar]</Position>
       <TranslationSet>
         <base loc="en">More</base>
-        <tran loc="es">Más</tran>
+        <tran loc="es-419">Más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1158,7 +1158,7 @@
       <Position>The document “%@” can’t be opened because it’s in Recently Deleted.</Position>
       <TranslationSet>
         <base loc="en">The document “%@” can’t be opened because it’s in Recently Deleted.</base>
-        <tran loc="es">El documento “%@” no puede abrirse porque se encuentra en “Recién eliminado”.</tran>
+        <tran loc="es-419">No se puede abrir el documento “%@” porque está en Eliminados hace poco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1166,7 +1166,7 @@
       <Position>The document “%@” can’t be opened because you don’t have permission to see its contents.</Position>
       <TranslationSet>
         <base loc="en">The document “%@” can’t be opened because you don’t have permission to see its contents.</base>
-        <tran loc="es">El documento “%@” no puede abrirse porque no dispones de permiso para ver su contenido.</tran>
+        <tran loc="es-419">El documento “%@” no se puede abrir porque no tienes permiso para ver su contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1174,7 +1174,7 @@
       <Position>Item will be saved to “%@” on %@.</Position>
       <TranslationSet>
         <base loc="en">Item will be saved to “%1$@” on %2$@.</base>
-        <tran loc="es">El ítem se guardará en ”%1$@” en %2$@.</tran>
+        <tran loc="es-419">El elemento se guardará en "%1$@" en %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1182,7 +1182,7 @@
       <Position>No Recents</Position>
       <TranslationSet>
         <base loc="en">No Recents</base>
-        <tran loc="es">No hay recientes</tran>
+        <tran loc="es-419">No hay recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1190,7 +1190,7 @@
       <Position>Sort by Tags</Position>
       <TranslationSet>
         <base loc="en">Sort by Tags</base>
-        <tran loc="es">Ordenar por etiquetas</tran>
+        <tran loc="es-419">Ordenar por etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1198,7 +1198,7 @@
       <Position>Edit</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1207,7 +1207,7 @@
       <Position>“%@” begins with a “.” and will be hidden.</Position>
       <TranslationSet>
         <base loc="en">“%@” begins with a “.” and will be hidden.</base>
-        <tran loc="es">“%@” empieza por “.” y se ocultará.</tran>
+        <tran loc="es-419">”%@” inicia con un punto y se ocultará.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1215,7 +1215,7 @@
       <Position>Rename Folder</Position>
       <TranslationSet>
         <base loc="en">Rename Folder</base>
-        <tran loc="es">Renombrar carpeta</tran>
+        <tran loc="es-419">Renombrar carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1223,7 +1223,7 @@
       <Position>Security</Position>
       <TranslationSet>
         <base loc="en">Security</base>
-        <tran loc="es">Seguridad</tran>
+        <tran loc="es-419">Seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1231,7 +1231,7 @@
       <Position>Metering Mode [Partial]</Position>
       <TranslationSet>
         <base loc="en">Partial</base>
-        <tran loc="es">Parcial</tran>
+        <tran loc="es-419">Parcial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1239,7 +1239,7 @@
       <Position>Duration</Position>
       <TranslationSet>
         <base loc="en">Duration</base>
-        <tran loc="es">Duración</tran>
+        <tran loc="es-419">Duración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@
       <Position>Connect to Server</Position>
       <TranslationSet>
         <base loc="en">Connect to Server</base>
-        <tran loc="es">Conectar con el servidor</tran>
+        <tran loc="es-419">Conectar con el servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@
       <Position>SoureCodeSearchPhrases</Position>
       <TranslationSet>
         <base loc="en">source code|sourcecode</base>
-        <tran loc="es">código fuente|código de origen</tran>
+        <tran loc="es-419">código fuente!código original</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@
       <Position>You are attempting to connect to the server “%@”</Position>
       <TranslationSet>
         <base loc="en">You are attempting to connect to the server “%@”</base>
-        <tran loc="es">Estás intentando establecer conexión con el servidor “%@”.</tran>
+        <tran loc="es-419">Estás intentando conectarte al servidor “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@
       <Position>These items will be deleted immediately from all your devices. You can’t undo this action. [no trash]</Position>
       <TranslationSet>
         <base loc="en">These items will be deleted immediately from all your devices. You can’t undo this action.</base>
-        <tran loc="es">Estos ítems se eliminarán inmediatamente de todos los dispositivos. Esta acción no se puede deshacer.</tran>
+        <tran loc="es-419">Se eliminarán permanentemente estos elementos de todos tus dispositivos. Esto no se puede deshacer.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@
       <Position>Aperture value</Position>
       <TranslationSet>
         <base loc="en">Aperture value</base>
-        <tran loc="es">Valor de apertura</tran>
+        <tran loc="es-419">Valor de apertura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@
       <Position>Exposure time</Position>
       <TranslationSet>
         <base loc="en">Exposure time</base>
-        <tran loc="es">Tiempo de exposición</tran>
+        <tran loc="es-419">Tiempo de exposición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@
       <Position>Metadata Value Missing Indicator [--]</Position>
       <TranslationSet>
         <base loc="en">--</base>
-        <tran loc="es">--</tran>
+        <tran loc="es-419">--</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@
       <Position>Error [UIDocumentBrowserViewController view service error]</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1315,7 +1315,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1323,7 +1323,7 @@
       <Position>Cancel [Sort Order Control]</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1332,7 +1332,7 @@
       <Position>Create Document</Position>
       <TranslationSet>
         <base loc="en">Create Document</base>
-        <tran loc="es">Crear documento</tran>
+        <tran loc="es-419">Crear documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1340,7 +1340,7 @@
       <Position>Paste</Position>
       <TranslationSet>
         <base loc="en">Paste</base>
-        <tran loc="es">Pegar</tran>
+        <tran loc="es-419">Pegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1348,7 +1348,7 @@
       <Position>Select</Position>
       <TranslationSet>
         <base loc="en">Select</base>
-        <tran loc="es">Seleccionar</tran>
+        <tran loc="es-419">Seleccionar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1356,7 +1356,7 @@
       <Position>Reveal Item [UIMenuController]</Position>
       <TranslationSet>
         <base loc="en">Reveal Item</base>
-        <tran loc="es">Mostrar ítem</tran>
+        <tran loc="es-419">Mostrar elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1364,7 +1364,7 @@
       <Position>Unlock iPhone to View</Position>
       <TranslationSet>
         <base loc="en">Unlock iPhone to View</base>
-        <tran loc="es">Desbloquea el iPhone para ver</tran>
+        <tran loc="es-419">Desbloquear el iPhone para ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1372,7 +1372,7 @@
       <Position>Flash</Position>
       <TranslationSet>
         <base loc="en">Flash</base>
-        <tran loc="es">Flash</tran>
+        <tran loc="es-419">Flash</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1380,7 +1380,7 @@
       <Position>Dates</Position>
       <TranslationSet>
         <base loc="en">Dates</base>
-        <tran loc="es">Fechas</tran>
+        <tran loc="es-419">Fechas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1388,7 +1388,7 @@
       <Position>“%@” will be saved to %@.</Position>
       <TranslationSet>
         <base loc="en">“%1$@” will be saved to %2$@.</base>
-        <tran loc="es">“%1$@” se guardará en %2$@.</tran>
+        <tran loc="es-419">“%1$@” se guardará en “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1397,7 +1397,7 @@
       <Position>Favorite</Position>
       <TranslationSet>
         <base loc="en">Favorite</base>
-        <tran loc="es">Añadir a favoritos</tran>
+        <tran loc="es-419">Favorito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1405,7 +1405,7 @@
       <Position>The item “%@” could not be opened because it could not be found.</Position>
       <TranslationSet>
         <base loc="en">The item “%@” could not be opened because it could not be found.</base>
-        <tran loc="es">El ítem “%@” no ha podido abrirse porque no ha podido encontrarse.</tran>
+        <tran loc="es-419">El elemento “%@” no pudo abrirse porque no se pudo encontrar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1413,7 +1413,7 @@
       <Position>Go to Documents</Position>
       <TranslationSet>
         <base loc="en">Go to Documents</base>
-        <tran loc="es">Ir a Documentos</tran>
+        <tran loc="es-419">Ir a Documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1421,7 +1421,7 @@
       <Position>Choose a new location to move this item.</Position>
       <TranslationSet>
         <base loc="en">Choose a new location to move this item.</base>
-        <tran loc="es">Selecciona dónde quieres trasladar este ítem.</tran>
+        <tran loc="es-419">Elige a dónde mover este elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1429,7 +1429,7 @@
       <Position>Exposure Program [Portrait]</Position>
       <TranslationSet>
         <base loc="en">Portrait</base>
-        <tran loc="es">Vertical</tran>
+        <tran loc="es-419">Vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1437,7 +1437,7 @@
       <Position>DOWNLOADED</Position>
       <TranslationSet>
         <base loc="en">DOWNLOADED</base>
-        <tran loc="es">DESCARGADO</tran>
+        <tran loc="es-419">DESCARGADO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1445,7 +1445,7 @@
       <Position>New documents will be saved to iCloud Drive. Existing documents on your iPad will not be moved.</Position>
       <TranslationSet>
         <base loc="en">New documents will be saved to iCloud Drive. Existing documents on your iPad will not be moved.</base>
-        <tran loc="es">Los documentos nuevos se guardarán en iCloud Drive. Los documentos que ya tengas en tu iPad no se trasladarán.</tran>
+        <tran loc="es-419">Los documentos nuevos se guardarán en iCloud Drive. No se moverán los que ya existen en tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1453,7 +1453,7 @@
       <Position>Add Tags[Preview Panel]</Position>
       <TranslationSet>
         <base loc="en">Add Tags</base>
-        <tran loc="es">Añadir etiquetas</tran>
+        <tran loc="es-419">Agregar etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1461,7 +1461,7 @@
       <Position>Info</Position>
       <TranslationSet>
         <base loc="en">Info</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1469,7 +1469,7 @@
       <Position>Info [Menu Controller Button Title]</Position>
       <TranslationSet>
         <base loc="en">Info</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1477,7 +1477,7 @@
       <Position>Info [View Controller Title]</Position>
       <TranslationSet>
         <base loc="en">Info</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1485,7 +1485,7 @@
       <Position>Check your Internet connection, then try again.</Position>
       <TranslationSet>
         <base loc="en">Check your Internet connection, then try again.</base>
-        <tran loc="es">Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Comprueba la conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1493,7 +1493,7 @@
       <Position>Are you sure you want to delete “%@”? [no trash]</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete “%@”?</base>
-        <tran loc="es">¿Seguro que quieres eliminar “%@”?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1501,7 +1501,7 @@
       <Position>Codecs</Position>
       <TranslationSet>
         <base loc="en">Codecs</base>
-        <tran loc="es">Códecs</tran>
+        <tran loc="es-419">Códecs</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1509,7 +1509,7 @@
       <Position>Connect to Server…</Position>
       <TranslationSet>
         <base loc="en">Connect to Server…</base>
-        <tran loc="es">Conectarse al servidor…</tran>
+        <tran loc="es-419">Conectarse al servidor…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1517,7 +1517,7 @@
       <Position>Persons</Position>
       <TranslationSet>
         <base loc="en">Persons</base>
-        <tran loc="es">Personas</tran>
+        <tran loc="es-419">Personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1525,7 +1525,7 @@
       <Position>Sort by Size</Position>
       <TranslationSet>
         <base loc="en">Sort by Size</base>
-        <tran loc="es">Ordenar por tamaño</tran>
+        <tran loc="es-419">Ordenar por tamaño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1533,7 +1533,7 @@
       <Position>Locations</Position>
       <TranslationSet>
         <base loc="en">Locations</base>
-        <tran loc="es">Ubicaciones</tran>
+        <tran loc="es-419">Ubicaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1541,7 +1541,7 @@
       <Position>Red eye</Position>
       <TranslationSet>
         <base loc="en">Red eye</base>
-        <tran loc="es">Ojos rojos</tran>
+        <tran loc="es-419">Ojo rojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1549,7 +1549,7 @@
       <Position>Save to My iPad</Position>
       <TranslationSet>
         <base loc="en">Save to My iPad</base>
-        <tran loc="es">Guardar en mi iPad</tran>
+        <tran loc="es-419">Guardar en mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1557,7 +1557,7 @@
       <Position>Metadata GPSLatLon Component [North]</Position>
       <TranslationSet>
         <base loc="en">N</base>
-        <tran loc="es">N</tran>
+        <tran loc="es-419">N</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1565,7 +1565,7 @@
       <Position>Exposure Program [Manual]</Position>
       <TranslationSet>
         <base loc="en">Manual</base>
-        <tran loc="es">Manual</tran>
+        <tran loc="es-419">Orden manual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1573,7 +1573,7 @@
       <Position>WhiteBalance Mode [Manual]</Position>
       <TranslationSet>
         <base loc="en">Manual</base>
-        <tran loc="es">Manual</tran>
+        <tran loc="es-419">Orden manual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1581,7 +1581,7 @@
       <Position>Show View Options</Position>
       <TranslationSet>
         <base loc="en">Show View Options</base>
-        <tran loc="es">Mostrar opciones de visualización</tran>
+        <tran loc="es-419">Mostrar opciones de visualización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1589,7 +1589,7 @@
       <Position>Metadata File Encryption Status [Not Encrypted]</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1597,7 +1597,7 @@
       <Position>None</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1605,7 +1605,7 @@
       <Position>Copyright</Position>
       <TranslationSet>
         <base loc="en">Copyright</base>
-        <tran loc="es">Derechos de autor</tran>
+        <tran loc="es-419">Copyright</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1613,7 +1613,7 @@
       <Position>You can’t use a name that contains “:”. Please choose another name.</Position>
       <TranslationSet>
         <base loc="en">You can’t use a name that contains “:”. Please choose another name.</base>
-        <tran loc="es">El nombre no puede contener “:”. Selecciona otro nombre.</tran>
+        <tran loc="es-419">No se puede usar un nombre que incluya “:”. Elige otro.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1621,7 @@
       <Position>Recently deleted items may be permanently deleted by your storage provider.</Position>
       <TranslationSet>
         <base loc="en">Recently deleted items may be permanently deleted by your storage provider.</base>
-        <tran loc="es">Es posible que tu proveedor de almacenamiento elimine definitivamente los ítems eliminados recientemente.</tran>
+        <tran loc="es-419">Tu proveedor de espacio podría eliminar de manera permanente los elementos eliminados recientemente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1629,7 @@
       <Position>Unlock iPad to View</Position>
       <TranslationSet>
         <base loc="en">Unlock iPad to View</base>
-        <tran loc="es">Desbloquea el iPad para ver</tran>
+        <tran loc="es-419">Desbloquear el iPad para ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1637,7 @@
       <Position>Access will be granted to %@.</Position>
       <TranslationSet>
         <base loc="en">Access will be granted to %@.</base>
-        <tran loc="es">Se concederá acceso a %@.</tran>
+        <tran loc="es-419">Se otorgará acceso a %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1645,7 @@
       <Position>Recover</Position>
       <TranslationSet>
         <base loc="en">Recover</base>
-        <tran loc="es">Recuperar</tran>
+        <tran loc="es-419">Recuperar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1653,7 @@
       <Position>Upload Error</Position>
       <TranslationSet>
         <base loc="en">Upload Error</base>
-        <tran loc="es">Error de carga</tran>
+        <tran loc="es-419">Error al cargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1661,7 +1661,7 @@
       <Position>Moving item to “%@” on %@…</Position>
       <TranslationSet>
         <base loc="en">Moving item to “%1$@” on %2$@…</base>
-        <tran loc="es">Trasladando ítem a “%1$@” en %2$@…</tran>
+        <tran loc="es-419">Moviendo elemento a "%1$@" en %2$@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1669,7 +1669,7 @@
       <Position>Choose New Location</Position>
       <TranslationSet>
         <base loc="en">Choose New Location</base>
-        <tran loc="es">Seleccionar nueva ubicación</tran>
+        <tran loc="es-419">Seleccionar ubicación nueva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1677,7 +1677,7 @@
       <Position>%1$d × %2$d</Position>
       <TranslationSet>
         <base loc="en">%1$d × %2$d</base>
-        <tran loc="es">%1$d × %2$d</tran>
+        <tran loc="es-419">%1$d × %2$d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1685,7 +1685,7 @@
       <Position>Create Folder</Position>
       <TranslationSet>
         <base loc="en">Create Folder</base>
-        <tran loc="es">Crear carpeta</tran>
+        <tran loc="es-419">Crear carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1693,7 +1693,7 @@
       <Position>Items will be copied to %@.</Position>
       <TranslationSet>
         <base loc="en">Items will be copied to %@.</base>
-        <tran loc="es">Los ítems se copiarán en %@.</tran>
+        <tran loc="es-419">Los elementos se copiarán a %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1702,7 +1702,7 @@
       <Position>Remove</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1710,7 +1710,7 @@
       <Position>Items will be moved to %@.</Position>
       <TranslationSet>
         <base loc="en">Items will be moved to %@.</base>
-        <tran loc="es">Los ítems se trasladarán a %@.</tran>
+        <tran loc="es-419">Los elementos se moverán a %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1719,7 +1719,7 @@
       <Position>Are you sure you want it to be hidden?</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want it to be hidden?</base>
-        <tran loc="es">¿Seguro que quieres ocultarlo?</tran>
+        <tran loc="es-419">¿Seguro que quieres que se oculte?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1727,7 +1727,7 @@
       <Position>These items will be deleted immediately. You can’t undo this action. [no trash]</Position>
       <TranslationSet>
         <base loc="en">These items will be deleted immediately. You can’t undo this action.</base>
-        <tran loc="es">Estos ítems se eliminarán inmediatamente. Esta acción no se puede deshacer.</tran>
+        <tran loc="es-419">Se eliminarán permanentemente estos elementos. Esta acción no se puede deshacer.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1736,7 @@
       <Position>Shared</Position>
       <TranslationSet>
         <base loc="en">Shared</base>
-        <tran loc="es">Compartido</tran>
+        <tran loc="es-419">Compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1744,7 @@
       <Position>Recover All</Position>
       <TranslationSet>
         <base loc="en">Recover All</base>
-        <tran loc="es">Recuperar todo</tran>
+        <tran loc="es-419">Recuperar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1752,7 @@
       <Position>Get Info</Position>
       <TranslationSet>
         <base loc="en">Get Info</base>
-        <tran loc="es">Obtener información</tran>
+        <tran loc="es-419">Obtener información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1760,7 +1760,7 @@
       <Position>Uncompress [Action Sheet]</Position>
       <TranslationSet>
         <base loc="en">Uncompress</base>
-        <tran loc="es">Descomprimir</tran>
+        <tran loc="es-419">Descomprimir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1768,7 +1768,7 @@
       <Position>Uncompress [UIMenuController]</Position>
       <TranslationSet>
         <base loc="en">Uncompress</base>
-        <tran loc="es">Descomprimir</tran>
+        <tran loc="es-419">Descomprimir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1776,7 +1776,7 @@
       <Position>Copying items to “%@” on %@…</Position>
       <TranslationSet>
         <base loc="en">Copying items to “%1$@” on %2$@…</base>
-        <tran loc="es">Copiando ítems a “%1$@” en %2$@…</tran>
+        <tran loc="es-419">Copiando elementos a "%1$@" en %2$@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1784,7 +1784,7 @@
       <Position>Exposure Program [Landscape]</Position>
       <TranslationSet>
         <base loc="en">Landscape</base>
-        <tran loc="es">Horizontal</tran>
+        <tran loc="es-419">Horizontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1792,7 +1792,7 @@
       <Position>Moving items to %@…</Position>
       <TranslationSet>
         <base loc="en">Moving items to %@…</base>
-        <tran loc="es">Trasladando ítems a %@…</tran>
+        <tran loc="es-419">Moviendo elementos a %@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1800,7 +1800,7 @@
       <Position>F Number</Position>
       <TranslationSet>
         <base loc="en">F Number</base>
-        <tran loc="es">Número f</tran>
+        <tran loc="es-419">Número f</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1808,7 +1808,7 @@
       <Position>VideosAtomTitle</Position>
       <TranslationSet>
         <base loc="en">Videos</base>
-        <tran loc="es">Vídeos</tran>
+        <tran loc="es-419">Videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1816,7 +1816,7 @@
       <Position>VideosSuggestionTitle</Position>
       <TranslationSet>
         <base loc="en">Videos</base>
-        <tran loc="es">Vídeos</tran>
+        <tran loc="es-419">Videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1824,7 +1824,7 @@
       <Position>Waiting to upload</Position>
       <TranslationSet>
         <base loc="en">Waiting to upload</base>
-        <tran loc="es">Esperando para cargar</tran>
+        <tran loc="es-419">Se cargará</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1832,7 +1832,7 @@
       <Position>Tap Connect to continue</Position>
       <TranslationSet>
         <base loc="en">Tap Connect to continue</base>
-        <tran loc="es">Pulsa Conectar para continuar.</tran>
+        <tran loc="es-419">Toca Conectar para continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1840,7 @@
       <Position>Unlock Device to View</Position>
       <TranslationSet>
         <base loc="en">Unlock Device to View</base>
-        <tran loc="es">Desbloquea el dispositivo para ver</tran>
+        <tran loc="es-419">Desbloquear el dispositivo para ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>Sharing</Position>
       <TranslationSet>
         <base loc="en">Sharing</base>
-        <tran loc="es">Compartiendo</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>Date</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1864,7 @@
       <Position>Date [Last Used Date]</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1872,7 @@
       <Position>Date [Mod Date]</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1880,7 @@
       <Position>Sorted by Date</Position>
       <TranslationSet>
         <base loc="en">Sorted by Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Ordenados por fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1888,7 @@
       <Position>Back</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1896,7 @@
       <Position>Not Uploaded</Position>
       <TranslationSet>
         <base loc="en">Not Uploaded</base>
-        <tran loc="es">No cargado</tran>
+        <tran loc="es-419">Sin cargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1904,7 @@
       <Position>“%@” will be copied to %@.</Position>
       <TranslationSet>
         <base loc="en">“%1$@” will be copied to %2$@.</base>
-        <tran loc="es">“%1$@” se copiará a %2$@.</tran>
+        <tran loc="es-419">“%1$@” se copiará a %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1912,7 @@
       <Position>Sort by Name</Position>
       <TranslationSet>
         <base loc="en">Sort by Name</base>
-        <tran loc="es">Ordenar por nombre</tran>
+        <tran loc="es-419">Ordenar por nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1920,7 @@
       <Position>Remove Download [UIMenuController]</Position>
       <TranslationSet>
         <base loc="en">Remove Download</base>
-        <tran loc="es">Eliminar descarga</tran>
+        <tran loc="es-419">Eliminar descarga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1928,7 @@
       <Position>More Locations</Position>
       <TranslationSet>
         <base loc="en">More Locations</base>
-        <tran loc="es">Más ubicaciones</tran>
+        <tran loc="es-419">Más ubicaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1936,7 @@
       <Position>Not Now</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1944,7 @@
       <Position>The action can not be performed on protected content</Position>
       <TranslationSet>
         <base loc="en">The action can not be performed on protected content</base>
-        <tran loc="es">La acción no se puede realizar en contenido protegido</tran>
+        <tran loc="es-419">Esta acción no se puede realizar en contenido protegido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1952,7 @@
       <Position>ISO speed</Position>
       <TranslationSet>
         <base loc="en">ISO speed</base>
-        <tran loc="es">Velocidad ISO</tran>
+        <tran loc="es-419">Velocidad ISO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1960,7 +1960,7 @@
       <Position>Items will be saved to “%@” on %@.</Position>
       <TranslationSet>
         <base loc="en">Items will be saved to “%1$@” on %2$@.</base>
-        <tran loc="es">Los ítems se guardarán en “%1$@” en “%2$@”.</tran>
+        <tran loc="es-419">Los elementos se moverán a "%1$@" en %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1968,7 +1968,7 @@
       <Position>DOWNLOADING</Position>
       <TranslationSet>
         <base loc="en">DOWNLOADING</base>
-        <tran loc="es">DESCARGANDO</tran>
+        <tran loc="es-419">DESCARGANDO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1976,7 +1976,7 @@
       <Position>You’re Offline</Position>
       <TranslationSet>
         <base loc="en">You’re Offline</base>
-        <tran loc="es">No estás conectado</tran>
+        <tran loc="es-419">No tienes conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1984,7 +1984,7 @@
       <Position>No location available to save “%@”.</Position>
       <TranslationSet>
         <base loc="en">No location available to save “%@”.</base>
-        <tran loc="es">No hay ninguna ubicación disponible para guardar “%@”.</tran>
+        <tran loc="es-419">No hay ninguna ubicación disponible para guardar “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1992,7 +1992,7 @@
       <Position>Access will be granted to “%@” on %@.</Position>
       <TranslationSet>
         <base loc="en">Access will be granted to “%1$@” on %2$@.</base>
-        <tran loc="es">Se concederá acceso a “%1$@” en %2$@.</tran>
+        <tran loc="es-419">Se otorgará acceso a "%1$@" en %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2000,7 +2000,7 @@
       <Position>The item could not be opened because it could not be found.</Position>
       <TranslationSet>
         <base loc="en">The item could not be opened because it could not be found.</base>
-        <tran loc="es">El ítem no ha podido abrirse porque no ha podido encontrarse.</tran>
+        <tran loc="es-419">El elemento no pudo abrirse porque no se pudo encontrar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2008,7 +2008,7 @@
       <Position>%@ &amp; %llu more</Position>
       <TranslationSet>
         <base loc="en">%1$@ &amp; %2$llu more</base>
-        <tran loc="es">%1$@ y %2$llu más</tran>
+        <tran loc="es-419">%1$@ y %2$llu más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2016,7 +2016,7 @@
       <Position>Unfavorite</Position>
       <TranslationSet>
         <base loc="en">Unfavorite</base>
-        <tran loc="es">No favorito</tran>
+        <tran loc="es-419">Quitar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2024,7 +2024,7 @@
       <Position>Choose New Location for %@ Documents</Position>
       <TranslationSet>
         <base loc="en">Choose New Location for %@ Documents</base>
-        <tran loc="es">Seleccionar una nueva ubicación para los documentos de %@</tran>
+        <tran loc="es-419">Seleccionar ubicación nueva para documentos de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2032,7 +2032,7 @@
       <Position>Pin</Position>
       <TranslationSet>
         <base loc="en">Pin</base>
-        <tran loc="es">Fijar</tran>
+        <tran loc="es-419">Destacar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2040,7 +2040,7 @@
       <Position>White balance</Position>
       <TranslationSet>
         <base loc="en">White balance</base>
-        <tran loc="es">Balance de blancos</tran>
+        <tran loc="es-419">Balance de blancos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2048,7 +2048,7 @@
       <Position>Unpin</Position>
       <TranslationSet>
         <base loc="en">Unpin</base>
-        <tran loc="es">Desfijar</tran>
+        <tran loc="es-419">Dejar de destacar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2056,7 +2056,7 @@
       <Position>Go to iCloud Drive</Position>
       <TranslationSet>
         <base loc="en">Go to iCloud Drive</base>
-        <tran loc="es">Ir a iCloud Drive</tran>
+        <tran loc="es-419">Ir a iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2064,7 @@
       <Position>1 Item</Position>
       <TranslationSet>
         <base loc="en">1 Item</base>
-        <tran loc="es">1 ítem</tran>
+        <tran loc="es-419">1 elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2072,7 @@
       <Position>↑ %@ of %@</Position>
       <TranslationSet>
         <base loc="en">↑ %1$@ of %2$@</base>
-        <tran loc="es">↑ %1$@ de %2$@</tran>
+        <tran loc="es-419">↑ %1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2080,7 @@
       <Position>↓ %@ downloaded</Position>
       <TranslationSet>
         <base loc="en">↓ %@ downloaded</base>
-        <tran loc="es">↓ %@ descargado</tran>
+        <tran loc="es-419">↓ %@ descargado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2088,7 @@
       <Position>Save to My iPod</Position>
       <TranslationSet>
         <base loc="en">Save to My iPod</base>
-        <tran loc="es">Guardar en mi iPod</tran>
+        <tran loc="es-419">Guardar en mi iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2096,7 @@
       <Position>See All</Position>
       <TranslationSet>
         <base loc="en">See All</base>
-        <tran loc="es">Ver todo</tran>
+        <tran loc="es-419">Ver todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2104,7 @@
       <Position>Metering Mode [Pattern]</Position>
       <TranslationSet>
         <base loc="en">Pattern</base>
-        <tran loc="es">Patrón</tran>
+        <tran loc="es-419">Patrón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2112,7 @@
       <Position>item</Position>
       <TranslationSet>
         <base loc="en">item</base>
-        <tran loc="es">ítem</tran>
+        <tran loc="es-419">elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2120,7 @@
       <Position>Saving items to %@…</Position>
       <TranslationSet>
         <base loc="en">Saving items to %@…</base>
-        <tran loc="es">Guardando ítems en %@…</tran>
+        <tran loc="es-419">Guardando elementos en %@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2128,7 @@
       <Position>Rename Document</Position>
       <TranslationSet>
         <base loc="en">Rename Document</base>
-        <tran loc="es">Renombrar documento</tran>
+        <tran loc="es-419">Renombrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2136,7 @@
       <Position>Copy</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2144,7 @@
       <Position>Copy [Action Sheet]</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2152,7 @@
       <Position>Copy [Label Menus]</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2160,7 @@
       <Position>Copy [Move UI Button Title]</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2168,7 @@
       <Position>Copy [UIMenuController]</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2176,7 @@
       <Position>Find</Position>
       <TranslationSet>
         <base loc="en">Find</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2184,7 @@
       <Position>Untitled</Position>
       <TranslationSet>
         <base loc="en">Untitled</base>
-        <tran loc="es">Sin título</tran>
+        <tran loc="es-419">Sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@
       <Position>Exposure Program [Normal]</Position>
       <TranslationSet>
         <base loc="en">Normal</base>
-        <tran loc="es">Normal</tran>
+        <tran loc="es-419">Normal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2201,7 +2201,7 @@
       <Position>Open %@</Position>
       <TranslationSet>
         <base loc="en">Open %@</base>
-        <tran loc="es">Abrir %@</tran>
+        <tran loc="es-419">Abrir %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2209,7 +2209,7 @@
       <Position>Sort by:</Position>
       <TranslationSet>
         <base loc="en">Sort by:</base>
-        <tran loc="es">Ordenar por:</tran>
+        <tran loc="es-419">Ordenar por:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2217,7 +2217,7 @@
       <Position>VideosSearchPhrases</Position>
       <TranslationSet>
         <base loc="en">videos|movies</base>
-        <tran loc="es">vídeos|películas</tran>
+        <tran loc="es-419">videos|películas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2225,7 +2225,7 @@
       <Position>↑ %@</Position>
       <TranslationSet>
         <base loc="en">↑ %@</base>
-        <tran loc="es">↑ %@</tran>
+        <tran loc="es-419">↑ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2233,7 +2233,7 @@
       <Position>Pages</Position>
       <TranslationSet>
         <base loc="en">Pages</base>
-        <tran loc="es">Páginas</tran>
+        <tran loc="es-419">Páginas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2241,7 +2241,7 @@
       <Position>Created</Position>
       <TranslationSet>
         <base loc="en">Created</base>
-        <tran loc="es">Creación</tran>
+        <tran loc="es-419">Creación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2249,7 +2249,7 @@
       <Position>Scan Documents</Position>
       <TranslationSet>
         <base loc="en">Scan Documents</base>
-        <tran loc="es">Escanear documentos</tran>
+        <tran loc="es-419">Escanear documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2257,7 +2257,7 @@
       <Position>Scan [Menu Controller Button Title]</Position>
       <TranslationSet>
         <base loc="en">Scan Documents</base>
-        <tran loc="es">Escanear documentos</tran>
+        <tran loc="es-419">Escanear documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2265,7 +2265,7 @@
       <Position>Markup</Position>
       <TranslationSet>
         <base loc="en">Markup</base>
-        <tran loc="es">Marcación</tran>
+        <tran loc="es-419">Marcado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2273,7 +2273,7 @@
       <Position>Go to Downloads</Position>
       <TranslationSet>
         <base loc="en">Go to Downloads</base>
-        <tran loc="es">Ir a Descargas</tran>
+        <tran loc="es-419">Ir a Descargas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2282,7 +2282,7 @@
       <Position>Kind</Position>
       <TranslationSet>
         <base loc="en">Kind</base>
-        <tran loc="es">Clase</tran>
+        <tran loc="es-419">Clase</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2290,7 +2290,7 @@
       <Position>Kind [File Type]</Position>
       <TranslationSet>
         <base loc="en">Kind</base>
-        <tran loc="es">Clase</tran>
+        <tran loc="es-419">Clase</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2298,7 +2298,7 @@
       <Position>Sorted by Kind</Position>
       <TranslationSet>
         <base loc="en">Sorted by Kind</base>
-        <tran loc="es">Ordenado por tipo</tran>
+        <tran loc="es-419">Ordenado por tipo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2306,7 +2306,7 @@
       <Position>To use this item, tap and hold on the item and choose Recover.</Position>
       <TranslationSet>
         <base loc="en">To use this item, tap and hold on the item and choose Recover.</base>
-        <tran loc="es">Para usar este ítem, mantenlo pulsado y selecciona Recuperar.</tran>
+        <tran loc="es-419">Para usar este elemento, tócalo sin soltarlo y elige Recuperar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2314,7 +2314,7 @@
       <Position>View as Icons</Position>
       <TranslationSet>
         <base loc="en">View as Icons</base>
-        <tran loc="es">Ver como iconos</tran>
+        <tran loc="es-419">Ver como íconos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2322,7 +2322,7 @@
       <Position>Unable to %@</Position>
       <TranslationSet>
         <base loc="en">Unable to %@</base>
-        <tran loc="es">No se ha podido %@</tran>
+        <tran loc="es-419">No se pudo %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2330,7 +2330,7 @@
       <Position>Metering Mode [Average]</Position>
       <TranslationSet>
         <base loc="en">Average</base>
-        <tran loc="es">Promedio</tran>
+        <tran loc="es-419">Promedio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2338,7 +2338,7 @@
       <Position>No location available to save this document.</Position>
       <TranslationSet>
         <base loc="en">No location available to save this document.</base>
-        <tran loc="es">No hay ninguna ubicación disponible para guardar este documento.</tran>
+        <tran loc="es-419">No hay ninguna ubicación disponible para guardar este documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2346,7 +2346,7 @@
       <Position>Folder name</Position>
       <TranslationSet>
         <base loc="en">Folder name</base>
-        <tran loc="es">Nombre de la carpeta</tran>
+        <tran loc="es-419">Nombre de carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2354,7 +2354,7 @@
       <Position> copy</Position>
       <TranslationSet>
         <base loc="en"> copy</base>
-        <tran loc="es"> copia</tran>
+        <tran loc="es-419"> copia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2362,7 +2362,7 @@
       <Position>Recently Deleted [Sidebar]</Position>
       <TranslationSet>
         <base loc="en">Recently Deleted</base>
-        <tran loc="es">Recién eliminado</tran>
+        <tran loc="es-419">Eliminados hace poco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2370,7 +2370,7 @@
       <Position>Recently Deleted [file path]</Position>
       <TranslationSet>
         <base loc="en">Recently Deleted</base>
-        <tran loc="es">Recién eliminado</tran>
+        <tran loc="es-419">Eliminados hace poco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2378,7 +2378,7 @@
       <Position>You can’t use a name that begins with a dot “.”, because these names are reserved for the system. Please choose another name.</Position>
       <TranslationSet>
         <base loc="en">You can’t use a name that begins with a dot “.”, because these names are reserved for the system. Please choose another name.</base>
-        <tran loc="es">No puedes utilizar un nombre que comience por un punto “.” porque este tipo de nombres están reservados para el sistema. Elige otro nombre.</tran>
+        <tran loc="es-419">No se puede usar nombres que comiencen con un punto ya que están reservados para el sistema. Selecciona otro.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2386,7 +2386,7 @@
       <Position>Add Tag</Position>
       <TranslationSet>
         <base loc="en">Add Tag</base>
-        <tran loc="es">Añadir etiqueta</tran>
+        <tran loc="es-419">Agregar etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2394,7 +2394,7 @@
       <Position>Add Tag [button]</Position>
       <TranslationSet>
         <base loc="en">Add Tag</base>
-        <tran loc="es">Añadir etiqueta</tran>
+        <tran loc="es-419">Agregar etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2402,7 +2402,7 @@
       <Position>Item</Position>
       <TranslationSet>
         <base loc="en">Item</base>
-        <tran loc="es">Ítem</tran>
+        <tran loc="es-419">Elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2410,7 +2410,7 @@
       <Position>Exposure program</Position>
       <TranslationSet>
         <base loc="en">Exposure program</base>
-        <tran loc="es">Programa de exposición</tran>
+        <tran loc="es-419">Programa de exposición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2419,7 +2419,7 @@
       <Position>DOWNLOAD</Position>
       <TranslationSet>
         <base loc="en">DOWNLOAD</base>
-        <tran loc="es">DESCARGAR</tran>
+        <tran loc="es-419">DESCARGAR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2427,7 +2427,7 @@
       <Position>Saving “%@” to %@…</Position>
       <TranslationSet>
         <base loc="en">Saving “%1$@” to %2$@…</base>
-        <tran loc="es">Guardando “%1$@” en %2$@…</tran>
+        <tran loc="es-419">Guardando “%1$@” en %2$@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2435,7 +2435,7 @@
       <Position>Device make</Position>
       <TranslationSet>
         <base loc="en">Device make</base>
-        <tran loc="es">Marca</tran>
+        <tran loc="es-419">Marca del dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2443,7 +2443,7 @@
       <Position>Exposure Program [ShutterPriority]</Position>
       <TranslationSet>
         <base loc="en">Shutter priority</base>
-        <tran loc="es">Prioridad del obturador</tran>
+        <tran loc="es-419">Prioridad del obturador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2451,7 +2451,7 @@
       <Position>Metadata GPSLatLon Component [East]</Position>
       <TranslationSet>
         <base loc="en">E</base>
-        <tran loc="es">E</tran>
+        <tran loc="es-419">E</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2459,7 +2459,7 @@
       <Position>The folder contents could not be displayed because of an unknown error.</Position>
       <TranslationSet>
         <base loc="en">The folder contents could not be displayed because of an unknown error.</base>
-        <tran loc="es">No se ha podido mostrar el contenido de la carpeta debido a un error desconocido.</tran>
+        <tran loc="es-419">No se pudo mostrar el contenido de la carpeta debido a un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2467,7 +2467,7 @@
       <Position>Try again</Position>
       <TranslationSet>
         <base loc="en">Try again</base>
-        <tran loc="es">Inténtalo de nuevo</tran>
+        <tran loc="es-419">Reintenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2475,7 +2475,7 @@
       <Position>Move</Position>
       <TranslationSet>
         <base loc="en">Move</base>
-        <tran loc="es">Trasladar</tran>
+        <tran loc="es-419">Mover</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2483,7 +2483,7 @@
       <Position>Move [Action Sheet]</Position>
       <TranslationSet>
         <base loc="en">Move</base>
-        <tran loc="es">Trasladar</tran>
+        <tran loc="es-419">Mover</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2491,7 +2491,7 @@
       <Position>Waiting to download</Position>
       <TranslationSet>
         <base loc="en">Waiting to download</base>
-        <tran loc="es">Esperando para descargar</tran>
+        <tran loc="es-419">Se descargará</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2499,7 +2499,7 @@
       <Position>Show Recents</Position>
       <TranslationSet>
         <base loc="en">Show Recents</base>
-        <tran loc="es">Mostrar recientes</tran>
+        <tran loc="es-419">Mostrar recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2507,7 +2507,7 @@
       <Position>Share</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2515,7 +2515,7 @@
       <Position>Metadata File Encryption Status [Encrypted With Password]</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2523,7 +2523,7 @@
       <Position>Recent Files</Position>
       <TranslationSet>
         <base loc="en">Recent Files</base>
-        <tran loc="es">Archivos recientes</tran>
+        <tran loc="es-419">Archivos recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2531,7 +2531,7 @@
       <Position>Metering Mode [Unknown]</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2539,7 +2539,7 @@
       <Position>Show Browse</Position>
       <TranslationSet>
         <base loc="en">Show Browse</base>
-        <tran loc="es">Mostrar Explorar</tran>
+        <tran loc="es-419">Mostrar navegación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2547,7 +2547,7 @@
       <Position>Trim</Position>
       <TranslationSet>
         <base loc="en">Trim</base>
-        <tran loc="es">Acortar</tran>
+        <tran loc="es-419">Recortar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2555,7 +2555,7 @@
       <Position>Unable to Rename Tag</Position>
       <TranslationSet>
         <base loc="en">Unable to Rename Tag</base>
-        <tran loc="es">No se ha podido cambiar el nombre de la etiqueta</tran>
+        <tran loc="es-419">No se pudo renombrar la etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2563,7 +2563,7 @@
       <Position>Show</Position>
       <TranslationSet>
         <base loc="en">Show</base>
-        <tran loc="es">Mostrar</tran>
+        <tran loc="es-419">Mostrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2571,7 +2571,7 @@
       <Position>Last opened</Position>
       <TranslationSet>
         <base loc="en">Last opened</base>
-        <tran loc="es">Última apertura</tran>
+        <tran loc="es-419">Última apertura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2579,7 +2579,7 @@
       <Position>Use iCloud Drive for storing %@ documents?</Position>
       <TranslationSet>
         <base loc="en">Use iCloud Drive for storing %@ documents?</base>
-        <tran loc="es">¿Usar iCloud Drive para almacenar %@ documentos?</tran>
+        <tran loc="es-419">¿Usar iCloud Drive para guardar %@ documentos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2587,7 +2587,7 @@
       <Position>This item will be deleted immediately from all your devices. You can’t undo this action. [no trash]</Position>
       <TranslationSet>
         <base loc="en">This item will be deleted immediately from all your devices. You can’t undo this action.</base>
-        <tran loc="es">Este ítem se eliminará inmediatamente de todos los dispositivos. Esta acción no se puede deshacer.</tran>
+        <tran loc="es-419">Se eliminará permanentemente este elemento de todos tus dispositivos. Esto no se puede deshacer.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2596,7 +2596,7 @@
       <Position>Select All</Position>
       <TranslationSet>
         <base loc="en">Select All</base>
-        <tran loc="es">Seleccionar todo</tran>
+        <tran loc="es-419">Seleccionar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2604,7 +2604,7 @@
       <Position>Exposure Program [Action]</Position>
       <TranslationSet>
         <base loc="en">Action</base>
-        <tran loc="es">Acción</tran>
+        <tran loc="es-419">Acción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2612,7 +2612,7 @@
       <Position>Information</Position>
       <TranslationSet>
         <base loc="en">Information</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2620,7 +2620,7 @@
       <Position>Select Items</Position>
       <TranslationSet>
         <base loc="en">Select Items</base>
-        <tran loc="es">Seleccionar</tran>
+        <tran loc="es-419">Seleccionar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2628,7 +2628,7 @@
       <Position>Copying item to “%@” on %@…</Position>
       <TranslationSet>
         <base loc="en">Copying item to “%1$@” on %2$@…</base>
-        <tran loc="es">Copiando ítem a “%1$@” en %2$@…</tran>
+        <tran loc="es-419">Copiando elemento a "%1$@" en %2$@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2636,7 +2636,7 @@
       <Position>OPEN</Position>
       <TranslationSet>
         <base loc="en">OPEN</base>
-        <tran loc="es">ABRIR</tran>
+        <tran loc="es-419">ABRIR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2644,7 +2644,7 @@
       <Position>PresentationsSearchPhrases</Position>
       <TranslationSet>
         <base loc="en">presentations|slides</base>
-        <tran loc="es">presentaciones|diapositivas</tran>
+        <tran loc="es-419">presentaciones|diapositivas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2652,7 +2652,7 @@
       <Position>Favorites</Position>
       <TranslationSet>
         <base loc="en">Favorites</base>
-        <tran loc="es">Favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2661,7 +2661,7 @@
       <Position>Shared by %@</Position>
       <TranslationSet>
         <base loc="en">Shared by %@</base>
-        <tran loc="es">Compartido por %@</tran>
+        <tran loc="es-419">Contenido compartido por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2669,7 +2669,7 @@
       <Position>Items will be moved to “%@” on %@.</Position>
       <TranslationSet>
         <base loc="en">Items will be moved to “%1$@” on %2$@.</base>
-        <tran loc="es">Los ítems se trasladarán a ”%1$@” en %2$@.</tran>
+        <tran loc="es-419">Los elementos se moverán a ”%1$@” en %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2677,7 +2677,7 @@
       <Position>“%@” will be moved to %@.</Position>
       <TranslationSet>
         <base loc="en">“%1$@” will be moved to %2$@.</base>
-        <tran loc="es">“%1$@” se moverá a %2$@.</tran>
+        <tran loc="es-419">“%1$@” se moverá a “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2686,7 +2686,7 @@
       <Position>↓ %@</Position>
       <TranslationSet>
         <base loc="en">↓ %@</base>
-        <tran loc="es">↓ %@</tran>
+        <tran loc="es-419">↓ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2694,7 +2694,7 @@
       <Position>Metering Mode [Spot]</Position>
       <TranslationSet>
         <base loc="en">Spot</base>
-        <tran loc="es">Punto</tran>
+        <tran loc="es-419">Punto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2702,7 +2702,7 @@
       <Position>Authenticate</Position>
       <TranslationSet>
         <base loc="en">Authenticate</base>
-        <tran loc="es">Autenticación</tran>
+        <tran loc="es-419">Autenticar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2710,7 +2710,7 @@
       <Position>Exposure Program [AperturePriority]</Position>
       <TranslationSet>
         <base loc="en">Aperture priority</base>
-        <tran loc="es">Prioridad de la apertura</tran>
+        <tran loc="es-419">Prioridad de apertura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2718,7 +2718,7 @@
       <Position>Sorted by Tags</Position>
       <TranslationSet>
         <base loc="en">Sorted by Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Ordenados por etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2728,7 +2728,7 @@
       <Position>Tags</Position>
       <TranslationSet>
         <base loc="en">Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2736,7 +2736,7 @@
       <Position>Tags [Info View]</Position>
       <TranslationSet>
         <base loc="en">Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2744,7 +2744,7 @@
       <Position>Tags [Navigation Bar]</Position>
       <TranslationSet>
         <base loc="en">Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2752,7 +2752,7 @@
       <Position>Tags [Sidebar]</Position>
       <TranslationSet>
         <base loc="en">Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2760,7 +2760,7 @@
       <Position>Tags [button]</Position>
       <TranslationSet>
         <base loc="en">Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2768,7 +2768,7 @@
       <Position>Tags [sorting]</Position>
       <TranslationSet>
         <base loc="en">Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2776,7 +2776,7 @@
       <Position>Tags[Preview Panel]</Position>
       <TranslationSet>
         <base loc="en">Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2784,7 +2784,7 @@
       <Position>Content Unavailable</Position>
       <TranslationSet>
         <base loc="en">Content Unavailable</base>
-        <tran loc="es">Contenido no disponible</tran>
+        <tran loc="es-419">Contenido no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2792,7 +2792,7 @@
       <Position>Create PDF</Position>
       <TranslationSet>
         <base loc="en">Create PDF</base>
-        <tran loc="es">Crear PDF</tran>
+        <tran loc="es-419">Crear PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2800,7 +2800,7 @@
       <Position>Use iCloud Drive</Position>
       <TranslationSet>
         <base loc="en">Use iCloud Drive</base>
-        <tran loc="es">Usar iCloud Drive</tran>
+        <tran loc="es-419">Usar iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2808,7 +2808,7 @@
       <Position>Rotate Left</Position>
       <TranslationSet>
         <base loc="en">Rotate Left</base>
-        <tran loc="es">Girar a la izquierda</tran>
+        <tran loc="es-419">Girar a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2816,7 +2816,7 @@
       <Position>f/%1$@</Position>
       <TranslationSet>
         <base loc="en">f/%1$@</base>
-        <tran loc="es">f/%1$@</tran>
+        <tran loc="es-419">f/%1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2824,7 +2824,7 @@
       <Position>Remove Tag</Position>
       <TranslationSet>
         <base loc="en">Remove Tag</base>
-        <tran loc="es">Eliminar etiqueta</tran>
+        <tran loc="es-419">Eliminar etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2832,7 +2832,7 @@
       <Position>On My iPad</Position>
       <TranslationSet>
         <base loc="en">On My iPad</base>
-        <tran loc="es">En mi iPad</tran>
+        <tran loc="es-419">iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2840,7 +2840,7 @@
       <Position>Recent Folders</Position>
       <TranslationSet>
         <base loc="en">Recent Folders</base>
-        <tran loc="es">Carpetas recientes</tran>
+        <tran loc="es-419">Carpetas recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2849,7 +2849,7 @@
       <Position>Show More</Position>
       <TranslationSet>
         <base loc="en">Show More</base>
-        <tran loc="es">Mostrar más</tran>
+        <tran loc="es-419">Mostrar más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2857,7 +2857,7 @@
       <Position>Item will be copied to “%@” on %@.</Position>
       <TranslationSet>
         <base loc="en">Item will be copied to “%1$@” on %2$@.</base>
-        <tran loc="es">El ítem se copiará en ”%1$@” en %2$@.</tran>
+        <tran loc="es-419">El elemento se copiará a ”%1$@” en %2$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2865,7 +2865,7 @@
       <Position>Resolution</Position>
       <TranslationSet>
         <base loc="en">Resolution</base>
-        <tran loc="es">Resolución</tran>
+        <tran loc="es-419">Resolución</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2873,7 +2873,7 @@
       <Position>Deselect All</Position>
       <TranslationSet>
         <base loc="en">Deselect All</base>
-        <tran loc="es">No seleccionar nada</tran>
+        <tran loc="es-419">Nada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2881,7 +2881,7 @@
       <Position>Search</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2889,7 +2889,7 @@
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">LOADING</base>
-        <tran loc="es">CARGANDO</tran>
+        <tran loc="es-419">CARGANDO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2897,7 +2897,7 @@
       <Position>Lens model</Position>
       <TranslationSet>
         <base loc="en">Lens model</base>
-        <tran loc="es">Modelo de lente</tran>
+        <tran loc="es-419">Modelo del lente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2905,7 +2905,7 @@
       <Position>Connect</Position>
       <TranslationSet>
         <base loc="en">Connect</base>
-        <tran loc="es">Conectar</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2913,7 +2913,7 @@
       <Position>%@ – %@</Position>
       <TranslationSet>
         <base loc="en">%1$@ – %2$@</base>
-        <tran loc="es">%1$@ – %2$@</tran>
+        <tran loc="es-419">%1$@ – %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2921,7 +2921,7 @@
       <Position>Unrecoverable failure to locate the Downloads location.</Position>
       <TranslationSet>
         <base loc="en">Unrecoverable failure to locate the Downloads location.</base>
-        <tran loc="es">Fallo irreversible al buscar la ubicación de Descargas.</tran>
+        <tran loc="es-419">Error irrecuperable al localizar la ubicación de Descargas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2929,7 +2929,7 @@
       <Position>Composer</Position>
       <TranslationSet>
         <base loc="en">Composer</base>
-        <tran loc="es">Compositor</tran>
+        <tran loc="es-419">Compositor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2937,7 +2937,7 @@
       <Position>Saving item to “%@” on %@…</Position>
       <TranslationSet>
         <base loc="en">Saving item to “%1$@” on %2$@…</base>
-        <tran loc="es">Guardando ítem a “%1$@” en %2$@…</tran>
+        <tran loc="es-419">Guardando elemento en "%1$@" en %2$@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2945,7 +2945,7 @@
       <Position>ImagesAtomTitle</Position>
       <TranslationSet>
         <base loc="en">Images</base>
-        <tran loc="es">Imágenes</tran>
+        <tran loc="es-419">Imágenes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2953,7 +2953,7 @@
       <Position>ImagesSuggestionTitle</Position>
       <TranslationSet>
         <base loc="en">Images</base>
-        <tran loc="es">Imágenes</tran>
+        <tran loc="es-419">Imágenes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2961,7 +2961,7 @@
       <Position>Go to Enclosing Folder</Position>
       <TranslationSet>
         <base loc="en">Go to Enclosing Folder</base>
-        <tran loc="es">Ir a la carpeta contenedora</tran>
+        <tran loc="es-419">Ir a la carpeta contenedora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2969,7 +2969,7 @@
       <Position>Color profile</Position>
       <TranslationSet>
         <base loc="en">Color profile</base>
-        <tran loc="es">Perfil de color</tran>
+        <tran loc="es-419">Perfil de color</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2977,7 +2977,7 @@
       <Position>Longitude</Position>
       <TranslationSet>
         <base loc="en">Longitude</base>
-        <tran loc="es">Longitud</tran>
+        <tran loc="es-419">Longitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2985,7 +2985,7 @@
       <Position>Delete Now</Position>
       <TranslationSet>
         <base loc="en">Delete Now</base>
-        <tran loc="es">Eliminar ahora</tran>
+        <tran loc="es-419">Eliminar ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2993,7 +2993,7 @@
       <Position>Metadata Boolean Value [YES]</Position>
       <TranslationSet>
         <base loc="en">YES</base>
-        <tran loc="es">SÍ</tran>
+        <tran loc="es-419">SÍ</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3001,7 +3001,7 @@
       <Position>Sign Out?</Position>
       <TranslationSet>
         <base loc="en">Sign Out?</base>
-        <tran loc="es">¿Cerrar sesión?</tran>
+        <tran loc="es-419">¿Cerrar sesión?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3009,7 +3009,7 @@
       <Position>Document</Position>
       <TranslationSet>
         <base loc="en">Document</base>
-        <tran loc="es">Documento</tran>
+        <tran loc="es-419">Documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3017,7 +3017,7 @@
       <Position>The tag “%@” already exists.</Position>
       <TranslationSet>
         <base loc="en">The tag “%@” already exists.</base>
-        <tran loc="es">La etiqueta “%@” ya existe.</tran>
+        <tran loc="es-419">La etiqueta “%@” ya existe.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3025,7 +3025,7 @@
       <Position>This item will be deleted immediately. You can’t undo this action. [no trash]</Position>
       <TranslationSet>
         <base loc="en">This item will be deleted immediately. You can’t undo this action.</base>
-        <tran loc="es">Este ítem se eliminará inmediatamente. Esta acción no se puede deshacer.</tran>
+        <tran loc="es-419">Este elemento se eliminará permanentemente. Esta acción no se puede deshacer.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3033,7 +3033,7 @@
       <Position>Metering Mode [CenterWeightedAverage]</Position>
       <TranslationSet>
         <base loc="en">Center-weighted average</base>
-        <tran loc="es">Promedio ponderado al centro</tran>
+        <tran loc="es-419">Promedio ponderado al centro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3041,7 +3041,7 @@
       <Position>Dimensions</Position>
       <TranslationSet>
         <base loc="en">Dimensions</base>
-        <tran loc="es">Dimensiones</tran>
+        <tran loc="es-419">Dimensiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3050,7 +3050,7 @@
       <Position>Move Here</Position>
       <TranslationSet>
         <base loc="en">Move Here</base>
-        <tran loc="es">Mover aquí</tran>
+        <tran loc="es-419">Mover aquí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3059,7 +3059,7 @@
       <Position>Show Less</Position>
       <TranslationSet>
         <base loc="en">Show Less</base>
-        <tran loc="es">Mostrar menos</tran>
+        <tran loc="es-419">Mostrar menos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3067,7 +3067,7 @@
       <Position>Metering Mode [Other]</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otro</tran>
+        <tran loc="es-419">Otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3075,7 +3075,7 @@
       <Position>Other</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otro</tran>
+        <tran loc="es-419">Otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3083,7 +3083,7 @@
       <Position>See recently opened documents here, or use the Browse tab to see all documents and folders.</Position>
       <TranslationSet>
         <base loc="en">See recently opened documents here, or use the Browse tab to see all documents and folders.</base>
-        <tran loc="es">Aquí se muestran los documentos abiertos recientemente. Puedes usar la pestaña Explorar para ver todos los documentos y carpetas.</tran>
+        <tran loc="es-419">Ve los documentos abiertos recientemente aquí o usa la pestaña Explorar para ver todos los archivos y carpetas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3091,7 +3091,7 @@
       <Position>Sorted by Size</Position>
       <TranslationSet>
         <base loc="en">Sorted by Size</base>
-        <tran loc="es">Tamaño</tran>
+        <tran loc="es-419">Ordenados por tamaño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3099,7 +3099,7 @@
       <Position>Size [Info View]</Position>
       <TranslationSet>
         <base loc="en">Size</base>
-        <tran loc="es">Tamaño</tran>
+        <tran loc="es-419">Tamaño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3107,7 +3107,7 @@
       <Position>Size [Sort Control]</Position>
       <TranslationSet>
         <base loc="en">Size</base>
-        <tran loc="es">Tamaño</tran>
+        <tran loc="es-419">Tamaño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3115,7 +3115,7 @@
       <Position>The name “%@” is already taken. Please choose a different name.</Position>
       <TranslationSet>
         <base loc="en">The name “%@” is already taken. Please choose a different name.</base>
-        <tran loc="es">El nombre “%@” ya existe. Selecciona un nombre diferente.</tran>
+        <tran loc="es-419">El nombre “%@” ya existe. Elige otro.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3123,7 +3123,7 @@
       <Position>View as List</Position>
       <TranslationSet>
         <base loc="en">View as List</base>
-        <tran loc="es">Ver como lista</tran>
+        <tran loc="es-419">Ver como lista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3131,7 +3131,7 @@
       <Position>Open in New Window</Position>
       <TranslationSet>
         <base loc="en">Open in New Window</base>
-        <tran loc="es">Abrir en nueva ventana</tran>
+        <tran loc="es-419">Abrir en una ventana nueva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3139,7 +3139,7 @@
       <Position>Eject</Position>
       <TranslationSet>
         <base loc="en">Eject</base>
-        <tran loc="es">Expulsar</tran>
+        <tran loc="es-419">Expulsar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3148,7 +3148,7 @@
       <Position>Open</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3156,7 +3156,7 @@
       <Position>PresentationsAtomTitle</Position>
       <TranslationSet>
         <base loc="en">Presentations</base>
-        <tran loc="es">Presentaciones</tran>
+        <tran loc="es-419">Presentaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3164,7 +3164,7 @@
       <Position>PresentationsSuggestionTitle</Position>
       <TranslationSet>
         <base loc="en">Presentations</base>
-        <tran loc="es">Presentaciones</tran>
+        <tran loc="es-419">Presentaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3172,7 +3172,7 @@
       <Position>No Recent Documents</Position>
       <TranslationSet>
         <base loc="en">No Recent Documents</base>
-        <tran loc="es">No hay documentos recientes</tran>
+        <tran loc="es-419">Sin documentos recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3180,7 +3180,7 @@
       <Position>Save</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3191,7 +3191,7 @@
       <Position>/The tag “%@” will be deleted and removed from %ld items:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">The tag “%1$@” will be deleted and removed from %2$#@items@</base>
-        <tran loc="es">La etiqueta “%1$@” se eliminará de %2$#@items@</tran>
+        <tran loc="es-419">Se eliminará la etiqueta “%1$@” y se quitará de %2$#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3199,7 +3199,7 @@
       <Position>/Unable to rotate %d images:dict/images:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Unable to rotate %d image</base>
-        <tran loc="es">No es posible girar %d imagen</tran>
+        <tran loc="es-419">No se pudo girar %d imagen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3207,7 +3207,7 @@
       <Position>/%lu Items:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Items</base>
-        <tran loc="es">%lu ítems</tran>
+        <tran loc="es-419">%lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3215,7 +3215,7 @@
       <Position>/%lu Items:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Items</base>
-        <tran loc="es">%lu ítems</tran>
+        <tran loc="es-419">%lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3223,7 +3223,7 @@
       <Position>/The tag “%@” will be deleted and removed from %ld items:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld item</base>
-        <tran loc="es">%ld ítem</tran>
+        <tran loc="es-419">%ld elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3231,7 +3231,7 @@
       <Position>/%lu Items Selected:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Items Selected</base>
-        <tran loc="es">%lu ítems seleccionados</tran>
+        <tran loc="es-419">%lu seleccionados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3239,7 +3239,7 @@
       <Position>/.DICT.ITEMS.%d:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d items</base>
-        <tran loc="es">%d ítems</tran>
+        <tran loc="es-419">%d elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3247,7 +3247,7 @@
       <Position>/Are you sure you want to delete %lu items? [from trash]:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete %lu items?</base>
-        <tran loc="es">¿Seguro que quieres eliminar estos %lu ítems?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar %lu elementos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3255,7 +3255,7 @@
       <Position>/Are you sure you want to delete %lu items? [from trash]:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete %lu items?</base>
-        <tran loc="es">¿Seguro que quieres eliminar %lu ítems?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar %lu elementos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3263,7 +3263,7 @@
       <Position>/Are you sure you want to delete %lu items? [no trash]:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete %lu items?</base>
-        <tran loc="es">¿Seguro que quieres eliminar estos %lu ítems?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar %lu elementos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3271,7 +3271,7 @@
       <Position>/Are you sure you want to delete %lu items? [no trash]:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete %lu items?</base>
-        <tran loc="es">¿Seguro que quieres eliminar %lu ítems?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar %lu elementos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3279,7 +3279,7 @@
       <Position>/Unable to rotate %d videos:dict/videos:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Unable to rotate video</base>
-        <tran loc="es">No se puede rotar el vídeo</tran>
+        <tran loc="es-419">No se pudo girar el video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3287,7 +3287,7 @@
       <Position>/Unable to rotate %d videos:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@videos@</base>
-        <tran loc="es">%#@videos@</tran>
+        <tran loc="es-419">%#@videos@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3295,7 +3295,7 @@
       <Position>/.DICT.ITEMS.%d:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d item</base>
-        <tran loc="es">%d ítem</tran>
+        <tran loc="es-419">%d elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3303,7 +3303,7 @@
       <Position>/.DICT.NOTUPLOADED.%d:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d item has not been uploaded</base>
-        <tran loc="es">%d ítem no se ha cargado</tran>
+        <tran loc="es-419">No se cargó %d elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3311,7 +3311,7 @@
       <Position>/%lu Items:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Item</base>
-        <tran loc="es">%lu ítem</tran>
+        <tran loc="es-419">%lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3319,7 +3319,7 @@
       <Position>/.DICT.RESULTS.%d:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Results</base>
-        <tran loc="es">%d resultados</tran>
+        <tran loc="es-419">%d resultados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3327,7 +3327,7 @@
       <Position>/%lu items:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu item</base>
-        <tran loc="es">%lu ítem</tran>
+        <tran loc="es-419">%lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3335,7 +3335,7 @@
       <Position>/.DICT.AVAILABLE.%g.%@:dict/availablewithunit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%2$@ available on iCloud</base>
-        <tran loc="es">%2$@ disponible en iCloud</tran>
+        <tran loc="es-419">%2$@ disponible en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3343,7 +3343,7 @@
       <Position>/.DICT.AVAILABLE.%g.%@:dict/availablewithunit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%2$@ available on iCloud</base>
-        <tran loc="es">%2$@ disponibles en iCloud</tran>
+        <tran loc="es-419">%2$@ disponibles en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3351,7 +3351,7 @@
       <Position>/Are you sure you want to delete %lu items? [from trash]:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete %lu item?</base>
-        <tran loc="es">¿Seguro que quieres eliminar este %lu ítem?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar %lu elemento?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3359,7 +3359,7 @@
       <Position>/Are you sure you want to delete %lu items? [no trash]:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete %lu item?</base>
-        <tran loc="es">¿Seguro que quieres eliminar este %lu ítem?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar %lu elemento?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3367,7 +3367,7 @@
       <Position>/Unable to rotate %d images:dict/images:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Unable to rotate image</base>
-        <tran loc="es">No es posible girar la imagen</tran>
+        <tran loc="es-419">No se pudo girar la imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3375,7 +3375,7 @@
       <Position>/%lu Items Selected:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">0 Items Selected</base>
-        <tran loc="es">0 ítems seleccionados</tran>
+        <tran loc="es-419">0 elementos seleccionados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3383,7 +3383,7 @@
       <Position>/.DICT.RESULTS.%d:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">No Results</base>
-        <tran loc="es">0 resultados</tran>
+        <tran loc="es-419">Ningún resultado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3391,7 +3391,7 @@
       <Position>/.DICT.RESULTS.%d:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Result</base>
-        <tran loc="es">%d resultado</tran>
+        <tran loc="es-419">%d resultado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3399,7 +3399,7 @@
       <Position>/%lu Items Selected:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Item Selected</base>
-        <tran loc="es">%lu ítem seleccionado</tran>
+        <tran loc="es-419">%lu seleccionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3407,7 +3407,7 @@
       <Position>/Unable to rotate %d images:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@images@</base>
-        <tran loc="es">%#@images@</tran>
+        <tran loc="es-419">%#@images@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3415,7 +3415,7 @@
       <Position>/.DICT.ITEMS.%d:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">0 items</base>
-        <tran loc="es">0 ítems</tran>
+        <tran loc="es-419">0 elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3423,7 +3423,7 @@
       <Position>/.DICT.NOTUPLOADED.%d:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d items have not been uploaded</base>
-        <tran loc="es">%d ítems no se han cargado</tran>
+        <tran loc="es-419">No se cargaron %d elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3431,7 +3431,7 @@
       <Position>/Unable to rotate %d videos:dict/videos:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Unable to rotate %d videos</base>
-        <tran loc="es">No se pueden rotar %d vídeos</tran>
+        <tran loc="es-419">No se pudo girar %d videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3439,7 +3439,7 @@
       <Position>/Unable to rotate %d images:dict/images:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Unable to rotate %d images</base>
-        <tran loc="es">No es posible girar %d imágenes</tran>
+        <tran loc="es-419">No se pudo girar %d imágenes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3447,7 +3447,7 @@
       <Position>/The tag “%@” will be deleted and removed from %ld items:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ld items</base>
-        <tran loc="es">%ld ítems</tran>
+        <tran loc="es-419">%ld elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3455,7 +3455,7 @@
       <Position>/%lu Items Selected:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3463,7 +3463,7 @@
       <Position>/%lu Items:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3471,7 +3471,7 @@
       <Position>/%lu items:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3479,7 +3479,7 @@
       <Position>/.DICT.ITEMS.%d:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3487,7 +3487,7 @@
       <Position>/.DICT.NOTUPLOADED.%d:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3495,7 +3495,7 @@
       <Position>/.DICT.RESULTS.%d:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3503,7 +3503,7 @@
       <Position>/Are you sure you want to delete %lu items? [from trash]:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3511,7 +3511,7 @@
       <Position>/Are you sure you want to delete %lu items? [no trash]:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3519,7 +3519,7 @@
       <Position>/%lu items:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu items</base>
-        <tran loc="es">%lu ítems</tran>
+        <tran loc="es-419">%lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3527,7 +3527,7 @@
       <Position>/%lu items:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu items</base>
-        <tran loc="es">%lu ítems</tran>
+        <tran loc="es-419">%lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3535,7 +3535,7 @@
       <Position>/.DICT.AVAILABLE.%g.%@:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@availablewithunit@</base>
-        <tran loc="es">%1$#@availablewithunit@</tran>
+        <tran loc="es-419">%1$#@availablewithunit@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3543,7 +3543,7 @@
       <Position>/Unable to rotate %d videos:dict/videos:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Unable to rotate %d video</base>
-        <tran loc="es">No se puede rotar %d vídeo</tran>
+        <tran loc="es-419">No se pudo girar %d video</tran>
       </TranslationSet>
     </TextItem>
   </File>

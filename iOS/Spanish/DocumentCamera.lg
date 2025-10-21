@@ -8,7 +8,7 @@
       <Position>Xiu-GO-ilJ.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>Show filters</Position>
       <TranslationSet>
         <base loc="en">Show filters</base>
-        <tran loc="es">Mostrar filtros</tran>
+        <tran loc="es-419">Mostrar filtros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -27,7 +27,7 @@
       <Position>Keep Scan</Position>
       <TranslationSet>
         <base loc="en">Keep Scan</base>
-        <tran loc="es">Conservar</tran>
+        <tran loc="es-419">Conservar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>Photo</Position>
       <TranslationSet>
         <base loc="en">Photo</base>
-        <tran loc="es">Foto</tran>
+        <tran loc="es-419">Foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>Scanned document collection names can’t be blank.</Position>
       <TranslationSet>
         <base loc="en">Scanned document collection names can’t be blank.</base>
-        <tran loc="es">Los nombres de colecciones de documentos escaneados no pueden quedar en blanco.</tran>
+        <tran loc="es-419">Los nombres de las colecciones de documentos escaneados no pueden estar vacíos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>You’ve added the maximum number of scans to this document. You can delete scans or create another document.</Position>
       <TranslationSet>
         <base loc="en">You’ve added the maximum number of scans to this document. You can delete scans or create another document.</base>
-        <tran loc="es">Has añadido el número máximo de archivos escaneados a este documento. Puedes eliminar archivos escaneados o crear otro documento.</tran>
+        <tran loc="es-419">Se alcanzó el número máximo de archivos escaneados en este documento. Podrías borrar unos o crear otro documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>Take picture</Position>
       <TranslationSet>
         <base loc="en">Take picture</base>
-        <tran loc="es">Hacer foto</tran>
+        <tran loc="es-419">Tomar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>Double-tap and drag to adjust crop bounds.</Position>
       <TranslationSet>
         <base loc="en">Double-tap and drag to adjust crop bounds.</base>
-        <tran loc="es">Pulsa dos veces y arrastra para ajustar los límites del recorte.</tran>
+        <tran loc="es-419">Toca dos veces y arrastra para ajustar los bordes del recorte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>Hide filters</Position>
       <TranslationSet>
         <base loc="en">Hide filters</base>
-        <tran loc="es">Ocultar filtros</tran>
+        <tran loc="es-419">Ocultar filtros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>Position %lu</Position>
       <TranslationSet>
         <base loc="en">Position %lu</base>
-        <tran loc="es">Posición %lu</tran>
+        <tran loc="es-419">Posición %lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>Name</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>Double-tap to change the flash setting</Position>
       <TranslationSet>
         <base loc="en">Double-tap to change the flash setting</base>
-        <tran loc="es">Pulsa dos veces para cambiar el ajuste del flash</tran>
+        <tran loc="es-419">Toca dos veces para cambiar la configuración del flash</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>Double-tap to toggle shutter mode.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to toggle shutter mode.</base>
-        <tran loc="es">Pulsa dos veces para cambiar el modo de obturador.</tran>
+        <tran loc="es-419">Toca dos veces para activar y desactivar el obturador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>Scan thumbnails</Position>
       <TranslationSet>
         <base loc="en">Scan thumbnails</base>
-        <tran loc="es">Miniatura de archivo escaneado</tran>
+        <tran loc="es-419">Miniaturas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>Move camera slightly left and hold still</Position>
       <TranslationSet>
         <base loc="en">Move camera slightly left and hold still</base>
-        <tran loc="es">Mueve la cámara un poco hacia la izquierda y quédate quieto</tran>
+        <tran loc="es-419">Mueve la cámara un poco a la izquierda y luego mantenla inmóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>Double-tap to rename document</Position>
       <TranslationSet>
         <base loc="en">Double-tap to rename document</base>
-        <tran loc="es">Pulsa dos veces para renombrar el documento</tran>
+        <tran loc="es-419">Toca dos veces para renombrar el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>Done</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>Document Camera</Position>
       <TranslationSet>
         <base loc="en">Document Camera</base>
-        <tran loc="es">Cámara de documentos</tran>
+        <tran loc="es-419">Cámara para documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>Discard Annotations?</Position>
       <TranslationSet>
         <base loc="en">Discard Annotations?</base>
-        <tran loc="es">¿Descartar anotaciones?</tran>
+        <tran loc="es-419">¿Descartar anotaciones?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>Black &amp; White</Position>
       <TranslationSet>
         <base loc="en">Black &amp; White</base>
-        <tran loc="es">Blanco y negro</tran>
+        <tran loc="es-419">Blanco y negro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>Order Next</Position>
       <TranslationSet>
         <base loc="en">Order Next</base>
-        <tran loc="es">Ordenar después del siguiente</tran>
+        <tran loc="es-419">Ordenar después del siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>top-left crop handle</Position>
       <TranslationSet>
         <base loc="en">top-left crop handle</base>
-        <tran loc="es">tirador de recorte de la esquina superior izquierda</tran>
+        <tran loc="es-419">punto superior izquierdo de recorte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>Index out of range.</Position>
       <TranslationSet>
         <base loc="en">Index out of range.</base>
-        <tran loc="es">Índice fuera de intervalo.</tran>
+        <tran loc="es-419">El índice está fuera del rango.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>landscape</Position>
       <TranslationSet>
         <base loc="en">landscape</base>
-        <tran loc="es">horizontal</tran>
+        <tran loc="es-419">horizontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>Hide filter settings</Position>
       <TranslationSet>
         <base loc="en">Hide filter settings</base>
-        <tran loc="es">Ocultar ajustes de filtro</tran>
+        <tran loc="es-419">Ocultar configuración del filtro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>Preparing…</Position>
       <TranslationSet>
         <base loc="en">Preparing…</base>
-        <tran loc="es">Preparando…</tran>
+        <tran loc="es-419">Preparando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>Maximum Reached</Position>
       <TranslationSet>
         <base loc="en">Maximum Reached</base>
-        <tran loc="es">Número máximo alcanzado</tran>
+        <tran loc="es-419">Se alcanzó el máximo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>Double-tap to set flash to auto</Position>
       <TranslationSet>
         <base loc="en">Double-tap to set flash to auto</base>
-        <tran loc="es">Pulsa dos veces para seleccionar el flash automático</tran>
+        <tran loc="es-419">Toca dos veces para usar el flash automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>Crop</Position>
       <TranslationSet>
         <base loc="en">Crop</base>
-        <tran loc="es">Recortar</tran>
+        <tran loc="es-419">Recortar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>Delete scan</Position>
       <TranslationSet>
         <base loc="en">Delete scan</base>
-        <tran loc="es">Eliminar archivo escaneado</tran>
+        <tran loc="es-419">Eliminar elemento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>Hold camera still</Position>
       <TranslationSet>
         <base loc="en">Hold camera still</base>
-        <tran loc="es">No muevas la cámara</tran>
+        <tran loc="es-419">No muevas la cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>Auto</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Auto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>Double-tap to preview scan.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to preview scan.</base>
-        <tran loc="es">Pulsa dos veces para previsualizar el archivo escaneado.</tran>
+        <tran loc="es-419">Toca dos veces para previsualizar el elemento escaneado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>(%d of %d)</Position>
       <TranslationSet>
         <base loc="en">(%1$d of %2$d)</base>
-        <tran loc="es">(%1$d de %2$d)</tran>
+        <tran loc="es-419">(%1$d de %2$d)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>Move camera slightly up and hold still</Position>
       <TranslationSet>
         <base loc="en">Move camera slightly up and hold still</base>
-        <tran loc="es">Mueve la cámara un poco hacia arriba y quédate quieto</tran>
+        <tran loc="es-419">Mueve la cámara un poco hacia arriba y luego mantenla inmóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>Double-tap to resume</Position>
       <TranslationSet>
         <base loc="en">Double-tap to resume</base>
-        <tran loc="es">Pulsa dos veces para reanudar</tran>
+        <tran loc="es-419">Toca dos veces para continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -301,7 +301,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -309,7 +309,7 @@
       <Position>Color</Position>
       <TranslationSet>
         <base loc="en">Color</base>
-        <tran loc="es">Color</tran>
+        <tran loc="es-419">Color</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -317,7 +317,7 @@
       <Position>Delete Scan</Position>
       <TranslationSet>
         <base loc="en">Delete Scan</base>
-        <tran loc="es">Eliminar archivo escaneado</tran>
+        <tran loc="es-419">Eliminar escaneo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>bottom-right crop handle</Position>
       <TranslationSet>
         <base loc="en">bottom-right crop handle</base>
-        <tran loc="es">tirador de recorte de la esquina inferior derecha</tran>
+        <tran loc="es-419">punto inferior derecho de recorte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>Rename</Position>
       <TranslationSet>
         <base loc="en">Rename</base>
-        <tran loc="es">Renombrar</tran>
+        <tran loc="es-419">Renombrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>Add scan</Position>
       <TranslationSet>
         <base loc="en">Add scan</base>
-        <tran loc="es">Añadir archivo escaneado</tran>
+        <tran loc="es-419">Agregar escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>Please choose a different name.</Position>
       <TranslationSet>
         <base loc="en">Please choose a different name.</base>
-        <tran loc="es">Selecciona otro nombre.</tran>
+        <tran loc="es-419">Elige otro nombre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>auto</Position>
       <TranslationSet>
         <base loc="en">auto</base>
-        <tran loc="es">automático</tran>
+        <tran loc="es-419">automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>Show filter settings</Position>
       <TranslationSet>
         <base loc="en">Show filter settings</base>
-        <tran loc="es">Mostrar ajustes de filtro</tran>
+        <tran loc="es-419">Mostrar configuración del filtro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -375,7 +375,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +383,7 @@
       <Position>Double-tap to hide filter options.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to hide filter options.</base>
-        <tran loc="es">Pulsa dos veces para ocultar los opciones de filtro.</tran>
+        <tran loc="es-419">Toca dos veces para ocultar las opciones de filtrado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -391,7 +391,7 @@
       <Position>Double-tap to delete the current scan.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to delete the current scan.</base>
-        <tran loc="es">Pulsa dos veces para eliminar el archivo escaneado actual.</tran>
+        <tran loc="es-419">Toca dos veces para eliminar el elemento escaneado actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -399,7 +399,7 @@
       <Position>Deleting the last scan in this document will remove the document from your note.</Position>
       <TranslationSet>
         <base loc="en">Deleting the last scan in this document will remove the document from your note.</base>
-        <tran loc="es">Al eliminar el último archivo escaneado de este documento, el documento se eliminará de la nota.</tran>
+        <tran loc="es-419">Si eliminas el último escaneo de este documento, se eliminará el documento de tu nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -407,7 +407,7 @@
       <Position>Double-tap to crop the current scan.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to crop the current scan.</base>
-        <tran loc="es">Pulsa dos veces para recortar el archivo escaneado actual.</tran>
+        <tran loc="es-419">Toca dos veces para recortar el elemento escaneado actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -415,7 +415,7 @@
       <Position>If you rotate or crop this scan, its Markup annotations will be discarded.</Position>
       <TranslationSet>
         <base loc="en">If you rotate or crop this scan, its Markup annotations will be discarded.</base>
-        <tran loc="es">Si giras o recortas este archivo escaneado, las anotaciones de marcación se descartarán.</tran>
+        <tran loc="es-419">Si giras o recortas este archivo escaneado, se descartarán las anotaciones de marcado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +423,7 @@
       <Position>Manual</Position>
       <TranslationSet>
         <base loc="en">Manual</base>
-        <tran loc="es">Manual</tran>
+        <tran loc="es-419">Orden manual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +431,7 @@
       <Position>default</Position>
       <TranslationSet>
         <base loc="en">default</base>
-        <tran loc="es">sentence</tran>
+        <tran loc="es-419">default</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +439,7 @@
       <Position>Show flash settings</Position>
       <TranslationSet>
         <base loc="en">Show flash settings</base>
-        <tran loc="es">Mostrar ajustes del flash</tran>
+        <tran loc="es-419">Mostrar configuración del flash</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +447,7 @@
       <Position>Ready for next scan.</Position>
       <TranslationSet>
         <base loc="en">Ready for next scan.</base>
-        <tran loc="es">Listo para seguir escaneando.</tran>
+        <tran loc="es-419">Listo para escanear el siguiente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +455,7 @@
       <Position>%lu%% complete</Position>
       <TranslationSet>
         <base loc="en">%lu%% complete</base>
-        <tran loc="es">%lu %% completado</tran>
+        <tran loc="es-419">%lu%% completado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +463,7 @@
       <Position>Double-tap to add a new scan to this document.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to add a new scan to this document.</base>
-        <tran loc="es">Pulsa dos veces para añadir páginas escaneadas a este documento.</tran>
+        <tran loc="es-419">Toca dos veces para agregar un escaneado nuevo a este documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +471,7 @@
       <Position>Filter picker</Position>
       <TranslationSet>
         <base loc="en">Filter picker</base>
-        <tran loc="es">Selector de filtro</tran>
+        <tran loc="es-419">Selector de filtros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -479,7 +479,7 @@
       <Position>Apply Filter to All Scans</Position>
       <TranslationSet>
         <base loc="en">Apply Filter to All Scans</base>
-        <tran loc="es">Aplicar filtro a todos los archivos escaneados</tran>
+        <tran loc="es-419">Aplicar filtro a todos los archivos escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -487,7 +487,7 @@
       <Position>Preparing scanned documents…</Position>
       <TranslationSet>
         <base loc="en">Preparing scanned documents…</base>
-        <tran loc="es">Preparando documentos escaneados…</tran>
+        <tran loc="es-419">Preparando elementos escaneados…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -495,7 +495,7 @@
       <Position>Double-tap to rotate the scan counter-clockwise.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to rotate the scan counter-clockwise.</base>
-        <tran loc="es">Pulsa dos veces para girar el archivo escaneado a la izquierda.</tran>
+        <tran loc="es-419">Toca dos veces para girar el elemento escaneado a la izquierda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -503,7 +503,7 @@
       <Position>Whiteboard</Position>
       <TranslationSet>
         <base loc="en">Whiteboard</base>
-        <tran loc="es">Pizarra</tran>
+        <tran loc="es-419">Pintarrón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +511,7 @@
       <Position>Double tap to save this document.</Position>
       <TranslationSet>
         <base loc="en">Double tap to save this document.</base>
-        <tran loc="es">Pulsa dos veces para guardar el documento.</tran>
+        <tran loc="es-419">Toca dos veces para guardar este documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -519,7 +519,7 @@
       <Position>Rotate</Position>
       <TranslationSet>
         <base loc="en">Rotate</base>
-        <tran loc="es">Girar</tran>
+        <tran loc="es-419">Girar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +527,7 @@
       <Position>Unable to capture media</Position>
       <TranslationSet>
         <base loc="en">Unable to capture media</base>
-        <tran loc="es">No se ha podido capturar contenido</tran>
+        <tran loc="es-419">Imposible capturar contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -535,7 +535,7 @@
       <Position>Double-tap to change shutter mode to manual.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to change shutter mode to manual.</base>
-        <tran loc="es">Pulsa dos veces para activar el modo de obturador manual.</tran>
+        <tran loc="es-419">Toca dos veces para cambiar al modo manual del obturador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -543,7 +543,7 @@
       <Position>Unable to resume</Position>
       <TranslationSet>
         <base loc="en">Unable to resume</base>
-        <tran loc="es">No se ha podido reanudar</tran>
+        <tran loc="es-419">Imposible reanudar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -551,7 +551,7 @@
       <Position>Apply Filter to Scan %lu of %lu</Position>
       <TranslationSet>
         <base loc="en">Apply Filter to Scan %1$lu of %2$lu</base>
-        <tran loc="es">Aplicar filtro al archivo escaneado %1$lu de %2$lu</tran>
+        <tran loc="es-419">Aplicar filtro al escaneo %1$lu de %2$lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -559,7 +559,7 @@
       <Position>Double-tap to share the current scan.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to share the current scan.</base>
-        <tran loc="es">Pulsa dos veces para compartir el archivo escaneado actual.</tran>
+        <tran loc="es-419">Toca dos veces para compartir el elemento escaneado actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>Filters</Position>
       <TranslationSet>
         <base loc="en">Filters</base>
-        <tran loc="es">Filtros</tran>
+        <tran loc="es-419">Filtros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>Discard</Position>
       <TranslationSet>
         <base loc="en">Discard</base>
-        <tran loc="es">Descartar</tran>
+        <tran loc="es-419">Descartar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>Scanned Documents</Position>
       <TranslationSet>
         <base loc="en">Scanned Documents</base>
-        <tran loc="es">Documentos escaneados</tran>
+        <tran loc="es-419">Documentos escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>Current filter: %@</Position>
       <TranslationSet>
         <base loc="en">Current filter: %@</base>
-        <tran loc="es">Filtro actual: %@</tran>
+        <tran loc="es-419">Filtro actual %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>Markup</Position>
       <TranslationSet>
         <base loc="en">Markup</base>
-        <tran loc="es">Marcación</tran>
+        <tran loc="es-419">Marcado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>portrait</Position>
       <TranslationSet>
         <base loc="en">portrait</base>
-        <tran loc="es">vertical</tran>
+        <tran loc="es-419">vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>bottom-left crop handle</Position>
       <TranslationSet>
         <base loc="en">bottom-left crop handle</base>
-        <tran loc="es">tirador de recorte de la esquina inferior izquierda</tran>
+        <tran loc="es-419">punto inferior izquierdo de recorte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>Stop</Position>
       <TranslationSet>
         <base loc="en">Stop</base>
-        <tran loc="es">Detener</tran>
+        <tran loc="es-419">Detener</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>Collection names can’t be longer than 128 characters.</Position>
       <TranslationSet>
         <base loc="en">Collection names can’t be longer than 128 characters.</base>
-        <tran loc="es">Los nombres de colecciones no pueden tener más de 128 caracteres.</tran>
+        <tran loc="es-419">Los nombres de las colecciones no pueden rebasar 128 caracteres.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>Order Previous</Position>
       <TranslationSet>
         <base loc="en">Order Previous</base>
-        <tran loc="es">Ordenar antes del anterior</tran>
+        <tran loc="es-419">Ordenar antes del siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>Retake</Position>
       <TranslationSet>
         <base loc="en">Retake</base>
-        <tran loc="es">Repetir</tran>
+        <tran loc="es-419">Repetir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>Hide flash settings</Position>
       <TranslationSet>
         <base loc="en">Hide flash settings</base>
-        <tran loc="es">Ocultar ajustes del flash</tran>
+        <tran loc="es-419">Ocultar configuración del flash</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>Double-tap and drag to reorder current scan</Position>
       <TranslationSet>
         <base loc="en">Double-tap and drag to reorder current scan</base>
-        <tran loc="es">Pulsa dos veces y arrastra para reordenar el archivo escaneado actual</tran>
+        <tran loc="es-419">Toca dos veces y arrastra para reordenar el elemento escaneado actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>top-right crop handle</Position>
       <TranslationSet>
         <base loc="en">top-right crop handle</base>
-        <tran loc="es">tirador de recorte de la esquina superior derecha</tran>
+        <tran loc="es-419">punto superior derecho de recorte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>on</Position>
       <TranslationSet>
         <base loc="en">on</base>
-        <tran loc="es">activado</tran>
+        <tran loc="es-419">sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>Move camera slightly right and hold still</Position>
       <TranslationSet>
         <base loc="en">Move camera slightly right and hold still</base>
-        <tran loc="es">Mueve la cámara un poco hacia la derecha y quédate quieto</tran>
+        <tran loc="es-419">Mueve la cámara un poco a la derecha y luego mantenla inmóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>Double-tap to turn flash on</Position>
       <TranslationSet>
         <base loc="en">Double-tap to turn flash on</base>
-        <tran loc="es">Pulsa dos veces para activar el flash</tran>
+        <tran loc="es-419">Toca dos veces para activar el flash</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>%d of %d</Position>
       <TranslationSet>
         <base loc="en">%1$d of %2$d</base>
-        <tran loc="es">%1$d de %2$d</tran>
+        <tran loc="es-419">%1$d de %2$d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>Double-tap to change shutter mode to automatic.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to change shutter mode to automatic.</base>
-        <tran loc="es">Pulsa dos veces para activar el modo de obturador automático.</tran>
+        <tran loc="es-419">Toca dos veces para cambiar al modo automático del obturador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>Record</Position>
       <TranslationSet>
         <base loc="en">Record</base>
-        <tran loc="es">Grabar</tran>
+        <tran loc="es-419">Grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>Scan thumbnail</Position>
       <TranslationSet>
         <base loc="en">Scan thumbnail</base>
-        <tran loc="es">Miniatura de archivo escaneado</tran>
+        <tran loc="es-419">Miniatura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>off</Position>
       <TranslationSet>
         <base loc="en">off</base>
-        <tran loc="es">desactivado</tran>
+        <tran loc="es-419">no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>Discard Scans</Position>
       <TranslationSet>
         <base loc="en">Discard Scans</base>
-        <tran loc="es">Descartar archivos escaneados</tran>
+        <tran loc="es-419">Descartar escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>Moved item from position %lu to position %lu</Position>
       <TranslationSet>
         <base loc="en">Moved item from position %1$lu to position %2$lu</base>
-        <tran loc="es">Ítem trasladado desde la posición %1$lu hasta la posición %2$lu</tran>
+        <tran loc="es-419">Se cambió el elemento de la posición %1$lu a la posición %2$lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>Double-tap to choose a filter to apply to this scan.</Position>
       <TranslationSet>
         <base loc="en">Double-tap to choose a filter to apply to this scan.</base>
-        <tran loc="es">Pulsa dos veces para seleccionar un filtro que aplicar a este archivo escaneado.</tran>
+        <tran loc="es-419">Toca dos veces y elige qué filtro aplicar a este elemento escaneado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>Double-tap to turn flash off</Position>
       <TranslationSet>
         <base loc="en">Double-tap to turn flash off</base>
-        <tran loc="es">Pulsa dos veces para desactivar el flash</tran>
+        <tran loc="es-419">Toca dos veces para desactivar el flash</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>Scan</Position>
       <TranslationSet>
         <base loc="en">Scan</base>
-        <tran loc="es">Archivo escaneado</tran>
+        <tran loc="es-419">Elemento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>Grayscale</Position>
       <TranslationSet>
         <base loc="en">Grayscale</base>
-        <tran loc="es">Escala de grises</tran>
+        <tran loc="es-419">Escala de grises</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>Move camera slightly down and hold still</Position>
       <TranslationSet>
         <base loc="en">Move camera slightly down and hold still</base>
-        <tran loc="es">Mueve la cámara un poco hacia abajo y quédate quieto</tran>
+        <tran loc="es-419">Mueve la cámara un poco hacia abajo y luego mantenla inmóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>%lu of %lu</Position>
       <TranslationSet>
         <base loc="en">%1$lu of %2$lu</base>
-        <tran loc="es">%1$lu de %2$lu</tran>
+        <tran loc="es-419">%1$lu de %2$lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>image</Position>
       <TranslationSet>
         <base loc="en">image</base>
-        <tran loc="es">imagen</tran>
+        <tran loc="es-419">imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>Three-finger swipe to scroll between scans.</Position>
       <TranslationSet>
         <base loc="en">Three-finger swipe to scroll between scans.</base>
-        <tran loc="es">Desliza con tres dedos para desplazarte entre archivos escaneados.</tran>
+        <tran loc="es-419">Desliza con tres dedos para desplazarte por los elementos escaneados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>Settings</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>Privacy or Restrictions settings have disabled use of the camera. You can change this in Settings.</Position>
       <TranslationSet>
         <base loc="en">Privacy or Restrictions settings have disabled use of the camera. You can change this in Settings.</base>
-        <tran loc="es">Los ajustes de privacidad o las restricciones han desactivado el uso de la cámara. Puedes cambiar esta configuración en Ajustes.</tran>
+        <tran loc="es-419">La configuración de privacidad o restricciones impide el uso de la cámara, lo cual puedes cambiar en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>Discard Scan</Position>
       <TranslationSet>
         <base loc="en">Discard Scan</base>
-        <tran loc="es">Descartar archivo escaneado</tran>
+        <tran loc="es-419">Descartar escaneo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>Camera Unavailable</Position>
       <TranslationSet>
         <base loc="en">Camera Unavailable</base>
-        <tran loc="es">Cámara no disponible</tran>
+        <tran loc="es-419">Cámara no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>Scan %lu of %lu</Position>
       <TranslationSet>
         <base loc="en">Scan %1$lu of %2$lu</base>
-        <tran loc="es">Archivo escaneado %1$lu de %2$lu</tran>
+        <tran loc="es-419">Elemento %1$lu de %2$lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -867,7 +867,7 @@
       <Position>Save</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -878,7 +878,7 @@
       <Position>0us-YC-u5C.title</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -889,7 +889,7 @@
       <Position>t4N-dC-9TF.text</Position>
       <TranslationSet>
         <base loc="en"> Label</base>
-        <tran loc="es"> Etiqueta</tran>
+        <tran loc="es-419"> Etiqueta</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -900,7 +900,7 @@
       <Position>C3D-R9-Zr7.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>cb7-FY-wRI.text</Position>
       <TranslationSet>
         <base loc="en">Drag near corners to adjust.</base>
-        <tran loc="es">Arrastra desde las esquinas para ajustar.</tran>
+        <tran loc="es-419">Arrastra cerca de las esquinas para ajustar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>EYm-xW-m48.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -927,7 +927,7 @@
       <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/num_images:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to discard %lu scans?</base>
-        <tran loc="es">¿Seguro que quieres descartar %lu archivos escaneados?</tran>
+        <tran loc="es-419">¿Seguro que quieres descartar %lu escaneos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -935,7 +935,7 @@
       <Position>/%lu scans:dict/num_scans:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu scan</base>
-        <tran loc="es">%lu archivo escaneado</tran>
+        <tran loc="es-419">%lu escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -943,7 +943,7 @@
       <Position>/Double-tap to preview %lu scanned images:dict/num_images:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Double-tap to preview scanned image</base>
-        <tran loc="es">Pulsa dos veces para previsualizar la imagen escaneada</tran>
+        <tran loc="es-419">Toca dos veces para previsualizar el elemento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -951,7 +951,7 @@
       <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/num_images:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">(%lu)</base>
-        <tran loc="es">(%lu)</tran>
+        <tran loc="es-419">(%lu)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -959,7 +959,7 @@
       <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/num_images:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">(%lu)</base>
-        <tran loc="es">(%lu)</tran>
+        <tran loc="es-419">(%lu)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -967,7 +967,7 @@
       <Position>/%lu scans:dict/num_scans:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu scans</base>
-        <tran loc="es">%lu archivos escaneados</tran>
+        <tran loc="es-419">%lu escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -975,7 +975,7 @@
       <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/num_images:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu scan thumbnail</base>
-        <tran loc="es">%lu miniatura de archivo escaneado</tran>
+        <tran loc="es-419">%lu miniatura de elemento escaneado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -983,7 +983,7 @@
       <Position>/Double-tap to preview %lu scanned images:dict/num_images:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Double-tap to preview %lu scanned images</base>
-        <tran loc="es">Pulsa dos veces para previsualizar %lu imágenes escaneadas</tran>
+        <tran loc="es-419">Toca dos veces para previsualizar %lu elementos escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -991,7 +991,7 @@
       <Position>/%lu scans:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_scans@</base>
-        <tran loc="es">%#@num_scans@</tran>
+        <tran loc="es-419">%#@num_scans@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -999,7 +999,7 @@
       <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/num_images:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to discard this scan?</base>
-        <tran loc="es">¿Seguro que quieres descartar este archivo escaneado?</tran>
+        <tran loc="es-419">¿Seguro que quieres descartar este escaneo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1007,7 +1007,7 @@
       <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/num_images:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu scan thumbnails</base>
-        <tran loc="es">%lu miniaturas de archivo escaneado</tran>
+        <tran loc="es-419">%lu miniaturas de archivos escaneados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1015,7 +1015,7 @@
       <Position>/%lu_SCANNED_IMAGE_THUMBNAILS:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_images@</base>
-        <tran loc="es">%#@num_images@</tran>
+        <tran loc="es-419">%#@num_images@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1023,7 +1023,7 @@
       <Position>/DISCARD_%lu_SCANNED_IMAGES_ALERT_MESSAGE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_images@</base>
-        <tran loc="es">%#@num_images@</tran>
+        <tran loc="es-419">%#@num_images@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1031,7 +1031,7 @@
       <Position>/Double-tap to preview %lu scanned images:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_images@</base>
-        <tran loc="es">%#@num_images@</tran>
+        <tran loc="es-419">%#@num_images@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1039,7 +1039,7 @@
       <Position>/SAVE_%lu_SCANNED_IMAGES_COUNT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_images@</base>
-        <tran loc="es">%#@num_images@</tran>
+        <tran loc="es-419">%#@num_images@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1050,7 +1050,7 @@
       <Position>lta-eW-fOG.text</Position>
       <TranslationSet>
         <base loc="en">Move camera closer.</base>
-        <tran loc="es">Acerca la cámara.</tran>
+        <tran loc="es-419">Acerca la cámara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1058,7 +1058,7 @@
       <Position>nWU-2W-xA0.text</Position>
       <TranslationSet>
         <base loc="en">Position the document in view.</base>
-        <tran loc="es">Coloca el documento en el visor.</tran>
+        <tran loc="es-419">Coloca el documento en el visor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1066,7 +1066,7 @@
       <Position>UYx-RV-j8P.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1074,7 +1074,7 @@
       <Position>WCM-va-47O.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1082,7 +1082,7 @@
       <Position>nQh-Ka-Sgy.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1090,7 +1090,7 @@
       <Position>1yZ-0b-Zbi.text</Position>
       <TranslationSet>
         <base loc="en">Color</base>
-        <tran loc="es">Color</tran>
+        <tran loc="es-419">Color</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1098,7 +1098,7 @@
       <Position>aVj-LG-l89.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Tap to resume</base>
-        <tran loc="es">Pulsar para reanudar</tran>
+        <tran loc="es-419">Toca para reanudar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1106,7 +1106,7 @@
       <Position>RMc-ff-d2O.text</Position>
       <TranslationSet>
         <base loc="en">Auto Shutter On</base>
-        <tran loc="es">Modo de obturador automático</tran>
+        <tran loc="es-419">Obturador automático: sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1114,7 +1114,7 @@
       <Position>i5E-iG-1uK.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1122,7 +1122,7 @@
       <Position>kw4-iJ-8Zs.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1130,7 +1130,7 @@
       <Position>iKz-wD-FKx.text</Position>
       <TranslationSet>
         <base loc="en">Auto Shutter Off</base>
-        <tran loc="es">Modo de obturador manual</tran>
+        <tran loc="es-419">Obturador automático: no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1138,7 +1138,7 @@
       <Position>c9v-qI-kGi.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Manual</base>
-        <tran loc="es">Manual</tran>
+        <tran loc="es-419">Manual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1146,7 +1146,7 @@
       <Position>I0O-ug-3nx.text</Position>
       <TranslationSet>
         <base loc="en">Document Camera!#x2028;Unavailable</base>
-        <tran loc="es">Cámara del documento!#x2028;no disponible</tran>
+        <tran loc="es-419">Cámara en el documento!#x2028;No disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1154,7 +1154,7 @@
       <Position>BNo-LJ-jtQ.normalTitle</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1162,7 +1162,7 @@
       <Position>C8S-3k-GY9.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Record</base>
-        <tran loc="es">Grabar</tran>
+        <tran loc="es-419">Grabar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1170,7 +1170,7 @@
       <Position>fhG-Dp-2sr.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1181,7 +1181,7 @@
       <Position>aTm-El-moG.text</Position>
       <TranslationSet>
         <base loc="en">1 of 3</base>
-        <tran loc="es">1 de 3</tran>
+        <tran loc="es-419">1 de 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1189,7 +1189,7 @@
       <Position>sWK-Lc-e59.title</Position>
       <TranslationSet>
         <base loc="en">Retake</base>
-        <tran loc="es">Repetir</tran>
+        <tran loc="es-419">Repetir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1197,7 +1197,7 @@
       <Position>sT1-kv-Ev0.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Collection Name</base>
-        <tran loc="es">Nombre de la colección</tran>
+        <tran loc="es-419">Nombre de la compilación</tran>
       </TranslationSet>
     </TextItem>
   </File>

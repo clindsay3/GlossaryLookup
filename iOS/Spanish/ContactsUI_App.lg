@@ -8,7 +8,7 @@
       <Position>QUICKACTION_TITLE_CREATE_NEW_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Create New Contact</base>
-        <tran loc="es">Nuevo contacto</tran>
+        <tran loc="es-419">Crear nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>QUICKACTION_TITLE_SHOW_ME</Position>
       <TranslationSet>
         <base loc="en">Show My Info</base>
-        <tran loc="es">Mostrar mi información</tran>
+        <tran loc="es-419">Mostrar mis datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -49,7 +49,7 @@
       <Position>UNINSTALL_ICON_BODY_DELETE_DATA</Position>
       <TranslationSet>
         <base loc="en">Removing this app from the home screen will not delete your contacts.</base>
-        <tran loc="es">Si eliminas esta app de la pantalla de inicio, tus contactos no se eliminarán.</tran>
+        <tran loc="es-419">Eliminar esta app de la pantalla de inicio no eliminará tus contactos.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -60,7 +60,7 @@
       <Position>IQl3gd</Position>
       <TranslationSet>
         <base loc="en">Creates a new contact</base>
-        <tran loc="es">Crea un nuevo contacto</tran>
+        <tran loc="es-419">Crea un nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -68,7 +68,7 @@
       <Position>LBTZ3b</Position>
       <TranslationSet>
         <base loc="en">Create a new contact</base>
-        <tran loc="es">Crear nuevo contacto</tran>
+        <tran loc="es-419">Crear un nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -76,7 +76,7 @@
       <Position>xsBeCv</Position>
       <TranslationSet>
         <base loc="en">Create Contact</base>
-        <tran loc="es">Crear contacto</tran>
+        <tran loc="es-419">Crear contacto</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -87,7 +87,7 @@
       <Position>QUICKACTION_TITLE_CREATE_NEW_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Create New Contact</base>
-        <tran loc="es">Nuevo contacto</tran>
+        <tran loc="es-419">Crear nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -95,7 +95,7 @@
       <Position>QUICKACTION_TITLE_SHOW_ME</Position>
       <TranslationSet>
         <base loc="en">Show My Info</base>
-        <tran loc="es">Mostrar mi información</tran>
+        <tran loc="es-419">Mostrar mis datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -103,7 +103,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -111,7 +111,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
   </File>

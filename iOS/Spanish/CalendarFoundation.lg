@@ -8,7 +8,7 @@
       <Position>min.</Position>
       <TranslationSet>
         <base loc="en">min.</base>
-        <tran loc="es">min</tran>
+        <tran loc="es-419">min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Birthday</Position>
       <TranslationSet>
         <base loc="en">Birthday</base>
-        <tran loc="es">Cumpleaños</tran>
+        <tran loc="es-419">Cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Purple</Position>
       <TranslationSet>
         <base loc="en">Purple</base>
-        <tran loc="es">Morado</tran>
+        <tran loc="es-419">Morado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>This %@ (in next week)</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">El próximo %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>This %@ (in this week)</Position>
       <TranslationSet>
         <base loc="en">This %@</base>
-        <tran loc="es">Este %@</tran>
+        <tran loc="es-419">Este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>%@ %@</Position>
       <TranslationSet>
         <base loc="en">%@ %@</base>
-        <tran loc="es">%@ %@</tran>
+        <tran loc="es-419">%@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>%d minutes</Position>
       <TranslationSet>
         <base loc="en">%d minutes</base>
-        <tran loc="es">%d minutos</tran>
+        <tran loc="es-419">%d minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>%d day before (%@)</Position>
       <TranslationSet>
         <base loc="en">%d day before (%@)</base>
-        <tran loc="es">%d día antes (%@)</tran>
+        <tran loc="es-419">%d día antes (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>%@ after</Position>
       <TranslationSet>
         <base loc="en">%@ after</base>
-        <tran loc="es">%@ después</tran>
+        <tran loc="es-419">%@ después</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>%d week before</Position>
       <TranslationSet>
         <base loc="en">%d week before</base>
-        <tran loc="es">%d semana antes</tran>
+        <tran loc="es-419">%d semana antes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>%@ %@ after (%@)</Position>
       <TranslationSet>
         <base loc="en">%@ %@ after (%@)</base>
-        <tran loc="es">%@ %@ después (%@)</tran>
+        <tran loc="es-419">%@ %@ después (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Tomorrow</Position>
       <TranslationSet>
         <base loc="en">Tomorrow</base>
-        <tran loc="es">Mañana</tran>
+        <tran loc="es-419">Mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>%@’s Hebrew Birthday</Position>
       <TranslationSet>
         <base loc="en">%@’s Hebrew Birthday</base>
-        <tran loc="es">Cumpleaños hebreo de %@</tran>
+        <tran loc="es-419">Cumpleaños hebreo de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Alert %@ after start</Position>
       <TranslationSet>
         <base loc="en">Alert %@ after start</base>
-        <tran loc="es">Aviso %@ después del inicio</tran>
+        <tran loc="es-419">Aviso %@ después del inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>%@ %@, %@ %@, %@ %@, %@ %@</Position>
       <TranslationSet>
         <base loc="en">%@ %@, %@ %@, %@ %@, %@ %@</base>
-        <tran loc="es">%@ %@, %@ %@, %@ %@, %@ %@</tran>
+        <tran loc="es-419">%@ %@, %@ %@, %@ %@, %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>%@ %@, %@ %@</Position>
       <TranslationSet>
         <base loc="en">%@ %@, %@ %@</base>
-        <tran loc="es">%@ %@, %@ %@</tran>
+        <tran loc="es-419">%@ %@, %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>last %@ (in previous week)</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>last %@ (in this week)</Position>
       <TranslationSet>
         <base loc="en">last %@</base>
-        <tran loc="es">el %@ pasado</tran>
+        <tran loc="es-419">el %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Orange</Position>
       <TranslationSet>
         <base loc="en">Orange</base>
-        <tran loc="es">Naranja</tran>
+        <tran loc="es-419">Naranja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>hr.</Position>
       <TranslationSet>
         <base loc="en">hr.</base>
-        <tran loc="es">h</tran>
+        <tran loc="es-419">h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>seconds</Position>
       <TranslationSet>
         <base loc="en">seconds</base>
-        <tran loc="es">segundos</tran>
+        <tran loc="es-419">segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>Yesterday</Position>
       <TranslationSet>
         <base loc="en">Yesterday</base>
-        <tran loc="es">Ayer</tran>
+        <tran loc="es-419">Ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>%@’s %@ Birthday</Position>
       <TranslationSet>
         <base loc="en">%@’s %@ Birthday</base>
-        <tran loc="es">Cumpleaños de %@ (%@)</tran>
+        <tran loc="es-419">Cumpleaños de %@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>Red</Position>
       <TranslationSet>
         <base loc="en">Red</base>
-        <tran loc="es">Rojo</tran>
+        <tran loc="es-419">Rojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>%@ before</Position>
       <TranslationSet>
         <base loc="en">%@ before</base>
-        <tran loc="es">%@ antes</tran>
+        <tran loc="es-419">%@ antes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>On day of event (%@)</Position>
       <TranslationSet>
         <base loc="en">On day of event (%@)</base>
-        <tran loc="es">El día del evento (%@)</tran>
+        <tran loc="es-419">El día del evento (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>%@’s Islamic Birthday</Position>
       <TranslationSet>
         <base loc="en">%@’s Islamic Birthday</base>
-        <tran loc="es">Cumpleaños islámico de %@</tran>
+        <tran loc="es-419">Cumpleaños islámico de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>hour</Position>
       <TranslationSet>
         <base loc="en">hour</base>
-        <tran loc="es">hora</tran>
+        <tran loc="es-419">hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>Last %@ (in previous week)</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>Last %@ (in this week)</Position>
       <TranslationSet>
         <base loc="en">Last %@</base>
-        <tran loc="es">El %@ pasado</tran>
+        <tran loc="es-419">El %@ pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>1: ordinal | 0: cardinal</Position>
       <TranslationSet>
         <base loc="en">1</base>
-        <tran loc="es">0</tran>
+        <tran loc="es-419">0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>today</Position>
       <TranslationSet>
         <base loc="en">today</base>
-        <tran loc="es">hoy</tran>
+        <tran loc="es-419">hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>%@’s %@ Islamic Birthday</Position>
       <TranslationSet>
         <base loc="en">%@’s %@ Islamic Birthday</base>
-        <tran loc="es">Cumpleaños islámico de %@ (%@)</tran>
+        <tran loc="es-419">Cumpleaños islámico de %@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>Alert %@ before start</Position>
       <TranslationSet>
         <base loc="en">Alert %@ before start</base>
-        <tran loc="es">Aviso %@ antes del inicio</tran>
+        <tran loc="es-419">Aviso %@ antes del inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>Alert on day of event at %@</Position>
       <TranslationSet>
         <base loc="en">Alert on day of event at %@</base>
-        <tran loc="es">Aviso el día del evento a las %@</tran>
+        <tran loc="es-419">Aviso el día del evento a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>Green</Position>
       <TranslationSet>
         <base loc="en">Green</base>
-        <tran loc="es">Verde</tran>
+        <tran loc="es-419">Verde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>Alert %@ after travel</Position>
       <TranslationSet>
         <base loc="en">Alert %@ after travel</base>
-        <tran loc="es">Aviso %@ después del viaje</tran>
+        <tran loc="es-419">Aviso %@ después del viaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>Alert %d week before</Position>
       <TranslationSet>
         <base loc="en">Alert %d week before</base>
-        <tran loc="es">Aviso %d semana antes</tran>
+        <tran loc="es-419">Aviso %d semana antes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>Brown</Position>
       <TranslationSet>
         <base loc="en">Brown</base>
-        <tran loc="es">Marrón</tran>
+        <tran loc="es-419">Café</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>%@ %@, %@ %@, %@ %@</Position>
       <TranslationSet>
         <base loc="en">%@ %@, %@ %@, %@ %@</base>
-        <tran loc="es">%@ %@, %@ %@, %@ %@</tran>
+        <tran loc="es-419">%@ %@, %@ %@, %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>this %@ (in next week)</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">el próximo %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>this %@ (in this week)</Position>
       <TranslationSet>
         <base loc="en">this %@</base>
-        <tran loc="es">este %@</tran>
+        <tran loc="es-419">este %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>Alert %@ %@ before at %@</Position>
       <TranslationSet>
         <base loc="en">Alert %@ %@ before at %@</base>
-        <tran loc="es">Aviso %@ %@ antes a las %@</tran>
+        <tran loc="es-419">Aviso %@ %@ antes a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>days</Position>
       <TranslationSet>
         <base loc="en">days</base>
-        <tran loc="es">días</tran>
+        <tran loc="es-419">días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>shortened days</Position>
       <TranslationSet>
         <base loc="en">days</base>
-        <tran loc="es">días</tran>
+        <tran loc="es-419">días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>Yellow</Position>
       <TranslationSet>
         <base loc="en">Yellow</base>
-        <tran loc="es">Amarillo</tran>
+        <tran loc="es-419">Amarillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>Today</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>second</Position>
       <TranslationSet>
         <base loc="en">second</base>
-        <tran loc="es">segundo</tran>
+        <tran loc="es-419">segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>%@’s %@ Hebrew Birthday</Position>
       <TranslationSet>
         <base loc="en">%@’s %@ Hebrew Birthday</base>
-        <tran loc="es">Cumpleaños hebreo de %@ (%@)</tran>
+        <tran loc="es-419">Cumpleaños hebreo de %@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>hours</Position>
       <TranslationSet>
         <base loc="en">hours</base>
-        <tran loc="es">horas</tran>
+        <tran loc="es-419">horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>minutes</Position>
       <TranslationSet>
         <base loc="en">minutes</base>
-        <tran loc="es">minutos</tran>
+        <tran loc="es-419">minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>Time range %@ to %@</Position>
       <TranslationSet>
         <base loc="en">%@ to %@</base>
-        <tran loc="es">%@ a %@</tran>
+        <tran loc="es-419">%@ a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>%@’s %@ Chinese Birthday</Position>
       <TranslationSet>
         <base loc="en">%@’s %@ Chinese Birthday</base>
-        <tran loc="es">Cumpleaños chino de %@ (%@)</tran>
+        <tran loc="es-419">Cumpleaños chino de %@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>%@’s Chinese Birthday</Position>
       <TranslationSet>
         <base loc="en">%@’s Chinese Birthday</base>
-        <tran loc="es">Cumpleaños chino de %@</tran>
+        <tran loc="es-419">Cumpleaños chino de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>%@ (%@ %@)</Position>
       <TranslationSet>
         <base loc="en">%@ (%@ %@)</base>
-        <tran loc="es">%@ (%@ %@)</tran>
+        <tran loc="es-419">%@ (%@ %@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>Alert %d day before at %@</Position>
       <TranslationSet>
         <base loc="en">Alert %d day before at %@</base>
-        <tran loc="es">Aviso %d día antes a las %@</tran>
+        <tran loc="es-419">Aviso %d día antes a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>hrs.</Position>
       <TranslationSet>
         <base loc="en">hrs.</base>
-        <tran loc="es">h</tran>
+        <tran loc="es-419">h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>Alert %@ before travel</Position>
       <TranslationSet>
         <base loc="en">Alert %@ before travel</base>
-        <tran loc="es">Aviso %@ antes del viaje</tran>
+        <tran loc="es-419">Aviso %@ antes del viaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>day</Position>
       <TranslationSet>
         <base loc="en">day</base>
-        <tran loc="es">día</tran>
+        <tran loc="es-419">día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>shortened day</Position>
       <TranslationSet>
         <base loc="en">day</base>
-        <tran loc="es">día</tran>
+        <tran loc="es-419">día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>tomorrow</Position>
       <TranslationSet>
         <base loc="en">tomorrow</base>
-        <tran loc="es">mañana</tran>
+        <tran loc="es-419">mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>yesterday</Position>
       <TranslationSet>
         <base loc="en">yesterday</base>
-        <tran loc="es">ayer</tran>
+        <tran loc="es-419">ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>Alert %@ %@ after at %@</Position>
       <TranslationSet>
         <base loc="en">Alert %@ %@ after at %@</base>
-        <tran loc="es">Aviso %@ %@ después a las %@</tran>
+        <tran loc="es-419">Aviso %@ %@ después a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>%@’s Birthday</Position>
       <TranslationSet>
         <base loc="en">%@’s Birthday</base>
-        <tran loc="es">Cumpleaños de %@</tran>
+        <tran loc="es-419">Cumpleaños de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>%@ %@ before (%@)</Position>
       <TranslationSet>
         <base loc="en">%@ %@ before (%@)</base>
-        <tran loc="es">%@ %@ antes (%@)</tran>
+        <tran loc="es-419">%@ %@ antes (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>minute</Position>
       <TranslationSet>
         <base loc="en">minute</base>
-        <tran loc="es">minuto</tran>
+        <tran loc="es-419">minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>Blue</Position>
       <TranslationSet>
         <base loc="en">Blue</base>
-        <tran loc="es">Azul</tran>
+        <tran loc="es-419">Azul</tran>
       </TranslationSet>
     </TextItem>
   </File>

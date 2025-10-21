@@ -8,7 +8,7 @@
       <Position>FMIP_RENEW_CREDENTIALS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">To continue with Siri, enter your password.</base>
-        <tran loc="es">Para continuar con Siri, introduce tu contraseña.</tran>
+        <tran loc="es-419">Para continuar con Siri, ingresa tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -26,7 +26,7 @@
       <Position>DNT_FM_LOC_TEST</Position>
       <TranslationSet>
         <base loc="en">Localized</base>
-        <tran loc="es">Localized</tran>
+        <tran loc="es-419">Localized</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -37,7 +37,7 @@
       <Position>FMIP_RENEW_CREDENTIALS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">To continue with Siri, enter your password.</base>
-        <tran loc="es">Para continuar con Siri, introduce tu contraseña.</tran>
+        <tran loc="es-419">Para continuar con Siri, ingresa tu contraseña.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -55,7 +55,7 @@
       <Position>DNT_FM_LOC_TEST</Position>
       <TranslationSet>
         <base loc="en">Localized</base>
-        <tran loc="es">Localized</tran>
+        <tran loc="es-419">Localized</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>Reading List</Position>
       <TranslationSet>
         <base loc="en">Reading List</base>
-        <tran loc="es">Lista de lectura</tran>
+        <tran loc="es-419">Lecturas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Favorites</Position>
       <TranslationSet>
         <base loc="en">Favorites</base>
-        <tran loc="es">Favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -27,7 +27,7 @@
       <Position>The app update was canceled.</Position>
       <TranslationSet>
         <base loc="en">The app update was canceled.</base>
-        <tran loc="es">Se ha cancelado la actualización de la app.</tran>
+        <tran loc="es-419">Se canceló la actualización de la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>Could not set the wallpaper.</Position>
       <TranslationSet>
         <base loc="en">Could not set the wallpaper.</base>
-        <tran loc="es">No se ha podido establecer el fondo de pantalla.</tran>
+        <tran loc="es-419">No se pudo definir el fondo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>Invalid profile data.</Position>
       <TranslationSet>
         <base loc="en">Invalid profile data.</base>
-        <tran loc="es">Datos de perfil no válidos.</tran>
+        <tran loc="es-419">Datos de perfil no válidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>The volume could not be set.</Position>
       <TranslationSet>
         <base loc="en">The volume could not be set.</base>
-        <tran loc="es">No se ha podido establecer el volumen.</tran>
+        <tran loc="es-419">No se pudo determinar el volumen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>There is insufficient space for a download.</Position>
       <TranslationSet>
         <base loc="en">There is insufficient space for a download.</base>
-        <tran loc="es">No hay espacio suficiente para realizar una descarga.</tran>
+        <tran loc="es-419">No queda suficiente espacio para la descarga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>A unique identifier is required.</Position>
       <TranslationSet>
         <base loc="en">A unique identifier is required.</base>
-        <tran loc="es">Se necesita un identificador único.</tran>
+        <tran loc="es-419">Se necesita un identificador único.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>The redemption code is invalid.</Position>
       <TranslationSet>
         <base loc="en">The redemption code is invalid.</base>
-        <tran loc="es">El código de canje no es válido.</tran>
+        <tran loc="es-419">El código de canje no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>The configuration payload identifier “%@” is not valid.</Position>
       <TranslationSet>
         <base loc="en">The configuration payload identifier “%@” is not valid.</base>
-        <tran loc="es">El identificador de carga útil de configuración “%@” no es válido.</tran>
+        <tran loc="es-419">El identificador de carga útil de configuración “%@” no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>Could not fetch Emergency Mode.</Position>
       <TranslationSet>
         <base loc="en">Could not fetch Emergency Mode.</base>
-        <tran loc="es">No se ha podido obtener el modo Emergencia.</tran>
+        <tran loc="es-419">No se pudo obtener el modo de emergencia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>Cannot validate applications.</Position>
       <TranslationSet>
         <base loc="en">Cannot validate applications.</base>
-        <tran loc="es">No se pueden validar las aplicaciones.</tran>
+        <tran loc="es-419">No se pueden validar las apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>An iTunes Store ID or manifest URL is required.</Position>
       <TranslationSet>
         <base loc="en">An iTunes Store ID or manifest URL is required.</base>
-        <tran loc="es">Se necesita una URL del manifiesto o un ID de iTunes Store.</tran>
+        <tran loc="es-419">Se necesita un ID de iTunes Store o una dirección URL de manifiesto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>The media download failed.</Position>
       <TranslationSet>
         <base loc="en">The media download failed.</base>
-        <tran loc="es">Se ha producido un error al descargar el contenido.</tran>
+        <tran loc="es-419">Error al descargar contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>Item “%@” is read-only.</Position>
       <TranslationSet>
         <base loc="en">Item “%@” is read-only.</base>
-        <tran loc="es">El ítem “%@” es de solo lectura.</tran>
+        <tran loc="es-419">El elemento “%@” es de sólo lectura.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>The app “%@“ is already installed.</Position>
       <TranslationSet>
         <base loc="en">The app “%@“ is already installed.</base>
-        <tran loc="es">La app “%@” ya está instalada.</tran>
+        <tran loc="es-419">La app “%@” ya está instalada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>The AirPlay route is busy.</Position>
       <TranslationSet>
         <base loc="en">The AirPlay route is busy.</base>
-        <tran loc="es">La salida de AirPlay está ocupada.</tran>
+        <tran loc="es-419">La ruta de AirPlay está ocupada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>Could not refresh cellular plans.</Position>
       <TranslationSet>
         <base loc="en">Could not refresh cellular plans.</base>
-        <tran loc="es">No se han podido actualizar los planes de datos móviles.</tran>
+        <tran loc="es-419">No se pudo actualizar los planes celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>The device’s location cannot be determined.</Position>
       <TranslationSet>
         <base loc="en">The device’s location cannot be determined.</base>
-        <tran loc="es">No se puede determinar la ubicación del dispositivo.</tran>
+        <tran loc="es-419">No se puede determinar la ubicación del dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>The app is not managed.</Position>
       <TranslationSet>
         <base loc="en">The app is not managed.</base>
-        <tran loc="es">La app no está gestionada.</tran>
+        <tran loc="es-419">La app no está administrada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>Authentication failed.</Position>
       <TranslationSet>
         <base loc="en">Authentication failed.</base>
-        <tran loc="es">Error de autenticación.</tran>
+        <tran loc="es-419">Error de autenticación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>Could not persist Emergency Mode.</Position>
       <TranslationSet>
         <base loc="en">Could not persist Emergency Mode.</base>
-        <tran loc="es">No se ha podido persistir el modo Emergencia.</tran>
+        <tran loc="es-419">No se pudo hacer persistir al modo de emergencia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>Property “%@” was never retrieved.</Position>
       <TranslationSet>
         <base loc="en">Property “%@” was never retrieved.</base>
-        <tran loc="es">La propiedad “%@” no se ha recuperado en ningún momento.</tran>
+        <tran loc="es-419">Nunca se recuperó la propiedad “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>Could not fetch certificates.</Position>
       <TranslationSet>
         <base loc="en">Could not fetch certificates.</base>
-        <tran loc="es">No se han podido obtener los certificados.</tran>
+        <tran loc="es-419">No se pudo recuperar certificados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>Invalid response to cellular request.</Position>
       <TranslationSet>
         <base loc="en">Invalid response to cellular request.</base>
-        <tran loc="es">Respuesta no válida a la solicitud de datos móviles.</tran>
+        <tran loc="es-419">Respuesta no válida a la solicitud celular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>The device’s location cannot be requested at this time.</Position>
       <TranslationSet>
         <base loc="en">The device’s location cannot be requested at this time.</base>
-        <tran loc="es">No se puede solicitar la ubicación del dispositivo en este momento.</tran>
+        <tran loc="es-419">No se puede solicitar la ubicación del dispositivo por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>Could not remove app.</Position>
       <TranslationSet>
         <base loc="en">Could not remove app.</base>
-        <tran loc="es">No se ha podido eliminar la app.</tran>
+        <tran loc="es-419">No se pudo eliminar la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>The profile “%@” is not installed.</Position>
       <TranslationSet>
         <base loc="en">The profile “%@” is not installed.</base>
-        <tran loc="es">El perfil “%@” no está instalado.</tran>
+        <tran loc="es-419">El perfil “%@” no está instalado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>The specified user does not exist.</Position>
       <TranslationSet>
         <base loc="en">The specified user does not exist.</base>
-        <tran loc="es">El usuario especificado no existe.</tran>
+        <tran loc="es-419">No existe el usuario especificado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>The specified user has data to sync.</Position>
       <TranslationSet>
         <base loc="en">The specified user has data to sync.</base>
-        <tran loc="es">El usuario especificado tiene datos por sincronizar.</tran>
+        <tran loc="es-419">El usuario especificado tiene datos por sincronizar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>User is not logged in.</Position>
       <TranslationSet>
         <base loc="en">User is not logged in.</base>
-        <tran loc="es">El usuario no ha iniciado sesión.</tran>
+        <tran loc="es-419">El usuario no inició sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>Cannot remove provisioning profile.</Position>
       <TranslationSet>
         <base loc="en">Cannot remove provisioning profile.</base>
-        <tran loc="es">No se puede eliminar el perfil de datos.</tran>
+        <tran loc="es-419">No se puede eliminar el perfil de datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>The file type is invalid.</Position>
       <TranslationSet>
         <base loc="en">The file type is invalid.</base>
-        <tran loc="es">El tipo de archivo no es válido.</tran>
+        <tran loc="es-419">El tipo de archivo no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>The request is not permitted.</Position>
       <TranslationSet>
         <base loc="en">The request is not permitted.</base>
-        <tran loc="es">La solicitud no se puede realizar.</tran>
+        <tran loc="es-419">No se permite la solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>The payload identifier “%@” is not unique.</Position>
       <TranslationSet>
         <base loc="en">The payload identifier “%@” is not unique.</base>
-        <tran loc="es">El identificador de carga “%@” no es único.</tran>
+        <tran loc="es-419">El identificador de carga útil “%@” no es único.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>The media identifier could not be validated.</Position>
       <TranslationSet>
         <base loc="en">The media identifier could not be validated.</base>
-        <tran loc="es">No se ha podido validar el identificador del contenido.</tran>
+        <tran loc="es-419">No se pudo validar el identificador de contenido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>The activation lock bypass code is unavailable.</Position>
       <TranslationSet>
         <base loc="en">The activation lock bypass code is unavailable.</base>
-        <tran loc="es">El código de anulación del bloqueo de activación no está disponible.</tran>
+        <tran loc="es-419">El código para ignorar el bloqueo de activación no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>Could not update app metadata.</Position>
       <TranslationSet>
         <base loc="en">Could not update app metadata.</base>
-        <tran loc="es">No se han podido actualizar los metadatos de la app.</tran>
+        <tran loc="es-419">No se pudo actualizar los metadatos de la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>Unknown error.</Position>
       <TranslationSet>
         <base loc="en">Unknown error.</base>
-        <tran loc="es">Error desconocido.</tran>
+        <tran loc="es-419">Error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>A persistent identifier is required.</Position>
       <TranslationSet>
         <base loc="en">A persistent identifier is required.</base>
-        <tran loc="es">Se necesita un identificador persistente.</tran>
+        <tran loc="es-419">Se necesita un identificador persistente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>The provided app “%@“ could not be opened.</Position>
       <TranslationSet>
         <base loc="en">The provided app “%@“ could not be opened.</base>
-        <tran loc="es">No se ha podido abrir la app proporcionada “%@“.</tran>
+        <tran loc="es-419">No se puede abrir la app proporcionada "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>The user rejected the request.</Position>
       <TranslationSet>
         <base loc="en">The user rejected the request.</base>
-        <tran loc="es">El usuario ha rechazado la solicitud.</tran>
+        <tran loc="es-419">El usuario rechazó la solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -347,7 +347,7 @@
       <Position>Canceling Single App Mode timed out.</Position>
       <TranslationSet>
         <base loc="en">Canceling Single App Mode timed out.</base>
-        <tran loc="es">Se ha agotado el tiempo de espera de la cancelación del modo de app única.</tran>
+        <tran loc="es-419">Se agotó el tiempo de espera para cancelar el modo de app aislada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>Not waiting for redemption code.</Position>
       <TranslationSet>
         <base loc="en">Not waiting for redemption code.</base>
-        <tran loc="es">No se ha esperado al código de canje.</tran>
+        <tran loc="es-419">Sin espera para el código de canje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -363,7 +363,7 @@
       <Position>Cannot install provisioning profile.</Position>
       <TranslationSet>
         <base loc="en">Cannot install provisioning profile.</base>
-        <tran loc="es">No se puede instalar el perfil de datos.</tran>
+        <tran loc="es-419">No se puede instalar el perfil de datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -371,7 +371,7 @@
       <Position>There is insufficient power for a download.</Position>
       <TranslationSet>
         <base loc="en">There is insufficient power for a download.</base>
-        <tran loc="es">No hay batería suficiente para realizar una descarga.</tran>
+        <tran loc="es-419">No queda suficiente energía para descargar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -379,7 +379,7 @@
       <Position>The property value for “%@” is missing.</Position>
       <TranslationSet>
         <base loc="en">The property value for “%@” is missing.</base>
-        <tran loc="es">No se ha encontrado el valor de propiedad de “%@”.</tran>
+        <tran loc="es-419">Falta el valor de la propiedad de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>A password is required to AirPlay to the requested route.</Position>
       <TranslationSet>
         <base loc="en">A password is required to AirPlay to the requested route.</base>
-        <tran loc="es">Se necesita una contraseña para enviar contenido por AirPlay al destino solicitado.</tran>
+        <tran loc="es-419">Se requiere una contraseña para usar AirPlay y llegar a la ruta solicitada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>The shell command “%@“ failed.</Position>
       <TranslationSet>
         <base loc="en">The shell command “%@“ failed.</base>
-        <tran loc="es">Error del comando de shell “%@“.</tran>
+        <tran loc="es-419">Error del comando de shell "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>Could not persist the effective policy.</Position>
       <TranslationSet>
         <base loc="en">Could not persist the effective policy.</base>
-        <tran loc="es">No se ha podido persistir en la política efectiva.</tran>
+        <tran loc="es-419">No se pudo mantener la política vigente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>The app is a system app.</Position>
       <TranslationSet>
         <base loc="en">The app is a system app.</base>
-        <tran loc="es">La app es una app del sistema.</tran>
+        <tran loc="es-419">La app es una app del sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -419,7 +419,7 @@
       <Position>The limit for organizations of type “%@” has been reached.</Position>
       <TranslationSet>
         <base loc="en">The limit for organizations of type “%@” has been reached.</base>
-        <tran loc="es">Se ha alcanzado el límite de organizaciones del tipo “%@”.</tran>
+        <tran loc="es-419">Se alcanzó el límite de organizaciones de tipo “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -427,7 +427,7 @@
       <Position>Cannot create escrow keybag.</Position>
       <TranslationSet>
         <base loc="en">Cannot create escrow keybag.</base>
-        <tran loc="es">No se puede crear el contenedor de claves de custodia.</tran>
+        <tran loc="es-419">No se puede crear un repositorio de claves de custodia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -435,7 +435,7 @@
       <Position>Cannot get list of users.</Position>
       <TranslationSet>
         <base loc="en">Cannot get list of users.</base>
-        <tran loc="es">No se puede obtener la lista de usuarios.</tran>
+        <tran loc="es-419">No se puede obtener una lista de usuarios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -443,7 +443,7 @@
       <Position>The device failed to stop AirPlay mirroring.</Position>
       <TranslationSet>
         <base loc="en">The device failed to stop AirPlay mirroring.</base>
-        <tran loc="es">El dispositivo no ha podido detener la duplicación AirPlay.</tran>
+        <tran loc="es-419">El dispositivo no pudo detener la duplicación por AirPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -451,7 +451,7 @@
       <Position>The supplied password for the AirPlay route was incorrect.</Position>
       <TranslationSet>
         <base loc="en">The supplied password for the AirPlay route was incorrect.</base>
-        <tran loc="es">La contraseña proporcionada para el destino de AirPlay es incorrecta.</tran>
+        <tran loc="es-419">La contraseña proporcionada para la ruta de AirPlay era incorrecta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -459,7 +459,7 @@
       <Position>A URL is required.</Position>
       <TranslationSet>
         <base loc="en">A URL is required.</base>
-        <tran loc="es">Se necesita una URL.</tran>
+        <tran loc="es-419">Se necesita una dirección URL.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -467,7 +467,7 @@
       <Position>No user logged in.</Position>
       <TranslationSet>
         <base loc="en">No user logged in.</base>
-        <tran loc="es">No hay ninguna sesión de usuario iniciada.</tran>
+        <tran loc="es-419">Ningún usuario inició sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -475,7 +475,7 @@
       <Position>The configuration organization identifier “%@” is not unique.</Position>
       <TranslationSet>
         <base loc="en">The configuration organization identifier “%@” is not unique.</base>
-        <tran loc="es">El identificador de organización de la configuración “%@” no es único.</tran>
+        <tran loc="es-419">El identificador de organización de configuración “%@” no es único.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -483,7 +483,7 @@
       <Position>The organization identifier “%@” is not valid.</Position>
       <TranslationSet>
         <base loc="en">The organization identifier “%@” is not valid.</base>
-        <tran loc="es">El identificador de organización “%@” no es válido.</tran>
+        <tran loc="es-419">El identificador de organización “%@” no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -491,7 +491,7 @@
       <Position>The wallpaper image is bad.</Position>
       <TranslationSet>
         <base loc="en">The wallpaper image is bad.</base>
-        <tran loc="es">La imagen del fondo de pantalla no es válida.</tran>
+        <tran loc="es-419">La imagen de fondo de pantalla no es óptima.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -499,7 +499,7 @@
       <Position>No update available.</Position>
       <TranslationSet>
         <base loc="en">No update available.</base>
-        <tran loc="es">No hay ninguna actualización disponible.</tran>
+        <tran loc="es-419">Sin actualizaciones disponibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -507,7 +507,7 @@
       <Position>Cannot look up book purchase history.</Position>
       <TranslationSet>
         <base loc="en">Cannot look up book purchase history.</base>
-        <tran loc="es">No se puede buscar el historial de compras de libros.</tran>
+        <tran loc="es-419">No se puede explorar el historial de compras.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +515,7 @@
       <Position>An installation failed.</Position>
       <TranslationSet>
         <base loc="en">An installation failed.</base>
-        <tran loc="es">Se ha producido un error de instalación.</tran>
+        <tran loc="es-419">Error en una instalación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +523,7 @@
       <Position>The request timed out.</Position>
       <TranslationSet>
         <base loc="en">The request timed out.</base>
-        <tran loc="es">Se ha agotado el tiempo de espera de la solicitud.</tran>
+        <tran loc="es-419">Se agotó el tiempo de espera.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>The app installation was canceled.</Position>
       <TranslationSet>
         <base loc="en">The app installation was canceled.</base>
-        <tran loc="es">La instalación de la app se ha cancelado.</tran>
+        <tran loc="es-419">Se canceló la instalación de la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>A parameter was invalid.</Position>
       <TranslationSet>
         <base loc="en">A parameter was invalid.</base>
-        <tran loc="es">Un parámetro no era válido.</tran>
+        <tran loc="es-419">Un parámetro no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>There is insufficient space for an installation.</Position>
       <TranslationSet>
         <base loc="en">There is insufficient space for an installation.</base>
-        <tran loc="es">No hay espacio suficiente para realizar una instalación.</tran>
+        <tran loc="es-419">No queda suficiente espacio para la instalación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>The app installation was rejected.</Position>
       <TranslationSet>
         <base loc="en">The app installation was rejected.</base>
-        <tran loc="es">Se ha rechazado la instalación de la app.</tran>
+        <tran loc="es-419">Se rechazó la instalación de la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>Could not validate app identifier.</Position>
       <TranslationSet>
         <base loc="en">Could not validate app identifier.</base>
-        <tran loc="es">No se ha podido validar el identificador de la app.</tran>
+        <tran loc="es-419">No se pudo validar el identificador de apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>Could not invite user to VPP.</Position>
       <TranslationSet>
         <base loc="en">Could not invite user to VPP.</base>
-        <tran loc="es">No se ha podido invitar al usuario al Programa de Compras por Volumen (PCV).</tran>
+        <tran loc="es-419">No se pudo invitar al usuario al programa VPP.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +579,7 @@
       <Position>Cannot install profile.</Position>
       <TranslationSet>
         <base loc="en">Cannot install profile.</base>
-        <tran loc="es">No se puede instalar el perfil.</tran>
+        <tran loc="es-419">No se puede instalar el perfil.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -587,7 +587,7 @@
       <Position>Unknown transaction.</Position>
       <TranslationSet>
         <base loc="en">Unknown transaction.</base>
-        <tran loc="es">Transacción desconocida.</tran>
+        <tran loc="es-419">Transacción desconocida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>Could not fetch provisioning profiles.</Position>
       <TranslationSet>
         <base loc="en">Could not fetch provisioning profiles.</base>
-        <tran loc="es">No se han podido obtener los perfiles de datos.</tran>
+        <tran loc="es-419">No se pudo recuperar los perfiles de datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -603,7 +603,7 @@
       <Position>There is insufficient network for a download.</Position>
       <TranslationSet>
         <base loc="en">There is insufficient network for a download.</base>
-        <tran loc="es">No hay suficientes recursos de red para realizar una descarga.</tran>
+        <tran loc="es-419">La red no cuenta con la suficiente capacidad para descargar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -611,7 +611,7 @@
       <Position>Single App Mode could not be initiated for the provided bundle identifier “%@“.</Position>
       <TranslationSet>
         <base loc="en">Single App Mode could not be initiated for the provided bundle identifier “%@“.</base>
-        <tran loc="es">No se ha podido iniciar el modo de app única para el identificador de paquete proporcionado “%@“.</tran>
+        <tran loc="es-419">No se pudo iniciar el modo de app aislada para el identificador de paquetes proporcionado “%@“.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -619,7 +619,7 @@
       <Position>The device passcode must be cleared.</Position>
       <TranslationSet>
         <base loc="en">The device passcode must be cleared.</base>
-        <tran loc="es">El código del dispositivo se debe borrar.</tran>
+        <tran loc="es-419">Se debe borrar el código del dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -627,7 +627,7 @@
       <Position>The configuration payload dictionary is invalid.</Position>
       <TranslationSet>
         <base loc="en">The configuration payload dictionary is invalid.</base>
-        <tran loc="es">El diccionario de carga útil de configuración no es válido.</tran>
+        <tran loc="es-419">La configuración del diccionario de carga útil no es válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>Could not delete user.</Position>
       <TranslationSet>
         <base loc="en">Could not delete user.</base>
-        <tran loc="es">No se ha podido eliminar al usuario.</tran>
+        <tran loc="es-419">No se pudo eliminar al usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -643,7 +643,7 @@
       <Position>Could not find target.</Position>
       <TranslationSet>
         <base loc="en">Could not find target.</base>
-        <tran loc="es">No se ha podido encontrar el destino.</tran>
+        <tran loc="es-419">No se pudo encontrar el objetivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -651,7 +651,7 @@
       <Position>Could not find volume purchase program assignment.</Position>
       <TranslationSet>
         <base loc="en">Could not find volume purchase program assignment.</base>
-        <tran loc="es">No se ha podido encontrar la asignación del Programa de Compras por Volumen.</tran>
+        <tran loc="es-419">No se pudo encontrar la asignación del programa de compras por volumen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>Could not fetch security information.</Position>
       <TranslationSet>
         <base loc="en">Could not fetch security information.</base>
-        <tran loc="es">No se ha podido obtener la información de seguridad.</tran>
+        <tran loc="es-419">No se pudo recuperar información de seguridad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>Could not connect cellular.</Position>
       <TranslationSet>
         <base loc="en">Could not connect cellular.</base>
-        <tran loc="es">No se han podido conectar los datos móviles.</tran>
+        <tran loc="es-419">No se pudo conectar a datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>The profile must be installed non-interactively.</Position>
       <TranslationSet>
         <base loc="en">The profile must be installed non-interactively.</base>
-        <tran loc="es">El perfil debe instalarse de forma no interactiva.</tran>
+        <tran loc="es-419">El perfil se debe instalar de manera no interactiva.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>No license was found for app “%@“.</Position>
       <TranslationSet>
         <base loc="en">No license was found for app “%@“.</base>
-        <tran loc="es">No se ha encontrado ninguna licencia para la app “%@“.</tran>
+        <tran loc="es-419">No se encontró la licencia para la app "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>Could not fetch profiles.</Position>
       <TranslationSet>
         <base loc="en">Could not fetch profiles.</base>
-        <tran loc="es">No se han podido obtener los perfiles.</tran>
+        <tran loc="es-419">No se pudo recuperar perfiles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>A download is complete.</Position>
       <TranslationSet>
         <base loc="en">A download is complete.</base>
-        <tran loc="es">Se ha completado una descarga.</tran>
+        <tran loc="es-419">Una descarga finalizada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>The device cannot be taken out of lost mode.</Position>
       <TranslationSet>
         <base loc="en">The device cannot be taken out of lost mode.</base>
-        <tran loc="es">No se puede desactivar el modo Perdido del dispositivo.</tran>
+        <tran loc="es-419">No se puede desactivar el modo perdido en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -715,7 +715,7 @@
       <Position>The app “%@“ is not installed.</Position>
       <TranslationSet>
         <base loc="en">The app “%@“ is not installed.</base>
-        <tran loc="es">La app “%@“ no está instalada.</tran>
+        <tran loc="es-419">La app "%@" no está instalada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -723,7 +723,7 @@
       <Position>Could not install app.</Position>
       <TranslationSet>
         <base loc="en">Could not install app.</base>
-        <tran loc="es">No se ha podido instalar la app.</tran>
+        <tran loc="es-419">No se pudo instalar la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -731,7 +731,7 @@
       <Position>Cannot trigger diagnostics.</Position>
       <TranslationSet>
         <base loc="en">Cannot trigger diagnostics.</base>
-        <tran loc="es">No se puede activar la realización del diagnóstico.</tran>
+        <tran loc="es-419">No se puede activar el diagnóstico.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -739,7 +739,7 @@
       <Position>The requested destination could not be found</Position>
       <TranslationSet>
         <base loc="en">The requested destination could not be found</base>
-        <tran loc="es">No se ha encontrado el destino solicitado</tran>
+        <tran loc="es-419">No se encontró el destino solicitado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -747,7 +747,7 @@
       <Position>Could not load configuration database.</Position>
       <TranslationSet>
         <base loc="en">Could not load configuration database.</base>
-        <tran loc="es">No se ha podido cargar la base de datos de configuraciones.</tran>
+        <tran loc="es-419">No se pudo cargar la base de datos de configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -755,7 +755,7 @@
       <Position>An iTunes Store login is required.</Position>
       <TranslationSet>
         <base loc="en">An iTunes Store login is required.</base>
-        <tran loc="es">Se necesita un inicio de sesión en iTunes Store.</tran>
+        <tran loc="es-419">Se necesita iniciar sesión en iTunes Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -763,7 +763,7 @@
       <Position>Could not send cellular request (CTError={%@, %@}).</Position>
       <TranslationSet>
         <base loc="en">Could not send cellular request (CTError={%1$@, %2$@}).</base>
-        <tran loc="es">No se ha podido enviar la solicitud de datos móviles (CTError={%1$@, %2$@}).</tran>
+        <tran loc="es-419">No se pudo enviar la solicitud celular (CTError={%1$@, %2$@}).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -771,7 +771,7 @@
       <Position>The device cannot be erased.</Position>
       <TranslationSet>
         <base loc="en">The device cannot be erased.</base>
-        <tran loc="es">El dispositivo no se puede borrar.</tran>
+        <tran loc="es-419">No se puede eliminar el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -779,7 +779,7 @@
       <Position>A download is in progress.</Position>
       <TranslationSet>
         <base loc="en">A download is in progress.</base>
-        <tran loc="es">Se está realizando una descarga.</tran>
+        <tran loc="es-419">Una descarga está en curso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -787,7 +787,7 @@
       <Position>An iTunes Store identifier is required.</Position>
       <TranslationSet>
         <base loc="en">An iTunes Store identifier is required.</base>
-        <tran loc="es">Se necesita un identificador de iTunes Store.</tran>
+        <tran loc="es-419">Se necesita un identificador de iTunes Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -795,7 +795,7 @@
       <Position>The device’s passcode cannot be cleared.</Position>
       <TranslationSet>
         <base loc="en">The device’s passcode cannot be cleared.</base>
-        <tran loc="es">El código del dispositivo no se puede borrar.</tran>
+        <tran loc="es-419">No se puede borrar el código del dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -803,7 +803,7 @@
       <Position>A username is required.</Position>
       <TranslationSet>
         <base loc="en">A username is required.</base>
-        <tran loc="es">Se necesita un nombre de usuario.</tran>
+        <tran loc="es-419">Se necesita un nombre de usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -811,7 +811,7 @@
       <Position>Scan failed.</Position>
       <TranslationSet>
         <base loc="en">Scan failed.</base>
-        <tran loc="es">Se ha producido un error de exploración.</tran>
+        <tran loc="es-419">Error al escanear.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -819,7 +819,7 @@
       <Position>A redemption code is needed for app “%@“.</Position>
       <TranslationSet>
         <base loc="en">A redemption code is needed for app “%@“.</base>
-        <tran loc="es">Se necesita un código de canje para la app “%@“.</tran>
+        <tran loc="es-419">Se necesita un código de canje para la app "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -827,7 +827,7 @@
       <Position>Cannot copy escrow keybag data.</Position>
       <TranslationSet>
         <base loc="en">Cannot copy escrow keybag data.</base>
-        <tran loc="es">No se pueden copiar los datos del contenedor de claves de custodia.</tran>
+        <tran loc="es-419">No se puede copiar los datos de repositorio de claves de custodia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -835,7 +835,7 @@
       <Position>The device is in lost mode.</Position>
       <TranslationSet>
         <base loc="en">The device is in lost mode.</base>
-        <tran loc="es">El dispositivo se encuentra en modo Perdido.</tran>
+        <tran loc="es-419">El dispositivo se encuentra en modo perdido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -843,7 +843,7 @@
       <Position>The user is already being prompted.</Position>
       <TranslationSet>
         <base loc="en">The user is already being prompted.</base>
-        <tran loc="es">Ya se está preguntando al usuario.</tran>
+        <tran loc="es-419">Ya se le avisó al usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -851,7 +851,7 @@
       <Position>The provisioning profile is not managed.</Position>
       <TranslationSet>
         <base loc="en">The provisioning profile is not managed.</base>
-        <tran loc="es">El perfil de datos no está gestionado.</tran>
+        <tran loc="es-419">El perfil de datos no está administrado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -859,7 +859,7 @@
       <Position>There is insufficient power for an installation.</Position>
       <TranslationSet>
         <base loc="en">There is insufficient power for an installation.</base>
-        <tran loc="es">No hay batería suficiente para realizar una instalación.</tran>
+        <tran loc="es-419">No queda suficiente energía para la instalación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -867,7 +867,7 @@
       <Position>Unknown locale.</Position>
       <TranslationSet>
         <base loc="en">Unknown locale.</base>
-        <tran loc="es">Configuración regional desconocida.</tran>
+        <tran loc="es-419">Local desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -875,7 +875,7 @@
       <Position>The device cannot be locked.</Position>
       <TranslationSet>
         <base loc="en">The device cannot be locked.</base>
-        <tran loc="es">El dispositivo no se puede bloquear.</tran>
+        <tran loc="es-419">No se puede bloquear el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -883,7 +883,7 @@
       <Position>A destination name or device identifier is required.</Position>
       <TranslationSet>
         <base loc="en">A destination name or device identifier is required.</base>
-        <tran loc="es">Se necesita un nombre de destino o un identificador de dispositivo.</tran>
+        <tran loc="es-419">Se requiere un nombre de destino o un identificador de dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -891,7 +891,7 @@
       <Position>The escrow secret cannot be copied.</Position>
       <TranslationSet>
         <base loc="en">The escrow secret cannot be copied.</base>
-        <tran loc="es">El secreto de custodia no se puede copiar.</tran>
+        <tran loc="es-419">No se puede copiar el secreto de custodia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -899,7 +899,7 @@
       <Position>The device cannot be put in lost mode.</Position>
       <TranslationSet>
         <base loc="en">The device cannot be put in lost mode.</base>
-        <tran loc="es">No se puede activar el modo Perdido del dispositivo.</tran>
+        <tran loc="es-419">No se puede activar el modo perdido en este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@
       <Position>Could not fetch effective policy.</Position>
       <TranslationSet>
         <base loc="en">Could not fetch effective policy.</base>
-        <tran loc="es">No se ha podido obtener la política efectiva.</tran>
+        <tran loc="es-419">No se pudo recuperar la política vigente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -915,7 +915,7 @@
       <Position>An iTunes Store identifier or persistent identifier is required.</Position>
       <TranslationSet>
         <base loc="en">An iTunes Store identifier or persistent identifier is required.</base>
-        <tran loc="es">Se necesita un identificador persistente o de iTunes Store.</tran>
+        <tran loc="es-419">Se necesita un identificador de iTunes Store o uno persistente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -923,7 +923,7 @@
       <Position>A file type is required.</Position>
       <TranslationSet>
         <base loc="en">A file type is required.</base>
-        <tran loc="es">Se necesita un tipo de archivo.</tran>
+        <tran loc="es-419">Se necesita un tipo de archivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -931,7 +931,7 @@
       <Position>Invalid file.</Position>
       <TranslationSet>
         <base loc="en">Invalid file.</base>
-        <tran loc="es">Archivo no válido.</tran>
+        <tran loc="es-419">Archivo no válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -939,7 +939,7 @@
       <Position>Could not apply redemption code.</Position>
       <TranslationSet>
         <base loc="en">Could not apply redemption code.</base>
-        <tran loc="es">No se ha podido aplicar el código de canje.</tran>
+        <tran loc="es-419">No se pudo aplicar el código de canje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -947,7 +947,7 @@
       <Position>The app update failed.</Position>
       <TranslationSet>
         <base loc="en">The app update failed.</base>
-        <tran loc="es">Error de actualización de la app.</tran>
+        <tran loc="es-419">Error al actualizar la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -955,7 +955,7 @@
       <Position>The provided URL “%@“ could not be opened.</Position>
       <TranslationSet>
         <base loc="en">The provided URL “%@“ could not be opened.</base>
-        <tran loc="es">No se ha podido abrir la URL proporcionada “%@“.</tran>
+        <tran loc="es-419">No se puede abrir la dirección URL proporcionada "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -963,7 +963,7 @@
       <Position>Cellular hardware not supported.</Position>
       <TranslationSet>
         <base loc="en">Cellular hardware not supported.</base>
-        <tran loc="es">El hardware de los datos móviles no es compatible.</tran>
+        <tran loc="es-419">El hardware celular no es compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -971,7 +971,7 @@
       <Position>The app “%@“ is already queued to be installed.</Position>
       <TranslationSet>
         <base loc="en">The app “%@“ is already queued to be installed.</base>
-        <tran loc="es">La app “%@” ya está en la cola de instalación.</tran>
+        <tran loc="es-419">La app “%@” ya está en espera para instalarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -979,7 +979,7 @@
       <Position>Unknown property “%@”.</Position>
       <TranslationSet>
         <base loc="en">Unknown property “%@”.</base>
-        <tran loc="es">Propiedad “%@” desconocida.</tran>
+        <tran loc="es-419">“%@”, propiedad desconocida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -987,7 +987,7 @@
       <Position>The request cannot be performed while the device is in Setup Assistant.</Position>
       <TranslationSet>
         <base loc="en">The request cannot be performed while the device is in Setup Assistant.</base>
-        <tran loc="es">La solicitud no se puede realizar mientras el asistente de configuración esté activo en el dispositivo.</tran>
+        <tran loc="es-419">No se puede realizar la solicitud mientras el dispositivo tenga abierto el asistente de configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -995,7 +995,7 @@
       <Position>The device name cannot be set.</Position>
       <TranslationSet>
         <base loc="en">The device name cannot be set.</base>
-        <tran loc="es">El nombre del dispositivo no se puede establecer.</tran>
+        <tran loc="es-419">No se puede definir el nombre del dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1003,7 +1003,7 @@
       <Position>Could not redeem the code for the app.</Position>
       <TranslationSet>
         <base loc="en">Could not redeem the code for the app.</base>
-        <tran loc="es">No se puede canjear el código de la app.</tran>
+        <tran loc="es-419">No se pudo canjear el código por la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1011,7 +1011,7 @@
       <Position>The invitation URL is invalid.</Position>
       <TranslationSet>
         <base loc="en">The invitation URL is invalid.</base>
-        <tran loc="es">La URL de invitación no es válida.</tran>
+        <tran loc="es-419">La dirección URL no es válida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1019,7 +1019,7 @@
       <Position>A passcode must be set.</Position>
       <TranslationSet>
         <base loc="en">A passcode must be set.</base>
-        <tran loc="es">Se debe definir un código.</tran>
+        <tran loc="es-419">Se debe definir un código.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1027,7 +1027,7 @@
       <Position>No configuration source is available.</Position>
       <TranslationSet>
         <base loc="en">No configuration source is available.</base>
-        <tran loc="es">No hay disponible ningún origen de configuración.</tran>
+        <tran loc="es-419">Ninguna fuente de configuración está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1035,7 +1035,7 @@
       <Position>The device failed to request AirPlay mirroring.</Position>
       <TranslationSet>
         <base loc="en">The device failed to request AirPlay mirroring.</base>
-        <tran loc="es">El dispositivo no ha podido solicitar la duplicación AirPlay.</tran>
+        <tran loc="es-419">El dispositivo no pudo solicitar la duplicación por AirPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1043,7 +1043,7 @@
       <Position>Could not validate manifest.</Position>
       <TranslationSet>
         <base loc="en">Could not validate manifest.</base>
-        <tran loc="es">No se ha podido validar el manifiesto.</tran>
+        <tran loc="es-419">No se pudo validar el manifiesto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1051,7 +1051,7 @@
       <Position>Could not set output devices</Position>
       <TranslationSet>
         <base loc="en">Could not set output devices</base>
-        <tran loc="es">No se ha podido establecer los dispositivos de salida</tran>
+        <tran loc="es-419">No se pudo definir los dispositivos de salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1059,7 +1059,7 @@
       <Position>Could not get shared output context</Position>
       <TranslationSet>
         <base loc="en">Could not get shared output context</base>
-        <tran loc="es">No se ha podido obtener el contexto de salida compartido</tran>
+        <tran loc="es-419">No se pudo obtener contexto de salida compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1067,7 +1067,7 @@
       <Position>Cannot remove profile.</Position>
       <TranslationSet>
         <base loc="en">Cannot remove profile.</base>
-        <tran loc="es">No se puede eliminar el perfil.</tran>
+        <tran loc="es-419">No se puede eliminar el perfil.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1075,7 +1075,7 @@
       <Position>The program identifier is invalid.</Position>
       <TranslationSet>
         <base loc="en">The program identifier is invalid.</base>
-        <tran loc="es">El identificador del programa no es válido.</tran>
+        <tran loc="es-419">El identificador de programas no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1083,7 +1083,7 @@
       <Position>The device’s location cannot be requested at this time because audit information cannot be saved.</Position>
       <TranslationSet>
         <base loc="en">The device’s location cannot be requested at this time because audit information cannot be saved.</base>
-        <tran loc="es">No se puede solicitar la ubicación del dispositivo en este momento porque no se puede guardar la información de auditoría.</tran>
+        <tran loc="es-419">No se puede solicitar la ubicación del dispositivo por ahora porque no se puede guardar la información de inspección.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1091,7 +1091,7 @@
       <Position>The app installation failed.</Position>
       <TranslationSet>
         <base loc="en">The app installation failed.</base>
-        <tran loc="es">Error durante la instalación de la app.</tran>
+        <tran loc="es-419">Error al instalar la app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1099,7 +1099,7 @@
       <Position>Unknown language.</Position>
       <TranslationSet>
         <base loc="en">Unknown language.</base>
-        <tran loc="es">Idioma desconocido.</tran>
+        <tran loc="es-419">Idioma desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1107,7 +1107,7 @@
       <Position>Could not fetch cellular info.</Position>
       <TranslationSet>
         <base loc="en">Could not fetch cellular info.</base>
-        <tran loc="es">No se ha podido obtener la información de datos móviles.</tran>
+        <tran loc="es-419">No se pudo obtener información celular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1115,7 +1115,7 @@
       <Position>Cannot log out user.</Position>
       <TranslationSet>
         <base loc="en">Cannot log out user.</base>
-        <tran loc="es">No se puede cerrar la sesión del usuario.</tran>
+        <tran loc="es-419">No se puede cerrar la sesión de usuario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1123,7 +1123,7 @@
       <Position>The device cannot proceed.</Position>
       <TranslationSet>
         <base loc="en">The device cannot proceed.</base>
-        <tran loc="es">El dispositivo no puede continuar.</tran>
+        <tran loc="es-419">El dispositivo no puede continuar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1131,7 +1131,7 @@
       <Position>Could not shut down device.</Position>
       <TranslationSet>
         <base loc="en">Could not shut down device.</base>
-        <tran loc="es">No se ha podido apagar el dispositivo.</tran>
+        <tran loc="es-419">No se pudo apagar el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1139,7 +1139,7 @@
       <Position>The specified user is logged in.</Position>
       <TranslationSet>
         <base loc="en">The specified user is logged in.</base>
-        <tran loc="es">El usuario especificado ha iniciado sesión.</tran>
+        <tran loc="es-419">El usuario especificado inició sesión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1147,7 +1147,7 @@
       <Position>An invitation URL is required.</Position>
       <TranslationSet>
         <base loc="en">An invitation URL is required.</base>
-        <tran loc="es">Se necesita una URL de invitación.</tran>
+        <tran loc="es-419">Se necesita una dirección URL de invitación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1155,7 +1155,7 @@
       <Position>An installation is in progress.</Position>
       <TranslationSet>
         <base loc="en">An installation is in progress.</base>
-        <tran loc="es">Hay una instalación en curso.</tran>
+        <tran loc="es-419">Una instalación está en curso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1163,7 +1163,7 @@
       <Position>A program identifier is required.</Position>
       <TranslationSet>
         <base loc="en">A program identifier is required.</base>
-        <tran loc="es">Se necesita un identificador de programa.</tran>
+        <tran loc="es-419">Se necesita un identificador de programas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1171,7 +1171,7 @@
       <Position>Could not play lost mode sound.</Position>
       <TranslationSet>
         <base loc="en">Could not play lost mode sound.</base>
-        <tran loc="es">No se ha podido reproducir el sonido del modo Perdido.</tran>
+        <tran loc="es-419">No se pudo reproducir el sonido del modo perdido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1179,7 +1179,7 @@
       <Position>The replacement media type is invalid.</Position>
       <TranslationSet>
         <base loc="en">The replacement media type is invalid.</base>
-        <tran loc="es">El tipo de contenido de reemplazo no es válido.</tran>
+        <tran loc="es-419">El tipo de contenido de reemplazo no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1187,7 +1187,7 @@
       <Position>Too many apps are in the manifest.</Position>
       <TranslationSet>
         <base loc="en">Too many apps are in the manifest.</base>
-        <tran loc="es">Hay demasiadas apps en el manifiesto.</tran>
+        <tran loc="es-419">El manifiesto tiene demasiadas apps.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1195,7 +1195,7 @@
       <Position>The activation lock bypass code has expired.</Position>
       <TranslationSet>
         <base loc="en">The activation lock bypass code has expired.</base>
-        <tran loc="es">El código de anulación del bloqueo de activación ha caducado.</tran>
+        <tran loc="es-419">El código para ignorar el bloqueo de activación está vencido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1203,7 +1203,7 @@
       <Position>The App Store is not allowed.</Position>
       <TranslationSet>
         <base loc="en">The App Store is not allowed.</base>
-        <tran loc="es">App Store no permitida.</tran>
+        <tran loc="es-419">No se permite App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1211,7 +1211,7 @@
       <Position>The device is not in lost mode.</Position>
       <TranslationSet>
         <base loc="en">The device is not in lost mode.</base>
-        <tran loc="es">El dispositivo no se encuentra en modo Perdido.</tran>
+        <tran loc="es-419">Este dispositivo no tiene activado el modo perdido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1219,7 +1219,7 @@
       <Position>The installation requires a download.</Position>
       <TranslationSet>
         <base loc="en">The installation requires a download.</base>
-        <tran loc="es">Para llevar a cabo la instalación, se necesita realizar una descarga.</tran>
+        <tran loc="es-419">La instalación necesita una descarga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1227,7 +1227,7 @@
       <Position>The client is unauthorized to perform the request.</Position>
       <TranslationSet>
         <base loc="en">The client is unauthorized to perform the request.</base>
-        <tran loc="es">El cliente no tiene autorizaci´pn para realizar esta solicitud.</tran>
+        <tran loc="es-419">El cliente no tiene autorización para realizar esta solicitud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1235,7 +1235,7 @@
       <Position>Could not restart device.</Position>
       <TranslationSet>
         <base loc="en">Could not restart device.</base>
-        <tran loc="es">No se ha podido reiniciar el dispositivo.</tran>
+        <tran loc="es-419">No se pudo reiniciar el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1243,7 +1243,7 @@
       <Position>The download requires a computer.</Position>
       <TranslationSet>
         <base loc="en">The download requires a computer.</base>
-        <tran loc="es">Se necesita un ordenador para realizar la descarga.</tran>
+        <tran loc="es-419">La descargar requiere una computadora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1251,7 +1251,7 @@
       <Position>A download failed.</Position>
       <TranslationSet>
         <base loc="en">A download failed.</base>
-        <tran loc="es">Se ha producido un error de descarga.</tran>
+        <tran loc="es-419">Error en una descarga.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1262,7 +1262,7 @@
       <Position>Process is missing entitlement “%@”</Position>
       <TranslationSet>
         <base loc="en">Process is missing entitlement “%@”</base>
-        <tran loc="es">El proceso no cuenta con la autorización “%@”</tran>
+        <tran loc="es-419">Al proceso le falta la autorización "%@"</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1273,7 +1273,7 @@
       <Position>%@ is about to update the app “%@”.</Position>
       <TranslationSet>
         <base loc="en">%1$@ is about to update the app “%2$@”.</base>
-        <tran loc="es">%1$@ actualizará la app “%2$@”.</tran>
+        <tran loc="es-419">%1$@ actualizará la app “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1281,7 +1281,7 @@
       <Position>%@ would like to assign apps and books to you.</Position>
       <TranslationSet>
         <base loc="en">%@ would like to assign apps and books to you.</base>
-        <tran loc="es">%@ quiere asignarte apps y libros.</tran>
+        <tran loc="es-419">%@ quiere asignarte apps y libros.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1289,7 +1289,7 @@
       <Position>Install</Position>
       <TranslationSet>
         <base loc="en">Install</base>
-        <tran loc="es">Instalar</tran>
+        <tran loc="es-419">Instalar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1297,7 +1297,7 @@
       <Position>AirPlay</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1305,7 +1305,7 @@
       <Position>Sign In</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Acceder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1313,7 +1313,7 @@
       <Position>App Installation</Position>
       <TranslationSet>
         <base loc="en">App Installation</base>
-        <tran loc="es">Instalación de la app</tran>
+        <tran loc="es-419">Instalación de apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1321,7 +1321,7 @@
       <Position>App Management Change</Position>
       <TranslationSet>
         <base loc="en">App Management Change</base>
-        <tran loc="es">Cambio de gestión de la app</tran>
+        <tran loc="es-419">Cambio de control de app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1329,7 +1329,7 @@
       <Position>Update</Position>
       <TranslationSet>
         <base loc="en">Update</base>
-        <tran loc="es">Actualizar</tran>
+        <tran loc="es-419">Actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1337,7 +1337,7 @@
       <Position>Would you like to let %@ take management of the app “%@”? Your app data will become managed.</Position>
       <TranslationSet>
         <base loc="en">Would you like to let %1$@ take management of the app “%2$@”? Your app data will become managed.</base>
-        <tran loc="es">¿Quieres que %1$@ asuma la gestión de la app %2$@? Los datos de la app pasarán a estar gestionados.</tran>
+        <tran loc="es-419">¿Quieres permitir que %1$@ tome control de la app “%2$@”? La datos de tu app quedarán bajo su control.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1345,7 +1345,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1353,7 +1353,7 @@
       <Position>%@ is about to install the app “%@”.\nYour iTunes account will not be charged for this app.</Position>
       <TranslationSet>
         <base loc="en">%1$@ is about to install the app “%2$@”.\nYour iTunes account will not be charged for this app.</base>
-        <tran loc="es">%1$@ instalará la app “%2$@”.\nNo se te cobrará por esta app.</tran>
+        <tran loc="es-419">%1$@ instalará la app "%2$@".\nNo se harán cargos a tu cuenta de iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1361,7 +1361,7 @@
       <Position>Continue</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1369,7 +1369,7 @@
       <Position>%@ is about to install and manage the app “%@” from the App Store.\nYour iTunes account will not be charged for this app.</Position>
       <TranslationSet>
         <base loc="en">%1$@ is about to install and manage the app “%2$@” from the App Store.\nYour iTunes account will not be charged for this app.</base>
-        <tran loc="es">%1$@ instalará y gestionará la app “%2$@” desde App Store.\nNo se te cobrará por esta app.</tran>
+        <tran loc="es-419">%1$@ instalará y administrará la app "%2$@" desde App Store.\nNo se harán cargos a tu cuenta de iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1377,7 +1377,7 @@
       <Position>Dismiss</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1385,7 +1385,7 @@
       <Position>App Update</Position>
       <TranslationSet>
         <base loc="en">App Update</base>
-        <tran loc="es">Actualización</tran>
+        <tran loc="es-419">Actualización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1393,7 +1393,7 @@
       <Position>%@ is about to install and manage the app “%@”.\nYour iTunes account will not be charged for this app.</Position>
       <TranslationSet>
         <base loc="en">%1$@ is about to install and manage the app “%2$@”.\nYour iTunes account will not be charged for this app.</base>
-        <tran loc="es">%1$@ instalará y gestionará la app “%2$@”.\nNo se te cobrará por esta app.</tran>
+        <tran loc="es-419">%1$@ instalará y administrará la app "%2$@".\nNo se harán cargos a tu cuenta de iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1401,7 +1401,7 @@
       <Position>Display</Position>
       <TranslationSet>
         <base loc="en">Display</base>
-        <tran loc="es">Mostrar</tran>
+        <tran loc="es-419">Pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1409,7 +1409,7 @@
       <Position>The app “%@” could not be installed.</Position>
       <TranslationSet>
         <base loc="en">The app “%@” could not be installed.</base>
-        <tran loc="es">No se ha podido instalar la app “%@”.</tran>
+        <tran loc="es-419">No se pudo instalar la app “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1417,7 +1417,7 @@
       <Position>%@ is about to update the app “%@” from the App Store.</Position>
       <TranslationSet>
         <base loc="en">%1$@ is about to update the app “%2$@” from the App Store.</base>
-        <tran loc="es">%1$@ actualizará la app “%2$@” desde App Store.</tran>
+        <tran loc="es-419">%1$@ actualizará la app “%2$@” desde App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1425,7 +1425,7 @@
       <Position>Manage</Position>
       <TranslationSet>
         <base loc="en">Manage</base>
-        <tran loc="es">Gestionar</tran>
+        <tran loc="es-419">Administrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1433,7 +1433,7 @@
       <Position>Sign in to iTunes to allow %@ to manage and install books.</Position>
       <TranslationSet>
         <base loc="en">Sign in to iTunes to allow %@ to manage and install books.</base>
-        <tran loc="es">Inicia sesión en iTunes para que %@ pueda gestionar e instalar libros.</tran>
+        <tran loc="es-419">Conéctate a iTunes para que %@ pueda administrar e instalar libros.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1441,7 +1441,7 @@
       <Position>Would you like to display your %@ on “%@”?</Position>
       <TranslationSet>
         <base loc="en">Would you like to display your %1$@ on “%2$@”?</base>
-        <tran loc="es">¿Quieres mostrar tu %1$@ en “%2$@”?</tran>
+        <tran loc="es-419">¿Quieres que se muestre tu %1$@ en “%2$@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1449,7 +1449,7 @@
       <Position>The location of this device was sent to %@ at %@ on %@.</Position>
       <TranslationSet>
         <base loc="en">The location of this device was sent to %1$@ at %2$@ on %3$@.</base>
-        <tran loc="es">La ubicación de este dispositivo se envió a %1$@ el %3$@ a las %2$@.</tran>
+        <tran loc="es-419">La ubicación de este dispositivo se envió a %1$@ a la(s) %2$@ el %3$@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1457,7 +1457,7 @@
       <Position>Allow App and Book Assignment?</Position>
       <TranslationSet>
         <base loc="en">Allow App and Book Assignment?</base>
-        <tran loc="es">¿Permitir la asignación de apps y libros?</tran>
+        <tran loc="es-419">¿Permitir la asignación de app y libro?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1465,7 +1465,7 @@
       <Position>The app “%@” could not be updated.</Position>
       <TranslationSet>
         <base loc="en">The app “%@” could not be updated.</base>
-        <tran loc="es">No se ha podido actualizar la app “%@”.</tran>
+        <tran loc="es-419">No se pudo actualizar la app “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1473,7 +1473,7 @@
       <Position>Book Installation</Position>
       <TranslationSet>
         <base loc="en">Book Installation</base>
-        <tran loc="es">Instalación de libros</tran>
+        <tran loc="es-419">Instalación de libro</tran>
       </TranslationSet>
     </TextItem>
   </File>

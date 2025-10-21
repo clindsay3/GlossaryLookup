@@ -8,7 +8,7 @@
       <Position>ACKNOWLEDGMENT_HAHA_NAME</Position>
       <TranslationSet>
         <base loc="en">HAHA</base>
-        <tran loc="es">JAJA</tran>
+        <tran loc="es-419">JAJA</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@people@</base>
-        <tran loc="es">%#@people@</tran>
+        <tran loc="es-419">%#@people@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -27,7 +27,7 @@
       <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/people:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">1 Person</base>
-        <tran loc="es">1 persona</tran>
+        <tran loc="es-419">1 persona</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>/GROUPACK_PEOPLE_COUNT_LABEL:dict/people:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%@ People</base>
-        <tran loc="es">%@ personas</tran>
+        <tran loc="es-419">%@ personas</tran>
       </TranslationSet>
     </TextItem>
   </File>

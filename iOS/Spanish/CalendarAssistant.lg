@@ -8,7 +8,7 @@
       <Position>%@ and %@ (three or more end format)</Position>
       <TranslationSet>
         <base loc="en">%@ and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>%@ and %@ (two attendee format)</Position>
       <TranslationSet>
         <base loc="en">%@ and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>%@, %@ (three or more middle format)</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>%@, %@ (three or more start format)</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>%1$@ with %2$@</Position>
       <TranslationSet>
         <base loc="en">%1$@ with %2$@</base>
-        <tran loc="es">%1$@ con %2$@</tran>
+        <tran loc="es-419">%1$@ con %2$@</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -15,7 +15,7 @@
       <Position>FACETIME</Position>
       <TranslationSet>
         <base loc="en">iMessage</base>
-        <tran loc="es">iMessage</tran>
+        <tran loc="es-419">iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -23,7 +23,7 @@
       <Position>FACETIME_EMAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">iMessage</base>
-        <tran loc="es">iMessage</tran>
+        <tran loc="es-419">iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -37,7 +37,7 @@
       <Position>FACETIME_SWITCH_STATUS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">iMessages can be sent between iPhone, iPad, iPod touch, and Mac. Sending or receiving iMessages uses wireless data.</base>
-        <tran loc="es">Los mensajes de iMessage se pueden enviar entre el iPhone, el iPad, el iPod touch y el Mac. Enviar o recibir mensajes de iMessage consume datos inalámbricos.</tran>
+        <tran loc="es-419">Se pueden enviar iMessages entre dispositivos iPhone, iPad, iPod touch y Mac. Enviar o recibir mensajes de iMessage consume datos inalámbricos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -45,7 +45,7 @@
       <Position>FACETIME_REMOVE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Remove from iMessage &amp; FaceTime</base>
-        <tran loc="es">Eliminar de iMessage y FaceTime</tran>
+        <tran loc="es-419">Eliminar de iMessage y FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -53,7 +53,7 @@
       <Position>FACETIME_SWITCH_STATUS_IN_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Waiting for activation…</base>
-        <tran loc="es">Esperando activación…</tran>
+        <tran loc="es-419">Esperando activación…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -61,7 +61,7 @@
       <Position>FACETIME_SETTINGS_ACCOUNT_LABEL</Position>
       <TranslationSet>
         <base loc="en">Apple ID:</base>
-        <tran loc="es">ID de Apple:</tran>
+        <tran loc="es-419">Apple ID:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -69,7 +69,7 @@
       <Position>FACETIME_SIGNIN_ERROR_NO_VALID_ALIASES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verify an email address</base>
-        <tran loc="es">Verificar correo electrónico</tran>
+        <tran loc="es-419">Verificar correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -77,7 +77,7 @@
       <Position>FACETIME_ALERT_DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -85,7 +85,7 @@
       <Position>FACETIME_USERNAME_DESCRIPTION_LABEL</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -93,7 +93,7 @@
       <Position>FACETIME_EMAIL_VALIDATE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Verify Email Address</base>
-        <tran loc="es">Verificar correo electrónico</tran>
+        <tran loc="es-419">Verificar correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -101,7 +101,7 @@
       <Position>FACETIME_SETTINGS_ALIAS_LABEL_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn More…</base>
-        <tran loc="es">Más información…</tran>
+        <tran loc="es-419">Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -109,7 +109,7 @@
       <Position>FACETIME_SIGNIN_ERROR_NEW_PASSWORD_NEEDED</Position>
       <TranslationSet>
         <base loc="en">The password for this Apple ID needs to be updated.</base>
-        <tran loc="es">Debes actualizar la contraseña de este ID de Apple.</tran>
+        <tran loc="es-419">Debes actualizar la contraseña de este Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -119,7 +119,7 @@
       <Position>BUDDY_CALLERID_GENERIC_PHONE</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from your phone number. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde tu número de teléfono. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde tu número de teléfono. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>DELETE_MESSAGES_WARNING_YEAR</Position>
       <TranslationSet>
         <base loc="en">This will permanently delete all text messages and message attachments from your device that are older than 1 year.</base>
-        <tran loc="es">Se eliminarán definitivamente del dispositivo todos los mensajes de texto y los archivos adjuntos a mensajes de hace más de un año.</tran>
+        <tran loc="es-419">Se borrarán permanentemente del dispositivo todos los mensajes de texto y los archivos adjuntos con una antigüedad mayor a un año.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>FACETIME_ACCOUNT_POPUP_SIGN_OUT</Position>
       <TranslationSet>
         <base loc="en">Sign Out</base>
-        <tran loc="es">Cerrar sesión</tran>
+        <tran loc="es-419">Desconectarse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>FACETIME_LOCALE_PHONE_FIELD_LABEL</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>FACETIME_PHONE_ALIAS_STATUS_VALIDATED</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -159,7 +159,7 @@
       <Position>FACETIME_SIGNIN_ERROR_NO_VALID_ALIASES_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A verified email address is required to sign in to iMessage.</base>
-        <tran loc="es">Para iniciar sesión en iMessage se requiere una dirección de correo verificada.</tran>
+        <tran loc="es-419">Para iniciar sesión en iMessage, se necesita un correo electrónico verificado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -167,7 +167,7 @@
       <Position>BUDDY_CALLERID_UNQUOTED_NO_FACETIME_AUDIO_ipad</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from %@. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde %@. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde %@. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -175,7 +175,7 @@
       <Position>BUDDY_CALLERID_UNQUOTED_NO_FACETIME_AUDIO_iphone</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from %@. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde %@. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde %@. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -183,7 +183,7 @@
       <Position>FACETIME_SIGNIN_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -191,7 +191,7 @@
       <Position>FACETIME_EMAIL_CHECK_MAIL_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Unable to verify address. An email with a verification link has been sent to the above email address.</base>
-        <tran loc="es">Imposible verificar la dirección. Se ha enviado un mensaje con un enlace de verificación a la dirección de correo indicada.</tran>
+        <tran loc="es-419">Imposible verificar la dirección. Se envió un mensaje con un enlace de verificación a la dirección de correo indicada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -199,7 +199,7 @@
       <Position>FACETIME_EMAIL_ERROR_NOT_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">This email address cannot be used for iMessage.</base>
-        <tran loc="es">Esta dirección de correo no se puede usar para iMessage.</tran>
+        <tran loc="es-419">Esta dirección de correo no se puede usar para iMessage.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -207,7 +207,7 @@
       <Position>FACETIME_SIGNIN_FORGOT_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Forgot Apple ID or password?</base>
-        <tran loc="es">¿Has olvidado tu ID de Apple o la contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste el Apple ID o la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -215,7 +215,7 @@
       <Position>FACETIME_SIGNIN_CREATE_ACCOUNT_FOOTER_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn More</base>
-        <tran loc="es">Más información</tran>
+        <tran loc="es-419">Más información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -223,7 +223,7 @@
       <Position>FACETIME_ACTIVATION_ERROR_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Unable to contact the iMessage server. Try again.</base>
-        <tran loc="es">Imposible contactar con el servidor de iMessage. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Imposible contactar con el servidor de iMessage. Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -231,7 +231,7 @@
       <Position>FACETIME_SETTINGS_ALIAS_LABEL_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Messages sent to or from your iMessage addresses will appear to others in a single conversation.</base>
-        <tran loc="es">Los mensajes enviados desde tus direcciones de iMessage o recibidos en ellas se mostrarán a los demás en una sola conversación.</tran>
+        <tran loc="es-419">Los mensajes enviados o recibidos de direcciones de iMessage se mostrarán a otros en una sola conversación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -253,7 +253,7 @@
       <Position>FACETIME_ACCOUNT_PAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -261,7 +261,7 @@
       <Position>FACETIME_REMOVE_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This number will no longer be used for iMessage and FaceTime on all your devices. You can still use it for regular phone calls and SMS.</base>
-        <tran loc="es">Se dejará de usar este número en iMessage y FaceTime en todos tus dispositivos. Aún puedes usarlo para realizar llamadas de teléfono y enviar SMS.</tran>
+        <tran loc="es-419">Este número se dejará de usar para iMessage y FaceTime en todos tus dispositivos. Aún lo puedes usar para llamadas telefónicas típicas y mensajes SMS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -269,7 +269,7 @@
       <Position>DELETE_MESSAGES_WARNING_MONTH</Position>
       <TranslationSet>
         <base loc="en">This will permanently delete all text messages and message attachments from your device that are older than 30 days.</base>
-        <tran loc="es">Se eliminarán definitivamente del dispositivo todos los mensajes de texto y los archivos adjuntos a mensajes de hace más de 30 días.</tran>
+        <tran loc="es-419">Se borrarán permanentemente del dispositivo todos los mensajes de texto y los archivos adjuntos con una antigüedad mayor a 30 días.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>FACETIME_ACCOUNT_INFO_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Use your Apple ID for iMessage</base>
-        <tran loc="es">Usa tu ID de Apple para iMessage</tran>
+        <tran loc="es-419">Usa tu Apple ID para iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>FACETIME_ACCOUNT_RESTRICTION_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Account Restriction</base>
-        <tran loc="es">Restricción de cuentas</tran>
+        <tran loc="es-419">Restricción de cuentas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>FACETIME_NETWORK_ERROR_WLAN</Position>
       <TranslationSet>
         <base loc="en">Turn on WLAN to set up iMessage.</base>
-        <tran loc="es">Para configurar iMessage, activa WLAN.</tran>
+        <tran loc="es-419">Para configurar iMessage, activa WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>FACETIME_LOCALE_ERROR_INVALID_PROFILE</Position>
       <TranslationSet>
         <base loc="en">This region and phone number combination cannot be used.</base>
-        <tran loc="es">No se puede usar esta combinación de región y número de teléfono.</tran>
+        <tran loc="es-419">No se puede usar esta combinación de región y número de teléfono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>BUDDY_CALLERID_UNQUOTED_ipad</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from %@. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde %@. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde %@. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>BUDDY_CALLERID_UNQUOTED_iphone</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from %@. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde %@. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde %@. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>FACETIME_ALIAS_INFO_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">N/A</base>
-        <tran loc="es">N/D</tran>
+        <tran loc="es-419">N/D</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>FACETIME_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -347,7 +347,7 @@
       <Position>FACETIME_EMAIL_CHECK_MAIL_LABEL</Position>
       <TranslationSet>
         <base loc="en">Check Mail</base>
-        <tran loc="es">Comprobar correo</tran>
+        <tran loc="es-419">Revisar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>FACETIME_EMAIL_DESCRIPTION_MODERN_ipad</Position>
       <TranslationSet>
         <base loc="en">People will message you\nusing your email address.\nWhat would you like to use?</base>
-        <tran loc="es">Se utilizará tu dirección de correo electrónico para enviarte mensajes. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu dirección de\ncorreo electrónico para enviarte\nmensajes. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -363,7 +363,7 @@
       <Position>FACETIME_EMAIL_DESCRIPTION_MODERN_iphone</Position>
       <TranslationSet>
         <base loc="en">People will message you\nusing your email address.\nWhat would you like to use?</base>
-        <tran loc="es">Se utilizará tu dirección de correo electrónico para enviarte mensajes. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu dirección de\ncorreo electrónico para enviarte\nmensajes. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>FACETIME_NETWORK_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">iMessage Unavailable</base>
-        <tran loc="es">iMessage no disponible</tran>
+        <tran loc="es-419">iMessage no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>FACETIME_NETWORK_ERROR_ROAM</Position>
       <TranslationSet>
         <base loc="en">Use Wi-Fi or enable data roaming to set up iMessage. Additional fees may apply.</base>
-        <tran loc="es">Para configurar iMessage, activa la itinerancia de datos o usa Wi-Fi. Este servicio puede ser de pago.</tran>
+        <tran loc="es-419">Para configurar iMessage, activa el roaming o usa Wi-Fi. Este servicio puede ser de paga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>FACETIME_SIGNIN_ERROR_INVALID_CREDENTIALS_FOR_%@</Position>
       <TranslationSet>
         <base loc="en">The user name or password for “%@” was incorrect. Try again.</base>
-        <tran loc="es">El nombre de usuario o la contraseña para “%@” son incorrectos. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Error en la contraseña o el nombre de usuario de “%@”. Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>FACETIME_EMAIL_ADDRESS_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Email Address</base>
-        <tran loc="es">Correo electrónico</tran>
+        <tran loc="es-419">Correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>ERROR</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>FACETIME_ALIAS_STATUS_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>FACETIME_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>FACETIME_REMOVE_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>FACETIME_ALIAS_MODAL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On iMessage</base>
-        <tran loc="es">Activa iMessage</tran>
+        <tran loc="es-419">Activar iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>FACETIME_APPLE_ID_LEARN_MORE_URL_ipad</Position>
       <TranslationSet>
         <base loc="en">http://support.apple.com/kb/HT6166</base>
-        <tran loc="es">http://support.apple.com/kb/HT6166</tran>
+        <tran loc="es-419">http://support.apple.com/kb/HT6166</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>FACETIME_APPLE_ID_LEARN_MORE_URL_iphone</Position>
       <TranslationSet>
         <base loc="en">http://support.apple.com/kb/HT6166</base>
-        <tran loc="es">http://support.apple.com/kb/HT6166</tran>
+        <tran loc="es-419">http://support.apple.com/kb/HT6166</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>FACETIME_APPLE_ID_LEARN_MORE_URL_ipod</Position>
       <TranslationSet>
         <base loc="en">http://support.apple.com/kb/HT6166</base>
-        <tran loc="es">http://support.apple.com/kb/HT6166</tran>
+        <tran loc="es-419">http://support.apple.com/kb/HT6166</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_GENERIC</Position>
       <TranslationSet>
         <base loc="en">An error occurred during activation. Try again.</base>
-        <tran loc="es">Se ha producido un error durante la activación. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Se presentó un error durante la activación. Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_CELL</Position>
       <TranslationSet>
         <base loc="en">Turn on cellular data or use Wi-Fi to set up iMessage.</base>
-        <tran loc="es">Para configurar iMessage, activa los datos móviles o usa Wi-Fi.</tran>
+        <tran loc="es-419">Para configurar iMessage, activa los datos celulares o usa Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_POPUP_EDIT_LOCATION</Position>
       <TranslationSet>
         <base loc="en">Change Location</base>
-        <tran loc="es">Cambiar ubicación</tran>
+        <tran loc="es-419">Cambiar ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_DESCRIPTION_ipad</Position>
       <TranslationSet>
         <base loc="en">People will message you using your email address. What would you like to use?</base>
-        <tran loc="es">Se utilizará tu dirección de correo electrónico para enviarte mensajes. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu dirección de correo electrónico para enviarte mensajes. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_DESCRIPTION_iphone</Position>
       <TranslationSet>
         <base loc="en">People will message you using your email address. What would you like to use?</base>
-        <tran loc="es">Se utilizará tu dirección de correo electrónico para enviarte mensajes. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu dirección de correo electrónico para enviarte mensajes. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WIFI_ipad</Position>
       <TranslationSet>
         <base loc="en">iMessages can be sent between\niPhone, iPad, iPod touch, and Mac.</base>
-        <tran loc="es">Los mensajes de iMessage se pueden enviar entre\nel iPhone, el iPad, el iPod touch y el Mac.</tran>
+        <tran loc="es-419">Los mensajes de iMessage se pueden enviar entre el iPhone, el iPad, el iPod touch y la Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WIFI_iphone</Position>
       <TranslationSet>
         <base loc="en">iMessages can be sent between\niPhone, iPad, iPod touch, and Mac.</base>
-        <tran loc="es">Los mensajes de iMessage se pueden enviar entre\nel iPhone, el iPad, el iPod touch y el Mac.</tran>
+        <tran loc="es-419">Los mensajes de iMessage se pueden enviar entre el iPhone, el iPad, el iPod touch y la Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WIFI_ipod</Position>
       <TranslationSet>
         <base loc="en">iMessages can be sent between\niPhone, iPad, iPod touch, and Mac.</base>
-        <tran loc="es">Los mensajes de iMessage se pueden enviar entre\nel iPhone, el iPad, el iPod touch y el Mac.</tran>
+        <tran loc="es-419">Los mensajes de iMessage se pueden enviar entre el iPhone, el iPad, el iPod touch y la Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WLAN_ipad</Position>
       <TranslationSet>
         <base loc="en">iMessages can be sent between\niPhone, iPad, iPod touch, and Mac.</base>
-        <tran loc="es">Los mensajes de iMessage se pueden enviar entre\nel iPhone, el iPad, el iPod touch y el Mac.</tran>
+        <tran loc="es-419">Los mensajes de iMessage se pueden enviar entre el iPhone, el iPad, el iPod touch y la Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WLAN_iphone</Position>
       <TranslationSet>
         <base loc="en">iMessages can be sent between\niPhone, iPad, iPod touch, and Mac.</base>
-        <tran loc="es">Los mensajes de iMessage se pueden enviar entre\nel iPhone, el iPad, el iPod touch y el Mac.</tran>
+        <tran loc="es-419">Se puede enviar mensajes de iMessage entre el iPhone, el iPad, el iPod touch y la Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WLAN_ipod</Position>
       <TranslationSet>
         <base loc="en">iMessages can be sent between\niPhone, iPad, iPod touch, and Mac.</base>
-        <tran loc="es">Los mensajes de iMessage se pueden enviar entre\nel iPhone, el iPad, el iPod touch y el Mac.</tran>
+        <tran loc="es-419">Los mensajes de iMessage se pueden enviar entre el iPhone, el iPad, el iPod touch y la Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">About iMessage and FaceTime &amp; Privacy</base>
-        <tran loc="es">Acerca de iMessage, FaceTime y la privacidad</tran>
+        <tran loc="es-419">iMessage y FaceTime, y la privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_ACCOUNT_NOT_AUTHORIZED</Position>
       <TranslationSet>
         <base loc="en">The provided Apple ID needs some additional information in order to proceed.</base>
-        <tran loc="es">Para poder continuar, debes introducir información adicional acerca del ID de Apple.</tran>
+        <tran loc="es-419">Para poder continuar, debes ingresar información adicional acerca del Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_DESCRIPTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Location</base>
-        <tran loc="es">Ubicación</tran>
+        <tran loc="es-419">Ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SETTINGS_CALL_GROUP_LABEL</Position>
       <TranslationSet>
         <base loc="en">START NEW CONVERSATIONS FROM</base>
-        <tran loc="es">INICIAR NUEVAS CONVERSACIONES DESDE</tran>
+        <tran loc="es-419">INICIAR NUEVAS CONVERSACIONES DESDE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ERROR_IN_USE</Position>
       <TranslationSet>
         <base loc="en">Unable to verify email because it is already in use.</base>
-        <tran loc="es">No se ha podido verificar el correo porque ya está en uso.</tran>
+        <tran loc="es-419">No se pudo verificar el correo porque ya está en uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_DISABLED_TURN_ON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Turn iMessage On</base>
-        <tran loc="es">Activar iMessage</tran>
+        <tran loc="es-419">Activar iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ALIAS_SUMMARY_%@_EMAIL_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">%@ Email Addresses</base>
-        <tran loc="es">%@ direcciones de correo electrónico</tran>
+        <tran loc="es-419">%@ direcciones de correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SUBSCRIPTION_BADGE_CELL_AND</Position>
       <TranslationSet>
         <base loc="en">&amp;</base>
-        <tran loc="es">y</tran>
+        <tran loc="es-419">y</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_GENERIC_PHONE_NO_FACETIME_AUDIO</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from your phone number. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde tu número de teléfono. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde tu número de teléfono. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +633,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_TIMEOUT</Position>
       <TranslationSet>
         <base loc="en">Could not sign in. Please check your network connection and try again.</base>
-        <tran loc="es">Imposible iniciar sesión. Comprueba tu conexión de red e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Imposible conectarse. Verifica tu conexión de red y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +641,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>DELETE_MESSAGES_WARNING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Delete Older Messages?</base>
-        <tran loc="es">¿Eliminar los mensajes antiguos?</tran>
+        <tran loc="es-419">¿Eliminar mensajes antiguos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +649,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ALIAS_STATUS_VALIDATED</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_REMOVE_ALERT_REMOVE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ERROR_GENERIC</Position>
       <TranslationSet>
         <base loc="en">An error occurred while verifying your email</base>
-        <tran loc="es">Se ha producido un error al verificar el correo</tran>
+        <tran loc="es-419">Se presentó un error al verificar el correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_DISABLED_DESCRIPTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">iMessage Settings</base>
-        <tran loc="es">Ajustes de iMessage</tran>
+        <tran loc="es-419">Configuración de iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -687,7 +687,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_POPUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">iMessage Account</base>
-        <tran loc="es">Cuenta de iMessage</tran>
+        <tran loc="es-419">Cuenta iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +695,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_QUOTED_NO_FACETIME_AUDIO_ipad</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from “%@.” You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde “%@”. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde “%@”. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +703,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_QUOTED_NO_FACETIME_AUDIO_iphone</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from “%@.” You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde “%@”. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde “%@”. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +711,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALIAS_STATUS_VALIDATING</Position>
       <TranslationSet>
         <base loc="en">Verifying…</base>
-        <tran loc="es">Verificando…</tran>
+        <tran loc="es-419">Verificando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +719,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn more about iMessage</base>
-        <tran loc="es">Más información sobre iMessage</tran>
+        <tran loc="es-419">Más información sobre iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +727,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -735,7 +735,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ADDRESS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Address</base>
-        <tran loc="es">Dirección</tran>
+        <tran loc="es-419">Dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -743,7 +743,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_FORGOT_PASSWORD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID Password</base>
-        <tran loc="es">Contraseña del ID de Apple</tran>
+        <tran loc="es-419">Contraseña del Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -751,7 +751,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SWITCH_STATUS_FAILED</Position>
       <TranslationSet>
         <base loc="en">Activation unsuccessful.\nTurn on iMessage to try again.</base>
-        <tran loc="es">Activación incorrecta.\nActiva iMessage para intentarlo de nuevo.</tran>
+        <tran loc="es-419">Activación incorrecta.\nActiva iMessage para intentarlo de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -759,7 +759,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_QUOTED_ipad</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from “%@.” You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde “%@”. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde “%@”. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_QUOTED_iphone</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from “%@.” You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde “%@”. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde “%@”. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -775,7 +775,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_NO_VALID_ALIASES_ACTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verify</base>
-        <tran loc="es">Verificar</tran>
+        <tran loc="es-419">Verificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>YOUR_NUMBER_STRING</Position>
       <TranslationSet>
         <base loc="en">Your Phone Number</base>
-        <tran loc="es">Tu número de teléfono</tran>
+        <tran loc="es-419">Tu número de teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -791,7 +791,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_PHONE_FIELD_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Please provide a sample phone number for this region.</base>
-        <tran loc="es">Introduce un número de teléfono de ejemplo de esta región.</tran>
+        <tran loc="es-419">Ingresa un número de teléfono de ejemplo de esta región.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -799,7 +799,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_WIFI</Position>
       <TranslationSet>
         <base loc="en">Turn on Wi-Fi to set up iMessage.</base>
-        <tran loc="es">Para configurar iMessage, activa Wi-Fi.</tran>
+        <tran loc="es-419">Para configurar iMessage, activa Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -807,7 +807,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_GET_STARTED</Position>
       <TranslationSet>
         <base loc="en">Get Started</base>
-        <tran loc="es">Empezar</tran>
+        <tran loc="es-419">Empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -815,7 +815,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Choose a country or region to allow iMessage to message local numbers in your address book.</base>
-        <tran loc="es">Selecciona un país o una región para que iMessage pueda enviar mensajes a los números locales de tu agenda.</tran>
+        <tran loc="es-419">Selecciona un país o una región para que iMessage pueda enviar mensajes a los números locales de tu agenda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -823,7 +823,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_CREATION_ERROR_MESSAGE_iphone</Position>
       <TranslationSet>
         <base loc="en">This iPhone is restricted from creating iMessage accounts.</base>
-        <tran loc="es">La creación de cuentas de iMessage está restringida en este iPhone.</tran>
+        <tran loc="es-419">La creación de cuentas iMessage está restringida en este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -831,7 +831,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_FORGOT_PASSWORD_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">Get Password</base>
-        <tran loc="es">Restablecer</tran>
+        <tran loc="es-419">Restablecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -846,7 +846,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_COUNTRY_SELECT_LABEL</Position>
       <TranslationSet>
         <base loc="en">Region</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -854,7 +854,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_DISABLED_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">You have iMessage turned off in Settings. Would you like to turn it back on?</base>
-        <tran loc="es">iMessage está desactivado en Ajustes. ¿Quieres activarlo?</tran>
+        <tran loc="es-419">iMessage está desactivado en Configuración. ¿Quieres activarlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -862,7 +862,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_COULDNT_LAUNCH_MAIL</Position>
       <TranslationSet>
         <base loc="en">Could not launch Mail.</base>
-        <tran loc="es">No se ha podido abrir Mail.</tran>
+        <tran loc="es-419">No se pudo abrir Mail.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -870,7 +870,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_ROAM_WLAN</Position>
       <TranslationSet>
         <base loc="en">Use WLAN or enable data roaming to set up iMessage. Additional fees may apply.</base>
-        <tran loc="es">Para configurar iMessage, activa la itinerancia de datos o usa WLAN. Este servicio puede ser de pago.</tran>
+        <tran loc="es-419">Para configurar iMessage, activa el roaming o usa WLAN. Este servicio puede ser de paga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -878,7 +878,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_CELL_NO_WIFI</Position>
       <TranslationSet>
         <base loc="en">Turn on cellular data to set up iMessage.</base>
-        <tran loc="es">Para configurar iMessage, activa los datos móviles.</tran>
+        <tran loc="es-419">Para configurar iMessage, activa los datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -891,7 +891,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ALIAS_SUMMARY_NO_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">No Addresses</base>
-        <tran loc="es">Ninguna dirección</tran>
+        <tran loc="es-419">Ninguna dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -899,7 +899,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_FORGOT_PASSWORD_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your password was entered incorrectly too many times.</base>
-        <tran loc="es">Has introducido una contraseña incorrecta demasiadas veces.</tran>
+        <tran loc="es-419">Ingresaste una contraseña incorrecta demasiadas veces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_ALIAS_LABEL_WITH_URL_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Messages sent to or from your iMessage addresses will appear to others in a single conversation. %@</base>
-        <tran loc="es">Los mensajes enviados desde tus direcciones de iMessage o recibidos en ellas se mostrarán a los demás en una sola conversación. %@</tran>
+        <tran loc="es-419">Los mensajes enviados o recibidos de direcciones de iMessage se mostrarán a otros en una sola conversación. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -915,7 +915,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_PASSWORD_LABEL</Position>
       <TranslationSet>
         <base loc="en">required</base>
-        <tran loc="es">obligatorio</tran>
+        <tran loc="es-419">obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -923,7 +923,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_PASSWORD_DESCRIPTION_LABEL</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -931,7 +931,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALIAS_STATUS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -939,7 +939,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_AND_PHONE_DESCRIPTION_MODERN_ipad</Position>
       <TranslationSet>
         <base loc="en">People will message you using\nyour phone number and email address.\nWhat would you like to use?</base>
-        <tran loc="es">Se utilizará tu número de teléfono y tu dirección de correo electrónico para enviarte mensajes. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu número de teléfono\ny tu dirección de correo electrónico para\nenviarte mensajes. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -947,7 +947,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_AND_PHONE_DESCRIPTION_MODERN_iphone</Position>
       <TranslationSet>
         <base loc="en">People will message you using\nyour phone number and email address.\nWhat would you like to use?</base>
-        <tran loc="es">Se utilizará tu número de teléfono y tu dirección de correo electrónico para enviarte mensajes. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu número de teléfono\ny tu dirección de correo electrónico para\nenviarte mensajes. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -955,7 +955,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACTIVATION_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">iMessage Activation</base>
-        <tran loc="es">Activación de iMessage</tran>
+        <tran loc="es-419">Activación de iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -963,7 +963,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_USERNAME_LABEL</Position>
       <TranslationSet>
         <base loc="en">example@icloud.com</base>
-        <tran loc="es">ejemplo@icloud.com</tran>
+        <tran loc="es-419">ejemplo@icloud.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -971,7 +971,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_CREATION_ERROR_MESSAGE_ipod</Position>
       <TranslationSet>
         <base loc="en">This iPod touch is restricted from creating iMessage accounts.</base>
-        <tran loc="es">La creación de cuentas de iMessage está restringida en este iPod touch.</tran>
+        <tran loc="es-419">La creación de cuentas iMessage está restringida en este iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -979,7 +979,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>VERIFYING</Position>
       <TranslationSet>
         <base loc="en">Verifying</base>
-        <tran loc="es">Verificando</tran>
+        <tran loc="es-419">Verificando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -987,7 +987,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -995,7 +995,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_CREATE_ACCOUNT_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Create new Apple ID</base>
-        <tran loc="es">Crear nuevo ID de Apple</tran>
+        <tran loc="es-419">Crear nuevo Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1003,7 +1003,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_UNABLE_TO_ADD_ALIAS_%@</Position>
       <TranslationSet>
         <base loc="en">Unable to add the email address “%@”.</base>
-        <tran loc="es">No se ha podido añadir la dirección de correo electrónico “%@”.</tran>
+        <tran loc="es-419">No se pudo agregar la dirección de correo electrónico “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1011,7 +1011,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ALIAS_SUMMARY_%@_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">%@ Addresses</base>
-        <tran loc="es">%@ direcciones</tran>
+        <tran loc="es-419">%@ direcciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1019,7 +1019,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_ROAM_NO_WIFI</Position>
       <TranslationSet>
         <base loc="en">Enable data roaming to set up iMessage. Additional fees may apply.</base>
-        <tran loc="es">Para configurar iMessage, activa la itinerancia de datos. Este servicio puede ser de pago.</tran>
+        <tran loc="es-419">Para configurar iMessage, activa el roaming. Este servicio puede ser de paga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1027,7 +1027,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_MISSING_REGION_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Please select a region.</base>
-        <tran loc="es">Selecciona una región.</tran>
+        <tran loc="es-419">Selecciona una región.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1035,7 +1035,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_AND_PHONE_DESCRIPTION_ipad</Position>
       <TranslationSet>
         <base loc="en">People will message you using your phone number and email address. What would you like to use?</base>
-        <tran loc="es">Se utilizará tu número de teléfono y tu dirección de correo electrónico para enviarte mensajes. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu número de teléfono y tu dirección de correo electrónico para enviarte mensajes. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1043,7 +1043,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_AND_PHONE_DESCRIPTION_iphone</Position>
       <TranslationSet>
         <base loc="en">People will message you using your phone number and email address. What would you like to use?</base>
-        <tran loc="es">Se utilizará tu número de teléfono y tu dirección de correo electrónico para enviarte mensajes. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu número de teléfono y tu dirección de correo electrónico para enviarte mensajes. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1051,7 +1051,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_BLANK_USERNAME</Position>
       <TranslationSet>
         <base loc="en">Please enter a valid user name.</base>
-        <tran loc="es">Introduce un nombre de usuario válido.</tran>
+        <tran loc="es-419">Ingresa un nombre de usuario válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1059,7 +1059,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SIGNING_IN</Position>
       <TranslationSet>
         <base loc="en">Signing in…</base>
-        <tran loc="es">Iniciando sesión…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1067,7 +1067,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_LEARN_MORE_URL</Position>
       <TranslationSet>
         <base loc="en">http://www.apple.com/ios/messages</base>
-        <tran loc="es">http://www.apple.com/es/ios/messages</tran>
+        <tran loc="es-419">http://www.apple.com/la/ios/messages</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1082,7 +1082,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_SETTINGS_BLURB</Position>
       <TranslationSet>
         <base loc="en">Sign in with your Apple ID to activate Messages.</base>
-        <tran loc="es">Para activar Mensajes, inicia sesión con tu ID de Apple.</tran>
+        <tran loc="es-419">Para activar Mensajes, inicia sesión con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1090,7 +1090,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_CELL_WLAN</Position>
       <TranslationSet>
         <base loc="en">Turn on cellular data or use WLAN to set up iMessage.</base>
-        <tran loc="es">Para configurar iMessage, activa los datos móviles o usa WLAN.</tran>
+        <tran loc="es-419">Para configurar iMessage, activa los datos celulares o usa WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1098,7 +1098,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SWITCH_STATUS_DEFAULT_WITH_WARNING</Position>
       <TranslationSet>
         <base loc="en">iMessages can be sent between iPhone, iPad, iPod touch, and Mac. The number of this iPhone will be sent to Apple to set up iMessage. Sending or receiving iMessages uses wireless data.</base>
-        <tran loc="es">Los mensajes de iMessage se pueden enviar entre el iPhone, el iPad, el iPod touch y el Mac. El número de este iPhone se enviará a Apple para configurar iMessage. Enviar o recibir mensajes de iMessage consume datos inalámbricos.</tran>
+        <tran loc="es-419">Se pueden enviar iMessages entre dispositivos iPhone, iPad, iPod touch y Mac. Se enviará el número de este iPhone a Apple para configurar iMessage. Enviar o recibir mensajes de iMessage consume datos inalámbricos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1106,7 +1106,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1115,7 +1115,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_CREATE_ACCOUNT_FOOTER_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Use a single Apple ID for all Apple services. %@</base>
-        <tran loc="es">Usa un único ID de Apple para todos los servicios de Apple. %@</tran>
+        <tran loc="es-419">Usar un único Apple ID para todos los servicios de Apple. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1123,7 +1123,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_CREATION_ERROR_MESSAGE_ipad</Position>
       <TranslationSet>
         <base loc="en">This iPad is restricted from creating iMessage accounts.</base>
-        <tran loc="es">La creación de cuentas de iMessage está restringida en este iPad.</tran>
+        <tran loc="es-419">La creación de cuentas iMessage está restringida en este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1131,7 +1131,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1139,7 +1139,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_ALIAS_LABEL_ipad</Position>
       <TranslationSet>
         <base loc="en">YOU CAN RECEIVE IMESSAGES TO AND REPLY FROM</base>
-        <tran loc="es">PUEDES RECIBIR MENSAJES DE IMESSAGE Y RESPONDER CON</tran>
+        <tran loc="es-419">PUEDES RECIBIR MENSAJES Y RESPONDER EN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1147,7 +1147,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_ALIAS_LABEL_iphone</Position>
       <TranslationSet>
         <base loc="en">YOU CAN RECEIVE IMESSAGES TO AND REPLY FROM</base>
-        <tran loc="es">PUEDES RECIBIR MENSAJES DE IMESSAGE Y RESPONDER CON</tran>
+        <tran loc="es-419">PUEDES RECIBIR MENSAJES Y RESPONDER EN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1155,7 +1155,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1166,7 +1166,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_DISABLED_TURN_ON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Turn FaceTime On</base>
-        <tran loc="es">Activar FaceTime</tran>
+        <tran loc="es-419">Activar FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1174,7 +1174,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_REMOVE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Remove from iMessage &amp; FaceTime</base>
-        <tran loc="es">Eliminar de iMessage y FaceTime</tran>
+        <tran loc="es-419">Eliminar de iMessage y FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1182,7 +1182,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_DISABLED_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">You have FaceTime turned off in Settings. Would you like to turn it back on?</base>
-        <tran loc="es">FaceTime está desactivado en Ajustes. ¿Quieres activarlo?</tran>
+        <tran loc="es-419">FaceTime está desactivado en Configuración. ¿Quieres activarlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1190,7 +1190,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SWITCH_STATUS_IN_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Waiting for activation…</base>
-        <tran loc="es">Esperando activación…</tran>
+        <tran loc="es-419">Esperando activación…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1198,7 +1198,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_ACCOUNT_LABEL</Position>
       <TranslationSet>
         <base loc="en">Apple ID:</base>
-        <tran loc="es">ID de Apple:</tran>
+        <tran loc="es-419">Apple ID:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1206,7 +1206,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_NO_NUMBER_WLAN</Position>
       <TranslationSet>
         <base loc="en">FaceTime requires an active WLAN connection or an eligible cellular data plan. To enable FaceTime over cellular on this account, visit %@</base>
-        <tran loc="es">FaceTime requiere una conexión WLAN activa o un plan de datos móviles adecuado. Para activar FaceTime por la red móvil en esta cuenta, visita %@</tran>
+        <tran loc="es-419">FaceTime requiere una conexión WLAN activa o un plan de datos celulares adecuado. Para activar FaceTime por la red de telefonía móvil en esta cuenta, visita %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1214,7 +1214,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_NO_VALID_ALIASES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verify an email address</base>
-        <tran loc="es">Verificar correo electrónico</tran>
+        <tran loc="es-419">Verificar correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1222,7 +1222,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_NO_INFO_WLAN</Position>
       <TranslationSet>
         <base loc="en">FaceTime requires an active WLAN connection or an eligible cellular data plan. To enable FaceTime over cellular on this account, contact %@.</base>
-        <tran loc="es">FaceTime requiere una conexión WLAN activa o un plan de datos móviles adecuado. Para activar FaceTime por la red móvil en esta cuenta, contacta con %@.</tran>
+        <tran loc="es-419">FaceTime requiere una conexión WLAN activa o un plan de datos celulares adecuado. Para activar FaceTime por la red de telefonía móvil en esta cuenta, contacta con %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1230,7 +1230,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_USERNAME_DESCRIPTION_LABEL</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1238,7 +1238,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_VALIDATE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Verify Email Address</base>
-        <tran loc="es">Verificar correo electrónico</tran>
+        <tran loc="es-419">Verificar correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1246,7 +1246,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_NEW_PASSWORD_NEEDED</Position>
       <TranslationSet>
         <base loc="en">The password for this Apple ID needs to be updated.</base>
-        <tran loc="es">Debes actualizar la contraseña de este ID de Apple.</tran>
+        <tran loc="es-419">Debes actualizar la contraseña de este Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_GENERIC_PHONE</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from your phone number. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde tu número de teléfono. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde tu número de teléfono. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1270,7 +1270,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_POPUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">FaceTime Account</base>
-        <tran loc="es">Cuenta de FaceTime</tran>
+        <tran loc="es-419">Cuenta de FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1278,7 +1278,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SETTINGS_CALL_GROUP_LABEL</Position>
       <TranslationSet>
         <base loc="en">CALLER ID</base>
-        <tran loc="es">IDENTIFICACIÓN DE LLAMADA</tran>
+        <tran loc="es-419">IDENTIFICADOR DE LLAMADA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1286,7 +1286,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_POPUP_SIGN_OUT</Position>
       <TranslationSet>
         <base loc="en">Sign Out</base>
-        <tran loc="es">Cerrar sesión</tran>
+        <tran loc="es-419">Desconectarse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1301,7 +1301,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1309,7 +1309,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_TITLE</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1317,7 +1317,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_TITLE</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1325,7 +1325,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_PHONE_FIELD_LABEL</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1333,7 +1333,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_PHONE_ALIAS_STATUS_VALIDATED</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1341,7 +1341,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_UNQUOTED_NO_FACETIME_AUDIO_ipad</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from %@. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde %@. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde %@. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1349,7 +1349,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_UNQUOTED_NO_FACETIME_AUDIO_iphone</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from %@. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde %@. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde %@. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1357,7 +1357,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_AND_PHONE_DESCRIPTION_ipad</Position>
       <TranslationSet>
         <base loc="en">People will call you using your phone number and email address. What would you like to use?</base>
-        <tran loc="es">Se utilizará tu número de teléfono y tu dirección de correo electrónico para llamarte. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu número de teléfono y tu dirección de correo electrónico para llamarte. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1365,7 +1365,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_AND_PHONE_DESCRIPTION_iphone</Position>
       <TranslationSet>
         <base loc="en">People will call you using your phone number and email address. What would you like to use?</base>
-        <tran loc="es">Se utilizará tu número de teléfono y tu dirección de correo electrónico para llamarte. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu número de teléfono y tu dirección de correo electrónico para llamarte. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1373,7 +1373,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1381,7 +1381,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_CHECK_MAIL_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Unable to verify address. An email with a verification link has been sent to the above email address.</base>
-        <tran loc="es">Imposible verificar la dirección. Se ha enviado un mensaje con un enlace de verificación a la dirección de correo indicada.</tran>
+        <tran loc="es-419">Imposible verificar la dirección. Se envió un mensaje con un enlace de verificación a la dirección de correo indicada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1390,7 +1390,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_INFO_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Use your Apple ID for FaceTime</base>
-        <tran loc="es">Usa tu ID de Apple para FaceTime</tran>
+        <tran loc="es-419">Usa tu Apple ID para FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1398,7 +1398,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_AND_PHONE_DESCRIPTION_MODERN_iphone</Position>
       <TranslationSet>
         <base loc="en">People will call you\nusing your phone number and email address.\nWhat would you like to use?</base>
-        <tran loc="es">Se utilizará tu número de teléfono y tu dirección de correo electrónico para llamarte. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu número\nde teléfono y tu dirección de correo electrónico\npara llamarte. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1406,7 +1406,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_FORGOT_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Forgot Apple ID or password?</base>
-        <tran loc="es">¿Has olvidado tu ID de Apple o la contraseña?</tran>
+        <tran loc="es-419">¿Olvidaste el Apple ID o la contraseña?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1414,7 +1414,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_CREATE_ACCOUNT_FOOTER_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn More</base>
-        <tran loc="es">Más información</tran>
+        <tran loc="es-419">Más información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1436,7 +1436,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_PAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1444,7 +1444,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_THUMPER_WIFI_ipad</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPad using Wi-Fi.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPad mediante una red Wi‑Fi.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPad mediante Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1452,7 +1452,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_REMOVE_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This number will no longer be used for iMessage and FaceTime on all your devices. You can still use it for regular phone calls and SMS.</base>
-        <tran loc="es">Se dejará de usar este número en iMessage y FaceTime en todos tus dispositivos. Aún puedes usarlo para realizar llamadas de teléfono y enviar SMS.</tran>
+        <tran loc="es-419">Este número se dejará de usar para iMessage y FaceTime en todos tus dispositivos. Aún lo puedes usar para llamadas telefónicas típicas y mensajes SMS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1460,7 +1460,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_ROAM</Position>
       <TranslationSet>
         <base loc="en">Use Wi-Fi or enable data roaming to set up FaceTime. Additional fees may apply.</base>
-        <tran loc="es">Para configurar FaceTime, activa la itinerancia de datos o usa Wi-Fi. Este servicio puede ser de pago.</tran>
+        <tran loc="es-419">Para configurar FaceTime, activa el roaming o usa Wi-Fi. Este servicio puede ser de paga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1468,7 +1468,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_CELL</Position>
       <TranslationSet>
         <base loc="en">Turn on cellular data or use Wi-Fi to set up FaceTime.</base>
-        <tran loc="es">Para configurar FaceTime, activa los datos móviles o usa Wi-Fi.</tran>
+        <tran loc="es-419">Para configurar FaceTime, activa los datos celulares o usa Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1481,7 +1481,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_RESTRICTION_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Account Restriction</base>
-        <tran loc="es">Restricción de cuentas</tran>
+        <tran loc="es-419">Restricción de cuentas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1489,7 +1489,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_ERROR_INVALID_PROFILE</Position>
       <TranslationSet>
         <base loc="en">This region and phone number combination cannot be used.</base>
-        <tran loc="es">No se puede usar esta combinación de región y número de teléfono.</tran>
+        <tran loc="es-419">No se puede usar esta combinación de región y número de teléfono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1502,7 +1502,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">FaceTime Unavailable</base>
-        <tran loc="es">FaceTime no disponible</tran>
+        <tran loc="es-419">FaceTime no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1510,7 +1510,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_THUMPER_CELLULAR_WLAN_ipod</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPod touch using WLAN.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPod touch mediante una red WLAN.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPod touch mediante WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1518,7 +1518,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_THUMPER_WLAN_ipod</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPod touch using WLAN.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPod touch mediante una red WLAN.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPod touch mediante WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_PHOTOS_SWITCH_LABEL</Position>
       <TranslationSet>
         <base loc="en">FaceTime Live Photos</base>
-        <tran loc="es">Live Photos de FaceTime</tran>
+        <tran loc="es-419">Live Photos en FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_THUMPER_%@_WLAN_ipad</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPad using WLAN. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPad mediante una red WLAN. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPad mediante WLAN. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SWITCH_STATUS_DEFAULT_WITH_WARNING_iphone</Position>
       <TranslationSet>
         <base loc="en">People can contact you on all your devices with FaceTime, using your phone number or email address. The number of this iPhone will be sent to Apple to set up FaceTime. Making or receiving FaceTime calls uses wireless data.</base>
-        <tran loc="es">Pueden contactarte en todos tus dispositivos por FaceTime utilizando tu número de teléfono o tus direcciones de correo. El número de este iPhone se enviará a Apple para configurar FaceTime. Al realizar o recibir una llamada de FaceTime se usan datos móviles.</tran>
+        <tran loc="es-419">Pueden contactarte en todos tus dispositivos con FaceTime utilizando tu número de teléfono o tus direcciones de correo. Se enviará el número de este iPhone a Apple para configurar FaceTime. Realizar o recibir llamadas de FaceTime usa datos inalámbricos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_UNQUOTED_ipad</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from %@. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde %@. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde %@. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_UNQUOTED_iphone</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from %@. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde %@. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde %@. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_NO_VALID_ALIASES_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A verified email address is required to sign in to FaceTime.</base>
-        <tran loc="es">Para iniciar sesión en FaceTime se requiere una dirección de correo verificada.</tran>
+        <tran loc="es-419">Para iniciar sesión en FaceTime, se necesita un correo electrónico verificado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALIAS_INFO_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">N/A</base>
-        <tran loc="es">N/D</tran>
+        <tran loc="es-419">N/D</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WIFI_iphone</Position>
       <TranslationSet>
         <base loc="en">Make and receive video calls over\nWi-Fi or your cellular network.</base>
-        <tran loc="es">Realiza y recibe videollamadas a través de una red Wi-Fi o de la red de telefonía móvil.</tran>
+        <tran loc="es-419">Realiza y recibe videollamadas a través de una red Wi-Fi o de tu red celular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WIFI_ipod</Position>
       <TranslationSet>
         <base loc="en">Make and receive video calls over\nWi-Fi or your cellular network.</base>
-        <tran loc="es">Realiza y recibe videollamadas a través de una red Wi-Fi o de la red de telefonía móvil.</tran>
+        <tran loc="es-419">Realiza y recibe videollamadas a través de una red Wi-Fi o de tu red celular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1610,7 +1610,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Calls from iPhone</base>
-        <tran loc="es">Llamadas desde el iPhone</tran>
+        <tran loc="es-419">Llamadas con datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1618,7 +1618,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_HOST_FOOTER_WLAN</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls on devices signed into your iCloud account when they are nearby and on WLAN.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas en los dispositivos en los que hayas iniciado sesión en tu cuenta de iCloud cuando estén cerca y conectados a una red WLAN.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para hacer y recibir llamadas en dispositivos conectados a tu cuenta de iCloud cuando estén cerca y conectados por WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1626,7 +1626,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_CHECK_MAIL_LABEL</Position>
       <TranslationSet>
         <base loc="en">Check Mail</base>
-        <tran loc="es">Comprobar correo</tran>
+        <tran loc="es-419">Revisar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1634,7 +1634,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_PHOTOS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Allow Live Photos to be captured during a FaceTime Video call.</base>
-        <tran loc="es">Permite capturar Live Photos durante una llamada FaceTime de vídeo.</tran>
+        <tran loc="es-419">Si se activa, se podrán tomar Live Photos durante una llamada de video de FaceTime.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1642,7 +1642,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_HOST_FOOTER_WIFI</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls on devices signed into your iCloud account when they are nearby and on Wi-Fi.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas en los dispositivos en los que hayas iniciado sesión en tu cuenta de iCloud cuando estén cerca y conectados a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para hacer y recibir llamadas en dispositivos conectados a tu cuenta de iCloud cuando estén cerca y conectados por Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1650,7 +1650,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WLAN</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls when your iPhone is nearby and on WLAN.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas cuando el iPhone esté cerca y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para hacer y recibir llamadas cuando tu iPhone esté cerca y conectado a WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1658,7 +1658,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_NO_INFO_WIFI</Position>
       <TranslationSet>
         <base loc="en">FaceTime requires an active Wi-Fi connection or an eligible cellular data plan. To enable FaceTime over cellular on this account, contact %@.</base>
-        <tran loc="es">FaceTime requiere una conexión Wi-Fi activa o un plan de datos móviles adecuado. Para activar FaceTime por la red móvil en esta cuenta, contacta con %@.</tran>
+        <tran loc="es-419">FaceTime requiere una conexión Wi-Fi activa o un plan de datos celulares adecuado. Para activar FaceTime por la red de telefonía móvil en esta cuenta, contacta con %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1666,7 +1666,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_INVALID_CREDENTIALS_FOR_%@</Position>
       <TranslationSet>
         <base loc="en">The user name or password for “%@” was incorrect. Try again.</base>
-        <tran loc="es">El nombre de usuario o la contraseña para “%@” son incorrectos. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Error en la contraseña o el nombre de usuario de “%@”. Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1674,7 +1674,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ADDRESS_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Email Address</base>
-        <tran loc="es">Correo electrónico</tran>
+        <tran loc="es-419">Correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1682,7 +1682,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_DISABLED_DESCRIPTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">FaceTime Settings</base>
-        <tran loc="es">Ajustes de FaceTime</tran>
+        <tran loc="es-419">Configuración de FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1690,7 +1690,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ERROR</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1698,7 +1698,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALIAS_STATUS_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1706,7 +1706,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1714,7 +1714,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_REMOVE_ALERT_CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1722,7 +1722,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_ALL_INFO_WLAN</Position>
       <TranslationSet>
         <base loc="en">FaceTime requires an active WLAN connection or an eligible cellular data plan. To enable FaceTime over cellular on this account, contact %@ at %@ or visit %@</base>
-        <tran loc="es">FaceTime requiere una conexión WLAN activa o un plan de datos móviles adecuado. Para activar FaceTime por la red móvil en esta cuenta, contacta con %@ en %@ o visita %@</tran>
+        <tran loc="es-419">FaceTime requiere una conexión WLAN activa o un plan de datos celulares adecuado. Para activar FaceTime por la red de telefonía móvil en esta cuenta, contacta con %@ en %@ o visita %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1730,7 +1730,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Choose a country or region to allow FaceTime to dial local numbers in your address book.</base>
-        <tran loc="es">Selecciona un país o una región para que FaceTime pueda marcar los números locales de tu agenda.</tran>
+        <tran loc="es-419">Selecciona un país o una región para que FaceTime pueda marcar los números locales de tu agenda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1738,7 +1738,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_APPLE_ID_LEARN_MORE_URL_ipad</Position>
       <TranslationSet>
         <base loc="en">http://support.apple.com/kb/HT6166</base>
-        <tran loc="es">http://support.apple.com/kb/HT6166</tran>
+        <tran loc="es-419">http://support.apple.com/kb/HT6166</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1746,7 +1746,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_APPLE_ID_LEARN_MORE_URL_iphone</Position>
       <TranslationSet>
         <base loc="en">http://support.apple.com/kb/HT6166</base>
-        <tran loc="es">http://support.apple.com/kb/HT6166</tran>
+        <tran loc="es-419">http://support.apple.com/kb/HT6166</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1754,7 +1754,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_APPLE_ID_LEARN_MORE_URL_ipod</Position>
       <TranslationSet>
         <base loc="en">http://support.apple.com/kb/HT6166</base>
-        <tran loc="es">http://support.apple.com/kb/HT6166</tran>
+        <tran loc="es-419">http://support.apple.com/kb/HT6166</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1763,7 +1763,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_GENERIC</Position>
       <TranslationSet>
         <base loc="en">An error occurred during activation. Try again.</base>
-        <tran loc="es">Se ha producido un error durante la activación. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Se presentó un error durante la activación. Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1771,7 +1771,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_WLAN</Position>
       <TranslationSet>
         <base loc="en">Turn on WLAN to set up FaceTime.</base>
-        <tran loc="es">Para configurar FaceTime, activa WLAN.</tran>
+        <tran loc="es-419">Para configurar FaceTime, activa WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1779,7 +1779,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_THUMPER_%@_WLAN_ipod</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPod touch using WLAN. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPod touch mediante una red WLAN. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPod touch mediante WLAN. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1787,7 +1787,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_THUMPER_CELLULAR_%@_WLAN_ipod</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPod touch using WLAN. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPod touch mediante una red WLAN. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPod touch mediante WLAN. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1795,7 +1795,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_POPUP_EDIT_LOCATION</Position>
       <TranslationSet>
         <base loc="en">Change Location</base>
-        <tran loc="es">Cambiar ubicación</tran>
+        <tran loc="es-419">Cambiar ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1803,7 +1803,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_THUMPER_CELLULAR_WIFI_ipod</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPod touch using Wi-Fi.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPod touch mediante una red Wi‑Fi.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPod touch mediante Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1811,7 +1811,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_THUMPER_WIFI_ipod</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPod touch using Wi-Fi.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPod touch mediante una red Wi‑Fi.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPod touch mediante Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1819,7 +1819,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALIAS_MODAL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Turn On FaceTime</base>
-        <tran loc="es">Activa FaceTime</tran>
+        <tran loc="es-419">Activar FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1827,7 +1827,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_ALIAS_LABEL_ipad</Position>
       <TranslationSet>
         <base loc="en">YOU CAN BE REACHED BY FACETIME AT</base>
-        <tran loc="es">FORMA DE CONTACTO POR FACETIME</tran>
+        <tran loc="es-419">SE TE PUEDE CONTACTAR POR FACETIME EN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1835,7 +1835,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_ALIAS_LABEL_iphone</Position>
       <TranslationSet>
         <base loc="en">YOU CAN BE REACHED BY FACETIME AT</base>
-        <tran loc="es">FORMA DE CONTACTO POR FACETIME</tran>
+        <tran loc="es-419">SE TE PUEDE CONTACTAR POR FACETIME EN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1843,7 +1843,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">About iMessage and FaceTime &amp; Privacy</base>
-        <tran loc="es">Acerca de iMessage, FaceTime y la privacidad</tran>
+        <tran loc="es-419">iMessage y FaceTime, y la privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1851,7 +1851,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_ACCOUNT_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Turn On Calls from iPhone</base>
-        <tran loc="es">No se pueden activar las llamadas desde el iPhone</tran>
+        <tran loc="es-419">No se puede activar “Llamadas del iPhone”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1859,7 +1859,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">FaceTime over Cellular</base>
-        <tran loc="es">FaceTime por red móvil</tran>
+        <tran loc="es-419">FaceTime por red de telefonía móvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1867,7 +1867,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_ACCOUNT_NOT_AUTHORIZED</Position>
       <TranslationSet>
         <base loc="en">The provided Apple ID needs some additional information in order to proceed.</base>
-        <tran loc="es">Para poder continuar, debes introducir información adicional acerca del ID de Apple.</tran>
+        <tran loc="es-419">Para poder continuar, debes ingresar información adicional acerca del Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1875,7 +1875,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_DESCRIPTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Location</base>
-        <tran loc="es">Ubicación</tran>
+        <tran loc="es-419">Ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1883,7 +1883,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ERROR_NOT_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">This email address cannot be used for FaceTime.</base>
-        <tran loc="es">Esta dirección de correo no se puede usar para FaceTime.</tran>
+        <tran loc="es-419">Esta dirección de correo no se puede usar para FaceTime.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1891,7 +1891,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ERROR_IN_USE</Position>
       <TranslationSet>
         <base loc="en">Unable to verify email because it is already in use.</base>
-        <tran loc="es">No se ha podido verificar el correo porque ya está en uso.</tran>
+        <tran loc="es-419">No se pudo verificar el correo porque ya está en uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1899,7 +1899,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_ACCOUNT_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">FaceTime and iCloud must be signed in to the same Apple ID to enable Calls from iPhone.</base>
-        <tran loc="es">Para activar las llamadas desde el iPhone, debes haber iniciado sesión en FaceTime y iCloud con el mismo ID de Apple.</tran>
+        <tran loc="es-419">Se debe iniciar sesión en iCloud y FaceTime con el mismo Apple ID para "llamadas del iPhone".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1907,7 +1907,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ALIAS_SUMMARY_%@_EMAIL_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">%@ Email Addresses</base>
-        <tran loc="es">%@ direcciones de correo electrónico</tran>
+        <tran loc="es-419">%@ direcciones de correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1915,7 +1915,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_NO_URL_WIFI</Position>
       <TranslationSet>
         <base loc="en">FaceTime requires an active Wi-Fi connection or an eligible cellular data plan. To enable FaceTime over cellular on this account, contact %@ at %@</base>
-        <tran loc="es">FaceTime requiere una conexión Wi-Fi activa o un plan de datos móviles adecuado. Para activar FaceTime por la red móvil en esta cuenta, contacta con %@ en %@</tran>
+        <tran loc="es-419">FaceTime requiere una conexión Wi-Fi activa o un plan de datos celulares adecuado. Para activar FaceTime por la red de telefonía móvil en esta cuenta, contacta con %@ en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1923,7 +1923,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SUBSCRIPTION_BADGE_CELL_AND</Position>
       <TranslationSet>
         <base loc="en">&amp;</base>
-        <tran loc="es">y</tran>
+        <tran loc="es-419">y</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1931,7 +1931,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_GENERIC_PHONE_NO_FACETIME_AUDIO</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from your phone number. You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde tu número de teléfono. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde tu número de teléfono. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1939,7 +1939,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_DESCRIPTION_MODERN_ipad</Position>
       <TranslationSet>
         <base loc="en">People will call you\nusing your email address.\nWhat would you like to use?</base>
-        <tran loc="es">Se utilizará tu dirección de correo electrónico para llamarte. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu dirección\nde correo electrónico para\nllamarte. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1947,7 +1947,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_DESCRIPTION_MODERN_iphone</Position>
       <TranslationSet>
         <base loc="en">People will call you\nusing your email address.\nWhat would you like to use?</base>
-        <tran loc="es">Se utilizará tu dirección de correo electrónico para llamarte. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu dirección\nde correo electrónico para\nllamarte. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1955,7 +1955,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_TIMEOUT</Position>
       <TranslationSet>
         <base loc="en">Could not sign in. Please check your network connection and try again.</base>
-        <tran loc="es">Imposible iniciar sesión. Comprueba tu conexión de red e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Imposible conectarse. Verifica tu conexión de red y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1963,7 +1963,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_THUMPER_CELLULAR_%@_WIFI_ipad</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPad using Wi-Fi or cellular data. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPad mediante una red Wi‑Fi o de datos móviles. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPad mediante Wi-Fi o datos celulares. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1971,7 +1971,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ALIAS_STATUS_VALIDATED</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1979,7 +1979,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_REMOVE_ALERT_REMOVE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1987,7 +1987,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn more about FaceTime</base>
-        <tran loc="es">Más información sobre FaceTime</tran>
+        <tran loc="es-419">Más información sobre FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1995,7 +1995,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ERROR_GENERIC</Position>
       <TranslationSet>
         <base loc="en">An error occurred while verifying your email</base>
-        <tran loc="es">Se ha producido un error al verificar el correo</tran>
+        <tran loc="es-419">Se presentó un error al verificar el correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2003,7 +2003,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_ALL_INFO_WIFI</Position>
       <TranslationSet>
         <base loc="en">FaceTime requires an active Wi-Fi connection or an eligible cellular data plan. To enable FaceTime over cellular on this account, contact %@ at %@ or visit %@</base>
-        <tran loc="es">FaceTime requiere una conexión Wi-Fi activa o un plan de datos móviles adecuado. Para activar FaceTime por la red móvil en esta cuenta, contacta con %@ en %@ o visita %@</tran>
+        <tran loc="es-419">FaceTime requiere una conexión Wi-Fi activa o un plan de datos celulares adecuado. Para activar FaceTime por la red de telefonía móvil en esta cuenta, contacta con %@ en %@ o visita %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2011,7 +2011,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACTIVATION_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">FaceTime Activation</base>
-        <tran loc="es">Activación de FaceTime</tran>
+        <tran loc="es-419">Activación de FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2019,7 +2019,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SWITCH_STATUS_DEFAULT_WITH_WARNING_ipad</Position>
       <TranslationSet>
         <base loc="en">People can contact you on all your devices with FaceTime, using your phone number or email address. Making or receiving FaceTime calls uses wireless data.</base>
-        <tran loc="es">Pueden contactarte en todos tus dispositivos por FaceTime utilizando tu número de teléfono o tus direcciones de correo. Al realizar o recibir una llamada de FaceTime se usan datos móviles.</tran>
+        <tran loc="es-419">Pueden contactarte en todos tus dispositivos con FaceTime utilizando tu número de teléfono o tus direcciones de correo.Realizar o recibir llamadas de FaceTime usa datos inalámbricos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2027,7 +2027,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SWITCH_STATUS_DEFAULT_WITH_WARNING_ipod</Position>
       <TranslationSet>
         <base loc="en">People can contact you on all your devices with FaceTime, using your phone number or email address. Making or receiving FaceTime calls uses wireless data.</base>
-        <tran loc="es">Pueden contactarte en todos tus dispositivos por FaceTime utilizando tu número de teléfono o tus direcciones de correo. Al realizar o recibir una llamada de FaceTime se usan datos móviles.</tran>
+        <tran loc="es-419">Pueden contactarte en todos tus dispositivos con FaceTime utilizando tu número de teléfono o tus direcciones de correo.Realizar o recibir llamadas de FaceTime usa datos inalámbricos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2035,7 +2035,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_QUOTED_NO_FACETIME_AUDIO_ipad</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from “%@.” You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde “%@”. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde “%@”. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2043,7 +2043,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_QUOTED_NO_FACETIME_AUDIO_iphone</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages and FaceTime calls will be sent from “%@.” You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes salientes y las llamadas FaceTime se enviarán desde “%@”. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y llamadas de FaceTime se enviarán desde “%@”. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2051,7 +2051,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALIAS_STATUS_VALIDATING</Position>
       <TranslationSet>
         <base loc="en">Verifying…</base>
-        <tran loc="es">Verificando…</tran>
+        <tran loc="es-419">Verificando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2066,7 +2066,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_SETTINGS_BLURB</Position>
       <TranslationSet>
         <base loc="en">Sign in with your Apple ID to activate FaceTime.</base>
-        <tran loc="es">Para activar FaceTime, inicia sesión con tu ID de Apple.</tran>
+        <tran loc="es-419">Para activar FaceTime, inicia sesión con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2074,7 +2074,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_%@_WIFI</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls when your iPhone is nearby and on Wi-Fi. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas cuando el iPhone esté cerca y conectado a una red Wi‑Fi. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para hacer y recibir llamadas cuando tu iPhone esté cerca y conectado a Wi-Fi. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2082,7 +2082,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2090,7 +2090,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_ADDRESS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Address</base>
-        <tran loc="es">Dirección</tran>
+        <tran loc="es-419">Dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2098,7 +2098,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_FORGOT_PASSWORD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple ID Password</base>
-        <tran loc="es">Contraseña del ID de Apple</tran>
+        <tran loc="es-419">Contraseña del Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2106,7 +2106,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_QUOTED_ipad</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from “%@.” You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde “%@”. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde “%@”. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2114,7 +2114,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUDDY_CALLERID_QUOTED_iphone</Position>
       <TranslationSet>
         <base loc="en">New outgoing messages, FaceTime, and FaceTime Audio calls will be sent from “%@.” You can change this in Settings.</base>
-        <tran loc="es">Los nuevos mensajes y las llamadas FaceTime y FaceTime de audio se enviarán desde “%@”. Puedes modificarlo en Ajustes.</tran>
+        <tran loc="es-419">Los nuevos mensajes salientes y las llamadas de FaceTime y FaceTime de audio se enviarán desde “%@”. Puedes modificarlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2122,7 +2122,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_NO_VALID_ALIASES_ACTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verify</base>
-        <tran loc="es">Verificar</tran>
+        <tran loc="es-419">Verificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2130,7 +2130,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>YOUR_NUMBER_STRING</Position>
       <TranslationSet>
         <base loc="en">Your Phone Number</base>
-        <tran loc="es">Tu número de teléfono</tran>
+        <tran loc="es-419">Tu número de teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2138,7 +2138,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SWITCH_STATUS_FAILED</Position>
       <TranslationSet>
         <base loc="en">Activation unsuccessful.\nTurn on FaceTime to try again.</base>
-        <tran loc="es">Activación incorrecta.\nActiva FaceTime para intentarlo de nuevo.</tran>
+        <tran loc="es-419">Activación incorrecta.\nActiva FaceTime para intentarlo de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2146,7 +2146,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_PHONE_FIELD_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Please provide a sample phone number for this region.</base>
-        <tran loc="es">Introduce un número de teléfono de ejemplo de esta región.</tran>
+        <tran loc="es-419">Ingresa un número de teléfono de ejemplo de esta región.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2154,7 +2154,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_THUMPER_CELLULAR_WIFI_ipad</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPad using Wi-Fi or cellular data.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPad mediante una red Wi‑Fi o de datos móviles.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPad mediante Wi-Fi o datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2162,7 +2162,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_CELL_WLAN</Position>
       <TranslationSet>
         <base loc="en">Turn on cellular data or use WLAN to set up FaceTime.</base>
-        <tran loc="es">Para configurar FaceTime, activa los datos móviles o usa WLAN.</tran>
+        <tran loc="es-419">Para configurar FaceTime, activa los datos celulares o usa WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2170,7 +2170,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WIFI</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls when your iPhone is nearby and on Wi-Fi.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas cuando el iPhone esté cerca y conectado a una red Wi‑Fi.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para hacer y recibir llamadas cuando tu iPhone esté cerca y conectado a Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2178,7 +2178,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_GET_STARTED</Position>
       <TranslationSet>
         <base loc="en">Get Started</base>
-        <tran loc="es">Empezar</tran>
+        <tran loc="es-419">Empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SWITCH_STATUS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">People can contact you on all your devices with FaceTime, using your phone number or email address.</base>
-        <tran loc="es">Pueden contactarte en todos tus dispositivos por FaceTime utilizando tu número de teléfono o tu dirección de correo.</tran>
+        <tran loc="es-419">Pueden contactarte en todos tus dispositivos con FaceTime utilizando tu número de teléfono o dirección de correo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2200,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_CREATION_ERROR_MESSAGE_iphone</Position>
       <TranslationSet>
         <base loc="en">This iPhone is restricted from creating FaceTime accounts.</base>
-        <tran loc="es">La creación de cuentas de FaceTime está restringida en este iPhone.</tran>
+        <tran loc="es-419">La creación de cuentas FaceTime está restringida en este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2208,7 +2208,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WLAN_iphone</Position>
       <TranslationSet>
         <base loc="en">Make and receive video calls over\nWLAN or your cellular network.</base>
-        <tran loc="es">Realiza y recibe videollamadas a través de una red WLAN o de la red de telefonía móvil.</tran>
+        <tran loc="es-419">Realiza y recibe videollamadas a través de una red WLAN o de tu red celular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2216,7 +2216,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WLAN_ipod</Position>
       <TranslationSet>
         <base loc="en">Make and receive video calls over\nWLAN or your cellular network.</base>
-        <tran loc="es">Realiza y recibe videollamadas a través de una red WLAN o de la red de telefonía móvil.</tran>
+        <tran loc="es-419">Realiza y recibe videollamadas a través de una red WLAN o de tu red celular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2224,7 +2224,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_FORGOT_PASSWORD_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">Get Password</base>
-        <tran loc="es">Restablecer</tran>
+        <tran loc="es-419">Restablecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2239,7 +2239,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_COUNTRY_SELECT_LABEL</Position>
       <TranslationSet>
         <base loc="en">Region</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2247,7 +2247,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_COULDNT_LAUNCH_MAIL</Position>
       <TranslationSet>
         <base loc="en">Could not launch Mail.</base>
-        <tran loc="es">No se ha podido abrir Mail.</tran>
+        <tran loc="es-419">No se pudo abrir Mail.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2255,7 +2255,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_THUMPER_%@_WIFI_ipod</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPod touch using Wi-Fi. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPod touch mediante una red Wi‑Fi. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPod touch mediante Wi-Fi. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2263,7 +2263,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_THUMPER_CELLULAR_%@_WIFI_ipod</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPod touch using Wi-Fi. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPod touch mediante una red Wi‑Fi. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPod touch mediante Wi-Fi. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2276,7 +2276,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ALIAS_SUMMARY_NO_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">No Addresses</base>
-        <tran loc="es">Ninguna dirección</tran>
+        <tran loc="es-419">Ninguna dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2284,7 +2284,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_FORGOT_PASSWORD_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Your password was entered incorrectly too many times.</base>
-        <tran loc="es">Has introducido una contraseña incorrecta demasiadas veces.</tran>
+        <tran loc="es-419">Ingresaste una contraseña incorrecta demasiadas veces.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2292,7 +2292,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_THUMPER_WLAN_ipad</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPad using WLAN.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPad mediante una red WLAN.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPad mediante WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2300,7 +2300,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WIFI_ipad</Position>
       <TranslationSet>
         <base loc="en">Sign in with your Apple ID or create a\nnew account to activate FaceTime.</base>
-        <tran loc="es">Para activar FaceTime, inicia sesión con tu ID de Apple o crea una cuenta nueva.</tran>
+        <tran loc="es-419">Para activar FaceTime, conéctate con\ntu Apple ID o crea una cuenta nueva.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2308,7 +2308,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_SYNOPSIS_WLAN_ipad</Position>
       <TranslationSet>
         <base loc="en">Sign in with your Apple ID or create a\nnew account to activate FaceTime.</base>
-        <tran loc="es">Para activar FaceTime, inicia sesión con tu ID de Apple o crea una cuenta nueva.</tran>
+        <tran loc="es-419">Para activar FaceTime, conéctate con\ntu Apple ID o crea una cuenta nueva.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2316,7 +2316,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_NO_URL_WLAN</Position>
       <TranslationSet>
         <base loc="en">FaceTime requires an active WLAN connection or an eligible cellular data plan. To enable FaceTime over cellular on this account, contact %@ at %@</base>
-        <tran loc="es">FaceTime requiere una conexión WLAN activa o un plan de datos móviles adecuado. Para activar FaceTime por la red móvil en esta cuenta, contacta con %@ en %@</tran>
+        <tran loc="es-419">FaceTime requiere una conexión WLAN activa o un plan de datos celulares adecuado. Para activar FaceTime por la red de telefonía móvil en esta cuenta, contacta con %@ en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2324,7 +2324,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_ROAM_NO_WIFI</Position>
       <TranslationSet>
         <base loc="en">Enable data roaming to set up FaceTime. Additional fees may apply.</base>
-        <tran loc="es">Para configurar FaceTime, activa la itinerancia de datos. Este servicio puede ser de pago.</tran>
+        <tran loc="es-419">Para configurar FaceTime, activa el roaming. Este servicio puede ser de paga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2332,7 +2332,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_PASSWORD_LABEL</Position>
       <TranslationSet>
         <base loc="en">required</base>
-        <tran loc="es">obligatorio</tran>
+        <tran loc="es-419">obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2340,7 +2340,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_PASSWORD_DESCRIPTION_LABEL</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2348,7 +2348,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ALIAS_STATUS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2356,7 +2356,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_THUMPER_CELLULAR_%@_WLAN_ipad</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPad using WLAN or cellular data. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPad mediante una red WLAN o de datos móviles. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPad mediante WLAN o datos celulares. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2364,7 +2364,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_CREATION_ERROR_MESSAGE_ipod</Position>
       <TranslationSet>
         <base loc="en">This iPod touch is restricted from creating FaceTime accounts.</base>
-        <tran loc="es">La creación de cuentas de FaceTime está restringida en este iPod touch.</tran>
+        <tran loc="es-419">La creación de cuentas FaceTime está restringida en este iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2372,7 +2372,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACTIVATION_ERROR_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Unable to contact the FaceTime server. Try again.</base>
-        <tran loc="es">Imposible contactar con el servidor de FaceTime. Inténtalo de nuevo.</tran>
+        <tran loc="es-419">Imposible contactar con el servidor de FaceTime. Intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2380,7 +2380,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_USERNAME_LABEL</Position>
       <TranslationSet>
         <base loc="en">example@icloud.com</base>
-        <tran loc="es">ejemplo@icloud.com</tran>
+        <tran loc="es-419">ejemplo@icloud.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2388,7 +2388,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_THUMPER_%@_WIFI_ipad</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPad using Wi-Fi. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPad mediante una red Wi‑Fi. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPad mediante Wi-Fi. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2396,7 +2396,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_ROAM_WLAN</Position>
       <TranslationSet>
         <base loc="en">Use WLAN or enable data roaming to set up FaceTime. Additional fees may apply.</base>
-        <tran loc="es">Para configurar FaceTime, activa la itinerancia de datos o usa WLAN. Este servicio puede ser de pago.</tran>
+        <tran loc="es-419">Para configurar FaceTime, activa el roaming o usa WLAN. Este servicio puede ser de paga.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2404,7 +2404,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SETTINGS_GROUP_CELL_LABEL_CALLS</Position>
       <TranslationSet>
         <base loc="en">CALLS</base>
-        <tran loc="es">LLAMADAS</tran>
+        <tran loc="es-419">LLAMADAS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2412,7 +2412,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>VERIFYING</Position>
       <TranslationSet>
         <base loc="en">Verifying</base>
-        <tran loc="es">Verificando</tran>
+        <tran loc="es-419">Verificando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2420,7 +2420,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_CREATE_ACCOUNT_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Create new Apple ID</base>
-        <tran loc="es">Crear nuevo ID de Apple</tran>
+        <tran loc="es-419">Crear nuevo Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2428,7 +2428,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_UNABLE_TO_ADD_ALIAS_%@</Position>
       <TranslationSet>
         <base loc="en">Unable to add the email address “%@”.</base>
-        <tran loc="es">No se ha podido añadir la dirección de correo electrónico “%@”.</tran>
+        <tran loc="es-419">No se pudo agregar la dirección de correo electrónico “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2436,7 +2436,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ALIAS_SUMMARY_%@_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">%@ Addresses</base>
-        <tran loc="es">%@ direcciones</tran>
+        <tran loc="es-419">%@ direcciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2444,7 +2444,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SPLASH_LEARN_MORE_URL</Position>
       <TranslationSet>
         <base loc="en">https://www.apple.com/ios/facetime</base>
-        <tran loc="es">https://www.apple.com/es/ios/facetime</tran>
+        <tran loc="es-419">http://www.apple.com/la/ios/facetime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2452,7 +2452,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_AND_PHONE_DESCRIPTION_MODERN_ipad</Position>
       <TranslationSet>
         <base loc="en">People will call you using\nyour phone number and email address.\nWhat would you like to use?</base>
-        <tran loc="es">Se utilizará tu número de teléfono y tu dirección de correo electrónico para llamarte. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu número de\nteléfono y tu dirección de correo electrónico\npara llamarte. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2460,7 +2460,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_LOCALE_MISSING_REGION_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Please select a region.</base>
-        <tran loc="es">Selecciona una región.</tran>
+        <tran loc="es-419">Selecciona una región.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2468,7 +2468,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_CELL_NO_WIFI</Position>
       <TranslationSet>
         <base loc="en">Turn on cellular data to set up FaceTime.</base>
-        <tran loc="es">Para configurar FaceTime, activa los datos móviles.</tran>
+        <tran loc="es-419">Para configurar FaceTime, activa los datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2476,7 +2476,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_ERROR_BLANK_USERNAME</Position>
       <TranslationSet>
         <base loc="en">Please enter a valid user name.</base>
-        <tran loc="es">Introduce un nombre de usuario válido.</tran>
+        <tran loc="es-419">Ingresa un nombre de usuario válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2484,7 +2484,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SIGNING_IN</Position>
       <TranslationSet>
         <base loc="en">Signing in…</base>
-        <tran loc="es">Iniciando sesión…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2492,7 +2492,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_DESCRIPTION_ipad</Position>
       <TranslationSet>
         <base loc="en">People will call you using your email address. What would you like to use?</base>
-        <tran loc="es">Se utilizará tu dirección de correo electrónico para llamarte. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu dirección de correo electrónico para llamarte. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2500,7 +2500,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_EMAIL_DESCRIPTION_iphone</Position>
       <TranslationSet>
         <base loc="en">People will call you using your email address. What would you like to use?</base>
-        <tran loc="es">Se utilizará tu dirección de correo electrónico para llamarte. ¿Qué quieres usar?</tran>
+        <tran loc="es-419">Se utilizará tu dirección de correo electrónico para llamarte. ¿Cuál quieres usar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2508,7 +2508,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_ERROR_WIFI</Position>
       <TranslationSet>
         <base loc="en">Turn on Wi-Fi to set up FaceTime.</base>
-        <tran loc="es">Para configurar FaceTime, activa Wi-Fi.</tran>
+        <tran loc="es-419">Para configurar FaceTime, activa Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2516,7 +2516,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_ACCOUNT_CREATION_ERROR_MESSAGE_ipad</Position>
       <TranslationSet>
         <base loc="en">This iPad is restricted from creating FaceTime accounts.</base>
-        <tran loc="es">La creación de cuentas de FaceTime está restringida en este iPad.</tran>
+        <tran loc="es-419">La creación de cuentas FaceTime está restringida en este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2524,7 +2524,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_SETUP_CELLULAR_NO_NUMBER_WIFI</Position>
       <TranslationSet>
         <base loc="en">FaceTime requires an active Wi-Fi connection or an eligible cellular data plan. To enable FaceTime over cellular on this account, visit %@</base>
-        <tran loc="es">FaceTime requiere una conexión Wi-Fi activa o un plan de datos móviles adecuado. Para activar FaceTime por la red móvil en esta cuenta, visita %@</tran>
+        <tran loc="es-419">FaceTime requiere una conexión Wi-Fi activa o un plan de datos celulares adecuado. Para activar FaceTime por la red de telefonía móvil en esta cuenta, visita %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2532,7 +2532,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_MAKE_PHONE_CALL</Position>
       <TranslationSet>
         <base loc="en">Call</base>
-        <tran loc="es">Llamar</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2540,7 +2540,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_NETWORK_SETTINGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2549,7 +2549,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SIGNIN_CREATE_ACCOUNT_FOOTER_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Use a single Apple ID for all Apple services. %@</base>
-        <tran loc="es">Usa un único ID de Apple para todos los servicios de Apple. %@</tran>
+        <tran loc="es-419">Usar un único Apple ID para todos los servicios de Apple. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2557,7 +2557,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_THUMPER_CELLULAR_WLAN_ipad</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls directly on this iPad using WLAN or cellular data.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas directamente en este iPad mediante una red WLAN o de datos móviles.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para realizar y recibir llamadas directamente en este iPad mediante WLAN o datos celulares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2565,7 +2565,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RELAY_CALLS_CLIENT_FOOTER_WITH_CALLER_ID_%@_WLAN</Position>
       <TranslationSet>
         <base loc="en">Use your iPhone cellular account to make and receive calls when your iPhone is nearby and on WLAN. These calls will use the caller ID %@.</base>
-        <tran loc="es">Utiliza la cuenta de datos móviles del iPhone para realizar y recibir llamadas cuando el iPhone esté cerca y conectado a una red WLAN. Estas llamadas utilizarán la identificación %@.</tran>
+        <tran loc="es-419">Usa la cuenta celular de tu iPhone para hacer y recibir llamadas cuando tu iPhone esté cerca y conectado a WLAN. Estas llamadas usarán el identificador de llamadas %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2573,7 +2573,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MESSAGES_ACCOUNTS</Position>
       <TranslationSet>
         <base loc="en">iMessage &amp; FaceTime Line</base>
-        <tran loc="es">Línea para iMessage y FaceTime</tran>
+        <tran loc="es-419">iMessage y línea de FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2581,7 +2581,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2589,7 +2589,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2597,7 +2597,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>FACETIME_SETTINGS_VISIT_WEBSITE</Position>
       <TranslationSet>
         <base loc="en">Go to Website</base>
-        <tran loc="es">Ir a la página web</tran>
+        <tran loc="es-419">Ir a la página web</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2608,7 +2608,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MADRID</Position>
       <TranslationSet>
         <base loc="en">iMessage</base>
-        <tran loc="es">iMessage</tran>
+        <tran loc="es-419">iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2616,7 +2616,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MMS_EMAIL</Position>
       <TranslationSet>
         <base loc="en">MMS Email Address</base>
-        <tran loc="es">Dirección de correo para MMS</tran>
+        <tran loc="es-419">Dirección de correo para MMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2624,7 +2624,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SMS_SPAM_APP_%@_EXTENSION_%@</Position>
       <TranslationSet>
         <base loc="en">%@ — %@</base>
-        <tran loc="es">%@ - %@</tran>
+        <tran loc="es-419">%@ — %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2638,7 +2638,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SMS_CHARACTER_COUNT</Position>
       <TranslationSet>
         <base loc="en">Character Count</base>
-        <tran loc="es">Recuento de caracteres</tran>
+        <tran loc="es-419">Recuento de caracteres</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2646,7 +2646,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>AUDIO_MESSAGES_EXPIRE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">When you send or listen to an audio message, it will automatically be removed from your conversation history after %@.</base>
-        <tran loc="es">Una vez que hayas enviado o escuchado un mensaje de audio, se eliminará automáticamente del historial de la conversación al cabo de %@.</tran>
+        <tran loc="es-419">Se eliminará automáticamente el mensaje de audio de tu historial al enviarlo o escucharlo después de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2654,7 +2654,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_NOT_AVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sharing Name and Photo not available</base>
-        <tran loc="es">La opción de compartir nombre y foto no está disponible</tran>
+        <tran loc="es-419">Compartir nombre y foto no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2662,7 +2662,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>AUDIO_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">Audio Messages</base>
-        <tran loc="es">Mensajes de audio</tran>
+        <tran loc="es-419">Mensajes de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2670,7 +2670,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MESSAGES_FILTERING_LABEL</Position>
       <TranslationSet>
         <base loc="en">Message Filtering</base>
-        <tran loc="es">Filtrado de mensajes</tran>
+        <tran loc="es-419">Filtro de mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2678,7 +2678,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MMS_MESSAGING</Position>
       <TranslationSet>
         <base loc="en">MMS Messaging</base>
-        <tran loc="es">Mensajería MMS</tran>
+        <tran loc="es-419">Mensajería MMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2686,7 +2686,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SMS_RELAY_MULTIPLE_DEVICES_LABEL</Position>
       <TranslationSet>
         <base loc="en">%d Devices</base>
-        <tran loc="es">%d dispos.</tran>
+        <tran loc="es-419">%d dispositivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2694,7 +2694,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>IMESSAGE_FILTERING_GROUP_LABEL</Position>
       <TranslationSet>
         <base loc="en">iMessage Filtering</base>
-        <tran loc="es">Filtrado de iMessage</tran>
+        <tran loc="es-419">Filtro de iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2702,7 +2702,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_ME_CARD_SETUP_PROMPT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To share your name and photo, go to Settings -&gt; Contacts -&gt; My Info and select your personal contact card</base>
-        <tran loc="es">Para compartir tu nombre y foto, ve a Ajustes &gt; Contactos &gt; Mis datos y selecciona tu tarjeta de contacto personal</tran>
+        <tran loc="es-419">En Configuración &gt; Contactos &gt; Mis datos, selecciona tu tarjeta personal para compartir tu nombre y foto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2710,7 +2710,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MADRID_FILTER</Position>
       <TranslationSet>
         <base loc="en">Turn off notifications for iMessages from people who are not in your contacts and sort them into a separate list.</base>
-        <tran loc="es">Desactiva las notificaciones de los mensajes de iMessage enviados por personas que no estén en tus contactos e inclúyelos en una lista aparte.</tran>
+        <tran loc="es-419">Desactiva las notificaciones de iMessages de aquellos que no son tus contactos y los envía a una lista aparte.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2718,7 +2718,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>PRIVACY_WARNING_ACTION</Position>
       <TranslationSet>
         <base loc="en">Enable</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2726,7 +2726,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>AFTER_2_MINUTES</Position>
       <TranslationSet>
         <base loc="en">After 2 Minutes</base>
-        <tran loc="es">Al cabo de 2 minutos</tran>
+        <tran loc="es-419">Después de 2 minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2734,7 +2734,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>PRIVACY_WARNING_APP_NAME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enable %@ SMS Spam Filter?</base>
-        <tran loc="es">¿Quieres activar el filtro de SMS no deseados de %@?</tran>
+        <tran loc="es-419">¿Activar el filtro contra SMS no deseados %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2742,7 +2742,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>LOWER_CASE_30_DAYS</Position>
       <TranslationSet>
         <base loc="en">30 days</base>
-        <tran loc="es">30 días</tran>
+        <tran loc="es-419">30 días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2750,7 +2750,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_ME_CARD_SETUP_PROMPT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Configure your Me Card</base>
-        <tran loc="es">Configura tu tarjeta personal</tran>
+        <tran loc="es-419">Configurar tu tarjeta personal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2758,7 +2758,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RAISE_TO_LISTEN_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Raise to Listen allows you to quickly listen and reply to incoming audio messages by raising the phone to your ear.</base>
-        <tran loc="es">“Levantar para escuchar” te permite escuchar y responder rápidamente a los mensajes de audio que te lleguen elevando el teléfono hasta el oído.</tran>
+        <tran loc="es-419">Levantar para escuchar te permite escuchar y contestar rápidamente mensajes de audio al levantar el teléfono hasta tu oído.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2766,7 +2766,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MESSAGES_ACCOUNTS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Messages &amp; FaceTime will use selected phone numbers as your ID. Only one can be registered in iMessage. Your second number won't be iMessage capable</base>
-        <tran loc="es">Mensajes y FaceTime usarán los números de teléfono seleccionados como tu ID. Solo puede haber uno registrado en iMessage. Tu segundo número no podrá usar iMessage</tran>
+        <tran loc="es-419">Mensajes y FaceTime utilizará los números de teléfono seleccionados como tu identificador. Sólo uno se puede registrar en iMessage. El otro no será compatible con iMessage.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2774,7 +2774,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>CONTACT_PHOTO_SWITCH</Position>
       <TranslationSet>
         <base loc="en">Show Contact Photos</base>
-        <tran loc="es">Mostrar fotos de los contactos</tran>
+        <tran loc="es-419">Mostrar fotos de contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2782,7 +2782,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>CONTACT_PHOTO_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Show photos of your contacts in Messages.</base>
-        <tran loc="es">Las fotos de tus contactos se mostrarán en Mensajes.</tran>
+        <tran loc="es-419">Se mostrarán las fotos de tus contactos en Mensajes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2790,7 +2790,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>LOWER_CASE_2_MINUTES</Position>
       <TranslationSet>
         <base loc="en">2 minutes</base>
-        <tran loc="es">2 minutos</tran>
+        <tran loc="es-419">2 minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2798,7 +2798,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SMS_RELAY_SINGLE_DEVICE_LABEL</Position>
       <TranslationSet>
         <base loc="en">%d Device</base>
-        <tran loc="es">%d dispos.</tran>
+        <tran loc="es-419">%d dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2806,7 +2806,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>KEEP_MESSAGES_1MONTH</Position>
       <TranslationSet>
         <base loc="en">30 Days</base>
-        <tran loc="es">30 días</tran>
+        <tran loc="es-419">30 días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2814,7 +2814,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>VIDEO_MESSAGES_EXPIRE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">When you send or view a video message, it will automatically be removed from your conversation history after %@.\n\nVideos sent as attachments will not expire.</base>
-        <tran loc="es">Una vez que hayas enviado o visto un mensaje de vídeo, se eliminará automáticamente del historial de la conversación al cabo de %@.\n\nLos vídeos enviados como archivos adjuntos no caducarán.</tran>
+        <tran loc="es-419">Se eliminará automáticamente el mensaje de video de tu historial al enviarlo o escucharlo después de %@.\n\nLos videos adjuntos no vencen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2822,7 +2822,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MESSAGES_LINE</Position>
       <TranslationSet>
         <base loc="en">iMessage Line</base>
-        <tran loc="es">Línea de iMessage</tran>
+        <tran loc="es-419">Línea de iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2830,7 +2830,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SPAM_EXTENSION_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Select a filter to turn off notifications for SMS spam messages and sort them into a separate list.</base>
-        <tran loc="es">Selecciona un filtro para desactivar las notificaciones de los mensajes SMS no deseados e incluirlos en una lista aparte.</tran>
+        <tran loc="es-419">Selecciona un filtro para dejar de recibir notificaciones de mensajes SMS no deseados y guardarlos en una lista separada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2838,7 +2838,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_ALWAYS_ASK_FOOTER</Position>
       <TranslationSet>
         <base loc="en">You will be prompted before updated name and photo are shared.</base>
-        <tran loc="es">Te preguntaremos antes de compartir tu nombre y foto actualizados.</tran>
+        <tran loc="es-419">Se te preguntará antes de compartir tu nombre y tu foto actualizados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2846,7 +2846,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SPAM_FILTERING_GROUP_LABEL</Position>
       <TranslationSet>
         <base loc="en">SMS Filtering</base>
-        <tran loc="es">Filtrado de SMS</tran>
+        <tran loc="es-419">Filtro de SMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2854,7 +2854,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>DATE_AT_TIME</Position>
       <TranslationSet>
         <base loc="en">%@ at %@</base>
-        <tran loc="es">%@ a las %@</tran>
+        <tran loc="es-419">%@ a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2862,7 +2862,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_NOT_SHARING_FOOTER</Position>
       <TranslationSet>
         <base loc="en">To personalize your messages, choose your name and photo, and who can see what you share.</base>
-        <tran loc="es">Para personalizar tus mensajes, elige un nombre y una foto, y decide quién puede ver lo que compartes.</tran>
+        <tran loc="es-419">Para personalizar tus mensajes, selecciona un nombre y foto, y quién puede ver lo que compartes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2870,7 +2870,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SPAM_EXTENSION_PRIVACY_TITLE</Position>
       <TranslationSet>
         <base loc="en">About SMS Filtering and Privacy</base>
-        <tran loc="es">Acerca del filtrado de SMS y la privacidad</tran>
+        <tran loc="es-419">Acerca de filtrar SMS y la privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2878,7 +2878,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SMS_RELAY_DEVICES_HEADER</Position>
       <TranslationSet>
         <base loc="en">Allow these devices to send and receive text messages from this iPhone.</base>
-        <tran loc="es">Permite a estos dispositivos enviar y recibir mensajes de texto desde este iPhone.</tran>
+        <tran loc="es-419">Permitir que estos dispositivos envíen y reciban mensajes de texto desde este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2886,7 +2886,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>RAISE_TO_LISTEN</Position>
       <TranslationSet>
         <base loc="en">Raise to Listen</base>
-        <tran loc="es">Levantar para escuchar</tran>
+        <tran loc="es-419">Levantar para escuchar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2894,7 +2894,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SMS_RELAY</Position>
       <TranslationSet>
         <base loc="en">Text Message Forwarding</base>
-        <tran loc="es">Reenvío de SMS</tran>
+        <tran loc="es-419">Reenviar mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2902,7 +2902,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_ME_CARD_SETUP_PROMPT_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2910,7 +2910,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MMS_MESSAGING_HEADER</Position>
       <TranslationSet>
         <base loc="en">ALLOW MMS MESSAGING FOR</base>
-        <tran loc="es">PERMITIR MENSAJERÍA MMS A</tran>
+        <tran loc="es-419">PERMITIR MENSAJES MMS DE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2918,7 +2918,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SIRI_TONE_NOTIFICATION_LABEL</Position>
       <TranslationSet>
         <base loc="en">Enable Siri tone notifications</base>
-        <tran loc="es">Activar notificaciones de tono de Siri</tran>
+        <tran loc="es-419">Activa las notificaciones de Siri con tono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2926,7 +2926,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>VIDEO_MESSAGES_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Tap and hold the camera button in Messages to quickly send videos.</base>
-        <tran loc="es">Mantén pulsado el botón de la cámara en Mensajes para enviar vídeos rápidamente.</tran>
+        <tran loc="es-419">Toca sin soltar el botón de la cámara en Mensajes para enviar videos rápidamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2934,7 +2934,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SPAM_FILTERING_LABEL</Position>
       <TranslationSet>
         <base loc="en">Unknown &amp; Spam</base>
-        <tran loc="es">Desconocido y no deseado</tran>
+        <tran loc="es-419">Desconocidos y no deseados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2942,7 +2942,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>DELIVERY_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Delivery Receipts</base>
-        <tran loc="es">Confirmaciones de envío</tran>
+        <tran loc="es-419">Confirmaciones de envío</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2950,7 +2950,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SMS_RELAY_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Allow your iPhone text messages to also be sent and received on other devices signed in to your iMessage account.</base>
-        <tran loc="es">Los mensajes de texto del iPhone se pueden enviar y recibir también desde otros dispositivos con los que hayas iniciado sesión en tu cuenta de iMessage.</tran>
+        <tran loc="es-419">Permite que los demás dispositivos que hayan iniciado sesión en tu cuenta de iMessage también envíen y reciban mensajes de texto de tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2958,7 +2958,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_ALWAYS_ASK_LABEL</Position>
       <TranslationSet>
         <base loc="en">Always Ask</base>
-        <tran loc="es">Preguntar siempre</tran>
+        <tran loc="es-419">Preguntar siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2966,7 +2966,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MMS_LABEL</Position>
       <TranslationSet>
         <base loc="en">SMS/MMS</base>
-        <tran loc="es">SMS/MMS</tran>
+        <tran loc="es-419">SMS/MMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2974,7 +2974,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MESSAGE_HISTORY</Position>
       <TranslationSet>
         <base loc="en">Message History</base>
-        <tran loc="es">Historial de mensajes</tran>
+        <tran loc="es-419">Historial de mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2982,7 +2982,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>AFTER_1_MONTH</Position>
       <TranslationSet>
         <base loc="en">After 30 Days</base>
-        <tran loc="es">Al cabo de 30 días</tran>
+        <tran loc="es-419">Después de 30 días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2990,7 +2990,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_EVERYONE_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Updated name and photo will be automatically shared with everyone the next time you send a message.</base>
-        <tran loc="es">El nombre y la foto actualizados se compartirán automáticamente con todo el mundo la próxima vez que envíes un mensaje.</tran>
+        <tran loc="es-419">El nombre y la foto actualizados se compartirán automáticamente con todos la próxima vez que envíes un mensaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2998,7 +2998,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SEND_AS_SMS</Position>
       <TranslationSet>
         <base loc="en">Send as SMS</base>
-        <tran loc="es">Enviar como SMS</tran>
+        <tran loc="es-419">Enviar como SMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3006,7 +3006,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>READ_RECEIPTS_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">When this is on, people are notified when you have read their messages. This enables read receipts for all conversations.</base>
-        <tran loc="es">Si esta opción está activada, se enviarán notificaciones a los remitentes de los mensajes que hayas leído. La notificación de lectura se activará para todas las conversaciones.</tran>
+        <tran loc="es-419">Si se activa, se le avisará a los remitentes de los mensajes que hayas leído. La notificación de lectura se activará para todas las conversaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3014,7 +3014,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>PRIVACY_WARNING_TEXT</Position>
       <TranslationSet>
         <base loc="en">Enabling this SMS spam filter allows your device to send to the developer of this filter all of the text, content, and sender information included in incoming SMS and MMS messages that you receive from senders that are not in your Contacts. These messages may include verification codes from banks or other institutions, as well as other personal or sensitive information that may be in SMS and MMS messages.</base>
-        <tran loc="es">Si activas este filtro de SMS no deseados, el dispositivo podrá enviar al desarrollador de dicho filtro el texto, el contenido y los datos del remitente de los mensajes SMS y MMS entrantes cuyo remitente no esté en tu lista de contactos. Los mensajes SMS y MMS pueden incluir códigos de verificación de entidades bancarias y otras instituciones, así como información personal o confidencial.</tran>
+        <tran loc="es-419">Activar este filtro contra SMS no deseados permite a tu dispositivo enviar al desarrollador del mismo todo el texto, contenido e información del emisor que se incluye en los mensajes SMS y MMS que recibas de los remitentes que no formen parte de tus Contactos. Entre estos mensajes podrían encontrarse códigos de verificación de bancos y otras instituciones; así como información personal o confidencial.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3022,7 +3022,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ALLOW_MMS_GROUP_MESSAGING_HEADER</Position>
       <TranslationSet>
         <base loc="en">ALLOW MMS GROUP MESSAGING FOR</base>
-        <tran loc="es">PERMITIR MENSAJERÍA MMS EN GRUPO A</tran>
+        <tran loc="es-419">PERMITIR MENSAJES MMS DE GRUPO DE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3030,7 +3030,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>PREVIEW_TRANSCODING</Position>
       <TranslationSet>
         <base loc="en">Low Quality Image Mode</base>
-        <tran loc="es">Imágenes con calidad baja</tran>
+        <tran loc="es-419">Imágenes de baja calidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3038,7 +3038,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_CONTACTS_ONLY_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Updated name and photo will be automatically shared with people in your contacts the next time you send a message.</base>
-        <tran loc="es">El nombre y la foto actualizados se compartirán automáticamente con las personas de tus contactos la próxima vez que envíes un mensaje.</tran>
+        <tran loc="es-419">El nombre y la foto actualizados se compartirán automáticamente con tus contactos la próxima vez que envíes un mensaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3046,7 +3046,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_CONTACTS_ONLY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Contacts Only</base>
-        <tran loc="es">Solo contactos</tran>
+        <tran loc="es-419">Sólo contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3054,7 +3054,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>TODAY_AT_TIME</Position>
       <TranslationSet>
         <base loc="en">Today at %@</base>
-        <tran loc="es">Hoy a las %@</tran>
+        <tran loc="es-419">Hoy a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3062,7 +3062,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>JUNK_FILTERING_RECEIPTS_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">When this is on, people are notified when messages sent to you are filtered as Junk. This enables delivery status receipts for all conversations.</base>
-        <tran loc="es">Si esta opción está activada, se enviarán notificaciones a quienes te envíen mensajes que se filtren como correo no deseado. La notificación del estado de entrega se activará para todas las conversaciones.</tran>
+        <tran loc="es-419">Si se activa, se le avisará a los remitentes de los mensajes que hayas filtrado como no deseados. La notificación de lectura se activará para todas las conversaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3070,7 +3070,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>KEEP_MESSAGES_FOREVER</Position>
       <TranslationSet>
         <base loc="en">Forever</base>
-        <tran loc="es">Siempre</tran>
+        <tran loc="es-419">Siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3078,7 +3078,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MADRID_FILTER_LABEL</Position>
       <TranslationSet>
         <base loc="en">Filter Unknown Senders</base>
-        <tran loc="es">Filtrar desconocidos</tran>
+        <tran loc="es-419">Filtrar desconocidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3086,7 +3086,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>JUNK_FILTERING_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Send Junk Filtering Receipts</base>
-        <tran loc="es">Notificar al filtrar correo como no deseado</tran>
+        <tran loc="es-419">Confirmación como no deseado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3094,7 +3094,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>BUSINESS_CHAT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">About Business Chat &amp; Privacy</base>
-        <tran loc="es">Acerca del chat para clientes y la privacidad</tran>
+        <tran loc="es-419">Acerca del chat para clientes y la privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3102,7 +3102,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SIRI_LABEL</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3110,7 +3110,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>PRIVACY_LEGAL_TEXT</Position>
       <TranslationSet>
         <base loc="en">SMS spam filters provide a way for you to detect and filter spam from your incoming SMS and MMS messages. If you choose to install and use a third-party provider’s SMS spam filter on your device, the filter provider can access all of the text and content included in incoming SMS and MMS messages that you receive from senders that are not in your Contacts. These messages may include verification codes from banks or other institutions, as well as other personal or sensitive information that may be in SMS and MMS messages.\n\nAfter you have responded to a SMS or MMS message three times or have added the sender to your Contacts, SMS and MMS messages from that sender will no longer be sent to the filter provider.\n\nIf you use a third-party provider’s SMS spam filter, you are subject to the filter provider’s terms, privacy policy, and practices. We encourage you to learn about the terms, privacy policies, and practices of those third-parties.\n\nYou may choose to disable a SMS spam filter at any time. To do so, open Settings, tap Messages, tap Unknown &amp; Spam, and remove the filter from the list.</base>
-        <tran loc="es">Los filtros de SMS no deseados te ofrecen una forma de detectar y filtrar los mensajes SMS y MMS que recibes. Si decides instalar y utilizar un filtro de SMS no deseados de otro proveedor en tu dispositivo, dicho proveedor tendrá pleno acceso al texto y al contenido de los mensajes SMS y MMS entrantes cuyo remitente no esté en tu lista de contactos. Los mensajes SMS y MMS pueden incluir códigos de verificación de entidades bancarias y otras instituciones, así como información personal o confidencial.\n\nSi respondes a un mensaje SMS o MMS tres veces o añades el número del remitente a tu lista de contactos, los mensajes SMS y MMS de dicho remitente no volverán a enviarse al proveedor del filtro.\n\nSi decides utilizar un proveedor de filtros de SMS no deseados independiente, estarás sujeto a sus condiciones de uso, a su política de privacidad y a sus procedimientos. Te recomendamos que te informes sobre las condiciones de uso, las políticas de privacidad y los procedimientos del proveedor del filtro.\n\nPuedes desactivar el filtro de SMS no deseados en cualquier momento. Para ello, abre Ajustes &gt; Mensajes &gt; “Desconocido y no deseado” y elimina el filtro de la lista.</tran>
+        <tran loc="es-419">Los filtros contra SMS no deseados te ofrecen una forma de detectar y filtrar mensajes SMS y MMS no deseados. Si eliges instalar y utilizar uno de ellos de un proveedor de terceros en tu dispositivo, se otorgará acceso a dicho proveedor al texto y contenido incluido en los mensajes SMS y MMS que recibas de los remitentes que no formen parte de tus Contactos. Entre estos mensajes podrían encontrarse códigos de verificación de bancos y otras instituciones; así como información personal o confidencial.\n\nSi respondes tres veces a mensajes SMS o MMS de un mismo remitente, o si agregas a este último a tus Contactos, dichos mensajes dejarán de enviarse al proveedor del filtro.\n\Si utilizas uno de estos filtros, deberás aceptar los términos, la política de privacidad y las prácticas del proveedor del mismo. Te sugerimos revisar sus términos, política de privacidad y prácticas.\n\nPuedes desactivar el filtro en cualquier momento al eliminarlo de la lista que se encuentra en Configuración &gt; Mensajes &gt; Desconocidos y no deseados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3118,7 +3118,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>ALLOW_GROUP_MESSAGING</Position>
       <TranslationSet>
         <base loc="en">Group Messaging</base>
-        <tran loc="es">Mensajería en grupo</tran>
+        <tran loc="es-419">Mensajería en grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3126,7 +3126,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_MULTIPLE_PHONE_NUMBERS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Sharing Name and Photo is not available because multiple phone numbers are associated to your Apple ID</base>
-        <tran loc="es">La opción de compartir nombre y foto no está disponible porque hay varios números de teléfono asociados a tu ID de Apple</tran>
+        <tran loc="es-419">Compartir nombre y foto no está disponible porque hay varios números telefónicos asociados a tu Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3134,7 +3134,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>PRIVACY_WARNING_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Don’t Enable</base>
-        <tran loc="es">No activar</tran>
+        <tran loc="es-419">No activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3142,7 +3142,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SHOW_SUBJECT_FIELD</Position>
       <TranslationSet>
         <base loc="en">Show Subject Field</base>
-        <tran loc="es">Mostrar campo Asunto</tran>
+        <tran loc="es-419">Mostrar campo Asunto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3150,7 +3150,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MADRID_ACCOUNTS</Position>
       <TranslationSet>
         <base loc="en">Send &amp; Receive</base>
-        <tran loc="es">Enviar y recibir</tran>
+        <tran loc="es-419">Enviar y recibir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3158,7 +3158,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>SEND_AS_SMS_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Send as SMS when iMessage is unavailable. Carrier messaging rates may apply.</base>
-        <tran loc="es">Envía como SMS si iMessage no está disponible. Puede que el operador te cobre.</tran>
+        <tran loc="es-419">Enviar como SMS si iMessage no está disponible. Puede que el operador cobre este servicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3166,7 +3166,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MMS_EMAIL_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">example@me.com</base>
-        <tran loc="es">ejemplo@me.com</tran>
+        <tran loc="es-419">ejemplo@me.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3174,7 +3174,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>PREVIEW_TRANSCODING_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">When this is on, images sent will be lower quality.</base>
-        <tran loc="es">Si esta opción está activada, las imágenes se enviarán con menos calidad.</tran>
+        <tran loc="es-419">Si se activa, las imágenes enviadas serán de menor calidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3182,7 +3182,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>JUNK_CONVERSATIONS</Position>
       <TranslationSet>
         <base loc="en">Junk</base>
-        <tran loc="es">No deseado</tran>
+        <tran loc="es-419">No deseado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3190,7 +3190,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_ACCOUNT_MISMATCH_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Sharing Name and Photo is not available because iCloud and iMessage accounts are different or are not signed in</base>
-        <tran loc="es">La opción de compartir nombre y foto no está disponible porque las cuentas de iCloud y iMessage son distintas o no has iniciado sesión en ellas</tran>
+        <tran loc="es-419">Compartir nombre y foto no está disponible porque las cuentas de iCloud y iMessage son diferentes o no se ha iniciado sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3198,7 +3198,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>READ_RECEIPTS</Position>
       <TranslationSet>
         <base loc="en">Send Read Receipts</base>
-        <tran loc="es">Notificar lectura</tran>
+        <tran loc="es-419">Notificar lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3206,7 +3206,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NEVER</Position>
       <TranslationSet>
         <base loc="en">Never</base>
-        <tran loc="es">Nunca</tran>
+        <tran loc="es-419">Nunca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3214,7 +3214,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING</Position>
       <TranslationSet>
         <base loc="en">Share Name and Photo</base>
-        <tran loc="es">Compartir nombre y foto</tran>
+        <tran loc="es-419">Compartir nombre y foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3222,7 +3222,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>LOWER_CASE_1_YEAR</Position>
       <TranslationSet>
         <base loc="en">1 year</base>
-        <tran loc="es">1 año</tran>
+        <tran loc="es-419">1 año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3230,7 +3230,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>EXPIRE</Position>
       <TranslationSet>
         <base loc="en">Expire</base>
-        <tran loc="es">Caducidad</tran>
+        <tran loc="es-419">Vigencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3238,7 +3238,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>KEEP_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">Keep Messages</base>
-        <tran loc="es">Conservar mensajes</tran>
+        <tran loc="es-419">Conservar mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3246,7 +3246,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>VIDEO_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">Video Messages</base>
-        <tran loc="es">Mensajes de vídeo</tran>
+        <tran loc="es-419">Mensajes de video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3254,7 +3254,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>KEEP_MESSAGES_1YEAR</Position>
       <TranslationSet>
         <base loc="en">1 Year</base>
-        <tran loc="es">1 año</tran>
+        <tran loc="es-419">1 año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3262,7 +3262,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MESSAGES</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3270,7 +3270,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_EVERYONE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Everyone</base>
-        <tran loc="es">Todos</tran>
+        <tran loc="es-419">Todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3278,7 +3278,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>AFTER_1_YEAR</Position>
       <TranslationSet>
         <base loc="en">After 1 Year</base>
-        <tran loc="es">Al cabo de un año</tran>
+        <tran loc="es-419">Después de un año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3286,7 +3286,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>NAME_AND_PHOTO_SHARING_NOT_SHARING_LABEL</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3294,7 +3294,7 @@ signing in. FACETIME_SIGNIN_ERROR_GENERIC is the catch-all </Description>
       <Position>MESSAGES_ACCOUNTS</Position>
       <TranslationSet>
         <base loc="en">iMessage &amp; FaceTime Line</base>
-        <tran loc="es">Línea para iMessage y FaceTime</tran>
+        <tran loc="es-419">iMessage y línea de FaceTime</tran>
       </TranslationSet>
     </TextItem>
   </File>

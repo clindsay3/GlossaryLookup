@@ -8,7 +8,7 @@
       <Position>DND_ONE_HOUR_LIFETIME_TITLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">On for 1 hour</base>
-        <tran loc="es">Durante 1 hora</tran>
+        <tran loc="es-419">Durante una hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>DND_UNTIL_EVENING_LIFETIME_TITLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">On until this evening</base>
-        <tran loc="es">Hasta esta noche</tran>
+        <tran loc="es-419">Hasta esta noche</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>DND_ONE_HOUR_LIFETIME_TITLE</Position>
       <TranslationSet>
         <base loc="en">For 1 hour</base>
-        <tran loc="es">Durante 1 hora</tran>
+        <tran loc="es-419">Durante una hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>DND_UNTIL_END_NEXT_EVENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Until the end of the next event</base>
-        <tran loc="es">Hasta el final del evento siguiente</tran>
+        <tran loc="es-419">Hasta que el próximo evento termine</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>DND_UNTIL_END_EVENT_DURATION_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">%@ - %@ %@</base>
-        <tran loc="es">%@ - %@ %@</tran>
+        <tran loc="es-419">%@ - %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>DND_UNTIL_MORNING_LIFETIME_TITLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">On until tomorrow morning</base>
-        <tran loc="es">Hasta mañana por la mañana</tran>
+        <tran loc="es-419">Hasta mañana por la mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>DND_UNTIL_I_LEAVE_LIFETIME_TITLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">On until I leave</base>
-        <tran loc="es">Hasta que me vaya</tran>
+        <tran loc="es-419">Hasta que salga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>DND_UNTIL_MORNING_LIFETIME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Until tomorrow morning</base>
-        <tran loc="es">Hasta mañana por la mañana</tran>
+        <tran loc="es-419">Hasta mañana por la mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>DND_UNTIL_I_LEAVE_LIFETIME_WITH_LOW_CONFIDENCE_LOI_METADATA</Position>
       <TranslationSet>
         <base loc="en">Nearby %@</base>
-        <tran loc="es">Cerca de %@</tran>
+        <tran loc="es-419">%@ cerca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>DND_UNTIL_I_LEAVE_LIFETIME_WITH_HIGH_CONFIDENCE_LOI_METADATA</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>DND_UNTIL_I_LEAVE_LIFETIME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Until I leave this location</base>
-        <tran loc="es">Hasta que me vaya de aquí</tran>
+        <tran loc="es-419">Hasta dejar esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>DND_UNTIL_END_THIS_EVENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Until the end of this event</base>
-        <tran loc="es">Hasta el final de este evento</tran>
+        <tran loc="es-419">Hasta que este evento termine</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>DND_UNTIL_EVENING_LIFETIME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Until this evening</base>
-        <tran loc="es">Hasta esta noche</tran>
+        <tran loc="es-419">Hasta esta noche</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>DND_UNTIL_END_NEXT_EVENT_TITLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">On until end of event</base>
-        <tran loc="es">Hasta el final del evento</tran>
+        <tran loc="es-419">Hasta que el evento termine</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>DND_UNTIL_END_THIS_EVENT_TITLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">On until end of event</base>
-        <tran loc="es">Hasta el final del evento</tran>
+        <tran loc="es-419">Hasta que el evento termine</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -143,7 +143,7 @@
       <Position>DND_NOTIFICATION_TURN_OFF_ACTION</Position>
       <TranslationSet>
         <base loc="en">Turn Off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>DND_NOTIFICATION_DRIVING_TURN_OFF_ACTION</Position>
       <TranslationSet>
         <base loc="en">I’m Not Driving</base>
-        <tran loc="es">No estoy conduciendo</tran>
+        <tran loc="es-419">No voy al volante</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -162,7 +162,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until %@ while your iPad is locked.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones aparecerán en el centro de notificaciones hasta las %@.</tran>
+        <tran loc="es-419">Mientras tu iPad esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -170,7 +170,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center while your iPad is locked.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Mientras tu iPad esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -178,7 +178,7 @@
       <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPod is locked until your event ends at %@ on %@.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones se silenciarán hasta que termine el evento el %2$@ a las %1$@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPod está bloqueado hasta que tu evento termine a la(s) %@ del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -186,7 +186,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until tomorrow at %@ while your iPhone is locked.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones aparecerán en el centro de notificaciones hasta mañana a las %@.</tran>
+        <tran loc="es-419">Mientras tu iPhone esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -194,7 +194,7 @@
       <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced until your event ends at %@.</base>
-        <tran loc="es">Las llamadas y las notificaciones se silenciarán hasta que termine el evento a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán hasta que tu evento termine a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -202,7 +202,7 @@
       <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced until tomorrow at %@.</base>
-        <tran loc="es">Las llamadas y las notificaciones se silenciarán hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -210,7 +210,7 @@
       <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced until %@.</base>
-        <tran loc="es">Las llamadas y las notificaciones se silenciarán hasta %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -218,7 +218,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until %@.</base>
-        <tran loc="es">Las notificaciones aparecerán en el centro de notificaciones hasta las %@.</tran>
+        <tran loc="es-419">Las notificaciones se mostrarán en el centro de notificaciones hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -226,7 +226,7 @@
       <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPhone is locked until you leave this location.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas y las notificaciones se silenciarán hasta que te marches de este lugar.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPhone está bloqueado hasta que salgas de esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -234,7 +234,7 @@
       <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPhone is locked until tomorrow at %@.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas y las notificaciones se silenciarán hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPhone está bloqueado hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -242,7 +242,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until tomorrow at %@ while your iPod is locked.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones hasta mañana a las %@.</tran>
+        <tran loc="es-419">Mientras tu iPod esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -250,7 +250,7 @@
       <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPod is locked until your event ends at %@ on %@.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento el %2$@ a las %1$@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPod está bloqueado hasta que tu evento termine a la(s) %@ del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -258,7 +258,7 @@
       <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPad is locked until %@.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones se silenciarán hasta las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPad está bloqueado hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -266,7 +266,7 @@
       <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPad is locked.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas y las notificaciones se silenciarán.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPad está bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -274,7 +274,7 @@
       <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced until your event ends at %@ on %@.</base>
-        <tran loc="es">Las llamadas y las notificaciones se silenciarán hasta que termine el evento el %2$@ a las %1$@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán hasta que tu evento termine a las %@ del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until tomorrow at %@.</base>
-        <tran loc="es">Las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones hasta mañana a las %@.</tran>
+        <tran loc="es-419">Se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced until tomorrow at %@.</base>
-        <tran loc="es">Las notificaciones se silenciarán hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPod is locked until your event ends at %@ tomorrow.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones se silenciarán hasta que termine el evento mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPod está bloqueado hasta que tu evento termine mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPhone is locked until your event ends at %@.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPhone está bloqueado hasta que tu evento termine a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until tomorrow at %@.</base>
-        <tran loc="es">Las notificaciones aparecerán en el centro de notificaciones hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se mostrarán en el centro de notificaciones hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until tomorrow at %@ while your iPhone is locked.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones hasta mañana a las %@.</tran>
+        <tran loc="es-419">Mientras tu iPhone esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -330,7 +330,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until tomorrow at %@ while your iPod is locked.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones aparecerán en el centro de notificaciones hasta mañana a las %@.</tran>
+        <tran loc="es-419">Mientras tu iPod esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -338,7 +338,7 @@
       <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPhone is locked until your event ends at %@ on %@.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento el %2$@ a las %1$@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPhone está bloqueado hasta que tu evento termine a la(s) %@ del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -346,7 +346,7 @@
       <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPhone is locked until your event ends at %@.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones se silenciarán hasta que termine el evento a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPhone está bloqueado hasta que tu evento termine a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -354,7 +354,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center.</base>
-        <tran loc="es">Se mostrarán notificaciones en el centro de notificaciones.</tran>
+        <tran loc="es-419">Las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -362,7 +362,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center.</base>
-        <tran loc="es">Se mostrarán notificaciones en el centro de notificaciones.</tran>
+        <tran loc="es-419">Las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -370,7 +370,7 @@
       <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPhone is locked until your event ends at %@ tomorrow.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento mañana a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPhone está bloqueado hasta que tu evento termine mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -378,7 +378,7 @@
       <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPad is locked until your event ends at %@ tomorrow.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones se silenciarán hasta que termine el evento mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPad está bloqueado hasta que tu evento termine mañana a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -386,7 +386,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_ALARM_BODY_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until your wake up alarm at %@.</base>
-        <tran loc="es">Hasta que suene la alarma a las %@, las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Las notificaciones se mostrarán en el centro de notificaciones hasta que suene tu despertador a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -394,7 +394,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_ALARM_TOMORROW_BODY_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until your wake up alarm at %@.</base>
-        <tran loc="es">Hasta que suene la alarma a las %@, las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Las notificaciones se mostrarán en el centro de notificaciones hasta que suene tu despertador a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -402,7 +402,7 @@
       <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced until Do Not Disturb is turned off.</base>
-        <tran loc="es">Las notificaciones se silenciarán hasta que desactives el modo “No molestar”.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán hasta que se desactive "No molestar"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -410,7 +410,7 @@
       <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced until your event ends at %@.</base>
-        <tran loc="es">Las notificaciones se silenciarán hasta que termine el evento a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán hasta que tu evento termine a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -418,7 +418,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center while your iPhone is locked.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Mientras tu iPhone esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -426,7 +426,7 @@
       <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPod is locked until %@.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones se silenciarán hasta las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPod está bloqueado hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -434,7 +434,7 @@
       <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPod is locked until tomorrow at %@.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas y las notificaciones se silenciarán hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPod está bloqueado hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -442,7 +442,7 @@
       <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPad is locked.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones se silenciarán.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPad está bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -450,7 +450,7 @@
       <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced until %@.</base>
-        <tran loc="es">Las notificaciones se silenciarán hasta %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -458,7 +458,7 @@
       <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPhone is locked until %@.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones se silenciarán hasta las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPhone está bloqueado hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -466,7 +466,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until %@ while your iPod is locked.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones hasta las %@.</tran>
+        <tran loc="es-419">Mientras tu iPod esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -474,7 +474,7 @@
       <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced until your event ends at %@ tomorrow.</base>
-        <tran loc="es">Las llamadas y las notificaciones se silenciarán hasta que termine el evento mañana a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán hasta que tu evento termine mañana a la(s)s %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -482,15 +482,7 @@
       <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPod is locked until you leave this location.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones se silenciarán hasta que te marches de este lugar.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>DND_NOTIFICATION_BEDTIME_BODY</Position>
-      <TranslationSet>
-        <base loc="en">Calls will be silenced and notifications will appear in Notification Center.</base>
-        <tran loc="es">Las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPod está bloqueado hasta que salgas de esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -498,7 +490,15 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center.</base>
-        <tran loc="es">Las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>DND_NOTIFICATION_BEDTIME_BODY</Position>
+      <TranslationSet>
+        <base loc="en">Calls will be silenced and notifications will appear in Notification Center.</base>
+        <tran loc="es-419">Se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -506,7 +506,7 @@
       <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPad is locked until your event ends at %@ tomorrow.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento mañana a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPad está bloqueado hasta que tu evento termine mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -514,7 +514,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center while your iPad is locked.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Mientras tu iPad esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -522,7 +522,7 @@
       <Position>DND_NOTIFICATION_DRIVING_BODY</Position>
       <TranslationSet>
         <base loc="en">You will not receive notifications while you are driving.</base>
-        <tran loc="es">No recibirás notificaciones mientras conduces.</tran>
+        <tran loc="es-419">No recibirás notificaciones mientras vas al volante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -530,7 +530,7 @@
       <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPhone is locked until you leave this location.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones se silenciarán hasta que te marches de este lugar.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPhone está bloqueado hasta que salgas de esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -538,7 +538,7 @@
       <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPad is locked until tomorrow at %@.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones se silenciarán hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPad está bloqueado hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -546,7 +546,7 @@
       <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPod is locked until you leave this location.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas y las notificaciones se silenciarán hasta que te marches de este lugar.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPod está bloqueado hasta que salgas de esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -554,7 +554,7 @@
       <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPhone is locked until %@.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas y las notificaciones se silenciarán hasta las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPhone está bloqueado hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -562,7 +562,7 @@
       <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced until your event ends at %@ tomorrow.</base>
-        <tran loc="es">Las notificaciones se silenciarán hasta que termine el evento mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán hasta que tu evento termine mañana a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -570,7 +570,7 @@
       <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPod is locked until your event ends at %@ tomorrow.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento mañana a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPod está bloqueado hasta que tu evento termine mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -578,7 +578,7 @@
       <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPad is locked until you leave this location.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones se silenciarán hasta que te marches de este lugar.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPad está bloqueado hasta que salgas de esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -586,7 +586,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until %@ while your iPhone is locked.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones aparecerán en el centro de notificaciones hasta las %@.</tran>
+        <tran loc="es-419">Mientras tu iPhone esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -594,7 +594,7 @@
       <Position>DND_NOTIFICATION_EVENT_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPhone is locked until your event ends at %@ tomorrow.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones se silenciarán hasta que termine el evento mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPhone está bloqueado hasta que tu evento termine mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -602,7 +602,7 @@
       <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPhone is locked.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones se silenciarán.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPhone está bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -610,7 +610,7 @@
       <Position>DND_NOTIFICATION_WORKOUT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb While Working Out</base>
-        <tran loc="es">No molestar mientras entreno</tran>
+        <tran loc="es-419">No molestar al entrenar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -618,7 +618,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until tomorrow at %@ while your iPad is locked.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones aparecerán en el centro de notificaciones hasta mañana a las %@.</tran>
+        <tran loc="es-419">Mientras tu iPad esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@
       <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPad is locked until your event ends at %@.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPad está bloqueado hasta que tu evento termine a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -634,7 +634,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb During Bedtime</base>
-        <tran loc="es">No molestar mientras duermo</tran>
+        <tran loc="es-419">No molestar a la hora de dormir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -642,7 +642,7 @@
       <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPad is locked until you leave this location.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas y las notificaciones se silenciarán hasta que te marches de este lugar.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPad está bloqueado hasta que salgas de esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -650,7 +650,7 @@
       <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPhone is locked until tomorrow at %@.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones se silenciarán hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPhone está bloqueado hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -658,7 +658,7 @@
       <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced until your event ends at %@ on %@.</base>
-        <tran loc="es">Las notificaciones se silenciarán hasta que termine el evento el %2$@ a las %1$@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán hasta que tu evento termine a las %@ del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -666,7 +666,7 @@
       <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPod is locked until tomorrow at %@.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones se silenciarán hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPod está bloqueado hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -674,7 +674,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until %@.</base>
-        <tran loc="es">Las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones hasta las %@.</tran>
+        <tran loc="es-419">Se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -682,7 +682,7 @@
       <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_ALWAYS_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced until you leave this location.</base>
-        <tran loc="es">Las notificaciones se silenciarán hasta que te marches de este lugar.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán hasta que salgas de esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -690,7 +690,7 @@
       <Position>DND_NOTIFICATION_WORKOUT_BODY</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while you’re in a workout.</base>
-        <tran loc="es">Las llamadas y las notificaciones se silenciarán durante los entrenos.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si estás ejercitándote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>DND_NOTIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb</base>
-        <tran loc="es">No molestar</tran>
+        <tran loc="es-419">No molestar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center while your iPod is locked.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Mientras tu iPod esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPod is locked until your event ends at %@.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones se silenciarán hasta que termine el evento a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPod está bloqueado hasta que tu evento termine a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until %@ while your iPad is locked.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones hasta las %@.</tran>
+        <tran loc="es-419">Mientras tu iPad esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPod is locked.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones se silenciarán.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPod está bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>DND_NOTIFICATION_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPad is locked until tomorrow at %@.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas y las notificaciones se silenciarán hasta mañana a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPad está bloqueado hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPad is locked until %@.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas y las notificaciones se silenciarán hasta las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPad está bloqueado hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until %@ while your iPhone is locked.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones hasta las %@.</tran>
+        <tran loc="es-419">Mientras tu iPhone esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center while your iPhone is locked.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Mientras tu iPhone esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPad is locked until your event ends at %@ on %@.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones se silenciarán hasta que termine el evento el %2$@ a las %1$@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPad está bloqueado hasta que tu evento termine a las %@ del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center while your iPod is locked.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Mientras tu iPod esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPad is locked until your event ends at %@.</base>
-        <tran loc="es">Si el iPad está bloqueado, las notificaciones se silenciarán hasta que termine el evento a las %@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPad está bloqueado hasta que tu evento termine a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will appear in Notification Center until %@ while your iPod is locked.</base>
-        <tran loc="es">Si el iPod está bloqueado, las notificaciones aparecerán en el centro de notificaciones hasta las %@.</tran>
+        <tran loc="es-419">Mientras tu iPod esté bloqueado, las notificaciones se mostrarán en el centro de notificaciones hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>DND_NOTIFICATION_DURATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPod is locked until %@.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas y las notificaciones se silenciarán hasta las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPod está bloqueado hasta la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>DND_NOTIFICATION_EVENT_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPod is locked until your event ends at %@.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento a las %@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPod está bloqueado hasta que tu evento termine a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced until Do Not Disturb is turned off.</base>
-        <tran loc="es">Las llamadas y las notificaciones se silenciarán hasta que desactives el modo “No molestar”.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán hasta que se desactive "No molestar"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPOD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPod is locked.</base>
-        <tran loc="es">Si el iPod está bloqueado, las llamadas y las notificaciones se silenciarán.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPod está bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>DND_NOTIFICATION_DRIVING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Do Not Disturb While Driving</base>
-        <tran loc="es">Modo “No molestar al conducir”</tran>
+        <tran loc="es-419">No molestar al ir al volante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_ALARM_BODY</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until your wake up alarm at %@.</base>
-        <tran loc="es">Hasta que suene la alarma a las %@, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta que suene tu despertador a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_ALARM_TOMORROW_BODY</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until your wake up alarm at %@.</base>
-        <tran loc="es">Hasta que suene la alarma a las %@, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones.</tran>
+        <tran loc="es-419">Se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta que suene tu despertador a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>DND_NOTIFICATION_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPhone is locked.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las llamadas y las notificaciones se silenciarán.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPhone está bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPHONE_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while your iPhone is locked until your event ends at %@ on %@.</base>
-        <tran loc="es">Si el iPhone está bloqueado, las notificaciones se silenciarán hasta que termine el evento el %2$@ a las %1$@.</tran>
+        <tran loc="es-419">Las notificaciones se silenciarán si tu iPhone está bloqueado hasta que tu evento termine a la(s) %@ del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>DND_NOTIFICATION_LOCATION_BODY_ALERTS_SILENCE_ALWAYS</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced until you leave this location.</base>
-        <tran loc="es">Las llamadas y las notificaciones se silenciarán hasta que te marches de este lugar.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán hasta que salgas de esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>DND_NOTIFICATION_EVENT_FUTURE_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls and notifications will be silenced while your iPad is locked until your event ends at %@ on %@.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas y las notificaciones se silenciarán hasta que termine el evento el %2$@ a las %1$@.</tran>
+        <tran loc="es-419">Las llamadas y las notificaciones se silenciarán si tu iPad está bloqueado hasta que tu evento termine a la(s) %@ del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>DND_NOTIFICATION_BEDTIME_DURATION_TOMORROW_BODY_ALERTS_SILENCE_WHILE_LOCKED_IPAD</Position>
       <TranslationSet>
         <base loc="en">Calls will be silenced and notifications will appear in Notification Center until tomorrow at %@ while your iPad is locked.</base>
-        <tran loc="es">Si el iPad está bloqueado, las llamadas se silenciarán y las notificaciones aparecerán en el centro de notificaciones hasta mañana a las %@.</tran>
+        <tran loc="es-419">Mientras tu iPad esté bloqueado, se silenciarán las llamadas y las notificaciones se mostrarán en el centro de notificaciones hasta mañana a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>DND_NOTIFICATION_WORKOUT_BODY_ALLOW_CALLS</Position>
       <TranslationSet>
         <base loc="en">Notifications will be silenced while you’re in a workout.</base>
-        <tran loc="es">Las notificaciones se silenciarán durante los entrenos.</tran>
+        <tran loc="es-419">No se mostrarán las notificaciones mientras estés entrenando</tran>
       </TranslationSet>
     </TextItem>
   </File>

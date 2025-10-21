@@ -8,7 +8,7 @@
       <Position>SUBSCRIBED_CALENDAR_GROUP_MID_SENTENCE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Subscribed</base>
-        <tran loc="es">los suscritos</tran>
+        <tran loc="es-419">los suscritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -23,7 +23,7 @@
       <Position>SUBSCRIBED_CALENDAR_GROUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Subscribed</base>
-        <tran loc="es">Los suscritos</tran>
+        <tran loc="es-419">Los suscritos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -34,7 +34,7 @@
       <Position>FROM_MY_COMPUTER_TYPE_MAC_MID_SENTENCE</Position>
       <TranslationSet>
         <base loc="en">from My Mac</base>
-        <tran loc="es">mi Mac</tran>
+        <tran loc="es-419">mi Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -42,7 +42,7 @@
       <Position>FROM_MY_COMPUTER_TYPE_PC</Position>
       <TranslationSet>
         <base loc="en">From My PC</base>
-        <tran loc="es">De mi PC</tran>
+        <tran loc="es-419">De mi PC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -50,7 +50,7 @@
       <Position>ON_MY_DEVICE_TYPE_IPHONE_SIMULATOR</Position>
       <TranslationSet>
         <base loc="en">On My iPhone Simulator</base>
-        <tran loc="es">Simulador iPhone</tran>
+        <tran loc="es-419">En mi iPhone Simulator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -58,7 +58,7 @@
       <Position>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPHONE_SIMULATOR</Position>
       <TranslationSet>
         <base loc="en">on My iPhone Simulator</base>
-        <tran loc="es">en Simulador iPhone</tran>
+        <tran loc="es-419">en mi iPhone Simulator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -66,7 +66,7 @@
       <Position>FROM_MY_COMPUTER_TYPE_MAC</Position>
       <TranslationSet>
         <base loc="en">From My Mac</base>
-        <tran loc="es">De mi Mac</tran>
+        <tran loc="es-419">De mi Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -74,7 +74,7 @@
       <Position>SYNCED_WITH_YOUR_COMPUTER_TYPE_MAC_MID_SENTENCE</Position>
       <TranslationSet>
         <base loc="en">synced with your Mac</base>
-        <tran loc="es">los sincronizados con tu Mac</tran>
+        <tran loc="es-419">los sincronizados con tu Mac</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>ON_MY_DEVICE_TYPE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">On My iPhone</base>
-        <tran loc="es">iPhone</tran>
+        <tran loc="es-419">iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPAD</Position>
       <TranslationSet>
         <base loc="en">on your iPad</base>
-        <tran loc="es">en tu iPad</tran>
+        <tran loc="es-419">en tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>FROM_MY_COMPUTER_TYPE_PC_MID_SENTENCE</Position>
       <TranslationSet>
         <base loc="en">from My PC</base>
-        <tran loc="es">mi PC</tran>
+        <tran loc="es-419">mi PC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPAD</Position>
       <TranslationSet>
         <base loc="en">on My iPad</base>
-        <tran loc="es">en iPad</tran>
+        <tran loc="es-419">en mi iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>SYNCED_WITH_YOUR_COMPUTER_TYPE_PC_MID_SENTENCE</Position>
       <TranslationSet>
         <base loc="en">synced with your PC</base>
-        <tran loc="es">los sincronizados con tu PC</tran>
+        <tran loc="es-419">los sincronizados con tu PC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPHONE_SIMULATOR</Position>
       <TranslationSet>
         <base loc="en">on your iPhone Simulator</base>
-        <tran loc="es">en tu Simulador iPhone</tran>
+        <tran loc="es-419">en tu iPhone Simulator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>ON_MY_DEVICE_TYPE_IPOD</Position>
       <TranslationSet>
         <base loc="en">On My iPod touch</base>
-        <tran loc="es">iPod touch</tran>
+        <tran loc="es-419">iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>ON_MY_DEVICE_TYPE_IPAD</Position>
       <TranslationSet>
         <base loc="en">On My iPad</base>
-        <tran loc="es">iPad</tran>
+        <tran loc="es-419">iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPOD</Position>
       <TranslationSet>
         <base loc="en">on My iPod touch</base>
-        <tran loc="es">en iPod touch</tran>
+        <tran loc="es-419">en mi iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPOD</Position>
       <TranslationSet>
         <base loc="en">on your iPod touch</base>
-        <tran loc="es">en tu iPod touch</tran>
+        <tran loc="es-419">en tu iPod touch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -170,7 +170,7 @@
       <Position>ON_YOUR_DEVICE_TYPE_MID_SENTENCE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">on your iPhone</base>
-        <tran loc="es">en tu iPhone</tran>
+        <tran loc="es-419">en tu iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -178,7 +178,7 @@
       <Position>ON_MY_DEVICE_TYPE_MID_SENTENCE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">on My iPhone</base>
-        <tran loc="es">mi iPhone</tran>
+        <tran loc="es-419">en mi iPhone</tran>
       </TranslationSet>
     </TextItem>
   </File>

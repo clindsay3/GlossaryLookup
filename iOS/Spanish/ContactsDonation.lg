@@ -14,7 +14,7 @@
       <Position>ACCOUNTS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Accounts</base>
-        <tran loc="es">Cuentas</tran>
+        <tran loc="es-419">Cuentas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>SIGNIFICANT_LOCATIONS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Significant Locations</base>
-        <tran loc="es">Lugares importantes</tran>
+        <tran loc="es-419">Ubicaciones importantes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>SETTINGS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>

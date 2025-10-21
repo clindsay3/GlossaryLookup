@@ -8,7 +8,7 @@
       <Position>Travel</Position>
       <TranslationSet>
         <base loc="en">Travel</base>
-        <tran loc="es">Viajes</tran>
+        <tran loc="es-419">Viajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Productivity</Position>
       <TranslationSet>
         <base loc="en">Productivity</base>
-        <tran loc="es">Productividad</tran>
+        <tran loc="es-419">Productividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Utilities</Position>
       <TranslationSet>
         <base loc="en">Utilities</base>
-        <tran loc="es">Utilidades</tran>
+        <tran loc="es-419">Utilidades</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Card Games</Position>
       <TranslationSet>
         <base loc="en">Card Games</base>
-        <tran loc="es">Cartas</tran>
+        <tran loc="es-419">Cartas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Finance</Position>
       <TranslationSet>
         <base loc="en">Finance</base>
-        <tran loc="es">Finanzas</tran>
+        <tran loc="es-419">Finanzas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Books</Position>
       <TranslationSet>
         <base loc="en">Books</base>
-        <tran loc="es">Libros</tran>
+        <tran loc="es-419">Libros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Stores</Position>
       <TranslationSet>
         <base loc="en">Stores</base>
-        <tran loc="es">Tiendas</tran>
+        <tran loc="es-419">Tiendas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Racing Games</Position>
       <TranslationSet>
         <base loc="en">Racing</base>
-        <tran loc="es">Carreras</tran>
+        <tran loc="es-419">Carreras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Photo &amp; Video</Position>
       <TranslationSet>
         <base loc="en">Photo &amp; Video</base>
-        <tran loc="es">Fotos y vídeos</tran>
+        <tran loc="es-419">Foto y video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Music</Position>
       <TranslationSet>
         <base loc="en">Music</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Educational Games</Position>
       <TranslationSet>
         <base loc="en">Educational</base>
-        <tran loc="es">Educativo</tran>
+        <tran loc="es-419">Educativos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Board Games</Position>
       <TranslationSet>
         <base loc="en">Board Games</base>
-        <tran loc="es">Tablero</tran>
+        <tran loc="es-419">Juegos de mesa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>Extras</Position>
       <TranslationSet>
         <base loc="en">Extras</base>
-        <tran loc="es">Extras</tran>
+        <tran loc="es-419">Extras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Weather</Position>
       <TranslationSet>
         <base loc="en">Weather</base>
-        <tran loc="es">Tiempo</tran>
+        <tran loc="es-419">Clima</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Music Games</Position>
       <TranslationSet>
         <base loc="en">Music Games</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Juegos de música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>Games</Position>
       <TranslationSet>
         <base loc="en">Games</base>
-        <tran loc="es">Juegos</tran>
+        <tran loc="es-419">Juegos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>Word Games</Position>
       <TranslationSet>
         <base loc="en">Word Games</base>
-        <tran loc="es">Palabras</tran>
+        <tran loc="es-419">Palabras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -146,7 +146,7 @@
       <Position>Folder</Position>
       <TranslationSet>
         <base loc="en">Folder</base>
-        <tran loc="es">Carpeta</tran>
+        <tran loc="es-419">Carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -154,7 +154,7 @@
       <Position>Bookmarks</Position>
       <TranslationSet>
         <base loc="en">Bookmarks</base>
-        <tran loc="es">Marcadores</tran>
+        <tran loc="es-419">Marcadores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -162,7 +162,7 @@
       <Position>Adventure Games</Position>
       <TranslationSet>
         <base loc="en">Adventure</base>
-        <tran loc="es">Aventura</tran>
+        <tran loc="es-419">Aventura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -170,7 +170,7 @@
       <Position>Photography</Position>
       <TranslationSet>
         <base loc="en">Photography</base>
-        <tran loc="es">Fotografía</tran>
+        <tran loc="es-419">Fotografía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -178,7 +178,7 @@
       <Position>Dice Games</Position>
       <TranslationSet>
         <base loc="en">Dice Games</base>
-        <tran loc="es">Dados</tran>
+        <tran loc="es-419">Dados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -186,7 +186,7 @@
       <Position>Reference</Position>
       <TranslationSet>
         <base loc="en">Reference</base>
-        <tran loc="es">Referencia</tran>
+        <tran loc="es-419">Referencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -194,7 +194,7 @@
       <Position>Puzzle Games</Position>
       <TranslationSet>
         <base loc="en">Puzzle</base>
-        <tran loc="es">Puzle</tran>
+        <tran loc="es-419">Rompecabezas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -202,7 +202,7 @@
       <Position>Navigation</Position>
       <TranslationSet>
         <base loc="en">Navigation</base>
-        <tran loc="es">Navegación</tran>
+        <tran loc="es-419">Navegación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -210,7 +210,7 @@
       <Position>Sports</Position>
       <TranslationSet>
         <base loc="en">Sports</base>
-        <tran loc="es">Deportes</tran>
+        <tran loc="es-419">Deportes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -218,7 +218,7 @@
       <Position>Sports Games</Position>
       <TranslationSet>
         <base loc="en">Sports</base>
-        <tran loc="es">Deportes</tran>
+        <tran loc="es-419">Deportes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -226,7 +226,7 @@
       <Position>Lifestyle</Position>
       <TranslationSet>
         <base loc="en">Lifestyle</base>
-        <tran loc="es">Estilo de vida</tran>
+        <tran loc="es-419">Estilo de vida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -234,7 +234,7 @@
       <Position>Role Playing Games</Position>
       <TranslationSet>
         <base loc="en">Role Playing</base>
-        <tran loc="es">Juegos de rol</tran>
+        <tran loc="es-419">Juegos de rol</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -242,7 +242,7 @@
       <Position>Simulation Games</Position>
       <TranslationSet>
         <base loc="en">Simulation</base>
-        <tran loc="es">Simulación</tran>
+        <tran loc="es-419">Simulación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -250,7 +250,7 @@
       <Position>News</Position>
       <TranslationSet>
         <base loc="en">News</base>
-        <tran loc="es">Noticias</tran>
+        <tran loc="es-419">Noticias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -258,7 +258,7 @@
       <Position>Family Games</Position>
       <TranslationSet>
         <base loc="en">Kids Games</base>
-        <tran loc="es">Familiar</tran>
+        <tran loc="es-419">Juegos para niños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -266,7 +266,7 @@
       <Position>Kids Games</Position>
       <TranslationSet>
         <base loc="en">Kids Games</base>
-        <tran loc="es">Familiar</tran>
+        <tran loc="es-419">Juegos para niños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -274,7 +274,7 @@
       <Position>Entertainment</Position>
       <TranslationSet>
         <base loc="en">Entertainment</base>
-        <tran loc="es">Ocio</tran>
+        <tran loc="es-419">Ocio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>Social Networking</Position>
       <TranslationSet>
         <base loc="en">Social</base>
-        <tran loc="es">Redes sociales</tran>
+        <tran loc="es-419">Redes sociales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>Casino Games</Position>
       <TranslationSet>
         <base loc="en">Casino</base>
-        <tran loc="es">Casino</tran>
+        <tran loc="es-419">Casino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>Medical</Position>
       <TranslationSet>
         <base loc="en">Medical</base>
-        <tran loc="es">Medicina</tran>
+        <tran loc="es-419">Medicina</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>Trivia Games</Position>
       <TranslationSet>
         <base loc="en">Trivia Games</base>
-        <tran loc="es">Trivia</tran>
+        <tran loc="es-419">Trivia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>Action Games</Position>
       <TranslationSet>
         <base loc="en">Action</base>
-        <tran loc="es">Acción</tran>
+        <tran loc="es-419">Acción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>Arcade Games</Position>
       <TranslationSet>
         <base loc="en">Arcade</base>
-        <tran loc="es">Arcade</tran>
+        <tran loc="es-419">Arcade</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -330,7 +330,7 @@
       <Position>Healthcare &amp; Fitness</Position>
       <TranslationSet>
         <base loc="en">Health</base>
-        <tran loc="es">Salud</tran>
+        <tran loc="es-419">Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -338,7 +338,7 @@
       <Position>Education</Position>
       <TranslationSet>
         <base loc="en">Education</base>
-        <tran loc="es">Educación</tran>
+        <tran loc="es-419">Educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -346,7 +346,7 @@
       <Position>Strategy Games</Position>
       <TranslationSet>
         <base loc="en">Strategy</base>
-        <tran loc="es">Estrategia</tran>
+        <tran loc="es-419">Estrategia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -354,7 +354,7 @@
       <Position>Business</Position>
       <TranslationSet>
         <base loc="en">Business</base>
-        <tran loc="es">Empresa</tran>
+        <tran loc="es-419">Negocios</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>MMSC_NAME</Position>
       <TranslationSet>
         <base loc="en">MMSC</base>
-        <tran loc="es">MMSC</tran>
+        <tran loc="es-419">MMSC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Auto</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>DNS</Position>
       <TranslationSet>
         <base loc="en">DNS</base>
-        <tran loc="es">DNS</tran>
+        <tran loc="es-419">DNS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>RESET_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Reset Settings</base>
-        <tran loc="es">Restablecer ajustes</tran>
+        <tran loc="es-419">Restablecer configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>TETHERING_NAME</Position>
       <TranslationSet>
         <base loc="en">Personal Hotspot</base>
-        <tran loc="es">Punto de acceso personal</tran>
+        <tran loc="es-419">Compartir Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>RESET</Position>
       <TranslationSet>
         <base loc="en">Reset</base>
-        <tran loc="es">Restablecer</tran>
+        <tran loc="es-419">Restablecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Server</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Manual</Position>
       <TranslationSet>
         <base loc="en">Manual</base>
-        <tran loc="es">Manual</tran>
+        <tran loc="es-419">Manual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>VISUAL_VOICEMAIL</Position>
       <TranslationSet>
         <base loc="en">Visual Voicemail</base>
-        <tran loc="es">Buzón de voz visual</tran>
+        <tran loc="es-419">Buzón de voz visual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>CELLULAR_DATA</Position>
       <TranslationSet>
         <base loc="en">Cellular Data</base>
-        <tran loc="es">Datos móviles</tran>
+        <tran loc="es-419">Datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>EDGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cellular Data</base>
-        <tran loc="es">Datos móviles</tran>
+        <tran loc="es-419">Datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>MMS_MAX_MESSAGE_SIZE</Position>
       <TranslationSet>
         <base loc="en">MMS Max Message Size</base>
-        <tran loc="es">Tamaño máximo de MMS</tran>
+        <tran loc="es-419">Tamaño máximo de MMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>LTE_ATTACH_APN</Position>
       <TranslationSet>
         <base loc="en">LTE Setup (optional)</base>
-        <tran loc="es">Configuración LTE (opcional)</tran>
+        <tran loc="es-419">Configuración LTE (opcional)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>MMS_UA_PROF_URL</Position>
       <TranslationSet>
         <base loc="en">MMS UA Prof URL</base>
-        <tran loc="es">URL de UAProf de MMS</tran>
+        <tran loc="es-419">URL de UAProf de MMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>APN</Position>
       <TranslationSet>
         <base loc="en">APN</base>
-        <tran loc="es">Punto de acceso</tran>
+        <tran loc="es-419">Punto de acceso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>APN_NAME</Position>
       <TranslationSet>
         <base loc="en">APN</base>
-        <tran loc="es">Punto de acceso</tran>
+        <tran loc="es-419">Punto de acceso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>MMS_NAME</Position>
       <TranslationSet>
         <base loc="en">MMS</base>
-        <tran loc="es">MMS</tran>
+        <tran loc="es-419">MMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>RESET_SETTINGS_CONFIRMATION_STRING</Position>
       <TranslationSet>
         <base loc="en">Are you sure you wish to reset all network-related settings to their original values?</base>
-        <tran loc="es">¿Seguro que quieres restablecer todos los ajustes de red a los valores originales?</tran>
+        <tran loc="es-419">¿Seguro que quieres restablecer toda la configuración de red a los valores originales?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>MMS_PROXY</Position>
       <TranslationSet>
         <base loc="en">MMS Proxy</base>
-        <tran loc="es">Proxy MMS</tran>
+        <tran loc="es-419">Proxy MMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>HTTP Proxy</Position>
       <TranslationSet>
         <base loc="en">HTTP Proxy</base>
-        <tran loc="es">Proxy HTTP</tran>
+        <tran loc="es-419">Proxy HTTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>Port</Position>
       <TranslationSet>
         <base loc="en">Port</base>
-        <tran loc="es">Puerto</tran>
+        <tran loc="es-419">Puerto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>Advanced</Position>
       <TranslationSet>
         <base loc="en">Advanced</base>
-        <tran loc="es">Avanzado</tran>
+        <tran loc="es-419">Avanzado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>Off</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>IMS_NAME</Position>
       <TranslationSet>
         <base loc="en">IMS</base>
-        <tran loc="es">IMS</tran>
+        <tran loc="es-419">IMS</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -227,7 +227,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple Computer, 2006</base>
-        <tran loc="es">© Apple Computer, 2006</tran>
+        <tran loc="es-419">© Apple Computer, 2006</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">EDGESettings</base>
-        <tran loc="es">EDGESettings</tran>
+        <tran loc="es-419">EDGESettings</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -246,7 +246,7 @@
       <Position>TELEPHONY_LOGS</Position>
       <TranslationSet>
         <base loc="en">Telephony Logging</base>
-        <tran loc="es">Registro de telefonía</tran>
+        <tran loc="es-419">Registro de telefonía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>EDGE</Position>
       <TranslationSet>
         <base loc="en">Cellular Data Network</base>
-        <tran loc="es">Red de datos móviles</tran>
+        <tran loc="es-419">Red de datos celulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>APN_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">APN Settings</base>
-        <tran loc="es">Ajustes APN</tran>
+        <tran loc="es-419">Configuración APN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>

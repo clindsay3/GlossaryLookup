@@ -8,7 +8,7 @@
       <Position>Contacts &amp; Images</Position>
       <TranslationSet>
         <base loc="en">Contacts &amp; Images</base>
-        <tran loc="es">Contactos e imágenes</tran>
+        <tran loc="es-419">Contactos e imágenes</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>My Info</Position>
       <TranslationSet>
         <base loc="en">My Info</base>
-        <tran loc="es">Mis datos</tran>
+        <tran loc="es-419">Mis datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -27,7 +27,7 @@
       <Position>Importing contacts</Position>
       <TranslationSet>
         <base loc="en">Importing SIM Contacts…</base>
-        <tran loc="es">Importando contactos de la SIM…</tran>
+        <tran loc="es-419">Importando contactos de la SIM…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>Import SIM Contacts</Position>
       <TranslationSet>
         <base loc="en">Import SIM Contacts</base>
-        <tran loc="es">Importar contactos de la SIM</tran>
+        <tran loc="es-419">Importar contactos de la SIM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>SHORT_NAME_FORMAT_INITIAL_FIRST</Position>
       <TranslationSet>
         <base loc="en">First Initial &amp; Last Name</base>
-        <tran loc="es">Inicial del nombre + apellido</tran>
+        <tran loc="es-419">Inicial del nombre y apellido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>SHORT_NAME_FORMAT_EXPLANATORY</Position>
       <TranslationSet>
         <base loc="en">Short names are sometimes used to fit more names on screen. Chinese, Japanese, and Korean names are not affected by this setting.</base>
-        <tran loc="es">A veces se usan nombres cortos para mostrar más nombres en la pantalla (este ajuste no afecta a los nombres en chino, japonés y coreano).</tran>
+        <tran loc="es-419">A veces, los nombres se acortan para ahorrar espacio en la pantalla. Esto no afecta los nombres chinos, japoneses y coreanos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>SHORT_NAME_FORMAT_INITIAL_LAST</Position>
       <TranslationSet>
         <base loc="en">First Name &amp; Last Initial</base>
-        <tran loc="es">Nombre + inicial del apellido</tran>
+        <tran loc="es-419">Nombre e inicial del apellido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>Short Name</Position>
       <TranslationSet>
         <base loc="en">Short Name</base>
-        <tran loc="es">Nombre corto</tran>
+        <tran loc="es-419">Nombre corto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>PHOTOS_EVERYWHERE</Position>
       <TranslationSet>
         <base loc="en">Show Photos</base>
-        <tran loc="es">Mostrar fotos</tran>
+        <tran loc="es-419">Mostrar fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>DISPLAY_ORDER_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Names in some languages such as Chinese, Japanese, and Korean follow a fixed order and will not be affected.</base>
-        <tran loc="es">Los nombres escritos en chino, japonés o coreano tienen un orden fijo, por lo que este ajuste no les afectará.</tran>
+        <tran loc="es-419">Los nombres en algunos idiomas como el chino, el japonés y el coreano siguen un orden fijo y no cambiarán.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>DEFAULT_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Default Account</base>
-        <tran loc="es">Cuenta por omisión</tran>
+        <tran loc="es-419">Cuenta predeterminada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>Display Order</Position>
       <TranslationSet>
         <base loc="en">Display Order</base>
-        <tran loc="es">Mostrar como</tran>
+        <tran loc="es-419">Mostrar como</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>SHORT_NAME_FORMAT_LAST_ONLY</Position>
       <TranslationSet>
         <base loc="en">Last Name Only</base>
-        <tran loc="es">Solo el apellido</tran>
+        <tran loc="es-419">Sólo el apellido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>LAST</Position>
       <TranslationSet>
         <base loc="en">Last, First</base>
-        <tran loc="es">Apellido, nombre</tran>
+        <tran loc="es-419">Apellido, nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>SHORT_NAME_FORMAT_FIRST_ONLY</Position>
       <TranslationSet>
         <base loc="en">First Name Only</base>
-        <tran loc="es">Solo el nombre</tran>
+        <tran loc="es-419">Sólo el nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>Sort Order</Position>
       <TranslationSet>
         <base loc="en">Sort Order</base>
-        <tran loc="es">Ordenar por</tran>
+        <tran loc="es-419">Ordenar como</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>DEFAULT_CONTACTS_EXPLANATORY</Position>
       <TranslationSet>
         <base loc="en">New contacts created outside of a specific account will be added to this account.</base>
-        <tran loc="es">Se añadirán a esta cuenta los nuevos contactos creados sin una cuenta específica.</tran>
+        <tran loc="es-419">Se agregarán a esta cuenta los nuevos contactos creados sin una cuenta específica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>PREFER_NICKNAMES_EXPLANTORY</Position>
       <TranslationSet>
         <base loc="en">Always use nicknames when available.</base>
-        <tran loc="es">Usar siempre los alias cuando los haya.</tran>
+        <tran loc="es-419">Usa apodos siempre que estén disponibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>FIRST</Position>
       <TranslationSet>
         <base loc="en">First, Last</base>
-        <tran loc="es">Nombre, apellido</tran>
+        <tran loc="es-419">Nombre, apellido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>IMPORT_CONTACTS_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Import SIM Contacts to Account</base>
-        <tran loc="es">Importar contactos de la SIM en la cuenta</tran>
+        <tran loc="es-419">Importar contactos de la SIM en la cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>Prefer Nicknames</Position>
       <TranslationSet>
         <base loc="en">Prefer Nicknames</base>
-        <tran loc="es">Preferir alias</tran>
+        <tran loc="es-419">Preferir apodos</tran>
       </TranslationSet>
     </TextItem>
   </File>

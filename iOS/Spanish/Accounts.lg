@@ -8,7 +8,7 @@
       <Position>NEW_ACCOUNT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%@ has been added.</base>
-        <tran loc="es">%@ se ha añadido.</tran>
+        <tran loc="es-419">Se agregó %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>VERIFICATION_REQUIRED_MESSAGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Log in to your %@ account “%@”.</base>
-        <tran loc="es">Inicia sesión en tu cuenta de %@ “%@”.</tran>
+        <tran loc="es-419">Inicia sesión en tu cuenta de %@ “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>NEW_ACCOUNT_MULTIPLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">New Accounts Added</base>
-        <tran loc="es">Nuevas cuentas añadidas</tran>
+        <tran loc="es-419">Nuevas cuentas agregadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>ICLOUD_STORAGE</Position>
       <TranslationSet>
         <base loc="en">iCloud Storage</base>
-        <tran loc="es">Almacenamiento en iCloud</tran>
+        <tran loc="es-419">Almacenamiento de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>AUTH_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>NEW_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">%@ Account Added</base>
-        <tran loc="es">Cuenta de %@ añadida</tran>
+        <tran loc="es-419">Cuenta de %@ agregada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>AUTH_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter the %@ password for “%@” in Settings.</base>
-        <tran loc="es">Introduce la contraseña de %@ de “%@” en Ajustes.</tran>
+        <tran loc="es-419">Ingresa la contraseña de %@ de “%@” en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>NEW_ACCOUNT_MULTIPLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Several new accounts have been added.</base>
-        <tran loc="es">Se han añadido varias cuentas nuevas.</tran>
+        <tran loc="es-419">Se agregaron nuevas cuentas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>AUTH_ALERT_MESSAGE_OSX</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@” in System Preferences.</base>
-        <tran loc="es">Introduce la contraseña de “%@” en Preferencias del Sistema.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@” en Preferencias del Sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>AUTH_ALERT_PREFERENCES</Position>
       <TranslationSet>
         <base loc="en">Preferences…</base>
-        <tran loc="es">Preferencias…</tran>
+        <tran loc="es-419">Preferencias…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>TURN_ON</Position>
       <TranslationSet>
         <base loc="en">Turn On</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>DONT_ALLOW</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>ACCOUNT_ACCESS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">“%1$@” Would Like Access to %2$@ Accounts</base>
-        <tran loc="es">“%1$@” quiere obtener acceso a cuentas %2$@</tran>
+        <tran loc="es-419">“%1$@” quiere obtener acceso a cuentas %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>AUTH_ALERT_TITLE_OSX</Position>
       <TranslationSet>
         <base loc="en">%@ Password</base>
-        <tran loc="es">Contraseña de %@</tran>
+        <tran loc="es-419">Contraseña %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>VERIFICATION_REQUIRED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Verification Required</base>
-        <tran loc="es">Verificación obligatoria</tran>
+        <tran loc="es-419">Verificación obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -159,7 +159,7 @@
       <Position>AUTH_ALERT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -167,7 +167,7 @@
       <Position>NEW_ACCOUNT_MUTLIPLE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -178,7 +178,7 @@
       <Position>KERBEROS_ALERT_TEXTFIELD</Position>
       <TranslationSet>
         <base loc="en">password</base>
-        <tran loc="es">contraseña</tran>
+        <tran loc="es-419">contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -186,7 +186,7 @@
       <Position>KERBEROS_ALERT_MESSAGE_WITH_USERNAME</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@”.</base>
-        <tran loc="es">Introduce la contraseña de “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>OKAY</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>KERBEROS_ALERT_TITLE_WITH_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
   </File>

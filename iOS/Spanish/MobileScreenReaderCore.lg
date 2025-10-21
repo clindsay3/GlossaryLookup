@@ -8,7 +8,7 @@
       <Position>link.rel.author</Position>
       <TranslationSet>
         <base loc="en">Author</base>
-        <tran loc="es">Autor</tran>
+        <tran loc="es-419">Autor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>invalid brightness value</Position>
       <TranslationSet>
         <base loc="en">invalid brightness value</base>
-        <tran loc="es">valor de brillo no válido</tran>
+        <tran loc="es-419">valor de brillo no válido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>link.rel.archives</Position>
       <TranslationSet>
         <base loc="en">Archive</base>
-        <tran loc="es">Archivos</tran>
+        <tran loc="es-419">Archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>link.rel.previous</Position>
       <TranslationSet>
         <base loc="en">Previous document</base>
-        <tran loc="es">Documento anterior</tran>
+        <tran loc="es-419">Documento anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>link.rel.next</Position>
       <TranslationSet>
         <base loc="en">Next document</base>
-        <tran loc="es">Documento siguiente</tran>
+        <tran loc="es-419">Documento siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>orange</Position>
       <TranslationSet>
         <base loc="en">orange</base>
-        <tran loc="es">naranja</tran>
+        <tran loc="es-419">naranja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>link.rel.index</Position>
       <TranslationSet>
         <base loc="en">Index</base>
-        <tran loc="es">Índice</tran>
+        <tran loc="es-419">Índice</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>red orange</Position>
       <TranslationSet>
         <base loc="en">red orange</base>
-        <tran loc="es">naranja rojizo</tran>
+        <tran loc="es-419">naranja rojizo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>blue green</Position>
       <TranslationSet>
         <base loc="en">blue green</base>
-        <tran loc="es">turquesa</tran>
+        <tran loc="es-419">verde azulado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>yellow green</Position>
       <TranslationSet>
         <base loc="en">yellow green</base>
-        <tran loc="es">verde amarillento</tran>
+        <tran loc="es-419">verde amarillento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>purple</Position>
       <TranslationSet>
         <base loc="en">purple</base>
-        <tran loc="es">morado</tran>
+        <tran loc="es-419">morado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>alphaValueFormatString</Position>
       <TranslationSet>
         <base loc="en">%d percent</base>
-        <tran loc="es">%d por ciento</tran>
+        <tran loc="es-419">%d por ciento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>brightnessValueFormatString</Position>
       <TranslationSet>
         <base loc="en">%d percent</base>
-        <tran loc="es">%d por ciento</tran>
+        <tran loc="es-419">%d por ciento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>saturationValueFormatString</Position>
       <TranslationSet>
         <base loc="en">%d percent</base>
-        <tran loc="es">%d por ciento</tran>
+        <tran loc="es-419">%d por ciento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>cyan blue</Position>
       <TranslationSet>
         <base loc="en">cyan blue</base>
-        <tran loc="es">azul cian</tran>
+        <tran loc="es-419">azul cian</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>with</Position>
       <TranslationSet>
         <base loc="en">with</base>
-        <tran loc="es">con</tran>
+        <tran loc="es-419">con</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>pink</Position>
       <TranslationSet>
         <base loc="en">pink</base>
-        <tran loc="es">rosa</tran>
+        <tran loc="es-419">rosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>invalid saturation value</Position>
       <TranslationSet>
         <base loc="en">invalid saturation value</base>
-        <tran loc="es">valor de saturación no válido</tran>
+        <tran loc="es-419">valor de saturación no válido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>link.rel.toc</Position>
       <TranslationSet>
         <base loc="en">Table of contents</base>
-        <tran loc="es">Contenido</tran>
+        <tran loc="es-419">Contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>link.rel.section</Position>
       <TranslationSet>
         <base loc="en">Section</base>
-        <tran loc="es">Sección</tran>
+        <tran loc="es-419">Sección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>pink red</Position>
       <TranslationSet>
         <base loc="en">pink red</base>
-        <tran loc="es">rojo rosáceo</tran>
+        <tran loc="es-419">rojo rosáceo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>red</Position>
       <TranslationSet>
         <base loc="en">red</base>
-        <tran loc="es">rojo</tran>
+        <tran loc="es-419">rojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>invalid alpha value</Position>
       <TranslationSet>
         <base loc="en">invalid alpha value</base>
-        <tran loc="es">valor alfa no válido</tran>
+        <tran loc="es-419">valor alfa no válido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>hueDescriptionFormatString</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$d degrees</base>
-        <tran loc="es">%1$@, %2$d grados</tran>
+        <tran loc="es-419">%1$@, %2$d grados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>link.rel.glossary</Position>
       <TranslationSet>
         <base loc="en">Glossary</base>
-        <tran loc="es">Glosario</tran>
+        <tran loc="es-419">Glosario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>link.rel.subsection</Position>
       <TranslationSet>
         <base loc="en">Sub-section</base>
-        <tran loc="es">Subsección</tran>
+        <tran loc="es-419">Artículo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>iDiskName</Position>
       <TranslationSet>
         <base loc="en">iDisk</base>
-        <tran loc="es">iDisk</tran>
+        <tran loc="es-419">iDisk</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>yellow orange</Position>
       <TranslationSet>
         <base loc="en">yellow orange</base>
-        <tran loc="es">naranja amarillento</tran>
+        <tran loc="es-419">amarillo anaranjado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>invalid hue value</Position>
       <TranslationSet>
         <base loc="en">invalid hue value</base>
-        <tran loc="es">valor de matiz no válido</tran>
+        <tran loc="es-419">valor de matiz no válido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>magenta pink</Position>
       <TranslationSet>
         <base loc="en">magenta pink</base>
-        <tran loc="es">rosa magenta</tran>
+        <tran loc="es-419">rosa magenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>link.rel.bookmark</Position>
       <TranslationSet>
         <base loc="en">Bookmark</base>
-        <tran loc="es">Marcador</tran>
+        <tran loc="es-419">Marcador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>magenta</Position>
       <TranslationSet>
         <base loc="en">magenta</base>
-        <tran loc="es">magenta</tran>
+        <tran loc="es-419">magenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>untitledProfileName</Position>
       <TranslationSet>
         <base loc="en">Untitled</base>
-        <tran loc="es">Sin título</tran>
+        <tran loc="es-419">Sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>green</Position>
       <TranslationSet>
         <base loc="en">green</base>
-        <tran loc="es">verde</tran>
+        <tran loc="es-419">verde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>yellow</Position>
       <TranslationSet>
         <base loc="en">yellow</base>
-        <tran loc="es">amarillo</tran>
+        <tran loc="es-419">amarillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>link.rel.first</Position>
       <TranslationSet>
         <base loc="en">First document</base>
-        <tran loc="es">Primer documento</tran>
+        <tran loc="es-419">Primer documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>copy</Position>
       <TranslationSet>
         <base loc="en">copy</base>
-        <tran loc="es">copia</tran>
+        <tran loc="es-419">copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>link.rel.start</Position>
       <TranslationSet>
         <base loc="en">Document start</base>
-        <tran loc="es">Inicio del documento</tran>
+        <tran loc="es-419">Inicio de documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>link.rel.license</Position>
       <TranslationSet>
         <base loc="en">License</base>
-        <tran loc="es">Licencia</tran>
+        <tran loc="es-419">Licencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>loginGreeting</Position>
       <TranslationSet>
         <base loc="en">Welcome to macOS. VoiceOver is on.</base>
-        <tran loc="es">Bienvenido a macOS. VoiceOver está activado.</tran>
+        <tran loc="es-419">Te damos la bienvenida a macOS. VoiceOver está activado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>link.rel.help</Position>
       <TranslationSet>
         <base loc="en">Help</base>
-        <tran loc="es">Ayuda</tran>
+        <tran loc="es-419">Ayuda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>link.rel.chapter</Position>
       <TranslationSet>
         <base loc="en">Chapter</base>
-        <tran loc="es">Capítulo</tran>
+        <tran loc="es-419">Capítulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>link.rel.up</Position>
       <TranslationSet>
         <base loc="en">Document up</base>
-        <tran loc="es">Subir nivel del documento</tran>
+        <tran loc="es-419">Subir documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>cyan</Position>
       <TranslationSet>
         <base loc="en">cyan</base>
-        <tran loc="es">cian</tran>
+        <tran loc="es-419">cian</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>importVersionTooGreat</Position>
       <TranslationSet>
         <base loc="en">This version of VoiceOver can not import files that were exported from versions of VoiceOver greater than VoiceOver%i</base>
-        <tran loc="es">Esta versión de VoiceOver no puede importar archivos exportados de versiones de VoiceOver posteriores a VoiceOver %i</tran>
+        <tran loc="es-419">Esta versión de VoiceOver no puede importar archivos exportados de versiones de VoiceOver posteriores a VoiceOver %i</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>link.rel.contents</Position>
       <TranslationSet>
         <base loc="en">Contents</base>
-        <tran loc="es">Contenido</tran>
+        <tran loc="es-419">Contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>link.rel.search</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>importFailed</Position>
       <TranslationSet>
         <base loc="en">Unable to import preferences from %@.</base>
-        <tran loc="es">No se han podido importar las preferencias desde %@.</tran>
+        <tran loc="es-419">Imposible importar preferencias desde %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>blue</Position>
       <TranslationSet>
         <base loc="en">blue</base>
-        <tran loc="es">azul</tran>
+        <tran loc="es-419">azul</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>link.rel.canonical</Position>
       <TranslationSet>
         <base loc="en">Canonical</base>
-        <tran loc="es">Versión canónica</tran>
+        <tran loc="es-419">Canónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>defaultProfileName</Position>
       <TranslationSet>
         <base loc="en">VoiceOver Settings</base>
-        <tran loc="es">Ajustes de VoiceOver</tran>
+        <tran loc="es-419">Configuración de VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>link.rel.augmentedreality</Position>
       <TranslationSet>
         <base loc="en">Augmented reality object</base>
-        <tran loc="es">Objeto de realidad aumentada</tran>
+        <tran loc="es-419">Objeto de realidad aumentada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>link.rel.sidebar</Position>
       <TranslationSet>
         <base loc="en">Sidebar</base>
-        <tran loc="es">Barra lateral</tran>
+        <tran loc="es-419">Barra lateral</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -436,7 +436,7 @@
       <Position>segment.table.column.prefix.formatter</Position>
       <TranslationSet>
         <base loc="en">Column %@, </base>
-        <tran loc="es">Columna %@, </tran>
+        <tran loc="es-419">Columna %@, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -444,7 +444,7 @@
       <Position>raised.to.power.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@ to the %2$@</base>
-        <tran loc="es">%1$@ elevado a %2$@</tran>
+        <tran loc="es-419">%1$@ elevado a %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -452,7 +452,7 @@
       <Position>operator.negative</Position>
       <TranslationSet>
         <base loc="en">negative</base>
-        <tran loc="es">negativo</tran>
+        <tran loc="es-419">negativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -460,7 +460,7 @@
       <Position>empty.content</Position>
       <TranslationSet>
         <base loc="en">blank</base>
-        <tran loc="es">vacío</tran>
+        <tran loc="es-419">vacío</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -468,7 +468,7 @@
       <Position>segment.nth.root.index.suffix</Position>
       <TranslationSet>
         <base loc="en"> root of</base>
-        <tran loc="es"> raíz de</tran>
+        <tran loc="es-419"> raíz de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -476,7 +476,7 @@
       <Position>segment.superscript.squared</Position>
       <TranslationSet>
         <base loc="en">squared</base>
-        <tran loc="es">al cuadrado</tran>
+        <tran loc="es-419">cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -484,7 +484,7 @@
       <Position>superscript.cubed.with.long.base.formatter</Position>
       <TranslationSet>
         <base loc="en">%@, cubed</base>
-        <tran loc="es">%@, al cubo</tran>
+        <tran loc="es-419">%@, al cubo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -493,7 +493,7 @@
       <Position>math.row.column.with.content.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -501,7 +501,7 @@
       <Position>segment.range.superscript.prefix</Position>
       <TranslationSet>
         <base loc="en">to </base>
-        <tran loc="es">a </tran>
+        <tran loc="es-419">a </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -509,7 +509,7 @@
       <Position>generic.over.under.formula.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@ over %2$@, with %3$@ underneath</base>
-        <tran loc="es">%1$@ sobre %2$@, con %3$@ debajo</tran>
+        <tran loc="es-419">%1$@ sobre %2$@, con %3$@ debajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -517,7 +517,7 @@
       <Position>row.summary.formatter</Position>
       <TranslationSet>
         <base loc="en">%@ terms</base>
-        <tran loc="es">%@ trimestres</tran>
+        <tran loc="es-419">%@ trimestres</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -525,7 +525,7 @@
       <Position>math.fraction.with.long.numerator.formatter</Position>
       <TranslationSet>
         <base loc="en">fraction start, %1$@, over %2$@, end of fraction</base>
-        <tran loc="es">inicio de fracción, %1$@, partido por %2$@, fin de fracción</tran>
+        <tran loc="es-419">inicio de fracción, %1$@, partido por %2$@, fin de fracción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -533,7 +533,7 @@
       <Position>segment.table.row.prefix.formatter</Position>
       <TranslationSet>
         <base loc="en">Row %@, </base>
-        <tran loc="es">Fila %@, </tran>
+        <tran loc="es-419">Fila %@, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -541,7 +541,7 @@
       <Position>base.sub.superscript.with.next.child.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@ of %2$@</base>
-        <tran loc="es">%1$@ de %2$@</tran>
+        <tran loc="es-419">%1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -549,7 +549,7 @@
       <Position>right.superscript.formatter</Position>
       <TranslationSet>
         <base loc="en">right superscript %@</base>
-        <tran loc="es">superíndice derecho %@</tran>
+        <tran loc="es-419">superíndice derecho %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -557,7 +557,7 @@
       <Position>table.summary.multiple.formatter</Position>
       <TranslationSet>
         <base loc="en">%d tables</base>
-        <tran loc="es">%d tablas</tran>
+        <tran loc="es-419">%d tablas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -565,7 +565,7 @@
       <Position>math.row.and.column.formatter</Position>
       <TranslationSet>
         <base loc="en">Row %1$@, Column %2$@</base>
-        <tran loc="es">Fila %1$@, columna %2$@</tran>
+        <tran loc="es-419">Fila %1$@, columna %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +573,7 @@
       <Position>superscript.squared.formatter</Position>
       <TranslationSet>
         <base loc="en">%@ squared</base>
-        <tran loc="es">%@ al cuadrado</tran>
+        <tran loc="es-419">%@ al cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -583,7 +583,7 @@
       <Position>table.summary.single.formatter</Position>
       <TranslationSet>
         <base loc="en">%d table</base>
-        <tran loc="es">%d tabla</tran>
+        <tran loc="es-419">%d tabla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -591,7 +591,7 @@
       <Position>generic.subscript.formatter</Position>
       <TranslationSet>
         <base loc="en">subscript %@</base>
-        <tran loc="es">subíndice %@</tran>
+        <tran loc="es-419">subíndice %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -599,7 +599,7 @@
       <Position>generic.over.formula.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@ over %2$@</base>
-        <tran loc="es">%1$@ sobre %2$@</tran>
+        <tran loc="es-419">%1$@ sobre %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -607,7 +607,7 @@
       <Position>base.sub.superscript.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@ base %2$@</base>
-        <tran loc="es">%1$@ en base %2$@</tran>
+        <tran loc="es-419">%1$@ en base %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -615,7 +615,7 @@
       <Position>binomial.coefficient.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@ choose %2$@</base>
-        <tran loc="es">%1$@ en %2$@</tran>
+        <tran loc="es-419">%1$@ en %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -623,7 +623,7 @@
       <Position>superscript.squared.with.long.base.formatter</Position>
       <TranslationSet>
         <base loc="en">%@, squared</base>
-        <tran loc="es">%@, al cuadrado</tran>
+        <tran loc="es-419">%@, al cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -631,7 +631,7 @@
       <Position>segment.cube.root.index</Position>
       <TranslationSet>
         <base loc="en">cube root of</base>
-        <tran loc="es">raíz cúbica de</tran>
+        <tran loc="es-419">raíz cúbica de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -639,7 +639,7 @@
       <Position>segment.over.suffix</Position>
       <TranslationSet>
         <base loc="en"> over</base>
-        <tran loc="es"> sobre</tran>
+        <tran loc="es-419"> sobre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -647,7 +647,7 @@
       <Position>segment.under.prefix</Position>
       <TranslationSet>
         <base loc="en">with </base>
-        <tran loc="es">con </tran>
+        <tran loc="es-419">con </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -655,7 +655,7 @@
       <Position>function.lg</Position>
       <TranslationSet>
         <base loc="en">log</base>
-        <tran loc="es">logaritmo</tran>
+        <tran loc="es-419">logaritmo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -663,7 +663,7 @@
       <Position>function.log</Position>
       <TranslationSet>
         <base loc="en">log</base>
-        <tran loc="es">logaritmo</tran>
+        <tran loc="es-419">logaritmo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -671,7 +671,7 @@
       <Position>segment.square.root.index</Position>
       <TranslationSet>
         <base loc="en">square root of</base>
-        <tran loc="es">raíz cuadrada de</tran>
+        <tran loc="es-419">raíz cuadrada de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -679,7 +679,7 @@
       <Position>function.ln</Position>
       <TranslationSet>
         <base loc="en">natural log</base>
-        <tran loc="es">logaritmo natural</tran>
+        <tran loc="es-419">logaritmo neperiano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -687,7 +687,7 @@
       <Position>segment.numerator.prefix</Position>
       <TranslationSet>
         <base loc="en">fraction start, </base>
-        <tran loc="es">inicio de fracción, </tran>
+        <tran loc="es-419">inicio de fracción, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +695,7 @@
       <Position>segment.superscript.prefix</Position>
       <TranslationSet>
         <base loc="en">superscript </base>
-        <tran loc="es">superíndice </tran>
+        <tran loc="es-419">superíndice </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +703,7 @@
       <Position>segment.range.subscript.prefix</Position>
       <TranslationSet>
         <base loc="en">from </base>
-        <tran loc="es">de </tran>
+        <tran loc="es-419">de </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +711,7 @@
       <Position>math.table.formatter</Position>
       <TranslationSet>
         <base loc="en">Table start, %@, table end</base>
-        <tran loc="es">Inicio de tabla, %@, fin de tabla</tran>
+        <tran loc="es-419">Inicio de tabla, %@, fin de tabla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +719,7 @@
       <Position>function.sin</Position>
       <TranslationSet>
         <base loc="en">sine</base>
-        <tran loc="es">seno</tran>
+        <tran loc="es-419">seno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +727,7 @@
       <Position>function.exp</Position>
       <TranslationSet>
         <base loc="en">exponential function</base>
-        <tran loc="es">función exponencial</tran>
+        <tran loc="es-419">función exponencial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -735,7 +735,7 @@
       <Position>left.superscript.formatter</Position>
       <TranslationSet>
         <base loc="en">left superscript %@</base>
-        <tran loc="es">superíndice izquierdo %@</tran>
+        <tran loc="es-419">superíndice izquierdo %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -743,7 +743,7 @@
       <Position>math.row.formatter</Position>
       <TranslationSet>
         <base loc="en">Row %@</base>
-        <tran loc="es">Fila %@</tran>
+        <tran loc="es-419">Fila %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -751,7 +751,7 @@
       <Position>square.root.formatter</Position>
       <TranslationSet>
         <base loc="en">square root of %@, end of root</base>
-        <tran loc="es">raíz cuadrada de %@, fin de raíz</tran>
+        <tran loc="es-419">raíz cuadrada de %@, fin de raíz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -759,7 +759,7 @@
       <Position>function.lim</Position>
       <TranslationSet>
         <base loc="en">limit from</base>
-        <tran loc="es">límite desde</tran>
+        <tran loc="es-419">límite desde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@
       <Position>right.subscript.formatter</Position>
       <TranslationSet>
         <base loc="en">right subscript %@</base>
-        <tran loc="es">subíndice derecho %@</tran>
+        <tran loc="es-419">subíndice derecho %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -775,7 +775,7 @@
       <Position>segment.under.suffix</Position>
       <TranslationSet>
         <base loc="en"> underneath</base>
-        <tran loc="es"> debajo</tran>
+        <tran loc="es-419"> debajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@
       <Position>segment.denominator.prefix</Position>
       <TranslationSet>
         <base loc="en">over </base>
-        <tran loc="es">sobre </tran>
+        <tran loc="es-419">sobre </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -791,7 +791,7 @@
       <Position>math.column.formatter</Position>
       <TranslationSet>
         <base loc="en">Column %@</base>
-        <tran loc="es">Columna %@</tran>
+        <tran loc="es-419">Columna %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -799,7 +799,7 @@
       <Position>math.long.division.formatter</Position>
       <TranslationSet>
         <base loc="en">divisor %1$@, remainder %2$@</base>
-        <tran loc="es">divisor %1$@, resto %2$@</tran>
+        <tran loc="es-419">divisor %1$@, residuo %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -807,7 +807,7 @@
       <Position>function.cos</Position>
       <TranslationSet>
         <base loc="en">cosine</base>
-        <tran loc="es">coseno</tran>
+        <tran loc="es-419">coseno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -815,7 +815,7 @@
       <Position>cube.root.formatter</Position>
       <TranslationSet>
         <base loc="en">cube root of %@, end of root</base>
-        <tran loc="es">raíz cúbica de %@, fin de raíz</tran>
+        <tran loc="es-419">raíz cúbica de %@, fin de raíz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -823,7 +823,7 @@
       <Position>nth.root.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@ root of %2$@, end of root</base>
-        <tran loc="es">raíz %1$@ de %2$@, fin de raíz</tran>
+        <tran loc="es-419">raíz %1$@ de %2$@, fin de raíz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -831,7 +831,7 @@
       <Position>segment.radicand.suffix</Position>
       <TranslationSet>
         <base loc="en">, end of root</base>
-        <tran loc="es">, fin de raíz</tran>
+        <tran loc="es-419">, fin de raíz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -839,7 +839,7 @@
       <Position>segment.base.secondchild.prefix</Position>
       <TranslationSet>
         <base loc="en">of </base>
-        <tran loc="es">de </tran>
+        <tran loc="es-419">de </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -847,7 +847,7 @@
       <Position>segment.range.secondchild.prefix</Position>
       <TranslationSet>
         <base loc="en">of </base>
-        <tran loc="es">de </tran>
+        <tran loc="es-419">de </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -855,7 +855,7 @@
       <Position>function.tan</Position>
       <TranslationSet>
         <base loc="en">tangent</base>
-        <tran loc="es">tangente</tran>
+        <tran loc="es-419">tangente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -863,7 +863,7 @@
       <Position>segment.binomial.coefficient.denominator.prefix</Position>
       <TranslationSet>
         <base loc="en">choose </base>
-        <tran loc="es">en </tran>
+        <tran loc="es-419">en</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -871,7 +871,7 @@
       <Position>segment.superscript.cubed</Position>
       <TranslationSet>
         <base loc="en">cubed</base>
-        <tran loc="es">al cubo</tran>
+        <tran loc="es-419">al cubo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -879,7 +879,7 @@
       <Position>operator.degrees</Position>
       <TranslationSet>
         <base loc="en">degrees</base>
-        <tran loc="es">grados</tran>
+        <tran loc="es-419">grados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -887,7 +887,7 @@
       <Position>generic.superscript.formatter</Position>
       <TranslationSet>
         <base loc="en">superscript %@</base>
-        <tran loc="es">superíndice %@</tran>
+        <tran loc="es-419">superíndice %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>math.fraction.formatter</Position>
       <TranslationSet>
         <base loc="en">fraction start, %1$@ over %2$@, end of fraction</base>
-        <tran loc="es">inicio de fracción, %1$@ partido por %2$@, fin de fracción</tran>
+        <tran loc="es-419">inicio de fracción, %1$@ partido por %2$@, fin de fracción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>segment.table.row.column.prefix.formatter</Position>
       <TranslationSet>
         <base loc="en">Row %1$@, Column %2$@, </base>
-        <tran loc="es">Fila %1$@, columna %2$@, </tran>
+        <tran loc="es-419">Fila %1$@, columna %2$@, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>superscript.cubed.formatter</Position>
       <TranslationSet>
         <base loc="en">%@ cubed</base>
-        <tran loc="es">%@ al cubo</tran>
+        <tran loc="es-419">%@ al cubo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>segment.table.suffix</Position>
       <TranslationSet>
         <base loc="en">, table end</base>
-        <tran loc="es">, final de tabla</tran>
+        <tran loc="es-419">, final de tabla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +928,7 @@
       <Position>segment.raised.to.power.prefix</Position>
       <TranslationSet>
         <base loc="en">to the </base>
-        <tran loc="es">a la </tran>
+        <tran loc="es-419">a la </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +936,7 @@
       <Position>generic.under.formula.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@, with %2$@ underneath</base>
-        <tran loc="es">%1$@, con %2$@ debajo</tran>
+        <tran loc="es-419">%1$@, con %2$@ debajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +944,7 @@
       <Position>left.subscript.formatter</Position>
       <TranslationSet>
         <base loc="en">left subscript %@</base>
-        <tran loc="es">subíndice izquierdo %@</tran>
+        <tran loc="es-419">subíndice izquierdo %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +952,7 @@
       <Position>range.sub.superscript.with.next.child.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@, of %2$@</base>
-        <tran loc="es">%1$@, de %2$@</tran>
+        <tran loc="es-419">%1$@, de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +960,7 @@
       <Position>segment.table.prefix</Position>
       <TranslationSet>
         <base loc="en">Table start, </base>
-        <tran loc="es">Inicio de tabla, </tran>
+        <tran loc="es-419">Inicio de tabla, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -968,7 +968,7 @@
       <Position>raised.to.power.with.long.base.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@, to the %2$@</base>
-        <tran loc="es">%1$@, elevado a %2$@</tran>
+        <tran loc="es-419">%1$@, elevado a %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -976,7 +976,7 @@
       <Position>range.sub.superscript.formatter</Position>
       <TranslationSet>
         <base loc="en">%1$@, from %2$@ to %3$@</base>
-        <tran loc="es">%1$@, de %2$@ a %3$@</tran>
+        <tran loc="es-419">%1$@, de %2$@ a %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -984,7 +984,7 @@
       <Position>segment.denominator.suffix</Position>
       <TranslationSet>
         <base loc="en">, end of fraction</base>
-        <tran loc="es">, fin de fracción</tran>
+        <tran loc="es-419">, fin de fracción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -992,7 +992,7 @@
       <Position>segment.base.subscript.prefix</Position>
       <TranslationSet>
         <base loc="en">base </base>
-        <tran loc="es">en base </tran>
+        <tran loc="es-419">en base </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1001,7 +1001,7 @@
       <Position>segment.subscript.prefix</Position>
       <TranslationSet>
         <base loc="en">subscript </base>
-        <tran loc="es">subíndice </tran>
+        <tran loc="es-419">subíndice </tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1012,7 +1012,7 @@
       <Position>location_center</Position>
       <TranslationSet>
         <base loc="en">in center</base>
-        <tran loc="es">en el centro</tran>
+        <tran loc="es-419">en el centro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1020,7 +1020,7 @@
       <Position>large_plural</Position>
       <TranslationSet>
         <base loc="en">large</base>
-        <tran loc="es">grandes</tran>
+        <tran loc="es-419">grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1028,7 +1028,7 @@
       <Position>large_singular</Position>
       <TranslationSet>
         <base loc="en">large</base>
-        <tran loc="es">grande</tran>
+        <tran loc="es-419">grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1036,7 +1036,7 @@
       <Position>location_bottom</Position>
       <TranslationSet>
         <base loc="en">at bottom</base>
-        <tran loc="es">abajo</tran>
+        <tran loc="es-419">en la parte inferior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1044,7 +1044,7 @@
       <Position>crisp</Position>
       <TranslationSet>
         <base loc="en">Crisp</base>
-        <tran loc="es">Nítida</tran>
+        <tran loc="es-419">Nítido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1052,7 +1052,7 @@
       <Position>dark</Position>
       <TranslationSet>
         <base loc="en">Dark</base>
-        <tran loc="es">Oscura</tran>
+        <tran loc="es-419">Obscuro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1060,7 +1060,7 @@
       <Position>very_dark</Position>
       <TranslationSet>
         <base loc="en">Very dark</base>
-        <tran loc="es">Muy oscura</tran>
+        <tran loc="es-419">Muy obscuro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1068,7 +1068,7 @@
       <Position>medium_plural</Position>
       <TranslationSet>
         <base loc="en">medium</base>
-        <tran loc="es">medianas</tran>
+        <tran loc="es-419">mediano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1076,7 +1076,7 @@
       <Position>medium_singular</Position>
       <TranslationSet>
         <base loc="en">medium</base>
-        <tran loc="es">mediana</tran>
+        <tran loc="es-419">mediano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1084,7 +1084,7 @@
       <Position>location_left</Position>
       <TranslationSet>
         <base loc="en">at left</base>
-        <tran loc="es">a la izquierda</tran>
+        <tran loc="es-419">a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1092,7 +1092,7 @@
       <Position>location_right</Position>
       <TranslationSet>
         <base loc="en">at right</base>
-        <tran loc="es">a la derecha</tran>
+        <tran loc="es-419">a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1100,7 +1100,7 @@
       <Position>faces_count_with_size_and_location_descriptors_plural</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@ faces %3$@</base>
-        <tran loc="es">%1$@ caras %2$@ %3$@</tran>
+        <tran loc="es-419">%1$@ %2$@ caras %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1114,7 +1114,7 @@
       <Position>very_blurry</Position>
       <TranslationSet>
         <base loc="en">Very blurry</base>
-        <tran loc="es">Muy borrosa</tran>
+        <tran loc="es-419">Muy borroso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1122,7 +1122,7 @@
       <Position>blurry</Position>
       <TranslationSet>
         <base loc="en">Blurry</base>
-        <tran loc="es">Borrosa</tran>
+        <tran loc="es-419">Borroso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1130,7 +1130,7 @@
       <Position>small_plural</Position>
       <TranslationSet>
         <base loc="en">small</base>
-        <tran loc="es">pequeñas</tran>
+        <tran loc="es-419">pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1138,7 +1138,7 @@
       <Position>small_singular</Position>
       <TranslationSet>
         <base loc="en">small</base>
-        <tran loc="es">pequeña</tran>
+        <tran loc="es-419">pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1146,7 +1146,7 @@
       <Position>location_top</Position>
       <TranslationSet>
         <base loc="en">at top</base>
-        <tran loc="es">arriba</tran>
+        <tran loc="es-419">en la parte superior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1154,7 +1154,7 @@
       <Position>very_bright</Position>
       <TranslationSet>
         <base loc="en">Very bright</base>
-        <tran loc="es">Muy brillante</tran>
+        <tran loc="es-419">Muy brillante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1162,7 +1162,7 @@
       <Position>faces_count_with_size_and_location_descriptors_singular</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@ face %3$@</base>
-        <tran loc="es">%1$@ cara %2$@ %3$@</tran>
+        <tran loc="es-419">%1$@ %2$@ cara %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1170,7 +1170,7 @@
       <Position>well_lit</Position>
       <TranslationSet>
         <base loc="en">Well lit</base>
-        <tran loc="es">Bien iluminada</tran>
+        <tran loc="es-419">Bien iluminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1178,7 +1178,7 @@
       <Position>bright</Position>
       <TranslationSet>
         <base loc="en">Bright</base>
-        <tran loc="es">Brillante</tran>
+        <tran loc="es-419">Brillante</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>NO_WIFI</Position>
       <TranslationSet>
         <base loc="en">No Wi-Fi</base>
-        <tran loc="es">Sin Wi-Fi</tran>
+        <tran loc="es-419">Sin Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>NETWORK_CH</Position>
       <TranslationSet>
         <base loc="en">WLAN Network</base>
-        <tran loc="es">Red WLAN</tran>
+        <tran loc="es-419">Red WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>WIFI_PASSWORD_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@”.</base>
-        <tran loc="es">Introduce la contraseña para “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>WIFI_JOIN</Position>
       <TranslationSet>
         <base loc="en">Join</base>
-        <tran loc="es">Conectarse</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>NO_WIFI_CH</Position>
       <TranslationSet>
         <base loc="en">No WLAN</base>
-        <tran loc="es">Sin WLAN</tran>
+        <tran loc="es-419">Sin WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>WIFI_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>WI-FI_NETWORKING_CH</Position>
       <TranslationSet>
         <base loc="en">WLAN Networking</base>
-        <tran loc="es">Conexión de red WLAN</tran>
+        <tran loc="es-419">Conexión de red WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Wi-Fi</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi</base>
-        <tran loc="es">Wi-Fi</tran>
+        <tran loc="es-419">Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>NETWORK</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi Network</base>
-        <tran loc="es">Red Wi-Fi</tran>
+        <tran loc="es-419">Red Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>WIFI_ERROR_OK</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>WIFI_ENTERPRISE_AUTH_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Incorrect username or password for “%@”</base>
-        <tran loc="es">Nombre de usuario o contraseña no válidos para “%@”</tran>
+        <tran loc="es-419">Nombre de usuario o contraseña no válidos de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>WI-FI_NETWORKING</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi Networking</base>
-        <tran loc="es">Conexión de red Wi-Fi</tran>
+        <tran loc="es-419">Conexión de red Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>WIFI_ERROR_6</Position>
       <TranslationSet>
         <base loc="en">Failed to join “%@” due to a driver timeout.</base>
-        <tran loc="es">No se ha podido acceder a “%@” debido al tiempo de espera de un driver.</tran>
+        <tran loc="es-419">No se pudo acceder a “%@” debido al tiempo de espera de un driver.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>WIFI_ERROR_CLOSED_SCAN</Position>
       <TranslationSet>
         <base loc="en">Could not find the network\n“%@”</base>
-        <tran loc="es">No se ha podido encontrar la red\n“%@”</tran>
+        <tran loc="es-419">No se encontró la red\n“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>WIFI_ERROR_3_6</Position>
       <TranslationSet>
         <base loc="en">Unable to join the network\n“%@”</base>
-        <tran loc="es">No ha sido posible conectarse a la red\n“%@”</tran>
+        <tran loc="es-419">No fue posible conectarse a la red\n“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>WIFI_SCAN_ERROR</Position>
       <TranslationSet>
         <base loc="en">Could not scan for wireless networks.</base>
-        <tran loc="es">No se han podido explorar las redes inalámbricas.</tran>
+        <tran loc="es-419">No se pudieron explorar las redes inalámbricas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>Wi-Fi_CH</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>WIFI_ERROR_25</Position>
       <TranslationSet>
         <base loc="en">Incorrect password for\n“%@”</base>
-        <tran loc="es">Contraseña incorrecta para\n“%@”</tran>
+        <tran loc="es-419">Contraseña incorrecta de\n“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>NOT_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Not Connected</base>
-        <tran loc="es">Sin conexión</tran>
+        <tran loc="es-419">Sin conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>WIFI_ERROR_3</Position>
       <TranslationSet>
         <base loc="en">Failed to join “%@” due to an unknown error.</base>
-        <tran loc="es">No se ha podido acceder a “%@” debido a un error desconocido.</tran>
+        <tran loc="es-419">No se pudo acceder a “%@” debido a un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -187,7 +187,7 @@
       <Position>NO_WIFI</Position>
       <TranslationSet>
         <base loc="en">No Wi-Fi</base>
-        <tran loc="es">Sin Wi-Fi</tran>
+        <tran loc="es-419">Sin Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>NETWORK_CH</Position>
       <TranslationSet>
         <base loc="en">WLAN Network</base>
-        <tran loc="es">Red WLAN</tran>
+        <tran loc="es-419">Red WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>WIFI_PASSWORD_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@”.</base>
-        <tran loc="es">Introduce la contraseña para “%@”.</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>WIFI_JOIN</Position>
       <TranslationSet>
         <base loc="en">Join</base>
-        <tran loc="es">Conectarse</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>NO_WIFI_CH</Position>
       <TranslationSet>
         <base loc="en">No WLAN</base>
-        <tran loc="es">Sin WLAN</tran>
+        <tran loc="es-419">Sin WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>WIFI_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>WI-FI_NETWORKING_CH</Position>
       <TranslationSet>
         <base loc="en">WLAN Networking</base>
-        <tran loc="es">Conexión de red WLAN</tran>
+        <tran loc="es-419">Conexión de red WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>Wi-Fi</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi</base>
-        <tran loc="es">Wi-Fi</tran>
+        <tran loc="es-419">Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>NETWORK</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi Network</base>
-        <tran loc="es">Red Wi-Fi</tran>
+        <tran loc="es-419">Red Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>WIFI_ERROR_OK</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>WIFI_ENTERPRISE_AUTH_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Incorrect username or password for “%@”</base>
-        <tran loc="es">Nombre de usuario o contraseña no válidos para “%@”</tran>
+        <tran loc="es-419">Nombre de usuario o contraseña no válidos de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>WI-FI_NETWORKING</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi Networking</base>
-        <tran loc="es">Conexión de red Wi-Fi</tran>
+        <tran loc="es-419">Conexión de red Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>WIFI_ERROR_6</Position>
       <TranslationSet>
         <base loc="en">Failed to join “%@” due to a driver timeout.</base>
-        <tran loc="es">No se ha podido acceder a “%@” debido al tiempo de espera de un driver.</tran>
+        <tran loc="es-419">No se pudo acceder a “%@” debido al tiempo de espera de un driver.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>WIFI_ERROR_CLOSED_SCAN</Position>
       <TranslationSet>
         <base loc="en">Could not find the network\n“%@”</base>
-        <tran loc="es">No se ha podido encontrar la red\n“%@”</tran>
+        <tran loc="es-419">No se encontró la red\n“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>WIFI_ERROR_3_6</Position>
       <TranslationSet>
         <base loc="en">Unable to join the network\n“%@”</base>
-        <tran loc="es">No ha sido posible conectarse a la red\n“%@”</tran>
+        <tran loc="es-419">No fue posible conectarse a la red\n“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>WIFI_SCAN_ERROR</Position>
       <TranslationSet>
         <base loc="en">Could not scan for wireless networks.</base>
-        <tran loc="es">No se han podido explorar las redes inalámbricas.</tran>
+        <tran loc="es-419">No se pudieron explorar las redes inalámbricas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>Wi-Fi_CH</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>WIFI_ERROR_25</Position>
       <TranslationSet>
         <base loc="en">Incorrect password for\n“%@”</base>
-        <tran loc="es">Contraseña incorrecta para\n“%@”</tran>
+        <tran loc="es-419">Contraseña incorrecta de\n“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>NOT_CONNECTED</Position>
       <TranslationSet>
         <base loc="en">Not Connected</base>
-        <tran loc="es">Sin conexión</tran>
+        <tran loc="es-419">Sin conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -347,7 +347,7 @@
       <Position>WIFI_ERROR_3</Position>
       <TranslationSet>
         <base loc="en">Failed to join “%@” due to an unknown error.</base>
-        <tran loc="es">No se ha podido acceder a “%@” debido a un error desconocido.</tran>
+        <tran loc="es-419">No se pudo acceder a “%@” debido a un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>

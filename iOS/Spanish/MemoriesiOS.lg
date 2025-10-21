@@ -8,7 +8,7 @@
       <Position>B2D-Qm-bH8.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>IrI-Wu-mzI.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>klc-rN-QM9.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>pwB-Lx-n51.text</Position>
       <TranslationSet>
         <base loc="en">DO NOT LOCALIZE Debug Label</base>
-        <tran loc="es">DO NOT LOCALIZE Debug Label</tran>
+        <tran loc="es-419">DO NOT LOCALIZE Debug Label</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -43,7 +43,7 @@
       <Position>short_frames</Position>
       <TranslationSet>
         <base loc="en">f</base>
-        <tran loc="es">f</tran>
+        <tran loc="es-419">c</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>miroMoodLabel_Uplifting</Position>
       <TranslationSet>
         <base loc="en">Uplifting</base>
-        <tran loc="es">Edificante</tran>
+        <tran loc="es-419">Motivador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>MEMORY_DOWNLOAD_ERROR_RETRY</Position>
       <TranslationSet>
         <base loc="en">Retry</base>
-        <tran loc="es">Reintentar</tran>
+        <tran loc="es-419">Reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>KeyAssetSelector</Position>
       <TranslationSet>
         <base loc="en">Title Image</base>
-        <tran loc="es">Imagen de título</tran>
+        <tran loc="es-419">Imagen titular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>MusicEditorFilter</Position>
       <TranslationSet>
         <base loc="en">Filter</base>
-        <tran loc="es">Filtrar</tran>
+        <tran loc="es-419">Filtro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>readableSecondsTenthsFormat_%@_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@%2$@%3$@ %4$@</base>
-        <tran loc="es">%1$@%2$@%3$@ %4$@</tran>
+        <tran loc="es-419">%1$@%2$@%3$@ %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>readableTensFormatTenths_%@_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@%2$@%3$@ %4$@</base>
-        <tran loc="es">%1$@%2$@%3$@ %4$@</tran>
+        <tran loc="es-419">%1$@%2$@%3$@ %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>Select all that apply.</Position>
       <TranslationSet>
         <base loc="en">Select all that apply.</base>
-        <tran loc="es">Selecciona todo lo que corresponda.</tran>
+        <tran loc="es-419">Selecciona todo lo que aplique.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>miroMoodLabel_Gentle</Position>
       <TranslationSet>
         <base loc="en">Gentle</base>
-        <tran loc="es">Suave</tran>
+        <tran loc="es-419">Armónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>Wrong parts of the video clips</Position>
       <TranslationSet>
         <base loc="en">Wrong parts of the video clips</base>
-        <tran loc="es">Selección de partes equivocadas de los clips de vídeo</tran>
+        <tran loc="es-419">Partes equivocadas de clips de video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>CANT_EXPORT_NOT_ENOUGH_DISK_SPACE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">There is not enough space to export this movie.</base>
-        <tran loc="es">No hay espacio suficiente para exportar esta película.</tran>
+        <tran loc="es-419">No hay espacio suficiente para exportar esta película.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>EXPORT_COMPLETED_WITH_ERROR</Position>
       <TranslationSet>
         <base loc="en">An error occurred during export.</base>
-        <tran loc="es">Se ha producido un error al exportar.</tran>
+        <tran loc="es-419">Ocurrió un error al exportar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>EXPORT_HORIZONTRAL</Position>
       <TranslationSet>
         <base loc="en">Horizontal</base>
-        <tran loc="es">Horizontal</tran>
+        <tran loc="es-419">Horizontal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>miroAssetLabel_SelectPhotos</Position>
       <TranslationSet>
         <base loc="en">Select Photos</base>
-        <tran loc="es">Seleccionar fotos</tran>
+        <tran loc="es-419">Seleccionar fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>MiroAutoEditProgressLabel</Position>
       <TranslationSet>
         <base loc="en">Creating Movie…</base>
-        <tran loc="es">Creando película…</tran>
+        <tran loc="es-419">Creando película…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>Why did you dislike this movie?</Position>
       <TranslationSet>
         <base loc="en">Why did you dislike this movie?</base>
-        <tran loc="es">¿Por qué no te ha gustado esta película?</tran>
+        <tran loc="es-419">¿Qué no te gustó de la película?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>Suggestions_Remove_Video_Title</Position>
       <TranslationSet>
         <base loc="en">Remove Video</base>
-        <tran loc="es">Eliminar vídeo</tran>
+        <tran loc="es-419">Eliminar video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>Duplicate clips</Position>
       <TranslationSet>
         <base loc="en">Duplicate clips</base>
-        <tran loc="es">Duplicar clips</tran>
+        <tran loc="es-419">Clips duplicados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>MiroAutoEditChangeMusicUndoName</Position>
       <TranslationSet>
         <base loc="en">Change Music</base>
-        <tran loc="es">cambio de música</tran>
+        <tran loc="es-419">Cambiar música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>SHORT_DURATION_PRESET</Position>
       <TranslationSet>
         <base loc="en">Short</base>
-        <tran loc="es">Corto</tran>
+        <tran loc="es-419">Corto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>Good soundtrack</Position>
       <TranslationSet>
         <base loc="en">Good soundtrack</base>
-        <tran loc="es">Buena banda sonora</tran>
+        <tran loc="es-419">Buena música de fondo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>MiroPlayerAirPlay</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">Hecho</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>EXPORT_VERTICAL</Position>
       <TranslationSet>
         <base loc="en">Vertical</base>
-        <tran loc="es">Vertical</tran>
+        <tran loc="es-419">Vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>miroGenre_Classical</Position>
       <TranslationSet>
         <base loc="en">Classical</base>
-        <tran loc="es">Clásica</tran>
+        <tran loc="es-419">Música clásica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>ShareLowBatteryMessage</Position>
       <TranslationSet>
         <base loc="en">Your battery level may be too low to complete sharing. Would you like to continue?</base>
-        <tran loc="es">Puede que no te quede suficiente batería para completar el proceso de compartir. ¿Quieres continuar?</tran>
+        <tran loc="es-419">La carga de tu batería podría ser demasiado baja como para compartir. ¿Quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>short_seconds</Position>
       <TranslationSet>
         <base loc="en">s</base>
-        <tran loc="es">s</tran>
+        <tran loc="es-419">s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>MEMORY_DOWNLOAD_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Could Not Load Media</base>
-        <tran loc="es">No se ha podido cargar el contenido</tran>
+        <tran loc="es-419">No se pudo cargar el contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>MusicEditorMenuMusic</Position>
       <TranslationSet>
         <base loc="en">Music</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>MusicEditorTitle</Position>
       <TranslationSet>
         <base loc="en">Music</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>Good editing style</Position>
       <TranslationSet>
         <base loc="en">Good editing style</base>
-        <tran loc="es">Buen estilo de edición</tran>
+        <tran loc="es-419">Buen estilo de edición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>miroGenre_R&amp;B</Position>
       <TranslationSet>
         <base loc="en">R&amp;B</base>
-        <tran loc="es">R&amp;B</tran>
+        <tran loc="es-419">R&amp;B</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>miroMoodLabel_Chill</Position>
       <TranslationSet>
         <base loc="en">Chill</base>
-        <tran loc="es">Relajado</tran>
+        <tran loc="es-419">Relajado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>ITEM_NUMBER_N_OF_TOTAL_CLIPS</Position>
       <TranslationSet>
         <base loc="en">%1$@ of %2$@</base>
-        <tran loc="es">%1$@ de %2$@</tran>
+        <tran loc="es-419">%1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>EXPORT_TO_PHOTOS_COMPLETED_WITH_SUCCESS</Position>
       <TranslationSet>
         <base loc="en">The movie was exported to your Photo Library.</base>
-        <tran loc="es">La película se ha exportado a tu fototeca.</tran>
+        <tran loc="es-419">Se exportó la película a tu fototeca.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>miroMoodLabel_Ethereal</Position>
       <TranslationSet>
         <base loc="en">Dreamy</base>
-        <tran loc="es">Sueño</tran>
+        <tran loc="es-419">Onírico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>miroGenre_Blues</Position>
       <TranslationSet>
         <base loc="en">Blues</base>
-        <tran loc="es">Blues</tran>
+        <tran loc="es-419">Blues</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>miroMoodLabel_Epic</Position>
       <TranslationSet>
         <base loc="en">Epic</base>
-        <tran loc="es">Épico</tran>
+        <tran loc="es-419">Épico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -347,7 +347,7 @@
       <Position>Didn’t like the photos</Position>
       <TranslationSet>
         <base loc="en">Didn’t like the photos</base>
-        <tran loc="es">No me han gustado las fotos</tran>
+        <tran loc="es-419">No me gustaron las fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>MiroDownloadProgressLabel</Position>
       <TranslationSet>
         <base loc="en">Downloading…</base>
-        <tran loc="es">Descargando…</tran>
+        <tran loc="es-419">Descargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -363,7 +363,7 @@
       <Position>miroGenre_Metal</Position>
       <TranslationSet>
         <base loc="en">Metal</base>
-        <tran loc="es">Metal</tran>
+        <tran loc="es-419">Metal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -371,7 +371,7 @@
       <Position>minutesFormatTenths_%@_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@:%2$@%3$@%4$@</base>
-        <tran loc="es">%1$@:%2$@%3$@%4$@</tran>
+        <tran loc="es-419">%1$@:%2$@%3$@%4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -379,7 +379,7 @@
       <Position>TitleEditorStyleHeader</Position>
       <TranslationSet>
         <base loc="en">TITLE STYLE</base>
-        <tran loc="es">ESTILO DE LOS TÍTULOS</tran>
+        <tran loc="es-419">ESTILO DE TÍTULO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>Nice titles and transitions</Position>
       <TranslationSet>
         <base loc="en">Nice titles and transitions</base>
-        <tran loc="es">Títulos o transiciones acertados</tran>
+        <tran loc="es-419">Títulos y transiciones agradables</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>seconds</Position>
       <TranslationSet>
         <base loc="en">seconds</base>
-        <tran loc="es">segundos</tran>
+        <tran loc="es-419">segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>MusicEditorMenuEditMusic</Position>
       <TranslationSet>
         <base loc="en">Edit Music</base>
-        <tran loc="es">Editar música</tran>
+        <tran loc="es-419">Editar música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>readableFramesFormat</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@ %3$@</base>
-        <tran loc="es">%1$@ %2$@ %3$@</tran>
+        <tran loc="es-419">%1$@ %2$@ %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -419,7 +419,7 @@
       <Position>ContentEditorTitle</Position>
       <TranslationSet>
         <base loc="en">Photos &amp; Videos</base>
-        <tran loc="es">Fotos y vídeos</tran>
+        <tran loc="es-419">Fotos y videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -427,7 +427,7 @@
       <Position>TitleEditorTitle</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -435,7 +435,7 @@
       <Position>TitleLabel</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -443,7 +443,7 @@
       <Position>frame</Position>
       <TranslationSet>
         <base loc="en">frame</base>
-        <tran loc="es">fotograma</tran>
+        <tran loc="es-419">cuadro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -451,7 +451,7 @@
       <Position>MusicEditorMenuAuto</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -459,7 +459,7 @@
       <Position>Nice length of movie</Position>
       <TranslationSet>
         <base loc="en">Nice length of movie</base>
-        <tran loc="es">Duración acertada de la película</tran>
+        <tran loc="es-419">Dura lo que debe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -467,7 +467,7 @@
       <Position>miroGenre_Reggae</Position>
       <TranslationSet>
         <base loc="en">Reggae</base>
-        <tran loc="es">Reggae</tran>
+        <tran loc="es-419">Reggae</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -475,7 +475,7 @@
       <Position>MEMORY_DOWNLOAD_ERROR_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -483,7 +483,7 @@
       <Position>MiroAddToMemoriesOk</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -491,7 +491,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -499,7 +499,7 @@
       <Position>Great Editing</Position>
       <TranslationSet>
         <base loc="en">Great Editing</base>
-        <tran loc="es">Fantástica edición</tran>
+        <tran loc="es-419">Edición genial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -507,7 +507,7 @@
       <Position>ExportFailTitle</Position>
       <TranslationSet>
         <base loc="en">Export Failed</base>
-        <tran loc="es">Error al exportar</tran>
+        <tran loc="es-419">Error al exportar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +515,7 @@
       <Position>ContentEditorBackButton</Position>
       <TranslationSet>
         <base loc="en">Back button</base>
-        <tran loc="es">Botón Atrás</tran>
+        <tran loc="es-419">Botón Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +523,7 @@
       <Position>hour</Position>
       <TranslationSet>
         <base loc="en">hour</base>
-        <tran loc="es">hora</tran>
+        <tran loc="es-419">hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>miroGenre_Holiday</Position>
       <TranslationSet>
         <base loc="en">Holiday</base>
-        <tran loc="es">Vacaciones</tran>
+        <tran loc="es-419">Festiva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>framesFormat</Position>
       <TranslationSet>
         <base loc="en">%1$@:%2$@</base>
-        <tran loc="es">%1$@:%2$@</tran>
+        <tran loc="es-419">%1$@:%2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>minutesFormat_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@:%2$@</base>
-        <tran loc="es">%1$@:%2$@</tran>
+        <tran loc="es-419">%1$@:%2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>LOW_DISK_SPACE_NOSHARING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Storage Full</base>
-        <tran loc="es">Almacenamiento lleno</tran>
+        <tran loc="es-419">Almacenamiento lleno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>EditorMenuTitle</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>MiroPlayerEdit</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +579,7 @@
       <Position>miroGenre_Alternative</Position>
       <TranslationSet>
         <base loc="en">Alternative</base>
-        <tran loc="es">Alternativa</tran>
+        <tran loc="es-419">Alternativa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -587,7 +587,7 @@
       <Position>DurationEditorTitle</Position>
       <TranslationSet>
         <base loc="en">Duration</base>
-        <tran loc="es">Duración</tran>
+        <tran loc="es-419">Duración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>info_panel_duration</Position>
       <TranslationSet>
         <base loc="en">Duration</base>
-        <tran loc="es">Duración</tran>
+        <tran loc="es-419">Duración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -603,7 +603,7 @@
       <Position>LOW_DISK_SPACE_NOSHARING_MSG</Position>
       <TranslationSet>
         <base loc="en">There is not enough space left on this device. You cannot share until you free some space.</base>
-        <tran loc="es">No hay espacio suficiente en el dispositivo. No podrás compartir la película hasta que liberes espacio.</tran>
+        <tran loc="es-419">No hay espacio suficiente en el dispositivo. No podrás compartir la película hasta que liberes espacio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -611,7 +611,7 @@
       <Position>ContentEditorDownloadError_Title</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -619,7 +619,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -627,7 +627,7 @@
       <Position>CANCEL_DISCARD</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>CancelButton</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -643,7 +643,7 @@
       <Position>EXPORT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -651,7 +651,7 @@
       <Position>MEMORY_DOWNLOAD_ERROR_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>MiroAddToMemoriesCancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>MusicEditorMenuCancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>Suggestions_Remove_Video_Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>miroAssetLabel_ShowAll</Position>
       <TranslationSet>
         <base loc="en">Show All</base>
-        <tran loc="es">Mostrar todo</tran>
+        <tran loc="es-419">Mostrar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>miroMoodLabel_Party</Position>
       <TranslationSet>
         <base loc="en">Club</base>
-        <tran loc="es">Divertido</tran>
+        <tran loc="es-419">Electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -702,7 +702,7 @@
       <Position>hoursFormat_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@:%2$@:%3$@</base>
-        <tran loc="es">%1$@:%2$@:%3$@</tran>
+        <tran loc="es-419">%1$@:%2$@:%3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -710,7 +710,7 @@
       <Position>MiroPlayerPlay</Position>
       <TranslationSet>
         <base loc="en">Play</base>
-        <tran loc="es">Reproducir</tran>
+        <tran loc="es-419">Reproducir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -718,7 +718,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -726,7 +726,7 @@
       <Position>EditorDismissConfirmationKeepEditing</Position>
       <TranslationSet>
         <base loc="en">Keep Editing</base>
-        <tran loc="es">Continuar edición</tran>
+        <tran loc="es-419">Seguir editando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -734,7 +734,7 @@
       <Position>short_hours</Position>
       <TranslationSet>
         <base loc="en">h</base>
-        <tran loc="es">h</tran>
+        <tran loc="es-419">h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -742,7 +742,7 @@
       <Position>EXPORT_SHARING_OPTIONS</Position>
       <TranslationSet>
         <base loc="en">Movie Orientation</base>
-        <tran loc="es">Orientación de la película</tran>
+        <tran loc="es-419">Orientación del video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -750,7 +750,7 @@
       <Position>miroMemoryEditor_Duration_MinutesLabel</Position>
       <TranslationSet>
         <base loc="en">min</base>
-        <tran loc="es">min</tran>
+        <tran loc="es-419">min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -758,7 +758,7 @@
       <Position>MusicEditorMenuMood</Position>
       <TranslationSet>
         <base loc="en">Mood</base>
-        <tran loc="es">Estilo</tran>
+        <tran loc="es-419">Estilo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -766,7 +766,7 @@
       <Position>info_panel_mood</Position>
       <TranslationSet>
         <base loc="en">Mood</base>
-        <tran loc="es">Estilo</tran>
+        <tran loc="es-419">Estilo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -774,7 +774,7 @@
       <Position>NO</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -782,7 +782,7 @@
       <Position>MiroAddToMemoriesMessage</Position>
       <TranslationSet>
         <base loc="en">To edit this movie, it must be added to Memories.</base>
-        <tran loc="es">Para editar la película, debes añadirla a Recuerdos.</tran>
+        <tran loc="es-419">Para editar esta película, debes agregarla a Recuerdos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -790,7 +790,7 @@
       <Position>Audio from video clips was distracting</Position>
       <TranslationSet>
         <base loc="en">Audio from video clips was distracting</base>
-        <tran loc="es">El audio de los clips de vídeo me distraía</tran>
+        <tran loc="es-419">El audio de los videos distrae</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -798,7 +798,7 @@
       <Position>SubtitleLabel</Position>
       <TranslationSet>
         <base loc="en">Subtitle</base>
-        <tran loc="es">Subtítulo</tran>
+        <tran loc="es-419">Subtítulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -806,7 +806,7 @@
       <Position>hoursFormatTenths_%@_%@_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@:%2$@:%3$@%4$@%5$@</base>
-        <tran loc="es">%1$@:%2$@:%3$@%4$@%5$@</tran>
+        <tran loc="es-419">%1$@:%2$@:%3$@%4$@%5$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -814,7 +814,7 @@
       <Position>MEDIUM_DURATION_PRESET</Position>
       <TranslationSet>
         <base loc="en">Medium</base>
-        <tran loc="es">Medio</tran>
+        <tran loc="es-419">Medio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -823,7 +823,7 @@
       <Position>miroMoodLabel_Happy</Position>
       <TranslationSet>
         <base loc="en">Happy</base>
-        <tran loc="es">Alegre</tran>
+        <tran loc="es-419">Alegre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -831,7 +831,7 @@
       <Position>miroGenre_Jazz</Position>
       <TranslationSet>
         <base loc="en">Jazz</base>
-        <tran loc="es">Jazz</tran>
+        <tran loc="es-419">Jazz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -839,7 +839,7 @@
       <Position>miroGenre_SingerSongwriter</Position>
       <TranslationSet>
         <base loc="en">Singer/Songwriter</base>
-        <tran loc="es">Cantante/compositor</tran>
+        <tran loc="es-419">Cantautor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -847,7 +847,7 @@
       <Position>MiroMusicPickerLabelNoMusic</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Nada</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -855,7 +855,7 @@
       <Position>MusicEditorMenuNone</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Nada</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -863,7 +863,7 @@
       <Position>TitleStyleNone</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Nada</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -871,7 +871,7 @@
       <Position>Bad cropping</Position>
       <TranslationSet>
         <base loc="en">Bad cropping</base>
-        <tran loc="es">Mal recortada</tran>
+        <tran loc="es-419">Mal recortado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -879,7 +879,7 @@
       <Position>Playback wasn’t smooth</Position>
       <TranslationSet>
         <base loc="en">Playback wasn’t smooth</base>
-        <tran loc="es">La reproducción no era fluida</tran>
+        <tran loc="es-419">Se traba al reproducir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -887,7 +887,7 @@
       <Position>miroGenre_Lounge</Position>
       <TranslationSet>
         <base loc="en">Lounge</base>
-        <tran loc="es">Lounge</tran>
+        <tran loc="es-419">Lounge</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -895,7 +895,7 @@
       <Position>Why did you like this movie?</Position>
       <TranslationSet>
         <base loc="en">Why did you like this movie?</base>
-        <tran loc="es">¿Por qué te ha gustado esta película?</tran>
+        <tran loc="es-419">¿Por qué te gustó la película?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -903,7 +903,7 @@
       <Position>miroGenre_Pop</Position>
       <TranslationSet>
         <base loc="en">Pop</base>
-        <tran loc="es">Pop</tran>
+        <tran loc="es-419">Pop</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -911,7 +911,7 @@
       <Position>MusicEditorMenuMyMusic</Position>
       <TranslationSet>
         <base loc="en">My Music</base>
-        <tran loc="es">Mi música</tran>
+        <tran loc="es-419">Mi música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -919,7 +919,7 @@
       <Position>EXPORT_SQUARE</Position>
       <TranslationSet>
         <base loc="en">Square</base>
-        <tran loc="es">Cuadrado</tran>
+        <tran loc="es-419">Cuadrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -927,7 +927,7 @@
       <Position>Didn’t like the music</Position>
       <TranslationSet>
         <base loc="en">Didn’t like the music</base>
-        <tran loc="es">No me ha gustado la música</tran>
+        <tran loc="es-419">No me gustó la música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -935,7 +935,7 @@
       <Position>MusicEditorMenuSoundtracks</Position>
       <TranslationSet>
         <base loc="en">Soundtracks</base>
-        <tran loc="es">Pistas de sonido</tran>
+        <tran loc="es-419">Bandas sonoras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -943,7 +943,7 @@
       <Position>Good selections of photos and videos</Position>
       <TranslationSet>
         <base loc="en">Good selections of photos and videos</base>
-        <tran loc="es">Buena selección de fotos y vídeos</tran>
+        <tran loc="es-419">Buena selección de fotos y videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -951,7 +951,7 @@
       <Position>MusicEditorDownloadProgress</Position>
       <TranslationSet>
         <base loc="en">Download Progress Indicator</base>
-        <tran loc="es">Indicador de progreso de la descarga</tran>
+        <tran loc="es-419">Indicador de progreso de descarga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -959,7 +959,7 @@
       <Position>secondsFormat_%@</Position>
       <TranslationSet>
         <base loc="en">%@s</base>
-        <tran loc="es">%@ s</tran>
+        <tran loc="es-419">%@ s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -967,7 +967,7 @@
       <Position>shortestSecondsFormat_%@</Position>
       <TranslationSet>
         <base loc="en">%@s</base>
-        <tran loc="es">%@ s</tran>
+        <tran loc="es-419">%@ s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -975,7 +975,7 @@
       <Position>tensFormat_%@</Position>
       <TranslationSet>
         <base loc="en">%@s</base>
-        <tran loc="es">%@ s</tran>
+        <tran loc="es-419">%@ s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -983,7 +983,7 @@
       <Position>CANT_EXPORT_NOT_ENOUGH_DISK_SPACE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to export</base>
-        <tran loc="es">No se puede exportar</tran>
+        <tran loc="es-419">No se puede exportar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -991,7 +991,7 @@
       <Position>DISCARD_CHANGES</Position>
       <TranslationSet>
         <base loc="en">Discard Changes</base>
-        <tran loc="es">No guardar cambios</tran>
+        <tran loc="es-419">No guardar cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -999,7 +999,7 @@
       <Position>EditorDismissConfirmationDiscard</Position>
       <TranslationSet>
         <base loc="en">Discard Changes</base>
-        <tran loc="es">No guardar cambios</tran>
+        <tran loc="es-419">No guardar cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1007,7 +1007,7 @@
       <Position>EditorDismissConfirmationTitle</Position>
       <TranslationSet>
         <base loc="en">Discard Changes</base>
-        <tran loc="es">No guardar cambios</tran>
+        <tran loc="es-419">No guardar cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1015,7 +1015,7 @@
       <Position>miroGenre_World</Position>
       <TranslationSet>
         <base loc="en">World</base>
-        <tran loc="es">Internacional</tran>
+        <tran loc="es-419">Música del mundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1023,7 +1023,7 @@
       <Position>readableHoursFormat_%@_%@_%@_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@ %3$@ %4$@ %5$@ %6$@</base>
-        <tran loc="es">%1$@ %2$@ %3$@ %4$@ %5$@ %6$@</tran>
+        <tran loc="es-419">%1$@ %2$@ %3$@ %4$@ %5$@ %6$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1031,7 +1031,7 @@
       <Position>readableMinutesFormatTenths_%@_%@_%@_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@ %3$@ %4$@ %5$@ %6$@</base>
-        <tran loc="es">%1$@ %2$@ %3$@ %4$@ %5$@ %6$@</tran>
+        <tran loc="es-419">%1$@ %2$@ %3$@ %4$@ %5$@ %6$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1039,7 +1039,7 @@
       <Position>EXPORT_SELECT</Position>
       <TranslationSet>
         <base loc="en">Select Movie Orientation</base>
-        <tran loc="es">Seleccionar orientación de la película</tran>
+        <tran loc="es-419">Seleccionar orientación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1047,7 +1047,7 @@
       <Position>readableMinutesFormat_%@_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@ %3$@ %4$@</base>
-        <tran loc="es">%1$@ %2$@ %3$@ %4$@</tran>
+        <tran loc="es-419">%1$@ %2$@ %3$@ %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1055,7 +1055,7 @@
       <Position>MusicEditorVolumeHigh</Position>
       <TranslationSet>
         <base loc="en">HIGH</base>
-        <tran loc="es">MÁX.</tran>
+        <tran loc="es-419">ALTA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1063,7 +1063,7 @@
       <Position>CUSTOM_DURATION_PRESET</Position>
       <TranslationSet>
         <base loc="en">Custom</base>
-        <tran loc="es">Personalizado</tran>
+        <tran loc="es-419">Personalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1071,7 +1071,7 @@
       <Position>miroMoodLabel_Custom</Position>
       <TranslationSet>
         <base loc="en">Custom</base>
-        <tran loc="es">Personalizado</tran>
+        <tran loc="es-419">Personalizada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1079,7 +1079,7 @@
       <Position>MiroUntitledMovieName</Position>
       <TranslationSet>
         <base loc="en">Untitled</base>
-        <tran loc="es">Sin título</tran>
+        <tran loc="es-419">Sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1087,7 +1087,7 @@
       <Position>MiroPlayerShuffle</Position>
       <TranslationSet>
         <base loc="en">Shuffle</base>
-        <tran loc="es">Aleatorio</tran>
+        <tran loc="es-419">Aleatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1095,7 +1095,7 @@
       <Position>second</Position>
       <TranslationSet>
         <base loc="en">second</base>
-        <tran loc="es">segundo</tran>
+        <tran loc="es-419">segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1103,7 +1103,7 @@
       <Position>hours</Position>
       <TranslationSet>
         <base loc="en">hours</base>
-        <tran loc="es">horas</tran>
+        <tran loc="es-419">horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1111,7 +1111,7 @@
       <Position>miroGenre_Latin</Position>
       <TranslationSet>
         <base loc="en">Latin</base>
-        <tran loc="es">Latina</tran>
+        <tran loc="es-419">Latina</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1119,7 +1119,7 @@
       <Position>minutes</Position>
       <TranslationSet>
         <base loc="en">minutes</base>
-        <tran loc="es">minutos</tran>
+        <tran loc="es-419">minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1127,7 +1127,7 @@
       <Position>Memories Tab Label</Position>
       <TranslationSet>
         <base loc="en">Memories</base>
-        <tran loc="es">Recuerdos</tran>
+        <tran loc="es-419">Recuerdos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1135,7 +1135,7 @@
       <Position>Suggestions_Remove_Last_Asset_Message</Position>
       <TranslationSet>
         <base loc="en">A movie requires at least one item.</base>
-        <tran loc="es">Se necesita como mínimo un ítem para hacer una película.</tran>
+        <tran loc="es-419">Una película requiere al menos un elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1143,7 +1143,7 @@
       <Position>miroGenre_Dance</Position>
       <TranslationSet>
         <base loc="en">Dance</base>
-        <tran loc="es">Dance</tran>
+        <tran loc="es-419">Dance</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1151,7 +1151,7 @@
       <Position>EditorDismissConfirmationMessage</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to discard your changes?</base>
-        <tran loc="es">¿Seguro que quieres descartar los cambios?</tran>
+        <tran loc="es-419">¿Seguro que quieres descartar tus cambios?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1159,7 +1159,7 @@
       <Position>MusicEditorMenuSelectSoundtrack</Position>
       <TranslationSet>
         <base loc="en">Select Soundtrack</base>
-        <tran loc="es">Seleccionar banda sonora</tran>
+        <tran loc="es-419">Seleccionar pista de sonido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1167,7 +1167,7 @@
       <Position>YES</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1175,7 +1175,7 @@
       <Position>short_minutes</Position>
       <TranslationSet>
         <base loc="en">m</base>
-        <tran loc="es">min</tran>
+        <tran loc="es-419">min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1183,7 +1183,7 @@
       <Position>Suggestions_Remove_Video_Remove</Position>
       <TranslationSet>
         <base loc="en">Remove from Movie</base>
-        <tran loc="es">Eliminar de la película</tran>
+        <tran loc="es-419">Eliminar de la película</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1191,7 +1191,7 @@
       <Position>SHARE</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1199,7 +1199,7 @@
       <Position>miroMoodLabel_Unknown</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1207,7 +1207,7 @@
       <Position>miroGenre_Country</Position>
       <TranslationSet>
         <base loc="en">Country</base>
-        <tran loc="es">Country</tran>
+        <tran loc="es-419">Country</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1215,7 +1215,7 @@
       <Position>miroMoodLabel_Action</Position>
       <TranslationSet>
         <base loc="en">Extreme</base>
-        <tran loc="es">Extremo</tran>
+        <tran loc="es-419">Extremo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1223,7 +1223,7 @@
       <Position>miroGenre_KidsFamily</Position>
       <TranslationSet>
         <base loc="en">Kids/Family</base>
-        <tran loc="es">Niños/Familia</tran>
+        <tran loc="es-419">Niños/familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1231,7 +1231,7 @@
       <Position>miroInfoPanelHint</Position>
       <TranslationSet>
         <base loc="en">Swipe Down to Customize Movie</base>
-        <tran loc="es">Desliza hacia abajo para personalizar la película</tran>
+        <tran loc="es-419">Desliza hacia abajo para personalizar la película</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1239,7 +1239,7 @@
       <Position>miroGenre_Electronic</Position>
       <TranslationSet>
         <base loc="en">Electronic</base>
-        <tran loc="es">Electrónica</tran>
+        <tran loc="es-419">Electrónica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1247,7 +1247,7 @@
       <Position>frames</Position>
       <TranslationSet>
         <base loc="en">frames</base>
-        <tran loc="es">fotogramas</tran>
+        <tran loc="es-419">cuadros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1255,7 +1255,7 @@
       <Position>readableHoursFormatTenths_%@_%@_%@_%@_%@_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@ %3$@ %4$@ %5$@%6$@%7$@ %8$@</base>
-        <tran loc="es">%1$@ %2$@ %3$@ %4$@ %5$@%6$@%7$@ %8$@</tran>
+        <tran loc="es-419">%1$@ %2$@ %3$@ %4$@ %5$@%6$@%7$@ %8$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1263,7 +1263,7 @@
       <Position>EXPORTING_MOVIE</Position>
       <TranslationSet>
         <base loc="en">Exporting Movie…</base>
-        <tran loc="es">Exportando película…</tran>
+        <tran loc="es-419">Exportando película…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1271,7 +1271,7 @@
       <Position>Movie was too long</Position>
       <TranslationSet>
         <base loc="en">Movie was too long</base>
-        <tran loc="es">Película demasiado larga</tran>
+        <tran loc="es-419">Dura demasiado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1279,7 +1279,7 @@
       <Position>MusicEditorVolumeOff</Position>
       <TranslationSet>
         <base loc="en">OFF</base>
-        <tran loc="es">NO</tran>
+        <tran loc="es-419">DESACTIVADO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1287,7 +1287,7 @@
       <Position>miroAssetLabel_SelectItems</Position>
       <TranslationSet>
         <base loc="en">Select Items</base>
-        <tran loc="es">Seleccionar ítems</tran>
+        <tran loc="es-419">Seleccionar elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1295,7 +1295,7 @@
       <Position>MusicEditorVolumeLow</Position>
       <TranslationSet>
         <base loc="en">LOW</base>
-        <tran loc="es">MÍN.</tran>
+        <tran loc="es-419">BAJO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1303,7 +1303,7 @@
       <Position>justSecondsFormat_%@</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1311,7 +1311,7 @@
       <Position>MiroAddToMemoriesTitle</Position>
       <TranslationSet>
         <base loc="en">Add to Memories</base>
-        <tran loc="es">Añadir a Recuerdos</tran>
+        <tran loc="es-419">Agregar a Recuerdos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1319,7 +1319,7 @@
       <Position>Didn’t like the titles or transitions</Position>
       <TranslationSet>
         <base loc="en">Didn’t like the titles or transitions</base>
-        <tran loc="es">No me han gustado los títulos o las transiciones</tran>
+        <tran loc="es-419">No me gustaron los títulos o las transiciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1327,7 +1327,7 @@
       <Position>MusicEditorPlaybackIndicator</Position>
       <TranslationSet>
         <base loc="en">Playback Indicator</base>
-        <tran loc="es">Indicador de reproducción</tran>
+        <tran loc="es-419">Indicador de reproducción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1335,7 +1335,7 @@
       <Position>ExportFailMessage</Position>
       <TranslationSet>
         <base loc="en">There was a problem trying to export this movie.</base>
-        <tran loc="es">Se ha producido un problema al intentar exportar esta película.</tran>
+        <tran loc="es-419">Hubo un problema al exportar esta película.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1343,7 +1343,7 @@
       <Position>MusicEditorCloudIcon</Position>
       <TranslationSet>
         <base loc="en">Cloud Icon</base>
-        <tran loc="es">Icono de nube</tran>
+        <tran loc="es-419">Ícono de nube</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1351,7 +1351,7 @@
       <Position>readableJustSecondsFormat_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1359,7 +1359,7 @@
       <Position>readableSecondsFormat_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1367,7 +1367,7 @@
       <Position>readableTensFormat_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1375,7 +1375,7 @@
       <Position>miroMoodLabel_Sentimental</Position>
       <TranslationSet>
         <base loc="en">Sentimental</base>
-        <tran loc="es">Sentimental</tran>
+        <tran loc="es-419">Sentimental</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1383,7 +1383,7 @@
       <Position>MusicEditorMenuGenre</Position>
       <TranslationSet>
         <base loc="en">Genre</base>
-        <tran loc="es">Género</tran>
+        <tran loc="es-419">Género</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1391,7 +1391,7 @@
       <Position>miroGenre_HipHopRap</Position>
       <TranslationSet>
         <base loc="en">Hip-Hop/Rap</base>
-        <tran loc="es">Hip Hop/Rap</tran>
+        <tran loc="es-419">Hip-Hop/Rap</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1399,7 +1399,7 @@
       <Position>miroMoodLabel_Special</Position>
       <TranslationSet>
         <base loc="en">Special</base>
-        <tran loc="es">Especial</tran>
+        <tran loc="es-419">Memorables</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1407,7 +1407,7 @@
       <Position>miroGenre_StageScreen</Position>
       <TranslationSet>
         <base loc="en">Stage &amp; Screen</base>
-        <tran loc="es">Teatro y cine</tran>
+        <tran loc="es-419">Escenario y pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1415,7 +1415,7 @@
       <Position>miroGenre_SoulFunk</Position>
       <TranslationSet>
         <base loc="en">Soul/Funk</base>
-        <tran loc="es">Soul/Funk</tran>
+        <tran loc="es-419">Soul/Funk</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1430,7 +1430,7 @@
       <Position>Apple Internal Feedback</Position>
       <TranslationSet>
         <base loc="en">Feedback Header</base>
-        <tran loc="es">Cabecera de opinión</tran>
+        <tran loc="es-419">Encabezado del comentario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1438,7 +1438,7 @@
       <Position>miroMemoryEditor_Duration_SecondsLabel</Position>
       <TranslationSet>
         <base loc="en">sec</base>
-        <tran loc="es">s</tran>
+        <tran loc="es-419">s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1446,7 +1446,7 @@
       <Position>miroGenre_Downtempo</Position>
       <TranslationSet>
         <base loc="en">Downtempo</base>
-        <tran loc="es">Downtempo</tran>
+        <tran loc="es-419">Downtempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1454,7 +1454,7 @@
       <Position>miroMoodLabel_NeutralMusicPicker</Position>
       <TranslationSet>
         <base loc="en">Default</base>
-        <tran loc="es">Por omisión</tran>
+        <tran loc="es-419">Predeterminada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1462,7 +1462,7 @@
       <Position>MEMORY_MOVIE_EXPORT</Position>
       <TranslationSet>
         <base loc="en">Video</base>
-        <tran loc="es">Vídeo</tran>
+        <tran loc="es-419">Video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1470,7 +1470,7 @@
       <Position>ShareLowBatteryTitle</Position>
       <TranslationSet>
         <base loc="en">Low Battery</base>
-        <tran loc="es">Batería baja</tran>
+        <tran loc="es-419">Batería baja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1478,7 +1478,7 @@
       <Position>LONG_DURATION_PRESET</Position>
       <TranslationSet>
         <base loc="en">Long</base>
-        <tran loc="es">Largo</tran>
+        <tran loc="es-419">Largo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1486,7 +1486,7 @@
       <Position>How did you like this movie?</Position>
       <TranslationSet>
         <base loc="en">How did you like this movie?</base>
-        <tran loc="es">¿Qué te ha parecido esta película?</tran>
+        <tran loc="es-419">¿Qué te pareció la película?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1494,7 +1494,7 @@
       <Position>secondsTenthsFormat_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@%2$@%3$@s</base>
-        <tran loc="es">%1$@%2$@%3$@ s</tran>
+        <tran loc="es-419">%1$@%2$@%3$@ s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1502,7 +1502,7 @@
       <Position>tensFormatTenths_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@%2$@%3$@s</base>
-        <tran loc="es">%1$@%2$@%3$@ s</tran>
+        <tran loc="es-419">%1$@%2$@%3$@ s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1510,7 +1510,7 @@
       <Position>Picked good part of video clips</Position>
       <TranslationSet>
         <base loc="en">Picked good part of video clips</base>
-        <tran loc="es">Selección de las mejores partes de los clip de vídeo</tran>
+        <tran loc="es-419">Buena selección de clips de video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1518,7 +1518,7 @@
       <Position>miroGenre_Indie</Position>
       <TranslationSet>
         <base loc="en">Indie</base>
-        <tran loc="es">Indie</tran>
+        <tran loc="es-419">Indie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1526,7 +1526,7 @@
       <Position>MiroAutoEditUndoName</Position>
       <TranslationSet>
         <base loc="en">Instant Movie</base>
-        <tran loc="es">película instantánea</tran>
+        <tran loc="es-419">Película instantánea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1534,7 +1534,7 @@
       <Position>Other</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otra</tran>
+        <tran loc="es-419">Otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1542,7 +1542,7 @@
       <Position>minute</Position>
       <TranslationSet>
         <base loc="en">minute</base>
-        <tran loc="es">minuto</tran>
+        <tran loc="es-419">minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1550,7 +1550,7 @@
       <Position>miroMoodLabel_Neutral</Position>
       <TranslationSet>
         <base loc="en">●</base>
-        <tran loc="es">●</tran>
+        <tran loc="es-419">●</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1558,7 +1558,7 @@
       <Position>SHARE_NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1566,7 +1566,7 @@
       <Position>MiroPlayerPause</Position>
       <TranslationSet>
         <base loc="en">Pause</base>
-        <tran loc="es">Pausa</tran>
+        <tran loc="es-419">Pausa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1574,7 +1574,7 @@
       <Position>miroGenre_Rock</Position>
       <TranslationSet>
         <base loc="en">Rock</base>
-        <tran loc="es">Rock</tran>
+        <tran loc="es-419">Rock</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1585,7 +1585,7 @@
       <Position>dpS-Hz-yq9.title</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">Hecho</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1593,7 +1593,7 @@
       <Position>Yf2-Q8-7hZ.title</Position>
       <TranslationSet>
         <base loc="en">Debug</base>
-        <tran loc="es">Depurar</tran>
+        <tran loc="es-419">Depurar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1601,7 +1601,7 @@
       <Position>8gP-vw-2PT.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1609,7 +1609,7 @@
       <Position>HU1-wn-TXG.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1617,7 +1617,7 @@
       <Position>Yuo-KL-Mja.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1625,7 +1625,7 @@
       <Position>drB-lQ-p6Z.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1633,7 +1633,7 @@
       <Position>huD-pA-HGj.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1641,7 +1641,7 @@
       <Position>o1j-xt-TA7.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1649,7 +1649,7 @@
       <Position>X5G-ow-QuD.title</Position>
       <TranslationSet>
         <base loc="en">Sort</base>
-        <tran loc="es">Ordenar</tran>
+        <tran loc="es-419">Ordenar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1657,7 +1657,7 @@
       <Position>E9o-dp-RUX.title</Position>
       <TranslationSet>
         <base loc="en">Memory Debug</base>
-        <tran loc="es">Depurar recuerdo</tran>
+        <tran loc="es-419">Depuración de memoria</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1668,7 +1668,7 @@
       <Position>IUg-hq-D5I.text</Position>
       <TranslationSet>
         <base loc="en">DO_NOT_LOCALIZE</base>
-        <tran loc="es">DO_NOT_LOCALIZE</tran>
+        <tran loc="es-419">DO_NOT_LOCALIZE</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1679,7 +1679,7 @@
       <Position>/MEMORY_DOWNLOAD_ERROR_MESSAGE:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@ from iCloud Photos. Would you still like to play the movie?</base>
-        <tran loc="es">%#@items@ en las fotos en iCloud. ¿Quieres reproducir la película de todas formas?</tran>
+        <tran loc="es-419">%#@items@ de "Fotos en iCloud". ¿Quieres reproducir el video de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1687,7 +1687,7 @@
       <Position>/KeyAssetDownloadError_Message:dict/itemsnotaddedbecause:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu items could not be used as the title image because they could not be downloaded</base>
-        <tran loc="es">No se han podido usar %lu ítems como imagen de título porque no se han podido descargar</tran>
+        <tran loc="es-419">No se pudo usar %lu elementos como la imagen del título porque no se pudo descargarlos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1695,7 +1695,7 @@
       <Position>/Suggestions_Remove_Video_Message_Format:dict/places:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d place</base>
-        <tran loc="es">%d lugar</tran>
+        <tran loc="es-419">%d lugar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1703,7 +1703,7 @@
       <Position>/miroMemoryEditor_Duration_MinutesVoiceOver:dict/minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d minutes</base>
-        <tran loc="es">%d minutos</tran>
+        <tran loc="es-419">%d minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1711,7 +1711,7 @@
       <Position>/miroMemoryEditor_NumberOfItems:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Items</base>
-        <tran loc="es">%lu ítems</tran>
+        <tran loc="es-419">%lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1719,7 +1719,7 @@
       <Position>/ContentEditorDownloadError_Message:dict/itemsnotaddedbecause:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu items were not added to this movie because they could not be loaded</base>
-        <tran loc="es">No se han añadido %lu ítems a la película porque no se han podido cargar</tran>
+        <tran loc="es-419">No se agregaron %lu elementos a este video porque no se pudieron cargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1727,7 +1727,7 @@
       <Position>/PlayerDownloadErrorMessage:dict/total_assets:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">of %lu items</base>
-        <tran loc="es">de %lu ítems</tran>
+        <tran loc="es-419">de %lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1735,7 +1735,7 @@
       <Position>/Suggestions_Remove_Video_Message_Format:dict/places:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d places</base>
-        <tran loc="es">%d lugares</tran>
+        <tran loc="es-419">%d lugares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1743,7 +1743,7 @@
       <Position>/ContentEditorDownloadError_Message:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@itemsnotaddedbecause@.</base>
-        <tran loc="es">%#@itemsnotaddedbecause@.</tran>
+        <tran loc="es-419">%#@itemsnotaddedbecause@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1751,7 +1751,7 @@
       <Position>/miroMemoryEditor_NumberOfItems:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Item</base>
-        <tran loc="es">%lu ítem</tran>
+        <tran loc="es-419">%lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1759,7 +1759,7 @@
       <Position>/Suggestions_Remove_Video_Message_Format:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">This video is used in %#@places@ in this movie. Are you sure you want to remove it?</base>
-        <tran loc="es">Este vídeo se utiliza en %#@places@ de esta película. ¿Seguro que quieres eliminarlo?</tran>
+        <tran loc="es-419">Este video se usa en %#@places@ en esta película. ¿Seguro que quieres eliminarlo?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1767,7 +1767,7 @@
       <Position>/miroMemoryEditor_Duration_SecondsVoiceOver:dict/seconds:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d second</base>
-        <tran loc="es">%d segundo</tran>
+        <tran loc="es-419">%d segundo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1775,7 +1775,7 @@
       <Position>/MEMORY_DOWNLOAD_ERROR_MESSAGE:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu item could not be downloaded</base>
-        <tran loc="es">No se ha podido descargar %lu ítem</tran>
+        <tran loc="es-419">No se pudo descargar %lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1783,7 +1783,7 @@
       <Position>/ContentEditorDownloadError_Message:dict/itemsnotaddedbecause:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu item was not added to this movie because it could not be loaded</base>
-        <tran loc="es">No se ha añadido %lu ítem a la película porque no se ha podido cargar</tran>
+        <tran loc="es-419">No se agregó %lu elemento a este video porque no se pudo cargar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1791,7 +1791,7 @@
       <Position>/miroMemoryEditor_Duration_MinutesVoiceOver:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@minutes@</base>
-        <tran loc="es">%#@minutes@</tran>
+        <tran loc="es-419">%#@minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1799,7 +1799,7 @@
       <Position>/PlayerDownloadErrorMessage:dict/total_assets:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">item</base>
-        <tran loc="es">ítem</tran>
+        <tran loc="es-419">elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1807,7 +1807,7 @@
       <Position>/PlayerDownloadErrorMessage:dict/was:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">was</base>
-        <tran loc="es">no se ha</tran>
+        <tran loc="es-419">no se descargó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1815,7 +1815,7 @@
       <Position>/PlayerDownloadErrorMessage:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu %2$#@total_assets@ %1$#@was@ not loaded.</base>
-        <tran loc="es">%lu %2$#@total_assets@ %1$#@was@ cargado.</tran>
+        <tran loc="es-419">%lu %2$#@total_assets@ %1$#@was@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1823,7 +1823,7 @@
       <Position>/PlayerDownloadErrorMessage:dict/was:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">were</base>
-        <tran loc="es">no se han</tran>
+        <tran loc="es-419">no se descargaron</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1831,7 +1831,7 @@
       <Position>/miroMemoryEditor_NumberOfItems:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1839,7 +1839,7 @@
       <Position>/MEMORY_DOWNLOAD_ERROR_MESSAGE:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu items could not be downloaded</base>
-        <tran loc="es">No se han podido descargar %lu ítems</tran>
+        <tran loc="es-419">No se pudo descargar %lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1847,7 +1847,7 @@
       <Position>/miroMemoryEditor_Duration_MinutesVoiceOver:dict/minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d minute</base>
-        <tran loc="es">%d minuto</tran>
+        <tran loc="es-419">%d minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1855,7 +1855,7 @@
       <Position>/miroMemoryEditor_Duration_SecondsVoiceOver:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@seconds@</base>
-        <tran loc="es">%#@seconds@</tran>
+        <tran loc="es-419">%#@seconds@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1863,7 +1863,7 @@
       <Position>/miroMemoryEditor_Duration_SecondsVoiceOver:dict/seconds:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d seconds</base>
-        <tran loc="es">%d segundos</tran>
+        <tran loc="es-419">%d segundos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1871,7 +1871,7 @@
       <Position>/KeyAssetDownloadError_Message:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@itemsnotaddedbecause@ from iCloud Photos.</base>
-        <tran loc="es">%#@itemsnotaddedbecause@ de fotos en iCloud.</tran>
+        <tran loc="es-419">%#@itemsnotaddedbecause@ de "Fotos en iCloud".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1879,7 +1879,7 @@
       <Position>/KeyAssetDownloadError_Message:dict/itemsnotaddedbecause:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu item could not be used as the title image because it could not be downloaded</base>
-        <tran loc="es">No se ha podido usar %lu ítem como imagen de título porque no se ha podido descargar</tran>
+        <tran loc="es-419">No se pudo usar %lu elemento como la imagen del título porque no se pudo descargarlo</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1890,7 +1890,7 @@
       <Position>bcK-pj-H0D.text</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1898,7 +1898,7 @@
       <Position>iGq-We-sEk.text</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1906,7 +1906,7 @@
       <Position>2Or-0o-68f.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1914,7 +1914,7 @@
       <Position>AJf-JI-2gV.text</Position>
       <TranslationSet>
         <base loc="en">Upper Detail</base>
-        <tran loc="es">Detalle superior</tran>
+        <tran loc="es-419">Detalle superior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1922,7 +1922,7 @@
       <Position>g3c-Y3-HLE.text</Position>
       <TranslationSet>
         <base loc="en">Upper Detail</base>
-        <tran loc="es">Detalle superior</tran>
+        <tran loc="es-419">Detalle superior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1930,7 +1930,7 @@
       <Position>BGc-p5-e7i.text</Position>
       <TranslationSet>
         <base loc="en">Lower Detail</base>
-        <tran loc="es">Detalle inferior</tran>
+        <tran loc="es-419">Detalle inferior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1938,7 +1938,7 @@
       <Position>UrN-RS-drA.text</Position>
       <TranslationSet>
         <base loc="en">Lower Detail</base>
-        <tran loc="es">Detalle inferior</tran>
+        <tran loc="es-419">Detalle inferior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1946,7 +1946,7 @@
       <Position>fg8-IU-ubw.text</Position>
       <TranslationSet>
         <base loc="en">Center Detail</base>
-        <tran loc="es">Detalle central</tran>
+        <tran loc="es-419">Detalle central</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1954,7 +1954,7 @@
       <Position>vD1-lo-ock.text</Position>
       <TranslationSet>
         <base loc="en">Center Detail</base>
-        <tran loc="es">Detalle central</tran>
+        <tran loc="es-419">Detalle central</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1962,7 +1962,7 @@
       <Position>Swb-pQ-KIN.text</Position>
       <TranslationSet>
         <base loc="en">Memory Title</base>
-        <tran loc="es">Título del recuerdo</tran>
+        <tran loc="es-419">Título del recuerdo</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1973,7 +1973,7 @@
       <Position>B2D-Qm-bH8.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1981,7 +1981,7 @@
       <Position>IrI-Wu-mzI.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1989,7 +1989,7 @@
       <Position>klc-rN-QM9.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1997,7 +1997,7 @@
       <Position>pwB-Lx-n51.text</Position>
       <TranslationSet>
         <base loc="en">DO NOT LOCALIZE Debug Label</base>
-        <tran loc="es">DO NOT LOCALIZE Debug Label</tran>
+        <tran loc="es-419">DO NOT LOCALIZE Debug Label</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2008,7 +2008,7 @@
       <Position>d1z-1a-yGT.text</Position>
       <TranslationSet>
         <base loc="en">Song Name</base>
-        <tran loc="es">Nombre de la canción</tran>
+        <tran loc="es-419">Nombre de la canción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2016,7 +2016,7 @@
       <Position>UbD-zJ-gso.title</Position>
       <TranslationSet>
         <base loc="en">Smart Music</base>
-        <tran loc="es">Música inteligente</tran>
+        <tran loc="es-419">Música inteligente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2024,7 +2024,7 @@
       <Position>zgA-Nt-vfg.text</Position>
       <TranslationSet>
         <base loc="en">Song</base>
-        <tran loc="es">Canción</tran>
+        <tran loc="es-419">Canción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2032,7 +2032,7 @@
       <Position>hjl-mD-v6S.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2040,7 +2040,7 @@
       <Position>kZT-pf-dYx.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2048,7 +2048,7 @@
       <Position>pHW-yQ-Mia.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2056,7 +2056,7 @@
       <Position>pak-NL-faQ.text</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2064,7 @@
       <Position>nw8-5d-UNU.text</Position>
       <TranslationSet>
         <base loc="en">Artist</base>
-        <tran loc="es">Artista</tran>
+        <tran loc="es-419">Artista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2072,7 @@
       <Position>lBs-ze-9CF.text</Position>
       <TranslationSet>
         <base loc="en">Artist Name</base>
-        <tran loc="es">Nombre del artista</tran>
+        <tran loc="es-419">Nombre del artista</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2083,7 +2083,7 @@
       <Position>O6h-EA-5CZ.text</Position>
       <TranslationSet>
         <base loc="en">Dbg</base>
-        <tran loc="es">Dbg</tran>
+        <tran loc="es-419">Dpr</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2091,7 +2091,7 @@
       <Position>YLm-6Y-nHP.text</Position>
       <TranslationSet>
         <base loc="en">Dom:</base>
-        <tran loc="es">Dom:</tran>
+        <tran loc="es-419">Dom:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2099,7 +2099,7 @@
       <Position>q5P-bC-Chz.text</Position>
       <TranslationSet>
         <base loc="en">LOW VOLUME</base>
-        <tran loc="es">VOLUMEN BAJO</tran>
+        <tran loc="es-419">VOLUMEN BAJO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2107,7 +2107,7 @@
       <Position>kMI-Hj-WEq.title</Position>
       <TranslationSet>
         <base loc="en">NavController (rootVC for CollectionView reordering)</base>
-        <tran loc="es">NavController (rootVC for CollectionView reordering)</tran>
+        <tran loc="es-419">NavController (rootVC para reordenar CollectionView)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2115,7 +2115,7 @@
       <Position>z2G-IT-0kj.text</Position>
       <TranslationSet>
         <base loc="en">L</base>
-        <tran loc="es">L</tran>
+        <tran loc="es-419">L</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2123,7 +2123,7 @@
       <Position>qOY-y3-Vyo.text</Position>
       <TranslationSet>
         <base loc="en">Acc:</base>
-        <tran loc="es">Acc:</tran>
+        <tran loc="es-419">Ac:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2131,7 +2131,7 @@
       <Position>Baw-aI-TPO.title</Position>
       <TranslationSet>
         <base loc="en">Trimmer View Controller</base>
-        <tran loc="es">Controlador de visualización de recorte</tran>
+        <tran loc="es-419">Controlador de vista de recortes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2139,7 +2139,7 @@
       <Position>QNy-9c-KKc.title</Position>
       <TranslationSet>
         <base loc="en">2 of 23</base>
-        <tran loc="es">2 de 23</tran>
+        <tran loc="es-419">2 de 23</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2147,7 +2147,7 @@
       <Position>lFq-9c-5uD.text</Position>
       <TranslationSet>
         <base loc="en">Sel:</base>
-        <tran loc="es">Sel:</tran>
+        <tran loc="es-419">Seleccionar:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2155,7 +2155,7 @@
       <Position>C55-b2-dRh.text</Position>
       <TranslationSet>
         <base loc="en">2.5s</base>
-        <tran loc="es">2,5 s</tran>
+        <tran loc="es-419">2.5 s</tran>
       </TranslationSet>
     </TextItem>
   </File>

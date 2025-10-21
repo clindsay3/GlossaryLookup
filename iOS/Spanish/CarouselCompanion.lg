@@ -8,7 +8,7 @@
       <Position>DOCK_ORDERING_MRU</Position>
       <TranslationSet>
         <base loc="en">Recents</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ALARM_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Alarms</base>
-        <tran loc="es">Alarmas</tran>
+        <tran loc="es-419">Alarmas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>ACTIVITY_MONITOR_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Activity</base>
-        <tran loc="es">Actividad</tran>
+        <tran loc="es-419">Actividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>MAIL_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Mail</base>
-        <tran loc="es">Mail</tran>
+        <tran loc="es-419">Mail</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>FIND_MY_FRIENDS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Find People</base>
-        <tran loc="es">Buscar Personas</tran>
+        <tran loc="es-419">Buscar Personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>DEEP_BREATHING_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Breathe</base>
-        <tran loc="es">Respirar</tran>
+        <tran loc="es-419">Respirar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>PHONE_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>RADIO_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Radio</base>
-        <tran loc="es">Radio</tran>
+        <tran loc="es-419">Radio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>DOCK_LIMIT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You can have up to %d docked apps on Apple Watch. To add a new app to the Dock, you’ll have to remove one.</base>
-        <tran loc="es">Puedes tener hasta %d apps en el Dock del Apple Watch. Para añadir una app al Dock, deberás quitar una de las existentes.</tran>
+        <tran loc="es-419">Puedes tener hasta %d apps fijas en el Apple Watch. Para agregar una nueva al Dock, tendrás que eliminar otra.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>WORLD_CLOCK_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">World Clock</base>
-        <tran loc="es">Reloj Mundial</tran>
+        <tran loc="es-419">Reloj mundial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>MUSIC_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Music</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>CAMERA_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Camera</base>
-        <tran loc="es">Cámara</tran>
+        <tran loc="es-419">Cámara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>BOOKS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Audiobooks</base>
-        <tran loc="es">Audiolibros</tran>
+        <tran loc="es-419">Audiolibros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>WEATHER_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Weather</base>
-        <tran loc="es">Tiempo</tran>
+        <tran loc="es-419">Clima</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>TAP_TO_RADAR_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Tap-to-Radar</base>
-        <tran loc="es">Pulsar para Radar</tran>
+        <tran loc="es-419">Crear un Radar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>DOCK_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>DOCK_LIMIT_TITLE</Position>
       <TranslationSet>
         <base loc="en">You’ve reached the Dock limit</base>
-        <tran loc="es">Has alcanzado el límite de apps en el Dock</tran>
+        <tran loc="es-419">Alcanzaste el límite del Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>SESSION_TRACKER_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Workout</base>
-        <tran loc="es">Entreno</tran>
+        <tran loc="es-419">Entrenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>MAPS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Maps</base>
-        <tran loc="es">Mapas</tran>
+        <tran loc="es-419">Mapas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>ECG_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">ECG</base>
-        <tran loc="es">ECG</tran>
+        <tran loc="es-419">ECG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>HOME_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Casa</tran>
+        <tran loc="es-419">Casa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>REMINDERS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Reminders</base>
-        <tran loc="es">Recordatorios</tran>
+        <tran loc="es-419">Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>NOISE_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Noise</base>
-        <tran loc="es">Ruido</tran>
+        <tran loc="es-419">Ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>NOW_PLAYING_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Now Playing</base>
-        <tran loc="es">Ahora Suena</tran>
+        <tran loc="es-419">Ahora suena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>STOPWATCH_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Stopwatch</base>
-        <tran loc="es">Cronómetro</tran>
+        <tran loc="es-419">Cronómetro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>WALKIE_TALKIE_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Walkie-Talkie</base>
-        <tran loc="es">Walkie-talkie</tran>
+        <tran loc="es-419">Walkie-talkie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>PODCASTS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Podcasts</base>
-        <tran loc="es">Podcasts</tran>
+        <tran loc="es-419">Podcasts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>DOCK_REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>MENSTRUAL_CYCLES_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Cycles</base>
-        <tran loc="es">Ciclos</tran>
+        <tran loc="es-419">Ciclos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>HEART_RATE_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Heart Rate</base>
-        <tran loc="es">Frecuencia Cardiaca</tran>
+        <tran loc="es-419">Frecuencia cardiaca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>NEWS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">News</base>
-        <tran loc="es">News</tran>
+        <tran loc="es-419">Noticias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>DOCK_ORDERING_FAVORITES_SELECTED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Choose the apps you want to appear in the Dock, and how they are ordered.</base>
-        <tran loc="es">Selecciona las apps que quieras que se muestren en el Dock y cómo se ordenan.</tran>
+        <tran loc="es-419">Elige cuáles apps quieres ver en el Dock y en qué orden.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>CALCULATOR_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Calculator</base>
-        <tran loc="es">Calculadora</tran>
+        <tran loc="es-419">Calculadora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>PHOTOS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Photos</base>
-        <tran loc="es">Fotos</tran>
+        <tran loc="es-419">Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>REMOTE_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Remote</base>
-        <tran loc="es">Remote</tran>
+        <tran loc="es-419">Remote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>TIMER_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Timer</base>
-        <tran loc="es">Temporizador</tran>
+        <tran loc="es-419">Temporizador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>DOCK_FAVORITES_INCLUDED_SECTION_HEADER</Position>
       <TranslationSet>
         <base loc="en">Favorites</base>
-        <tran loc="es">Favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>DOCK_ORDERING_FAVORITES</Position>
       <TranslationSet>
         <base loc="en">Favorites</base>
-        <tran loc="es">Favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>MESSAGES_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>PASSBOOK_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Wallet</base>
-        <tran loc="es">Wallet</tran>
+        <tran loc="es-419">Wallet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>DOCK_DO_NOT_INCLUDE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Do Not Include</base>
-        <tran loc="es">No incluir</tran>
+        <tran loc="es-419">No incluir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>DOCK_ORDERING_MRU_SELECTED_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Keep your most recently used apps in the Dock and order them by how recently they were used.</base>
-        <tran loc="es">Mantén en el Dock las apps que hayas usado recientemente ordenadas por la fecha en que se usaron por última vez.</tran>
+        <tran loc="es-419">Mantén las apps de uso más reciente en el Dock y ordénalas por fecha de uso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>CALENDAR_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>DOCK_GROUP_NAME</Position>
       <TranslationSet>
         <base loc="en">Dock</base>
-        <tran loc="es">Dock</tran>
+        <tran loc="es-419">Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>DOCK_ORDERING_GROUP_NAME</Position>
       <TranslationSet>
         <base loc="en">Dock Ordering</base>
-        <tran loc="es">Ordenación del Dock</tran>
+        <tran loc="es-419">Orden del Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>STOCKS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Stocks</base>
-        <tran loc="es">Bolsa</tran>
+        <tran loc="es-419">Bolsa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>VOICEMEMOS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Voice Memos</base>
-        <tran loc="es">Notas de Voz</tran>
+        <tran loc="es-419">Notas de Voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>SETTINGS_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>APPSTORE_APP_NAME</Position>
       <TranslationSet>
         <base loc="en">App Store</base>
-        <tran loc="es">App Store</tran>
+        <tran loc="es-419">App Store</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -409,7 +409,7 @@
       <Position>CSL_LAYOUT_INTERNAL_RESET_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Reset</base>
-        <tran loc="es">Restablecer</tran>
+        <tran loc="es-419">Restablecer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +423,7 @@
       <Position>CSL_LAYOUT_NAV_TITLE</Position>
       <TranslationSet>
         <base loc="en">Layout</base>
-        <tran loc="es">Disposición</tran>
+        <tran loc="es-419">Disposición</tran>
       </TranslationSet>
     </TextItem>
   </File>

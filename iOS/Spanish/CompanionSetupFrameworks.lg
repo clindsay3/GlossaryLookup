@@ -14,7 +14,7 @@
       <Position>394H_VARIANT</Position>
       <TranslationSet>
         <base loc="en">40mm Case</base>
-        <tran loc="es">Caja de 40 mm</tran>
+        <tran loc="es-419">40 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>448H_VARIANT_SHORT</Position>
       <TranslationSet>
         <base loc="en">44mm</base>
-        <tran loc="es">44 mm</tran>
+        <tran loc="es-419">44 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>394H_VARIANT_SHORT</Position>
       <TranslationSet>
         <base loc="en">40mm</base>
-        <tran loc="es">40 mm</tran>
+        <tran loc="es-419">40 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>448H_VARIANT</Position>
       <TranslationSet>
         <base loc="en">44mm Case</base>
-        <tran loc="es">Caja de 44 mm</tran>
+        <tran loc="es-419">44 mm</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -49,7 +49,7 @@
       <Position>/BIXBY_DETAIL_TEXT_FORMAT:dict/bixbydevices:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Do you want to use every Apple Watch you were using with “%3$@” with this iPhone? This includes “%2$@” %1$d others.</base>
-        <tran loc="es">¿Quieres usar todos los Apple Watch que estabas usando con “%3$@” con este iPhone? Esto incluye a “%2$@” y %1$d más.</tran>
+        <tran loc="es-419">¿Quieres usar cada Apple Watch enlazado con “%3$@” también con este iPhone? Esto incluye %1$d “%2$@” más.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>/BIXBY_DETAIL_TEXT_FORMAT:dict/bixbydevices:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Do you want to use “%2$@” with this iPhone?</base>
-        <tran loc="es">¿Quieres usar “%2$@” con este iPhone?</tran>
+        <tran loc="es-419">¿Quieres usar “%2$@” con este iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>/BIXBY_DETAIL_TEXT_FORMAT:dict/bixbydevices:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Do you want to use every Apple Watch you were using with “%3$@” with this iPhone? This includes “%2$@” and %1$d other.</base>
-        <tran loc="es">¿Quieres usar todos los Apple Watch que estabas usando con “%3$@” con este iPhone? Esto incluye a “%2$@” y %1$d más.</tran>
+        <tran loc="es-419">¿Quieres usar cada Apple Watch enlazado con “%3$@” también con este iPhone? Esto incluye “%2$@” y %1$d más.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>/BIXBY_DETAIL_TEXT_FORMAT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@bixbydevices@</base>
-        <tran loc="es">%#@bixbydevices@</tran>
+        <tran loc="es-419">%#@bixbydevices@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -84,7 +84,7 @@
       <Position>VICTORY_EDITION_SHORT</Position>
       <TranslationSet>
         <base loc="en">Nike+</base>
-        <tran loc="es">Nike+</tran>
+        <tran loc="es-419">Nike+</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -92,7 +92,7 @@
       <Position>ZEUS_EDITION_SHORT</Position>
       <TranslationSet>
         <base loc="en">HERMÈS</base>
-        <tran loc="es">HERMÈS</tran>
+        <tran loc="es-419">HERMÈS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -100,7 +100,7 @@
       <Position>REMAINING_BALANCE_TITLE_%@</Position>
       <TranslationSet>
         <base loc="en">Remaining Value on “%@” May Be Lost</base>
-        <tran loc="es">Puede que el valor restante de “%@” se pierda</tran>
+        <tran loc="es-419">Se podría perder el valor restante de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -108,7 +108,7 @@
       <Position>BIXBY_SETUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple Watch</base>
-        <tran loc="es">Apple Watch</tran>
+        <tran loc="es-419">Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -116,7 +116,7 @@
       <Position>BIXBY_SIZE_EDITION_FORMATTER_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%@ %@</base>
-        <tran loc="es">%@ %@</tran>
+        <tran loc="es-419">%@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -124,7 +124,7 @@
       <Position>REMAINING_BALANCE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Connect to Apple Pay to make sure the value on this card will be preserved.</base>
-        <tran loc="es">Conecta con Apple Pay para conservar el valor de esta tarjeta.</tran>
+        <tran loc="es-419">Conéctate a Apple Pay para asegurarte de que se mantendrá el valor de esta tarjeta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -132,7 +132,7 @@
       <Position>REMAINING_BALANCE_MESSAGE_MULTIPLE_LEGACY</Position>
       <TranslationSet>
         <base loc="en">Connect to the Internet to make sure the value on your Apple Pay cards will be preserved.</base>
-        <tran loc="es">Conéctate a internet para conservar el valor de tus tarjetas de Apple Pay.</tran>
+        <tran loc="es-419">Conéctate a Internet para asegurarte de que se mantendrá el valor de tus tarjetas de Apple Pay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -140,7 +140,7 @@
       <Position>394H_VARIANT</Position>
       <TranslationSet>
         <base loc="en">40mm Case</base>
-        <tran loc="es">Caja de 40 mm</tran>
+        <tran loc="es-419">40 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -148,7 +148,7 @@
       <Position>448H_VARIANT_SHORT</Position>
       <TranslationSet>
         <base loc="en">44mm</base>
-        <tran loc="es">44 mm</tran>
+        <tran loc="es-419">44 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -156,7 +156,7 @@
       <Position>CONNECTING_TO_APPLE_PAY</Position>
       <TranslationSet>
         <base loc="en">Connecting to Apple Pay…</base>
-        <tran loc="es">Conectando con Apple Pay…</tran>
+        <tran loc="es-419">Conectándose con Apple Pay…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -164,7 +164,7 @@
       <Position>RESET</Position>
       <TranslationSet>
         <base loc="en">Continue Unpairing</base>
-        <tran loc="es">Seguir desenlazando</tran>
+        <tran loc="es-419">Continuar desenlazando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -172,7 +172,7 @@
       <Position>AL_NAME</Position>
       <TranslationSet>
         <base loc="en">Aluminum</base>
-        <tran loc="es">Aluminio</tran>
+        <tran loc="es-419">Aluminio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -180,7 +180,7 @@
       <Position>ALERT_GIZMO_UNREACHABLE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -188,7 +188,7 @@
       <Position>SS_NAME</Position>
       <TranslationSet>
         <base loc="en">Stainless Steel</base>
-        <tran loc="es">Acero inoxidable</tran>
+        <tran loc="es-419">Acero inoxidable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -196,7 +196,7 @@
       <Position>REGULAR_VARIANT_SHORT</Position>
       <TranslationSet>
         <base loc="en">42mm</base>
-        <tran loc="es">42 mm</tran>
+        <tran loc="es-419">42 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -204,7 +204,7 @@
       <Position>COMPACT_VARIANT_SHORT</Position>
       <TranslationSet>
         <base loc="en">38mm</base>
-        <tran loc="es">38 mm</tran>
+        <tran loc="es-419">38 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -212,7 +212,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -220,7 +220,7 @@
       <Position>SPORT_EDITION_SHORT</Position>
       <TranslationSet>
         <base loc="en">Sport</base>
-        <tran loc="es">Sport</tran>
+        <tran loc="es-419">Sport</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>YG_NAME</Position>
       <TranslationSet>
         <base loc="en">Yellow Gold</base>
-        <tran loc="es">Oro</tran>
+        <tran loc="es-419">Oro amarillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -236,7 +236,7 @@
       <Position>REMAINING_BALANCE_MESSAGE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Connect to Apple Pay to make sure the value on your Apple Pay cards will be preserved.</base>
-        <tran loc="es">Conecta con Apple Pay para conservar el valor de tus tarjetas de Apple Pay.</tran>
+        <tran loc="es-419">Conéctate a Apple Pay para asegurarte de que se mantendrá el valor de tus tarjetas de Apple Pay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +244,7 @@
       <Position>BIXBY_CONTINUE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +252,7 @@
       <Position>394H_VARIANT_SHORT</Position>
       <TranslationSet>
         <base loc="en">40mm</base>
-        <tran loc="es">40 mm</tran>
+        <tran loc="es-419">40 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -260,7 +260,7 @@
       <Position>REMAINING_BALANCE_TITLE_MULTIPLE</Position>
       <TranslationSet>
         <base loc="en">Remaining Value on Some Cards May Be Lost</base>
-        <tran loc="es">Puede que el valor restante de algunas tarjetas se pierda</tran>
+        <tran loc="es-419">Se podría perder el valor restante de algunas tarjetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -268,7 +268,7 @@
       <Position>EDITION_EDITION_SHORT</Position>
       <TranslationSet>
         <base loc="en">Edition</base>
-        <tran loc="es">Edition</tran>
+        <tran loc="es-419">Edition</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -276,7 +276,7 @@
       <Position>COMPACT_VARIANT</Position>
       <TranslationSet>
         <base loc="en">38mm Case</base>
-        <tran loc="es">Caja de 38 mm</tran>
+        <tran loc="es-419">Cubierta de 38 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -284,7 +284,7 @@
       <Position>448H_VARIANT</Position>
       <TranslationSet>
         <base loc="en">44mm Case</base>
-        <tran loc="es">Caja de 44 mm</tran>
+        <tran loc="es-419">44 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>ALERT_GIZMO_UNREACHABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Could Not Connect to Apple Watch</base>
-        <tran loc="es">No se ha podido establecer conexión con el Apple Watch</tran>
+        <tran loc="es-419">Falló la conexión con Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>CONNECT_TO_APPLE_PAY</Position>
       <TranslationSet>
         <base loc="en">Connect to Apple Pay</base>
-        <tran loc="es">Conectar con Apple Pay</tran>
+        <tran loc="es-419">Conectarse a Apple Pay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>REMAINING_BALANCE_MESSAGE_LEGACY</Position>
       <TranslationSet>
         <base loc="en">Connect to the Internet to make sure the value on this card will be preserved.</base>
-        <tran loc="es">Conéctate a internet para conservar el valor de esta tarjeta.</tran>
+        <tran loc="es-419">Conéctate a Internet para asegurarte de que se mantendrá el valor de esta tarjeta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>REMAINING_BALANCE_MESSAGE_ERROR</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to Apple Pay. Make sure you are connected to the Internet.</base>
-        <tran loc="es">No ha sido posible conectar con Apple Pay. Asegúrate de que estás conectado a internet.</tran>
+        <tran loc="es-419">No se puede conectar a Apple Pay. Revisa tu conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -330,7 +330,7 @@
       <Position>ALERT_GIZMO_UNREACHABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Make sure your Apple Watch is nearby, powered on, and not in Airplane Mode.</base>
-        <tran loc="es">Asegúrate de que el Apple Watch está cerca, tiene batería y no está en modo Avión.</tran>
+        <tran loc="es-419">Asegúrate de que el Apple Watch está cerca, encendido y no en "Modo de vuelo".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -338,7 +338,7 @@
       <Position>IM_NAME</Position>
       <TranslationSet>
         <base loc="en">Ceramic</base>
-        <tran loc="es">Cerámica</tran>
+        <tran loc="es-419">Cerámica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -346,7 +346,7 @@
       <Position>RG_NAME</Position>
       <TranslationSet>
         <base loc="en">Rose Gold</base>
-        <tran loc="es">Oro rosa</tran>
+        <tran loc="es-419">Oro rosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -354,7 +354,7 @@
       <Position>REGULAR_VARIANT</Position>
       <TranslationSet>
         <base loc="en">42mm Case</base>
-        <tran loc="es">Caja de 42 mm</tran>
+        <tran loc="es-419">Cubierta de 42 mm</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -362,7 +362,7 @@
       <Position>BIXBY_SKIP_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Set Up Later</base>
-        <tran loc="es">Configurar más tarde</tran>
+        <tran loc="es-419">Configurar más tarde</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -373,7 +373,7 @@
       <Position>AGREE_DIALOG_TEXT</Position>
       <TranslationSet>
         <base loc="en">I agree to the watchOS Terms and Conditions.</base>
-        <tran loc="es">Acepto los términos y las condiciones de watchOS.</tran>
+        <tran loc="es-419">Acepto los términos y condiciones de watchOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -388,7 +388,7 @@
       <Position>IMPORTANT</Position>
       <TranslationSet>
         <base loc="en">IMPORTANT</base>
-        <tran loc="es">IMPORTANTE</tran>
+        <tran loc="es-419">IMPORTANTE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -396,7 +396,7 @@
       <Position>DEVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">%@’s Apple Watch</base>
-        <tran loc="es">Apple Watch de %@</tran>
+        <tran loc="es-419">Apple Watch de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -404,7 +404,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -412,7 +412,7 @@
       <Position>Part2</Position>
       <TranslationSet>
         <base loc="en">PLEASE READ THIS SOFTWARE LICENSE AGREEMENT (“LICENSE”) CAREFULLY BEFORE USING YOUR APPLE WATCH OR DOWNLOADING THE SOFTWARE UPDATE ACCOMPANYING THIS LICENSE. BY USING YOUR APPLE WATCH DEVICE OR DOWNLOADING A SOFTWARE UPDATE, AS APPLICABLE, YOU ARE AGREEING TO BE BOUND BY THE TERMS OF THIS LICENSE. IF YOU DO NOT AGREE TO THE TERMS OF THIS LICENSE, DO NOT USE THE APPLE WATCH OR DOWNLOAD THE SOFTWARE UPDATE.</base>
-        <tran loc="es">LEE DETENIDAMENTE EL PRESENTE CONTRATO DE LICENCIA DE SOFTWARE (EN ADELANTE DENOMINADO “LICENCIA”) ANTES DE UTILIZAR EL APPLE WATCH O DESCARGAR LA ACTUALIZACIÓN DE SOFTWARE QUE ACOMPAÑA A ESTA LICENCIA. LA UTILIZACIÓN DEL APPLE WATCH O LA DESCARGA DE UNA ACTUALIZACIÓN DE SOFTWARE, SEGÚN SEA EL CASO, SE INTERPRETARÁ COMO UN HECHO INEQUÍVOCO DE QUE ACEPTAS LAS CLÁUSULAS DE ESTA LICENCIA.\n\nSI NO LAS ACEPTAS, NO USES EL APPLE WATCH NI DESCARGUES LA ACTUALIZACIÓN DE SOFTWARE.</tran>
+        <tran loc="es-419">LEE DETENIDAMENTE EL PRESENTE CONTRATO DE LICENCIA DE SOFTWARE (EN ADELANTE DENOMINADO “LICENCIA”) ANTES DE USAR EL APPLE WATCH O DESCARGAR LA ACTUALIZACIÓN DE SOFTWARE QUE ACOMPAÑA A ESTA LICENCIA. EL USO DEL APPLE WATCH O LA DESCARGA DE UNA ACTUALIZACIÓN DE SOFTWARE, COMO CORRESPONDA, SE INTERPRETARÁ COMO UN HECHO INEQUÍVOCO DE QUE ACEPTAS LOS TÉRMINOS Y CONDICIONES DE ESTA LICENCIA. SI NO ACEPTAS DICHAS CONDICIONES, NO HAGAS USO DEL APPLE WATCH NI DESCARGUES LA ACTUALIZACIÓN DE SOFTWARE.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -420,7 +420,7 @@
       <Position>WARRANTY</Position>
       <TranslationSet>
         <base loc="en">Warranty</base>
-        <tran loc="es">Garantía</tran>
+        <tran loc="es-419">Garantía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -428,7 +428,7 @@
       <Position>DISAGREE</Position>
       <TranslationSet>
         <base loc="en">Disagree</base>
-        <tran loc="es">No acepto</tran>
+        <tran loc="es-419">No acepto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -436,7 +436,7 @@
       <Position>TC_HEADER</Position>
       <TranslationSet>
         <base loc="en">A. watchOS Terms and Conditions</base>
-        <tran loc="es">A. Términos y condiciones de watchOS</tran>
+        <tran loc="es-419">A. Términos y condiciones de watchOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -444,7 +444,7 @@
       <Position>AGREE_DIALOG_TITLE</Position>
       <TranslationSet>
         <base loc="en">Terms and Conditions</base>
-        <tran loc="es">Términos y condiciones</tran>
+        <tran loc="es-419">Términos y condiciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -452,7 +452,7 @@
       <Position>TERMS_AND_CONDITIONS</Position>
       <TranslationSet>
         <base loc="en">Terms and Conditions</base>
-        <tran loc="es">Términos y condiciones</tran>
+        <tran loc="es-419">Términos y condiciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -460,7 +460,7 @@
       <Position>AGREE</Position>
       <TranslationSet>
         <base loc="en">Agree</base>
-        <tran loc="es">Acepto</tran>
+        <tran loc="es-419">Acepto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -468,7 +468,7 @@
       <Position>WARRANTY_HEADER</Position>
       <TranslationSet>
         <base loc="en">B. Warranty</base>
-        <tran loc="es">B. Garantía</tran>
+        <tran loc="es-419">B. Garantía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -476,7 +476,7 @@
       <Position>Part3</Position>
       <TranslationSet>
         <base loc="en">IF YOU HAVE RECENTLY PURCHASED AN APPLE WATCH AND YOU DO NOT AGREE TO THE TERMS OF THE LICENSE, YOU MAY RETURN THE APPLE WATCH WITHIN THE RETURN PERIOD TO THE APPLE STORE OR AUTHORIZED DISTRIBUTOR WHERE YOU OBTAINED IT FOR A REFUND, SUBJECT TO APPLE’S RETURN POLICY FOUND AT https://www.apple.com/legal/sales_policies/.</base>
-        <tran loc="es">SI HAS COMPRADO RECIENTEMENTE UN APPLE WATCH Y NO ACEPTAS ESTA LICENCIA, PUEDES DEVOLVER EL APPLE WATCH DURANTE EL PERIODO DE DEVOLUCIÓN ESTABLECIDO A LA TIENDA APPLE STORE O AL ESTABLECIMIENTO AUTORIZADO DONDE LO ADQUIRISTE Y SOLICITAR SU REEMBOLSO EN CONFORMIDAD CON LA POLÍTICA DE DEVOLUCIONES DE APPLE, QUE ESTÁ DISPONIBLE EN: https://www.apple.com/legal/sales_policies/.</tran>
+        <tran loc="es-419">EN CASO DE QUE HAYAS ADQUIRIDO RECIENTEMENTE UN APPLE WATCH Y NO ACEPTES LAS CLÁUSULAS DE LA LICENCIA, PUEDES DEVOLVER EL APPLE WATCH EN EL PERIODO DE DEVOLUCIÓN PRESCRITO EN EL APPLE STORE O EN EL DISTRIBUIDOR AUTORIZADO DONDE LO HAYAS ADQUIRIDO A CAMBIO DE UN REEMBOLSO, SEGÚN LAS CONDICIONES DE LA POLÍTICA DE DEVOLUCIÓN DE APPLE QUE SE PUEDE CONSULTAR EN https://www.apple.com/mx/legal/sales_policies/.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -484,7 +484,7 @@
       <Position>Part1</Position>
       <TranslationSet>
         <base loc="en">Please read the following terms before using your Apple Watch. By using your Apple Watch, you are agreeing to be bound by the watchOS Terms and Conditions.</base>
-        <tran loc="es">Lee el siguiente texto antes de utilizar el Apple Watch. La utilización del Apple Watch se interpretará como un hecho inequívoco de que aceptas los términos y condiciones de watchOS.</tran>
+        <tran loc="es-419">Lee los siguientes términos y condiciones antes de utilizar el Apple Watch. Utilizar el Apple Watch se interpretará como un hecho inequívoco de que aceptas los términos y condiciones de watchOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -492,7 +492,7 @@
       <Position>TERMS_CONDITIONS_LINK</Position>
       <TranslationSet>
         <base loc="en">A copy of these Terms is available at: https://www.apple.com/legal/sla/.</base>
-        <tran loc="es">Estas condiciones están disponibles en https://www.apple.com/legal/sla/.</tran>
+        <tran loc="es-419">Estas condiciones están disponibles en https://www.apple.com/la/legal/sla/.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -503,7 +503,7 @@
       <Position>SHOW_PREVIEWS</Position>
       <TranslationSet>
         <base loc="en">Show Previews</base>
-        <tran loc="es">Mostrar previsualizaciones</tran>
+        <tran loc="es-419">Mostrar previsualizaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +511,7 @@
       <Position>SEND_TO_NOTIFICATION_CENTER</Position>
       <TranslationSet>
         <base loc="en">Send to Notification Center</base>
-        <tran loc="es">Enviar al centro de notificaciones</tran>
+        <tran loc="es-419">Enviar al centro de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -519,7 +519,7 @@
       <Position>DELETE_APP</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +527,7 @@
       <Position>NOTIFICATIONS_AND_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Notifications And Settings</base>
-        <tran loc="es">Notificaciones y ajustes</tran>
+        <tran loc="es-419">Notificaciones y configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -541,7 +541,7 @@
       <Position>TEST_APPLICATION</Position>
       <TranslationSet>
         <base loc="en">Test App</base>
-        <tran loc="es">Probar app</tran>
+        <tran loc="es-419">Probar app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -549,7 +549,7 @@
       <Position>HAPTIC</Position>
       <TranslationSet>
         <base loc="en">Haptic</base>
-        <tran loc="es">Vibración</tran>
+        <tran loc="es-419">Vibración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -557,7 +557,7 @@
       <Position>APP_DELETE_WARNING_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You are about to delete this application from your Apple Watch</base>
-        <tran loc="es">Estás a punto de borrar esta aplicación en tu Apple Watch</tran>
+        <tran loc="es-419">Estás a punto de eliminar esta app en tu Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -565,7 +565,7 @@
       <Position>SOUND</Position>
       <TranslationSet>
         <base loc="en">Sound</base>
-        <tran loc="es">Sonido</tran>
+        <tran loc="es-419">Sonido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +573,7 @@
       <Position>APP_DELETE_WARNING</Position>
       <TranslationSet>
         <base loc="en">Delete Application</base>
-        <tran loc="es">Borrar aplicación</tran>
+        <tran loc="es-419">Eliminar app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -581,7 +581,7 @@
       <Position>CANCEL_DELETE_APP</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -589,7 +589,7 @@
       <Position>SHOW_ON_WATCH</Position>
       <TranslationSet>
         <base loc="en">Show on Watch</base>
-        <tran loc="es">Mostrar en el reloj</tran>
+        <tran loc="es-419">Mostrar en el Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -597,7 +597,7 @@
       <Position>NOTIFICATION_COALESCING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notification Grouping</base>
-        <tran loc="es">Agrupar notificaciones</tran>
+        <tran loc="es-419">Agrupar notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -605,7 +605,7 @@
       <Position>APP_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">App Settings</base>
-        <tran loc="es">Ajustes de la app</tran>
+        <tran loc="es-419">Configuración de apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -613,7 +613,7 @@
       <Position>MIRROR_MY_COMPANION</Position>
       <TranslationSet>
         <base loc="en">Mirror my iPhone</base>
-        <tran loc="es">Duplicar iPhone</tran>
+        <tran loc="es-419">Duplicar mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -621,7 +621,7 @@
       <Position>ALLOW_NOTIFICATIONS</Position>
       <TranslationSet>
         <base loc="en">Allow Notifications</base>
-        <tran loc="es">Permitir notificaciones</tran>
+        <tran loc="es-419">Permitir notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -629,7 +629,7 @@
       <Position>CUSTOM_NOTIFICATION_OPTIONS</Position>
       <TranslationSet>
         <base loc="en">Custom</base>
-        <tran loc="es">Personalizado</tran>
+        <tran loc="es-419">Personalizadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -637,7 +637,7 @@
       <Position>CRITICAL_AELRTS</Position>
       <TranslationSet>
         <base loc="en">Allow Critical Alerts</base>
-        <tran loc="es">Permitir avisos críticos</tran>
+        <tran loc="es-419">Permitir alertas críticas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -645,7 +645,7 @@
       <Position>NOTIFICATION_COALESCING_AUTO</Position>
       <TranslationSet>
         <base loc="en">Automatically</base>
-        <tran loc="es">Automáticamente</tran>
+        <tran loc="es-419">Automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -653,7 +653,7 @@
       <Position>NOTIFICATIONS_OFF</Position>
       <TranslationSet>
         <base loc="en">Notifications Off</base>
-        <tran loc="es">Notificaciones desactivadas</tran>
+        <tran loc="es-419">Notificaciones desactivadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -661,7 +661,7 @@
       <Position>NOTIFICATIONS_SETTINGS_DESCRIPTION_%@</Position>
       <TranslationSet>
         <base loc="en">To turn on %@ notifications on Apple Watch, you’ll need to turn them on for your iPhone. You can do this in Notifications Settings.</base>
-        <tran loc="es">Para activar las notificaciones de %@ en el Apple Watch, debes activarlas en el iPhone. Puedes hacerlo desde la sección Notificaciones de la app Ajustes.</tran>
+        <tran loc="es-419">Para activar las notificaciones de %@ en el Apple Watch, tendrás que activarlas en el iPhone en las notificaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -669,7 +669,7 @@
       <Position>ALERTS</Position>
       <TranslationSet>
         <base loc="en">Alerts</base>
-        <tran loc="es">Avisos</tran>
+        <tran loc="es-419">Alertas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -677,7 +677,7 @@
       <Position>NOTIFICATIONS_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Notifications Settings</base>
-        <tran loc="es">Ajustes de notificaciones</tran>
+        <tran loc="es-419">las notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -685,7 +685,7 @@
       <Position>NOTIFICATION_COALESCING_BY_APP</Position>
       <TranslationSet>
         <base loc="en">By App</base>
-        <tran loc="es">Por app</tran>
+        <tran loc="es-419">Por app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -693,7 +693,7 @@
       <Position>NOTIFICATION_COALESCING_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Apagado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -710,7 +710,7 @@
       <Position>WATCH_NEARBY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Restore Apple Watch App</base>
-        <tran loc="es">Restaurar app Apple Watch</tran>
+        <tran loc="es-419">Restaurar app Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -718,7 +718,7 @@
       <Position>WATCH_NEARBY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">To pair this iPhone with an Apple Watch, you’ll need to restore the Apple Watch app from the App Store.</base>
-        <tran loc="es">Para enlazar este iPhone con un Apple Watch, deberás restaurar la app Apple Watch desde App Store.</tran>
+        <tran loc="es-419">Para enlazar este iPhone con un Apple Watch, tendrás que restaurar la app Apple Watch mediante App Store.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -735,7 +735,7 @@
       <Position>VP_NAME</Position>
       <TranslationSet>
         <base loc="en">Titanium</base>
-        <tran loc="es">Titanio</tran>
+        <tran loc="es-419">Titanio</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -746,7 +746,7 @@
       <Position>USAGE</Position>
       <TranslationSet>
         <base loc="en">Usage</base>
-        <tran loc="es">Uso</tran>
+        <tran loc="es-419">Uso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -754,7 +754,7 @@
       <Position>POWER_RESERVE</Position>
       <TranslationSet>
         <base loc="en">Power Reserve</base>
-        <tran loc="es">Ahorro de batería</tran>
+        <tran loc="es-419">Modo de ahorro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -762,7 +762,7 @@
       <Position>ADD_FRIEND</Position>
       <TranslationSet>
         <base loc="en">Add Friend</base>
-        <tran loc="es">Añadir amigo</tran>
+        <tran loc="es-419">Agregar amigo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>UNPAIR_WATCH</Position>
       <TranslationSet>
         <base loc="en">Unpair Watch</base>
-        <tran loc="es">Desenlazar Apple Watch</tran>
+        <tran loc="es-419">Desenlazar Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>MARK_AS_MISSING</Position>
       <TranslationSet>
         <base loc="en">Mark as Missing</base>
-        <tran loc="es">Marcar como perdido</tran>
+        <tran loc="es-419">Marcar como perdido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>SIMPLE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Simple Passcode</base>
-        <tran loc="es">Código simple</tran>
+        <tran loc="es-419">Código simple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>STORAGE</Position>
       <TranslationSet>
         <base loc="en">Storage</base>
-        <tran loc="es">Almacenamiento</tran>
+        <tran loc="es-419">Almacenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>UNLOCK_WITH_PHONE</Position>
       <TranslationSet>
         <base loc="en">Unlock with iPhone</base>
-        <tran loc="es">Desbloquear con el iPhone</tran>
+        <tran loc="es-419">Desbloqueo con iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>NOW_PLAYING</Position>
       <TranslationSet>
         <base loc="en">Now Playing</base>
-        <tran loc="es">Ahora suena</tran>
+        <tran loc="es-419">Ahora suena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>ERASE_DATA</Position>
       <TranslationSet>
         <base loc="en">Erase Data</base>
-        <tran loc="es">Borrar datos</tran>
+        <tran loc="es-419">Borrar datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>WRIST_DETECTION</Position>
       <TranslationSet>
         <base loc="en">Wrist Detection</base>
-        <tran loc="es">Detección de muñeca</tran>
+        <tran loc="es-419">Detección de muñeca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>TURN_PASSCODE_ON</Position>
       <TranslationSet>
         <base loc="en">Turn Passcode On</base>
-        <tran loc="es">Activar código</tran>
+        <tran loc="es-419">Activar código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>TIME_SINCE_FULL_CHARGE</Position>
       <TranslationSet>
         <base loc="en">Time Since Last Full Charge</base>
-        <tran loc="es">Tiempo desde la última carga completa</tran>
+        <tran loc="es-419">Tiempo transcurrido desde la última recarga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>FIND_MY_APPLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Find My Apple Watch</base>
-        <tran loc="es">Buscar mi Apple Watch</tran>
+        <tran loc="es-419">Buscar Mi Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>GROUP_NAME</Position>
       <TranslationSet>
         <base loc="en">Group Name</base>
-        <tran loc="es">Nombre del grupo</tran>
+        <tran loc="es-419">Nombre del grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>STANDBY</Position>
       <TranslationSet>
         <base loc="en">Standby</base>
-        <tran loc="es">En espera</tran>
+        <tran loc="es-419">En espera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>TURN_PASSCODE_OFF</Position>
       <TranslationSet>
         <base loc="en">Turn Passcode Off</base>
-        <tran loc="es">Desactivar código</tran>
+        <tran loc="es-419">Desactivar código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>CHANGE_PASSCODE</Position>
       <TranslationSet>
         <base loc="en">Change Passcode</base>
-        <tran loc="es">Cambiar código</tran>
+        <tran loc="es-419">Cambiar código</tran>
       </TranslationSet>
     </TextItem>
   </File>

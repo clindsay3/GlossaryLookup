@@ -8,7 +8,7 @@
       <Position>Departed</Position>
       <TranslationSet>
         <base loc="en">Departed</base>
-        <tran loc="es">Ha salido</tran>
+        <tran loc="es-419">Salió</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Early %@</Position>
       <TranslationSet>
         <base loc="en">Early %@</base>
-        <tran loc="es">Adelantado %@</tran>
+        <tran loc="es-419">Anticipado: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Status</Position>
       <TranslationSet>
         <base loc="en">Status</base>
-        <tran loc="es">Estado</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Early</Position>
       <TranslationSet>
         <base loc="en">Early</base>
-        <tran loc="es">Con antelación</tran>
+        <tran loc="es-419">Anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Departing</Position>
       <TranslationSet>
         <base loc="en">Departing</base>
-        <tran loc="es">Salida</tran>
+        <tran loc="es-419">Salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Scheduled</Position>
       <TranslationSet>
         <base loc="en">Scheduled</base>
-        <tran loc="es">Programado</tran>
+        <tran loc="es-419">A tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>Arrived</Position>
       <TranslationSet>
         <base loc="en">Arrived</base>
-        <tran loc="es">Ha llegado</tran>
+        <tran loc="es-419">Llegó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>Terminal %@, Gate %@</Position>
       <TranslationSet>
         <base loc="en">Terminal %1$@, Gate %2$@</base>
-        <tran loc="es">Terminal %1$@, puerta %2$@</tran>
+        <tran loc="es-419">Terminal %1$@, puerta %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>ARRIVAL_RUNWAY</Position>
       <TranslationSet>
         <base loc="en">Runway</base>
-        <tran loc="es">Pista</tran>
+        <tran loc="es-419">Pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>DEPARTURE_RUNWAY</Position>
       <TranslationSet>
         <base loc="en">Runway</base>
-        <tran loc="es">Pista</tran>
+        <tran loc="es-419">Pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>Terminal %@</Position>
       <TranslationSet>
         <base loc="en">Terminal %@</base>
-        <tran loc="es">Terminal %@</tran>
+        <tran loc="es-419">Terminal %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>Canceled</Position>
       <TranslationSet>
         <base loc="en">Canceled</base>
-        <tran loc="es">Cancelado</tran>
+        <tran loc="es-419">Cancelado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>Leg %lu of %@</Position>
       <TranslationSet>
         <base loc="en">Leg %1$lu of %2$@</base>
-        <tran loc="es">Tramo %1$lu de %2$@</tran>
+        <tran loc="es-419">Escala #%1$lu de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>Arriving</Position>
       <TranslationSet>
         <base loc="en">Arriving</base>
-        <tran loc="es">Llegada</tran>
+        <tran loc="es-419">Llegada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>Late</Position>
       <TranslationSet>
         <base loc="en">Late</base>
-        <tran loc="es">Con retraso</tran>
+        <tran loc="es-419">Retraso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>Departing early</Position>
       <TranslationSet>
         <base loc="en">Departing early</base>
-        <tran loc="es">Salida con antelación</tran>
+        <tran loc="es-419">Saliendo temprano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>Leg %lu of flight %lu</Position>
       <TranslationSet>
         <base loc="en">Leg %1$lu of flight %2$lu</base>
-        <tran loc="es">Tramo %1$lu del vuelo %2$lu</tran>
+        <tran loc="es-419">Escala #%1$lu del vuelo %2$lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>Duration</Position>
       <TranslationSet>
         <base loc="en">Duration</base>
-        <tran loc="es">Duración</tran>
+        <tran loc="es-419">Duración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>On time</Position>
       <TranslationSet>
         <base loc="en">On time</base>
-        <tran loc="es">En hora</tran>
+        <tran loc="es-419">A tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>Flight information unavailable</Position>
       <TranslationSet>
         <base loc="en">Flight information unavailable</base>
-        <tran loc="es">Información del vuelo no disponible</tran>
+        <tran loc="es-419">Sin información de vuelos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>Taxiing</Position>
       <TranslationSet>
         <base loc="en">Taxiing</base>
-        <tran loc="es">Rodaje</tran>
+        <tran loc="es-419">Carreteo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>Departure</Position>
       <TranslationSet>
         <base loc="en">Departure</base>
-        <tran loc="es">Salida</tran>
+        <tran loc="es-419">Salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>Redirected</Position>
       <TranslationSet>
         <base loc="en">Redirected</base>
-        <tran loc="es">Desviado</tran>
+        <tran loc="es-419">Redirigido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -196,7 +196,7 @@
       <Position>Delayed</Position>
       <TranslationSet>
         <base loc="en">Delayed</base>
-        <tran loc="es">Retrasado</tran>
+        <tran loc="es-419">Atrasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -204,7 +204,7 @@
       <Position>Landed</Position>
       <TranslationSet>
         <base loc="en">Landed</base>
-        <tran loc="es">En tierra</tran>
+        <tran loc="es-419">Aterrizó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -212,7 +212,7 @@
       <Position> at </Position>
       <TranslationSet>
         <base loc="en"> at </base>
-        <tran loc="es"> en </tran>
+        <tran loc="es-419"> en </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -220,7 +220,7 @@
       <Position>Flight %@</Position>
       <TranslationSet>
         <base loc="en">Flight %@</base>
-        <tran loc="es">Vuelo %@</tran>
+        <tran loc="es-419">Vuelo %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>Arriving early</Position>
       <TranslationSet>
         <base loc="en">Arriving early</base>
-        <tran loc="es">Llegada con antelación</tran>
+        <tran loc="es-419">Llegando temprano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -236,7 +236,7 @@
       <Position>En route</Position>
       <TranslationSet>
         <base loc="en">En route</base>
-        <tran loc="es">En ruta</tran>
+        <tran loc="es-419">En camino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +244,7 @@
       <Position>Delayed %@</Position>
       <TranslationSet>
         <base loc="en">Delayed %@</base>
-        <tran loc="es">Retrasado %@</tran>
+        <tran loc="es-419">Retrasado: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +252,7 @@
       <Position>Gate %@</Position>
       <TranslationSet>
         <base loc="en">Gate %@</base>
-        <tran loc="es">Puerta %@</tran>
+        <tran loc="es-419">Puerta %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -260,7 +260,7 @@
       <Position>Loading Flight Status…</Position>
       <TranslationSet>
         <base loc="en">Loading Flight Status…</base>
-        <tran loc="es">Cargando estado del vuelo…</tran>
+        <tran loc="es-419">Cargado en el estado del vuelo…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -268,7 +268,7 @@
       <Position>Duration: %@</Position>
       <TranslationSet>
         <base loc="en">Duration: %@</base>
-        <tran loc="es">Duración: %@</tran>
+        <tran loc="es-419">Duración: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -276,7 +276,7 @@
       <Position>Late %@</Position>
       <TranslationSet>
         <base loc="en">Late %@</base>
-        <tran loc="es">Retrasado %@</tran>
+        <tran loc="es-419">Retrasado: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -284,7 +284,7 @@
       <Position>Arriving now</Position>
       <TranslationSet>
         <base loc="en">Arriving now</base>
-        <tran loc="es">Llegada inminente</tran>
+        <tran loc="es-419">Está llegando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -292,7 +292,7 @@
       <Position>%@ remaining</Position>
       <TranslationSet>
         <base loc="en">%@ remaining</base>
-        <tran loc="es">Faltan %@</tran>
+        <tran loc="es-419">%@ restante(s)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -300,7 +300,7 @@
       <Position>Flight %lu</Position>
       <TranslationSet>
         <base loc="en">Flight %lu</base>
-        <tran loc="es">Vuelo %lu</tran>
+        <tran loc="es-419">Vuelo %lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -308,7 +308,7 @@
       <Position>Arriving late</Position>
       <TranslationSet>
         <base loc="en">Arriving late</base>
-        <tran loc="es">Llegada con retraso</tran>
+        <tran loc="es-419">Retrasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -316,7 +316,7 @@
       <Position>Baggage Claim</Position>
       <TranslationSet>
         <base loc="en">Baggage Claim</base>
-        <tran loc="es">Recogida de equipajes</tran>
+        <tran loc="es-419">Banda de equipajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -324,7 +324,7 @@
       <Position>%@ – %@</Position>
       <TranslationSet>
         <base loc="en">%1$@ – %2$@</base>
-        <tran loc="es">%1$@ – %2$@</tran>
+        <tran loc="es-419">%1$@ – %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -332,7 +332,7 @@
       <Position>Diverted</Position>
       <TranslationSet>
         <base loc="en">Diverted</base>
-        <tran loc="es">Desviado</tran>
+        <tran loc="es-419">Desviado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -340,7 +340,7 @@
       <Position>Loading map…</Position>
       <TranslationSet>
         <base loc="en">Loading map…</base>
-        <tran loc="es">Cargando mapa…</tran>
+        <tran loc="es-419">Cargando mapa…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -348,7 +348,7 @@
       <Position>Arrival</Position>
       <TranslationSet>
         <base loc="en">Arrival</base>
-        <tran loc="es">Llegada</tran>
+        <tran loc="es-419">Llegada</tran>
       </TranslationSet>
     </TextItem>
   </File>

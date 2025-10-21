@@ -8,7 +8,7 @@
       <Position>APPLE_ID_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Apple ID</base>
-        <tran loc="es">ID de Apple</tran>
+        <tran loc="es-419">Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>NAME</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>APPLE_ID_OPTION</Position>
       <TranslationSet>
         <base loc="en">Using an Apple ID</base>
-        <tran loc="es">Usando un ID de Apple</tran>
+        <tran loc="es-419">Utilizando un Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>DONE_NAV_BAR_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>RECENT_SERVERS</Position>
       <TranslationSet>
         <base loc="en">Recent Servers</base>
-        <tran loc="es">Servidores recientes</tran>
+        <tran loc="es-419">Servidores recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>REMEMBER_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Remember Password</base>
-        <tran loc="es">Guardar contraseña</tran>
+        <tran loc="es-419">Guardar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>CONNECT_TO_SERVER</Position>
       <TranslationSet>
         <base loc="en">Connect to Server</base>
-        <tran loc="es">Conectar con el servidor</tran>
+        <tran loc="es-419">Conectar con el servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -79,7 +79,7 @@
       <Position>CANCEL_ALERT_OPTION</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -87,7 +87,7 @@
       <Position>CANCEL_NAV_BAR_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -95,7 +95,7 @@
       <Position>REGISTERED_USER_OPTION</Position>
       <TranslationSet>
         <base loc="en">Registered User</base>
-        <tran loc="es">Usuario registrado</tran>
+        <tran loc="es-419">Usuario registrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -103,7 +103,7 @@
       <Position>PASSWORD_REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -111,7 +111,7 @@
       <Position>SERVER</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -119,7 +119,7 @@
       <Position>SERVER_ADDRESS_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">example.com</base>
-        <tran loc="es">example.com</tran>
+        <tran loc="es-419">example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>SELECT_VOLUMES_TO_MOUNT</Position>
       <TranslationSet>
         <base loc="en">Select volumes to mount:</base>
-        <tran loc="es">Selecciona los volúmenes que desees montar:</tran>
+        <tran loc="es-419">Selecciona los volúmenes que quieres montar:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>REMOVE_SERVER_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to remove this server?</base>
-        <tran loc="es">¿Seguro que quieres eliminar este servidor?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar este servidor?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>REMOVE_SERVER</Position>
       <TranslationSet>
         <base loc="en">Remove Server</base>
-        <tran loc="es">Eliminar servidor</tran>
+        <tran loc="es-419">Eliminar servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -159,7 +159,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -167,7 +167,7 @@
       <Position>CONNECT_AS</Position>
       <TranslationSet>
         <base loc="en">Connect As:</base>
-        <tran loc="es">Conectar como:</tran>
+        <tran loc="es-419">Conectar como:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -175,7 +175,7 @@
       <Position>GUEST_OPTION</Position>
       <TranslationSet>
         <base loc="en">Guest</base>
-        <tran loc="es">Invitado</tran>
+        <tran loc="es-419">Invitado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -183,7 +183,7 @@
       <Position>USERNAME_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -191,7 +191,7 @@
       <Position>CONNECT</Position>
       <TranslationSet>
         <base loc="en">Connect</base>
-        <tran loc="es">Conectar</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -199,7 +199,7 @@
       <Position>PASSWORD_OPTIONAL</Position>
       <TranslationSet>
         <base loc="en">Optional</base>
-        <tran loc="es">Opcional</tran>
+        <tran loc="es-419">Opcional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -207,7 +207,7 @@
       <Position>CONNECTING</Position>
       <TranslationSet>
         <base loc="en">Connecting…</base>
-        <tran loc="es">Conectando…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -215,7 +215,7 @@
       <Position>SERVER_ADDRESS_ACCESSIBILITY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Server Address</base>
-        <tran loc="es">Dirección del servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -223,7 +223,7 @@
       <Position>NEXT_NAV_BAR_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
   </File>

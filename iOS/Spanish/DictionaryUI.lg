@@ -8,7 +8,7 @@
       <Position>TTY Dictionary</Position>
       <TranslationSet>
         <base loc="en">TTY Dictionary</base>
-        <tran loc="es">Diccionario para TTY</tran>
+        <tran loc="es-419">Diccionario de teléfono de texto (TTY)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -23,7 +23,7 @@
       <Position>Apple Dictionary</Position>
       <TranslationSet>
         <base loc="en">Apple Dictionary</base>
-        <tran loc="es">Diccionario Apple</tran>
+        <tran loc="es-419">Diccionario de Apple</tran>
       </TranslationSet>
     </TextItem>
   </File>

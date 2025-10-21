@@ -8,7 +8,7 @@
       <Position>TransitRefreshError_AirplaneMode_Watch</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your Apple Watch is in Airplane Mode.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el Apple Watch está en modo Avión.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu Apple Watch está en modo de vuelo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Business is closed and will open %1$@ at %2$@</Position>
       <TranslationSet>
         <base loc="en">Business is closed and will open %1$@ at %2$@</base>
-        <tran loc="es">El establecimiento está cerrado y abrirá %1$@ a las %2$@</tran>
+        <tran loc="es-419">El negocio está cerrado y abrirá el %1$@ a la(s) %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Add to Existing Contact</Position>
       <TranslationSet>
         <base loc="en">Add to Existing Contact</base>
-        <tran loc="es">Añadir a contacto existente</tran>
+        <tran loc="es-419">Agregar a contacto existente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Turn on Location Services in Settings &gt; General &gt; Location Services to allow %@ to determine your current location</Position>
       <TranslationSet>
         <base loc="en">Turn on Location Services in Settings &gt; General &gt; Location Services to allow %@ to determine your current location</base>
-        <tran loc="es">Activa Localización en Ajustes &gt; General para que %@ pueda determinar tu ubicación actual</tran>
+        <tran loc="es-419">Activa Localización en Configuración &gt; General &gt; Localización para permitir que %@ determine tu ubicación actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>TransitRefreshError_NoNetworkConnection_iPod</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your iPod is not connected to the Internet.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el iPod no está conectado a internet.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu iPod no está conectado a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Vegetarian Options</Position>
       <TranslationSet>
         <base loc="en">Vegetarian Options</base>
-        <tran loc="es">Opciones vegetarianas</tran>
+        <tran loc="es-419">Opciones vegetarianas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>See More</Position>
       <TranslationSet>
         <base loc="en">See More</base>
-        <tran loc="es">Ver más</tran>
+        <tran loc="es-419">Ver más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Place_Header_Reviews_Layout</Position>
       <TranslationSet>
         <base loc="en">%1$@ (%2$d) on %3$@</base>
-        <tran loc="es">%1$@ (%2$d) en %3$@</tran>
+        <tran loc="es-419">%1$@ (%2$d) en %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Shuttle Service</Position>
       <TranslationSet>
         <base loc="en">Shuttle Service</base>
-        <tran loc="es">Servicio de lanzadera</tran>
+        <tran loc="es-419">Servicio de transporte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>Unable to find nearest station.</Position>
       <TranslationSet>
         <base loc="en">Unable to find nearest station.</base>
-        <tran loc="es">No se ha podido encontrar la estación más cercana.</tran>
+        <tran loc="es-419">No se pudo encontrar la estación más cercana.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Free Parking</Position>
       <TranslationSet>
         <base loc="en">Free Parking</base>
-        <tran loc="es">Aparcamiento gratis</tran>
+        <tran loc="es-419">Estacionamiento gratis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>TransitRefreshError_NoNetworkConnection_iPhone</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your iPhone is not connected to the Internet.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el iPhone no está conectado a internet.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu iPhone no está conectado a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>%@\nand other data providers</Position>
       <TranslationSet>
         <base loc="en">%@\nand other data providers</base>
-        <tran loc="es">%@\ny otros proveedores de datos</tran>
+        <tran loc="es-419">%@\ny otros proveedores de datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Unrecognized data</Position>
       <TranslationSet>
         <base loc="en">Unrecognized data</base>
-        <tran loc="es">Datos no reconocidos</tran>
+        <tran loc="es-419">Datos sin reconocer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>CompassAbbreviation_South</Position>
       <TranslationSet>
         <base loc="en">S</base>
-        <tran loc="es">S</tran>
+        <tran loc="es-419">S</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>S</Position>
       <TranslationSet>
         <base loc="en">S</base>
-        <tran loc="es">S</tran>
+        <tran loc="es-419">S</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>TransitAttribution_LineCard_Format</Position>
       <TranslationSet>
         <base loc="en">Transit information provided by %@.</base>
-        <tran loc="es">Información sobre el transporte público proporcionada por %@.</tran>
+        <tran loc="es-419">Información de transporte proporcionada por %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>Incident</Position>
       <TranslationSet>
         <base loc="en">Incident</base>
-        <tran loc="es">Incidencia</tran>
+        <tran loc="es-419">Incidente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Remove_Shortcut_Actions_Row</Position>
       <TranslationSet>
         <base loc="en">Remove from Favorites</base>
-        <tran loc="es">Eliminar de favoritos</tran>
+        <tran loc="es-419">Eliminar de favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>Full Bar</Position>
       <TranslationSet>
         <base loc="en">Full Bar</base>
-        <tran loc="es">Bar completo</tran>
+        <tran loc="es-419">Bar completo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>Move Map [tv]</Position>
       <TranslationSet>
         <base loc="en">Move Map</base>
-        <tran loc="es">Mover mapa</tran>
+        <tran loc="es-419">Desplazar mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>Free Internet</Position>
       <TranslationSet>
         <base loc="en">Free Internet</base>
-        <tran loc="es">Internet gratis</tran>
+        <tran loc="es-419">Internet gratis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>Add to Collection [Footer action]</Position>
       <TranslationSet>
         <base loc="en">Add to Collection</base>
-        <tran loc="es">Añadir a la colección</tran>
+        <tran loc="es-419">Agregar a colección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>Cannot Show Your Location</Position>
       <TranslationSet>
         <base loc="en">Cannot Show Your Location</base>
-        <tran loc="es">No se puede mostrar tu ubicación</tran>
+        <tran loc="es-419">No se puede mostrar tu ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>Change Selection [tv]</Position>
       <TranslationSet>
         <base loc="en">Change Selection</base>
-        <tran loc="es">Cambiar selección</tran>
+        <tran loc="es-419">Cambiar selección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>Add a Missing Place [Report an Issue]</Position>
       <TranslationSet>
         <base loc="en">Add a Missing Place</base>
-        <tran loc="es">Añadir lugar no encontrado</tran>
+        <tran loc="es-419">Agregar lugar faltante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>This Mac cannot determine your current location because it does not have Wi-Fi.</Position>
       <TranslationSet>
         <base loc="en">This Mac cannot determine your current location because it does not have Wi-Fi.</base>
-        <tran loc="es">Este Mac no puede determinar tu ubicación actual porque no tiene Wi-Fi.</tran>
+        <tran loc="es-419">Esta Mac no puede determinar tu ubicación actual porque no cuenta con Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Attribution_And_More_format</Position>
       <TranslationSet>
         <base loc="en">%@ %@</base>
-        <tran loc="es">%@ %@</tran>
+        <tran loc="es-419">%@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>train number line name format</Position>
       <TranslationSet>
         <base loc="en">%@ %@</base>
-        <tran loc="es">%@ %@</tran>
+        <tran loc="es-419">%@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>Unsupported type identifier</Position>
       <TranslationSet>
         <base loc="en">Unsupported type identifier</base>
-        <tran loc="es">Identificador de tipo incompatible</tran>
+        <tran loc="es-419">Identificador de tipo incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>Accident</Position>
       <TranslationSet>
         <base loc="en">Accident</base>
-        <tran loc="es">Accidente</tran>
+        <tran loc="es-419">Accidente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>Connection Info</Position>
       <TranslationSet>
         <base loc="en">Connection Info</base>
-        <tran loc="es">Información de conexión</tran>
+        <tran loc="es-419">Información de conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>Roadwork</Position>
       <TranslationSet>
         <base loc="en">Roadwork</base>
-        <tran loc="es">Obras</tran>
+        <tran loc="es-419">Obras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>TransitDepartures_Out_of_service_string</Position>
       <TranslationSet>
         <base loc="en">Out of Service</base>
-        <tran loc="es">Fuera de servicio</tran>
+        <tran loc="es-419">Sin servicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>AccessPointEntryName</Position>
       <TranslationSet>
         <base loc="en">Entrance</base>
-        <tran loc="es">Entrada</tran>
+        <tran loc="es-419">Entrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>Service interrupted</Position>
       <TranslationSet>
         <base loc="en">Service interrupted</base>
-        <tran loc="es">Servicio interrumpido</tran>
+        <tran loc="es-419">Servicio interrumpido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>%d review</Position>
       <TranslationSet>
         <base loc="en">%d review</base>
-        <tran loc="es">%d reseña</tran>
+        <tran loc="es-419">%d reseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>Add a photo</Position>
       <TranslationSet>
         <base loc="en">Add a photo</base>
-        <tran loc="es">Añadir foto</tran>
+        <tran loc="es-419">Agregar una foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>CompassAbbreviation_NorthEast</Position>
       <TranslationSet>
         <base loc="en">NE</base>
-        <tran loc="es">NE</tran>
+        <tran loc="es-419">NE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>Just now</Position>
       <TranslationSet>
         <base loc="en">Just now</base>
-        <tran loc="es">Ahora mismo</tran>
+        <tran loc="es-419">Ahora mismo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>%@, Closed Now</Position>
       <TranslationSet>
         <base loc="en">%@, Closed Now</base>
-        <tran loc="es">%@, cerrado</tran>
+        <tran loc="es-419">%@ (cerrado ahora)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>Turn on Location Services in Settings &gt; General &gt; Privacy to allow %@ to determine your current location</Position>
       <TranslationSet>
         <base loc="en">Turn on Location Services in Settings &gt; General &gt; Privacy to allow %@ to determine your current location</base>
-        <tran loc="es">Activa Localización en Ajustes &gt; General &gt;Privacidad para que %@ pueda determinar tu ubicación actual</tran>
+        <tran loc="es-419">Activa Localización en Configuración &gt; General &gt; Privacidad para permitir que %@ determine tu ubicación actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>[Related Places] Similar places Title</Position>
       <TranslationSet>
         <base loc="en">Similar Places Nearby</base>
-        <tran loc="es">Lugares similares cercanos</tran>
+        <tran loc="es-419">Lugares similares cerca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>PlaceView_Phone_Title</Position>
       <TranslationSet>
         <base loc="en">Phone</base>
-        <tran loc="es">Teléfono</tran>
+        <tran loc="es-419">Teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>Center Lane Closed</Position>
       <TranslationSet>
         <base loc="en">Center Lane Closed</base>
-        <tran loc="es">Carril central cerrado</tran>
+        <tran loc="es-419">Carril central cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>PlaceOptsOutOfTelephoneAds</Position>
       <TranslationSet>
         <base loc="en">*</base>
-        <tran loc="es">*</tran>
+        <tran loc="es-419">*</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>Normal Hours</Position>
       <TranslationSet>
         <base loc="en">Normal Hours</base>
-        <tran loc="es">Horario habitual</tran>
+        <tran loc="es-419">Horario normal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>%d degrees</Position>
       <TranslationSet>
         <base loc="en">%d degrees</base>
-        <tran loc="es">%d grados</tran>
+        <tran loc="es-419">%d grados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>Scale distance miles</Position>
       <TranslationSet>
         <base loc="en">mi</base>
-        <tran loc="es">mi</tran>
+        <tran loc="es-419">mi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>Walking directions are not available.</Position>
       <TranslationSet>
         <base loc="en">Walking directions are not available.</base>
-        <tran loc="es">No hay una ruta a pie disponible.</tran>
+        <tran loc="es-419">La ruta a pie no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>N_MONTHS_AGO_FORMAT_KEY</Position>
       <TranslationSet>
         <base loc="en">%d months ago</base>
-        <tran loc="es">Hace %d meses</tran>
+        <tran loc="es-419">Hace %d meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>MapItemReview_Plural</Position>
       <TranslationSet>
         <base loc="en">%1$@ Reviews</base>
-        <tran loc="es">%1$@ reseñas</tran>
+        <tran loc="es-419">%1$@ reseñas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>Permanently Closed</Position>
       <TranslationSet>
         <base loc="en">Permanently Closed</base>
-        <tran loc="es">Cerrado permanentemente</tran>
+        <tran loc="es-419">Cerrado permanentemente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>More_ellipsis</Position>
       <TranslationSet>
         <base loc="en">More…</base>
-        <tran loc="es">Más…</tran>
+        <tran loc="es-419">Más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>Latitude</Position>
       <TranslationSet>
         <base loc="en">Latitude</base>
-        <tran loc="es">Latitud</tran>
+        <tran loc="es-419">Latitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>A route is currently not available due to road conditions.</Position>
       <TranslationSet>
         <base loc="en">A route is currently not available due to road conditions.</base>
-        <tran loc="es">Actualmente no hay ninguna ruta disponible debido a las condiciones de la carretera.</tran>
+        <tran loc="es-419">Debido a las condiciones del camino, no hay una ruta disponible por el momento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>PlaceCard_Reservations_Button</Position>
       <TranslationSet>
         <base loc="en">Reservations</base>
-        <tran loc="es">Reservas</tran>
+        <tran loc="es-419">Acepta reservaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>Reservations</Position>
       <TranslationSet>
         <base loc="en">Reservations</base>
-        <tran loc="es">Reservas</tran>
+        <tran loc="es-419">Acepta reservaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>Stores_Action_Row</Position>
       <TranslationSet>
         <base loc="en">Stores</base>
-        <tran loc="es">Tiendas</tran>
+        <tran loc="es-419">Tiendas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>%@, Opening Soon</Position>
       <TranslationSet>
         <base loc="en">%@, Opening Soon</base>
-        <tran loc="es">%@, abre pronto</tran>
+        <tran loc="es-419">%@ (abre pronto)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>Waterfront</Position>
       <TranslationSet>
         <base loc="en">Waterfront</base>
-        <tran loc="es">Zona costera</tran>
+        <tran loc="es-419">Muelle</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>Bar / Lounge</Position>
       <TranslationSet>
         <base loc="en">Bar / Lounge</base>
-        <tran loc="es">Bar/lounge</tran>
+        <tran loc="es-419">Bar / Lounge</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>Placecard_TransitIncident_LastUpdated</Position>
       <TranslationSet>
         <base loc="en">Last updated %@</base>
-        <tran loc="es">Última actualización: %@</tran>
+        <tran loc="es-419">Última actualización: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>Transit_Incident_Title_And_Summary</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>Transit_Details</Position>
       <TranslationSet>
         <base loc="en">Details</base>
-        <tran loc="es">Detalles</tran>
+        <tran loc="es-419">Detalles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>ServiceResume_AbsoluteTime</Position>
       <TranslationSet>
         <base loc="en">Service resumes %@</base>
-        <tran loc="es">Reanudación del servicio: %@</tran>
+        <tran loc="es-419">Reanudación del servicio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>ServiceResume_DayOfWeek</Position>
       <TranslationSet>
         <base loc="en">Service resumes %@</base>
-        <tran loc="es">Reanudación del servicio: %@</tran>
+        <tran loc="es-419">Reanudación del servicio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>ServiceResume_MonthDay</Position>
       <TranslationSet>
         <base loc="en">Service resumes %@</base>
-        <tran loc="es">Reanudación del servicio: %@</tran>
+        <tran loc="es-419">Reanudación del servicio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>ServiceResume_RelativeDay</Position>
       <TranslationSet>
         <base loc="en">Service resumes %@</base>
-        <tran loc="es">Reanudación del servicio: %@</tran>
+        <tran loc="es-419">Reanudación del servicio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>TransitRefreshError_NoNetworkConnection_Device</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your device is not connected to the Internet.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el dispositivo no está conectado a internet.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu dispositivo no está conectado a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>CompassAbbreviation_West</Position>
       <TranslationSet>
         <base loc="en">W</base>
-        <tran loc="es">O</tran>
+        <tran loc="es-419">O</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>W</Position>
       <TranslationSet>
         <base loc="en">W</base>
-        <tran loc="es">O</tran>
+        <tran loc="es-419">O</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>Show %u More</Position>
       <TranslationSet>
         <base loc="en">Show %u More</base>
-        <tran loc="es">Mostrar %u más</tran>
+        <tran loc="es-419">Mostrar %u más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>Share My Location</Position>
       <TranslationSet>
         <base loc="en">Share My Location</base>
-        <tran loc="es">Compartir mi ubicación</tran>
+        <tran loc="es-419">Compartir mi ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>Directions Not Available</Position>
       <TranslationSet>
         <base loc="en">Directions Not Available</base>
-        <tran loc="es">Ruta no disponible</tran>
+        <tran loc="es-419">Ruta no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>Placecard Full Hours Starting Day</Position>
       <TranslationSet>
         <base loc="en">Starting %@</base>
-        <tran loc="es">Inicio: %@</tran>
+        <tran loc="es-419">A partir del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>Directions to %@</Position>
       <TranslationSet>
         <base loc="en">Directions to %@</base>
-        <tran loc="es">Ruta hasta %@</tran>
+        <tran loc="es-419">Ruta hasta %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>Usually responds in a few minutes</Position>
       <TranslationSet>
         <base loc="en">Usually responds in a few minutes</base>
-        <tran loc="es">Suele responder en unos minutos</tran>
+        <tran loc="es-419">Usualmente responde en pocos minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>Press %@ for options</Position>
       <TranslationSet>
         <base loc="en">Press %@ for options</base>
-        <tran loc="es">Pulsa %@ para ver las opciones</tran>
+        <tran loc="es-419">Presiona %@ para ver opciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>Hazard</Position>
       <TranslationSet>
         <base loc="en">Hazard</base>
-        <tran loc="es">Peligro</tran>
+        <tran loc="es-419">Peligro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>No Tips</Position>
       <TranslationSet>
         <base loc="en">No Tips</base>
-        <tran loc="es">No hay consejos</tran>
+        <tran loc="es-419">No hay consejos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>No Reviews</Position>
       <TranslationSet>
         <base loc="en">No Reviews</base>
-        <tran loc="es">No hay reseñas</tran>
+        <tran loc="es-419">No hay reseñas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>Kid Friendly</Position>
       <TranslationSet>
         <base loc="en">Kid Friendly</base>
-        <tran loc="es">Adecuado para niños</tran>
+        <tran loc="es-419">Apto para niños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>PlaceView_OfficialApp_Header_App_Is_Installed</Position>
       <TranslationSet>
         <base loc="en">Open the App</base>
-        <tran loc="es">Abrir en la app</tran>
+        <tran loc="es-419">Abrir la app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>NEAR_BY_PLACE_HEADER_STRING</Position>
       <TranslationSet>
         <base loc="en">Near %@</base>
-        <tran loc="es">Cerca de %@</tran>
+        <tran loc="es-419">Cerca de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>Drive-through</Position>
       <TranslationSet>
         <base loc="en">Drive-through</base>
-        <tran loc="es">Para llevar (sin salir del coche)</tran>
+        <tran loc="es-419">Servicio en auto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>Smoke-free property</Position>
       <TranslationSet>
         <base loc="en">Smoke-free property</base>
-        <tran loc="es">Propiedad para no fumadores</tran>
+        <tran loc="es-419">Espacio libre de humo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>CompassAbbreviation_SouthWest</Position>
       <TranslationSet>
         <base loc="en">SW</base>
-        <tran loc="es">SO</tran>
+        <tran loc="es-419">SO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>TransitRefreshError_NoNetworkConnection_Mac</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your Mac is not connected to the Internet.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el Mac no está conectado a internet.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu Mac no está conectada a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>Map_View_title_plural</Position>
       <TranslationSet>
         <base loc="en">Locations Nearby</base>
-        <tran loc="es">Ubicaciones próximas</tran>
+        <tran loc="es-419">Ubicaciones cercanas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>Departures_Cell_Secondary_Separator</Position>
       <TranslationSet>
         <base loc="en">\U0020\U00b7\U00a0</base>
-        <tran loc="es">\U0020\U00b7\U00a0</tran>
+        <tran loc="es-419">\U0020\U00b7\U00a0</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>PlaceCard_OpenURL_Button_AccessibilityLabel</Position>
       <TranslationSet>
         <base loc="en">Open URL</base>
-        <tran loc="es">Abrir URL</tran>
+        <tran loc="es-419">Abrir URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>PlaceCard_Reroute_Cost</Position>
       <TranslationSet>
         <base loc="en">(Adds %@)</base>
-        <tran loc="es">(%@ más)</tran>
+        <tran loc="es-419">(Agrega %@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>PlaceView_OfficialApp_Header_App_Is_Not_Installed</Position>
       <TranslationSet>
         <base loc="en">Get the App</base>
-        <tran loc="es">Obtener app</tran>
+        <tran loc="es-419">Obtener la app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>TransitDeparture_system_disambiguation_generic_title</Position>
       <TranslationSet>
         <base loc="en">System Departures</base>
-        <tran loc="es">Salidas del sistema</tran>
+        <tran loc="es-419">Salidas del sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>Scale distance feet</Position>
       <TranslationSet>
         <base loc="en">ft</base>
-        <tran loc="es">pies</tran>
+        <tran loc="es-419">ft</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>A route to the destination from its nearest road cannot be determined</Position>
       <TranslationSet>
         <base loc="en">A route to the destination from its nearest road cannot be determined</base>
-        <tran loc="es">No se puede determinar una ruta hasta este destino desde la carretera más cercana.</tran>
+        <tran loc="es-419">No se puede determinar una ruta hasta este destino desde el camino más cercano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>Closed Now</Position>
       <TranslationSet>
         <base loc="en">Closed Now</base>
-        <tran loc="es">Cerrado</tran>
+        <tran loc="es-419">Cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>%@ at %@</Position>
       <TranslationSet>
         <base loc="en">%@ at %@</base>
-        <tran loc="es">%@ con %@</tran>
+        <tran loc="es-419">%@ con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>Closed Today</Position>
       <TranslationSet>
         <base loc="en">Closed Today</base>
-        <tran loc="es">Hoy cerrado</tran>
+        <tran loc="es-419">Cerrado hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>Wheelchair Accessible</Position>
       <TranslationSet>
         <base loc="en">Wheelchair Accessible</base>
-        <tran loc="es">Accesible en sillas de ruedas</tran>
+        <tran loc="es-419">Acceso para sillas de ruedas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>TransitRefreshError_Generic</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown at this time.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar en estos momentos.</tran>
+        <tran loc="es-419">Por ahora no se pueden mostrar las salidas próximas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>Free Wi-Fi</Position>
       <TranslationSet>
         <base loc="en">Free Wi-Fi</base>
-        <tran loc="es">Wi-Fi gratis</tran>
+        <tran loc="es-419">Wi-Fi gratis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>Directions</Position>
       <TranslationSet>
         <base loc="en">Directions</base>
-        <tran loc="es">Ruta</tran>
+        <tran loc="es-419">Cómo llegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>PlaceCard_GetDirections_No_ETA_Short</Position>
       <TranslationSet>
         <base loc="en">Directions</base>
-        <tran loc="es">Ruta</tran>
+        <tran loc="es-419">Cómo llegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>Carpool Lane Closed</Position>
       <TranslationSet>
         <base loc="en">Carpool Lane Closed</base>
-        <tran loc="es">Carril VAO cerrado</tran>
+        <tran loc="es-419">Carril VAO cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>Closing Soon</Position>
       <TranslationSet>
         <base loc="en">Closing Soon</base>
-        <tran loc="es">Cierra pronto</tran>
+        <tran loc="es-419">Cierra pronto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>A walking route cannot be determined. Walking is not allowed at the destination.</Position>
       <TranslationSet>
         <base loc="en">A walking route cannot be determined. Walking is not allowed at the destination.</base>
-        <tran loc="es">No se puede determinar una ruta a pie. No se permite ir a pie en la ubicación de destino.</tran>
+        <tran loc="es-419">Es imposible determinar una ruta a pie. No se permite caminar en el destino.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>YESTERDAY_KEY</Position>
       <TranslationSet>
         <base loc="en">Yesterday</base>
-        <tran loc="es">Ayer</tran>
+        <tran loc="es-419">Ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>Departures</Position>
       <TranslationSet>
         <base loc="en">Departures</base>
-        <tran loc="es">Salidas</tran>
+        <tran loc="es-419">Salidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>TransitDepartures_Generic_section_header</Position>
       <TranslationSet>
         <base loc="en">Departures</base>
-        <tran loc="es">Salidas</tran>
+        <tran loc="es-419">Salidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>Airport Transportation</Position>
       <TranslationSet>
         <base loc="en">Airport Transportation</base>
-        <tran loc="es">Transporte de aeropuerto</tran>
+        <tran loc="es-419">Transporte aeroportuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>PlaceView_BusinessInfo</Position>
       <TranslationSet>
         <base loc="en">Useful to Know</base>
-        <tran loc="es">Información útil</tran>
+        <tran loc="es-419">Información útil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>This Mac cannot determine your current location.</Position>
       <TranslationSet>
         <base loc="en">This Mac cannot determine your current location.</base>
-        <tran loc="es">Este Mac no puede determinar tu ubicación actual.</tran>
+        <tran loc="es-419">Esta Mac no puede determinar tu ubicación actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>Ramp Closed</Position>
       <TranslationSet>
         <base loc="en">Ramp Closed</base>
-        <tran loc="es">Acceso cerrado</tran>
+        <tran loc="es-419">Acceso cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +928,7 @@
       <Position>N_YEARS_AGO_FORMAT_KEY</Position>
       <TranslationSet>
         <base loc="en">%d years ago</base>
-        <tran loc="es">Hace %d años</tran>
+        <tran loc="es-419">Hace %d años</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +936,7 @@
       <Position>Press %@ or %@ for options</Position>
       <TranslationSet>
         <base loc="en">Press %@ or %@ for options</base>
-        <tran loc="es">Pulsa %@ o %@ para ver las opciones</tran>
+        <tran loc="es-419">Presiona %@ o %@ para ver opciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +944,7 @@
       <Position>Route information is not available at this moment.</Position>
       <TranslationSet>
         <base loc="en">Route information is not available at this moment.</base>
-        <tran loc="es">En estos momentos la información de la ruta no está disponible.</tran>
+        <tran loc="es-419">La información de la ruta no está disponible por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +952,7 @@
       <Position>Nearest %@ Station</Position>
       <TranslationSet>
         <base loc="en">Nearest %@ Station</base>
-        <tran loc="es">Estación más cercana de la %@</tran>
+        <tran loc="es-419">Estación de %@ más cercana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +960,7 @@
       <Position>PlaceCard_Share_Location_Button_AccessibilityLabel</Position>
       <TranslationSet>
         <base loc="en">Share Location</base>
-        <tran loc="es">Compartir ubicación</tran>
+        <tran loc="es-419">Compartir ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -968,7 +968,7 @@
       <Position>Will open at %@</Position>
       <TranslationSet>
         <base loc="en">Will open at %@</base>
-        <tran loc="es">Abre a las %@</tran>
+        <tran loc="es-419">Abre a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -976,7 +976,7 @@
       <Position>Route information is not available at this moment. An internet connection is required.</Position>
       <TranslationSet>
         <base loc="en">Route information is not available at this moment. An internet connection is required.</base>
-        <tran loc="es">En estos momentos la información de la ruta no está disponible. Se necesita conexión a internet.</tran>
+        <tran loc="es-419">La información de la ruta no está disponible por ahora. Se requiere una conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -984,7 +984,7 @@
       <Position>Remove from Collection [Footer action]</Position>
       <TranslationSet>
         <base loc="en">Remove from Collection</base>
-        <tran loc="es">Eliminar de la colección</tran>
+        <tran loc="es-419">Quitar de la colección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -992,7 +992,7 @@
       <Position>Laundry Service</Position>
       <TranslationSet>
         <base loc="en">Laundry Service</base>
-        <tran loc="es">Servicio de lavandería</tran>
+        <tran loc="es-419">Lavandería</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1000,7 +1000,7 @@
       <Position>Place_Header_Reviews_No_Provider_Layout</Position>
       <TranslationSet>
         <base loc="en">%1$@ (%2$d)</base>
-        <tran loc="es">%1$@ (%2$d)</tran>
+        <tran loc="es-419">%1$@ (%2$d)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1008,7 +1008,7 @@
       <Position>Turn on Location Services in Settings &gt; Privacy to allow %@ to determine your current location</Position>
       <TranslationSet>
         <base loc="en">Turn on Location Services in Settings &gt; Privacy to allow %@ to determine your current location</base>
-        <tran loc="es">Activa Localización en Ajustes &gt; Privacidad para que %@ pueda determinar tu ubicación actual.</tran>
+        <tran loc="es-419">Activa Localización en Configuración &gt; Privacidad para permitir que %@ determine tu ubicación actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1016,7 +1016,7 @@
       <Position>Scale distance yards</Position>
       <TranslationSet>
         <base loc="en">yd</base>
-        <tran loc="es">yd</tran>
+        <tran loc="es-419">yd</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1024,7 +1024,7 @@
       <Position>MapItemReviewProvider_Plural</Position>
       <TranslationSet>
         <base loc="en">%1$@ Reviews on %2$@</base>
-        <tran loc="es">%1$@ reseñas en %2$@</tran>
+        <tran loc="es-419">%1$@ reseñas en %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1032,7 +1032,7 @@
       <Position>A walking route cannot be determined for this distance.</Position>
       <TranslationSet>
         <base loc="en">A walking route cannot be determined for this distance.</base>
-        <tran loc="es">No se puede determinar una ruta a pie para esta distancia.</tran>
+        <tran loc="es-419">No se puede determinar una ruta a pie para esta distancia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1040,7 +1040,7 @@
       <Position>Open Now</Position>
       <TranslationSet>
         <base loc="en">Open Now</base>
-        <tran loc="es">Abierto</tran>
+        <tran loc="es-419">Abierto ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1048,7 +1048,7 @@
       <Position>Carpool Lanes Closed</Position>
       <TranslationSet>
         <base loc="en">Carpool Lanes Closed</base>
-        <tran loc="es">Carriles VAO cerrados</tran>
+        <tran loc="es-419">Carriles VAO cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1056,7 +1056,7 @@
       <Position>Business Chat is currently closed</Position>
       <TranslationSet>
         <base loc="en">Business Chat is currently closed</base>
-        <tran loc="es">Chat para clientes actualmente cerrado</tran>
+        <tran loc="es-419">De momento, el chat está cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1064,7 @@
       <Position>A route cannot be determined from this start location.</Position>
       <TranslationSet>
         <base loc="en">A route cannot be determined from this start location.</base>
-        <tran loc="es">No se puede determinar una ruta desde esta ubicación de origen.</tran>
+        <tran loc="es-419">No se puede determinar una ruta desde esta ubicación de origen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1072,7 +1072,7 @@
       <Position>MapItemReviewProvider_Singular</Position>
       <TranslationSet>
         <base loc="en">%1$@ Review on %2$@</base>
-        <tran loc="es">%1$@ reseña en %2$@</tran>
+        <tran loc="es-419">%1$@ reseña en %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1080,7 +1080,7 @@
       <Position>Soy-free Options</Position>
       <TranslationSet>
         <base loc="en">Soy-free Options</base>
-        <tran loc="es">Opciones sin soja</tran>
+        <tran loc="es-419">Opciones sin soya</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1088,7 @@
       <Position>Fitness Center</Position>
       <TranslationSet>
         <base loc="en">Fitness Center</base>
-        <tran loc="es">Centro de fitness</tran>
+        <tran loc="es-419">Gimnasio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1096,7 @@
       <Position>Spa</Position>
       <TranslationSet>
         <base loc="en">Spa</base>
-        <tran loc="es">Spa</tran>
+        <tran loc="es-419">Spa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1104,7 @@
       <Position>A route to the nearest road cannot be determined.</Position>
       <TranslationSet>
         <base loc="en">A route to the nearest road cannot be determined.</base>
-        <tran loc="es">No se puede determinar una ruta hasta la carretera más cercana.</tran>
+        <tran loc="es-419">No se puede determinar una ruta hasta el camino más cercano.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1112,7 @@
       <Position>Add_Shortcut_Actions_Row</Position>
       <TranslationSet>
         <base loc="en">Add to Favorites</base>
-        <tran loc="es">Añadir a favoritos</tran>
+        <tran loc="es-419">Agregar a Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1120,7 @@
       <Position>Placecard Full Hours Weekday Range</Position>
       <TranslationSet>
         <base loc="en">%1$@ \U2013 %2$@</base>
-        <tran loc="es">%1$@ \U2013 %2$@</tran>
+        <tran loc="es-419">%1$@ \U2013 %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1128,7 @@
       <Position>RESULTVIEW_CITY_DISTANCE_TEXT</Position>
       <TranslationSet>
         <base loc="en">%1$@ \U2013 %2$@</base>
-        <tran loc="es">%1$@ \U2013 %2$@</tran>
+        <tran loc="es-419">%1$@ \U2013 %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1136,7 @@
       <Position>No reviews</Position>
       <TranslationSet>
         <base loc="en">No reviews</base>
-        <tran loc="es">No hay reseñas</tran>
+        <tran loc="es-419">No hay reseñas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1144,7 @@
       <Position>Special Hours</Position>
       <TranslationSet>
         <base loc="en">Special Hours</base>
-        <tran loc="es">Horario especial</tran>
+        <tran loc="es-419">Horas especiales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1152,7 @@
       <Position>Line_Card_Category</Position>
       <TranslationSet>
         <base loc="en">Transit Line</base>
-        <tran loc="es">Línea de transporte público</tran>
+        <tran loc="es-419">Líneas de transporte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1160,7 @@
       <Position>Line_Card_Default_Title</Position>
       <TranslationSet>
         <base loc="en">Transit Line</base>
-        <tran loc="es">Línea de transporte público</tran>
+        <tran loc="es-419">Línea de transporte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1168,7 @@
       <Position>Right Lane Closed</Position>
       <TranslationSet>
         <base loc="en">Right Lane Closed</base>
-        <tran loc="es">Carril derecho cerrado</tran>
+        <tran loc="es-419">Carril derecho cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1176,7 @@
       <Position>PlaceView_Website_Title</Position>
       <TranslationSet>
         <base loc="en">Website</base>
-        <tran loc="es">Sitio web</tran>
+        <tran loc="es-419">Sitio web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1184,7 @@
       <Position>Delivery</Position>
       <TranslationSet>
         <base loc="en">Delivery</base>
-        <tran loc="es">Reparto a domicilio</tran>
+        <tran loc="es-419">A domicilio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1192,7 +1192,7 @@
       <Position>Map_View_title</Position>
       <TranslationSet>
         <base loc="en">Location Nearby</base>
-        <tran loc="es">Ubicación próxima</tran>
+        <tran loc="es-419">Ubicación cercana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1200,7 @@
       <Position>PlaceView_Services_Title</Position>
       <TranslationSet>
         <base loc="en">Services</base>
-        <tran loc="es">Servicios</tran>
+        <tran loc="es-419">Servicios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1208,7 @@
       <Position>PlaceView_Business_Message_Hours</Position>
       <TranslationSet>
         <base loc="en">Hours</base>
-        <tran loc="es">Horario</tran>
+        <tran loc="es-419">Horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1216,7 @@
       <Position>PlaceView_Hours</Position>
       <TranslationSet>
         <base loc="en">Hours</base>
-        <tran loc="es">Horario</tran>
+        <tran loc="es-419">Horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1224,7 @@
       <Position>TransitRefreshError_AirplaneMode_iPod</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your iPod is in Airplane Mode.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el iPod está en modo Avión.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu iPod está en modo de vuelo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1232,7 @@
       <Position>View on Map</Position>
       <TranslationSet>
         <base loc="en">View on Map</base>
-        <tran loc="es">Ver en el mapa</tran>
+        <tran loc="es-419">Ver en el mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1240,7 @@
       <Position>line_card_view_action_button</Position>
       <TranslationSet>
         <base loc="en">View on Map</base>
-        <tran loc="es">Ver en el mapa</tran>
+        <tran loc="es-419">Ver en el mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@
       <Position>Cancel [View transit line on map prompt]</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@
       <Position>Placecard Show all operating hours</Position>
       <TranslationSet>
         <base loc="en">Show All</base>
-        <tran loc="es">Mostrar todo</tran>
+        <tran loc="es-419">Mostrar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@
       <Position>MapItemTip_Plural</Position>
       <TranslationSet>
         <base loc="en">%1$@ Tips</base>
-        <tran loc="es">%1$@ consejos</tran>
+        <tran loc="es-419">%1$@ consejos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@
       <Position>Wi-Fi</Position>
       <TranslationSet>
         <base loc="en">Wi-Fi</base>
-        <tran loc="es">Wi-Fi</tran>
+        <tran loc="es-419">Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@
       <Position>MoreAnnotations</Position>
       <TranslationSet>
         <base loc="en">+%@ more</base>
-        <tran loc="es">+%@ más</tran>
+        <tran loc="es-419">y %@ más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@
       <Position>Left Lanes Closed</Position>
       <TranslationSet>
         <base loc="en">Left Lanes Closed</base>
-        <tran loc="es">Carriles izquierdos cerrados</tran>
+        <tran loc="es-419">Carriles izquierdos cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@
       <Position>Legal</Position>
       <TranslationSet>
         <base loc="en">Legal</base>
-        <tran loc="es">Aviso legal</tran>
+        <tran loc="es-419">Aviso legal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@
       <Position>Response time is unknown</Position>
       <TranslationSet>
         <base loc="en">Response time is unknown</base>
-        <tran loc="es">Se desconoce el tiempo de respuesta</tran>
+        <tran loc="es-419">Tiempo de respuesta: desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@
       <Position>Add a Business [Button Title]</Position>
       <TranslationSet>
         <base loc="en">Add a Business</base>
-        <tran loc="es">Añadir empresa</tran>
+        <tran loc="es-419">Agregar un negocio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>Change Address</Position>
       <TranslationSet>
         <base loc="en">Change Address</base>
-        <tran loc="es">Cambiar dirección</tran>
+        <tran loc="es-419">Cambiar dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>Select</Position>
       <TranslationSet>
         <base loc="en">Select</base>
-        <tran loc="es">Seleccionar</tran>
+        <tran loc="es-419">Seleccionar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>Free WLAN</Position>
       <TranslationSet>
         <base loc="en">Free WLAN</base>
-        <tran loc="es">WLAN gratis</tran>
+        <tran loc="es-419">WLAN gratuita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>Turn on Wi-Fi to allow %@ to determine your current location.</Position>
       <TranslationSet>
         <base loc="en">Turn on Wi-Fi to allow %@ to determine your current location.</base>
-        <tran loc="es">Activa la conexión Wi-Fi para que %@ pueda determinar tu ubicación actual.</tran>
+        <tran loc="es-419">Activa Wi-Fi para permitir que %@ determine tu ubicación actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>TransitRefreshError_AirplaneMode_Device</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your device is in Airplane Mode.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el dispositivo está en modo Avión.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu dispositivo está en modo de vuelo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>MapItemTip_Singular</Position>
       <TranslationSet>
         <base loc="en">%1$@ Tip</base>
-        <tran loc="es">%1$@ consejo</tran>
+        <tran loc="es-419">%1$@ consejo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>Step %d of %d</Position>
       <TranslationSet>
         <base loc="en">Step %d of %d</base>
-        <tran loc="es">Paso %d de %d</tran>
+        <tran loc="es-419">Paso %d de %d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@
       <Position>%@, %@</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@
       <Position>[Collection] In your Collections</Position>
       <TranslationSet>
         <base loc="en">In your Collections</base>
-        <tran loc="es">En tus colecciones</tran>
+        <tran loc="es-419">En tus colecciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1392,7 @@
       <Position>min [PlaceCard, Transit, Departures, Countdown, Unit]</Position>
       <TranslationSet>
         <base loc="en">min</base>
-        <tran loc="es">min</tran>
+        <tran loc="es-419">min</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1400,7 @@
       <Position>Acknowledgements</Position>
       <TranslationSet>
         <base loc="en">Acknowledgements</base>
-        <tran loc="es">Agradecimientos</tran>
+        <tran loc="es-419">Agradecimientos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1408,7 @@
       <Position>Family Rooms</Position>
       <TranslationSet>
         <base loc="en">Family Rooms</base>
-        <tran loc="es">Habitaciones familiares</tran>
+        <tran loc="es-419">Salones familiares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1416,7 @@
       <Position>Bus Lanes Closed</Position>
       <TranslationSet>
         <base loc="en">Bus Lanes Closed</base>
-        <tran loc="es">Carriles bus cerrados</tran>
+        <tran loc="es-419">Carriles camión cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1424,7 @@
       <Position>Appointment Only</Position>
       <TranslationSet>
         <base loc="en">Appointment Only</base>
-        <tran loc="es">Solo con cita</tran>
+        <tran loc="es-419">Sólo con reservación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@
       <Position>TransitRefreshError_NoNetworkConnection_Watch</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your Apple Watch is not connected to the Internet.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el Apple Watch no está conectado a internet.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu Apple Watch no está conectado a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@
       <Position>Info</Position>
       <TranslationSet>
         <base loc="en">Info</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@
       <Position>[Related Places] Similar place Title</Position>
       <TranslationSet>
         <base loc="en">Similar Place Nearby</base>
-        <tran loc="es">Lugar similar cercano</tran>
+        <tran loc="es-419">Lugar similar cerca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>Cannot locate the start location.</Position>
       <TranslationSet>
         <base loc="en">Cannot locate the start location.</base>
-        <tran loc="es">No se puede localizar el origen.</tran>
+        <tran loc="es-419">No se puede localizar el origen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@
       <Position>Compass</Position>
       <TranslationSet>
         <base loc="en">Compass</base>
-        <tran loc="es">Brújula</tran>
+        <tran loc="es-419">Brújula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>Turn on Location Services in System Preferences &gt; Security &amp; Privacy to allow %@ to determine your current location</Position>
       <TranslationSet>
         <base loc="en">Turn on Location Services in System Preferences &gt; Security &amp; Privacy to allow %@ to determine your current location</base>
-        <tran loc="es">Activa Localización en Preferencias del Sistema &gt; Seguridad y privacidad para que %@ pueda determinar tu ubicación actual</tran>
+        <tran loc="es-419">Activa Localización en Preferencias del Sistema &gt; "Seguridad y privacidad" para permitir que %@ determine tu ubicación actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>CompassAbbreviation_North</Position>
       <TranslationSet>
         <base loc="en">N</base>
-        <tran loc="es">N</tran>
+        <tran loc="es-419">N</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>N</Position>
       <TranslationSet>
         <base loc="en">N</base>
-        <tran loc="es">N</tran>
+        <tran loc="es-419">N</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>Hours %@</Position>
       <TranslationSet>
         <base loc="en">Hours %@</base>
-        <tran loc="es">Horario: %@</tran>
+        <tran loc="es-419">Horario: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>PlaceCard_Call_PhoneNumber_Button_AccessibilityLabel</Position>
       <TranslationSet>
         <base loc="en">Call Phone Number</base>
-        <tran loc="es">Llamar al número de teléfono</tran>
+        <tran loc="es-419">Marcar número de teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>Gender-Neutral Restrooms</Position>
       <TranslationSet>
         <base loc="en">Gender-Neutral Restrooms</base>
-        <tran loc="es">Aseos unisex</tran>
+        <tran loc="es-419">Sanitarios mixtos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1520,7 @@
       <Position>by Unknown Author</Position>
       <TranslationSet>
         <base loc="en">by Unknown Author</base>
-        <tran loc="es">de autor desconocido</tran>
+        <tran loc="es-419">de un autor desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@
       <Position>Pin annotation</Position>
       <TranslationSet>
         <base loc="en">Pin annotation</base>
-        <tran loc="es">Anotación de chincheta</tran>
+        <tran loc="es-419">Anotación de marcador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@
       <Position>AccessPointExitName</Position>
       <TranslationSet>
         <base loc="en">Exit</base>
-        <tran loc="es">Salida</tran>
+        <tran loc="es-419">Salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@
       <Position>Last departure until &lt;day-of-week&gt; format</Position>
       <TranslationSet>
         <base loc="en">Last departure until %@</base>
-        <tran loc="es">Última salida antes de: %@</tran>
+        <tran loc="es-419">Última salida antes del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@
       <Position>Last departure until &lt;hours:minutes&gt; format</Position>
       <TranslationSet>
         <base loc="en">Last departure until %@</base>
-        <tran loc="es">Última salida antes de: %@</tran>
+        <tran loc="es-419">Última salida antes de la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@
       <Position>Last departure until &lt;month-day&gt; format</Position>
       <TranslationSet>
         <base loc="en">Last departure until %@</base>
-        <tran loc="es">Última salida antes de: %@</tran>
+        <tran loc="es-419">Última salida antes del %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@
       <Position>Last departure until &lt;relative day&gt; format</Position>
       <TranslationSet>
         <base loc="en">Last departure until %@</base>
-        <tran loc="es">Última salida antes de: %@</tran>
+        <tran loc="es-419">Última salida antes de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@
       <Position>Opening Soon</Position>
       <TranslationSet>
         <base loc="en">Opening Soon</base>
-        <tran loc="es">Abre pronto</tran>
+        <tran loc="es-419">Abre pronto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@
       <Position>Data serialization failed</Position>
       <TranslationSet>
         <base loc="en">Data serialization failed</base>
-        <tran loc="es">Error de serialización de datos</tran>
+        <tran loc="es-419">Error al serializar los datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@
       <Position>Report an Issue [Button Title]</Position>
       <TranslationSet>
         <base loc="en">Report an Issue</base>
-        <tran loc="es">Informar de un problema</tran>
+        <tran loc="es-419">Reportar un problema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@
       <Position>PlaceCard_Amenity</Position>
       <TranslationSet>
         <base loc="en">%1$@\t%2$@</base>
-        <tran loc="es">%1$@\t%2$@</tran>
+        <tran loc="es-419">%1$@\t%2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1608,7 @@
       <Position>MKRESULTVIEW_NAME_STRING</Position>
       <TranslationSet>
         <base loc="en">%1$@%2$@%3$@</base>
-        <tran loc="es">%1$@%2$@%3$@</tran>
+        <tran loc="es-419">%1$@%2$@%3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1616,7 +1616,7 @@
       <Position>Free Breakfast</Position>
       <TranslationSet>
         <base loc="en">Free Breakfast</base>
-        <tran loc="es">Desayuno gratis</tran>
+        <tran loc="es-419">Desayuno gratis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1624,7 +1624,7 @@
       <Position>Walking Directions Not Available</Position>
       <TranslationSet>
         <base loc="en">Walking Directions Not Available</base>
-        <tran loc="es">Ruta a pie no disponible</tran>
+        <tran loc="es-419">Ruta a pie no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1632,7 +1632,7 @@
       <Position>Dairy-free Options</Position>
       <TranslationSet>
         <base loc="en">Dairy-free Options</base>
-        <tran loc="es">Opciones sin lácteos</tran>
+        <tran loc="es-419">Opciones sin lactosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1640,7 +1640,7 @@
       <Position>More▼</Position>
       <TranslationSet>
         <base loc="en">More▼</base>
-        <tran loc="es">Más▼</tran>
+        <tran loc="es-419">Más▼</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1648,7 +1648,7 @@
       <Position>PlaceCard_GetDirections_ETA_Short</Position>
       <TranslationSet>
         <base loc="en">Directions (%@)</base>
-        <tran loc="es">Ruta (%@)</tran>
+        <tran loc="es-419">Ruta (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1656,7 +1656,7 @@
       <Position>TransitRefreshError_AirplaneMode_iPhone</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your iPhone is in Airplane Mode.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el iPhone está en modo Avión.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu iPhone está en modo de vuelo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1664,7 +1664,7 @@
       <Position>Good for Groups</Position>
       <TranslationSet>
         <base loc="en">Good for Groups</base>
-        <tran loc="es">Apto para grupos</tran>
+        <tran loc="es-419">Ideal para grupos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1672,7 +1672,7 @@
       <Position>%d lines</Position>
       <TranslationSet>
         <base loc="en">%d lines</base>
-        <tran loc="es">%d líneas</tran>
+        <tran loc="es-419">%d líneas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1680,7 +1680,7 @@
       <Position>Every Day</Position>
       <TranslationSet>
         <base loc="en">Every Day</base>
-        <tran loc="es">Todos los días</tran>
+        <tran loc="es-419">Diariamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1688,7 +1688,7 @@
       <Position>PlaceView_Email_Title</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo electrónico</tran>
+        <tran loc="es-419">Enviar por correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1696,7 +1696,7 @@
       <Position>Remove</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1704,7 +1704,7 @@
       <Position>MapItemTipProvider_Plural</Position>
       <TranslationSet>
         <base loc="en">%1$@ Tips on %2$@</base>
-        <tran loc="es">%1$@ consejos en %2$@</tran>
+        <tran loc="es-419">%1$@ consejos en %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1712,7 +1712,7 @@
       <Position>CompassAbbreviation_NorthWest</Position>
       <TranslationSet>
         <base loc="en">NW</base>
-        <tran loc="es">NO</tran>
+        <tran loc="es-419">NO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1720,7 +1720,7 @@
       <Position>Dogs Allowed</Position>
       <TranslationSet>
         <base loc="en">Dogs Allowed</base>
-        <tran loc="es">Apto para perros</tran>
+        <tran loc="es-419">Apto para perros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1728,7 +1728,7 @@
       <Position>Brand_Card_Verified</Position>
       <TranslationSet>
         <base loc="en">Verified</base>
-        <tran loc="es">Verificado</tran>
+        <tran loc="es-419">Verificada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1736,7 @@
       <Position>LAST_YEAR_KEY</Position>
       <TranslationSet>
         <base loc="en">Last year</base>
-        <tran loc="es">El año pasado</tran>
+        <tran loc="es-419">El año pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1744,7 @@
       <Position>Will open %1$@ at %2$@</Position>
       <TranslationSet>
         <base loc="en">Will open %1$@ at %2$@</base>
-        <tran loc="es">Abre el %1$@ a las %2$@</tran>
+        <tran loc="es-419">Abre: %1$@ a la(s) %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1752,7 @@
       <Position>%1$i of %2$i</Position>
       <TranslationSet>
         <base loc="en">%1$i of %2$i</base>
-        <tran loc="es">%1$i de %2$i</tran>
+        <tran loc="es-419">%1$i de %2$i</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1760,7 +1760,7 @@
       <Position>Refine Location</Position>
       <TranslationSet>
         <base loc="en">Refine Location</base>
-        <tran loc="es">Ajustar ubicación</tran>
+        <tran loc="es-419">Precisar ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1768,7 +1768,7 @@
       <Position>Create New Contact</Position>
       <TranslationSet>
         <base loc="en">Create New Contact</base>
-        <tran loc="es">Crear nuevo contacto</tran>
+        <tran loc="es-419">Crear nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1776,7 +1776,7 @@
       <Position>TODAY_KEY</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1784,7 +1784,7 @@
       <Position>Lane Closed</Position>
       <TranslationSet>
         <base loc="en">Lane Closed</base>
-        <tran loc="es">Carril cerrado</tran>
+        <tran loc="es-419">Carril cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1792,7 +1792,7 @@
       <Position>Get</Position>
       <TranslationSet>
         <base loc="en">Get</base>
-        <tran loc="es">Obtener</tran>
+        <tran loc="es-419">Obtener</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1800,7 +1800,7 @@
       <Position>Meeting Rooms</Position>
       <TranslationSet>
         <base loc="en">Meeting Rooms</base>
-        <tran loc="es">Salas de reuniones</tran>
+        <tran loc="es-419">Salas de reuniones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1808,7 +1808,7 @@
       <Position>Accepts Credit Cards</Position>
       <TranslationSet>
         <base loc="en">Accepts Credit Cards</base>
-        <tran loc="es">Acepta tarjetas de crédito</tran>
+        <tran loc="es-419">Acepta tarjetas de crédito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1816,7 +1816,7 @@
       <Position>Loading…</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1824,7 +1824,7 @@
       <Position>PlaceView_Address_Title</Position>
       <TranslationSet>
         <base loc="en">Address</base>
-        <tran loc="es">Dirección</tran>
+        <tran loc="es-419">Dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1832,7 +1832,7 @@
       <Position>map url</Position>
       <TranslationSet>
         <base loc="en">map url</base>
-        <tran loc="es">URL del mapa</tran>
+        <tran loc="es-419">URL del mapa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1840,7 @@
       <Position>Takeout</Position>
       <TranslationSet>
         <base loc="en">Takeout</base>
-        <tran loc="es">Para llevar</tran>
+        <tran loc="es-419">Para llevar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>No stations nearby.</Position>
       <TranslationSet>
         <base loc="en">No stations nearby.</base>
-        <tran loc="es">No hay estaciones cerca.</tran>
+        <tran loc="es-419">No hay estaciones cerca.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>Temporarily Closed</Position>
       <TranslationSet>
         <base loc="en">Temporarily Closed</base>
-        <tran loc="es">Cerrado temporalmente</tran>
+        <tran loc="es-419">Cerrado temporalmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1864,7 @@
       <Position>PlacecardReview_Plural</Position>
       <TranslationSet>
         <base loc="en">%d reviews</base>
-        <tran loc="es">%d reseñas</tran>
+        <tran loc="es-419">%d reseñas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1872,7 @@
       <Position>CompassAbbreviation_SouthEast</Position>
       <TranslationSet>
         <base loc="en">SE</base>
-        <tran loc="es">SE</tran>
+        <tran loc="es-419">SE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1880,7 @@
       <Position>[Related Places] See All</Position>
       <TranslationSet>
         <base loc="en">See All</base>
-        <tran loc="es">Ver todo</tran>
+        <tran loc="es-419">Ver todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1888,7 @@
       <Position>No upcoming service</Position>
       <TranslationSet>
         <base loc="en">No upcoming service</base>
-        <tran loc="es">Ningún servicio próximamente</tran>
+        <tran loc="es-419">Sin servicio próximo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1896,7 @@
       <Position>GET</Position>
       <TranslationSet>
         <base loc="en">GET</base>
-        <tran loc="es">OBTENER</tran>
+        <tran loc="es-419">OBTENER</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1904,7 @@
       <Position>TransitRefreshError_NoNetworkConnection_iPad</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your iPad is not connected to the Internet.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el iPad no está conectado a internet.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu iPad no está conectado a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1912,7 @@
       <Position>TransitRefreshError_CellDataDisabled</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because cellular data is turned off for Maps.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque los datos móviles están desactivados para Mapas.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque los datos celulares están desactivados para Mapas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1920,7 @@
       <Position>Couldn't convert to distance</Position>
       <TranslationSet>
         <base loc="en">Couldn't convert to distance</base>
-        <tran loc="es">No se ha podido convertir en una distancia</tran>
+        <tran loc="es-419">No se pudo convertir a distancia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1928,7 @@
       <Position>PlaceCardPhotosBigAttribution</Position>
       <TranslationSet>
         <base loc="en">Open %@</base>
-        <tran loc="es">Abrir %@</tran>
+        <tran loc="es-419">Abrir %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1936,7 @@
       <Position>PlaceCardSectionHeader</Position>
       <TranslationSet>
         <base loc="en">Open %@</base>
-        <tran loc="es">Abrir %@</tran>
+        <tran loc="es-419">Abrir %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1944,7 @@
       <Position>Placecard Full Hours, open</Position>
       <TranslationSet>
         <base loc="en">Open %@</base>
-        <tran loc="es">Abierto %@</tran>
+        <tran loc="es-419">Abierto %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1952,7 @@
       <Position>Data from others</Position>
       <TranslationSet>
         <base loc="en">Data from others</base>
-        <tran loc="es">Datos de otros</tran>
+        <tran loc="es-419">Datos de otros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1960,7 +1960,7 @@
       <Position>Restaurant</Position>
       <TranslationSet>
         <base loc="en">Restaurant</base>
-        <tran loc="es">Restaurante</tran>
+        <tran loc="es-419">Restaurante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1968,7 +1968,7 @@
       <Position>[Collection] In your Collection</Position>
       <TranslationSet>
         <base loc="en">In your Collection</base>
-        <tran loc="es">En tu colección</tran>
+        <tran loc="es-419">En tu colección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1976,7 +1976,7 @@
       <Position>Placecard Show operating hours today</Position>
       <TranslationSet>
         <base loc="en">Show Today</base>
-        <tran loc="es">Mostrar hoy</tran>
+        <tran loc="es-419">Mostrar hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1984,7 +1984,7 @@
       <Position>Parking Garage</Position>
       <TranslationSet>
         <base loc="en">Parking Garage</base>
-        <tran loc="es">Aparcamiento en garaje</tran>
+        <tran loc="es-419">Estacionamiento techado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1992,7 +1992,7 @@
       <Position>Pets Allowed</Position>
       <TranslationSet>
         <base loc="en">Pets Allowed</base>
-        <tran loc="es">Apto para mascotas</tran>
+        <tran loc="es-419">Apto para mascotas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2000,7 +2000,7 @@
       <Position>There are no upcoming departures.</Position>
       <TranslationSet>
         <base loc="en">There are no upcoming departures.</base>
-        <tran loc="es">No hay salidas próximamente.</tran>
+        <tran loc="es-419">No hay salidas próximas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2008,7 +2008,7 @@
       <Position>Usually responds in a few hours</Position>
       <TranslationSet>
         <base loc="en">Usually responds in a few hours</base>
-        <tran loc="es">Suele responder en unas horas</tran>
+        <tran loc="es-419">Usualmente responde en pocas horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2016,7 +2016,7 @@
       <Position>Non-smoking Rooms</Position>
       <TranslationSet>
         <base loc="en">Non-smoking Rooms</base>
-        <tran loc="es">Habitaciones para no fumadores</tran>
+        <tran loc="es-419">Salones libres de humo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2024,7 +2024,7 @@
       <Position>No Upcoming Departures</Position>
       <TranslationSet>
         <base loc="en">No Upcoming Departures</base>
-        <tran loc="es">Ninguna salida próximamente</tran>
+        <tran loc="es-419">Sin salidas próximamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2032,7 +2032,7 @@
       <Position>Photos on %@</Position>
       <TranslationSet>
         <base loc="en">Photos on %@</base>
-        <tran loc="es">Fotos en %@</tran>
+        <tran loc="es-419">Fotos de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2040,7 +2040,7 @@
       <Position>A walking route cannot be determined. Walking is not allowed at the start location.</Position>
       <TranslationSet>
         <base loc="en">A walking route cannot be determined. Walking is not allowed at the start location.</base>
-        <tran loc="es">No se puede determinar una ruta a pie. No se permite ir a pie en la ubicación de origen.</tran>
+        <tran loc="es-419">Es imposible determinar una ruta a pie. No se permite caminar en la ubicación inicial.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2048,7 +2048,7 @@
       <Position>Center Lanes Closed</Position>
       <TranslationSet>
         <base loc="en">Center Lanes Closed</base>
-        <tran loc="es">Carriles centrales cerrados</tran>
+        <tran loc="es-419">Carriles centrales cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2056,7 +2056,7 @@
       <Position>Find out more on %@ </Position>
       <TranslationSet>
         <base loc="en">Find out more on %@ </base>
-        <tran loc="es">Más información en %@ </tran>
+        <tran loc="es-419">Más información en %@ </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2064,7 @@
       <Position>Usually responds within a day</Position>
       <TranslationSet>
         <base loc="en">Usually responds within a day</base>
-        <tran loc="es">Suele responder en menos de un día</tran>
+        <tran loc="es-419">Usualmente responde en menos de un día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2072,7 @@
       <Position>, </Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2080,7 @@
       <Position>Address component delimiter</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2088,7 @@
       <Position>MKRESULTVIEW_SEPARATOR_COMMA</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2096,7 @@
       <Position>Place_Reviews_On_Provider</Position>
       <TranslationSet>
         <base loc="en">(%1$d) on %2$@</base>
-        <tran loc="es">(%1$d) en %2$@</tran>
+        <tran loc="es-419">(%1$d) en %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2104,7 @@
       <Position>BULLET_STRING_COMPONENT_KEY</Position>
       <TranslationSet>
         <base loc="en"> ∙ %@</base>
-        <tran loc="es"> ∙ %@</tran>
+        <tran loc="es-419"> ∙ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2112,7 @@
       <Position>CompassInnerDiscTooltip</Position>
       <TranslationSet>
         <base loc="en">Click to toggle 3D, drag to rotate vertically</base>
-        <tran loc="es">Activar o desactivar la vista en 3D, arrastrar para rotar verticalmente</tran>
+        <tran loc="es-419">Haz clic para activar/desactivar el 3D, arrastra para girar verticalmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2120,7 @@
       <Position>Glutenfree Options</Position>
       <TranslationSet>
         <base loc="en">Glutenfree Options</base>
-        <tran loc="es">Opciones sin gluten</tran>
+        <tran loc="es-419">Opciones sin gluten</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2128,7 @@
       <Position>Parking Available</Position>
       <TranslationSet>
         <base loc="en">Parking Available</base>
-        <tran loc="es">Aparcamiento disponible</tran>
+        <tran loc="es-419">Con estacionamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2136,7 @@
       <Position>Bus Lane Closed</Position>
       <TranslationSet>
         <base loc="en">Bus Lane Closed</base>
-        <tran loc="es">Carril bus cerrado</tran>
+        <tran loc="es-419">Carril camión cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2144,7 @@
       <Position>Swimming Pool</Position>
       <TranslationSet>
         <base loc="en">Swimming Pool</base>
-        <tran loc="es">Piscina</tran>
+        <tran loc="es-419">Alberca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2152,7 @@
       <Position>CompassAbbreviation_East</Position>
       <TranslationSet>
         <base loc="en">E</base>
-        <tran loc="es">E</tran>
+        <tran loc="es-419">E</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2160,7 @@
       <Position>E</Position>
       <TranslationSet>
         <base loc="en">E</base>
-        <tran loc="es">E</tran>
+        <tran loc="es-419">E</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2168,7 @@
       <Position>MKRESULTVIEW_AND_X_OTHERS</Position>
       <TranslationSet>
         <base loc="en">and %@ others</base>
-        <tran loc="es">y %@ más</tran>
+        <tran loc="es-419">y %@ más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2176,7 @@
       <Position>Nearest Station</Position>
       <TranslationSet>
         <base loc="en">Nearest Station</base>
-        <tran loc="es">Estación más cercana</tran>
+        <tran loc="es-419">Estación más cercana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2184,7 @@
       <Position>Scale distance meters</Position>
       <TranslationSet>
         <base loc="en">m</base>
-        <tran loc="es">m</tran>
+        <tran loc="es-419">m</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@
       <Position>Share_Action_Row</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2200,7 @@
       <Position>PlacecardReviewProvider_Plural</Position>
       <TranslationSet>
         <base loc="en">%1$d reviews on %2$@</base>
-        <tran loc="es">%1$d reseñas en %2$@</tran>
+        <tran loc="es-419">%1$d reseñas en %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2208,7 +2208,7 @@
       <Position>Right Lanes Closed</Position>
       <TranslationSet>
         <base loc="en">Right Lanes Closed</base>
-        <tran loc="es">Carriles derechos cerrados</tran>
+        <tran loc="es-419">Carriles derechos cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2216,7 +2216,7 @@
       <Position>CompassOuterRingTooltip</Position>
       <TranslationSet>
         <base loc="en">Click to snap to North, turn to rotate horizontally</base>
-        <tran loc="es">Ajustar al norte, girar para rotar horizontalmente</tran>
+        <tran loc="es-419">Haz clic para ajustar al norte, da vuelta para girar horizontalmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2224,7 +2224,7 @@
       <Position>Accepts Apple Pay</Position>
       <TranslationSet>
         <base loc="en">Accepts Apple Pay</base>
-        <tran loc="es">Acepta Apple Pay</tran>
+        <tran loc="es-419">Acepta Apple Pay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2232,7 +2232,7 @@
       <Position>MapItemTipProvider_Singular</Position>
       <TranslationSet>
         <base loc="en">%1$@ Tip on %2$@</base>
-        <tran loc="es">%1$@ consejo en %2$@</tran>
+        <tran loc="es-419">%1$@ consejo en %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2240,7 +2240,7 @@
       <Position>Closed</Position>
       <TranslationSet>
         <base loc="en">Closed</base>
-        <tran loc="es">Cerrado</tran>
+        <tran loc="es-419">Cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2248,7 +2248,7 @@
       <Position>PlaceCard_Reroute_Button</Position>
       <TranslationSet>
         <base loc="en">GO %@</base>
-        <tran loc="es">IR %@</tran>
+        <tran loc="es-419">IR A %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2256,7 +2256,7 @@
       <Position>Review_Section_Name</Position>
       <TranslationSet>
         <base loc="en">What People Say</base>
-        <tran loc="es">Qué opina la gente</tran>
+        <tran loc="es-419">Reseñas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2264,7 +2264,7 @@
       <Position>Last departure</Position>
       <TranslationSet>
         <base loc="en">Last departure</base>
-        <tran loc="es">Última salida</tran>
+        <tran loc="es-419">Última salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2272,7 +2272,7 @@
       <Position>OPEN</Position>
       <TranslationSet>
         <base loc="en">OPEN</base>
-        <tran loc="es">ABRIR</tran>
+        <tran loc="es-419">ABRIR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2280,7 +2280,7 @@
       <Position>Zoom In [tv]</Position>
       <TranslationSet>
         <base loc="en">Zoom In</base>
-        <tran loc="es">Ampliar</tran>
+        <tran loc="es-419">Acercar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2288,7 +2288,7 @@
       <Position>Directions are not available.</Position>
       <TranslationSet>
         <base loc="en">Directions are not available.</base>
-        <tran loc="es">No hay una ruta disponible.</tran>
+        <tran loc="es-419">La ruta no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2296,7 +2296,7 @@
       <Position>Cannot locate the end location.</Position>
       <TranslationSet>
         <base loc="en">Cannot locate the end location.</base>
-        <tran loc="es">No se puede localizar el destino.</tran>
+        <tran loc="es-419">No se puede localizar el destino.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2304,7 +2304,7 @@
       <Position>Scale distance kilometers</Position>
       <TranslationSet>
         <base loc="en">km</base>
-        <tran loc="es">km</tran>
+        <tran loc="es-419">km</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2312,7 +2312,7 @@
       <Position>Unknown Location</Position>
       <TranslationSet>
         <base loc="en">Unknown Location</base>
-        <tran loc="es">Ubicación desconocida</tran>
+        <tran loc="es-419">Ubicación desconocida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2320,7 +2320,7 @@
       <Position>WLAN</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2328,7 +2328,7 @@
       <Position>Turn off Airplane Mode or turn on Wi-Fi to see additional information.</Position>
       <TranslationSet>
         <base loc="en">Turn off Airplane Mode or turn on Wi-Fi to see additional information.</base>
-        <tran loc="es">Desactiva el modo Avión o activa la conexión Wi‑Fi para ver más información.</tran>
+        <tran loc="es-419">Desactiva "Modo de vuelo" o activa Wi-Fi para ver más información.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2336,7 +2336,7 @@
       <Position>Messages</Position>
       <TranslationSet>
         <base loc="en">Messages</base>
-        <tran loc="es">Mensajes</tran>
+        <tran loc="es-419">Mensajes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2344,7 +2344,7 @@
       <Position>Smoking Allowed</Position>
       <TranslationSet>
         <base loc="en">Smoking Allowed</base>
-        <tran loc="es">Apto para fumadores</tran>
+        <tran loc="es-419">Área para fumar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2352,7 +2352,7 @@
       <Position>Inside</Position>
       <TranslationSet>
         <base loc="en">Inside</base>
-        <tran loc="es">Dentro de</tran>
+        <tran loc="es-419">Adentro de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2360,7 +2360,7 @@
       <Position>Data deserialization failed</Position>
       <TranslationSet>
         <base loc="en">Data deserialization failed</base>
-        <tran loc="es">Error de deserialización de datos</tran>
+        <tran loc="es-419">Error al quitar la serialización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2368,7 +2368,7 @@
       <Position>PlaceCard_ETA_Transit</Position>
       <TranslationSet>
         <base loc="en">%1$@ by transit</base>
-        <tran loc="es">%1$@ en transporte público</tran>
+        <tran loc="es-419">%1$@ en transporte público</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2376,7 +2376,7 @@
       <Position>Open 24 Hours</Position>
       <TranslationSet>
         <base loc="en">Open 24 Hours</base>
-        <tran loc="es">Abierto las 24 horas</tran>
+        <tran loc="es-419">Abierto 24 horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2384,7 +2384,7 @@
       <Position>%@ min [PlaceCard, Transit, Departures, Countdown]</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2392,7 +2392,7 @@
       <Position>MKRESULTVIEW_NAMES_OTHERS_STRING</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2400,7 +2400,7 @@
       <Position>PlaceCard_StarAndReviewCount</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2408,7 +2408,7 @@
       <Position>Shoulder Lanes Closed</Position>
       <TranslationSet>
         <base loc="en">Shoulder Lanes Closed</base>
-        <tran loc="es">Arcenes cerrados</tran>
+        <tran loc="es-419">Acotamientos cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2416,7 +2416,7 @@
       <Position>A route could not be determined between these locations.</Position>
       <TranslationSet>
         <base loc="en">A route could not be determined between these locations.</base>
-        <tran loc="es">No se ha podido determinar una ruta entre estas ubicaciones.</tran>
+        <tran loc="es-419">No se pudo determinar una ruta entre estas ubicaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2424,7 +2424,7 @@
       <Position>TransitDeparture_Now</Position>
       <TranslationSet>
         <base loc="en">Now</base>
-        <tran loc="es">Ahora</tran>
+        <tran loc="es-419">Ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2432,7 +2432,7 @@
       <Position>More Photos on %@</Position>
       <TranslationSet>
         <base loc="en">More Photos on %@</base>
-        <tran loc="es">Más fotos en %@</tran>
+        <tran loc="es-419">Más fotos en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2440,7 +2440,7 @@
       <Position>%1$@°%2$@′%3$@″ %4$@</Position>
       <TranslationSet>
         <base loc="en">%1$@°%2$@′%3$@″ %4$@</base>
-        <tran loc="es">%1$@°%2$@′%3$@″ %4$@</tran>
+        <tran loc="es-419">%1$@°%2$@′%3$@″ %4$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2448,7 +2448,7 @@
       <Position>PlaceCard_Action_Button_Format</Position>
       <TranslationSet>
         <base loc="en">%1$@ (%2$@)</base>
-        <tran loc="es">%1$@ (%2$@)</tran>
+        <tran loc="es-419">%1$@ (%2$@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2456,7 +2456,7 @@
       <Position>Business is closed and will open at %@</Position>
       <TranslationSet>
         <base loc="en">Business is closed and will open at %@</base>
-        <tran loc="es">El establecimiento está cerrado y abrirá a las %@</tran>
+        <tran loc="es-419">El negocio está cerrado y abrirá a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2464,7 +2464,7 @@
       <Position>Usually responds within a minute</Position>
       <TranslationSet>
         <base loc="en">Usually responds within a minute</base>
-        <tran loc="es">Suele responder en menos de un minuto</tran>
+        <tran loc="es-419">Usualmente responde en menos de un minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2472,7 +2472,7 @@
       <Position>TransitRefreshError_AirplaneMode_iPad</Position>
       <TranslationSet>
         <base loc="en">Upcoming departures can’t be shown because your iPad is in Airplane Mode.</base>
-        <tran loc="es">Las próximas salidas no se pueden mostrar porque el iPad está en modo Avión.</tran>
+        <tran loc="es-419">No se pueden mostrar las salidas próximas porque tu iPad está en modo de vuelo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2480,7 +2480,7 @@
       <Position>Connections_section_header</Position>
       <TranslationSet>
         <base loc="en">Connections</base>
-        <tran loc="es">Conexiones</tran>
+        <tran loc="es-419">Conexiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2488,7 +2488,7 @@
       <Position>Shoulder Lane Closed</Position>
       <TranslationSet>
         <base loc="en">Shoulder Lane Closed</base>
-        <tran loc="es">Arcén cerrado</tran>
+        <tran loc="es-419">Acotamiento cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2496,7 +2496,7 @@
       <Position>%@, Closing Soon</Position>
       <TranslationSet>
         <base loc="en">%@, Closing Soon</base>
-        <tran loc="es">%@, cierra pronto</tran>
+        <tran loc="es-419">%@ (cierra pronto)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2504,7 +2504,7 @@
       <Position>Add to [Footer action]</Position>
       <TranslationSet>
         <base loc="en">Add to\U2026</base>
-        <tran loc="es">Añadir a…</tran>
+        <tran loc="es-419">Agregar a\U2026</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2512,7 +2512,7 @@
       <Position>Add_Collection_Actions_Row</Position>
       <TranslationSet>
         <base loc="en">Add to\U2026</base>
-        <tran loc="es">Añadir a…</tran>
+        <tran loc="es-419">Agregar a\U2026</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2520,7 +2520,7 @@
       <Position>Usually responds within one hour</Position>
       <TranslationSet>
         <base loc="en">Usually responds within one hour</base>
-        <tran loc="es">Suele responder en menos de una hora</tran>
+        <tran loc="es-419">Usualmente responde en menos de una hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2528,7 +2528,7 @@
       <Position>Last departure at &lt;hours:minutes&gt; format</Position>
       <TranslationSet>
         <base loc="en">Last departure at %@</base>
-        <tran loc="es">Última salida a las %@</tran>
+        <tran loc="es-419">Última salida a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2536,7 +2536,7 @@
       <Position>by %@</Position>
       <TranslationSet>
         <base loc="en">by %@</base>
-        <tran loc="es">de %@</tran>
+        <tran loc="es-419">por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2544,7 +2544,7 @@
       <Position>line_card_nearest_station_distance_format</Position>
       <TranslationSet>
         <base loc="en">%1$@ — %2$@</base>
-        <tran loc="es">%1$@ — %2$@</tran>
+        <tran loc="es-419">%1$@ — %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2552,7 +2552,7 @@
       <Position>Left Lane Closed</Position>
       <TranslationSet>
         <base loc="en">Left Lane Closed</base>
-        <tran loc="es">Carril izquierdo cerrado</tran>
+        <tran loc="es-419">Carril izquierdo cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2560,7 +2560,7 @@
       <Position>Location Services Off</Position>
       <TranslationSet>
         <base loc="en">Location Services Off</base>
-        <tran loc="es">Localización desactivada</tran>
+        <tran loc="es-419">Localización desactivada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2568,7 +2568,7 @@
       <Position>Map_View_More</Position>
       <TranslationSet>
         <base loc="en">View More</base>
-        <tran loc="es">Ver más</tran>
+        <tran loc="es-419">Ver más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2576,7 +2576,7 @@
       <Position>Place_Reviews_Number_Parsec</Position>
       <TranslationSet>
         <base loc="en">(%1$d)</base>
-        <tran loc="es">(%1$d)</tran>
+        <tran loc="es-419">(%1$d)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2584,7 +2584,7 @@
       <Position>More photos</Position>
       <TranslationSet>
         <base loc="en">More photos</base>
-        <tran loc="es">Más fotos</tran>
+        <tran loc="es-419">Más fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2592,7 +2592,7 @@
       <Position>My Location</Position>
       <TranslationSet>
         <base loc="en">My Location</base>
-        <tran loc="es">Mi ubicación</tran>
+        <tran loc="es-419">Mi ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2600,7 +2600,7 @@
       <Position>Operating Hours Range</Position>
       <TranslationSet>
         <base loc="en">%@ \U2013 %@</base>
-        <tran loc="es">%@\U2013%@</tran>
+        <tran loc="es-419">%@ \U2013 %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2608,7 +2608,7 @@
       <Position>from</Position>
       <TranslationSet>
         <base loc="en">from</base>
-        <tran loc="es">desde</tran>
+        <tran loc="es-419">de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2616,7 +2616,7 @@
       <Position>No reviews on %@</Position>
       <TranslationSet>
         <base loc="en">No reviews on %@</base>
-        <tran loc="es">No hay reseñas en %@</tran>
+        <tran loc="es-419">No hay reseñas en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2624,7 +2624,7 @@
       <Position>Zoom Out [tv]</Position>
       <TranslationSet>
         <base loc="en">Zoom Out</base>
-        <tran loc="es">Reducir</tran>
+        <tran loc="es-419">Alejar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2632,7 +2632,7 @@
       <Position>Longitude</Position>
       <TranslationSet>
         <base loc="en">Longitude</base>
-        <tran loc="es">Longitud</tran>
+        <tran loc="es-419">Longitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2640,7 +2640,7 @@
       <Position>Halal Options</Position>
       <TranslationSet>
         <base loc="en">Halal Options</base>
-        <tran loc="es">Opciones de halal</tran>
+        <tran loc="es-419">Opciones halal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2648,7 +2648,7 @@
       <Position>Event</Position>
       <TranslationSet>
         <base loc="en">Event</base>
-        <tran loc="es">Evento</tran>
+        <tran loc="es-419">Evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2656,7 +2656,7 @@
       <Position>PLACEVIEW_RESERVATION_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Make Reservation</base>
-        <tran loc="es">Reservar</tran>
+        <tran loc="es-419">Reservar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2664,7 +2664,7 @@
       <Position>Started %@</Position>
       <TranslationSet>
         <base loc="en">Started %@</base>
-        <tran loc="es">Inicio: %@</tran>
+        <tran loc="es-419">Inicio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2672,7 +2672,7 @@
       <Position>%1$d review on %2$@</Position>
       <TranslationSet>
         <base loc="en">%1$d review on %2$@</base>
-        <tran loc="es">%1$d reseña en %2$@</tran>
+        <tran loc="es-419">%1$d reseña en %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2680,7 +2680,7 @@
       <Position>Placecard_AnnotatedItem_MoreOn</Position>
       <TranslationSet>
         <base loc="en">More on\n%@</base>
-        <tran loc="es">Más en\n%@</tran>
+        <tran loc="es-419">Más en\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2688,7 +2688,7 @@
       <Position>%@, Open Now</Position>
       <TranslationSet>
         <base loc="en">%@, Open Now</base>
-        <tran loc="es">%@, abierto</tran>
+        <tran loc="es-419">%@ (abierto ahora)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2696,7 +2696,7 @@
       <Position>Turn off Airplane Mode or turn on WLAN to see additional information.</Position>
       <TranslationSet>
         <base loc="en">Turn off Airplane Mode or turn on WLAN to see additional information.</base>
-        <tran loc="es">Desactiva el modo Avión o activa la conexión WLAN para ver más información.</tran>
+        <tran loc="es-419">Desactiva "Modo de vuelo" o activa WLAN para ver más información.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2704,7 +2704,7 @@
       <Position>DNT</Position>
       <TranslationSet>
         <base loc="en">DNT</base>
-        <tran loc="es">DNT</tran>
+        <tran loc="es-419">DNT</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2712,7 +2712,7 @@
       <Position>LAST_MONTH_KEY</Position>
       <TranslationSet>
         <base loc="en">Last month</base>
-        <tran loc="es">El mes pasado</tran>
+        <tran loc="es-419">El mes pasado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2720,7 +2720,7 @@
       <Position>PlaceCard_ETA_Walking</Position>
       <TranslationSet>
         <base loc="en">%1$@ walk</base>
-        <tran loc="es">%1$@ a pie</tran>
+        <tran loc="es-419">%1$@ a pie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2728,7 +2728,7 @@
       <Position>A route cannot be determined to this destination.</Position>
       <TranslationSet>
         <base loc="en">A route cannot be determined to this destination.</base>
-        <tran loc="es">No se puede determinar una ruta hasta este destino.</tran>
+        <tran loc="es-419">No se puede determinar una ruta hasta este destino.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2736,7 +2736,7 @@
       <Position>Message</Position>
       <TranslationSet>
         <base loc="en">Message</base>
-        <tran loc="es">Mensaje</tran>
+        <tran loc="es-419">Mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2744,7 +2744,7 @@
       <Position>Call</Position>
       <TranslationSet>
         <base loc="en">Call</base>
-        <tran loc="es">Llamar</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2752,7 +2752,7 @@
       <Position>Road Closed</Position>
       <TranslationSet>
         <base loc="en">Road Closed</base>
-        <tran loc="es">Carretera cerrada</tran>
+        <tran loc="es-419">Camino cerrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2760,7 +2760,7 @@
       <Position>N_DAYS_AGO_FORMAT_KEY</Position>
       <TranslationSet>
         <base loc="en">%d days ago</base>
-        <tran loc="es">Hace %d días</tran>
+        <tran loc="es-419">Hace %d días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2768,7 +2768,7 @@
       <Position>Lanes Closed</Position>
       <TranslationSet>
         <base loc="en">Lanes Closed</base>
-        <tran loc="es">Carriles cerrados</tran>
+        <tran loc="es-419">Carriles cerrados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2776,7 +2776,7 @@
       <Position>Outdoor Seating</Position>
       <TranslationSet>
         <base loc="en">Outdoor Seating</base>
-        <tran loc="es">Zona para sentarse al aire libre</tran>
+        <tran loc="es-419">Mesas al aire libre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2784,7 +2784,7 @@
       <Position>Vegan Options</Position>
       <TranslationSet>
         <base loc="en">Vegan Options</base>
-        <tran loc="es">Opciones veganas</tran>
+        <tran loc="es-419">Opciones veganas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2792,7 +2792,7 @@
       <Position>%u more</Position>
       <TranslationSet>
         <base loc="en">%u more</base>
-        <tran loc="es">%u más</tran>
+        <tran loc="es-419">%u más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2800,7 +2800,7 @@
       <Position>Scenic View</Position>
       <TranslationSet>
         <base loc="en">Scenic View</base>
-        <tran loc="es">Vistas panorámicas</tran>
+        <tran loc="es-419">Vista panorámica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2808,7 +2808,7 @@
       <Position>PlaceCard_Send_Email_Button_AccessibilityLabel</Position>
       <TranslationSet>
         <base loc="en">Send EMail</base>
-        <tran loc="es">Enviar mensaje de correo</tran>
+        <tran loc="es-419">Enviar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2816,7 +2816,7 @@
       <Position>AnnotationViewAccessibilityRole</Position>
       <TranslationSet>
         <base loc="en">Annotation</base>
-        <tran loc="es">Anotación</tran>
+        <tran loc="es-419">Anotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2824,7 +2824,7 @@
       <Position>PlaceCardSectionHeaderNoProvider</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abierto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2832,7 +2832,7 @@
       <Position>Beachfront</Position>
       <TranslationSet>
         <base loc="en">Beachfront</base>
-        <tran loc="es">Frente al mar</tran>
+        <tran loc="es-419">Frente a la playa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2840,7 +2840,7 @@
       <Position>PlaceCard_ETA_Driving</Position>
       <TranslationSet>
         <base loc="en">%1$@ drive</base>
-        <tran loc="es">%1$@ en coche</tran>
+        <tran loc="es-419">%1$@ en auto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2848,7 +2848,7 @@
       <Position>MapItemReview_Singular</Position>
       <TranslationSet>
         <base loc="en">%1$@ Review</base>
-        <tran loc="es">%1$@ reseña</tran>
+        <tran loc="es-419">%1$@ reseña</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2859,7 +2859,7 @@
       <Position>Look Around</Position>
       <TranslationSet>
         <base loc="en">Look Around</base>
-        <tran loc="es">Vista panorámica</tran>
+        <tran loc="es-419">Echa un vistazo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2867,7 +2867,7 @@
       <Position>DNT</Position>
       <TranslationSet>
         <base loc="en">DNT</base>
-        <tran loc="es">DNT</tran>
+        <tran loc="es-419">DNT</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2875,7 +2875,7 @@
       <Position>%@ &amp; %@</Position>
       <TranslationSet>
         <base loc="en">%@ &amp; %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2886,7 +2886,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">MapKit</base>
-        <tran loc="es">MapKit</tran>
+        <tran loc="es-419">MapKit</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2897,7 +2897,7 @@
       <Position>/[Related Places] At this Address:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">At this Address</base>
-        <tran loc="es">En esta dirección</tran>
+        <tran loc="es-419">En esta dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2905,7 +2905,7 @@
       <Position>/[Related Places] At this Address:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">At this Address</base>
-        <tran loc="es">En esta dirección</tran>
+        <tran loc="es-419">En esta dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2913,7 +2913,7 @@
       <Position>/Date_relative_time_hours_ago:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%dh ago</base>
-        <tran loc="es">hace %d hora</tran>
+        <tran loc="es-419">Hace %d h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2921,7 +2921,7 @@
       <Position>/Date_relative_time_hours_ago:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%dh ago</base>
-        <tran loc="es">hace %d horas</tran>
+        <tran loc="es-419">Hace %d h</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2929,7 +2929,7 @@
       <Position>/Map_Location_Nearby:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Location Nearby</base>
-        <tran loc="es">%d ubicación próxima</tran>
+        <tran loc="es-419">%d ubicación cercana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2937,7 +2937,7 @@
       <Position>/%u more lines:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u More Lines</base>
-        <tran loc="es">%u líneas más</tran>
+        <tran loc="es-419">%u líneas más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2945,7 +2945,7 @@
       <Position>/%u more lines:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u More Lines</base>
-        <tran loc="es">%u líneas más</tran>
+        <tran loc="es-419">%u líneas más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2953,7 +2953,7 @@
       <Position>/Date_relative_time_days_ago:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Just now</base>
-        <tran loc="es">Ahora mismo</tran>
+        <tran loc="es-419">Ahora mismo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2961,7 +2961,7 @@
       <Position>/Date_relative_time_hours_ago:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Just now</base>
-        <tran loc="es">Ahora mismo</tran>
+        <tran loc="es-419">Ahora mismo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2969,7 +2969,7 @@
       <Position>/Date_relative_time_minutes_ago:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Just now</base>
-        <tran loc="es">Ahora mismo</tran>
+        <tran loc="es-419">Ahora mismo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2977,7 +2977,7 @@
       <Position>/Date_relative_time_seconds_ago:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Just now</base>
-        <tran loc="es">Ahora mismo</tran>
+        <tran loc="es-419">Ahora mismo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2985,7 +2985,7 @@
       <Position>/[Related Places] Places Inside:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u Places Inside</base>
-        <tran loc="es">%u sitios dentro</tran>
+        <tran loc="es-419">%u lugares adentro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2993,7 +2993,7 @@
       <Position>/Map_Location_Nearby:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Locations Nearby</base>
-        <tran loc="es">%d ubicaciones próximas</tran>
+        <tran loc="es-419">%d ubicaciones cercanas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3001,7 +3001,7 @@
       <Position>/%u more lines:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3009,7 +3009,7 @@
       <Position>/Date_relative_time_days_ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3017,7 +3017,7 @@
       <Position>/Date_relative_time_hours_ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3025,7 +3025,7 @@
       <Position>/Date_relative_time_minutes_ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3033,7 +3033,7 @@
       <Position>/Date_relative_time_seconds_ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3041,7 +3041,7 @@
       <Position>/Map_Location_Nearby:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3049,7 +3049,7 @@
       <Position>/Show %u more lines:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3057,7 +3057,7 @@
       <Position>/TransitAdvisories_MapKit_Incidents:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3065,7 +3065,7 @@
       <Position>/[Related Places] At this Address:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3073,7 +3073,7 @@
       <Position>/[Related Places] Places Inside:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3081,7 +3081,7 @@
       <Position>/[Related Places] Popular Places Inside:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@_count_@</base>
-        <tran loc="es">%#@_count_@</tran>
+        <tran loc="es-419">%#@_count_@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3089,7 +3089,7 @@
       <Position>/Map_Location_Nearby:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Location Nearby</base>
-        <tran loc="es">Ubicación próxima</tran>
+        <tran loc="es-419">Ubicación cercana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3097,7 +3097,7 @@
       <Position>/TransitAdvisories_MapKit_Incidents:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Transit Advisory</base>
-        <tran loc="es">%d aviso sobre el transporte público</tran>
+        <tran loc="es-419">%d aviso de transporte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3105,7 +3105,7 @@
       <Position>/[Related Places] Popular Places Inside:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Popular Place Inside</base>
-        <tran loc="es">Sitio popular dentro</tran>
+        <tran loc="es-419">Lugar popular adentro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3113,7 +3113,7 @@
       <Position>/Date_relative_time_days_ago:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%dd ago</base>
-        <tran loc="es">hace %d día</tran>
+        <tran loc="es-419">Hace %d d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3121,7 +3121,7 @@
       <Position>/Date_relative_time_days_ago:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%dd ago</base>
-        <tran loc="es">hace %d días</tran>
+        <tran loc="es-419">Hace %d d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3129,7 +3129,7 @@
       <Position>/TransitAdvisories_MapKit_Incidents:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d Transit Advisories</base>
-        <tran loc="es">%d avisos de transporte público</tran>
+        <tran loc="es-419">%d avisos de transporte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3137,7 +3137,7 @@
       <Position>/Show %u more lines:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Show %u More Line</base>
-        <tran loc="es">Mostrar %u línea más</tran>
+        <tran loc="es-419">Mostrar %u línea más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3145,7 +3145,7 @@
       <Position>/TransitAdvisories_MapKit_Incidents:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Transit Advisory</base>
-        <tran loc="es">Aviso de t. público</tran>
+        <tran loc="es-419">Aviso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3153,7 +3153,7 @@
       <Position>/%u more lines:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u More Line</base>
-        <tran loc="es">%u línea más</tran>
+        <tran loc="es-419">%u línea más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3161,7 +3161,7 @@
       <Position>/[Related Places] Places Inside:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u Place Inside</base>
-        <tran loc="es">%u sitio dentro</tran>
+        <tran loc="es-419">%u lugar adentro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3169,7 +3169,7 @@
       <Position>/[Related Places] Popular Places Inside:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u Popular Place Inside</base>
-        <tran loc="es">%u sitio popular dentro</tran>
+        <tran loc="es-419">%u lugar popular adentro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3177,7 +3177,7 @@
       <Position>/Show %u more lines:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Show %u More Lines</base>
-        <tran loc="es">Mostrar %u líneas más</tran>
+        <tran loc="es-419">Mostrar %u líneas más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3185,7 +3185,7 @@
       <Position>/Show %u more lines:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Show %u More Lines</base>
-        <tran loc="es">Mostrar %u líneas más</tran>
+        <tran loc="es-419">Mostrar %u líneas más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3193,7 +3193,7 @@
       <Position>/Date_relative_time_seconds_ago:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ds ago</base>
-        <tran loc="es">hace %d segundo</tran>
+        <tran loc="es-419">hace %d s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3201,7 +3201,7 @@
       <Position>/Date_relative_time_seconds_ago:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%ds ago</base>
-        <tran loc="es">hace %d segundos</tran>
+        <tran loc="es-419">hace %d s</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3209,7 +3209,7 @@
       <Position>/Date_relative_time_minutes_ago:dict/_count_:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%dm ago</base>
-        <tran loc="es">hace %d mes</tran>
+        <tran loc="es-419">Hace %d m</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3217,7 +3217,7 @@
       <Position>/Date_relative_time_minutes_ago:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%dm ago</base>
-        <tran loc="es">hace %d meses</tran>
+        <tran loc="es-419">Hace %d m</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3225,7 +3225,7 @@
       <Position>/[Related Places] At this Address:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u Places at this Address</base>
-        <tran loc="es">%u sitios en esta dirección</tran>
+        <tran loc="es-419">%u lugares en esta dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3233,7 +3233,7 @@
       <Position>/[Related Places] Places Inside:dict/_count_:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Place Inside</base>
-        <tran loc="es">Sitio dentro</tran>
+        <tran loc="es-419">Lugar adentro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3241,7 +3241,7 @@
       <Position>/[Related Places] Popular Places Inside:dict/_count_:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%u Popular Places Inside</base>
-        <tran loc="es">%u sitios populares dentro</tran>
+        <tran loc="es-419">%u lugares populares adentro</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>%@ (Yesterday)</Position>
       <TranslationSet>
         <base loc="en">%@ (Yesterday)</base>
-        <tran loc="es">%@ (Ayer)</tran>
+        <tran loc="es-419">%@ (ayer)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -27,7 +27,7 @@
       <Position>Shared Calendar</Position>
       <TranslationSet>
         <base loc="en">Shared Calendar</base>
-        <tran loc="es">Calendario compartido</tran>
+        <tran loc="es-419">Calendario compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>Delete</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>W%@</Position>
       <TranslationSet>
         <base loc="en">W%@</base>
-        <tran loc="es">S%@</tran>
+        <tran loc="es-419">S%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>%@ invited you to a shared calendar.</Position>
       <TranslationSet>
         <base loc="en">%@ invited you to a shared calendar.</base>
-        <tran loc="es">%@ te ha invitado a un calendario compartido.</tran>
+        <tran loc="es-419">%@ te invitó a compartir un calendario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>%@ / %@</Position>
       <TranslationSet>
         <base loc="en">%@ / %@</base>
-        <tran loc="es">%@ / %@</tran>
+        <tran loc="es-419">%@/%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>Last Week</Position>
       <TranslationSet>
         <base loc="en">Last Week</base>
-        <tran loc="es">La semana pasada</tran>
+        <tran loc="es-419">La semana pasada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>Report Junk…</Position>
       <TranslationSet>
         <base loc="en">Report Junk…</base>
-        <tran loc="es">No deseado…</tran>
+        <tran loc="es-419">Reportar como no deseado…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>Canceled by %@</Position>
       <TranslationSet>
         <base loc="en">Canceled by %@</base>
-        <tran loc="es">Cancelado por %@</tran>
+        <tran loc="es-419">Cancelado por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>Accept</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -99,7 +99,7 @@
       <Position>INVITEE RESPONSES</Position>
       <TranslationSet>
         <base loc="en">INVITEE RESPONSES</base>
-        <tran loc="es">RESPUESTAS DE INVITADOS</tran>
+        <tran loc="es-419">RESPUESTAS DE INVITADOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -107,7 +107,7 @@
       <Position>Comment to Organizer</Position>
       <TranslationSet>
         <base loc="en">Comment to Organizer</base>
-        <tran loc="es">Comentario para el organizador</tran>
+        <tran loc="es-419">Comentario para el organizador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -115,7 +115,7 @@
       <Position>No Events You’ve Replied To</Position>
       <TranslationSet>
         <base loc="en">No Events You’ve Replied To</base>
-        <tran loc="es">No has respondido a ningún evento</tran>
+        <tran loc="es-419">Sin eventos respondidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -123,7 +123,7 @@
       <Position>Tomorrow</Position>
       <TranslationSet>
         <base loc="en">Tomorrow</base>
-        <tran loc="es">Mañana</tran>
+        <tran loc="es-419">Mañana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>Details</Position>
       <TranslationSet>
         <base loc="en">Details</base>
-        <tran loc="es">Detalles</tran>
+        <tran loc="es-419">Detalles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>Go to the Previous Day, Week, Month or Year</Position>
       <TranslationSet>
         <base loc="en">Go to the Previous Day, Week, Month or Year</base>
-        <tran loc="es">Retroceder un día, una semana, un mes o un año</tran>
+        <tran loc="es-419">Retroceder un día, una semana, un mes o un año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>Inbox (%@)</Position>
       <TranslationSet>
         <base loc="en">Inbox (%@)</base>
-        <tran loc="es">Entrada (%@)</tran>
+        <tran loc="es-419">Entrada (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>Go to Week View</Position>
       <TranslationSet>
         <base loc="en">Go to Week View</base>
-        <tran loc="es">Visualización por semanas</tran>
+        <tran loc="es-419">Ir a vista de semanas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>Go to Month View</Position>
       <TranslationSet>
         <base loc="en">Go to Month View</base>
-        <tran loc="es">Visualización por meses</tran>
+        <tran loc="es-419">Ir a vista de meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -171,7 +171,7 @@
       <Position>No Invitations</Position>
       <TranslationSet>
         <base loc="en">No Invitations</base>
-        <tran loc="es">No hay invitaciones</tran>
+        <tran loc="es-419">Sin invitaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -179,7 +179,7 @@
       <Position>Join “%@”?</Position>
       <TranslationSet>
         <base loc="en">Join “%@”?</base>
-        <tran loc="es">¿Unirte a “%@”?</tran>
+        <tran loc="es-419">¿Unirse a “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -187,7 +187,7 @@
       <Position>Inbox</Position>
       <TranslationSet>
         <base loc="en">Inbox</base>
-        <tran loc="es">Entrada</tran>
+        <tran loc="es-419">Entrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -195,7 +195,7 @@
       <Position>List</Position>
       <TranslationSet>
         <base loc="en">List</base>
-        <tran loc="es">Lista</tran>
+        <tran loc="es-419">Lista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -203,7 +203,7 @@
       <Position>Replied</Position>
       <TranslationSet>
         <base loc="en">Replied</base>
-        <tran loc="es">Respondido</tran>
+        <tran loc="es-419">Respondidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>(No Title)</Position>
       <TranslationSet>
         <base loc="en">(No Title)</base>
-        <tran loc="es">(Sin título)</tran>
+        <tran loc="es-419">(Sin título)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -219,7 +219,7 @@
       <Position>Yesterday</Position>
       <TranslationSet>
         <base loc="en">Yesterday</base>
-        <tran loc="es">Ayer</tran>
+        <tran loc="es-419">Ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -227,7 +227,7 @@
       <Position>No Events</Position>
       <TranslationSet>
         <base loc="en">No Events</base>
-        <tran loc="es">No hay eventos</tran>
+        <tran loc="es-419">No hay eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -235,7 +235,7 @@
       <Position>ends %@</Position>
       <TranslationSet>
         <base loc="en">ends %@</base>
-        <tran loc="es">termina a las %@</tran>
+        <tran loc="es-419">termina a las %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -243,7 +243,7 @@
       <Position>New Event</Position>
       <TranslationSet>
         <base loc="en">New Event</base>
-        <tran loc="es">Nuevo evento</tran>
+        <tran loc="es-419">Nuevo evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -251,7 +251,7 @@
       <Position>Untitled event</Position>
       <TranslationSet>
         <base loc="en">New Event</base>
-        <tran loc="es">Nuevo evento</tran>
+        <tran loc="es-419">Nuevo evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -259,7 +259,7 @@
       <Position>Go to the Next Day, Week, Month or Year</Position>
       <TranslationSet>
         <base loc="en">Go to the Next Day, Week, Month or Year</base>
-        <tran loc="es">Avanzar un día, una semana, un mes o un año</tran>
+        <tran loc="es-419">Avanzar al siguiente día, semana, mes o año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -267,7 +267,7 @@
       <Position>SHARED CALENDAR CHANGES</Position>
       <TranslationSet>
         <base loc="en">SHARED CALENDAR CHANGES</base>
-        <tran loc="es">CAMBIOS EN CALENDARIO COMPARTIDO</tran>
+        <tran loc="es-419">CAMBIOS EN CALENDARIOS COMPARTIDOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -275,7 +275,7 @@
       <Position>Switch delegate account…</Position>
       <TranslationSet>
         <base loc="en">Switch delegate account…</base>
-        <tran loc="es">Cambiar cuenta del delegado…</tran>
+        <tran loc="es-419">Cambiar cuenta de delegado…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -283,7 +283,7 @@
       <Position>Skype</Position>
       <TranslationSet>
         <base loc="en">Skype</base>
-        <tran loc="es">Skype</tran>
+        <tran loc="es-419">Skype</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -291,7 +291,7 @@
       <Position>Next Week</Position>
       <TranslationSet>
         <base loc="en">Next Week</base>
-        <tran loc="es">La semana que viene</tran>
+        <tran loc="es-419">Próxima semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -299,7 +299,7 @@
       <Position>No Event Selected</Position>
       <TranslationSet>
         <base loc="en">No Event Selected</base>
-        <tran loc="es">Ningún evento seleccionado</tran>
+        <tran loc="es-419">Ningún evento seleccionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -307,7 +307,7 @@
       <Position>Week</Position>
       <TranslationSet>
         <base loc="en">Week</base>
-        <tran loc="es">Semana</tran>
+        <tran loc="es-419">Semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -315,7 +315,7 @@
       <Position>%@ (Tomorrow)</Position>
       <TranslationSet>
         <base loc="en">%@ (Tomorrow)</base>
-        <tran loc="es">%@ (Mañana)</tran>
+        <tran loc="es-419">%@ (mañana)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -323,7 +323,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -331,7 +331,7 @@
       <Position>Cancel - show search animated</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -339,7 +339,7 @@
       <Position>Noon</Position>
       <TranslationSet>
         <base loc="en">Noon</base>
-        <tran loc="es">12:00</tran>
+        <tran loc="es-419">Mediodía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -347,7 +347,7 @@
       <Position>This Week</Position>
       <TranslationSet>
         <base loc="en">This Week</base>
-        <tran loc="es">Esta semana</tran>
+        <tran loc="es-419">Esta semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>Invited by %@</Position>
       <TranslationSet>
         <base loc="en">Invited by %@</base>
-        <tran loc="es">Invitación enviada por %@</tran>
+        <tran loc="es-419">Invitado por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -363,7 +363,7 @@
       <Position>%@, %@</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -371,7 +371,7 @@
       <Position>My Calendar</Position>
       <TranslationSet>
         <base loc="en">My Calendar</base>
-        <tran loc="es">Mi calendario</tran>
+        <tran loc="es-419">Mi calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -379,7 +379,7 @@
       <Position>Go to Day View</Position>
       <TranslationSet>
         <base loc="en">Go to Day View</base>
-        <tran loc="es">Visualización por días</tran>
+        <tran loc="es-419">Ir a vista de días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>Location changed</Position>
       <TranslationSet>
         <base loc="en">Location changed</base>
-        <tran loc="es">La ubicación ha cambiado</tran>
+        <tran loc="es-419">La ubicación cambió</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>Event Details</Position>
       <TranslationSet>
         <base loc="en">Event Details</base>
-        <tran loc="es">Detalles</tran>
+        <tran loc="es-419">Detalles del evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>Select the Next Event</Position>
       <TranslationSet>
         <base loc="en">Select the Next Event</base>
-        <tran loc="es">Seleccionar el evento siguiente</tran>
+        <tran loc="es-419">Seleccionar el evento siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>No More Events Today</Position>
       <TranslationSet>
         <base loc="en">No More Events Today</base>
-        <tran loc="es">No hay más eventos hoy</tran>
+        <tran loc="es-419">Sin más eventos para hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -419,7 +419,7 @@
       <Position>num_birthday_events_carplay_list</Position>
       <TranslationSet>
         <base loc="en">num_birthday_events_carplay_list</base>
-        <tran loc="es">num_birthday_events_carplay_list</tran>
+        <tran loc="es-419">num_birthday_events_carplay_list</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -427,7 +427,7 @@
       <Position>No Results</Position>
       <TranslationSet>
         <base loc="en">No Results</base>
-        <tran loc="es">Ningún resultado</tran>
+        <tran loc="es-419">Sin resultados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -435,7 +435,7 @@
       <Position>Go to Year View</Position>
       <TranslationSet>
         <base loc="en">Go to Year View</base>
-        <tran loc="es">Visualización por años</tran>
+        <tran loc="es-419">Ir a vista de años</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -443,7 +443,7 @@
       <Position>New</Position>
       <TranslationSet>
         <base loc="en">New</base>
-        <tran loc="es">Nuevo</tran>
+        <tran loc="es-419">Nuevos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -451,7 +451,7 @@
       <Position>%d more…</Position>
       <TranslationSet>
         <base loc="en">%d more…</base>
-        <tran loc="es">%d más…</tran>
+        <tran loc="es-419">%d más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -459,7 +459,7 @@
       <Position>Today</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -467,7 +467,7 @@
       <Position>1 of %d occurrences of the event “%@” conflicts with other events on your calendar. If you accept all occurrences, one will overlap with another scheduled event.</Position>
       <TranslationSet>
         <base loc="en">1 of %d occurrences of the event “%@” conflicts with other events on your calendar. If you accept all occurrences, one will overlap with another scheduled event.</base>
-        <tran loc="es">1 de las %d repeticiones del evento “%@” está en conflicto con otros eventos de tu calendario. Si aceptas todas las repeticiones, una de ellas se superpondrá a otro evento programado.</tran>
+        <tran loc="es-419">Una de %d repeticiones del evento “%@” se empalma con otros eventos de tu calendario. Si las aceptas todas, una se empalmará con otro evento programado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -475,7 +475,7 @@
       <Position>Invitation from</Position>
       <TranslationSet>
         <base loc="en">Invitation from</base>
-        <tran loc="es">Invitación de</tran>
+        <tran loc="es-419">Invitación de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -483,7 +483,7 @@
       <Position>Calendars</Position>
       <TranslationSet>
         <base loc="en">Calendars</base>
-        <tran loc="es">Calendarios</tran>
+        <tran loc="es-419">Calendarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -491,7 +491,7 @@
       <Position>Refresh Calendars</Position>
       <TranslationSet>
         <base loc="en">Refresh Calendars</base>
-        <tran loc="es">Actualizar calendarios</tran>
+        <tran loc="es-419">Actualizar calendarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -499,7 +499,7 @@
       <Position>Call In</Position>
       <TranslationSet>
         <base loc="en">Call In</base>
-        <tran loc="es">Llamar</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -507,7 +507,7 @@
       <Position>Show Today</Position>
       <TranslationSet>
         <base loc="en">Show Today</base>
-        <tran loc="es">Mostrar hoy</tran>
+        <tran loc="es-419">Mostrar hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +515,7 @@
       <Position>Accept All</Position>
       <TranslationSet>
         <base loc="en">Accept All</base>
-        <tran loc="es">Aceptar todo</tran>
+        <tran loc="es-419">Aceptar todas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +523,7 @@
       <Position>%@ (Today)</Position>
       <TranslationSet>
         <base loc="en">%@ (Today)</base>
-        <tran loc="es">%@ (Hoy)</tran>
+        <tran loc="es-419">%@ (hoy)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>INVITATIONS</Position>
       <TranslationSet>
         <base loc="en">INVITATIONS</base>
-        <tran loc="es">INVITACIONES</tran>
+        <tran loc="es-419">INVITACIONES</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>Siri Suggestions</Position>
       <TranslationSet>
         <base loc="en">Siri Suggestions</base>
-        <tran loc="es">Sugerencias de Siri</tran>
+        <tran loc="es-419">Sugerencias de Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>Select the Previous Event</Position>
       <TranslationSet>
         <base loc="en">Select the Previous Event</base>
-        <tran loc="es">Seleccionar el evento anterior</tran>
+        <tran loc="es-419">Seleccionar el evento anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>Month</Position>
       <TranslationSet>
         <base loc="en">Month</base>
-        <tran loc="es">Mes</tran>
+        <tran loc="es-419">Mes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>No Events Today</Position>
       <TranslationSet>
         <base loc="en">No Events Today</base>
-        <tran loc="es">No hay eventos hoy</tran>
+        <tran loc="es-419">Sin eventos para hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>all-day</Position>
       <TranslationSet>
         <base loc="en">all-day</base>
-        <tran loc="es">todo el día</tran>
+        <tran loc="es-419">todo el día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -579,7 +579,7 @@
       <Position>From: %@</Position>
       <TranslationSet>
         <base loc="en">From: %@</base>
-        <tran loc="es">De: %@</tran>
+        <tran loc="es-419">De: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -587,7 +587,7 @@
       <Position>Day</Position>
       <TranslationSet>
         <base loc="en">Day</base>
-        <tran loc="es">Día</tran>
+        <tran loc="es-419">Día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -595,7 +595,7 @@
       <Position>num_all_day_events_carplay_list</Position>
       <TranslationSet>
         <base loc="en">num_all_day_events_carplay_list</base>
-        <tran loc="es">num_all_day_events_carplay_list</tran>
+        <tran loc="es-419">num_all_day_events_carplay_list</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -603,7 +603,7 @@
       <Position>RE:</Position>
       <TranslationSet>
         <base loc="en">RE:</base>
-        <tran loc="es">RE:</tran>
+        <tran loc="es-419">RE:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -611,7 +611,7 @@
       <Position>Year</Position>
       <TranslationSet>
         <base loc="en">Year</base>
-        <tran loc="es">Año</tran>
+        <tran loc="es-419">Año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -619,7 +619,7 @@
       <Position>%d of %d occurrences of the event “%@” conflict with other events on your calendar. If you accept all occurrences, some will overlap with other scheduled events. </Position>
       <TranslationSet>
         <base loc="en">%d of %d occurrences of the event “%@” conflict with other events on your calendar. If you accept all occurrences, some will overlap with other scheduled events. </base>
-        <tran loc="es">%d de las %d repeticiones del evento “%@” están en conflicto con otros eventos de tu calendario. Si aceptas todas las repeticiones, algunas se superpondrán a otros eventos programados. </tran>
+        <tran loc="es-419">%d de %d repeticiones del evento “%@” se empalman con otros eventos de tu calendario. Si las aceptas todas, algunas se empalmarán con otros eventos programados. </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -627,7 +627,7 @@
       <Position>View Notifications:</Position>
       <TranslationSet>
         <base loc="en">View Notifications:</base>
-        <tran loc="es">Mostrar notificaciones:</tran>
+        <tran loc="es-419">Notificaciones de visualización:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -635,7 +635,7 @@
       <Position>Organized by %@</Position>
       <TranslationSet>
         <base loc="en">Organized by %@</base>
-        <tran loc="es">Organizado por %@</tran>
+        <tran loc="es-419">Organizado por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -643,7 +643,7 @@
       <Position>Keyboard shortcut - search</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -651,7 +651,7 @@
       <Position>Placeholder used in the search bar in the calendar occurrences list</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -659,7 +659,7 @@
       <Position>String displayed for the back button of the details of an event occurrence when in search mode</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -667,7 +667,7 @@
       <Position>Time changed to %@</Position>
       <TranslationSet>
         <base loc="en">Time changed to %@</base>
-        <tran loc="es">La hora ha cambiado a %@</tran>
+        <tran loc="es-419">Hora cambiada a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -675,7 +675,7 @@
       <Position>Accept Only Available</Position>
       <TranslationSet>
         <base loc="en">Accept Only Available</base>
-        <tran loc="es">Aceptar solo lo disponible</tran>
+        <tran loc="es-419">Aceptar sólo disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>Date changed to %@</Position>
       <TranslationSet>
         <base loc="en">Date changed to %@</base>
-        <tran loc="es">La fecha ha cambiado a %@</tran>
+        <tran loc="es-419">Fecha cambiada a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -691,7 +691,7 @@
       <Position>PROPOSED: %@</Position>
       <TranslationSet>
         <base loc="en">PROPOSED: %@</base>
-        <tran loc="es">PROPUESTA: %@</tran>
+        <tran loc="es-419">PROPUESTA: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -699,7 +699,7 @@
       <Position>This invitation is from an unknown sender.</Position>
       <TranslationSet>
         <base loc="en">This invitation is from an unknown sender.</base>
-        <tran loc="es">Esta invitación es de un remitente desconocido.</tran>
+        <tran loc="es-419">Esta invitación es de un remitente desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -707,7 +707,7 @@
       <Position>All %d occurrences of the event “%@” conflict with other events on your calendar. If you accept, all occurrences will overlap with other scheduled events.</Position>
       <TranslationSet>
         <base loc="en">All %d occurrences of the event “%@” conflict with other events on your calendar. If you accept, all occurrences will overlap with other scheduled events.</base>
-        <tran loc="es">Las %d repeticiones del evento “%@” están en conflicto con otros eventos de tu calendario. Si lo aceptas, todas estas repeticiones se superpondrán a otros eventos programados.</tran>
+        <tran loc="es-419">Todas las %d repeticiones del evento “%@” están en conflicto con otros eventos de tu calendario. Si aceptas, todas las repeticiones se empalmarán con otros eventos programados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -715,7 +715,7 @@
       <Position>“%@”</Position>
       <TranslationSet>
         <base loc="en">“%@”</base>
-        <tran loc="es">“%@”</tran>
+        <tran loc="es-419">“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -723,7 +723,7 @@
       <Position>Are you sure you want to accept this recurring event?</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to accept this recurring event?</base>
-        <tran loc="es">¿Seguro que quieres aceptar este evento recurrente?</tran>
+        <tran loc="es-419">¿Seguro que quieres aceptar este evento recurrente?</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -734,7 +734,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2005-2009 Apple Inc.</base>
-        <tran loc="es">Copyright © 2005-2009 Apple Inc.</tran>
+        <tran loc="es-419">Copyright © 2005-2009 Apple Inc.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -742,7 +742,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">MobileCal</base>
-        <tran loc="es">MobileCal</tran>
+        <tran loc="es-419">MobileCal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -750,7 +750,7 @@
       <Position>NSLocationWhenInUseUsageDescription</Position>
       <TranslationSet>
         <base loc="en">Your location is used to estimate travel times to events and improve location searches.</base>
-        <tran loc="es">Tu ubicación sirve para calcular los tiempos de viaje aproximados para ir a los eventos y para mejorar las búsquedas de ubicaciones.</tran>
+        <tran loc="es-419">Tu ubicación se utiliza para calcular tiempos de viaje y mejorar las búsquedas de ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -758,7 +758,7 @@
       <Position>ADD_EVENT</Position>
       <TranslationSet>
         <base loc="en">Add Event</base>
-        <tran loc="es">Añadir evento</tran>
+        <tran loc="es-419">Agregar evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -766,7 +766,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -774,7 +774,7 @@
       <Position>UISettingsDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -785,7 +785,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2005-2009 Apple Inc.</base>
-        <tran loc="es">Copyright © 2005-2009 Apple Inc.</tran>
+        <tran loc="es-419">Copyright © 2005-2009 Apple Inc.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -793,7 +793,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">MobileCal</base>
-        <tran loc="es">MobileCal</tran>
+        <tran loc="es-419">MobileCal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -801,7 +801,7 @@
       <Position>NSLocationWhenInUseUsageDescription</Position>
       <TranslationSet>
         <base loc="en">Your location is used to estimate travel times to events and improve location searches.</base>
-        <tran loc="es">Tu ubicación sirve para calcular los tiempos de viaje aproximados para ir a los eventos y para mejorar las búsquedas de ubicaciones.</tran>
+        <tran loc="es-419">Tu ubicación se utiliza para calcular tiempos de viaje y mejorar las búsquedas de ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -809,7 +809,7 @@
       <Position>ADD_EVENT</Position>
       <TranslationSet>
         <base loc="en">Add Event</base>
-        <tran loc="es">Añadir evento</tran>
+        <tran loc="es-419">Agregar evento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -817,7 +817,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -825,7 +825,7 @@
       <Position>UISettingsDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -836,7 +836,7 @@
       <Position>Enable write access specifier name</Position>
       <TranslationSet>
         <base loc="en">Enable Write Access</base>
-        <tran loc="es">Activar acceso de escritura</tran>
+        <tran loc="es-419">Permitir acceso de escritura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -844,7 +844,7 @@
       <Position>Show Invitee Declines</Position>
       <TranslationSet>
         <base loc="en">Show Invitee Declines</base>
-        <tran loc="es">Mostrar quién ha rechazado</tran>
+        <tran loc="es-419">Mostrar eventos declinados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -852,7 +852,7 @@
       <Position>Alerts based on walking time</Position>
       <TranslationSet>
         <base loc="en">Alerts based on walking time</base>
-        <tran loc="es">Avisos basados en el tiempo a pie</tran>
+        <tran loc="es-419">Alertas según el tiempo a pie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -860,7 +860,7 @@
       <Position>2 Week Sync Title</Position>
       <TranslationSet>
         <base loc="en">Events %@ Weeks Back</base>
-        <tran loc="es">De hace %@ sem.</tran>
+        <tran loc="es-419">De hace %@ sem.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -868,7 +868,7 @@
       <Position>2 Weeks Sync Title (iPad)</Position>
       <TranslationSet>
         <base loc="en">Events %@ Weeks Back</base>
-        <tran loc="es">De hace %@ sem.</tran>
+        <tran loc="es-419">De hace %@ semanas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -876,7 +876,7 @@
       <Position>Calendar Time Zone</Position>
       <TranslationSet>
         <base loc="en">Time Zone</base>
-        <tran loc="es">Zona horaria</tran>
+        <tran loc="es-419">Zona horaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -884,7 +884,7 @@
       <Position>Calendar Time Zone (iPad)</Position>
       <TranslationSet>
         <base loc="en">Time Zone</base>
-        <tran loc="es">Zona horaria</tran>
+        <tran loc="es-419">Zona horaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -892,7 +892,7 @@
       <Position>1 Month Sync Title Override (iPad)</Position>
       <TranslationSet>
         <base loc="en">One month sync override title (iPad)</base>
-        <tran loc="es">One month sync override title (iPad)</tran>
+        <tran loc="es-419">Título de invalidación de sincronización de un mes (iPad)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -900,7 +900,7 @@
       <Position>Default Calendar</Position>
       <TranslationSet>
         <base loc="en">Default Calendar</base>
-        <tran loc="es">Calendario por omisión</tran>
+        <tran loc="es-419">Predeterminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>Time to Leave</Position>
       <TranslationSet>
         <base loc="en">Time to Leave</base>
-        <tran loc="es">Hora de salida</tran>
+        <tran loc="es-419">Hora de salida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>Receive system notifications for this account. Notifications will always appear in the inbox.</Position>
       <TranslationSet>
         <base loc="en">Receive system notifications for this account. Notifications will always appear in the inbox.</base>
-        <tran loc="es">Recibe notificaciones del sistema para esta cuenta. Se mostrarán siempre en la bandeja de entrada.</tran>
+        <tran loc="es-419">Recibe notificaciones del sistema de esta cuenta, las cuales siempre se mostrarán en Entrada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -924,7 +924,7 @@
       <Position>Alerts based on driving time</Position>
       <TranslationSet>
         <base loc="en">Alerts based on driving time</base>
-        <tran loc="es">Avisos basados en el tiempo en coche</tran>
+        <tran loc="es-419">Alertas según el tiempo en auto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -932,7 +932,7 @@
       <Position>Automatic week start format</Position>
       <TranslationSet>
         <base loc="en">%1$@ (%2$@ default)</base>
-        <tran loc="es">%1$@ (por omisión en %2$@)</tran>
+        <tran loc="es-419">%1$@ (%2$@ predeterminado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -940,7 +940,7 @@
       <Position>Transit footer text</Position>
       <TranslationSet>
         <base loc="en">Note: Transit alerts may not be availible in your area.</base>
-        <tran loc="es">Nota: Puede que los avisos basados en el transporte público no estén disponibles en tu zona.</tran>
+        <tran loc="es-419">Nota: Puede que las alertas de transporte público no estén disponibles en tu área.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -948,7 +948,7 @@
       <Position>New button title</Position>
       <TranslationSet>
         <base loc="en">Add Person</base>
-        <tran loc="es">Añadir persona</tran>
+        <tran loc="es-419">Agregar persona</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -956,7 +956,7 @@
       <Position>Time Zone Override Text</Position>
       <TranslationSet>
         <base loc="en">The Time Zone Override always shows event dates and times in the selected time zone.\n\nWhen off, events will display according to the time zone of your current location.</base>
-        <tran loc="es">Con la prevalencia de zona horaria activada, las fechas y las horas de los eventos corresponden siempre a la zona horaria seleccionada.\n\nSi está desactivada, los eventos se adaptan a la zona horaria de tu ubicación actual.</tran>
+        <tran loc="es-419">La anulación de zona horaria siempre muestra las fechas y los horarios de los eventos basándose en la zona horaria seleccionada.\n\nSi se desactiva, los eventos se basarán en la zona horaria de tu ubicación actual.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -964,7 +964,7 @@
       <Position>Delegate Calendars</Position>
       <TranslationSet>
         <base loc="en">Delegate Calendars</base>
-        <tran loc="es">Delegar calendarios</tran>
+        <tran loc="es-419">Delegar calendarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -972,7 +972,7 @@
       <Position>3 Month Sync Title</Position>
       <TranslationSet>
         <base loc="en">Events %@ Months Back</base>
-        <tran loc="es">De hace %@ meses</tran>
+        <tran loc="es-419">De hace %@ meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -980,7 +980,7 @@
       <Position>3 Months Sync Title (iPad)</Position>
       <TranslationSet>
         <base loc="en">Events %@ Months Back</base>
-        <tran loc="es">De hace %@ meses</tran>
+        <tran loc="es-419">De hace %@ meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -988,7 +988,7 @@
       <Position>6 Month Sync Title</Position>
       <TranslationSet>
         <base loc="en">Events %@ Months Back</base>
-        <tran loc="es">De hace %@ meses</tran>
+        <tran loc="es-419">De hace %@ meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -996,7 +996,7 @@
       <Position>6 Months Sync Title (iPad)</Position>
       <TranslationSet>
         <base loc="en">Events %@ Months Back</base>
-        <tran loc="es">De hace %@ meses</tran>
+        <tran loc="es-419">De hace %@ meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1004,7 +1004,7 @@
       <Position>Accounts I can access group title</Position>
       <TranslationSet>
         <base loc="en">Accounts I can access:</base>
-        <tran loc="es">Cuentas a las que puedo acceder:</tran>
+        <tran loc="es-419">Cuentas a las que puedo acceder:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1012,7 +1012,7 @@
       <Position>1 Month Sync Title</Position>
       <TranslationSet>
         <base loc="en">Events %@ Month Back</base>
-        <tran loc="es">De hace %@ mes</tran>
+        <tran loc="es-419">De hace %@ mes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1020,7 +1020,7 @@
       <Position>1 Month Sync Title (iPad)</Position>
       <TranslationSet>
         <base loc="en">Events %@ Month Back</base>
-        <tran loc="es">De hace %@ mes</tran>
+        <tran loc="es-419">De hace %@ mes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1028,7 +1028,7 @@
       <Position>Week View Starts On Today</Position>
       <TranslationSet>
         <base loc="en">Week View Starts On Today</base>
-        <tran loc="es">La visualización de la semana empieza hoy</tran>
+        <tran loc="es-419">La vista de semanas empieza hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1036,7 +1036,7 @@
       <Position>Delegation first screen group title</Position>
       <TranslationSet>
         <base loc="en">Accounts supporting delegation</base>
-        <tran loc="es">Cuentas compatibles con la delegación</tran>
+        <tran loc="es-419">Cuentas compatibles con delegación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1044,7 +1044,7 @@
       <Position>All-Day Events</Position>
       <TranslationSet>
         <base loc="en">All-Day Events</base>
-        <tran loc="es">Eventos día entero</tran>
+        <tran loc="es-419">Eventos día entero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1052,7 +1052,7 @@
       <Position>Enable write access for delegate explanatory note (switch on)</Position>
       <TranslationSet>
         <base loc="en">This account can create, edit and delete events and calendars on your behalf.</base>
-        <tran loc="es">Esta cuenta puede crear, editar y eliminar eventos y calendarios en tu nombre.</tran>
+        <tran loc="es-419">Esta cuenta puede crear, editar o eliminar eventos y calendarios en tu nombre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1060,7 +1060,7 @@
       <Position>Sync Specifier Name</Position>
       <TranslationSet>
         <base loc="en">Sync</base>
-        <tran loc="es">Sincr. eventos</tran>
+        <tran loc="es-419">Sincr. eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1068,7 +1068,7 @@
       <Position>Sync Specifier Name (iPad)</Position>
       <TranslationSet>
         <base loc="en">Sync</base>
-        <tran loc="es">Sincronizar eventos</tran>
+        <tran loc="es-419">Sincronizar eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1076,7 +1076,7 @@
       <Position>Confirm delete delegate alert sheet cancel button</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1084,7 +1084,7 @@
       <Position>Default Alert Times</Position>
       <TranslationSet>
         <base loc="en">Default Alert Times</base>
-        <tran loc="es">Avisos por omisión</tran>
+        <tran loc="es-419">Alertas predeterminadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1092,7 +1092,7 @@
       <Position>Accounts with access to me explanatory note</Position>
       <TranslationSet>
         <base loc="en">Manage who has access to your calendars.</base>
-        <tran loc="es">Controla quién puede acceder a tus calendarios.</tran>
+        <tran loc="es-419">Administra quién tiene acceso a tus calendarios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1100,7 +1100,7 @@
       <Position>Enable write access for delegate explanatory note (switch off)</Position>
       <TranslationSet>
         <base loc="en">This account can view your calendars and the details of non-private events.</base>
-        <tran loc="es">Esta cuenta puede ver tus calendarios y los detalles de los eventos que no sean privados.</tran>
+        <tran loc="es-419">Esta cuenta puede ver tus calendarios y los detalles de los eventos que no son privados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1108,7 +1108,7 @@
       <Position>Location Suggestions</Position>
       <TranslationSet>
         <base loc="en">Location Suggestions</base>
-        <tran loc="es">Ubicaciones sugeridas</tran>
+        <tran loc="es-419">Ubicaciones sugeridas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1116,7 +1116,7 @@
       <Position>None Alert</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1124,7 +1124,7 @@
       <Position>Accounts with access to me group title</Position>
       <TranslationSet>
         <base loc="en">Allow access to my calendar:</base>
-        <tran loc="es">Permitir el acceso a mi calendario:</tran>
+        <tran loc="es-419">Permitir acceso a mi calendario:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1132,7 +1132,7 @@
       <Position>Accounts I can access explanatory note</Position>
       <TranslationSet>
         <base loc="en">Use the Calendar app to show or hide calendars for the accounts you have turned on.</base>
-        <tran loc="es">Usa la app Calendario para mostrar u ocultar calendarios para las cuentas que has activado.</tran>
+        <tran loc="es-419">Usa la app Calendario para mostrar u ocultar calendarios de las cuentas que hayas activado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1140,7 +1140,7 @@
       <Position>Should Override One Month Sync Title</Position>
       <TranslationSet>
         <base loc="en">false</base>
-        <tran loc="es">false</tran>
+        <tran loc="es-419">false</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1148,7 +1148,7 @@
       <Position>Should Override One Month Sync Title (iPad)</Position>
       <TranslationSet>
         <base loc="en">false</base>
-        <tran loc="es">false</tran>
+        <tran loc="es-419">false</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1156,7 +1156,7 @@
       <Position>Confirm delete delegate alert sheet delete button</Position>
       <TranslationSet>
         <base loc="en">Remove Delegate</base>
-        <tran loc="es">Eliminar delegado</tran>
+        <tran loc="es-419">Eliminar delegado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1164,7 +1164,7 @@
       <Position>Remove delegate name</Position>
       <TranslationSet>
         <base loc="en">Remove Delegate</base>
-        <tran loc="es">Eliminar delegado</tran>
+        <tran loc="es-419">Eliminar delegado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1172,7 +1172,7 @@
       <Position>No accounts I can access explanatory note</Position>
       <TranslationSet>
         <base loc="en">No accounts have granted you access to read or manage their calendars.</base>
-        <tran loc="es">Ninguna cuenta te ha dado acceso para leer o controlar sus calendarios.</tran>
+        <tran loc="es-419">Ninguna cuenta te ha dado acceso de lectura o para administrar sus calendarios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1180,7 +1180,7 @@
       <Position>No Limit</Position>
       <TranslationSet>
         <base loc="en">All Events</base>
-        <tran loc="es">Todos</tran>
+        <tran loc="es-419">Todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1188,7 +1188,7 @@
       <Position>No Limit (iPad)</Position>
       <TranslationSet>
         <base loc="en">All Events</base>
-        <tran loc="es">Todos</tran>
+        <tran loc="es-419">Todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1196,7 +1196,7 @@
       <Position>1 Month Sync Title Override</Position>
       <TranslationSet>
         <base loc="en">One month sync override title</base>
-        <tran loc="es">One month sync override title</tran>
+        <tran loc="es-419">Título de invalidación de sincronización de un mes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1204,7 +1204,7 @@
       <Position>Birthday Calendar</Position>
       <TranslationSet>
         <base loc="en">Birthdays</base>
-        <tran loc="es">Cumpleaños</tran>
+        <tran loc="es-419">Cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1212,7 +1212,7 @@
       <Position>Alternate Calendars</Position>
       <TranslationSet>
         <base loc="en">Alternate Calendars</base>
-        <tran loc="es">Calendarios alternativos</tran>
+        <tran loc="es-419">Calendarios alternativos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1220,7 +1220,7 @@
       <Position>Week Numbers</Position>
       <TranslationSet>
         <base loc="en">Week Numbers</base>
-        <tran loc="es">Números de semana</tran>
+        <tran loc="es-419">Números de semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1228,7 +1228,7 @@
       <Position>Format string for delegate search results</Position>
       <TranslationSet>
         <base loc="en">%@ (%@)</base>
-        <tran loc="es">%@ (%@)</tran>
+        <tran loc="es-419">%@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1236,7 +1236,7 @@
       <Position>Confirm delete delegate alert sheet description</Position>
       <TranslationSet>
         <base loc="en">Removing this delegate will remove their read and write access to your account.</base>
-        <tran loc="es">Si eliminas a este delegado, dejará de tener acceso de lectura y escritura en tu cuenta.</tran>
+        <tran loc="es-419">Eliminar este delegado le quitará el acceso de lectura y escritura de tu cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1244,7 +1244,7 @@
       <Position>Show Notifications</Position>
       <TranslationSet>
         <base loc="en">Show Notifications</base>
-        <tran loc="es">Mostrar notificaciones</tran>
+        <tran loc="es-419">Mostrar notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1252,7 +1252,7 @@
       <Position>On</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1260,7 +1260,7 @@
       <Position>View Only delegates will not receive notifications in the inbox or receive system notifications.</Position>
       <TranslationSet>
         <base loc="en">View Only delegates will not receive notifications in the inbox or receive system notifications.</base>
-        <tran loc="es">Los delegados de solo lectura no recibirán notificaciones en la bandeja de entrada ni recibirán notificaciones del sistema.</tran>
+        <tran loc="es-419">Sólo ver: los delegados no recibirán notificaciones en Entrada ni recibirán notificaciones del sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1268,7 +1268,7 @@
       <Position>Time Zone Override</Position>
       <TranslationSet>
         <base loc="en">Time Zone Override</base>
-        <tran loc="es">Prevalencia de zona horaria</tran>
+        <tran loc="es-419">Anulación de zona horaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1276,7 +1276,7 @@
       <Position>Time Zone Override (iPad)</Position>
       <TranslationSet>
         <base loc="en">Time Zone Override</base>
-        <tran loc="es">Prevalencia de zona horaria</tran>
+        <tran loc="es-419">Anulación de zona horaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1284,7 +1284,7 @@
       <Position>Time Zone Override Cell Title</Position>
       <TranslationSet>
         <base loc="en">Time Zone Override</base>
-        <tran loc="es">Prevalencia de zona horaria</tran>
+        <tran loc="es-419">Anulación de zona horaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1292,7 +1292,7 @@
       <Position>Time Zone Override Cell Title (iPad)</Position>
       <TranslationSet>
         <base loc="en">Time Zone Override</base>
-        <tran loc="es">Prevalencia de zona horaria</tran>
+        <tran loc="es-419">Anulación de zona horaria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1300,7 +1300,7 @@
       <Position>Alerts based on transit time</Position>
       <TranslationSet>
         <base loc="en">Alerts based on transit time</base>
-        <tran loc="es">Avisos basados en el tiempo en transporte público</tran>
+        <tran loc="es-419">Alertas según el tiempo en transporte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1308,7 +1308,7 @@
       <Position>Start Week On</Position>
       <TranslationSet>
         <base loc="en">Start Week On</base>
-        <tran loc="es">Iniciar la semana el</tran>
+        <tran loc="es-419">Iniciar la semana el</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1316,7 +1316,7 @@
       <Position>Timed Event</Position>
       <TranslationSet>
         <base loc="en">Events</base>
-        <tran loc="es">Eventos</tran>
+        <tran loc="es-419">Eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1324,7 +1324,7 @@
       <Position>Show Delegation Calendar</Position>
       <TranslationSet>
         <base loc="en">Show Delegation Calendar</base>
-        <tran loc="es">Mostrar calendario de delegación</tran>
+        <tran loc="es-419">Mostrar calendario delegado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1332,7 +1332,7 @@
       <Position>Alternate Calendar Off</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1340,7 +1340,7 @@
       <Position>Off</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1348,7 +1348,7 @@
       <Position>Time Zone Region Off</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1356,7 +1356,7 @@
       <Position>Time Zone Support Off</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1367,7 +1367,7 @@
       <Position>yfqVJY</Position>
       <TranslationSet>
         <base loc="en">Create '${title}' on ${startDate}</base>
-        <tran loc="es">Crear '${title}' el ${startDate}</tran>
+        <tran loc="es-419">Crear "${title}" en ${startDate}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1375,7 +1375,7 @@
       <Position>KrJvqO</Position>
       <TranslationSet>
         <base loc="en">Create '${title}'</base>
-        <tran loc="es">Crear '${title}'</tran>
+        <tran loc="es-419">Crear "${title}"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1383,7 +1383,7 @@
       <Position>euF8RG</Position>
       <TranslationSet>
         <base loc="en">Create '${title}' from ${startDate} until ${endDate}</base>
-        <tran loc="es">Crear '${title}' del ${startDate} al ${endDate}</tran>
+        <tran loc="es-419">Crear "${title}" del ${startDate} hasta el ${endDate}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1391,7 +1391,7 @@
       <Position>VEEOft</Position>
       <TranslationSet>
         <base loc="en">Create '${title}' from ${startDate} until ${endDate} at ${locationName}</base>
-        <tran loc="es">Crear '${title}' del ${startDate} al ${endDate} en ${locationName}</tran>
+        <tran loc="es-419">Crear "${title}" del ${startDate} hasta el ${endDate} en ${locationName}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1399,7 +1399,7 @@
       <Position>LdBf4T</Position>
       <TranslationSet>
         <base loc="en">Create an event on ${startDate}</base>
-        <tran loc="es">Crear un evento el ${startDate}</tran>
+        <tran loc="es-419">Crear un evento en ${startDate}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1407,7 +1407,7 @@
       <Position>UivSLd</Position>
       <TranslationSet>
         <base loc="en">Create a new calendar event</base>
-        <tran loc="es">Crear un nuevo evento de calendario</tran>
+        <tran loc="es-419">Crear un nuevo evento del calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1415,7 +1415,7 @@
       <Position>aQAqlH</Position>
       <TranslationSet>
         <base loc="en">Create '${title}' on ${startDate} at ${locationName}</base>
-        <tran loc="es">Crear '${title}' el ${startDate} en ${locationName}</tran>
+        <tran loc="es-419">Crear "${title}" el ${startDate} en ${locationName}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1423,7 +1423,7 @@
       <Position>QpzB4u</Position>
       <TranslationSet>
         <base loc="en">Create an event at ${locationName}</base>
-        <tran loc="es">Crear un evento en ${locationName}</tran>
+        <tran loc="es-419">Crear un evento en ${locationName}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1431,7 +1431,7 @@
       <Position>8t9Plf</Position>
       <TranslationSet>
         <base loc="en">Create an event on ${startDate} until ${endDate} at ${locationName}</base>
-        <tran loc="es">Crear un evento el ${startDate} hasta el ${endDate} en ${locationName}</tran>
+        <tran loc="es-419">Crear un evento el ${startDate} hasta el ${endDate} en ${locationName}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1439,7 +1439,7 @@
       <Position>YhFyuG</Position>
       <TranslationSet>
         <base loc="en">Create an event on ${startDate} until ${endDate}</base>
-        <tran loc="es">Crear un evento el ${startDate} hasta el ${endDate}</tran>
+        <tran loc="es-419">Crear un evento el ${startDate} hasta el ${endDate}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1447,7 +1447,7 @@
       <Position>M47L4e</Position>
       <TranslationSet>
         <base loc="en">Create an event on ${startDate} at ${locationName}</base>
-        <tran loc="es">Crear un evento el ${startDate} en ${locationName}</tran>
+        <tran loc="es-419">Crear un evento el ${startDate} en ${locationName}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1455,7 +1455,7 @@
       <Position>ZLyOIb</Position>
       <TranslationSet>
         <base loc="en">Create '${title}' at ${locationName}</base>
-        <tran loc="es">Crear '${title}' en ${locationName}</tran>
+        <tran loc="es-419">Crear "${title}" en ${locationName}</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1466,7 +1466,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1477,7 +1477,7 @@
       <Position>UNINSTALL_ICON_BODY_DELETE_DATA</Position>
       <TranslationSet>
         <base loc="en">Deleting this app will not delete your calendars or calendar data.</base>
-        <tran loc="es">Si eliminas esta app, no se eliminarán tus calendarios ni sus datos.</tran>
+        <tran loc="es-419">Borrar esta app no eliminará tus calendarios ni sus datos.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1488,7 +1488,7 @@
       <Position>No Events</Position>
       <TranslationSet>
         <base loc="en">No Events</base>
-        <tran loc="es">No hay eventos</tran>
+        <tran loc="es-419">No hay eventos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1499,7 +1499,7 @@
       <Position>%@ and %@ (end format)</Position>
       <TranslationSet>
         <base loc="en">%@ and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1507,7 +1507,7 @@
       <Position>%@ and %@ (two item format)</Position>
       <TranslationSet>
         <base loc="en">%@ and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1515,7 +1515,7 @@
       <Position>%@, %@ (middle format)</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1523,7 +1523,7 @@
       <Position>%@, %@ (start format)</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1531,7 +1531,7 @@
       <Position>%1$@ with %2$@</Position>
       <TranslationSet>
         <base loc="en">%1$@ with %2$@</base>
-        <tran loc="es">%1$@ con %2$@</tran>
+        <tran loc="es-419">%1$@ con %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1539,7 +1539,7 @@
       <Position>Calendar</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
   </File>

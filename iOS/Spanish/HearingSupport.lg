@@ -8,7 +8,7 @@
       <Position>GA_Abbrevation</Position>
       <TranslationSet>
         <base loc="en">GA</base>
-        <tran loc="es">GA</tran>
+        <tran loc="es-419">Adelante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>PLSHLD_Abbrevation</Position>
       <TranslationSet>
         <base loc="en">PLS HLD</base>
-        <tran loc="es">Un momento</tran>
+        <tran loc="es-419">PLS HLD</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>GATOSK_Abbrevation</Position>
       <TranslationSet>
         <base loc="en">GA TO SK</base>
-        <tran loc="es">Adiós. Cuelgo.</tran>
+        <tran loc="es-419">GA TO SK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>GA_Definition</Position>
       <TranslationSet>
         <base loc="en">Go Ahead</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Adelante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>OPR_Definition</Position>
       <TranslationSet>
         <base loc="en">Operator</base>
-        <tran loc="es">Operador</tran>
+        <tran loc="es-419">Operador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>PLSHLD_Definition</Position>
       <TranslationSet>
         <base loc="en">Please Hold</base>
-        <tran loc="es">Espera, por favor</tran>
+        <tran loc="es-419">Espera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>SKSK_Abbrevation</Position>
       <TranslationSet>
         <base loc="en">SKSK</base>
-        <tran loc="es">SKSK</tran>
+        <tran loc="es-419">Terminé. Adiós.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>GATOSK_Definition</Position>
       <TranslationSet>
         <base loc="en">Go ahead or ready to hang up</base>
-        <tran loc="es">Continuar o colgar</tran>
+        <tran loc="es-419">Adelante o listo para colgar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>OPR_Abbrevation</Position>
       <TranslationSet>
         <base loc="en">OPR</base>
-        <tran loc="es">OPR</tran>
+        <tran loc="es-419">OPR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>SK_Abbrevation</Position>
       <TranslationSet>
         <base loc="en">SK</base>
-        <tran loc="es">SK</tran>
+        <tran loc="es-419">Terminé</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>SKSK_Definition</Position>
       <TranslationSet>
         <base loc="en">Hanging up now</base>
-        <tran loc="es">Colgando</tran>
+        <tran loc="es-419">Voy a colgar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>SK_Definition</Position>
       <TranslationSet>
         <base loc="en">Ready to hang up</base>
-        <tran loc="es">Colgar</tran>
+        <tran loc="es-419">Listo para colgar</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -14,7 +14,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">AssistiveTouch</base>
-        <tran loc="es">AssistiveTouch</tran>
+        <tran loc="es-419">AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -31,7 +31,7 @@
       <Position>TOGGLE_EARBUD_SWITCH_OFF</Position>
       <TranslationSet>
         <base loc="en">Disable AirPod Switch</base>
-        <tran loc="es">Desact. conmu\U00ADtador AirPod</tran>
+        <tran loc="es-419">Desactivar botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -39,7 +39,7 @@
       <Position>TOGGLE_EARBUD_SWITCH_ON</Position>
       <TranslationSet>
         <base loc="en">Enable AirPod Switch</base>
-        <tran loc="es">Activar conmu\U00ADtador AirPod</tran>
+        <tran loc="es-419">Activar botón</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -50,7 +50,7 @@
       <Position>MediaControls-NextTrack</Position>
       <TranslationSet>
         <base loc="en">Next Chapter</base>
-        <tran loc="es">Capítulo siguiente</tran>
+        <tran loc="es-419">Siguiente capítulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -58,7 +58,7 @@
       <Position>FREEHAND_ROTATING</Position>
       <TranslationSet>
         <base loc="en">Rotating</base>
-        <tran loc="es">Girando</tran>
+        <tran loc="es-419">Girando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -66,7 +66,7 @@
       <Position>Remote-Exit</Position>
       <TranslationSet>
         <base loc="en">Exit Remote</base>
-        <tran loc="es">Salir del mando</tran>
+        <tran loc="es-419">Salir de Remote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -74,7 +74,7 @@
       <Position>CONFIRM_DRAG</Position>
       <TranslationSet>
         <base loc="en">Drag</base>
-        <tran loc="es">Arrastrar</tran>
+        <tran loc="es-419">Arrastrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -82,7 +82,7 @@
       <Position>DRAG_AND_DROP</Position>
       <TranslationSet>
         <base loc="en">Drag</base>
-        <tran loc="es">Arrastrar</tran>
+        <tran loc="es-419">Arrastrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -90,7 +90,7 @@
       <Position>MOUSE_PRIMARY_CLICK</Position>
       <TranslationSet>
         <base loc="en">Single-Tap</base>
-        <tran loc="es">Pulsación simple</tran>
+        <tran loc="es-419">Tocar una vez</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -98,7 +98,7 @@
       <Position>FREEHAND_PATH</Position>
       <TranslationSet>
         <base loc="en">Path</base>
-        <tran loc="es">Trazado</tran>
+        <tran loc="es-419">Ruta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -106,7 +106,7 @@
       <Position>SOS</Position>
       <TranslationSet>
         <base loc="en">SOS</base>
-        <tran loc="es">SOS</tran>
+        <tran loc="es-419">SOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -114,7 +114,7 @@
       <Position>SOS_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">SOS</base>
-        <tran loc="es">SOS</tran>
+        <tran loc="es-419">SOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -122,7 +122,7 @@
       <Position>EDIT_DISABLE_SELECT</Position>
       <TranslationSet>
         <base loc="en">Disable\nSelection</base>
-        <tran loc="es">Desactivar\nselección</tran>
+        <tran loc="es-419">Desactivar\nselección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -130,7 +130,7 @@
       <Position>Scroll-Up</Position>
       <TranslationSet>
         <base loc="en">Scroll Up</base>
-        <tran loc="es">Desplazar arriba</tran>
+        <tran loc="es-419">Desplazar arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -138,7 +138,7 @@
       <Position>MediaControls-SkipForward</Position>
       <TranslationSet>
         <base loc="en">Seek Frame Forward</base>
-        <tran loc="es">Buscar fotograma hacia adelante</tran>
+        <tran loc="es-419">Buscar cuadro adelante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -146,7 +146,7 @@
       <Position>DRAWING</Position>
       <TranslationSet>
         <base loc="en">Freehand</base>
-        <tran loc="es">A mano</tran>
+        <tran loc="es-419">A mano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -154,7 +154,7 @@
       <Position>DrawingGesture</Position>
       <TranslationSet>
         <base loc="en">Freehand</base>
-        <tran loc="es">A mano</tran>
+        <tran loc="es-419">A mano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -164,7 +164,8 @@
       <Position>DOUBLE_TAP</Position>
       <TranslationSet>
         <base loc="en">Double Tap</base>
-        <tran loc="es">Pulsar\ndos veces</tran>
+        <tran loc="es-419">Tocar 2
+veces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -172,7 +173,7 @@
       <Position>DOUBLE_TAP_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Double Tap</base>
-        <tran loc="es">Pulsar dos veces</tran>
+        <tran loc="es-419">Tocar dos veces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -180,7 +181,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -188,7 +189,7 @@
       <Position>DEVICE</Position>
       <TranslationSet>
         <base loc="en">Device</base>
-        <tran loc="es">Dispositivo</tran>
+        <tran loc="es-419">Dispos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -196,7 +197,7 @@
       <Position>SCAT_QUICK_ITEM_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Device</base>
-        <tran loc="es">Dispositivo</tran>
+        <tran loc="es-419">Dispos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -204,7 +205,7 @@
       <Position>SCREEN_INVALID</Position>
       <TranslationSet>
         <base loc="en">Triple-click the home button to stop Switch Control.</base>
-        <tran loc="es">Pulsa tres veces el botón de inicio para detener el control por botón.</tran>
+        <tran loc="es-419">Haz clic tres veces en el botón de Inicio para detener el Control por botón.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -212,7 +213,7 @@
       <Position>CANCEL_DRAG</Position>
       <TranslationSet>
         <base loc="en">Cancel Drag</base>
-        <tran loc="es">Cancelar acción de arrastrar</tran>
+        <tran loc="es-419">Cancelar arrastre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -220,7 +221,7 @@
       <Position>KEYBOARD</Position>
       <TranslationSet>
         <base loc="en">Keyboard</base>
-        <tran loc="es">Teclado</tran>
+        <tran loc="es-419">Teclado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +229,7 @@
       <Position>element.mixed.state</Position>
       <TranslationSet>
         <base loc="en">Mixed</base>
-        <tran loc="es">Mixto</tran>
+        <tran loc="es-419">Mixto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -236,7 +237,7 @@
       <Position>TAP</Position>
       <TranslationSet>
         <base loc="en">Tap</base>
-        <tran loc="es">Pulsar</tran>
+        <tran loc="es-419">Tocar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +245,7 @@
       <Position>SIDE_APP_MENU_TITLE</Position>
       <TranslationSet>
         <base loc="en">Multi-\ntasking</base>
-        <tran loc="es">Multi-\ntarea</tran>
+        <tran loc="es-419">Multitarea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +253,7 @@
       <Position>MediaControls-PlayPause</Position>
       <TranslationSet>
         <base loc="en">Play / Pause</base>
-        <tran loc="es">Reproducir/Pausa</tran>
+        <tran loc="es-419">Reproducir/pausa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -260,7 +261,7 @@
       <Position>VOICE_CONTROL</Position>
       <TranslationSet>
         <base loc="en">Classic Voice Control</base>
-        <tran loc="es">Control por voz clásico</tran>
+        <tran loc="es-419">Control por voz clásico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -268,7 +269,7 @@
       <Position>VOLUME_DOWN_ASSISTIVE_TOUCH_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Volume Down</base>
-        <tran loc="es">Bajar volumen</tran>
+        <tran loc="es-419">Bajar volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -276,7 +277,7 @@
       <Position>FREEHAND_MOVE_MENU</Position>
       <TranslationSet>
         <base loc="en">Move Menu</base>
-        <tran loc="es">Mover menú</tran>
+        <tran loc="es-419">Mover menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -284,7 +285,7 @@
       <Position>FREEHAND_BEND_LEFT_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Bend\nLeft</base>
-        <tran loc="es">Curvar\na izquierda</tran>
+        <tran loc="es-419">Doblar a\nla izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -292,7 +293,7 @@
       <Position>CAMERA_NONE</Position>
       <TranslationSet>
         <base loc="en">Cannot detect your face.</base>
-        <tran loc="es">No se puede detectar la cara.</tran>
+        <tran loc="es-419">No se puede detectar la cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -300,7 +301,7 @@
       <Position>element.heading</Position>
       <TranslationSet>
         <base loc="en">Heading</base>
-        <tran loc="es">Encabezamiento</tran>
+        <tran loc="es-419">Encabezado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -308,7 +309,7 @@
       <Position>PASS_THROUGH</Position>
       <TranslationSet>
         <base loc="en">Pass Through to App</base>
-        <tran loc="es">Ir a la app</tran>
+        <tran loc="es-419">Pasar a la app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -316,7 +317,7 @@
       <Position>MEDIA_CONTROLS</Position>
       <TranslationSet>
         <base loc="en">Media Controls</base>
-        <tran loc="es">Controles multimedia</tran>
+        <tran loc="es-419">Controles de reproducción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -324,7 +325,7 @@
       <Position>DWELL</Position>
       <TranslationSet>
         <base loc="en">Dwell</base>
-        <tran loc="es">Permanencia</tran>
+        <tran loc="es-419">Permanencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -332,7 +333,7 @@
       <Position>GesturePerformArea</Position>
       <TranslationSet>
         <base loc="en">Gesture control</base>
-        <tran loc="es">Control mediante gestos</tran>
+        <tran loc="es-419">Control mediante gestos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -340,7 +341,7 @@
       <Position>DWELL_UNLOCK_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Enable Fallback</base>
-        <tran loc="es">Activar Autorrevertir</tran>
+        <tran loc="es-419">Activar autorrevertir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -348,7 +349,7 @@
       <Position>EXIT</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -356,7 +357,7 @@
       <Position>DECREMENT</Position>
       <TranslationSet>
         <base loc="en">Decrement</base>
-        <tran loc="es">Reducir</tran>
+        <tran loc="es-419">Reducción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +366,7 @@
       <Position>NOTIFICATION_CENTER</Position>
       <TranslationSet>
         <base loc="en">Notifications</base>
-        <tran loc="es">Notificaciones</tran>
+        <tran loc="es-419">Notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +374,7 @@
       <Position>NOTIFICATION_CENTER_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Notifications</base>
-        <tran loc="es">Notificaciones</tran>
+        <tran loc="es-419">Notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +382,7 @@
       <Position>FREEHAND_ROTATE_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Rotate\nPath</base>
-        <tran loc="es">Girar\ntrazado</tran>
+        <tran loc="es-419">Girar\nruta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +390,7 @@
       <Position>FREEHAND_MOVE_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Move\nCursor</base>
-        <tran loc="es">Mover\ncursor</tran>
+        <tran loc="es-419">Mover\ncursor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +398,7 @@
       <Position>GROUP</Position>
       <TranslationSet>
         <base loc="en">Group</base>
-        <tran loc="es">Grupo</tran>
+        <tran loc="es-419">Grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +406,7 @@
       <Position>DWELL_PAUSE</Position>
       <TranslationSet>
         <base loc="en">Pause\nDwell</base>
-        <tran loc="es">Pausar\nla permanencia</tran>
+        <tran loc="es-419">Pausar\npermanencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +414,7 @@
       <Position>Settings-Speed-Up</Position>
       <TranslationSet>
         <base loc="en">Speed\nUp</base>
-        <tran loc="es">Más\nrápido</tran>
+        <tran loc="es-419">Más\nrápido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +422,7 @@
       <Position>AUTOSCROLL</Position>
       <TranslationSet>
         <base loc="en">Autoscroll</base>
-        <tran loc="es">Desplazamiento automático</tran>
+        <tran loc="es-419">Desplazamiento automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +430,7 @@
       <Position>FREEHAND_ROTATE_CW_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">CW</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Hacia la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -437,7 +438,7 @@
       <Position>FLICK_RIGHT</Position>
       <TranslationSet>
         <base loc="en">Flick Right</base>
-        <tran loc="es">Deslizar a la derecha</tran>
+        <tran loc="es-419">Deslizar rápidamente hacia la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -445,7 +446,7 @@
       <Position>DECREASE_ZOOM</Position>
       <TranslationSet>
         <base loc="en">Decrease\nZoom</base>
-        <tran loc="es">Reducir\nzoom</tran>
+        <tran loc="es-419">Reducir\nzoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -453,7 +454,7 @@
       <Position>Position-Bottom-Right</Position>
       <TranslationSet>
         <base loc="en">Bottom Right</base>
-        <tran loc="es">Abajo derecha</tran>
+        <tran loc="es-419">Abajo derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -461,7 +462,7 @@
       <Position>FREEHAND_ROTATE_90_CW_SPOKEN</Position>
       <TranslationSet>
         <base loc="en">Rotate %@ Degrees Clockwise</base>
-        <tran loc="es">Girar %@ grados hacia la derecha</tran>
+        <tran loc="es-419">Girar %@ ° hacia la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -469,7 +470,7 @@
       <Position>Settings-Slow-Down</Position>
       <TranslationSet>
         <base loc="en">Slow\nDown</base>
-        <tran loc="es">Más\ndespacio</tran>
+        <tran loc="es-419">Más\ndespacio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -477,7 +478,7 @@
       <Position>GESTURES</Position>
       <TranslationSet>
         <base loc="en">Gestures</base>
-        <tran loc="es">Gestos</tran>
+        <tran loc="es-419">Gestos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -485,7 +486,7 @@
       <Position>SCAT_QUICK_ITEM_GESTURES</Position>
       <TranslationSet>
         <base loc="en">Gestures</base>
-        <tran loc="es">Gestos</tran>
+        <tran loc="es-419">Gestos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -493,7 +494,7 @@
       <Position>element.image</Position>
       <TranslationSet>
         <base loc="en">Image</base>
-        <tran loc="es">Imagen</tran>
+        <tran loc="es-419">Imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -501,7 +502,7 @@
       <Position>EDIT_SELECT_WORD</Position>
       <TranslationSet>
         <base loc="en">Select Word</base>
-        <tran loc="es">Seleccionar palabra</tran>
+        <tran loc="es-419">Seleccionar palabra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -509,7 +510,7 @@
       <Position>CONTROL_CENTER</Position>
       <TranslationSet>
         <base loc="en">Control\nCenter</base>
-        <tran loc="es">Centro de\ncontrol</tran>
+        <tran loc="es-419">Centro de\ncontrol</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -517,7 +518,7 @@
       <Position>Device-Control-Center</Position>
       <TranslationSet>
         <base loc="en">Control\nCenter</base>
-        <tran loc="es">Centro de\ncontrol</tran>
+        <tran loc="es-419">Centro de\ncontrol</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -525,7 +526,7 @@
       <Position>MUTE</Position>
       <TranslationSet>
         <base loc="en">Mute</base>
-        <tran loc="es">Silenciar</tran>
+        <tran loc="es-419">Silenciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -533,7 +534,7 @@
       <Position>PIN_APP_RIGHT</Position>
       <TranslationSet>
         <base loc="en">Pin New App\non Right</base>
-        <tran loc="es">Anclar nueva\napp a la derecha</tran>
+        <tran loc="es-419">Anclar app nueva\na la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -541,7 +542,7 @@
       <Position>SEARCHING</Position>
       <TranslationSet>
         <base loc="en">Searching…</base>
-        <tran loc="es">Buscando…</tran>
+        <tran loc="es-419">Buscando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -549,7 +550,7 @@
       <Position>ORIENTATION_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Rotate Screen</base>
-        <tran loc="es">Girar pantalla</tran>
+        <tran loc="es-419">Girar pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -557,7 +558,7 @@
       <Position>CustomGesturesMenu</Position>
       <TranslationSet>
         <base loc="en">Saved</base>
-        <tran loc="es">Guardados</tran>
+        <tran loc="es-419">Guardados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -565,7 +566,7 @@
       <Position>ADD_RECENT</Position>
       <TranslationSet>
         <base loc="en">Add\nRecent</base>
-        <tran loc="es">Añadir\nreciente</tran>
+        <tran loc="es-419">Agregar\nreciente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +574,7 @@
       <Position>CHOOSE_FLICK_END_POINT</Position>
       <TranslationSet>
         <base loc="en">Select the place where the flick will end.</base>
-        <tran loc="es">Selecciona el lugar en el que acabará el deslizamiento.</tran>
+        <tran loc="es-419">Selecciona el lugar en el que acabará el deslizamiento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -581,7 +582,7 @@
       <Position>POTENTIAL_SLAVE_MESSAGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Ready to be controlled by %@.</base>
-        <tran loc="es">Listo para ser controlado por %@.</tran>
+        <tran loc="es-419">Listo para que %@ lo controle.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -589,7 +590,7 @@
       <Position>FREEHAND_MOVING</Position>
       <TranslationSet>
         <base loc="en">Moving</base>
-        <tran loc="es">Moviendo</tran>
+        <tran loc="es-419">Moviendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -597,7 +598,7 @@
       <Position>Remote-VolumeDown</Position>
       <TranslationSet>
         <base loc="en">Decrease Volume</base>
-        <tran loc="es">Reducir volumen</tran>
+        <tran loc="es-419">Reducir volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -605,7 +606,7 @@
       <Position>VOLUME_DOWN_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Decrease Volume</base>
-        <tran loc="es">Reducir volumen</tran>
+        <tran loc="es-419">Reducir volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -613,7 +614,7 @@
       <Position>Scroll-Down</Position>
       <TranslationSet>
         <base loc="en">Scroll Down</base>
-        <tran loc="es">Desplazar abajo</tran>
+        <tran loc="es-419">Desplazar abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -621,7 +622,7 @@
       <Position>FREEHAND_ROTATE_CCW_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Rotate\nCCW</base>
-        <tran loc="es">Girar a\nizquierda</tran>
+        <tran loc="es-419">Girar\na la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -629,7 +630,7 @@
       <Position>Scroll-Auto</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -637,7 +638,7 @@
       <Position>FREEHAND_STOP_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Stop\n%@</base>
-        <tran loc="es">Detener\n%@</tran>
+        <tran loc="es-419">Detener\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -645,7 +646,7 @@
       <Position>START_DICTATION</Position>
       <TranslationSet>
         <base loc="en">Start\nDictation</base>
-        <tran loc="es">Iniciar\ndictado</tran>
+        <tran loc="es-419">Iniciar\ndictado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -653,7 +654,7 @@
       <Position>EDIT_SELECT_NONE</Position>
       <TranslationSet>
         <base loc="en">Select None</base>
-        <tran loc="es">No seleccionar nada</tran>
+        <tran loc="es-419">No seleccionar nada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -661,7 +662,7 @@
       <Position>MediaControls-Rewind</Position>
       <TranslationSet>
         <base loc="en">Rewind</base>
-        <tran loc="es">Retroceso</tran>
+        <tran loc="es-419">Retroceder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -669,7 +670,7 @@
       <Position>ESCAPE</Position>
       <TranslationSet>
         <base loc="en">Escape</base>
-        <tran loc="es">Esc</tran>
+        <tran loc="es-419">Esc</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -677,7 +678,7 @@
       <Position>FREEHAND_BEND_RIGHT_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Bend Right</base>
-        <tran loc="es">Curvar a derecha</tran>
+        <tran loc="es-419">Doblar a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -685,7 +686,7 @@
       <Position>FREEHAND_STRAIGHT_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Straight</base>
-        <tran loc="es">Recto</tran>
+        <tran loc="es-419">Recto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -693,7 +694,7 @@
       <Position>APPLE_PAY</Position>
       <TranslationSet>
         <base loc="en">Pay</base>
-        <tran loc="es">Pay</tran>
+        <tran loc="es-419">Pay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -701,7 +702,7 @@
       <Position>APPLE_PAY_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Pay</base>
-        <tran loc="es">Pay</tran>
+        <tran loc="es-419">Pay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -709,7 +710,7 @@
       <Position>MediaControls-FastForward</Position>
       <TranslationSet>
         <base loc="en">Forward</base>
-        <tran loc="es">Avance</tran>
+        <tran loc="es-419">Adelante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -717,7 +718,7 @@
       <Position>REFINE-SELECTION</Position>
       <TranslationSet>
         <base loc="en">Refine Selection</base>
-        <tran loc="es">Afinar selección</tran>
+        <tran loc="es-419">Afinar selección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -725,7 +726,7 @@
       <Position>DISMISS_AUTOCORRECTION</Position>
       <TranslationSet>
         <base loc="en">Dismiss Correction</base>
-        <tran loc="es">Descartar corrección</tran>
+        <tran loc="es-419">Ignorar corrección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -733,7 +734,7 @@
       <Position>FREEHAND_AUTO_LIFT_STATE</Position>
       <TranslationSet>
         <base loc="en">Auto Lift:\n%@</base>
-        <tran loc="es">Elevación:\n%@</tran>
+        <tran loc="es-419">Elevación:\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -741,7 +742,7 @@
       <Position>DWELL_PAUSE_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Pause Dwell</base>
-        <tran loc="es">Pausar la permanencia</tran>
+        <tran loc="es-419">Pausar permanencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -749,7 +750,7 @@
       <Position>Position-Bottom</Position>
       <TranslationSet>
         <base loc="en">Bottom</base>
-        <tran loc="es">Abajo</tran>
+        <tran loc="es-419">Abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -757,7 +758,7 @@
       <Position>GROUP_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">%1$@ through %2$@</base>
-        <tran loc="es">Del %1$@ al %2$@</tran>
+        <tran loc="es-419">Del %1$@ al %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -765,7 +766,7 @@
       <Position>SPOTLIGHT_SEARCH</Position>
       <TranslationSet>
         <base loc="en">Spotlight Search</base>
-        <tran loc="es">Búsqueda Spotlight</tran>
+        <tran loc="es-419">Búsqueda en Spotlight</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -773,7 +774,7 @@
       <Position>ORIENTATION</Position>
       <TranslationSet>
         <base loc="en">Rotate\nScreen</base>
-        <tran loc="es">Girar\npantalla</tran>
+        <tran loc="es-419">Girar\npantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -781,7 +782,7 @@
       <Position>ORIENTATION-LANDSCAPE-LEFT</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -789,7 +790,7 @@
       <Position>Position-Left</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -797,7 +798,7 @@
       <Position>Remote-Left</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -805,7 +806,7 @@
       <Position>FREEHAND_STRAIGHT_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Straight\nPath</base>
-        <tran loc="es">Trazado\nrecto</tran>
+        <tran loc="es-419">Ruta\nrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -813,7 +814,7 @@
       <Position>element.button</Position>
       <TranslationSet>
         <base loc="en">Button</base>
-        <tran loc="es">Botón</tran>
+        <tran loc="es-419">Botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -821,7 +822,7 @@
       <Position>ALT_KEYS</Position>
       <TranslationSet>
         <base loc="en">Alt Keys</base>
-        <tran loc="es">Teclas Alt</tran>
+        <tran loc="es-419">Teclas Alt</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -829,7 +830,7 @@
       <Position>FREEHAND_MORE_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">More</base>
-        <tran loc="es">Más</tran>
+        <tran loc="es-419">Más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -837,7 +838,7 @@
       <Position>MORE</Position>
       <TranslationSet>
         <base loc="en">More</base>
-        <tran loc="es">Más</tran>
+        <tran loc="es-419">Más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -845,7 +846,7 @@
       <Position>FREEHAND_MORE_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">More\nOptions</base>
-        <tran loc="es">Más\nopciones</tran>
+        <tran loc="es-419">Más\nopciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -853,7 +854,7 @@
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -861,7 +862,7 @@
       <Position>REBOOT_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Restart</base>
-        <tran loc="es">Reiniciar</tran>
+        <tran loc="es-419">Reiniciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -869,7 +870,7 @@
       <Position>REBOOT_DEVICE_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Restart</base>
-        <tran loc="es">Reiniciar</tran>
+        <tran loc="es-419">Reiniciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -877,7 +878,7 @@
       <Position>VOLUME_UP</Position>
       <TranslationSet>
         <base loc="en">Increase\nVolume</base>
-        <tran loc="es">Aumentar\nvolumen</tran>
+        <tran loc="es-419">Subir\nvolumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -885,7 +886,7 @@
       <Position>ROTATE_CLOCKWISE</Position>
       <TranslationSet>
         <base loc="en">Rotate CW</base>
-        <tran loc="es">Girar a derecha</tran>
+        <tran loc="es-419">Girar hacia la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -893,7 +894,7 @@
       <Position>PIN_APP_LEFT</Position>
       <TranslationSet>
         <base loc="en">Pin New App\non Left</base>
-        <tran loc="es">Anclar nueva\napp a la izqda.</tran>
+        <tran loc="es-419">Anclar app nueva\na la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -901,7 +902,7 @@
       <Position>CHOOSE_SCROLL_VIEW</Position>
       <TranslationSet>
         <base loc="en">Choose where to scroll.</base>
-        <tran loc="es">Selecciona dónde desplazarte.</tran>
+        <tran loc="es-419">Elige la dirección del desplazamiento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -909,7 +910,7 @@
       <Position>VOLUME_UP_ASSISTIVE_TOUCH</Position>
       <TranslationSet>
         <base loc="en">Volume\nUp</base>
-        <tran loc="es">Subir\nvolumen</tran>
+        <tran loc="es-419">Subir\nvolumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -917,7 +918,7 @@
       <Position>EDIT_FORWARD_CHAR</Position>
       <TranslationSet>
         <base loc="en">Next\nCharacter</base>
-        <tran loc="es">Carácter\nsiguiente</tran>
+        <tran loc="es-419">Carácter\nsiguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -925,7 +926,7 @@
       <Position>FLICK_LEFT</Position>
       <TranslationSet>
         <base loc="en">Flick Left</base>
-        <tran loc="es">Deslizar a la izquierda</tran>
+        <tran loc="es-419">Deslizar rápidamente hacia la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -933,7 +934,7 @@
       <Position>ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -941,7 +942,7 @@
       <Position>CANCEL_LINE_GESTURE</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -949,7 +950,7 @@
       <Position>Settings-Sound-On</Position>
       <TranslationSet>
         <base loc="en">Sound\nOn</base>
-        <tran loc="es">Sonido\nactivado</tran>
+        <tran loc="es-419">Sonido\nactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -957,7 +958,7 @@
       <Position>CHOOSE_CANDIDATE</Position>
       <TranslationSet>
         <base loc="en">Choose Candidate</base>
-        <tran loc="es">Seleccionar candidato</tran>
+        <tran loc="es-419">Seleccionar candidato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -965,7 +966,7 @@
       <Position>SCROLL_TO_BOTTOM</Position>
       <TranslationSet>
         <base loc="en">Scroll to\nBottom</base>
-        <tran loc="es">Ir \nal final</tran>
+        <tran loc="es-419">Ir al final</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -973,7 +974,7 @@
       <Position>HOME</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Inicio</tran>
+        <tran loc="es-419">Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -981,7 +982,7 @@
       <Position>HOME_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Inicio</tran>
+        <tran loc="es-419">Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -989,7 +990,7 @@
       <Position>Remote-Home</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Inicio</tran>
+        <tran loc="es-419">Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +998,7 @@
       <Position>SCAT_QUICK_ITEM_HOME</Position>
       <TranslationSet>
         <base loc="en">Home</base>
-        <tran loc="es">Inicio</tran>
+        <tran loc="es-419">Inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1005,7 +1006,7 @@
       <Position>PAN_DOWN</Position>
       <TranslationSet>
         <base loc="en">Pan Down</base>
-        <tran loc="es">Desplazarse abajo</tran>
+        <tran loc="es-419">Panorámica abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1013,7 +1014,7 @@
       <Position>FLOAT_APP</Position>
       <TranslationSet>
         <base loc="en">Open New App\nwith Slide Over</base>
-        <tran loc="es">Abrir nueva app\nen Slide Over</tran>
+        <tran loc="es-419">Abrir nueva app\ncon Slide Over</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1021,7 +1022,7 @@
       <Position>FREEHAND_ROTATE_90_CCW</Position>
       <TranslationSet>
         <base loc="en">%@° Rotate\nCCW</base>
-        <tran loc="es">Girar %@° a\nla izquierda</tran>
+        <tran loc="es-419">Girar %@ °\na la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1030,7 @@
       <Position>EDIT-PASTE</Position>
       <TranslationSet>
         <base loc="en">Paste</base>
-        <tran loc="es">Pegar</tran>
+        <tran loc="es-419">Pegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1038,7 @@
       <Position>FLICK_ARBITRARY</Position>
       <TranslationSet>
         <base loc="en">Custom Flick</base>
-        <tran loc="es">Deslizamiento personalizado</tran>
+        <tran loc="es-419">Deslizamiento personalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1046,7 @@
       <Position>MediaControls-Play</Position>
       <TranslationSet>
         <base loc="en">Play</base>
-        <tran loc="es">Reproducir</tran>
+        <tran loc="es-419">Reproducir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1054,7 @@
       <Position>Remote-Play</Position>
       <TranslationSet>
         <base loc="en">Play</base>
-        <tran loc="es">Reproducir</tran>
+        <tran loc="es-419">Reproducir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1062,7 @@
       <Position>CONNECTED_TO_SLAVE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Now controlling %@. Press switch for 10 seconds to cancel.</base>
-        <tran loc="es">Estás controlando %@. Pulsa el botón durante 10 segundos para cancelar.</tran>
+        <tran loc="es-419">Se está controlando %@. Presiona el botón por 10 segundos para cancelar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1070,7 @@
       <Position>PAN_UP</Position>
       <TranslationSet>
         <base loc="en">Pan Up</base>
-        <tran loc="es">Desplazarse arriba</tran>
+        <tran loc="es-419">Panorámica arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1077,7 +1078,7 @@
       <Position>MadeForIphone_HardwareSwitch_Select</Position>
       <TranslationSet>
         <base loc="en">Select</base>
-        <tran loc="es">Seleccionar</tran>
+        <tran loc="es-419">Seleccionar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1085,7 +1086,7 @@
       <Position>Remote-Select</Position>
       <TranslationSet>
         <base loc="en">Select</base>
-        <tran loc="es">Seleccionar</tran>
+        <tran loc="es-419">Seleccionar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1093,7 +1094,7 @@
       <Position>TRIPLE_CLICK_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Accessibility Shortcut</base>
-        <tran loc="es">Función rápida accesibilidad</tran>
+        <tran loc="es-419">Función rápida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1101,7 +1102,7 @@
       <Position>EDIT_SHOW_CALLOUT_BAR</Position>
       <TranslationSet>
         <base loc="en">Show Edit Bar</base>
-        <tran loc="es">Ver barra de edición</tran>
+        <tran loc="es-419">Mostrar barra de edición</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1109,7 +1110,7 @@
       <Position>Settings-Grouping-On</Position>
       <TranslationSet>
         <base loc="en">Groups\nOn</base>
-        <tran loc="es">Grupos\nactivados</tran>
+        <tran loc="es-419">Grupos\nactivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1117,7 +1118,7 @@
       <Position>ACTIVATE</Position>
       <TranslationSet>
         <base loc="en">Activate</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1125,7 +1126,7 @@
       <Position>DWELL_LOCK</Position>
       <TranslationSet>
         <base loc="en">Disable\nFallback</base>
-        <tran loc="es">Desactivar\nAutorrevertir</tran>
+        <tran loc="es-419">Desactivar\nautorrevertir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1133,7 +1134,7 @@
       <Position>Position-Top-Left</Position>
       <TranslationSet>
         <base loc="en">Top Left</base>
-        <tran loc="es">Arriba izquierda</tran>
+        <tran loc="es-419">Arriba izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1141,7 +1142,7 @@
       <Position>DWELL_LOCK_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Disable Fallback</base>
-        <tran loc="es">Desactivar Autorrevertir</tran>
+        <tran loc="es-419">Desactivar autorrevertir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1149,7 +1150,7 @@
       <Position>FREEHAND_BEND_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Bend\nPath</base>
-        <tran loc="es">Curvar\ntrazado</tran>
+        <tran loc="es-419">Doblar\nruta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1157,7 +1158,7 @@
       <Position>ORIENTATION-PORTRAIT</Position>
       <TranslationSet>
         <base loc="en">Portrait</base>
-        <tran loc="es">Vertical</tran>
+        <tran loc="es-419">Vertical</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1165,7 +1166,7 @@
       <Position>DWELL_PAUSE_TOGGLE_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Toggle Pause/Resume Dwell</base>
-        <tran loc="es">Pausar/reanudar la permanencia</tran>
+        <tran loc="es-419">Pausar/Reanudar Permanencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1173,7 +1174,7 @@
       <Position>PAN_RIGHT</Position>
       <TranslationSet>
         <base loc="en">Pan Right</base>
-        <tran loc="es">Desplazarse a la derecha</tran>
+        <tran loc="es-419">Panorámica der.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1181,7 +1182,7 @@
       <Position>Settings-Sound-Off</Position>
       <TranslationSet>
         <base loc="en">Sound\nOff</base>
-        <tran loc="es">Sin\nsonido</tran>
+        <tran loc="es-419">Silencio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1189,7 +1190,7 @@
       <Position>CONFIRM_FLICK</Position>
       <TranslationSet>
         <base loc="en">Flick</base>
-        <tran loc="es">Deslizar</tran>
+        <tran loc="es-419">Deslizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1197,7 +1198,7 @@
       <Position>FlickMenu</Position>
       <TranslationSet>
         <base loc="en">Flick</base>
-        <tran loc="es">Deslizar</tran>
+        <tran loc="es-419">Deslizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1205,7 +1206,7 @@
       <Position>SCROLL_TO_TOP_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Scroll to Top</base>
-        <tran loc="es">Ir al inicio</tran>
+        <tran loc="es-419">Ir al inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1213,7 +1214,7 @@
       <Position>CAMERA_FACE_NOT_FOUND</Position>
       <TranslationSet>
         <base loc="en">Cannot locate your face.</base>
-        <tran loc="es">No se puede localizar la cara.</tran>
+        <tran loc="es-419">No se puede localizar la cara.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1221,7 +1222,7 @@
       <Position>Position-Top-Right</Position>
       <TranslationSet>
         <base loc="en">Top Right</base>
-        <tran loc="es">Arriba derecha</tran>
+        <tran loc="es-419">Arriba derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1229,7 +1230,7 @@
       <Position>SCROLL</Position>
       <TranslationSet>
         <base loc="en">Scroll</base>
-        <tran loc="es">Desplazar</tran>
+        <tran loc="es-419">Desplazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1237,7 +1238,7 @@
       <Position>LONG_PRESS</Position>
       <TranslationSet>
         <base loc="en">Long Press</base>
-        <tran loc="es">Pulsación larga</tran>
+        <tran loc="es-419">Presión larga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1245,7 +1246,7 @@
       <Position>VOLUME_DOWN</Position>
       <TranslationSet>
         <base loc="en">Decrease\nVolume</base>
-        <tran loc="es">Reducir\nvolumen</tran>
+        <tran loc="es-419">Bajar\nvolumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1253,7 +1254,7 @@
       <Position>CAMERA_FACE_TOO_FAR</Position>
       <TranslationSet>
         <base loc="en">Your face is too far away.</base>
-        <tran loc="es">La cara está muy lejos.</tran>
+        <tran loc="es-419">Tu cara está muy lejos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1261,7 +1262,7 @@
       <Position>Position-Bottom-Left</Position>
       <TranslationSet>
         <base loc="en">Bottom Left</base>
-        <tran loc="es">Abajo izquierda</tran>
+        <tran loc="es-419">Abajo izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1269,7 +1270,7 @@
       <Position>FREEHAND_TOUCH_STATE_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Touch: %@</base>
-        <tran loc="es">Tocar: %@</tran>
+        <tran loc="es-419">Tocar: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1277,7 +1278,7 @@
       <Position>FLICK_UP</Position>
       <TranslationSet>
         <base loc="en">Flick Up</base>
-        <tran loc="es">Deslizar arriba</tran>
+        <tran loc="es-419">Deslizar arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1285,7 +1286,7 @@
       <Position>PINCH</Position>
       <TranslationSet>
         <base loc="en">Pinch</base>
-        <tran loc="es">Pellizcar</tran>
+        <tran loc="es-419">Pellizcar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1293,7 +1294,7 @@
       <Position>PinchMenu</Position>
       <TranslationSet>
         <base loc="en">Pinch</base>
-        <tran loc="es">Pellizcar</tran>
+        <tran loc="es-419">Pellizcar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1301,7 +1302,7 @@
       <Position>MENU_GROUP_ROW</Position>
       <TranslationSet>
         <base loc="en">Row %@</base>
-        <tran loc="es">Fila %@</tran>
+        <tran loc="es-419">Fila %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1309,7 +1310,7 @@
       <Position>Settings-First</Position>
       <TranslationSet>
         <base loc="en">First</base>
-        <tran loc="es">Primero</tran>
+        <tran loc="es-419">Primero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1317,7 +1318,7 @@
       <Position>DrawingAutoLift</Position>
       <TranslationSet>
         <base loc="en">Auto Lift</base>
-        <tran loc="es">Elevación</tran>
+        <tran loc="es-419">Elevación automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1325,7 +1326,7 @@
       <Position>Remote-Up</Position>
       <TranslationSet>
         <base loc="en">Up</base>
-        <tran loc="es">Subir</tran>
+        <tran loc="es-419">Arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1333,7 +1334,7 @@
       <Position>Remote-NavigationGroup</Position>
       <TranslationSet>
         <base loc="en">Navigation</base>
-        <tran loc="es">Navegación</tran>
+        <tran loc="es-419">Navegación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1341,7 +1342,7 @@
       <Position>INCREMENT</Position>
       <TranslationSet>
         <base loc="en">Increment</base>
-        <tran loc="es">Aumentar</tran>
+        <tran loc="es-419">Aumento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1349,7 +1350,7 @@
       <Position>Settings-Scan-By-Elements</Position>
       <TranslationSet>
         <base loc="en">Item\nMode</base>
-        <tran loc="es">Modo por\nítems</tran>
+        <tran loc="es-419">Modo de\nelemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1357,7 +1358,7 @@
       <Position>Device-Notification-Center</Position>
       <TranslationSet>
         <base loc="en">Older Notifications</base>
-        <tran loc="es">Notificaciones anteriores</tran>
+        <tran loc="es-419">Notificaciones previas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1365,7 +1366,7 @@
       <Position>ENTERED_GLIDING_CURSOR_MODE</Position>
       <TranslationSet>
         <base loc="en">Gliding Cursor</base>
-        <tran loc="es">Cursor de deslizamiento</tran>
+        <tran loc="es-419">Cursor de deslizamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1373,7 +1374,7 @@
       <Position>Settings-Scan-By-Point</Position>
       <TranslationSet>
         <base loc="en">Gliding Cursor</base>
-        <tran loc="es">Cursor de deslizamiento</tran>
+        <tran loc="es-419">Cursor de deslizamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1381,7 +1382,7 @@
       <Position>DrawingLift</Position>
       <TranslationSet>
         <base loc="en">Lift</base>
-        <tran loc="es">Elevar</tran>
+        <tran loc="es-419">Elevar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1389,7 +1390,7 @@
       <Position>PINCH_IN</Position>
       <TranslationSet>
         <base loc="en">Pinch In</base>
-        <tran loc="es">Juntar dedos</tran>
+        <tran loc="es-419">Juntar dedos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1397,7 +1398,7 @@
       <Position>Settings-Speech-On</Position>
       <TranslationSet>
         <base loc="en">Speech\nOn</base>
-        <tran loc="es">Voz\nactivada</tran>
+        <tran loc="es-419">Voz\nactivada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1405,7 +1406,7 @@
       <Position>FREEHAND_STRAIGHTEN_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Straighten</base>
-        <tran loc="es">Enderezar</tran>
+        <tran loc="es-419">Enderezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1413,7 +1414,7 @@
       <Position>SCROLL_TOP</Position>
       <TranslationSet>
         <base loc="en">Beginning</base>
-        <tran loc="es">Principio</tran>
+        <tran loc="es-419">Iniciando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1421,7 +1422,7 @@
       <Position>DWELL_LOCK_TOGGLE</Position>
       <TranslationSet>
         <base loc="en">Enable/Disable Fallback</base>
-        <tran loc="es">Activar/desactivar Autorrevertir</tran>
+        <tran loc="es-419">Activar/desactivar autorrevertir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1429,7 +1430,7 @@
       <Position>FREEHAND_BEND_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Bend</base>
-        <tran loc="es">Curvar</tran>
+        <tran loc="es-419">Doblar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1437,7 +1438,7 @@
       <Position>SPEAK_SCREEN</Position>
       <TranslationSet>
         <base loc="en">Speak Screen</base>
-        <tran loc="es">Leer pantalla</tran>
+        <tran loc="es-419">Pantalla\nde habla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1445,7 +1446,7 @@
       <Position>DrawingRotate90</Position>
       <TranslationSet>
         <base loc="en">%@°</base>
-        <tran loc="es">%@°</tran>
+        <tran loc="es-419">%@ °</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1453,7 +1454,7 @@
       <Position>VOLUME_DOWN_ASSISTIVE_TOUCH</Position>
       <TranslationSet>
         <base loc="en">Volume\nDown</base>
-        <tran loc="es">Bajar\nvolumen</tran>
+        <tran loc="es-419">Bajar\nvolumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1461,7 +1462,7 @@
       <Position>EDIT_ENABLE_SELECT</Position>
       <TranslationSet>
         <base loc="en">Enable\nSelection</base>
-        <tran loc="es">Activar\nselección</tran>
+        <tran loc="es-419">Activar\nselección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1469,7 +1470,7 @@
       <Position>EDIT_FORWARD_LINE</Position>
       <TranslationSet>
         <base loc="en">Next Line</base>
-        <tran loc="es">Línea siguiente</tran>
+        <tran loc="es-419">Línea siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1477,7 +1478,7 @@
       <Position>EDIT_BACKWARD_LINE</Position>
       <TranslationSet>
         <base loc="en">Previous Line</base>
-        <tran loc="es">Línea anterior</tran>
+        <tran loc="es-419">Línea anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1485,7 +1486,7 @@
       <Position>SCREEN_INVALID_NHB</Position>
       <TranslationSet>
         <base loc="en">Triple-click the side button to stop Switch Control.</base>
-        <tran loc="es">Pulsa tres veces el botón lateral para detener el control por botón.</tran>
+        <tran loc="es-419">Haz clic tres veces en el botón lateral para detener el Control por botón.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1493,7 +1494,7 @@
       <Position>FREEHAND_ROTATE_CCW_SPOKEN</Position>
       <TranslationSet>
         <base loc="en">Rotate Counterclockwise</base>
-        <tran loc="es">Girar hacia la izquierda</tran>
+        <tran loc="es-419">Girar hacia la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1501,7 +1502,7 @@
       <Position>REDO_LINE_GESTURE</Position>
       <TranslationSet>
         <base loc="en">Redo</base>
-        <tran loc="es">Rehacer</tran>
+        <tran loc="es-419">Rehacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1509,7 +1510,7 @@
       <Position>SIRI_SHORTCUTS</Position>
       <TranslationSet>
         <base loc="en">Shortcuts</base>
-        <tran loc="es">Atajos</tran>
+        <tran loc="es-419">Atajos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1517,7 +1518,7 @@
       <Position>BACK</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1525,7 +1526,7 @@
       <Position>GoBackGroupHighlightLabel</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1533,7 +1534,7 @@
       <Position>back.button</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1541,7 +1542,7 @@
       <Position>Settings-Speech-Off</Position>
       <TranslationSet>
         <base loc="en">Speech\nOff</base>
-        <tran loc="es">Sin\nvoz</tran>
+        <tran loc="es-419">Voz\ndesactivada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1549,7 +1550,7 @@
       <Position>EDIT_BACKWARD_CHAR</Position>
       <TranslationSet>
         <base loc="en">Previous\nCharacter</base>
-        <tran loc="es">Carácter\nanterior</tran>
+        <tran loc="es-419">Carácter\nanterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1557,7 +1558,7 @@
       <Position>FREEHAND_TOUCH_STATE_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Touch:\n%@</base>
-        <tran loc="es">Tocar:\n%@</tran>
+        <tran loc="es-419">Tocar:\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1565,7 +1566,7 @@
       <Position>Scroll-Previous</Position>
       <TranslationSet>
         <base loc="en">Previous Page</base>
-        <tran loc="es">Página anterior</tran>
+        <tran loc="es-419">Página anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1573,7 +1574,7 @@
       <Position>Scroll-Right</Position>
       <TranslationSet>
         <base loc="en">Scroll Right</base>
-        <tran loc="es">A la derecha</tran>
+        <tran loc="es-419">Desplazar a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1581,7 +1582,7 @@
       <Position>Remote-Siri</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1589,7 +1590,7 @@
       <Position>SCAT_QUICK_ITEM_SIRI</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1597,7 +1598,7 @@
       <Position>SIRI</Position>
       <TranslationSet>
         <base loc="en">Siri</base>
-        <tran loc="es">Siri</tran>
+        <tran loc="es-419">Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1605,7 +1606,7 @@
       <Position>NextPageLabel_Spoken</Position>
       <TranslationSet>
         <base loc="en">Next Page</base>
-        <tran loc="es">Página siguiente</tran>
+        <tran loc="es-419">Página siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1613,7 +1614,7 @@
       <Position>Scroll-Next</Position>
       <TranslationSet>
         <base loc="en">Next Page</base>
-        <tran loc="es">Página siguiente</tran>
+        <tran loc="es-419">Página siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1622,7 @@
       <Position>MediaControls-SkipBackward</Position>
       <TranslationSet>
         <base loc="en">Seek Frame Backward</base>
-        <tran loc="es">Buscar fotograma hacia atrás</tran>
+        <tran loc="es-419">Buscar cuadro en retroceso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1630,7 @@
       <Position>SIDE_APP</Position>
       <TranslationSet>
         <base loc="en">Multitasking</base>
-        <tran loc="es">Multitarea</tran>
+        <tran loc="es-419">Multitarea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1638,7 @@
       <Position>TRIPLE_CLICK</Position>
       <TranslationSet>
         <base loc="en">Accessibility\nShortcut</base>
-        <tran loc="es">Función rápida\nde accesibilidad</tran>
+        <tran loc="es-419">Función\nrápida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1646,7 @@
       <Position>ORIENTATION_LOCKED_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Lock Rotation</base>
-        <tran loc="es">Bloquear rotación</tran>
+        <tran loc="es-419">Bloquear rotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1654,7 @@
       <Position>RESUME</Position>
       <TranslationSet>
         <base loc="en">Resume</base>
-        <tran loc="es">Reanudar</tran>
+        <tran loc="es-419">Reanudar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1661,7 +1662,7 @@
       <Position>FREEHAND_AUTO_PRESS_STATE</Position>
       <TranslationSet>
         <base loc="en">Auto Press:\n%@</base>
-        <tran loc="es">Pulsación:\n%@</tran>
+        <tran loc="es-419">Presión:\n%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1669,7 +1670,7 @@
       <Position>REACHABILITY</Position>
       <TranslationSet>
         <base loc="en">Reachability</base>
-        <tran loc="es">Fácil alcance</tran>
+        <tran loc="es-419">Alcance fácil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1677,7 +1678,7 @@
       <Position>PanMenu</Position>
       <TranslationSet>
         <base loc="en">Pan</base>
-        <tran loc="es">Desplazarse</tran>
+        <tran loc="es-419">Panorámica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1685,7 +1686,7 @@
       <Position>FREEHAND_ROTATE_CW_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Rotate\nCW</base>
-        <tran loc="es">Girar a\nderecha</tran>
+        <tran loc="es-419">Girar\na la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1693,7 +1694,7 @@
       <Position>CONTROL_CENTER_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Control Center</base>
-        <tran loc="es">Centro de control</tran>
+        <tran loc="es-419">Centro de control</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1701,7 +1702,7 @@
       <Position>Settings-Last</Position>
       <TranslationSet>
         <base loc="en">Last</base>
-        <tran loc="es">Último</tran>
+        <tran loc="es-419">Último</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1709,7 +1710,7 @@
       <Position>FREEHAND_BEND_RIGHT_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Bend\nRight</base>
-        <tran loc="es">Curvar\na derecha</tran>
+        <tran loc="es-419">Doblar a\nla derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1717,7 +1718,7 @@
       <Position>CUSTOM</Position>
       <TranslationSet>
         <base loc="en">Custom</base>
-        <tran loc="es">Personalizar</tran>
+        <tran loc="es-419">Personalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1725,7 +1726,7 @@
       <Position>FREEHAND_ROTATE_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Rotate</base>
-        <tran loc="es">Girar</tran>
+        <tran loc="es-419">Girar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1733,7 +1734,7 @@
       <Position>FingersMenu</Position>
       <TranslationSet>
         <base loc="en">Fingers</base>
-        <tran loc="es">Dedos</tran>
+        <tran loc="es-419">Dedos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1741,7 +1742,7 @@
       <Position>BACK_TO_GESTURES</Position>
       <TranslationSet>
         <base loc="en">Back to Gestures</base>
-        <tran loc="es">Volver a los gestos</tran>
+        <tran loc="es-419">Regresar a Gestos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1749,7 +1750,7 @@
       <Position>ORIENTATION-LANDSCAPE-RIGHT</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1757,7 +1758,7 @@
       <Position>Position-Right</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1765,7 +1766,7 @@
       <Position>Remote-Right</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1773,7 +1774,7 @@
       <Position>FREEHAND_ROTATE_CW_SPOKEN</Position>
       <TranslationSet>
         <base loc="en">Rotate Clockwise</base>
-        <tran loc="es">Girar hacia la derecha</tran>
+        <tran loc="es-419">Girar hacia la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1781,7 +1782,7 @@
       <Position>FREEHAND_BACK_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Back to Menu</base>
-        <tran loc="es">Volver al menú</tran>
+        <tran loc="es-419">Regresar al menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1789,7 +1790,7 @@
       <Position>EDIT-COPY</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1797,7 +1798,7 @@
       <Position>RECIPE_ACTIVATED_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Your switches are configured to use the “%@” recipe.</base>
-        <tran loc="es">Los botones están configurados para usar la receta “%@”.</tran>
+        <tran loc="es-419">Tus botones se configuraron para usar la pauta “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1805,7 +1806,7 @@
       <Position>UNTITLED_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Untitled</base>
-        <tran loc="es">Sin título</tran>
+        <tran loc="es-419">Sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1813,7 +1814,7 @@
       <Position>ORIENTATION_UNLOCKED_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Unlock Rotation</base>
-        <tran loc="es">Desbloquear rotación</tran>
+        <tran loc="es-419">Desbloquear rotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1821,7 +1822,7 @@
       <Position>FREEHAND_ROTATE_90</Position>
       <TranslationSet>
         <base loc="en">%@ Degree</base>
-        <tran loc="es">%@ grados</tran>
+        <tran loc="es-419">%@ °</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1829,7 +1830,7 @@
       <Position>Remote-VolumeUp</Position>
       <TranslationSet>
         <base loc="en">Increase Volume</base>
-        <tran loc="es">Aumentar volumen</tran>
+        <tran loc="es-419">Aumentar volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1837,7 +1838,7 @@
       <Position>VOLUME_UP_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Increase Volume</base>
-        <tran loc="es">Aumentar volumen</tran>
+        <tran loc="es-419">Aumentar volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1845,7 +1846,7 @@
       <Position>FREEHAND_ROTATE_90_CCW_SPOKEN</Position>
       <TranslationSet>
         <base loc="en">Rotate %@ Degrees Counterclockwise</base>
-        <tran loc="es">Girar %@ grados hacia la izquierda</tran>
+        <tran loc="es-419">Girar %@ ° hacia la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1853,7 +1854,7 @@
       <Position>EXIT_MENU</Position>
       <TranslationSet>
         <base loc="en">Exit Menu</base>
-        <tran loc="es">Salir del menú</tran>
+        <tran loc="es-419">Salir del menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1861,7 +1862,7 @@
       <Position>ORIENTATION-UPSIDE-DOWN</Position>
       <TranslationSet>
         <base loc="en">Upside Down</base>
-        <tran loc="es">Invertida</tran>
+        <tran loc="es-419">Invertida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1869,7 +1870,7 @@
       <Position>DrawingAutoPress</Position>
       <TranslationSet>
         <base loc="en">Auto Press</base>
-        <tran loc="es">Pulsación</tran>
+        <tran loc="es-419">Presión automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1877,7 +1878,7 @@
       <Position>element.dimmed</Position>
       <TranslationSet>
         <base loc="en">Dimmed</base>
-        <tran loc="es">Atenuado</tran>
+        <tran loc="es-419">Atenuado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1885,7 +1886,8 @@
       <Position>SCREENSHOT</Position>
       <TranslationSet>
         <base loc="en">Screenshot</base>
-        <tran loc="es">Captura</tran>
+        <tran loc="es-419">Captura de
+pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1893,7 +1895,7 @@
       <Position>SCREENSHOT_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Screenshot</base>
-        <tran loc="es">Captura de pantalla</tran>
+        <tran loc="es-419">Captura de pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1901,7 +1903,7 @@
       <Position>RECIPE_VALIDATION_FAILED_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Failed to validate recipe “%@.” Verify that it is set up correctly in Settings.</base>
-        <tran loc="es">No se ha podido validar la receta “%@”. Comprueba que esté configurada correctamente en Ajustes.</tran>
+        <tran loc="es-419">No se pudo validar la pauta “%@”. Asegúrate de que esté correcta en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1909,7 +1911,7 @@
       <Position>CONFIRM_HOLD_AND_DRAG</Position>
       <TranslationSet>
         <base loc="en">Hold and Drag</base>
-        <tran loc="es">Mantener y arrastrar</tran>
+        <tran loc="es-419">Mantener presionado y arrastrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1917,7 +1919,7 @@
       <Position>HOLD_AND_DRAG</Position>
       <TranslationSet>
         <base loc="en">Hold and Drag</base>
-        <tran loc="es">Mantener y arrastrar</tran>
+        <tran loc="es-419">Mantener presionado y arrastrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1925,7 +1927,7 @@
       <Position>FREEHAND_ROTATE_CCW_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">CCW</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Hacia la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1933,7 +1935,7 @@
       <Position>CREATE_RECIPE_FROM_HOLD_POINT</Position>
       <TranslationSet>
         <base loc="en">Create for Hold</base>
-        <tran loc="es">Crear para mantener pulsado</tran>
+        <tran loc="es-419">Crear para mantener presión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1941,7 +1943,7 @@
       <Position>SCROLL_TO_TOP</Position>
       <TranslationSet>
         <base loc="en">Scroll to\nTop</base>
-        <tran loc="es">Ir \nal inicio</tran>
+        <tran loc="es-419">Ir al inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1949,7 +1951,7 @@
       <Position>Settings-Grouping-Off</Position>
       <TranslationSet>
         <base loc="en">Groups\nOff</base>
-        <tran loc="es">Sin\ngrupos</tran>
+        <tran loc="es-419">Grupos\ninactivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1957,7 +1959,7 @@
       <Position>DWELL_TIME_INCREASE</Position>
       <TranslationSet>
         <base loc="en">Increase Time</base>
-        <tran loc="es">Aumentar tiempo</tran>
+        <tran loc="es-419">Aumentar tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1965,7 +1967,7 @@
       <Position>TAP_AND_HOLD</Position>
       <TranslationSet>
         <base loc="en">Tap and Hold</base>
-        <tran loc="es">Pulsar y mantener pulsado</tran>
+        <tran loc="es-419">Tocar sin soltar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1973,7 +1975,7 @@
       <Position>STOP</Position>
       <TranslationSet>
         <base loc="en">Stop</base>
-        <tran loc="es">Detener</tran>
+        <tran loc="es-419">Detener</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1981,7 +1983,7 @@
       <Position>INCREASE_ZOOM</Position>
       <TranslationSet>
         <base loc="en">Increase\nZoom</base>
-        <tran loc="es">Aumentar\nzoom</tran>
+        <tran loc="es-419">Aumentar\nzoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1989,7 +1991,7 @@
       <Position>CHOOSE_DRAG_END_POINT</Position>
       <TranslationSet>
         <base loc="en">Select the destination for dragging.</base>
-        <tran loc="es">Selecciona el destino del arrastre.</tran>
+        <tran loc="es-419">Selecciona el destino del arrastre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1997,7 +1999,7 @@
       <Position>CHOOSE_HOLD_AND_DRAG_END_POINT</Position>
       <TranslationSet>
         <base loc="en">Select the destination for dragging.</base>
-        <tran loc="es">Selecciona el destino del arrastre.</tran>
+        <tran loc="es-419">Selecciona el destino del arrastre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2005,7 +2007,7 @@
       <Position>PERFORM_DROP</Position>
       <TranslationSet>
         <base loc="en">Perform Drop</base>
-        <tran loc="es">Realizar acción de soltar</tran>
+        <tran loc="es-419">Soltar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2013,7 +2015,7 @@
       <Position>SLOWER</Position>
       <TranslationSet>
         <base loc="en">Slower</base>
-        <tran loc="es">Más lento</tran>
+        <tran loc="es-419">Más lento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2021,7 +2023,7 @@
       <Position>FREEHAND_ROTATE_90_CW</Position>
       <TranslationSet>
         <base loc="en">%@° Rotate\nCW</base>
-        <tran loc="es">Girar %@° a\nla derecha</tran>
+        <tran loc="es-419">Girar %@ °\na la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2029,7 +2031,7 @@
       <Position>HARDWARE_NONE</Position>
       <TranslationSet>
         <base loc="en">Unknown device error.</base>
-        <tran loc="es">Error de dispositivo desconocido.</tran>
+        <tran loc="es-419">Error de dispositivo desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2037,7 +2039,7 @@
       <Position>FREEHAND_MOVE_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Move</base>
-        <tran loc="es">Mover</tran>
+        <tran loc="es-419">Mover</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2045,7 +2047,7 @@
       <Position>element.on.state</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Activado</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2053,7 +2055,7 @@
       <Position>Remote-Title</Position>
       <TranslationSet>
         <base loc="en">Remote</base>
-        <tran loc="es">Mando</tran>
+        <tran loc="es-419">Remote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2061,7 +2063,7 @@
       <Position>Settings-Scan-ATV-Remote</Position>
       <TranslationSet>
         <base loc="en">Remote</base>
-        <tran loc="es">Mando</tran>
+        <tran loc="es-419">Remote</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2069,7 +2071,7 @@
       <Position>DOCK_INSTRUCTIONS</Position>
       <TranslationSet>
         <base loc="en">Choose an app from the Dock.</base>
-        <tran loc="es">Selecciona una app del Dock.</tran>
+        <tran loc="es-419">Elige una app del Dock.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2077,7 +2079,7 @@
       <Position>Settings-Scan-By-Grid</Position>
       <TranslationSet>
         <base loc="en">Grid</base>
-        <tran loc="es">Cuadrícula</tran>
+        <tran loc="es-419">Cuadrícula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2085,7 +2087,7 @@
       <Position>LOCK_ITEM_SPECIFIC_MENU</Position>
       <TranslationSet>
         <base loc="en">Lock Item Menu</base>
-        <tran loc="es">Bloquear menú de ítems</tran>
+        <tran loc="es-419">Bloquear menú de elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2093,7 +2095,7 @@
       <Position>COMMAND_AND_CONTROL</Position>
       <TranslationSet>
         <base loc="en">Voice Control</base>
-        <tran loc="es">Control por voz</tran>
+        <tran loc="es-419">Control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2101,7 +2103,7 @@
       <Position>COMMAND_AND_CONTROL_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Voice Control</base>
-        <tran loc="es">Control por voz</tran>
+        <tran loc="es-419">Control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2109,7 +2111,7 @@
       <Position>SCAT_QUICK_ITEM_VOICE_CONTROL</Position>
       <TranslationSet>
         <base loc="en">Voice Control</base>
-        <tran loc="es">Control por voz</tran>
+        <tran loc="es-419">Control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2117,7 +2119,7 @@
       <Position>MediaControls-PreviousTrack</Position>
       <TranslationSet>
         <base loc="en">Previous Chapter</base>
-        <tran loc="es">Capítulo anterior</tran>
+        <tran loc="es-419">Capítulo anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2125,7 +2127,7 @@
       <Position>RECIPE_DEACTIVATED</Position>
       <TranslationSet>
         <base loc="en">Your switches are configured to their default actions.</base>
-        <tran loc="es">Los botones están configurados con sus acciones por omisión.</tran>
+        <tran loc="es-419">Los botones están configurados con las acciones predeterminadas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2133,7 +2135,7 @@
       <Position>ITEM_SPECIFIC_MENU</Position>
       <TranslationSet>
         <base loc="en">Item Menu</base>
-        <tran loc="es">Menú de ítems</tran>
+        <tran loc="es-419">Menú de elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2141,7 +2143,7 @@
       <Position>ENTERED_HEAD_TRACKING_MODE</Position>
       <TranslationSet>
         <base loc="en">Head Tracking</base>
-        <tran loc="es">Seguimiento de la cabeza</tran>
+        <tran loc="es-419">Seguimiento de la cabeza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2149,7 +2151,7 @@
       <Position>Settings-Scan-By-Head</Position>
       <TranslationSet>
         <base loc="en">Head Tracking</base>
-        <tran loc="es">Seguimiento de la cabeza</tran>
+        <tran loc="es-419">Seguimiento de la cabeza</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2157,7 +2159,7 @@
       <Position>ADD_IN_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">New\nGesture</base>
-        <tran loc="es">Nuevo\ngesto</tran>
+        <tran loc="es-419">Nuevo\ngesto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2165,7 +2167,7 @@
       <Position>Remote-Down</Position>
       <TranslationSet>
         <base loc="en">Down</base>
-        <tran loc="es">Bajar</tran>
+        <tran loc="es-419">Abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2173,7 +2175,7 @@
       <Position>Position-Orig</Position>
       <TranslationSet>
         <base loc="en">Original</base>
-        <tran loc="es">Original</tran>
+        <tran loc="es-419">Original</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2181,7 +2183,7 @@
       <Position>OPEN_MENU</Position>
       <TranslationSet>
         <base loc="en">Open Menu</base>
-        <tran loc="es">Abrir menú</tran>
+        <tran loc="es-419">Abrir menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2189,7 +2191,7 @@
       <Position>FREEHAND_OFF</Position>
       <TranslationSet>
         <base loc="en">OFF</base>
-        <tran loc="es">NO</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2197,7 +2199,7 @@
       <Position>EDIT-SELECT-ALL</Position>
       <TranslationSet>
         <base loc="en">Select All</base>
-        <tran loc="es">Seleccionar todo</tran>
+        <tran loc="es-419">Seleccionar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2205,7 +2207,7 @@
       <Position>LOCK_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Lock Screen</base>
-        <tran loc="es">Bloquear pantalla</tran>
+        <tran loc="es-419">Bloquear pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2213,7 +2215,7 @@
       <Position>Position-Top</Position>
       <TranslationSet>
         <base loc="en">Top</base>
-        <tran loc="es">Arriba</tran>
+        <tran loc="es-419">Arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2221,7 +2223,7 @@
       <Position>TOP</Position>
       <TranslationSet>
         <base loc="en">Top</base>
-        <tran loc="es">Arriba</tran>
+        <tran loc="es-419">Arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2229,7 +2231,7 @@
       <Position>CREATE_RECIPE_FROM_POINT</Position>
       <TranslationSet>
         <base loc="en">Create for Tap</base>
-        <tran loc="es">Crear para pulsar</tran>
+        <tran loc="es-419">Crear para tocar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2237,7 +2239,7 @@
       <Position>Settings-Move</Position>
       <TranslationSet>
         <base loc="en">Move\nMenu</base>
-        <tran loc="es">Mover\nmenú</tran>
+        <tran loc="es-419">Mover\nmenú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2245,7 +2247,7 @@
       <Position>FREEHAND_BEND_LEFT_ONE_LINE</Position>
       <TranslationSet>
         <base loc="en">Bend Left</base>
-        <tran loc="es">Curvar a izquierda</tran>
+        <tran loc="es-419">Doblar a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2253,7 +2255,7 @@
       <Position>nubbit.hint</Position>
       <TranslationSet>
         <base loc="en">Double tap to open the menu</base>
-        <tran loc="es">Pulsa dos veces para abrir el menú</tran>
+        <tran loc="es-419">Toca dos veces para abrir el menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2261,7 +2263,7 @@
       <Position>FLOAT_ERROR</Position>
       <TranslationSet>
         <base loc="en">Unable to open app with Slide Over.</base>
-        <tran loc="es">No se ha podido abrir la app en Slide Over.</tran>
+        <tran loc="es-419">No se puede abrir la app con Slide Over.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2269,7 +2271,7 @@
       <Position>FASTER</Position>
       <TranslationSet>
         <base loc="en">Faster</base>
-        <tran loc="es">Más rápido</tran>
+        <tran loc="es-419">Más rápido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2277,7 +2279,7 @@
       <Position>STOP_DICTATION</Position>
       <TranslationSet>
         <base loc="en">Stop\nDictation</base>
-        <tran loc="es">Detener\ndictado</tran>
+        <tran loc="es-419">Detener\ndictado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2285,7 +2287,7 @@
       <Position>EDIT-CUT</Position>
       <TranslationSet>
         <base loc="en">Cut</base>
-        <tran loc="es">Cortar</tran>
+        <tran loc="es-419">Cortar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2293,7 +2295,7 @@
       <Position>ZOOM_IN</Position>
       <TranslationSet>
         <base loc="en">Zoom In</base>
-        <tran loc="es">Acercar</tran>
+        <tran loc="es-419">Acercar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2301,7 +2303,7 @@
       <Position>DrawingPress</Position>
       <TranslationSet>
         <base loc="en">Touch</base>
-        <tran loc="es">Tocar</tran>
+        <tran loc="es-419">Tocar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2309,7 +2311,7 @@
       <Position>FREEHAND_TOUCH</Position>
       <TranslationSet>
         <base loc="en">Touch</base>
-        <tran loc="es">Tocar</tran>
+        <tran loc="es-419">Tocar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2317,7 +2319,7 @@
       <Position>SWITCH_CONTROL</Position>
       <TranslationSet>
         <base loc="en">Switch Control</base>
-        <tran loc="es">Control por botón</tran>
+        <tran loc="es-419">Control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2325,7 +2327,7 @@
       <Position>DISCONNECT_FROM_MASTER</Position>
       <TranslationSet>
         <base loc="en">Stop Using Device</base>
-        <tran loc="es">Dejar de usar el dispositivo</tran>
+        <tran loc="es-419">Dejar de usar dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2333,7 +2335,7 @@
       <Position>PINCH_OUT</Position>
       <TranslationSet>
         <base loc="en">Pinch Out</base>
-        <tran loc="es">Separar dedos</tran>
+        <tran loc="es-419">Separar dedos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2341,7 +2343,7 @@
       <Position>Settings-Scan-By-Axis</Position>
       <TranslationSet>
         <base loc="en">Axis</base>
-        <tran loc="es">Eje</tran>
+        <tran loc="es-419">Eje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2349,7 +2351,7 @@
       <Position>UNLOCK_ITEM_SPECIFIC_MENU</Position>
       <TranslationSet>
         <base loc="en">Unlock Item Menu</base>
-        <tran loc="es">Desbloquear menú de ítems</tran>
+        <tran loc="es-419">Desbloquear menú de elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2357,7 +2359,7 @@
       <Position>FREEHAND_BENDING</Position>
       <TranslationSet>
         <base loc="en">Bending</base>
-        <tran loc="es">Curvando</tran>
+        <tran loc="es-419">Doblar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2365,7 +2367,7 @@
       <Position>Scroll-Left</Position>
       <TranslationSet>
         <base loc="en">Scroll Left</base>
-        <tran loc="es">A la izquierda</tran>
+        <tran loc="es-419">Desplazar a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2373,7 +2375,7 @@
       <Position>FingersFormat</Position>
       <TranslationSet>
         <base loc="en">Fingers (%@)</base>
-        <tran loc="es">Dedos (%@)</tran>
+        <tran loc="es-419">Dedos (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2381,7 +2383,7 @@
       <Position>SIRI_SHORTCUTS_SETTINGS_NAME</Position>
       <TranslationSet>
         <base loc="en">Siri Shortcut: %@</base>
-        <tran loc="es">Atajo de Siri: %@</tran>
+        <tran loc="es-419">Atajo de Siri: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2389,7 +2391,7 @@
       <Position>element.selected</Position>
       <TranslationSet>
         <base loc="en">Selected</base>
-        <tran loc="es">Seleccionado</tran>
+        <tran loc="es-419">Elemento seleccionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2397,7 +2399,7 @@
       <Position>DWELL_RESUME</Position>
       <TranslationSet>
         <base loc="en">Resume\nDwell</base>
-        <tran loc="es">Reanudar\nla permanencia</tran>
+        <tran loc="es-419">Reanudar\nPermanencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2405,7 +2407,7 @@
       <Position>SHAKE</Position>
       <TranslationSet>
         <base loc="en">Shake</base>
-        <tran loc="es">Agitar</tran>
+        <tran loc="es-419">Agitar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2413,7 +2415,7 @@
       <Position>empty.favorite.gesture.button</Position>
       <TranslationSet>
         <base loc="en">Add custom gesture</base>
-        <tran loc="es">Añadir gesto personalizado</tran>
+        <tran loc="es-419">Agregar gesto personalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2421,7 +2423,7 @@
       <Position>DWELL_PAUSE_TOGGLE</Position>
       <TranslationSet>
         <base loc="en">Toggle\nPause/Resume Dwell</base>
-        <tran loc="es">Pausar/reanudar\nla permanencia</tran>
+        <tran loc="es-419">Pausar/Reanudar Permanencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2429,8 +2431,7 @@
       <Position>CONNECT_TO_SLAVE</Position>
       <TranslationSet>
         <base loc="en">Use Other Device</base>
-        <tran loc="es">Otro dis-
-positivo</tran>
+        <tran loc="es-419">Usar otro dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2438,7 +2439,7 @@ positivo</tran>
       <Position>HARDWARE_DEVICE_NOT_FOUND</Position>
       <TranslationSet>
         <base loc="en">External switch not found.</base>
-        <tran loc="es">No se ha encontrado el botón externo.</tran>
+        <tran loc="es-419">No se encontró el botón externo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2446,7 +2447,7 @@ positivo</tran>
       <Position>element.link</Position>
       <TranslationSet>
         <base loc="en">Link</base>
-        <tran loc="es">Enlace</tran>
+        <tran loc="es-419">Enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2454,7 +2455,7 @@ positivo</tran>
       <Position>FREEHAND_STRAIGHTEN_TWO_LINES</Position>
       <TranslationSet>
         <base loc="en">Straighten\nPath</base>
-        <tran loc="es">Enderezar\ntrazado</tran>
+        <tran loc="es-419">Enderezar\nruta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2462,7 +2463,7 @@ positivo</tran>
       <Position>EXIT_GROUP</Position>
       <TranslationSet>
         <base loc="en">Exit Group</base>
-        <tran loc="es">Salir del grupo</tran>
+        <tran loc="es-419">Salir del grupo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2470,7 +2471,7 @@ positivo</tran>
       <Position>DOCK</Position>
       <TranslationSet>
         <base loc="en">Dock</base>
-        <tran loc="es">Dock</tran>
+        <tran loc="es-419">Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2478,7 +2479,7 @@ positivo</tran>
       <Position>DOCK_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Dock</base>
-        <tran loc="es">Dock</tran>
+        <tran loc="es-419">Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2486,7 +2487,7 @@ positivo</tran>
       <Position>CONFIRM_CONTROL_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Connect</base>
-        <tran loc="es">Conectar</tran>
+        <tran loc="es-419">Conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2494,7 +2495,7 @@ positivo</tran>
       <Position>LOCK</Position>
       <TranslationSet>
         <base loc="en">Lock\nScreen</base>
-        <tran loc="es">Bloquear\npantalla</tran>
+        <tran loc="es-419">Bloquear\npantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2502,7 +2503,7 @@ positivo</tran>
       <Position>ScrollUpDownContainer</Position>
       <TranslationSet>
         <base loc="en">Scroll Up / Down</base>
-        <tran loc="es">Desplazamiento hacia arriba/abajo</tran>
+        <tran loc="es-419">Desplazar hacia arriba o abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2510,7 +2511,7 @@ positivo</tran>
       <Position>PIN_ERROR</Position>
       <TranslationSet>
         <base loc="en">Unable to open app in Split View.</base>
-        <tran loc="es">No se ha podido abrir la app en Split View</tran>
+        <tran loc="es-419">No se puede abrir la app con Split View.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2518,7 +2519,7 @@ positivo</tran>
       <Position>SPOTLIGHT</Position>
       <TranslationSet>
         <base loc="en">Spotlight</base>
-        <tran loc="es">Spotlight</tran>
+        <tran loc="es-419">Spotlight</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2526,7 +2527,7 @@ positivo</tran>
       <Position>ScrollLeftRightContainer</Position>
       <TranslationSet>
         <base loc="en">Scroll Left / Right</base>
-        <tran loc="es">Desplazamiento hacia la izquierda/derecha</tran>
+        <tran loc="es-419">Desplazar hacia la izquierda o derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2534,7 +2535,7 @@ positivo</tran>
       <Position>DWELL_RESUME_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Resume Dwell</base>
-        <tran loc="es">Reanudar la permanencia</tran>
+        <tran loc="es-419">Reanudar Permanencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2542,7 +2543,7 @@ positivo</tran>
       <Position>ZOOM_OUT</Position>
       <TranslationSet>
         <base loc="en">Zoom Out</base>
-        <tran loc="es">Alejar</tran>
+        <tran loc="es-419">Alejar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2550,7 +2551,7 @@ positivo</tran>
       <Position>Remote-VolumeGroup</Position>
       <TranslationSet>
         <base loc="en">Volume</base>
-        <tran loc="es">Volumen</tran>
+        <tran loc="es-419">Volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2558,7 +2559,7 @@ positivo</tran>
       <Position>ORIENTATION_UNLOCKED</Position>
       <TranslationSet>
         <base loc="en">Unlock\nRotation</base>
-        <tran loc="es">Desbloquear\nrotación</tran>
+        <tran loc="es-419">Desbloquear\nrotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2566,7 +2567,7 @@ positivo</tran>
       <Position>SYSDIAGNOSE</Position>
       <TranslationSet>
         <base loc="en">Analytics</base>
-        <tran loc="es">Análisis</tran>
+        <tran loc="es-419">Análisis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2574,7 +2575,7 @@ positivo</tran>
       <Position>SYSDIAGNOSE_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Analytics</base>
-        <tran loc="es">Análisis</tran>
+        <tran loc="es-419">Análisis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2582,7 +2583,7 @@ positivo</tran>
       <Position>EDIT_FORWARD_WORD</Position>
       <TranslationSet>
         <base loc="en">Next Word</base>
-        <tran loc="es">Palabra siguiente</tran>
+        <tran loc="es-419">Palabra siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2590,7 +2591,7 @@ positivo</tran>
       <Position>EDIT_BACKWARD_WORD</Position>
       <TranslationSet>
         <base loc="en">Previous Word</base>
-        <tran loc="es">Palabra anterior</tran>
+        <tran loc="es-419">Palabra anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2598,7 +2599,7 @@ positivo</tran>
       <Position>DROP_HERE</Position>
       <TranslationSet>
         <base loc="en">Drop Here</base>
-        <tran loc="es">Soltar aquí</tran>
+        <tran loc="es-419">Soltar aquí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2606,7 +2607,7 @@ positivo</tran>
       <Position>TYPING_SHORTCUTS</Position>
       <TranslationSet>
         <base loc="en">Typing Shortcuts</base>
-        <tran loc="es">Funciones rápidas de escritura</tran>
+        <tran loc="es-419">Funciones rápidas al teclear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2614,7 +2615,7 @@ positivo</tran>
       <Position>CAMERA_FACE_TOO_CLOSE</Position>
       <TranslationSet>
         <base loc="en">Your face is too close.</base>
-        <tran loc="es">La cara está muy cerca.</tran>
+        <tran loc="es-419">La cara está muy cerca.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2622,7 +2623,7 @@ positivo</tran>
       <Position>SCROLL_TO_BOTTOM_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Scroll to Bottom</base>
-        <tran loc="es">Ir al final</tran>
+        <tran loc="es-419">Ir al final</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2630,7 +2631,7 @@ positivo</tran>
       <Position>ACTIONS</Position>
       <TranslationSet>
         <base loc="en">Actions</base>
-        <tran loc="es">Acciones</tran>
+        <tran loc="es-419">Acciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2638,7 +2639,7 @@ positivo</tran>
       <Position>SCAT_QUICK_ITEM_ELEMENT_ACTIONS</Position>
       <TranslationSet>
         <base loc="en">Actions</base>
-        <tran loc="es">Acciones</tran>
+        <tran loc="es-419">Acciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2646,7 +2647,7 @@ positivo</tran>
       <Position>ASSISTIVE_TOUCH</Position>
       <TranslationSet>
         <base loc="en">AssistiveTouch</base>
-        <tran loc="es">AssistiveTouch</tran>
+        <tran loc="es-419">AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2654,7 +2655,7 @@ positivo</tran>
       <Position>SCAT_QUICK_ITEM_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2662,7 +2663,7 @@ positivo</tran>
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2670,7 +2671,7 @@ positivo</tran>
       <Position>ALWAYS_TAP_MENU</Position>
       <TranslationSet>
         <base loc="en">Switch Control Menu</base>
-        <tran loc="es">Menú de control por botón</tran>
+        <tran loc="es-419">Menú de control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2678,7 +2679,7 @@ positivo</tran>
       <Position>VOLUME_UP_ASSISTIVE_TOUCH_FULL_WIDTH</Position>
       <TranslationSet>
         <base loc="en">Volume Up</base>
-        <tran loc="es">Subir volumen</tran>
+        <tran loc="es-419">Subir volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2686,7 +2687,7 @@ positivo</tran>
       <Position>DWELL_TIME_DECREASE</Position>
       <TranslationSet>
         <base loc="en">Decrease Time</base>
-        <tran loc="es">Reducir tiempo</tran>
+        <tran loc="es-419">Reducir tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2694,7 +2695,7 @@ positivo</tran>
       <Position>APP_SWITCHER</Position>
       <TranslationSet>
         <base loc="en">App Switcher</base>
-        <tran loc="es">Selector de app</tran>
+        <tran loc="es-419">Selector\nde apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2702,7 +2703,7 @@ positivo</tran>
       <Position>Device-App-Switcher</Position>
       <TranslationSet>
         <base loc="en">App Switcher</base>
-        <tran loc="es">Selector\nde app</tran>
+        <tran loc="es-419">Selector\nde apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2710,7 +2711,7 @@ positivo</tran>
       <Position>DISCONNECTED_FROM_SLAVE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">No longer controlling %@.</base>
-        <tran loc="es">Ya no controlas %@.</tran>
+        <tran loc="es-419">Ya no se controla %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2718,7 +2719,7 @@ positivo</tran>
       <Position>RECIPES</Position>
       <TranslationSet>
         <base loc="en">Recipes</base>
-        <tran loc="es">Recetas</tran>
+        <tran loc="es-419">Pautas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2726,7 +2727,7 @@ positivo</tran>
       <Position>ROTATE_COUNTERCLOCKWISE</Position>
       <TranslationSet>
         <base loc="en">Rotate CCW</base>
-        <tran loc="es">Girar a izquierda</tran>
+        <tran loc="es-419">Girar hacia la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2734,7 +2735,7 @@ positivo</tran>
       <Position>element.off.state</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2742,7 +2743,7 @@ positivo</tran>
       <Position>MENU</Position>
       <TranslationSet>
         <base loc="en">Menu</base>
-        <tran loc="es">Menú</tran>
+        <tran loc="es-419">Menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2750,7 +2751,7 @@ positivo</tran>
       <Position>Remote-Menu</Position>
       <TranslationSet>
         <base loc="en">Menu</base>
-        <tran loc="es">Menú</tran>
+        <tran loc="es-419">Menú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2758,7 +2759,7 @@ positivo</tran>
       <Position>nubbit.label</Position>
       <TranslationSet>
         <base loc="en">AssistiveTouch menu</base>
-        <tran loc="es">Menú AssistiveTouch</tran>
+        <tran loc="es-419">Menú AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2766,7 +2767,7 @@ positivo</tran>
       <Position>MadeForIphone_HardwareSwitch_MoveToNextItem</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2774,7 +2775,7 @@ positivo</tran>
       <Position>FREEHAND_ON</Position>
       <TranslationSet>
         <base loc="en">ON</base>
-        <tran loc="es">SÍ</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2782,7 +2783,7 @@ positivo</tran>
       <Position>MediaControls-Pause</Position>
       <TranslationSet>
         <base loc="en">Pause</base>
-        <tran loc="es">Pausa</tran>
+        <tran loc="es-419">Pausa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2790,7 +2791,7 @@ positivo</tran>
       <Position>PAUSE</Position>
       <TranslationSet>
         <base loc="en">Pause</base>
-        <tran loc="es">Pausa</tran>
+        <tran loc="es-419">Pausa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2798,7 +2799,7 @@ positivo</tran>
       <Position>DWELL_UNLOCK</Position>
       <TranslationSet>
         <base loc="en">Enable\nFallback</base>
-        <tran loc="es">Activar\nAutorrevertir</tran>
+        <tran loc="es-419">Activar\nautorrevertir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2806,7 +2807,7 @@ positivo</tran>
       <Position>FLICK_DOWN</Position>
       <TranslationSet>
         <base loc="en">Flick Down</base>
-        <tran loc="es">Deslizar abajo</tran>
+        <tran loc="es-419">Deslizar abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2814,7 +2815,7 @@ positivo</tran>
       <Position>ORIENTATION_LOCKED</Position>
       <TranslationSet>
         <base loc="en">Lock\nRotation</base>
-        <tran loc="es">Bloquear\nrotación</tran>
+        <tran loc="es-419">Bloquear\nrotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2822,7 +2823,7 @@ positivo</tran>
       <Position>UNMUTE</Position>
       <TranslationSet>
         <base loc="en">Unmute</base>
-        <tran loc="es">Activar sonido</tran>
+        <tran loc="es-419">Activar\nsonido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2830,7 +2831,7 @@ positivo</tran>
       <Position>PAN_LEFT</Position>
       <TranslationSet>
         <base loc="en">Pan Left</base>
-        <tran loc="es">Desplazarse a la izquierda</tran>
+        <tran loc="es-419">Panorámica izq.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2838,7 +2839,7 @@ positivo</tran>
       <Position>FORCE_TOUCH</Position>
       <TranslationSet>
         <base loc="en">3D Touch</base>
-        <tran loc="es">3D Touch</tran>
+        <tran loc="es-419">3D Touch</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2855,7 +2856,7 @@ positivo</tran>
       <Position>SCREEN_INVALID_NHB_IPAD</Position>
       <TranslationSet>
         <base loc="en">Triple-click the Top Button to stop Switch Control.</base>
-        <tran loc="es">Pulsa tres veces el botón superior para detener el control por botón.</tran>
+        <tran loc="es-419">Haz clic tres veces en el botón superior para detener "Control por botón".</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2869,7 +2870,7 @@ positivo</tran>
       <Position>SWITCH_OVER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Switch Control</base>
-        <tran loc="es">Control por botón</tran>
+        <tran loc="es-419">Control por botón</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>AUTH_NEEDED_SPECIFIC_ALERT_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Calendar “%@” at %@ requires authentication</base>
-        <tran loc="es">El calendario “%@” de %@ requiere autenticación</tran>
+        <tran loc="es-419">El calendario “%@” de %@ requiere autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -17,7 +17,7 @@
       <Position>WHITE</Position>
       <TranslationSet>
         <base loc="en">White</base>
-        <tran loc="es">Blanco</tran>
+        <tran loc="es-419">Blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -25,7 +25,7 @@
       <Position>MEETING_RESPONSE_DECLINED</Position>
       <TranslationSet>
         <base loc="en">Declined:</base>
-        <tran loc="es">Rechazada:</tran>
+        <tran loc="es-419">Rechazada:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -33,7 +33,7 @@
       <Position>HOLIDAY_CALENDAR_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Holiday Calendar</base>
-        <tran loc="es">Calendario de festivos</tran>
+        <tran loc="es-419">Días festivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +41,7 @@
       <Position>SUBSCRIBE</Position>
       <TranslationSet>
         <base loc="en">Subscribe</base>
-        <tran loc="es">Suscribirse</tran>
+        <tran loc="es-419">Suscribirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -49,7 +49,7 @@
       <Position>INVALID_ALERT_MESSAGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Could not subscribe to the calendar “%@” from “%@”.</base>
-        <tran loc="es">No se ha podido suscribir al calendario “%@” de “%@”.</tran>
+        <tran loc="es-419">No se pudo suscribir al calendario “%@” de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>ELLIPSIS</Position>
       <TranslationSet>
         <base loc="en">…</base>
-        <tran loc="es">…</tran>
+        <tran loc="es-419">…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>SERVER_CERTIFICATE_UNVERIFIED_WITH_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">The certificate from “%@” for account “%@” could not be verified.</base>
-        <tran loc="es">Imposible verificar el certificado de “%@” para la cuenta “%@”.</tran>
+        <tran loc="es-419">Imposible verificar el certificado de “%@” para la cuenta “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>MEETING_RESPONSE_TENTATIVE</Position>
       <TranslationSet>
         <base loc="en">Tentative:</base>
-        <tran loc="es">Por confirmar:</tran>
+        <tran loc="es-419">Por confirmar:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>SERVER_CERTIFICATE_UNVERIFIED</Position>
       <TranslationSet>
         <base loc="en">The certificate from “%@” could not be verified.</base>
-        <tran loc="es">Imposible verificar el certificado de “%@”.</tran>
+        <tran loc="es-419">Imposible verificar el certificado de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>SERVER_CERTIFICATE_ACCEPT</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>SERVER_CERTIFICATE_UNVERIFIED_AUTODISCOVERY</Position>
       <TranslationSet>
         <base loc="en">While automatically discovering account settings, the certificate from “%@” could not be verified.</base>
-        <tran loc="es">Imposible verificar el certificado de “%@” al obtener los ajustes de la cuenta de forma automática.</tran>
+        <tran loc="es-419">Imposible verificar el certificado de “%@” al obtener la configuración de la cuenta de forma automática.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>WHERE_TO_ALERT_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">The Calendar “%@” has been added</base>
-        <tran loc="es">El calendario “%@” se ha añadido</tran>
+        <tran loc="es-419">El calendario “%@” se agregó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>INVALID_CLIENT_CERTIFICATE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Cannot Authenticate</base>
-        <tran loc="es">No se puede autenticar</tran>
+        <tran loc="es-419">No se puede autenticar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>DA_POLICY_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Policy Requirement</base>
-        <tran loc="es">Requisito de la política</tran>
+        <tran loc="es-419">Requisito de la política</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>MISSING_PASSWORD_HEADER</Position>
       <TranslationSet>
         <base loc="en">Password Required</base>
-        <tran loc="es">Contraseña obligatoria</tran>
+        <tran loc="es-419">Contraseña obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>INVALID_PASSWORD_BODY_CARDDAV</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the CardDAV account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta CardDAV “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de CardDAV de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_LDAP</Position>
       <TranslationSet>
         <base loc="en">An identical LDAP account already exists.</base>
-        <tran loc="es">Ya existe una cuenta LDAP idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta LDAP idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>INVALID_PASSWORD_BODY_SUBCAL</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the Subscribed Calendar “%@”</base>
-        <tran loc="es">Introduce la contraseña del calendario suscrito “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña del calendario suscrito “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>INVALID_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Subscribe</base>
-        <tran loc="es">Imposible suscribirse</tran>
+        <tran loc="es-419">Imposible suscribirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>SERVER_CERTIFICATE_ERROR_ALERT_HEADER</Position>
       <TranslationSet>
         <base loc="en">Unable to Verify Certificate</base>
-        <tran loc="es">Imposible verificar el certificado</tran>
+        <tran loc="es-419">Imposible verificar el certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>INVALID_PASSWORD_BODY_HOTMAIL</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the Outlook account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta de Outlook “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de Outlook de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>MEETING_RESPONSE_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Calendar Invitation</base>
-        <tran loc="es">Invitación del calendario</tran>
+        <tran loc="es-419">Invitación del calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>MEETING_RESPONSE_ACCEPTED</Position>
       <TranslationSet>
         <base loc="en">Accepted:</base>
-        <tran loc="es">Aceptada:</tran>
+        <tran loc="es-419">Aceptada:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>INVALID_CLIENT_CERTIFICATE_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>PASSWORD_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_CARDDAV</Position>
       <TranslationSet>
         <base loc="en">An identical CardDAV account already exists.</base>
-        <tran loc="es">Ya existe una cuenta CardDAV idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta CardDAV idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>MEETING_RESPONSE_FAILURE_BODY</Position>
       <TranslationSet>
         <base loc="en">Your response to the invitation cannot be sent.</base>
-        <tran loc="es">No se puede enviar tu respuesta a la invitación.</tran>
+        <tran loc="es-419">No se puede enviar tu respuesta a la invitación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>PASSWORD_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>SERVER_CERTIFICATE_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>AUTH_NEEDED_ALERT_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Calendar at %@ requires authentication</base>
-        <tran loc="es">El calendario de %@ requiere autenticación</tran>
+        <tran loc="es-419">El calendario de %@ requiere autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>BLACK</Position>
       <TranslationSet>
         <base loc="en">Black</base>
-        <tran loc="es">Negro</tran>
+        <tran loc="es-419">Negro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Create Account</base>
-        <tran loc="es">Imposible crear cuenta</tran>
+        <tran loc="es-419">Imposible crear cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DA_POLICY_COMPLIANCE_WARNING</Position>
       <TranslationSet>
         <base loc="en">The account “%@” cannot receive new data until a new passcode is set.</base>
-        <tran loc="es">La cuenta “%@” no podrá recibir datos hasta que se defina un nuevo código.</tran>
+        <tran loc="es-419">La cuenta “%@” no podrá recibir datos hasta que se defina un nuevo código.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -311,7 +311,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>VALIDATED_ALERT_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Subscribe to the calendar “%@”?</base>
-        <tran loc="es">¿Quieres suscribirte al calendario “%@”?</tran>
+        <tran loc="es-419">¿Quieres suscribirte al calendario “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -319,7 +319,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>VIEW_EVENTS</Position>
       <TranslationSet>
         <base loc="en">View Events</base>
-        <tran loc="es">Ver eventos</tran>
+        <tran loc="es-419">Ver eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -327,7 +327,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EDIT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Edit Settings</base>
-        <tran loc="es">Editar ajustes</tran>
+        <tran loc="es-419">Editar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -335,7 +335,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_BODY_EXCHANGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the Exchange account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta Exchange “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de Exchange de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -343,7 +343,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>AUTOGENERATED_MAIN_TASKS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Tasks</base>
-        <tran loc="es">Tareas</tran>
+        <tran loc="es-419">Tareas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +351,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_BODY_LDAP</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the LDAP account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta LDAP “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de LDAP de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -359,7 +359,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_HEADER</Position>
       <TranslationSet>
         <base loc="en">Password Incorrect</base>
-        <tran loc="es">Contraseña incorrecta</tran>
+        <tran loc="es-419">Contraseña incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -367,7 +367,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_BODY_CALDAV</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the CalDAV account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta CalDAV “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de CalDAV de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -375,7 +375,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DA_POLICY_FAILURE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Disable</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +383,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -391,7 +391,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_HOTMAIL</Position>
       <TranslationSet>
         <base loc="en">An identical Outlook account already exists.</base>
-        <tran loc="es">Ya existe una cuenta de Outlook idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta de Outlook idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -399,7 +399,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>MEETING_RESPONSE_REPLY</Position>
       <TranslationSet>
         <base loc="en">RE:</base>
-        <tran loc="es">RE:</tran>
+        <tran loc="es-419">RE:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -407,7 +407,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_EXCHANGE</Position>
       <TranslationSet>
         <base loc="en">An identical Exchange account already exists.</base>
-        <tran loc="es">Ya existe una cuenta Exchange idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta Exchange idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -415,7 +415,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>AUTOGENERATED_MAIN_NOTES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +423,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_USERNAME_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +431,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>AUTOGENERATED_MAIN_EVENT_CALENDAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +439,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_SUBCAL</Position>
       <TranslationSet>
         <base loc="en">An identical Subscribed Calendar account already exists.</base>
-        <tran loc="es">Ya existe una cuenta de calendario suscrito idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta de calendario suscrito idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +447,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>AUTOGENERATED_MAIN_CONTACTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +455,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_CALDAV</Position>
       <TranslationSet>
         <base loc="en">An identical CalDAV account already exists.</base>
-        <tran loc="es">Ya existe una cuenta CalDAV idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta CalDAV idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +463,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_CLIENT_CERTIFICATE_BODY</Position>
       <TranslationSet>
         <base loc="en">Cannot authenticate to the server “%@” because the certificate is not valid.</base>
-        <tran loc="es">El servidor “%@” no puede autenticar este usuario porque el certificado no es válido.</tran>
+        <tran loc="es-419">El servidor “%@” no puede autenticar este usuario porque el certificado no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +471,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_BODY_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”</tran>
       </TranslationSet>
     </TextItem>
   </File>

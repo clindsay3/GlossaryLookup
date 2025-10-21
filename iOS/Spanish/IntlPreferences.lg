@@ -8,7 +8,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Copyright 2000-2014 Apple Inc. All rights reserved.</base>
-        <tran loc="es">© Copyright 2000-2014 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">© Copyright 2000-2014 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">IntlPreferences</base>
-        <tran loc="es">IntlPreferences</tran>
+        <tran loc="es-419">IntlPreferences</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -27,7 +27,7 @@
       <Position>ENCODING</Position>
       <TranslationSet>
         <base loc="en">Encoding</base>
-        <tran loc="es">Codificación</tran>
+        <tran loc="es-419">Codificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>SCRIPT_COLON</Position>
       <TranslationSet>
         <base loc="en">Script:</base>
-        <tran loc="es">Escritura:</tran>
+        <tran loc="es-419">Script:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>SCRIPT</Position>
       <TranslationSet>
         <base loc="en">Script</base>
-        <tran loc="es">Escritura</tran>
+        <tran loc="es-419">Script</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>Arab</Position>
       <TranslationSet>
         <base loc="en">Naskh</base>
-        <tran loc="es">Naskh</tran>
+        <tran loc="es-419">Naskh</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>ENCODING_COLON</Position>
       <TranslationSet>
         <base loc="en">Encoding:</base>
-        <tran loc="es">Codificación:</tran>
+        <tran loc="es-419">Codificación:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>Aran</Position>
       <TranslationSet>
         <base loc="en">Nastaliq</base>
-        <tran loc="es">Nastaliq</tran>
+        <tran loc="es-419">Nastaliq</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -75,7 +75,7 @@
       <Position>Mymr</Position>
       <TranslationSet>
         <base loc="en">Standard (Recommended)</base>
-        <tran loc="es">Estándar (recomendado)</tran>
+        <tran loc="es-419">Estándar (recomendado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -83,7 +83,7 @@
       <Position>Qaag</Position>
       <TranslationSet>
         <base loc="en">Zawgyi</base>
-        <tran loc="es">Zawgyi</tran>
+        <tran loc="es-419">Zawgyi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -91,7 +91,7 @@
       <Position>ZAWGYI_EXPLANATION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Zawgyi is a non-standard text encoding and may lead to abnormal text rendering.</base>
-        <tran loc="es">Zawgyi es una codificación de texto no estándar que puede provocar que el texto no se lea bien.</tran>
+        <tran loc="es-419">Zawgyi es una codificación de texto no estandarizada que puede provocar problemas de renderización de texto.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -102,7 +102,7 @@
       <Position>Keyboard layout preview for %@ input source.</Position>
       <TranslationSet>
         <base loc="en">Keyboard layout preview for %@ input source.</base>
-        <tran loc="es">Previsualización de la disposición del teclado para la fuente de entrada %@.</tran>
+        <tran loc="es-419">Vista previa del teclado para la fuente de entrada %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>NoInputSourceSelected</Position>
       <TranslationSet>
         <base loc="en">No input source selected</base>
-        <tran loc="es">Ninguna fuente de entrada seleccionada</tran>
+        <tran loc="es-419">Ninguna fuente de entrada seleccionada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>Script-25</Position>
       <TranslationSet>
         <base loc="en">Simplified Chinese</base>
-        <tran loc="es">Chino simplificado</tran>
+        <tran loc="es-419">Chino simplificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>%@ — Primary</Position>
       <TranslationSet>
         <base loc="en">%@ — Primary</base>
-        <tran loc="es">%@ (principal)</tran>
+        <tran loc="es-419">%@ (principal)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>Others</Position>
       <TranslationSet>
         <base loc="en">Others</base>
-        <tran loc="es">Otros</tran>
+        <tran loc="es-419">Otras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>MultipleInputSourcesSelected</Position>
       <TranslationSet>
         <base loc="en">Multiple input sources are selected</base>
-        <tran loc="es">Hay varias fuentes de entrada seleccionadas</tran>
+        <tran loc="es-419">Hay varias fuentes de entrada seleccionadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>Script-2</Position>
       <TranslationSet>
         <base loc="en">Traditional Chinese</base>
-        <tran loc="es">Chino tradicional</tran>
+        <tran loc="es-419">Chino tradicional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>Script-7</Position>
       <TranslationSet>
         <base loc="en">Cyrillic</base>
-        <tran loc="es">Cirílico</tran>
+        <tran loc="es-419">Cirílico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>Script-29</Position>
       <TranslationSet>
         <base loc="en">Central European</base>
-        <tran loc="es">Centroeuropeo</tran>
+        <tran loc="es-419">Centroeuropeo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>Script-0</Position>
       <TranslationSet>
         <base loc="en">Roman</base>
-        <tran loc="es">Latino</tran>
+        <tran loc="es-419">Latino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>Script-3</Position>
       <TranslationSet>
         <base loc="en">Korean</base>
-        <tran loc="es">Coreano</tran>
+        <tran loc="es-419">Coreano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>Trackpad preview for %@ input source.</Position>
       <TranslationSet>
         <base loc="en">Trackpad preview for %@ input source.</base>
-        <tran loc="es">Previsualización del trackpad para la fuente de entrada %@.</tran>
+        <tran loc="es-419">Vista previa del trackpad para la fuente de entrada %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>Script-126</Position>
       <TranslationSet>
         <base loc="en">Unicode</base>
-        <tran loc="es">Unicode</tran>
+        <tran loc="es-419">Unicode</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>ForceCapitalizationInLanguageLists</Position>
       <TranslationSet>
         <base loc="en">0</base>
-        <tran loc="es">1</tran>
+        <tran loc="es-419">1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>KeyboardLayoutNotAvailable</Position>
       <TranslationSet>
         <base loc="en">Keyboard layout not available</base>
-        <tran loc="es">Disposición de teclado no disponible</tran>
+        <tran loc="es-419">Disposición de teclado no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>Script-1</Position>
       <TranslationSet>
         <base loc="en">Japanese</base>
-        <tran loc="es">Japonés</tran>
+        <tran loc="es-419">Japonés</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -233,7 +233,7 @@
       <Position>hebrew</Position>
       <TranslationSet>
         <base loc="en">hebrew</base>
-        <tran loc="es">hebreo</tran>
+        <tran loc="es-419">hebreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>islamic</Position>
       <TranslationSet>
         <base loc="en">islamic</base>
-        <tran loc="es">islámico</tran>
+        <tran loc="es-419">islámico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>chinese</Position>
       <TranslationSet>
         <base loc="en">chinese</base>
-        <tran loc="es">chino</tran>
+        <tran loc="es-419">chino</tran>
       </TranslationSet>
     </TextItem>
   </File>

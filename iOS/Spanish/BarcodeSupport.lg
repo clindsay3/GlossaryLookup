@@ -13,7 +13,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">QR Code Reader</base>
-        <tran loc="es">Lector de código QR</tran>
+        <tran loc="es-419">Lector de códigos QR</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -31,7 +31,7 @@
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading</base>
-        <tran loc="es">Cargando</tran>
+        <tran loc="es-419">Cargando</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -42,7 +42,7 @@
       <Position>Open “%@” in App</Position>
       <TranslationSet>
         <base loc="en">Open “%@” in App</base>
-        <tran loc="es">Abrir “%@” en una app</tran>
+        <tran loc="es-419">Abrir “%@” en la app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -50,7 +50,7 @@
       <Position>WEBSITE QR CODE</Position>
       <TranslationSet>
         <base loc="en">WEBSITE QR CODE</base>
-        <tran loc="es">CÓDIGO QR DE SITIO WEB</tran>
+        <tran loc="es-419">CÓDIGO QR CON SITIO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -58,7 +58,7 @@
       <Position>TEXT QR CODE</Position>
       <TranslationSet>
         <base loc="en">TEXT QR CODE</base>
-        <tran loc="es">CÓDIGO QR DE TEXTO</tran>
+        <tran loc="es-419">CÓDIGO QR DE TEXTO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -66,7 +66,7 @@
       <Position>Search Web</Position>
       <TranslationSet>
         <base loc="en">Search Web</base>
-        <tran loc="es">Buscar en internet</tran>
+        <tran loc="es-419">Buscar en Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -74,7 +74,7 @@
       <Position>QR CODE DETECTED</Position>
       <TranslationSet>
         <base loc="en">QR CODE DETECTED</base>
-        <tran loc="es">CÓDIGO QR DETECTADO</tran>
+        <tran loc="es-419">CÓDIGO QR DETECTADO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -82,7 +82,7 @@
       <Position>No usable data found</Position>
       <TranslationSet>
         <base loc="en">No usable data found</base>
-        <tran loc="es">No se han encontrado datos que puedan utilizarse</tran>
+        <tran loc="es-419">No se encontraron datos utilizables</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -90,7 +90,7 @@
       <Position>Choose Action</Position>
       <TranslationSet>
         <base loc="en">Choose Action</base>
-        <tran loc="es">Seleccionar acción</tran>
+        <tran loc="es-419">Seleccionar acción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -98,7 +98,7 @@
       <Position>Contents: “%@”</Position>
       <TranslationSet>
         <base loc="en">Contents: “%@”</base>
-        <tran loc="es">Contenido: “%@”</tran>
+        <tran loc="es-419">Contenidos: “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -106,7 +106,7 @@
       <Position>Join “%@” Network</Position>
       <TranslationSet>
         <base loc="en">Join “%@” Network</base>
-        <tran loc="es">Acceder a la red “%@”</tran>
+        <tran loc="es-419">Acceder a la red "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -114,7 +114,7 @@
       <Position>%@ QR CODE</Position>
       <TranslationSet>
         <base loc="en">%@ QR CODE</base>
-        <tran loc="es">CÓDIGO QR - %@</tran>
+        <tran loc="es-419">%@ CÓDIGO QR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -122,7 +122,7 @@
       <Position>View in %@</Position>
       <TranslationSet>
         <base loc="en">View in %@</base>
-        <tran loc="es">Ver en %@</tran>
+        <tran loc="es-419">Ver en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -130,7 +130,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -138,7 +138,7 @@
       <Position>APP QR CODE</Position>
       <TranslationSet>
         <base loc="en">APP QR CODE</base>
-        <tran loc="es">CÓDIGO QR DE APP</tran>
+        <tran loc="es-419">CÓDIGO QR DE APP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -146,7 +146,7 @@
       <Position>Open “%@” link</Position>
       <TranslationSet>
         <base loc="en">Open “%@” link</base>
-        <tran loc="es">Abrir enlace de “%@”</tran>
+        <tran loc="es-419">Abrir enlace de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -154,7 +154,7 @@
       <Position>Open “%@” in %@</Position>
       <TranslationSet>
         <base loc="en">Open “%@” in %@</base>
-        <tran loc="es">Abrir “%@” en %@</tran>
+        <tran loc="es-419">Abrir “%@” en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -162,7 +162,7 @@
       <Position>Join Network</Position>
       <TranslationSet>
         <base loc="en">Join Network</base>
-        <tran loc="es">Acceder a la red</tran>
+        <tran loc="es-419">Acceder a la red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -170,7 +170,7 @@
       <Position>NFC TAG DETECTED</Position>
       <TranslationSet>
         <base loc="en">NFC TAG DETECTED</base>
-        <tran loc="es">ETIQUETA NFC DETECTADA</tran>
+        <tran loc="es-419">ETIQUETA NFC DETECTADA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -178,7 +178,7 @@
       <Position>Copy</Position>
       <TranslationSet>
         <base loc="en">Copy</base>
-        <tran loc="es">Copiar</tran>
+        <tran loc="es-419">Copiar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -186,7 +186,7 @@
       <Position>%@ NFC TAG</Position>
       <TranslationSet>
         <base loc="en">%@ NFC TAG</base>
-        <tran loc="es">ETIQUETA NFC - %@</tran>
+        <tran loc="es-419">ETIQUETA NFC DE %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -194,7 +194,7 @@
       <Position>WLAN QR CODE</Position>
       <TranslationSet>
         <base loc="en">WLAN QR CODE</base>
-        <tran loc="es">CÓDIGO QR DE WLAN</tran>
+        <tran loc="es-419">CÓDIGO QR DE WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -202,7 +202,7 @@
       <Position>Search Web in Safari</Position>
       <TranslationSet>
         <base loc="en">Search Web in Safari</base>
-        <tran loc="es">Buscar en internet con Safari</tran>
+        <tran loc="es-419">Buscar en Internet con Safari</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -210,7 +210,7 @@
       <Position>Choose App to Open URL</Position>
       <TranslationSet>
         <base loc="en">Choose App to Open URL</base>
-        <tran loc="es">Seleccionar una app para abrir la URL</tran>
+        <tran loc="es-419">Elige con qué app abrir la URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -218,7 +218,7 @@
       <Position>Open “%@”</Position>
       <TranslationSet>
         <base loc="en">Open “%@”</base>
-        <tran loc="es">Abrir %@</tran>
+        <tran loc="es-419">Abrir “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -226,7 +226,7 @@
       <Position>Open Link</Position>
       <TranslationSet>
         <base loc="en">Open Link</base>
-        <tran loc="es">Abrir enlace</tran>
+        <tran loc="es-419">Abrir enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -234,7 +234,7 @@
       <Position>Open in %@</Position>
       <TranslationSet>
         <base loc="en">Open in %@</base>
-        <tran loc="es">Abrir en %@</tran>
+        <tran loc="es-419">Abrir en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -242,7 +242,7 @@
       <Position>WI-FI QR CODE</Position>
       <TranslationSet>
         <base loc="en">WI-FI QR CODE</base>
-        <tran loc="es">CÓDIGO QR DE WI-FI</tran>
+        <tran loc="es-419">CÓDIGO QR DE WI-FI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -250,7 +250,7 @@
       <Position>WEBSITE NFC TAG</Position>
       <TranslationSet>
         <base loc="en">WEBSITE NFC TAG</base>
-        <tran loc="es">ETIQUETA NFC DE SITIO WEB</tran>
+        <tran loc="es-419">ETIQUETA NFC CON SITIO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -258,7 +258,7 @@
       <Position>Open</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -269,7 +269,7 @@
       <Position>QR CODE</Position>
       <TranslationSet>
         <base loc="en">QR CODE</base>
-        <tran loc="es">CÓDIGO QR</tran>
+        <tran loc="es-419">CÓDIGO QR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -277,7 +277,7 @@
       <Position>Sign In</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -285,7 +285,7 @@
       <Position>WI-FI</Position>
       <TranslationSet>
         <base loc="en">WI-FI</base>
-        <tran loc="es">Wi‐Fi</tran>
+        <tran loc="es-419">WI-FI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -293,7 +293,7 @@
       <Position>Failed to join the network</Position>
       <TranslationSet>
         <base loc="en">Failed to join the network</base>
-        <tran loc="es">Error al conectarse a la red</tran>
+        <tran loc="es-419">Error al conectarse a la red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -301,7 +301,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -309,7 +309,7 @@
       <Position>Cancel (action picker)</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -317,7 +317,7 @@
       <Position>Cancel (alert for error explanation)</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>Cancel (alert for invalid data)</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>Cancel (first time prompt)</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>Do you want to always allow opening this QR code in %@?</Position>
       <TranslationSet>
         <base loc="en">Do you want to always allow opening this QR code in %@?</base>
-        <tran loc="es">¿Quieres permitir que este código QR se abra siempre en %@?</tran>
+        <tran loc="es-419">¿Quieres permitir que siempre se abra este código QR en %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>Move closer</Position>
       <TranslationSet>
         <base loc="en">Move closer</base>
-        <tran loc="es">Acércalo</tran>
+        <tran loc="es-419">Acércate</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>Incorrect password for the network</Position>
       <TranslationSet>
         <base loc="en">Incorrect password for the network</base>
-        <tran loc="es">La contraseña de la red es incorrecta</tran>
+        <tran loc="es-419">La contraseña de la red es incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>Could not find the network</Position>
       <TranslationSet>
         <base loc="en">Could not find the network</base>
-        <tran loc="es">No se ha podido encontrar la red</tran>
+        <tran loc="es-419">No se encontró la red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>iCloud</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>WLAN</Position>
       <TranslationSet>
         <base loc="en">WLAN</base>
-        <tran loc="es">WLAN</tran>
+        <tran loc="es-419">WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>TEXT</Position>
       <TranslationSet>
         <base loc="en">TEXT</base>
-        <tran loc="es">TEXTO</tran>
+        <tran loc="es-419">TEXTO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>Always Allow</Position>
       <TranslationSet>
         <base loc="en">Always Allow</base>
-        <tran loc="es">Permitir siempre</tran>
+        <tran loc="es-419">Permitir siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>Find a code to scan</Position>
       <TranslationSet>
         <base loc="en">Find a code to scan</base>
-        <tran loc="es">Encuentra un código para escanearlo</tran>
+        <tran loc="es-419">Buscar un código para escanearlo</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -423,7 +423,7 @@
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading</base>
-        <tran loc="es">Cargando</tran>
+        <tran loc="es-419">Cargando</tran>
       </TranslationSet>
     </TextItem>
   </File>

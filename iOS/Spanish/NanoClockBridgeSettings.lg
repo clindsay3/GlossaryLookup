@@ -8,7 +8,7 @@
       <Position>UP_NEXT_ALARMS_SNOOZING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Snoozing</base>
-        <tran loc="es">Posponer</tran>
+        <tran loc="es-419">Posponer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -23,7 +23,7 @@
       <Position>UP_NEXT_ALARMS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Alarm</base>
-        <tran loc="es">Alarma</tran>
+        <tran loc="es-419">Alarma</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -34,7 +34,7 @@
       <Position>CITY_ABBREVIATIONS_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">You can specify different acronyms for the default ones provided for your chosen cities on the World Clock complication.</base>
-        <tran loc="es">Puedes cambiar las abreviaturas definidas por omisión para las ciudades seleccionadas para la complicación de reloj mundial.</tran>
+        <tran loc="es-419">Puedes seleccionar diferentes acrónimos además de los predeterminados para las ciudades seleccionadas en la complicación Reloj mundial.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -42,7 +42,7 @@
       <Position>MIRROR_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">When this is on, Apple Watch will alert you of Timers and Alarms you’ve set on your iPhone, so you can snooze or dismiss them remotely.</base>
-        <tran loc="es">Si esta opción está activada, el Apple Watch mostrará avisos de las alarmas y los temporizadores configurados en el iPhone, que podrás posponer o cerrar remotamente.</tran>
+        <tran loc="es-419">Cuando esté activado, el Apple Watch te avisará de las alarmas y temporizadores configurados en tu iPhone para que puedas posponerlos u omitirlos de forma remota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -50,7 +50,7 @@
       <Position>TIME_TRAVEL</Position>
       <TranslationSet>
         <base loc="en">Time Travel</base>
-        <tran loc="es">Time Travel</tran>
+        <tran loc="es-419">Time Travel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -58,7 +58,7 @@
       <Position>MIRROR_ALERTS</Position>
       <TranslationSet>
         <base loc="en">Push Alerts from iPhone</base>
-        <tran loc="es">Ver avisos del iPhone</tran>
+        <tran loc="es-419">Notificaciones del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -66,7 +66,7 @@
       <Position>SIRI_DATA_SOURCES</Position>
       <TranslationSet>
         <base loc="en">Siri Face Data Sources</base>
-        <tran loc="es">Datos de la esfera de Siri</tran>
+        <tran loc="es-419">Fuentes de datos de la carátula Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -74,7 +74,7 @@
       <Position>NOTIFICATIONS_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">When this is on, a red dot will appear at the top of your watch face when you have unread notifications.</base>
-        <tran loc="es">Si esta opción está activada, aparecerá un punto rojo en la parte superior de la esfera del reloj cuando tengas notificaciones no leídas.</tran>
+        <tran loc="es-419">Si se activa, se mostrará un punto rojo en la parte superior de la carátula del reloj cuando existan notificaciones sin leer.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -82,7 +82,7 @@
       <Position>TIME_TRAVEL_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">When this is on, you can turn the Digital Crown to view past or future data for supported complications.</base>
-        <tran loc="es">Si esta opción está activada, puedes girar la corona Digital Crown para ver datos del pasado o el futuro en las complicaciones compatibles.</tran>
+        <tran loc="es-419">Si está activado, puedes girar la Digital Crown para ver datos pasados o futuros de las complicaciones compatibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -90,7 +90,7 @@
       <Position>TWENTY_FOUR_HOUR_TIME_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%d-Hour Time</base>
-        <tran loc="es">Reloj de %d horas</tran>
+        <tran loc="es-419">Reloj de %d horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -98,7 +98,7 @@
       <Position>CITY_ABBREVIATIONS</Position>
       <TranslationSet>
         <base loc="en">City Abbreviations</base>
-        <tran loc="es">Abreviaturas de ciudades</tran>
+        <tran loc="es-419">Abreviaturas de ciudades</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -106,7 +106,7 @@
       <Position>NOTIFICATIONS_INDICATOR</Position>
       <TranslationSet>
         <base loc="en">Notifications Indicator</base>
-        <tran loc="es">Indicador de notificación</tran>
+        <tran loc="es-419">Indicador de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Clock</base>
-        <tran loc="es">Reloj</tran>
+        <tran loc="es-419">Reloj</tran>
       </TranslationSet>
     </TextItem>
   </File>

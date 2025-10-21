@@ -8,7 +8,7 @@
       <Position>ASSISTANT_SERVICES_LOCAL_MUSIC_SUBSCRIPTION_LEASE_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Music is playing on another device.</base>
-        <tran loc="es">Se está reproduciendo música en otro dispositivo.</tran>
+        <tran loc="es-419">Se está reproduciendo música en otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -29,7 +29,7 @@
       <Position>ASSISTANT_SERVICES_LOCAL_MUSIC_SUBSCRIPTION_LEASE_MALE</Position>
       <TranslationSet>
         <base loc="en">Music is playing on another device.</base>
-        <tran loc="es">Se está reproduciendo música en otro dispositivo.</tran>
+        <tran loc="es-419">Se está reproduciendo música en otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -40,7 +40,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_3_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Still trying…</base>
-        <tran loc="es">Sigo intentándolo…</tran>
+        <tran loc="es-419">Sigo intentando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_3_MALE</Position>
       <TranslationSet>
         <base loc="en">Still trying…</base>
-        <tran loc="es">Sigo intentándolo…</tran>
+        <tran loc="es-419">Sigo intentando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_3_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Still trying…</base>
-        <tran loc="es">Sigo intentándolo…</tran>
+        <tran loc="es-419">Sigo intentando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_3_MALE</Position>
       <TranslationSet>
         <base loc="en">Still trying…</base>
-        <tran loc="es">Sigo intentándolo…</tran>
+        <tran loc="es-419">Sigo intentando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_4_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Hmmm…</base>
-        <tran loc="es">A ver…</tran>
+        <tran loc="es-419">Mmmh…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_4_MALE</Position>
       <TranslationSet>
         <base loc="en">Hmmm…</base>
-        <tran loc="es">A ver…</tran>
+        <tran loc="es-419">Mmmh…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_4_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Hmmm…</base>
-        <tran loc="es">A ver…</tran>
+        <tran loc="es-419">Mmmh…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_4_MALE</Position>
       <TranslationSet>
         <base loc="en">Hmmm…</base>
-        <tran loc="es">A ver…</tran>
+        <tran loc="es-419">Mmmh…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_INITIAL_2_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Just a moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">En un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_INITIAL_2_MALE</Position>
       <TranslationSet>
         <base loc="en">Just a moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">En un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_INITIAL_2_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Just a moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">En un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_INITIAL_2_MALE</Position>
       <TranslationSet>
         <base loc="en">Just a moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">En un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_INITIAL_0_FEMALE</Position>
       <TranslationSet>
         <base loc="en">I’m on it…</base>
-        <tran loc="es">Estoy en ello…</tran>
+        <tran loc="es-419">Veamos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_INITIAL_0_MALE</Position>
       <TranslationSet>
         <base loc="en">I’m on it…</base>
-        <tran loc="es">Estoy en ello…</tran>
+        <tran loc="es-419">Veamos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_INITIAL_0_FEMALE</Position>
       <TranslationSet>
         <base loc="en">I’m on it…</base>
-        <tran loc="es">Estoy en ello…</tran>
+        <tran loc="es-419">Veamos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_INITIAL_0_MALE</Position>
       <TranslationSet>
         <base loc="en">I’m on it…</base>
-        <tran loc="es">Estoy en ello…</tran>
+        <tran loc="es-419">Veamos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_2_FEMALE</Position>
       <TranslationSet>
         <base loc="en">One more moment…</base>
-        <tran loc="es">Solo un momento más…</tran>
+        <tran loc="es-419">Un poco más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_2_MALE</Position>
       <TranslationSet>
         <base loc="en">One more moment…</base>
-        <tran loc="es">Solo un momento más…</tran>
+        <tran loc="es-419">Un poco más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_2_FEMALE</Position>
       <TranslationSet>
         <base loc="en">One more moment…</base>
-        <tran loc="es">Solo un momento más…</tran>
+        <tran loc="es-419">Un poco más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_2_MALE</Position>
       <TranslationSet>
         <base loc="en">One more moment…</base>
-        <tran loc="es">Solo un momento más…</tran>
+        <tran loc="es-419">Un poco más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_INITIAL_1_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Just a sec…</base>
-        <tran loc="es">Un segundo…</tran>
+        <tran loc="es-419">Un momentito…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_INITIAL_1_MALE</Position>
       <TranslationSet>
         <base loc="en">Just a sec…</base>
-        <tran loc="es">Un segundo…</tran>
+        <tran loc="es-419">Un momentito…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_INITIAL_1_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Just a sec…</base>
-        <tran loc="es">Un segundo…</tran>
+        <tran loc="es-419">Un momentito…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_INITIAL_1_MALE</Position>
       <TranslationSet>
         <base loc="en">Just a sec…</base>
-        <tran loc="es">Un segundo…</tran>
+        <tran loc="es-419">Un momentito…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_INITIAL_3_FEMALE</Position>
       <TranslationSet>
         <base loc="en">One moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">Un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_INITIAL_3_MALE</Position>
       <TranslationSet>
         <base loc="en">One moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">Un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_INITIAL_3_FEMALE</Position>
       <TranslationSet>
         <base loc="en">One moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">Un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_INITIAL_3_MALE</Position>
       <TranslationSet>
         <base loc="en">One moment…</base>
-        <tran loc="es">Un momento…</tran>
+        <tran loc="es-419">Un momento…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_1_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Stand by please…</base>
-        <tran loc="es">Espera…</tran>
+        <tran loc="es-419">Espera…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_1_MALE</Position>
       <TranslationSet>
         <base loc="en">Stand by please…</base>
-        <tran loc="es">Espera…</tran>
+        <tran loc="es-419">Espera…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_1_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Stand by please…</base>
-        <tran loc="es">Espera…</tran>
+        <tran loc="es-419">Espera…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_1_MALE</Position>
       <TranslationSet>
         <base loc="en">Stand by please…</base>
-        <tran loc="es">Espera…</tran>
+        <tran loc="es-419">Espera…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_0_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Working on that…</base>
-        <tran loc="es">Estoy en ello…</tran>
+        <tran loc="es-419">Estoy en eso…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_DISPLAY_FOLLOW_UP_0_MALE</Position>
       <TranslationSet>
         <base loc="en">Working on that…</base>
-        <tran loc="es">Estoy en ello…</tran>
+        <tran loc="es-419">Estoy en eso…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_0_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Working on that…</base>
-        <tran loc="es">Estoy en ello…</tran>
+        <tran loc="es-419">Estoy en eso…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>ASSISTANT_SERVICES_INTERSTITIAL_SPEAKABLE_FOLLOW_UP_0_MALE</Position>
       <TranslationSet>
         <base loc="en">Working on that…</base>
-        <tran loc="es">Estoy en ello…</tran>
+        <tran loc="es-419">Estoy en eso…</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -345,7 +345,7 @@
       <Position>THREE_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@, or %3$@ other</base>
-        <tran loc="es">%1$@, %2$@ o %3$@ más</tran>
+        <tran loc="es-419">%1$@, %2$@ o %3$@ más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>CALLER_ID_WITH_RAW_CALLER</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -362,7 +362,7 @@
       <Position>CONTACT_WITH_TYPE</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>RAW_CALLER_WITH_SERVICE</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>MORE_THAN_THREE_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@, or %3$@ others</base>
-        <tran loc="es">%1$@, %2$@ o %3$@ más</tran>
+        <tran loc="es-419">%1$@, %2$@ o %3$@ más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>UNKNOWN_CALLER</Position>
       <TranslationSet>
         <base loc="en">Unknown caller</base>
-        <tran loc="es">Número desconocido</tran>
+        <tran loc="es-419">Número desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>SPOKEN_CONTACT_FULL</Position>
       <TranslationSet>
         <base loc="en">%1$@ %2$@</base>
-        <tran loc="es">%1$@ %2$@</tran>
+        <tran loc="es-419">%1$@ %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>TWO_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">%1$@ or %2$@</base>
-        <tran loc="es">%1$@ o %2$@</tran>
+        <tran loc="es-419">%1$@ o %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>TWO_CONTACTS_SHARED_FAMILY_NAME</Position>
       <TranslationSet>
         <base loc="en">%1$@ or %2$@</base>
-        <tran loc="es">%1$@ o %2$@</tran>
+        <tran loc="es-419">%1$@ o %2$@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -442,7 +442,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Siri &amp; Dictation</base>
-        <tran loc="es">Siri y Dictado</tran>
+        <tran loc="es-419">Siri y dictado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -450,7 +450,7 @@
       <Position>NSLocationWhenInUseUsageDescription</Position>
       <TranslationSet>
         <base loc="en">Siri uses your location for things like answering questions and offering suggestions about what’s nearby.</base>
-        <tran loc="es">Siri utiliza tu ubicación para cosas como responder preguntas u ofrecer sugerencias sobre lo que hay cerca.</tran>
+        <tran loc="es-419">Siri utiliza tu ubicación para cosas como responder preguntas y ofrecer sugerencias sobre lugares cercanos.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -461,7 +461,7 @@
       <Position>LONG_it-IT</Position>
       <TranslationSet>
         <base loc="en">Italian (Italy)</base>
-        <tran loc="es">Italiano (Italia)</tran>
+        <tran loc="es-419">Italiano (Italia)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -469,7 +469,7 @@
       <Position>COMPACT_hr-HR</Position>
       <TranslationSet>
         <base loc="en">Croatian</base>
-        <tran loc="es">Croata</tran>
+        <tran loc="es-419">Croata</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -477,7 +477,7 @@
       <Position>LONG_hr-HR</Position>
       <TranslationSet>
         <base loc="en">Croatian</base>
-        <tran loc="es">Croata</tran>
+        <tran loc="es-419">Croata</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -485,7 +485,7 @@
       <Position>VOICE_hr-HR</Position>
       <TranslationSet>
         <base loc="en">Croatian</base>
-        <tran loc="es">Croata</tran>
+        <tran loc="es-419">Croata</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -493,7 +493,7 @@
       <Position>LONG_en-IE</Position>
       <TranslationSet>
         <base loc="en">English (Ireland)</base>
-        <tran loc="es">Inglés (Irlanda)</tran>
+        <tran loc="es-419">Inglés (Irlanda)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -501,7 +501,7 @@
       <Position>COMPACT_pt-BR</Position>
       <TranslationSet>
         <base loc="en">Portuguese</base>
-        <tran loc="es">Portugués</tran>
+        <tran loc="es-419">Portugués</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -509,7 +509,7 @@
       <Position>COMPACT_pt-PT</Position>
       <TranslationSet>
         <base loc="en">Portuguese</base>
-        <tran loc="es">Portugués</tran>
+        <tran loc="es-419">Portugués</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -517,7 +517,7 @@
       <Position>VOICE_pt-PT</Position>
       <TranslationSet>
         <base loc="en">Portuguese</base>
-        <tran loc="es">Portugués</tran>
+        <tran loc="es-419">Portugués</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -525,7 +525,7 @@
       <Position>COMPACT_ca-ES</Position>
       <TranslationSet>
         <base loc="en">Catalan</base>
-        <tran loc="es">Catalán</tran>
+        <tran loc="es-419">Catalán</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -533,7 +533,7 @@
       <Position>LONG_ca-ES</Position>
       <TranslationSet>
         <base loc="en">Catalan</base>
-        <tran loc="es">Catalán</tran>
+        <tran loc="es-419">Catalán</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -541,7 +541,7 @@
       <Position>VOICE_ca-ES</Position>
       <TranslationSet>
         <base loc="en">Catalan</base>
-        <tran loc="es">Catalán</tran>
+        <tran loc="es-419">Catalán</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -549,7 +549,7 @@
       <Position>LONG_en-AU</Position>
       <TranslationSet>
         <base loc="en">English (Australia)</base>
-        <tran loc="es">Inglés (Australia)</tran>
+        <tran loc="es-419">Inglés (Australia)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -557,7 +557,7 @@
       <Position>COMPACT_sv-SE</Position>
       <TranslationSet>
         <base loc="en">Swedish</base>
-        <tran loc="es">Sueco</tran>
+        <tran loc="es-419">Sueco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -565,7 +565,7 @@
       <Position>LONG_sv-SE</Position>
       <TranslationSet>
         <base loc="en">Swedish</base>
-        <tran loc="es">Sueco</tran>
+        <tran loc="es-419">Sueco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +573,7 @@
       <Position>VOICE_sv-SE</Position>
       <TranslationSet>
         <base loc="en">Swedish</base>
-        <tran loc="es">Sueco</tran>
+        <tran loc="es-419">Sueco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -581,7 +581,7 @@
       <Position>LONG_en-GB</Position>
       <TranslationSet>
         <base loc="en">English (United Kingdom)</base>
-        <tran loc="es">Inglés (Reino Unido)</tran>
+        <tran loc="es-419">Inglés (Reino Unido)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -589,7 +589,7 @@
       <Position>COMPACT_nb-NO</Position>
       <TranslationSet>
         <base loc="en">Norwegian</base>
-        <tran loc="es">Noruego</tran>
+        <tran loc="es-419">Noruego</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -597,7 +597,7 @@
       <Position>VOICE_nb-NO</Position>
       <TranslationSet>
         <base loc="en">Norwegian</base>
-        <tran loc="es">Noruego</tran>
+        <tran loc="es-419">Noruego</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>COMPACT_ar-SA</Position>
       <TranslationSet>
         <base loc="en">Arabic</base>
-        <tran loc="es">Árabe</tran>
+        <tran loc="es-419">Árabe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -642,7 +642,7 @@
       <Position>LONG_ar-SA</Position>
       <TranslationSet>
         <base loc="en">Arabic</base>
-        <tran loc="es">Árabe</tran>
+        <tran loc="es-419">Árabe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -652,7 +652,7 @@
       <Position>VOICE_ar-SA</Position>
       <TranslationSet>
         <base loc="en">Arabic</base>
-        <tran loc="es">Árabe</tran>
+        <tran loc="es-419">Árabe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -660,7 +660,7 @@
       <Position>COMPACT_wuu-CN</Position>
       <TranslationSet>
         <base loc="en">Shanghainese</base>
-        <tran loc="es">Shanghainés</tran>
+        <tran loc="es-419">Shanghainés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -668,7 +668,7 @@
       <Position>LONG_wuu-CN</Position>
       <TranslationSet>
         <base loc="en">Shanghainese</base>
-        <tran loc="es">Shanghainés</tran>
+        <tran loc="es-419">Shanghainés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -676,7 +676,7 @@
       <Position>VOICE_wuu-CN</Position>
       <TranslationSet>
         <base loc="en">Shanghainese</base>
-        <tran loc="es">Shanghainés</tran>
+        <tran loc="es-419">Shanghainés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -684,7 +684,7 @@
       <Position>VOICE_en-ZA</Position>
       <TranslationSet>
         <base loc="en">South African</base>
-        <tran loc="es">Sudafricano</tran>
+        <tran loc="es-419">Sudafricano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -692,7 +692,7 @@
       <Position>LONG_pt-BR</Position>
       <TranslationSet>
         <base loc="en">Portuguese (Brazil)</base>
-        <tran loc="es">Portugués (Brasil)</tran>
+        <tran loc="es-419">Portugués (Brasil)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -700,7 +700,7 @@
       <Position>COMPACT_it-CH</Position>
       <TranslationSet>
         <base loc="en">Italian</base>
-        <tran loc="es">Italiano</tran>
+        <tran loc="es-419">Italiano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -708,7 +708,7 @@
       <Position>COMPACT_it-IT</Position>
       <TranslationSet>
         <base loc="en">Italian</base>
-        <tran loc="es">Italiano</tran>
+        <tran loc="es-419">Italiano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -716,7 +716,7 @@
       <Position>VOICE_it-IT</Position>
       <TranslationSet>
         <base loc="en">Italian</base>
-        <tran loc="es">Italiano</tran>
+        <tran loc="es-419">Italiano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -724,7 +724,7 @@
       <Position>VOICE_en-SG</Position>
       <TranslationSet>
         <base loc="en">Singaporean</base>
-        <tran loc="es">Singapurense</tran>
+        <tran loc="es-419">Singapurense</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -732,7 +732,7 @@
       <Position>LONG_es-ES</Position>
       <TranslationSet>
         <base loc="en">Spanish (Spain)</base>
-        <tran loc="es">Español (España)</tran>
+        <tran loc="es-419">Español (España)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -740,7 +740,7 @@
       <Position>LONG_en-NZ</Position>
       <TranslationSet>
         <base loc="en">English (New Zealand)</base>
-        <tran loc="es">Inglés (Nueva Zelanda)</tran>
+        <tran loc="es-419">Inglés (Nueva Zelanda)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -748,7 +748,7 @@
       <Position>LONG_en-PH</Position>
       <TranslationSet>
         <base loc="en">English (Philippines)</base>
-        <tran loc="es">Inglés (Filipinas)</tran>
+        <tran loc="es-419">Inglés (Filipinas)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -756,7 +756,7 @@
       <Position>LONG_es-US</Position>
       <TranslationSet>
         <base loc="en">Spanish (United States)</base>
-        <tran loc="es">Español (Estados Unidos)</tran>
+        <tran loc="es-419">Español (Estados Unidos)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -764,7 +764,7 @@
       <Position>LONG_pt-PT</Position>
       <TranslationSet>
         <base loc="en">Portuguese (Portugal)</base>
-        <tran loc="es">Portugués (Portugal)</tran>
+        <tran loc="es-419">Portugués (Portugal)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -772,7 +772,7 @@
       <Position>COMPACT_hu-HU</Position>
       <TranslationSet>
         <base loc="en">Hungarian</base>
-        <tran loc="es">Húngaro</tran>
+        <tran loc="es-419">Húngaro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -780,7 +780,7 @@
       <Position>LONG_hu-HU</Position>
       <TranslationSet>
         <base loc="en">Hungarian</base>
-        <tran loc="es">Húngaro</tran>
+        <tran loc="es-419">Húngaro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -788,7 +788,7 @@
       <Position>VOICE_hu-HU</Position>
       <TranslationSet>
         <base loc="en">Hungarian</base>
-        <tran loc="es">Húngaro</tran>
+        <tran loc="es-419">Húngaro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -796,7 +796,7 @@
       <Position>COMPACT_he-IL</Position>
       <TranslationSet>
         <base loc="en">Hebrew</base>
-        <tran loc="es">Hebreo</tran>
+        <tran loc="es-419">Hebreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -804,7 +804,7 @@
       <Position>LONG_he-IL</Position>
       <TranslationSet>
         <base loc="en">Hebrew</base>
-        <tran loc="es">Hebreo</tran>
+        <tran loc="es-419">Hebreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -812,7 +812,7 @@
       <Position>VOICE_he-IL</Position>
       <TranslationSet>
         <base loc="en">Hebrew</base>
-        <tran loc="es">Hebreo</tran>
+        <tran loc="es-419">Hebreo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -820,7 +820,7 @@
       <Position>LONG_es-CL</Position>
       <TranslationSet>
         <base loc="en">Spanish (Chile)</base>
-        <tran loc="es">Español (Chile)</tran>
+        <tran loc="es-419">Español (Chile)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -828,7 +828,7 @@
       <Position>VOICE_en-SA</Position>
       <TranslationSet>
         <base loc="en">Saudi Arabian</base>
-        <tran loc="es">Saudí</tran>
+        <tran loc="es-419">Árabe saudita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -836,7 +836,7 @@
       <Position>COMPACT_da-DK</Position>
       <TranslationSet>
         <base loc="en">Danish</base>
-        <tran loc="es">Danés</tran>
+        <tran loc="es-419">Danés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -844,7 +844,7 @@
       <Position>LONG_da-DK</Position>
       <TranslationSet>
         <base loc="en">Danish</base>
-        <tran loc="es">Danés</tran>
+        <tran loc="es-419">Danés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -852,7 +852,7 @@
       <Position>VOICE_da-DK</Position>
       <TranslationSet>
         <base loc="en">Danish</base>
-        <tran loc="es">Danés</tran>
+        <tran loc="es-419">Danés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -860,7 +860,7 @@
       <Position>COMPACT_es-419</Position>
       <TranslationSet>
         <base loc="en">Spanish</base>
-        <tran loc="es">Español</tran>
+        <tran loc="es-419">Español</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -868,7 +868,7 @@
       <Position>COMPACT_es-CL</Position>
       <TranslationSet>
         <base loc="en">Spanish</base>
-        <tran loc="es">Español</tran>
+        <tran loc="es-419">Español</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -876,7 +876,7 @@
       <Position>COMPACT_es-CO</Position>
       <TranslationSet>
         <base loc="en">Spanish</base>
-        <tran loc="es">Español</tran>
+        <tran loc="es-419">Español</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -884,7 +884,7 @@
       <Position>COMPACT_es-ES</Position>
       <TranslationSet>
         <base loc="en">Spanish</base>
-        <tran loc="es">Español</tran>
+        <tran loc="es-419">Español</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -892,7 +892,7 @@
       <Position>COMPACT_es-MX</Position>
       <TranslationSet>
         <base loc="en">Spanish</base>
-        <tran loc="es">Español</tran>
+        <tran loc="es-419">Español</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -900,7 +900,7 @@
       <Position>COMPACT_es-US</Position>
       <TranslationSet>
         <base loc="en">Spanish</base>
-        <tran loc="es">Español</tran>
+        <tran loc="es-419">Español</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>VOICE_es-ES</Position>
       <TranslationSet>
         <base loc="en">Spanish</base>
-        <tran loc="es">Español</tran>
+        <tran loc="es-419">Español</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>LONG_de-AT</Position>
       <TranslationSet>
         <base loc="en">German (Austria)</base>
-        <tran loc="es">Alemán (Austria)</tran>
+        <tran loc="es-419">Alemán (Austria)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -924,7 +924,7 @@
       <Position>LONG_zh-HK</Position>
       <TranslationSet>
         <base loc="en">Chinese (Cantonese - Hong Kong)</base>
-        <tran loc="es">Chino (cantonés - Hong Kong)</tran>
+        <tran loc="es-419">Chino (Cantonés - Hong Kong)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -932,7 +932,7 @@
       <Position>VOICE_es-CL</Position>
       <TranslationSet>
         <base loc="en">Chilean</base>
-        <tran loc="es">Chileno</tran>
+        <tran loc="es-419">Chileno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -940,7 +940,7 @@
       <Position>VOICE_de-AT</Position>
       <TranslationSet>
         <base loc="en">Austrian</base>
-        <tran loc="es">Austriaco</tran>
+        <tran loc="es-419">Austriaco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -948,7 +948,7 @@
       <Position>VOICE_de-CH</Position>
       <TranslationSet>
         <base loc="en">Swiss</base>
-        <tran loc="es">Suizo</tran>
+        <tran loc="es-419">Suizo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -956,7 +956,7 @@
       <Position>VOICE_fr-CH</Position>
       <TranslationSet>
         <base loc="en">Swiss</base>
-        <tran loc="es">Suizo</tran>
+        <tran loc="es-419">Suizo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -964,7 +964,7 @@
       <Position>VOICE_it-CH</Position>
       <TranslationSet>
         <base loc="en">Swiss</base>
-        <tran loc="es">Suizo</tran>
+        <tran loc="es-419">Suizo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -972,7 +972,7 @@
       <Position>VOICE_en-AE</Position>
       <TranslationSet>
         <base loc="en">United Arab Emirates</base>
-        <tran loc="es">Emiratos Árabes Unidos</tran>
+        <tran loc="es-419">Emiratos Árabes Unidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -980,7 +980,7 @@
       <Position>VOICE_en-IE</Position>
       <TranslationSet>
         <base loc="en">Irish</base>
-        <tran loc="es">Irlandés</tran>
+        <tran loc="es-419">Irlandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -988,7 +988,7 @@
       <Position>VOICE_es-CO</Position>
       <TranslationSet>
         <base loc="en">Colombian</base>
-        <tran loc="es">Colombiano</tran>
+        <tran loc="es-419">Colombiano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -996,7 +996,7 @@
       <Position>COMPACT_ru-RU</Position>
       <TranslationSet>
         <base loc="en">Russian</base>
-        <tran loc="es">Ruso</tran>
+        <tran loc="es-419">Ruso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1004,7 +1004,7 @@
       <Position>LONG_ru-RU</Position>
       <TranslationSet>
         <base loc="en">Russian</base>
-        <tran loc="es">Ruso</tran>
+        <tran loc="es-419">Ruso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1012,7 +1012,7 @@
       <Position>VOICE_ru-RU</Position>
       <TranslationSet>
         <base loc="en">Russian</base>
-        <tran loc="es">Ruso</tran>
+        <tran loc="es-419">Ruso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1020,7 +1020,7 @@
       <Position>COMPACT_tr-TR</Position>
       <TranslationSet>
         <base loc="en">Turkish</base>
-        <tran loc="es">Turco</tran>
+        <tran loc="es-419">Turco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1028,7 +1028,7 @@
       <Position>LONG_tr-TR</Position>
       <TranslationSet>
         <base loc="en">Turkish</base>
-        <tran loc="es">Turco</tran>
+        <tran loc="es-419">Turco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1036,7 +1036,7 @@
       <Position>VOICE_tr-TR</Position>
       <TranslationSet>
         <base loc="en">Turkish</base>
-        <tran loc="es">Turco</tran>
+        <tran loc="es-419">Turco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1044,7 +1044,7 @@
       <Position>COMPACT_de-AT</Position>
       <TranslationSet>
         <base loc="en">German</base>
-        <tran loc="es">Alemán</tran>
+        <tran loc="es-419">Alemán</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1052,7 +1052,7 @@
       <Position>COMPACT_de-CH</Position>
       <TranslationSet>
         <base loc="en">German</base>
-        <tran loc="es">Alemán</tran>
+        <tran loc="es-419">Alemán</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1060,7 +1060,7 @@
       <Position>COMPACT_de-DE</Position>
       <TranslationSet>
         <base loc="en">German</base>
-        <tran loc="es">Alemán</tran>
+        <tran loc="es-419">Alemán</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1068,7 +1068,7 @@
       <Position>VOICE_de-DE</Position>
       <TranslationSet>
         <base loc="en">German</base>
-        <tran loc="es">Alemán</tran>
+        <tran loc="es-419">Alemán</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1076,7 +1076,7 @@
       <Position>VOICE_en-CA</Position>
       <TranslationSet>
         <base loc="en">Canadian</base>
-        <tran loc="es">Canadiense</tran>
+        <tran loc="es-419">Canadiense</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1084,7 +1084,7 @@
       <Position>VOICE_fr-CA</Position>
       <TranslationSet>
         <base loc="en">Canadian</base>
-        <tran loc="es">Canadiense</tran>
+        <tran loc="es-419">Canadiense</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1092,7 +1092,7 @@
       <Position>COMPACT_hi-IN</Position>
       <TranslationSet>
         <base loc="en">Hindi</base>
-        <tran loc="es">Hindi</tran>
+        <tran loc="es-419">Hindi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1100,7 +1100,7 @@
       <Position>LONG_hi-IN</Position>
       <TranslationSet>
         <base loc="en">Hindi</base>
-        <tran loc="es">Hindi</tran>
+        <tran loc="es-419">Hindi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1108,7 +1108,7 @@
       <Position>VOICE_hi-IN</Position>
       <TranslationSet>
         <base loc="en">Hindi</base>
-        <tran loc="es">Hindi</tran>
+        <tran loc="es-419">Hindi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1116,7 +1116,7 @@
       <Position>VOICE_GENDER_UNSPECIFIED</Position>
       <TranslationSet>
         <base loc="en">N/A</base>
-        <tran loc="es">N/D</tran>
+        <tran loc="es-419">N/D</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1124,7 +1124,7 @@
       <Position>LONG_en-IN</Position>
       <TranslationSet>
         <base loc="en">English (India)</base>
-        <tran loc="es">Inglés (India)</tran>
+        <tran loc="es-419">Inglés (India)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1132,7 +1132,7 @@
       <Position>COMPACT_th-TH</Position>
       <TranslationSet>
         <base loc="en">Thai</base>
-        <tran loc="es">Tailandés</tran>
+        <tran loc="es-419">Tailandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1140,7 +1140,7 @@
       <Position>LONG_th-TH</Position>
       <TranslationSet>
         <base loc="en">Thai</base>
-        <tran loc="es">Tailandés</tran>
+        <tran loc="es-419">Tailandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1148,7 +1148,7 @@
       <Position>VOICE_th-TH</Position>
       <TranslationSet>
         <base loc="en">Thai</base>
-        <tran loc="es">Tailandés</tran>
+        <tran loc="es-419">Tailandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1156,7 +1156,7 @@
       <Position>LONG_es-419</Position>
       <TranslationSet>
         <base loc="en">Spanish (Latin America)</base>
-        <tran loc="es">Español (Latinoamérica)</tran>
+        <tran loc="es-419">Español (Latinoamérica)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1164,7 +1164,7 @@
       <Position>VOICE_en-AU</Position>
       <TranslationSet>
         <base loc="en">Australian</base>
-        <tran loc="es">Australiano</tran>
+        <tran loc="es-419">Australiano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1172,7 +1172,7 @@
       <Position>COMPACT_id-ID</Position>
       <TranslationSet>
         <base loc="en">Indonesian</base>
-        <tran loc="es">Indonesio</tran>
+        <tran loc="es-419">Indonesio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1180,7 +1180,7 @@
       <Position>LONG_id-ID</Position>
       <TranslationSet>
         <base loc="en">Indonesian</base>
-        <tran loc="es">Indonesio</tran>
+        <tran loc="es-419">Indonesio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1188,7 +1188,7 @@
       <Position>VOICE_id-ID</Position>
       <TranslationSet>
         <base loc="en">Indonesian</base>
-        <tran loc="es">Indonesio</tran>
+        <tran loc="es-419">Indonesio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1196,7 +1196,7 @@
       <Position>LONG_es-MX</Position>
       <TranslationSet>
         <base loc="en">Spanish (Mexico)</base>
-        <tran loc="es">Español (México)</tran>
+        <tran loc="es-419">Español (México)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1204,7 +1204,7 @@
       <Position>VOICE_es-419</Position>
       <TranslationSet>
         <base loc="en">Latin American</base>
-        <tran loc="es">Latinoamericano</tran>
+        <tran loc="es-419">Latinoamericano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1212,7 +1212,7 @@
       <Position>COMPACT_sk-SK</Position>
       <TranslationSet>
         <base loc="en">Slovak</base>
-        <tran loc="es">Eslovaco</tran>
+        <tran loc="es-419">Eslovaco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1220,7 +1220,7 @@
       <Position>LONG_sk-SK</Position>
       <TranslationSet>
         <base loc="en">Slovak</base>
-        <tran loc="es">Eslovaco</tran>
+        <tran loc="es-419">Eslovaco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1228,7 +1228,7 @@
       <Position>VOICE_sk-SK</Position>
       <TranslationSet>
         <base loc="en">Slovak</base>
-        <tran loc="es">Eslovaco</tran>
+        <tran loc="es-419">Eslovaco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1236,7 +1236,7 @@
       <Position>VOICE_en-PH</Position>
       <TranslationSet>
         <base loc="en">Filipino</base>
-        <tran loc="es">Filipino</tran>
+        <tran loc="es-419">Filipino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1244,7 +1244,7 @@
       <Position>COMPACT_hi-Latn</Position>
       <TranslationSet>
         <base loc="en">Hinglish</base>
-        <tran loc="es">Hinglish</tran>
+        <tran loc="es-419">Inglés hindú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1252,7 +1252,7 @@
       <Position>LONG_hi-Latn</Position>
       <TranslationSet>
         <base loc="en">Hinglish</base>
-        <tran loc="es">Hinglish</tran>
+        <tran loc="es-419">Inglés hindú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1260,7 +1260,7 @@
       <Position>VOICE_hi-Latn</Position>
       <TranslationSet>
         <base loc="en">Hinglish</base>
-        <tran loc="es">Hinglish</tran>
+        <tran loc="es-419">Inglés hindú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1268,7 +1268,7 @@
       <Position>COMPACT_en-AE</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1276,7 +1276,7 @@
       <Position>COMPACT_en-AU</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1284,7 +1284,7 @@
       <Position>COMPACT_en-CA</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1292,7 +1292,7 @@
       <Position>COMPACT_en-GB</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1300,7 +1300,7 @@
       <Position>COMPACT_en-IE</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1308,7 +1308,7 @@
       <Position>COMPACT_en-IN</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1316,7 +1316,7 @@
       <Position>COMPACT_en-NZ</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1324,7 +1324,7 @@
       <Position>COMPACT_en-PH</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1332,7 +1332,7 @@
       <Position>COMPACT_en-SA</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1340,7 +1340,7 @@
       <Position>COMPACT_en-SG</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1348,7 +1348,7 @@
       <Position>COMPACT_en-US</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1356,7 +1356,7 @@
       <Position>COMPACT_en-ZA</Position>
       <TranslationSet>
         <base loc="en">English</base>
-        <tran loc="es">Inglés</tran>
+        <tran loc="es-419">Inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1364,7 +1364,7 @@
       <Position>VOICE_fr-BE</Position>
       <TranslationSet>
         <base loc="en">Belgian</base>
-        <tran loc="es">Belga</tran>
+        <tran loc="es-419">Belga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1372,7 +1372,7 @@
       <Position>COMPACT_ms-MY</Position>
       <TranslationSet>
         <base loc="en">Malay</base>
-        <tran loc="es">Malayo</tran>
+        <tran loc="es-419">Malayo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1380,7 +1380,7 @@
       <Position>LONG_ms-MY</Position>
       <TranslationSet>
         <base loc="en">Malay</base>
-        <tran loc="es">Malayo</tran>
+        <tran loc="es-419">Malayo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1388,7 +1388,7 @@
       <Position>VOICE_ms-MY</Position>
       <TranslationSet>
         <base loc="en">Malay</base>
-        <tran loc="es">Malayo</tran>
+        <tran loc="es-419">Malayo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1396,7 +1396,7 @@
       <Position>LONG_de-CH</Position>
       <TranslationSet>
         <base loc="en">German (Switzerland)</base>
-        <tran loc="es">Alemán (Suiza)</tran>
+        <tran loc="es-419">Alemán (Suiza)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1404,7 +1404,7 @@
       <Position>LONG_fr-CH</Position>
       <TranslationSet>
         <base loc="en">French (Switzerland)</base>
-        <tran loc="es">Francés (Suiza)</tran>
+        <tran loc="es-419">Francés (Suiza)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1412,7 +1412,7 @@
       <Position>LONG_fr-FR</Position>
       <TranslationSet>
         <base loc="en">French (France)</base>
-        <tran loc="es">Francés (Francia)</tran>
+        <tran loc="es-419">Francés (Francia)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1420,7 +1420,7 @@
       <Position>VOICE_es-MX</Position>
       <TranslationSet>
         <base loc="en">Mexican</base>
-        <tran loc="es">Mexicano</tran>
+        <tran loc="es-419">Mexicano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1428,7 +1428,7 @@
       <Position>LONG_it-CH</Position>
       <TranslationSet>
         <base loc="en">Italian (Switzerland)</base>
-        <tran loc="es">Italiano (Suiza)</tran>
+        <tran loc="es-419">Italiano (Suiza)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1436,7 +1436,7 @@
       <Position>VOICE_GENDER_MALE</Position>
       <TranslationSet>
         <base loc="en">Male</base>
-        <tran loc="es">Hombre</tran>
+        <tran loc="es-419">Hombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1444,7 +1444,7 @@
       <Position>COMPACT_ro-RO</Position>
       <TranslationSet>
         <base loc="en">Romanian</base>
-        <tran loc="es">Rumano</tran>
+        <tran loc="es-419">Rumano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1452,7 +1452,7 @@
       <Position>LONG_ro-RO</Position>
       <TranslationSet>
         <base loc="en">Romanian</base>
-        <tran loc="es">Rumano</tran>
+        <tran loc="es-419">Rumano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1460,7 +1460,7 @@
       <Position>VOICE_ro-RO</Position>
       <TranslationSet>
         <base loc="en">Romanian</base>
-        <tran loc="es">Rumano</tran>
+        <tran loc="es-419">Rumano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1468,7 +1468,7 @@
       <Position>LONG_zh-CN</Position>
       <TranslationSet>
         <base loc="en">Chinese (Mandarin - China mainland)</base>
-        <tran loc="es">Chino (mandarín - China continental)</tran>
+        <tran loc="es-419">Chino (Mandarín - China continental)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1476,7 +1476,7 @@
       <Position>COMPACT_ko-KR</Position>
       <TranslationSet>
         <base loc="en">Korean</base>
-        <tran loc="es">Coreano</tran>
+        <tran loc="es-419">Coreano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1484,7 +1484,7 @@
       <Position>LONG_ko-KR</Position>
       <TranslationSet>
         <base loc="en">Korean</base>
-        <tran loc="es">Coreano</tran>
+        <tran loc="es-419">Coreano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1492,7 +1492,7 @@
       <Position>VOICE_ko-KR</Position>
       <TranslationSet>
         <base loc="en">Korean</base>
-        <tran loc="es">Coreano</tran>
+        <tran loc="es-419">Coreano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1500,7 +1500,7 @@
       <Position>LONG_de-DE</Position>
       <TranslationSet>
         <base loc="en">German (Germany)</base>
-        <tran loc="es">Alemán (Alemania)</tran>
+        <tran loc="es-419">Alemán (Alemania)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1508,7 +1508,7 @@
       <Position>LONG_en-US</Position>
       <TranslationSet>
         <base loc="en">English (United States)</base>
-        <tran loc="es">Inglés (Estados Unidos)</tran>
+        <tran loc="es-419">Inglés (Estados Unidos)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1516,7 +1516,7 @@
       <Position>COMPACT_uk-UA</Position>
       <TranslationSet>
         <base loc="en">Ukrainian</base>
-        <tran loc="es">Ucraniano</tran>
+        <tran loc="es-419">Ucraniano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1524,7 +1524,7 @@
       <Position>LONG_uk-UA</Position>
       <TranslationSet>
         <base loc="en">Ukrainian</base>
-        <tran loc="es">Ucraniano</tran>
+        <tran loc="es-419">Ucraniano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1532,7 +1532,7 @@
       <Position>VOICE_uk-UA</Position>
       <TranslationSet>
         <base loc="en">Ukrainian</base>
-        <tran loc="es">Ucraniano</tran>
+        <tran loc="es-419">Ucraniano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1540,7 +1540,7 @@
       <Position>VOICE_en-IN</Position>
       <TranslationSet>
         <base loc="en">Indian</base>
-        <tran loc="es">Indio</tran>
+        <tran loc="es-419">Nativo Americano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1548,7 +1548,7 @@
       <Position>LONG_en-AE</Position>
       <TranslationSet>
         <base loc="en">English (United Arab Emirates)</base>
-        <tran loc="es">Inglés (Emiratos Árabes Unidos)</tran>
+        <tran loc="es-419">Inglés (Emiratos Árabes Unidos)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1556,7 +1556,7 @@
       <Position>LONG_en-SA</Position>
       <TranslationSet>
         <base loc="en">English (Saudi Arabia)</base>
-        <tran loc="es">Inglés (Arabia Saudí)</tran>
+        <tran loc="es-419">Inglés (Arabia Saudita)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1564,7 +1564,7 @@
       <Position>VOICE_pt-BR</Position>
       <TranslationSet>
         <base loc="en">Brazilian</base>
-        <tran loc="es">Brasileño</tran>
+        <tran loc="es-419">Brasileño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1572,7 +1572,7 @@
       <Position>COMPACT_nl-NL</Position>
       <TranslationSet>
         <base loc="en">Dutch</base>
-        <tran loc="es">Holandés</tran>
+        <tran loc="es-419">Neerlandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1580,7 +1580,7 @@
       <Position>LONG_nl-NL</Position>
       <TranslationSet>
         <base loc="en">Dutch</base>
-        <tran loc="es">Holandés</tran>
+        <tran loc="es-419">Neerlandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1588,7 +1588,7 @@
       <Position>VOICE_nl-NL</Position>
       <TranslationSet>
         <base loc="en">Dutch</base>
-        <tran loc="es">Holandés</tran>
+        <tran loc="es-419">Neerlandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1596,7 +1596,7 @@
       <Position>COMPACT_nl-BE</Position>
       <TranslationSet>
         <base loc="en">Flemish</base>
-        <tran loc="es">Flamenco</tran>
+        <tran loc="es-419">Flamenco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1604,7 +1604,7 @@
       <Position>LONG_nl-BE</Position>
       <TranslationSet>
         <base loc="en">Flemish</base>
-        <tran loc="es">Flamenco</tran>
+        <tran loc="es-419">Flamenco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1612,7 +1612,7 @@
       <Position>VOICE_nl-BE</Position>
       <TranslationSet>
         <base loc="en">Flemish</base>
-        <tran loc="es">Flamenco</tran>
+        <tran loc="es-419">Flamenco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1620,7 +1620,7 @@
       <Position>VOICE_en-GB</Position>
       <TranslationSet>
         <base loc="en">British</base>
-        <tran loc="es">Británico</tran>
+        <tran loc="es-419">Británico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1628,7 +1628,7 @@
       <Position>LONG_fr-BE</Position>
       <TranslationSet>
         <base loc="en">French (Belgium)</base>
-        <tran loc="es">Francés (Bélgica)</tran>
+        <tran loc="es-419">Francés (Belga)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1636,7 +1636,7 @@
       <Position>LONG_en-ZA</Position>
       <TranslationSet>
         <base loc="en">English (South Africa)</base>
-        <tran loc="es">Inglés (Sudáfrica)</tran>
+        <tran loc="es-419">Inglés (Sudáfrica)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1644,7 +1644,7 @@
       <Position>COMPACT_zh-CN</Position>
       <TranslationSet>
         <base loc="en">Mandarin</base>
-        <tran loc="es">Mandarín</tran>
+        <tran loc="es-419">Mandarín</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1652,7 +1652,7 @@
       <Position>COMPACT_zh-TW</Position>
       <TranslationSet>
         <base loc="en">Mandarin</base>
-        <tran loc="es">Mandarín</tran>
+        <tran loc="es-419">Mandarín</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1660,7 +1660,7 @@
       <Position>VOICE_zh-CN</Position>
       <TranslationSet>
         <base loc="en">Mandarin</base>
-        <tran loc="es">Mandarín</tran>
+        <tran loc="es-419">Mandarín</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1668,7 +1668,7 @@
       <Position>VOICE_zh-TW</Position>
       <TranslationSet>
         <base loc="en">Mandarin</base>
-        <tran loc="es">Mandarín</tran>
+        <tran loc="es-419">Mandarín</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1676,7 +1676,7 @@
       <Position>COMPACT_fr-BE</Position>
       <TranslationSet>
         <base loc="en">French</base>
-        <tran loc="es">Francés</tran>
+        <tran loc="es-419">Francés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1684,7 +1684,7 @@
       <Position>COMPACT_fr-CA</Position>
       <TranslationSet>
         <base loc="en">French</base>
-        <tran loc="es">Francés</tran>
+        <tran loc="es-419">Francés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1692,7 +1692,7 @@
       <Position>COMPACT_fr-CH</Position>
       <TranslationSet>
         <base loc="en">French</base>
-        <tran loc="es">Francés</tran>
+        <tran loc="es-419">Francés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1700,7 +1700,7 @@
       <Position>COMPACT_fr-FR</Position>
       <TranslationSet>
         <base loc="en">French</base>
-        <tran loc="es">Francés</tran>
+        <tran loc="es-419">Francés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1708,7 +1708,7 @@
       <Position>VOICE_fr-FR</Position>
       <TranslationSet>
         <base loc="en">French</base>
-        <tran loc="es">Francés</tran>
+        <tran loc="es-419">Francés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1716,7 +1716,7 @@
       <Position>LONG_nb-NO</Position>
       <TranslationSet>
         <base loc="en">Norwegian Bokmål</base>
-        <tran loc="es">Noruego bokmal</tran>
+        <tran loc="es-419">Noruego Bokmål</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1724,7 +1724,7 @@
       <Position>LONG_zh-TW</Position>
       <TranslationSet>
         <base loc="en">Chinese (Mandarin - Taiwan)</base>
-        <tran loc="es">Chino (mandarín - Taiwán)</tran>
+        <tran loc="es-419">Chino (Mandarín - Taiwán)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1732,7 +1732,7 @@
       <Position>LONG_yue-CN</Position>
       <TranslationSet>
         <base loc="en">Chinese (Cantonese - China mainland)</base>
-        <tran loc="es">Chino (cantonés - China continental)</tran>
+        <tran loc="es-419">Chino (Cantonés - China continental)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1740,7 +1740,7 @@
       <Position>COMPACT_cs-CZ</Position>
       <TranslationSet>
         <base loc="en">Czech</base>
-        <tran loc="es">Checo</tran>
+        <tran loc="es-419">Checo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1748,7 +1748,7 @@
       <Position>LONG_cs-CZ</Position>
       <TranslationSet>
         <base loc="en">Czech</base>
-        <tran loc="es">Checo</tran>
+        <tran loc="es-419">Checo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1756,7 +1756,7 @@
       <Position>VOICE_cs-CZ</Position>
       <TranslationSet>
         <base loc="en">Czech</base>
-        <tran loc="es">Checo</tran>
+        <tran loc="es-419">Checo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1764,7 +1764,7 @@
       <Position>COMPACT_pl-PL</Position>
       <TranslationSet>
         <base loc="en">Polish</base>
-        <tran loc="es">Polaco</tran>
+        <tran loc="es-419">Polaco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1772,7 +1772,7 @@
       <Position>LONG_pl-PL</Position>
       <TranslationSet>
         <base loc="en">Polish</base>
-        <tran loc="es">Polaco</tran>
+        <tran loc="es-419">Polaco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1780,7 +1780,7 @@
       <Position>VOICE_pl-PL</Position>
       <TranslationSet>
         <base loc="en">Polish</base>
-        <tran loc="es">Polaco</tran>
+        <tran loc="es-419">Polaco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1788,7 +1788,7 @@
       <Position>COMPACT_el-GR</Position>
       <TranslationSet>
         <base loc="en">Greek</base>
-        <tran loc="es">Griego</tran>
+        <tran loc="es-419">Griego</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1796,7 +1796,7 @@
       <Position>LONG_el-GR</Position>
       <TranslationSet>
         <base loc="en">Greek</base>
-        <tran loc="es">Griego</tran>
+        <tran loc="es-419">Griego</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1804,7 +1804,7 @@
       <Position>VOICE_el-GR</Position>
       <TranslationSet>
         <base loc="en">Greek</base>
-        <tran loc="es">Griego</tran>
+        <tran loc="es-419">Griego</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1812,7 +1812,7 @@
       <Position>VOICE_GENDER_FEMALE</Position>
       <TranslationSet>
         <base loc="en">Female</base>
-        <tran loc="es">Mujer</tran>
+        <tran loc="es-419">Mujer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1820,7 +1820,7 @@
       <Position>LONG_es-CO</Position>
       <TranslationSet>
         <base loc="en">Spanish (Colombia)</base>
-        <tran loc="es">Español (Colombia)</tran>
+        <tran loc="es-419">Español (Colombia)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1828,7 +1828,7 @@
       <Position>VOICE_en-NZ</Position>
       <TranslationSet>
         <base loc="en">New Zealand</base>
-        <tran loc="es">Nueva Zelanda</tran>
+        <tran loc="es-419">Nueva Zelanda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1836,7 +1836,7 @@
       <Position>LONG_en-CA</Position>
       <TranslationSet>
         <base loc="en">English (Canada)</base>
-        <tran loc="es">Inglés (Canadá)</tran>
+        <tran loc="es-419">Inglés (Canadá)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1844,7 +1844,7 @@
       <Position>COMPACT_ja-JP</Position>
       <TranslationSet>
         <base loc="en">Japanese</base>
-        <tran loc="es">Japonés</tran>
+        <tran loc="es-419">Japonés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1852,7 +1852,7 @@
       <Position>LONG_ja-JP</Position>
       <TranslationSet>
         <base loc="en">Japanese</base>
-        <tran loc="es">Japonés</tran>
+        <tran loc="es-419">Japonés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1860,7 +1860,7 @@
       <Position>VOICE_ja-JP</Position>
       <TranslationSet>
         <base loc="en">Japanese</base>
-        <tran loc="es">Japonés</tran>
+        <tran loc="es-419">Japonés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1868,7 +1868,7 @@
       <Position>LONG_en-SG</Position>
       <TranslationSet>
         <base loc="en">English (Singapore)</base>
-        <tran loc="es">Inglés (Singapur)</tran>
+        <tran loc="es-419">Inglés (Singapur)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1876,7 +1876,7 @@
       <Position>COMPACT_vi-VN</Position>
       <TranslationSet>
         <base loc="en">Vietnamese</base>
-        <tran loc="es">Vietnamita</tran>
+        <tran loc="es-419">Vietnamita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1884,7 +1884,7 @@
       <Position>LONG_vi-VN</Position>
       <TranslationSet>
         <base loc="en">Vietnamese</base>
-        <tran loc="es">Vietnamita</tran>
+        <tran loc="es-419">Vietnamita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1892,7 +1892,7 @@
       <Position>VOICE_vi-VN</Position>
       <TranslationSet>
         <base loc="en">Vietnamese</base>
-        <tran loc="es">Vietnamita</tran>
+        <tran loc="es-419">Vietnamita</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1900,7 +1900,7 @@
       <Position>COMPACT_yue-CN</Position>
       <TranslationSet>
         <base loc="en">Cantonese</base>
-        <tran loc="es">Cantonés</tran>
+        <tran loc="es-419">Cantonés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1908,7 +1908,7 @@
       <Position>COMPACT_zh-HK</Position>
       <TranslationSet>
         <base loc="en">Cantonese</base>
-        <tran loc="es">Cantonés</tran>
+        <tran loc="es-419">Cantonés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1916,7 +1916,7 @@
       <Position>VOICE_yue-CN</Position>
       <TranslationSet>
         <base loc="en">Cantonese</base>
-        <tran loc="es">Cantonés</tran>
+        <tran loc="es-419">Cantonés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1924,7 +1924,7 @@
       <Position>VOICE_zh-HK</Position>
       <TranslationSet>
         <base loc="en">Cantonese</base>
-        <tran loc="es">Cantonés</tran>
+        <tran loc="es-419">Cantonés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1932,7 +1932,7 @@
       <Position>LONG_fr-CA</Position>
       <TranslationSet>
         <base loc="en">French (Canada)</base>
-        <tran loc="es">Francés (Canadá)</tran>
+        <tran loc="es-419">Francés (Canadá)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1940,7 +1940,7 @@
       <Position>COMPACT_fi-FI</Position>
       <TranslationSet>
         <base loc="en">Finnish</base>
-        <tran loc="es">Finlandés</tran>
+        <tran loc="es-419">Finlandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1948,7 +1948,7 @@
       <Position>LONG_fi-FI</Position>
       <TranslationSet>
         <base loc="en">Finnish</base>
-        <tran loc="es">Finlandés</tran>
+        <tran loc="es-419">Finlandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1956,7 +1956,7 @@
       <Position>VOICE_fi-FI</Position>
       <TranslationSet>
         <base loc="en">Finnish</base>
-        <tran loc="es">Finlandés</tran>
+        <tran loc="es-419">Finlandés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1964,7 +1964,7 @@
       <Position>VOICE_en-US</Position>
       <TranslationSet>
         <base loc="en">American</base>
-        <tran loc="es">Estadounidense</tran>
+        <tran loc="es-419">Estadounidense</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1972,7 +1972,7 @@
       <Position>VOICE_es-US</Position>
       <TranslationSet>
         <base loc="en">American</base>
-        <tran loc="es">Estadounidense</tran>
+        <tran loc="es-419">Estadounidense</tran>
       </TranslationSet>
     </TextItem>
   </File>

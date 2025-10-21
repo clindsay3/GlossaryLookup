@@ -8,7 +8,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Activity</base>
-        <tran loc="es">Actividad</tran>
+        <tran loc="es-419">Actividad</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -19,7 +19,7 @@
       <Position>COMPETITION_ENDED_WINNER</Position>
       <TranslationSet>
         <base loc="en">%@ won</base>
-        <tran loc="es">%@ ha ganado</tran>
+        <tran loc="es-419">¿Quién ganó? ¡%@!</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -27,7 +27,7 @@
       <Position>GENERIC_ACHIEVEMENT_NAME</Position>
       <TranslationSet>
         <base loc="en">Award</base>
-        <tran loc="es">Premio</tran>
+        <tran loc="es-419">Premio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -35,7 +35,7 @@
       <Position>COMPETITION_ACCEPTED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Starts %@</base>
-        <tran loc="es">Empieza el %@</tran>
+        <tran loc="es-419">Comienza el %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>COMPETITION_ENDED_TIED</Position>
       <TranslationSet>
         <base loc="en">It’s a tie!</base>
-        <tran loc="es">¡Empate!</tran>
+        <tran loc="es-419">¡Es un empate!</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>GOAL_COMPLETION_DESCRIPTION_SHORT</Position>
       <TranslationSet>
         <base loc="en">Activity Rings Closed!</base>
-        <tran loc="es">¡Anillos de actividad completados!</tran>
+        <tran loc="es-419">¡Círculos de Actividad cerrados!</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -63,7 +63,7 @@
       <Position>ACHIEVEMENT_FORMAT_YOU</Position>
       <TranslationSet>
         <base loc="en">You earned a %@ award.</base>
-        <tran loc="es">Has ganado el premio “%@”.</tran>
+        <tran loc="es-419">Ganaste un premio: "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>COMPETITION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Competition</base>
-        <tran loc="es">Competición</tran>
+        <tran loc="es-419">Competencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -90,7 +90,7 @@
       <Position>ACHIEVEMENT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ earned a %@ award.</base>
-        <tran loc="es">%@ ha ganado el premio “%@”.</tran>
+        <tran loc="es-419">%@ ganó un premio: "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -98,7 +98,7 @@
       <Position>GOAL_COMPLETION_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ closed all three rings.</base>
-        <tran loc="es">%@ ha completado los tres anillos.</tran>
+        <tran loc="es-419">%@ cerró los tres círculos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -106,7 +106,7 @@
       <Position>MONTHLY_CHALLENGE_ACHIEVEMENT_FORMAT_YOU</Position>
       <TranslationSet>
         <base loc="en">You earned the %@ award.</base>
-        <tran loc="es">Has ganado el premio “%@”.</tran>
+        <tran loc="es-419">Ganaste el premio "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -114,7 +114,7 @@
       <Position>COMPETITION_VICTORY</Position>
       <TranslationSet>
         <base loc="en">Competition Victory</base>
-        <tran loc="es">Victoria en la competición</tran>
+        <tran loc="es-419">Victoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -122,7 +122,7 @@
       <Position>YOU</Position>
       <TranslationSet>
         <base loc="en">You</base>
-        <tran loc="es">Tú</tran>
+        <tran loc="es-419">Tú</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -130,7 +130,7 @@
       <Position>GOAL_COMPLETION_FORMAT_YOU</Position>
       <TranslationSet>
         <base loc="en">You closed all three rings</base>
-        <tran loc="es">Has completado los tres anillos</tran>
+        <tran loc="es-419">Cerraste los tres círculos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -138,7 +138,7 @@
       <Position>MONTHLY_CHALLENGE_ACHIEVEMENT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ earned the %@ award.</base>
-        <tran loc="es">%@ ha ganado el premio “%@”.</tran>
+        <tran loc="es-419">%@ ganó el premio "%@".</tran>
       </TranslationSet>
     </TextItem>
   </File>

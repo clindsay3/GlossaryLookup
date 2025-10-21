@@ -8,7 +8,7 @@
       <Position>CARD_NAME_JOB_TITLE_DEPARMENT_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en"> - </base>
-        <tran loc="es"> - </tran>
+        <tran loc="es-419"> - </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>UNKNOWN_CARD_ADD_TO_EXISTING_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Add to Existing Contact</base>
-        <tran loc="es">Contacto existente</tran>
+        <tran loc="es-419">Contacto existente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Yahoo SHORT_INSTANT_MESSAGE_SERVICE</Position>
       <TranslationSet>
         <base loc="en">Yahoo!</base>
-        <tran loc="es">Yahoo!</tran>
+        <tran loc="es-419">Yahoo!</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>OTHER_FORMATTER Date</Position>
       <TranslationSet>
         <base loc="en">Other Date</base>
-        <tran loc="es">Fecha alternativa</tran>
+        <tran loc="es-419">Fecha alternativa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>USE_IPHONE_SIMULATOR_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use iPhone Simulator Photo %@</base>
-        <tran loc="es">Usar foto de Simulador iPhone %@</tran>
+        <tran loc="es-419">Usar foto de iPhone Simulator %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>USE_CARDDAV_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">CardDAV Photo %@</base>
-        <tran loc="es">Foto de CardDAV %@</tran>
+        <tran loc="es-419">Foto de CardDAV %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Africa (Eastern)</Position>
       <TranslationSet>
         <base loc="en">Africa (Eastern)</base>
-        <tran loc="es">África (oriental)</tran>
+        <tran loc="es-419">África (oriental)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>GROUP_NAME_WITH_AMOUNT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ (%ld)</base>
-        <tran loc="es">%@ (%ld)</tran>
+        <tran loc="es-419">%@ (%ld)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>EXCHANGE_GAL_TITLE_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">%@ Global Address List</base>
-        <tran loc="es">Direcciones de %@</tran>
+        <tran loc="es-419">Direcciones de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>OTHER_FORMATTER RelatedNames</Position>
       <TranslationSet>
         <base loc="en">Other Related Name</base>
-        <tran loc="es">Nombre relacionado alternativo</tran>
+        <tran loc="es-419">Nombre relacionado alternativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>VCARD_ADD</Position>
       <TranslationSet>
         <base loc="en">Merge with Contacts</base>
-        <tran loc="es">Fusionar con contactos</tran>
+        <tran loc="es-419">Asociar con contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>system:Bell Tower</Position>
       <TranslationSet>
         <base loc="en">Bell Tower</base>
-        <tran loc="es">Campanas</tran>
+        <tran loc="es-419">Campanas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>NO_VALUE_DATES</Position>
       <TranslationSet>
         <base loc="en">No Dates</base>
-        <tran loc="es">Ninguna fecha</tran>
+        <tran loc="es-419">Ninguna fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>OTHER_FORMATTER URL</Position>
       <TranslationSet>
         <base loc="en">Other URL</base>
-        <tran loc="es">URL alternativa</tran>
+        <tran loc="es-419">URL alternativa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>NO_VALUE_RELATED_NAMES</Position>
       <TranslationSet>
         <base loc="en">No Related Names</base>
-        <tran loc="es">Ningún nombre relacionado</tran>
+        <tran loc="es-419">Ningún nombre relacionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>TAKE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Take Photo</base>
-        <tran loc="es">Hacer foto</tran>
+        <tran loc="es-419">Tomar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>SHARE_CONTACT_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share Contact Using:</base>
-        <tran loc="es">Compartir mediante:</tran>
+        <tran loc="es-419">Compartir mediante:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>USE_IPAD_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use iPad Photo</base>
-        <tran loc="es">Usar foto del iPad</tran>
+        <tran loc="es-419">Usar foto del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>SHARE_LOCATION_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share Location Using:</base>
-        <tran loc="es">Compartir mediante:</tran>
+        <tran loc="es-419">Compartir mediante:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>EDIT_PROPERTY Date</Position>
       <TranslationSet>
         <base loc="en">Edit Date</base>
-        <tran loc="es">Editar fecha</tran>
+        <tran loc="es-419">Editar fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>OTHER_FORMATTER IM</Position>
       <TranslationSet>
         <base loc="en">Other Instant Message</base>
-        <tran loc="es">Mensajería instantánea alternativa</tran>
+        <tran loc="es-419">Mensajería instantánea alternativa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>America (South)</Position>
       <TranslationSet>
         <base loc="en">America (South)</base>
-        <tran loc="es">América (del Sur)</tran>
+        <tran loc="es-419">América (del Sur)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>CHOOSE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Choose Photo</base>
-        <tran loc="es">Seleccionar foto</tran>
+        <tran loc="es-419">Seleccionar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>CHOOSE_EXISTITNG_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Choose Existing Photo</base>
-        <tran loc="es">Seleccionar foto existente</tran>
+        <tran loc="es-419">Seleccionar foto existente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>NO_NETWORK</Position>
       <TranslationSet>
         <base loc="en">No Network Connection</base>
-        <tran loc="es">No hay conexión de red</tran>
+        <tran loc="es-419">No hay conexión de red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>USE_IPAD_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">iPad Photo %@</base>
-        <tran loc="es">Foto del iPad %@</tran>
+        <tran loc="es-419">Foto del iPad %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>MSN SHORT_INSTANT_MESSAGE_SERVICE</Position>
       <TranslationSet>
         <base loc="en">MSN</base>
-        <tran loc="es">MSN</tran>
+        <tran loc="es-419">MSN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>EDIT_COUNTRY_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Country or Region</base>
-        <tran loc="es">País o región</tran>
+        <tran loc="es-419">País o región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>PHONE_ACTION_VIDEO_CONFERENCE</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>PHONE_ACTION_VIDEO_CONFERENCE_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>PHONE_ACTION_VIDEO_CONFERENCE_SHORT</Position>
       <TranslationSet>
         <base loc="en">FaceTime</base>
-        <tran loc="es">FaceTime</tran>
+        <tran loc="es-419">FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>USE_IPHONE_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">iPhone</base>
-        <tran loc="es">iPhone</tran>
+        <tran loc="es-419">iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>USE_FACEBOOK_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use Facebook Photo</base>
-        <tran loc="es">Usar foto de Facebook</tran>
+        <tran loc="es-419">Usar foto de Facebook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>texttone:Calypso</Position>
       <TranslationSet>
         <base loc="en">Calypso</base>
-        <tran loc="es">Calipso</tran>
+        <tran loc="es-419">Calipso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>NO_VALUE_SOCIAL_PROFILE</Position>
       <TranslationSet>
         <base loc="en">No Social Profiles</base>
-        <tran loc="es">Ningún perfil social</tran>
+        <tran loc="es-419">Ningún perfil social</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>PHONE_ACTION_CALL_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Voice Call.</base>
-        <tran loc="es">Llamada de voz.</tran>
+        <tran loc="es-419">Llamada de voz.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>SEARCH_FAILED</Position>
       <TranslationSet>
         <base loc="en">Search Failed</base>
-        <tran loc="es">Error de búsqueda</tran>
+        <tran loc="es-419">Error de búsqueda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>RINGTONE_PICKER_GROUP_TITLE_STANDARD</Position>
       <TranslationSet>
         <base loc="en">Standard</base>
-        <tran loc="es">Estándar</tran>
+        <tran loc="es-419">Estándar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>RELATED_PEOPLE_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>LINKED_CARD_ADD_WARNING_EXPLANATION_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">This will add a value to %@ linked contacts.</base>
-        <tran loc="es">Esto añadirá un valor a %@ contactos enlazados.</tran>
+        <tran loc="es-419">Esto agregará un valor a %@ contactos enlazados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>N_LINKED_CARDS</Position>
       <TranslationSet>
         <base loc="en">%@ Linked Contacts</base>
-        <tran loc="es">%@ contactos enlazados</tran>
+        <tran loc="es-419">%@ contactos enlazados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>North America</Position>
       <TranslationSet>
         <base loc="en">North America</base>
-        <tran loc="es">Norteamérica</tran>
+        <tran loc="es-419">Norteamérica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>EDIT_VIBRATION</Position>
       <TranslationSet>
         <base loc="en">Vibration</base>
-        <tran loc="es">Vibración</tran>
+        <tran loc="es-419">Vibración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>VIBRATION_CARD_ITEM_LABEL</Position>
       <TranslationSet>
         <base loc="en">Vibration</base>
-        <tran loc="es">Vibración</tran>
+        <tran loc="es-419">Vibración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>system:Old Phone</Position>
       <TranslationSet>
         <base loc="en">Old Phone</base>
-        <tran loc="es">Teléfono antiguo</tran>
+        <tran loc="es-419">Teléfono antiguo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>EDIT_PROPERTY JobTitle</Position>
       <TranslationSet>
         <base loc="en">Edit Job Title</base>
-        <tran loc="es">Editar cargo</tran>
+        <tran loc="es-419">Editar cargo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>ALL_CONTACTS_FOR_ACCOUNT-%@</Position>
       <TranslationSet>
         <base loc="en">All %@</base>
-        <tran loc="es">Todos los de %@</tran>
+        <tran loc="es-419">Todos en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>UNLINK</Position>
       <TranslationSet>
         <base loc="en">Unlink</base>
-        <tran loc="es">Desenlazar</tran>
+        <tran loc="es-419">Desenlazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>EDIT_PROPERTY URL</Position>
       <TranslationSet>
         <base loc="en">Edit URL</base>
-        <tran loc="es">Editar URL</tran>
+        <tran loc="es-419">Editar URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>SEARCH_RESULTS_SINGLE</Position>
       <TranslationSet>
         <base loc="en">(1 Result)</base>
-        <tran loc="es">(1 resultado)</tran>
+        <tran loc="es-419">(1 resultado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>NO_VALUE_PHONES</Position>
       <TranslationSet>
         <base loc="en">No Phone Numbers</base>
-        <tran loc="es">Ningún número de teléfono</tran>
+        <tran loc="es-419">Ningún número de teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>NO_VALUE_URLS</Position>
       <TranslationSet>
         <base loc="en">No URLs</base>
-        <tran loc="es">Ninguna dirección URL</tran>
+        <tran loc="es-419">Ninguna dirección URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>CARD_ACTION_CREATE_MEDICAL_ID</Position>
       <TranslationSet>
         <base loc="en">Create Medical ID</base>
-        <tran loc="es">Crear datos médicos</tran>
+        <tran loc="es-419">Crear Ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>texttone:Choo Choo</Position>
       <TranslationSet>
         <base loc="en">Choo Choo</base>
-        <tran loc="es">Locomotora</tran>
+        <tran loc="es-419">Locomotora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>ADD_NEW_ITEM Birthday</Position>
       <TranslationSet>
         <base loc="en">add birthday</base>
-        <tran loc="es">añadir cumpleaños</tran>
+        <tran loc="es-419">agregar cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>ADD_NEW_ITEM RelatedNames</Position>
       <TranslationSet>
         <base loc="en">add related name</base>
-        <tran loc="es">añadir nombre relacionado</tran>
+        <tran loc="es-419">agregar nombre relacionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>LINK_NEW_CONTACT_POPOVER_LABEL</Position>
       <TranslationSet>
         <base loc="en">Link Contact</base>
-        <tran loc="es">Enlazar contacto</tran>
+        <tran loc="es-419">Enlazar contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>VCARD_UNMERGED_MESSAGE-%d</Position>
       <TranslationSet>
         <base loc="en">%d contacts did not match any existing entries.\nWould you like to add these contacts?</base>
-        <tran loc="es">%d contactos no coinciden con ninguna entrada existente.\n¿Quieres añadir estos contactos?</tran>
+        <tran loc="es-419">%d contactos no coinciden con ninguna entrada existente.\n¿Quieres agregar estos contactos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -494,7 +494,7 @@
       <Position>ADD_NEW_ITEM Phone</Position>
       <TranslationSet>
         <base loc="en">add phone</base>
-        <tran loc="es">añadir teléfono</tran>
+        <tran loc="es-419">agregar teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -502,7 +502,7 @@
       <Position>EDIT_PROPERTY Prefix</Position>
       <TranslationSet>
         <base loc="en">Edit Prefix</base>
-        <tran loc="es">Editar tratamiento</tran>
+        <tran loc="es-419">Editar prefijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -510,7 +510,7 @@
       <Position>LINK_ANOTHER_CONTACT_TABLE_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">link contacts…</base>
-        <tran loc="es">enlazar contactos…</tran>
+        <tran loc="es-419">enlazar contactos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -518,7 +518,7 @@
       <Position>ADD_MORE_PROPERTIES_NAV_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add Field</base>
-        <tran loc="es">Añadir campo</tran>
+        <tran loc="es-419">Agregar campo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -526,7 +526,7 @@
       <Position>ADD_PROPERTY Address</Position>
       <TranslationSet>
         <base loc="en">Add Address</base>
-        <tran loc="es">Dirección</tran>
+        <tran loc="es-419">Dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -534,7 +534,7 @@
       <Position>system:Ascending</Position>
       <TranslationSet>
         <base loc="en">Ascending</base>
-        <tran loc="es">Ascendente</tran>
+        <tran loc="es-419">Ascendente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -542,7 +542,7 @@
       <Position>OTHER_FORMATTER Address</Position>
       <TranslationSet>
         <base loc="en">Other Address</base>
-        <tran loc="es">Dirección alternativa</tran>
+        <tran loc="es-419">Dirección alternativa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -550,7 +550,7 @@
       <Position>VCARD_ADD_ONE</Position>
       <TranslationSet>
         <base loc="en">Add Contact</base>
-        <tran loc="es">Añadir contacto</tran>
+        <tran loc="es-419">Agregar contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -558,7 +558,7 @@
       <Position>CREATE_NEW_CONTACT_TITLE</Position>
       <TranslationSet>
         <base loc="en">New Contact</base>
-        <tran loc="es">Nuevo</tran>
+        <tran loc="es-419">Nuevo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -566,7 +566,7 @@
       <Position>NO_VALUE_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">No Street Addresses</base>
-        <tran loc="es">Ninguna dirección</tran>
+        <tran loc="es-419">Ninguna dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -574,7 +574,7 @@
       <Position>TWITTER_FIELD_NAME</Position>
       <TranslationSet>
         <base loc="en">Twitter</base>
-        <tran loc="es">Twitter</tran>
+        <tran loc="es-419">Twitter</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -582,7 +582,7 @@
       <Position>OTHER_NUMBER</Position>
       <TranslationSet>
         <base loc="en">Other Number</base>
-        <tran loc="es">Otro número</tran>
+        <tran loc="es-419">Otro número</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -590,7 +590,7 @@
       <Position>ADD_PROPERTY URL</Position>
       <TranslationSet>
         <base loc="en">Add URL</base>
-        <tran loc="es">Añadir URL</tran>
+        <tran loc="es-419">Agregar URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -598,7 +598,7 @@
       <Position>texttone:Bloom</Position>
       <TranslationSet>
         <base loc="en">Bloom</base>
-        <tran loc="es">Primavera</tran>
+        <tran loc="es-419">Primavera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -606,7 +606,7 @@
       <Position>alarm-system:Alarm2</Position>
       <TranslationSet>
         <base loc="en">Time’s Up</base>
-        <tran loc="es">Se acabó el tiempo</tran>
+        <tran loc="es-419">Se acabó el tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -614,7 +614,7 @@
       <Position>MAPS_CARD_DIRECTIONS_TO</Position>
       <TranslationSet>
         <base loc="en">Directions To Here</base>
-        <tran loc="es">Obtener indicaciones hasta aquí</tran>
+        <tran loc="es-419">Obtener indicaciones hasta aquí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -622,7 +622,7 @@
       <Position>texttone:Typewriters</Position>
       <TranslationSet>
         <base loc="en">Typewriters</base>
-        <tran loc="es">Escritura</tran>
+        <tran loc="es-419">Escritura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -630,7 +630,7 @@
       <Position>USE_CARDDAV_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use CardDAV Photo %@</base>
-        <tran loc="es">Usar foto de CardDAV %@</tran>
+        <tran loc="es-419">Usar foto de CardDAV %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -638,7 +638,7 @@
       <Position>EDIT_PROPERTY</Position>
       <TranslationSet>
         <base loc="en">Edit %@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -646,7 +646,7 @@
       <Position>system:Blues</Position>
       <TranslationSet>
         <base loc="en">Blues</base>
-        <tran loc="es">Blues</tran>
+        <tran loc="es-419">Blues</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -654,7 +654,7 @@
       <Position>EDIT_PROPERTY Suffix</Position>
       <TranslationSet>
         <base loc="en">Edit Suffix</base>
-        <tran loc="es">Editar sufijo</tran>
+        <tran loc="es-419">Editar sufijo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -662,7 +662,7 @@
       <Position>Unable to open contact card.</Position>
       <TranslationSet>
         <base loc="en">Unable to open contact card.</base>
-        <tran loc="es">No se ha podido abrir la tarjeta del contacto.</tran>
+        <tran loc="es-419">No se puede abrir la tarjeta de contacto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -670,7 +670,7 @@
       <Position>MULTIPLE_PROPERTY Vibration</Position>
       <TranslationSet>
         <base loc="en">Multiple Vibrations</base>
-        <tran loc="es">Varias vibraciones</tran>
+        <tran loc="es-419">Varias vibraciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -678,7 +678,7 @@
       <Position>system:Timba</Position>
       <TranslationSet>
         <base loc="en">Timba</base>
-        <tran loc="es">Timba</tran>
+        <tran loc="es-419">Timba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -686,7 +686,7 @@
       <Position>ADDRESS_ACTION_GOOGLE_MAPS</Position>
       <TranslationSet>
         <base loc="en">Open in Google Maps</base>
-        <tran loc="es">Abrir en Google Maps</tran>
+        <tran loc="es-419">Abrir en Google Maps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -694,7 +694,7 @@
       <Position>CHOOSE_LIBRARY_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Choose Photo from Library</base>
-        <tran loc="es">Seleccionar de la fototeca</tran>
+        <tran loc="es-419">Seleccionar de la fototeca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -702,7 +702,7 @@
       <Position>LIST</Position>
       <TranslationSet>
         <base loc="en">List</base>
-        <tran loc="es">Lista</tran>
+        <tran loc="es-419">Lista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -710,7 +710,7 @@
       <Position>CARD_ACTION_EDIT_MEDICAL_ID</Position>
       <TranslationSet>
         <base loc="en">Edit Medical ID</base>
-        <tran loc="es">Editar datos médicos</tran>
+        <tran loc="es-419">Editar Ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -718,7 +718,7 @@
       <Position>ADD_PROPERTY Date</Position>
       <TranslationSet>
         <base loc="en">Add Date</base>
-        <tran loc="es">Añadir fecha</tran>
+        <tran loc="es-419">Agregar fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -726,7 +726,7 @@
       <Position>PHONE_ACTION_TEXT_SHORT</Position>
       <TranslationSet>
         <base loc="en">Send\nMessage</base>
-        <tran loc="es">Enviar\nmensaje</tran>
+        <tran loc="es-419">Enviar\nmensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -734,7 +734,7 @@
       <Position>ME_CELL_INDICATOR</Position>
       <TranslationSet>
         <base loc="en">me</base>
-        <tran loc="es">yo</tran>
+        <tran loc="es-419">yo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -742,7 +742,7 @@
       <Position>NO_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">No Contacts</base>
-        <tran loc="es">No hay contactos</tran>
+        <tran loc="es-419">No hay contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -750,7 +750,7 @@
       <Position>URL_ACTION_VISIT</Position>
       <TranslationSet>
         <base loc="en">Visit</base>
-        <tran loc="es">Visitar</tran>
+        <tran loc="es-419">Visitar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -758,7 +758,7 @@
       <Position>texttone:Glass</Position>
       <TranslationSet>
         <base loc="en">Glass</base>
-        <tran loc="es">Cristal</tran>
+        <tran loc="es-419">Cristal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -766,7 +766,7 @@
       <Position>ADD_NEW_ITEM AlternateBirthday</Position>
       <TranslationSet>
         <base loc="en">add alternate birthday</base>
-        <tran loc="es">añadir cumpleaños alternativo</tran>
+        <tran loc="es-419">agregar segundo cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -774,7 +774,7 @@
       <Position>USE_ICLOUD_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use iCloud Photo %@</base>
-        <tran loc="es">Usar foto de iCloud %@</tran>
+        <tran loc="es-419">Usar foto de iCloud %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -782,7 +782,7 @@
       <Position>SET_PREFERRED_PHOTO_ACTION_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use This Photo For Unified Card</base>
-        <tran loc="es">Usar esta foto para la tarjeta unif.</tran>
+        <tran loc="es-419">Usar la foto para unificar datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -790,7 +790,7 @@
       <Position>system:Xylophone</Position>
       <TranslationSet>
         <base loc="en">Xylophone</base>
-        <tran loc="es">Xilófono</tran>
+        <tran loc="es-419">Xilófono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -798,7 +798,7 @@
       <Position>PHOTO_EDIT_LABEL</Position>
       <TranslationSet>
         <base loc="en">edit</base>
-        <tran loc="es">editar</tran>
+        <tran loc="es-419">editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -806,7 +806,7 @@
       <Position>MAPS_CARD_SHARE_LOCATION</Position>
       <TranslationSet>
         <base loc="en">Share Location</base>
-        <tran loc="es">Compartir ubicación</tran>
+        <tran loc="es-419">Compartir ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -814,7 +814,7 @@
       <Position>CARD_ACTION_DELETE_CARD_MULTIPLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Delete %@ Contacts</base>
-        <tran loc="es">Eliminar %@ contactos</tran>
+        <tran loc="es-419">Eliminar %@ contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -822,7 +822,7 @@
       <Position>USE_FACEBOOK_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">Facebook</base>
-        <tran loc="es">Facebook</tran>
+        <tran loc="es-419">Facebook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -830,7 +830,7 @@
       <Position>HIDE_ALL_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Hide All Contacts</base>
-        <tran loc="es">Ocultar todos los contactos</tran>
+        <tran loc="es-419">Ocultar todos los contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -838,7 +838,7 @@
       <Position>ADD_NEW_ITEM SocialProfile</Position>
       <TranslationSet>
         <base loc="en">add social profile</base>
-        <tran loc="es">añadir perfil social</tran>
+        <tran loc="es-419">agregar perfil social</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -846,7 +846,7 @@
       <Position>ADD_MORE_PROPERTIES</Position>
       <TranslationSet>
         <base loc="en">add field</base>
-        <tran loc="es">añadir campo</tran>
+        <tran loc="es-419">agregar campo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -854,7 +854,7 @@
       <Position>texttone:Tri-tone</Position>
       <TranslationSet>
         <base loc="en">Tri-tone</base>
-        <tran loc="es">Tritono</tran>
+        <tran loc="es-419">Tritono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -862,7 +862,7 @@
       <Position>ADD_PROPERTY Phone</Position>
       <TranslationSet>
         <base loc="en">Add Phone</base>
-        <tran loc="es">Añadir teléfono</tran>
+        <tran loc="es-419">Agregar teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -870,7 +870,7 @@
       <Position>system:Old Car Horn</Position>
       <TranslationSet>
         <base loc="en">Old Car Horn</base>
-        <tran loc="es">Bocina coche viejo</tran>
+        <tran loc="es-419">Claxon automóvil viejo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -878,7 +878,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -886,7 +886,7 @@
       <Position>EDIT_PROPERTY Note</Position>
       <TranslationSet>
         <base loc="en">Edit Note</base>
-        <tran loc="es">Editar nota</tran>
+        <tran loc="es-419">Editar nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -894,7 +894,7 @@
       <Position>CUSTOM_LABEL_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Custom Label</base>
-        <tran loc="es">Personalizar</tran>
+        <tran loc="es-419">Personalizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -902,7 +902,7 @@
       <Position>CUSTOM_NAVIGATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Custom Label</base>
-        <tran loc="es">Personalizar</tran>
+        <tran loc="es-419">Personalizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -910,7 +910,7 @@
       <Position>Europe</Position>
       <TranslationSet>
         <base loc="en">Europe</base>
-        <tran loc="es">Europa</tran>
+        <tran loc="es-419">Europa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -918,7 +918,7 @@
       <Position>SELECT_BIRTHDAY_CALENDAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Birthday Calendar</base>
-        <tran loc="es">Cumpleaños</tran>
+        <tran loc="es-419">Calend. de cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -926,7 +926,7 @@
       <Position>system:Duck</Position>
       <TranslationSet>
         <base loc="en">Duck</base>
-        <tran loc="es">Pato</tran>
+        <tran loc="es-419">Pato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -934,7 +934,7 @@
       <Position>ADD</Position>
       <TranslationSet>
         <base loc="en">Add</base>
-        <tran loc="es">Añadir</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -942,7 +942,7 @@
       <Position>LINKED_CARDS_TABLE_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">LINKED CONTACTS</base>
-        <tran loc="es">CONTACTOS ENLAZADOS</tran>
+        <tran loc="es-419">CONTACTOS ENLAZADOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -950,7 +950,7 @@
       <Position>America (North)</Position>
       <TranslationSet>
         <base loc="en">America (North)</base>
-        <tran loc="es">América (del Norte)</tran>
+        <tran loc="es-419">América (del Norte)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -958,7 +958,7 @@
       <Position>system:Trill</Position>
       <TranslationSet>
         <base loc="en">Trill</base>
-        <tran loc="es">Trino</tran>
+        <tran loc="es-419">Trino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -966,7 +966,7 @@
       <Position>texttone:Noir</Position>
       <TranslationSet>
         <base loc="en">Noir</base>
-        <tran loc="es">Cine negro</tran>
+        <tran loc="es-419">Cine noir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -974,7 +974,7 @@
       <Position>LAST_NAME</Position>
       <TranslationSet>
         <base loc="en">Last Name</base>
-        <tran loc="es">Apellidos</tran>
+        <tran loc="es-419">Apellidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -982,7 +982,7 @@
       <Position>PHONE_ACTION_FACETIME_AUDIO</Position>
       <TranslationSet>
         <base loc="en">FaceTime Audio</base>
-        <tran loc="es">FaceTime de audio</tran>
+        <tran loc="es-419">FaceTime de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -990,7 +990,7 @@
       <Position>PHONE_ACTION_VOICE_CONFERENCE</Position>
       <TranslationSet>
         <base loc="en">FaceTime Audio</base>
-        <tran loc="es">FaceTime de audio</tran>
+        <tran loc="es-419">FaceTime de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -998,7 +998,7 @@
       <Position>system:Harp</Position>
       <TranslationSet>
         <base loc="en">Harp</base>
-        <tran loc="es">Arpa</tran>
+        <tran loc="es-419">Arpa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1006,7 +1006,7 @@
       <Position>UNBLOCK_THIS_CALLER</Position>
       <TranslationSet>
         <base loc="en">Unblock this Caller</base>
-        <tran loc="es">Desbloquear este contacto</tran>
+        <tran loc="es-419">Desbloquear este contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1014,7 +1014,7 @@
       <Position>texttone:Anticipate</Position>
       <TranslationSet>
         <base loc="en">Anticipate</base>
-        <tran loc="es">Acumulación</tran>
+        <tran loc="es-419">Acumulación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1022,7 +1022,7 @@
       <Position>DIRECTORIES</Position>
       <TranslationSet>
         <base loc="en">Directories</base>
-        <tran loc="es">Directorios</tran>
+        <tran loc="es-419">Directorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1030,7 +1030,7 @@
       <Position>Asia (South-Eastern)</Position>
       <TranslationSet>
         <base loc="en">Asia (South-Eastern)</base>
-        <tran loc="es">Asia (suroriental)</tran>
+        <tran loc="es-419">Asia (suroriental)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1038,7 +1038,7 @@
       <Position>texttone:Descent</Position>
       <TranslationSet>
         <base loc="en">Descent</base>
-        <tran loc="es">Descendente</tran>
+        <tran loc="es-419">Descendente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1046,7 +1046,7 @@
       <Position>texttone:Horn</Position>
       <TranslationSet>
         <base loc="en">Horn</base>
-        <tran loc="es">Bocina</tran>
+        <tran loc="es-419">Claxon</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1054,7 +1054,7 @@
       <Position>ACCESS_DENIED_TITLE</Position>
       <TranslationSet>
         <base loc="en">This app does not have access to your contacts.</base>
-        <tran loc="es">Esta app no tiene acceso a tus contactos.</tran>
+        <tran loc="es-419">Esta app no tiene acceso a tus contactos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1062,7 +1062,7 @@
       <Position>GROUPS</Position>
       <TranslationSet>
         <base loc="en">Groups</base>
-        <tran loc="es">Grupos</tran>
+        <tran loc="es-419">Grupos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1070,7 +1070,7 @@
       <Position>ADD_NEW_ITEM URL</Position>
       <TranslationSet>
         <base loc="en">add URL</base>
-        <tran loc="es">añadir URL</tran>
+        <tran loc="es-419">agregar URL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1078,7 +1078,7 @@
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1086,7 +1086,7 @@
       <Position>EDIT_PROPERTY FirstPhonetic</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1094,7 +1094,7 @@
       <Position>EDIT_PROPERTY LastPhonetic</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1102,7 +1102,7 @@
       <Position>EDIT_PROPERTY MiddlePhonetic</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1110,7 +1110,7 @@
       <Position>America (Central)</Position>
       <TranslationSet>
         <base loc="en">America (Central)</base>
-        <tran loc="es">América (Central)</tran>
+        <tran loc="es-419">América (Central)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1118,7 +1118,7 @@
       <Position>UPDATING_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Updating Contacts…</base>
-        <tran loc="es">Actualizando contactos…</tran>
+        <tran loc="es-419">Actualizando contactos…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1126,7 +1126,7 @@
       <Position>EDIT_ITEM_LABEL</Position>
       <TranslationSet>
         <base loc="en">Label</base>
-        <tran loc="es">Etiqueta</tran>
+        <tran loc="es-419">Etiqueta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1134,7 +1134,7 @@
       <Position>texttone:Update</Position>
       <TranslationSet>
         <base loc="en">Update</base>
-        <tran loc="es">Última hora</tran>
+        <tran loc="es-419">Última hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1142,7 +1142,7 @@
       <Position>PHONE_ACTION_ADD_TO_FAVORITES</Position>
       <TranslationSet>
         <base loc="en">Add to Favorites</base>
-        <tran loc="es">Añadir a favoritos</tran>
+        <tran loc="es-419">Agregar a Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1150,7 +1150,7 @@
       <Position>RINGTONE_PICKER_GROUP_TITLE_PURCHASED</Position>
       <TranslationSet>
         <base loc="en">Purchased</base>
-        <tran loc="es">Comprado</tran>
+        <tran loc="es-419">Comprado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1158,7 +1158,7 @@
       <Position>USE_IPAD_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use iPad Photo %@</base>
-        <tran loc="es">Usar foto del iPad %@</tran>
+        <tran loc="es-419">Usar foto del iPad %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1166,7 +1166,7 @@
       <Position>EDIT_PROPERTY Birthday</Position>
       <TranslationSet>
         <base loc="en">Edit Birthday</base>
-        <tran loc="es">Cumpleaños</tran>
+        <tran loc="es-419">Cumpleaños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1174,7 +1174,7 @@
       <Position>MOBILEME</Position>
       <TranslationSet>
         <base loc="en">MobileMe</base>
-        <tran loc="es">MobileMe</tran>
+        <tran loc="es-419">MobileMe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1182,7 +1182,7 @@
       <Position>USE_MOBILEME_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">MobileMe</base>
-        <tran loc="es">MobileMe</tran>
+        <tran loc="es-419">MobileMe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1190,7 +1190,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1198,7 +1198,7 @@
       <Position>VCARD_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1206,7 +1206,7 @@
       <Position>USE_IPHONE_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use iPhone Photo %@</base>
-        <tran loc="es">Usar foto del iPhone %@</tran>
+        <tran loc="es-419">Usar foto del iPhone %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1214,7 +1214,7 @@
       <Position>EDIT_PROPERTY Nickname</Position>
       <TranslationSet>
         <base loc="en">Edit Nickname</base>
-        <tran loc="es">Alias</tran>
+        <tran loc="es-419">Apodo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1222,7 +1222,7 @@
       <Position>LINKED_NOTES_LABEL_WITH_SOURCE</Position>
       <TranslationSet>
         <base loc="en">%@ note</base>
-        <tran loc="es">%@ nota</tran>
+        <tran loc="es-419">%@ nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1230,7 +1230,7 @@
       <Position>OTHER_FORMATTER Email</Position>
       <TranslationSet>
         <base loc="en">Other Email</base>
-        <tran loc="es">Correo alternativo</tran>
+        <tran loc="es-419">Correo alternativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1238,7 +1238,7 @@
       <Position>DELETE_CARD_READONLY_CONTACT_MESSAGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">The linked %@ contact will not be deleted.</base>
-        <tran loc="es">El contacto %@ enlazado no se eliminará.</tran>
+        <tran loc="es-419">El contacto %@ enlazado no se eliminará.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1246,7 +1246,7 @@
       <Position>USE_IPOD_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use iPod Photo</base>
-        <tran loc="es">Usar foto del iPod</tran>
+        <tran loc="es-419">Usar foto del iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1254,7 +1254,7 @@
       <Position>USE_IPOD_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">iPod</base>
-        <tran loc="es">iPod</tran>
+        <tran loc="es-419">iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1262,7 +1262,7 @@
       <Position>SELECT_SERVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Service</base>
-        <tran loc="es">Servicio</tran>
+        <tran loc="es-419">Servicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1270,7 +1270,7 @@
       <Position>USE_IPHONE_SIMULATOR_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">iPhone Simulator</base>
-        <tran loc="es">Simulador iPhone</tran>
+        <tran loc="es-419">iPhone Simulator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1278,7 +1278,7 @@
       <Position>EDIT_PROPERTY Phone</Position>
       <TranslationSet>
         <base loc="en">Edit Phone</base>
-        <tran loc="es">Editar teléfono</tran>
+        <tran loc="es-419">Editar teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1286,7 +1286,7 @@
       <Position>Asia (Eastern)</Position>
       <TranslationSet>
         <base loc="en">Asia (Eastern)</base>
-        <tran loc="es">Asia (oriental)</tran>
+        <tran loc="es-419">Asia (oriental)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1294,7 +1294,7 @@
       <Position>SEARCH_DIRECTORY_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Search Directory</base>
-        <tran loc="es">Buscar directorio</tran>
+        <tran loc="es-419">Buscar directorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1302,7 +1302,7 @@
       <Position>UNKNOWN_CARD_ADD_TO_SELECTED_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Add to Selected Contact</base>
-        <tran loc="es">Añadir al contacto seleccionado</tran>
+        <tran loc="es-419">Agregar al contacto seleccionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1310,7 +1310,7 @@
       <Position>ADD_PROPERTY Middle</Position>
       <TranslationSet>
         <base loc="en">Add Middle Name</base>
-        <tran loc="es">Segundo nombre</tran>
+        <tran loc="es-419">Segundo nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1318,7 +1318,7 @@
       <Position>CARD_ACTION_BLOCK_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Block Contact</base>
-        <tran loc="es">Bloquear contacto</tran>
+        <tran loc="es-419">Bloquear contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1326,7 +1326,7 @@
       <Position>SEARCH_RESULTS_PLURAL_FORMAT</Position>
       <TranslationSet>
         <base loc="en">(%d Results)</base>
-        <tran loc="es">(%d resultados)</tran>
+        <tran loc="es-419">(%d resultados)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1334,7 +1334,7 @@
       <Position>system:Boing</Position>
       <TranslationSet>
         <base loc="en">Boing</base>
-        <tran loc="es">Boing</tran>
+        <tran loc="es-419">Boing</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1342,7 +1342,7 @@
       <Position>system:Pinball</Position>
       <TranslationSet>
         <base loc="en">Pinball</base>
-        <tran loc="es">Pinball</tran>
+        <tran loc="es-419">Pinball</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1350,7 +1350,7 @@
       <Position>CARD_DONE</Position>
       <TranslationSet>
         <base loc="en">Done|Edit</base>
-        <tran loc="es">OK|Editar</tran>
+        <tran loc="es-419">OK|Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1358,7 +1358,7 @@
       <Position>CUSTOM_LABEL_DONE</Position>
       <TranslationSet>
         <base loc="en">Done|Edit</base>
-        <tran loc="es">OK|Editar</tran>
+        <tran loc="es-419">OK|Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1366,7 +1366,7 @@
       <Position>EDIT_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Edit Photo</base>
-        <tran loc="es">Editar foto</tran>
+        <tran loc="es-419">Editar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1374,7 +1374,7 @@
       <Position>USE_IPHONE_SIMULATOR_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">iPhone Simulator Photo %@</base>
-        <tran loc="es">Foto de Simulador iPhone %@</tran>
+        <tran loc="es-419">Foto de iPhone Simulator %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1382,7 +1382,7 @@
       <Position>DELETE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Delete Photo</base>
-        <tran loc="es">Eliminar foto</tran>
+        <tran loc="es-419">Eliminar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1390,7 +1390,7 @@
       <Position>USE_FACEBOOK_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use Facebook Photo %@</base>
-        <tran loc="es">Usar foto de Facebook %@</tran>
+        <tran loc="es-419">Usar foto de Facebook %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1398,7 +1398,7 @@
       <Position>Caribbean</Position>
       <TranslationSet>
         <base loc="en">Caribbean</base>
-        <tran loc="es">Caribe</tran>
+        <tran loc="es-419">Caribe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1406,7 +1406,7 @@
       <Position>ADD_NEW_ITEM Address</Position>
       <TranslationSet>
         <base loc="en">add address</base>
-        <tran loc="es">añadir dirección</tran>
+        <tran loc="es-419">agregar dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1414,7 +1414,7 @@
       <Position>PHONE_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Send Message</base>
-        <tran loc="es">Enviar mensaje</tran>
+        <tran loc="es-419">Enviar mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1422,7 +1422,7 @@
       <Position>INFO</Position>
       <TranslationSet>
         <base loc="en">Info</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1430,7 +1430,7 @@
       <Position>NO_VCARDS_ERROR</Position>
       <TranslationSet>
         <base loc="en">An error occurred reading the file</base>
-        <tran loc="es">Se ha producido un error al leer el archivo</tran>
+        <tran loc="es-419">Se presentó un error al leer el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1438,7 +1438,7 @@
       <Position>USE_ICLOUD_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use iCloud Photo</base>
-        <tran loc="es">Usar foto de iCloud</tran>
+        <tran loc="es-419">Usar foto de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1446,7 +1446,7 @@
       <Position>SEARCHING</Position>
       <TranslationSet>
         <base loc="en">Searching...</base>
-        <tran loc="es">Buscando…</tran>
+        <tran loc="es-419">Buscando...</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1454,7 +1454,7 @@
       <Position>USE_EXCHANGE_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use Exchange Photo %@</base>
-        <tran loc="es">Usar foto de Exchange %@</tran>
+        <tran loc="es-419">Usar foto de Exchange %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1462,7 +1462,7 @@
       <Position>USE_CARDDAV_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use CardDAV Photo</base>
-        <tran loc="es">Usar foto de CardDAV</tran>
+        <tran loc="es-419">Usar foto de CardDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1470,7 +1470,7 @@
       <Position>PHONE_ACTION_TEXT_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Send a text message.</base>
-        <tran loc="es">Enviar un mensaje de texto.</tran>
+        <tran loc="es-419">Enviar un mensaje de texto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1478,7 +1478,7 @@
       <Position>EDIT_PROPERTY Last</Position>
       <TranslationSet>
         <base loc="en">Edit Last Name</base>
-        <tran loc="es">Editar apellido</tran>
+        <tran loc="es-419">Editar apellido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1486,7 +1486,7 @@
       <Position>CUSTOM_LABEL_ITEM</Position>
       <TranslationSet>
         <base loc="en">Custom…</base>
-        <tran loc="es">Personalizado…</tran>
+        <tran loc="es-419">Personalizado…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1494,7 +1494,7 @@
       <Position>USE_MOBILEME_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use MobileMe Photo %@</base>
-        <tran loc="es">Usar foto del MobileMe %@</tran>
+        <tran loc="es-419">Usar foto del MobileMe %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1502,7 +1502,7 @@
       <Position>MAPS_CARD_REMOVE_PIN</Position>
       <TranslationSet>
         <base loc="en">Remove Pin</base>
-        <tran loc="es">Quitar chincheta</tran>
+        <tran loc="es-419">Quitar marcador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1510,7 +1510,7 @@
       <Position>EXCHANGE</Position>
       <TranslationSet>
         <base loc="en">Exchange</base>
-        <tran loc="es">Exchange</tran>
+        <tran loc="es-419">Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1518,7 +1518,7 @@
       <Position>USE_EXCHANGE_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">Exchange</base>
-        <tran loc="es">Exchange</tran>
+        <tran loc="es-419">Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1526,7 +1526,7 @@
       <Position>RINGTONE_PICKER_DEFAULT_RINGTONE_NAME</Position>
       <TranslationSet>
         <base loc="en">Marimba</base>
-        <tran loc="es">Marimba</tran>
+        <tran loc="es-419">Marimba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1534,7 +1534,7 @@
       <Position>VCARD_ADD_ALL-%d</Position>
       <TranslationSet>
         <base loc="en">Add All %d Contacts</base>
-        <tran loc="es">Añadir los %d contactos</tran>
+        <tran loc="es-419">Agregar los %d contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1542,7 +1542,7 @@
       <Position>RINGTONE_PICKER_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1550,7 +1550,7 @@
       <Position>system:Robot</Position>
       <TranslationSet>
         <base loc="en">Robot</base>
-        <tran loc="es">Robot</tran>
+        <tran loc="es-419">Robot</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1558,7 +1558,7 @@
       <Position>system:Digital</Position>
       <TranslationSet>
         <base loc="en">Digital</base>
-        <tran loc="es">Digital</tran>
+        <tran loc="es-419">Digital</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1566,7 +1566,7 @@
       <Position>LINKED_CARD_ADD_WARNING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Warning</base>
-        <tran loc="es">Aviso</tran>
+        <tran loc="es-419">Advertencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1574,7 +1574,7 @@
       <Position>LINKED_CARD_EDIT_WARNING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Warning</base>
-        <tran loc="es">Aviso</tran>
+        <tran loc="es-419">Advertencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1582,7 +1582,7 @@
       <Position>LINKED_CARD_IMAGE_WARNING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Warning</base>
-        <tran loc="es">Aviso</tran>
+        <tran loc="es-419">Advertencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1590,7 +1590,7 @@
       <Position>ADD_CUSTOM_LABEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Add Custom Label</base>
-        <tran loc="es">Etiqueta personalizada</tran>
+        <tran loc="es-419">Etiqueta personalizada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1598,7 +1598,7 @@
       <Position>CONFIRM_DELETE</Position>
       <TranslationSet>
         <base loc="en">Confirm Delete</base>
-        <tran loc="es">Confirmar eliminación</tran>
+        <tran loc="es-419">Confirmar eliminación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1606,7 +1606,7 @@
       <Position>SHARE_CONTACT_ACTION_BUTTON_TITLE_SHORT</Position>
       <TranslationSet>
         <base loc="en">Share\nContact</base>
-        <tran loc="es">Compartir\ncontacto</tran>
+        <tran loc="es-419">Compartir\ncontacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1614,7 +1614,7 @@
       <Position>MULTIPLE_PROPERTY Ringtone</Position>
       <TranslationSet>
         <base loc="en">Multiple Ringtones</base>
-        <tran loc="es">Varios tonos</tran>
+        <tran loc="es-419">Varios tonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1622,7 +1622,7 @@
       <Position>VCARD_UNMERGED_MESSAGE_1</Position>
       <TranslationSet>
         <base loc="en">1 contact did not match an existing entry.\nWould you like to add this contact?</base>
-        <tran loc="es">Un contacto no coincide con ninguna entrada existente.\n¿Quieres añadir este contacto?</tran>
+        <tran loc="es-419">Un contacto no coincide con ninguna entrada existente.\n¿Quieres agregar este contacto?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1630,7 +1630,7 @@
       <Position>texttone:Bell</Position>
       <TranslationSet>
         <base loc="en">Bell</base>
-        <tran loc="es">Campana</tran>
+        <tran loc="es-419">Campana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1638,7 +1638,7 @@
       <Position>NO_VALUE_EMAILS</Position>
       <TranslationSet>
         <base loc="en">No Email Addresses</base>
-        <tran loc="es">Ninguna dirección de correo</tran>
+        <tran loc="es-419">Ninguna dirección de correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1646,7 +1646,7 @@
       <Position>alarm-system:Alarm1</Position>
       <TranslationSet>
         <base loc="en">Time Passing</base>
-        <tran loc="es">Paso del tiempo</tran>
+        <tran loc="es-419">Paso del tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1654,7 +1654,7 @@
       <Position>system:Time Passing</Position>
       <TranslationSet>
         <base loc="en">Time Passing</base>
-        <tran loc="es">Paso del tiempo</tran>
+        <tran loc="es-419">Paso del tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1662,7 +1662,7 @@
       <Position>Africa (Northern)</Position>
       <TranslationSet>
         <base loc="en">Africa (Northern)</base>
-        <tran loc="es">África (septentrional)</tran>
+        <tran loc="es-419">África (septentrional)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1670,7 +1670,7 @@
       <Position>MAPS_CARD_ADD_TO_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Add to Contacts</base>
-        <tran loc="es">Añadir contacto</tran>
+        <tran loc="es-419">Agregar contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1678,7 +1678,7 @@
       <Position>NO_RESULTS</Position>
       <TranslationSet>
         <base loc="en">No Results</base>
-        <tran loc="es">No hay resultados</tran>
+        <tran loc="es-419">No hay resultados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1686,7 +1686,7 @@
       <Position>SEARCH_RESULTS_NONE</Position>
       <TranslationSet>
         <base loc="en">No Results</base>
-        <tran loc="es">No hay resultados</tran>
+        <tran loc="es-419">No hay resultados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1694,7 +1694,7 @@
       <Position>EMAIL_ACTION_EMAIL</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1702,7 +1702,7 @@
       <Position>SHARE_CONTACT_VIA_EMAIL</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo electrónico</tran>
+        <tran loc="es-419">Correo electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1710,7 +1710,7 @@
       <Position>REMOVE</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1718,7 +1718,7 @@
       <Position>PEOPLE_PICKER_FOR_LINKING_NO_NAME</Position>
       <TranslationSet>
         <base loc="en">(No Name)</base>
-        <tran loc="es">(sin nombre)</tran>
+        <tran loc="es-419">(sin nombre)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1726,7 +1726,7 @@
       <Position>EDIT_RINGTONE</Position>
       <TranslationSet>
         <base loc="en">Ringtone</base>
-        <tran loc="es">Tono</tran>
+        <tran loc="es-419">Tono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1734,7 +1734,7 @@
       <Position>RINGTONE</Position>
       <TranslationSet>
         <base loc="en">Ringtone</base>
-        <tran loc="es">Tono</tran>
+        <tran loc="es-419">Tono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1742,7 +1742,7 @@
       <Position>RINGTONE_CARD_ITEM_LABEL</Position>
       <TranslationSet>
         <base loc="en">Ringtone</base>
-        <tran loc="es">Tono</tran>
+        <tran loc="es-419">Tono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1750,7 +1750,7 @@
       <Position>ADD_PROPERTY IM</Position>
       <TranslationSet>
         <base loc="en">Add Instant Message</base>
-        <tran loc="es">Mensajería instantánea</tran>
+        <tran loc="es-419">Mensajería instantánea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1758,7 +1758,7 @@
       <Position>UNKNOWN_CARD_ADD_TO_CONTACT_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Add to %@</base>
-        <tran loc="es">Añadir a %@</tran>
+        <tran loc="es-419">Agregar a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1766,7 +1766,7 @@
       <Position>VCARD_CREATE</Position>
       <TranslationSet>
         <base loc="en">Create New Contacts</base>
-        <tran loc="es">Crear nuevos contactos</tran>
+        <tran loc="es-419">Crear nuevos contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1774,7 +1774,7 @@
       <Position>VCARD_CREATE_NEW</Position>
       <TranslationSet>
         <base loc="en">Create New Contacts</base>
-        <tran loc="es">Crear nuevos contactos</tran>
+        <tran loc="es-419">Crear nuevos contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1782,7 +1782,7 @@
       <Position>SHARE_LOCATION_ON_WEIBO</Position>
       <TranslationSet>
         <base loc="en">Weibo</base>
-        <tran loc="es">Weibo</tran>
+        <tran loc="es-419">Weibo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1790,7 +1790,7 @@
       <Position>WEIBO_ACTION_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Weibo</base>
-        <tran loc="es">Weibo</tran>
+        <tran loc="es-419">Weibo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1798,7 +1798,7 @@
       <Position>RINGTONE_PICKER_GROUP_TITLE_NEW</Position>
       <TranslationSet>
         <base loc="en">New</base>
-        <tran loc="es">Nuevos</tran>
+        <tran loc="es-419">Nuevos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1806,7 +1806,7 @@
       <Position>texttone:Sherwood Forest</Position>
       <TranslationSet>
         <base loc="en">Sherwood Forest</base>
-        <tran loc="es">Robin Hood</tran>
+        <tran loc="es-419">Robin Hood</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1814,7 +1814,7 @@
       <Position>PHONE_ACTION_VOICE</Position>
       <TranslationSet>
         <base loc="en">Voice Call</base>
-        <tran loc="es">Llamada de voz</tran>
+        <tran loc="es-419">Llamada de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1822,7 +1822,7 @@
       <Position>UNKNOWN_CARD_CREATE_NEW_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Create New Contact</base>
-        <tran loc="es">Nuevo contacto</tran>
+        <tran loc="es-419">Nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1830,7 +1830,7 @@
       <Position>VCARD_CREATE_NEW_1</Position>
       <TranslationSet>
         <base loc="en">Create New Contact</base>
-        <tran loc="es">Nuevo contacto</tran>
+        <tran loc="es-419">Nuevo contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1838,7 +1838,7 @@
       <Position>texttone:Ladder</Position>
       <TranslationSet>
         <base loc="en">Ladder</base>
-        <tran loc="es">Escalera</tran>
+        <tran loc="es-419">Escalera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1846,7 +1846,7 @@
       <Position>system:Doorbell</Position>
       <TranslationSet>
         <base loc="en">Doorbell</base>
-        <tran loc="es">Timbre</tran>
+        <tran loc="es-419">Timbre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1854,7 +1854,7 @@
       <Position>OTHER_FORMATTER</Position>
       <TranslationSet>
         <base loc="en">Other %@</base>
-        <tran loc="es">Otro %@</tran>
+        <tran loc="es-419">Otro %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1862,7 +1862,7 @@
       <Position>NO_NAME</Position>
       <TranslationSet>
         <base loc="en">No Name</base>
-        <tran loc="es">Sin nombre</tran>
+        <tran loc="es-419">Sin nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1870,7 +1870,7 @@
       <Position>EDIT_NAME</Position>
       <TranslationSet>
         <base loc="en">Edit Name</base>
-        <tran loc="es">Editar nombre</tran>
+        <tran loc="es-419">Editar nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1878,7 +1878,7 @@
       <Position>CHOOSE_DIFFERENT_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Choose Different Photo</base>
-        <tran loc="es">Seleccionar otra foto</tran>
+        <tran loc="es-419">Seleccionar otra foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1886,7 +1886,7 @@
       <Position>alarm-system:Alarm4</Position>
       <TranslationSet>
         <base loc="en">Jump</base>
-        <tran loc="es">Salto</tran>
+        <tran loc="es-419">Salto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1894,7 +1894,7 @@
       <Position>system:Sci-Fi</Position>
       <TranslationSet>
         <base loc="en">Sci-Fi</base>
-        <tran loc="es">Ciencia ficción</tran>
+        <tran loc="es-419">Ciencia ficción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1902,7 +1902,7 @@
       <Position>USE_ACCOUNT_PHOTO_FORMAT_WITH_SUFFIX-%@-%@</Position>
       <TranslationSet>
         <base loc="en">Use %@ Photo %@</base>
-        <tran loc="es">Usar foto %2$@ de %1$@</tran>
+        <tran loc="es-419">Usar foto %2$@ de %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1910,7 +1910,7 @@
       <Position>USE_SOURCE_PHOTO_FORMAT_WITH_SUFFIX-%@-%@</Position>
       <TranslationSet>
         <base loc="en">Use %@ Photo %@</base>
-        <tran loc="es">Usar foto %2$@ de %1$@</tran>
+        <tran loc="es-419">Usar foto %2$@ de %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1918,7 +1918,7 @@
       <Position>SHARE_CONTACT_EMAIL_SUBJECT</Position>
       <TranslationSet>
         <base loc="en">Contact</base>
-        <tran loc="es">Contacto</tran>
+        <tran loc="es-419">Contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1926,7 +1926,7 @@
       <Position>VCARD_DEFAULT_FILE_NAME</Position>
       <TranslationSet>
         <base loc="en">Contact</base>
-        <tran loc="es">Contacto</tran>
+        <tran loc="es-419">Contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1934,7 +1934,7 @@
       <Position>FIRST_NAME</Position>
       <TranslationSet>
         <base loc="en">First Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1942,7 +1942,7 @@
       <Position>USE_MOBILEME_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use MobileMe Photo</base>
-        <tran loc="es">Usar foto del MobileMe</tran>
+        <tran loc="es-419">Usar foto del MobileMe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1950,7 +1950,7 @@
       <Position>ADD_PROPERTY RelatedNames</Position>
       <TranslationSet>
         <base loc="en">Add Related Name</base>
-        <tran loc="es">Añadir nombre relacionado</tran>
+        <tran loc="es-419">Agregar nombre relacionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1958,7 +1958,7 @@
       <Position>RINGTONE_PICKER_GROUP_TITLE_CUSTOM</Position>
       <TranslationSet>
         <base loc="en">Custom</base>
-        <tran loc="es">Personalizado</tran>
+        <tran loc="es-419">Personalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1966,7 +1966,7 @@
       <Position>SHOW_ALL_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Show All Contacts</base>
-        <tran loc="es">Mostrar todos los contactos</tran>
+        <tran loc="es-419">Mostrar todos los contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1974,7 +1974,7 @@
       <Position>ADD_PHONE_NUMBER_TO</Position>
       <TranslationSet>
         <base loc="en">Add this phone number to:</base>
-        <tran loc="es">Añadir número de teléfono a:</tran>
+        <tran loc="es-419">Agregar número de teléfono a:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1982,7 +1982,7 @@
       <Position>EDIT_PROPERTY First</Position>
       <TranslationSet>
         <base loc="en">Edit First Name</base>
-        <tran loc="es">Editar nombre</tran>
+        <tran loc="es-419">Editar nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1990,7 +1990,7 @@
       <Position>ALL_CONTACTS</Position>
       <TranslationSet>
         <base loc="en">All Contacts</base>
-        <tran loc="es">Todos</tran>
+        <tran loc="es-419">Todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1998,7 +1998,7 @@
       <Position>texttone:Tiptoes</Position>
       <TranslationSet>
         <base loc="en">Tiptoes</base>
-        <tran loc="es">De puntillas</tran>
+        <tran loc="es-419">De puntitas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2006,7 +2006,7 @@
       <Position>ADD_CUSTOM_SERVICE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Custom Service</base>
-        <tran loc="es">Personalizar</tran>
+        <tran loc="es-419">Personalizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2014,7 +2014,7 @@
       <Position>WEIBO_ACTION_SEND</Position>
       <TranslationSet>
         <base loc="en">Mention in Weibo</base>
-        <tran loc="es">Mencionar en Weibo</tran>
+        <tran loc="es-419">Mencionar en Weibo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2022,7 +2022,7 @@
       <Position>LINK_AND_UNLINK_CARDS_WITH</Position>
       <TranslationSet>
         <base loc="en">Link and Unlink Contacts with %@</base>
-        <tran loc="es">Enlazar y desenlazar contactos con %@</tran>
+        <tran loc="es-419">Enlazar y desenlazar contactos con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2030,7 +2030,7 @@
       <Position>SHARE_LOCATION_ON_TWITTER</Position>
       <TranslationSet>
         <base loc="en">Tweet</base>
-        <tran loc="es">Twitter</tran>
+        <tran loc="es-419">Twitter</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2038,7 +2038,7 @@
       <Position>USE_IPOD_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">iPod Photo %@</base>
-        <tran loc="es">Foto del iPod %@</tran>
+        <tran loc="es-419">Foto del iPod %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2046,7 +2046,7 @@
       <Position>USE_IPAD_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">iPad</base>
-        <tran loc="es">iPad</tran>
+        <tran loc="es-419">iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2054,7 +2054,7 @@
       <Position>texttone:Telegraph</Position>
       <TranslationSet>
         <base loc="en">Telegraph</base>
-        <tran loc="es">Telégrafo</tran>
+        <tran loc="es-419">Telégrafo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2062,7 +2062,7 @@
       <Position>Asia (Western)</Position>
       <TranslationSet>
         <base loc="en">Asia (Western)</base>
-        <tran loc="es">Asia (occidental)</tran>
+        <tran loc="es-419">Asia (occidental)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2070,7 +2070,7 @@
       <Position>ADD_NAME</Position>
       <TranslationSet>
         <base loc="en">Add Name</base>
-        <tran loc="es">Añadir nombre</tran>
+        <tran loc="es-419">Agregar nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2078,7 +2078,7 @@
       <Position>LINKED_CARD_EDIT_WARNING_EXPLANATION_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">This will edit the matching value on %@ linked contacts.</base>
-        <tran loc="es">Esto modificará el valor encontrado en %@ contactos enlazados.</tran>
+        <tran loc="es-419">Esto modificará el valor encontrado en %@ contactos enlazados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2086,7 +2086,7 @@
       <Position>MULTIPLE_NAMES_DELIMITER</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2094,7 +2094,7 @@
       <Position>SOURCE_NAMES_DELIMITER</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2102,7 +2102,7 @@
       <Position>alarm-system:Alarm3</Position>
       <TranslationSet>
         <base loc="en">Checkmate</base>
-        <tran loc="es">Jaque mate</tran>
+        <tran loc="es-419">Jaque mate</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2110,7 +2110,7 @@
       <Position>ADD_NEW_ITEM Note</Position>
       <TranslationSet>
         <base loc="en">add note</base>
-        <tran loc="es">añadir nota</tran>
+        <tran loc="es-419">agregar nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2118,7 +2118,7 @@
       <Position>USE_ACCOUNT_PHOTO_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">Use %@ Photo</base>
-        <tran loc="es">Usar foto de %@</tran>
+        <tran loc="es-419">Usar foto de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2126,7 +2126,7 @@
       <Position>USE_SOURCE_PHOTO_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">Use %@ Photo</base>
-        <tran loc="es">Usar foto de %@</tran>
+        <tran loc="es-419">Usar foto de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2134,7 +2134,7 @@
       <Position>PHONE_ACTION_FAVORITES_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add to Favorites.</base>
-        <tran loc="es">Añadir a favoritos.</tran>
+        <tran loc="es-419">Agregar a Favoritos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2142,7 +2142,7 @@
       <Position>DELETE_CARD_SHEET_FAILURE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not all contacts were deleted</base>
-        <tran loc="es">No se han eliminado todos los contactos</tran>
+        <tran loc="es-419">No se eliminaron todos los contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2150,7 +2150,7 @@
       <Position>LDAP</Position>
       <TranslationSet>
         <base loc="en">LDAP</base>
-        <tran loc="es">LDAP</tran>
+        <tran loc="es-419">LDAP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2158,7 +2158,7 @@
       <Position>Latin America</Position>
       <TranslationSet>
         <base loc="en">Latin America</base>
-        <tran loc="es">Latinoamérica</tran>
+        <tran loc="es-419">Latinoamérica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2166,7 +2166,7 @@
       <Position>system:Bark</Position>
       <TranslationSet>
         <base loc="en">Bark</base>
-        <tran loc="es">Perro</tran>
+        <tran loc="es-419">Perro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2174,7 +2174,7 @@
       <Position>ADD_CUSTOM_SERVICE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Add Custom Service</base>
-        <tran loc="es">Añadir servicio personalizado</tran>
+        <tran loc="es-419">Agregar servicio personalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2182,7 +2182,7 @@
       <Position>texttone:News Flash</Position>
       <TranslationSet>
         <base loc="en">News Flash</base>
-        <tran loc="es">Noticiario</tran>
+        <tran loc="es-419">Noticiario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2190,7 +2190,7 @@
       <Position>Africa (Southern)</Position>
       <TranslationSet>
         <base loc="en">Africa (Southern)</base>
-        <tran loc="es">África (meridional)</tran>
+        <tran loc="es-419">África (meridional)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2198,7 +2198,7 @@
       <Position>texttone:Fanfare</Position>
       <TranslationSet>
         <base loc="en">Fanfare</base>
-        <tran loc="es">Fanfarria</tran>
+        <tran loc="es-419">Fanfarria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2206,7 +2206,7 @@
       <Position>SET_PREFERRED_NAME_ACTION_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Use This Name For Unified Card</base>
-        <tran loc="es">Usar este nombre para la tarjeta unif.</tran>
+        <tran loc="es-419">Usar el nombre para unificar datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2214,7 +2214,7 @@
       <Position>ADD_NEW_ITEM Email</Position>
       <TranslationSet>
         <base loc="en">add email</base>
-        <tran loc="es">añadir correo</tran>
+        <tran loc="es-419">agregar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2222,7 +2222,7 @@
       <Position>NO_VALUE_INSTANT_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">No Instant Message Names</base>
-        <tran loc="es">Ningún nombre de mensajería instantánea</tran>
+        <tran loc="es-419">Ningún nombre de mensajería instantánea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2230,7 +2230,7 @@
       <Position>EDIT_PROPERTY Department</Position>
       <TranslationSet>
         <base loc="en">Edit Department</base>
-        <tran loc="es">Departamento</tran>
+        <tran loc="es-419">Departamento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2238,7 +2238,7 @@
       <Position>CREATE_NEW_CONTACT_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Enter a name for this contact.</base>
-        <tran loc="es">Introduce un nombre para este contacto.</tran>
+        <tran loc="es-419">Ingresa un nombre para este contacto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2246,7 +2246,7 @@
       <Position>NO_VCARDS_FOUND</Position>
       <TranslationSet>
         <base loc="en">No cards</base>
-        <tran loc="es">Ninguna tarjeta</tran>
+        <tran loc="es-419">Ninguna tarjeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2254,7 +2254,7 @@
       <Position>INSTANT_MESSAGE_USERNAME_AND_SERVICE_FORMAT-%@-%@</Position>
       <TranslationSet>
         <base loc="en">%@ (%@)</base>
-        <tran loc="es">%@ (%@)</tran>
+        <tran loc="es-419">%@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2262,7 +2262,7 @@
       <Position>SOCIAL_PROFILE_USERNAME_AND_SERVICE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ (%@)</base>
-        <tran loc="es">%@ (%@)</tran>
+        <tran loc="es-419">%@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2270,7 +2270,7 @@
       <Position>Oceania</Position>
       <TranslationSet>
         <base loc="en">Oceania</base>
-        <tran loc="es">Oceanía</tran>
+        <tran loc="es-419">Oceanía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2278,7 +2278,7 @@
       <Position>UNKNOWN_SOURCE_STRING</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Descon.</tran>
+        <tran loc="es-419">Descon.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2286,7 +2286,7 @@
       <Position>ADD_NEW_ITEM IM</Position>
       <TranslationSet>
         <base loc="en">add instant message</base>
-        <tran loc="es">añadir chat</tran>
+        <tran loc="es-419">agregar mensajería instantánea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2294,7 +2294,7 @@
       <Position>GRID</Position>
       <TranslationSet>
         <base loc="en">Grid</base>
-        <tran loc="es">Cuadrícula</tran>
+        <tran loc="es-419">Cuadrícula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2302,7 +2302,7 @@
       <Position>MAPS_CARD_DIRECTIONS_FROM</Position>
       <TranslationSet>
         <base loc="en">Directions From Here</base>
-        <tran loc="es">Obtener indicaciones desde aquí</tran>
+        <tran loc="es-419">Obtener indicaciones desde aquí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2310,7 +2310,7 @@
       <Position>LINK_CARDS_WITH</Position>
       <TranslationSet>
         <base loc="en">Link Contacts with %@</base>
-        <tran loc="es">Enlazar contactos con %@</tran>
+        <tran loc="es-419">Enlazar contactos con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2318,7 +2318,7 @@
       <Position>texttone:Electronic</Position>
       <TranslationSet>
         <base loc="en">Electronic</base>
-        <tran loc="es">Electrónico</tran>
+        <tran loc="es-419">Electrónico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2326,7 +2326,7 @@
       <Position>alarm-system:Alarm5</Position>
       <TranslationSet>
         <base loc="en">Up Down</base>
-        <tran loc="es">Arriba/Abajo</tran>
+        <tran loc="es-419">Arriba/Abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2334,7 +2334,7 @@
       <Position>ADD_PROPERTY</Position>
       <TranslationSet>
         <base loc="en">Add %@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2342,7 +2342,7 @@
       <Position>RINGTONE_PICKER_GROUP_TITLE_ORIGINAL</Position>
       <TranslationSet>
         <base loc="en">Original</base>
-        <tran loc="es">Originales</tran>
+        <tran loc="es-419">Originales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2350,7 +2350,7 @@
       <Position>USE_IPHONE_SIMULATOR_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use iPhone Simulator Photo</base>
-        <tran loc="es">Usar foto de Simulador iPhone</tran>
+        <tran loc="es-419">Usar foto de iPhone Simulator</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2358,7 +2358,7 @@
       <Position>USE_ACCOUNT_PHOTO_FORMAT_SHORT_WITH_SUFFIX-%@-%@</Position>
       <TranslationSet>
         <base loc="en">%@ Photo %@</base>
-        <tran loc="es">Foto de %@ %@</tran>
+        <tran loc="es-419">Foto de %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2366,7 +2366,7 @@
       <Position>USE_SOURCE_PHOTO_FORMAT_SHORT_WITH_SUFFIX-%@-%@</Position>
       <TranslationSet>
         <base loc="en">%@ Photo %@</base>
-        <tran loc="es">Foto de %@ %@</tran>
+        <tran loc="es-419">Foto de %@ %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2374,7 +2374,7 @@
       <Position>USE_ICLOUD_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">iCloud</base>
-        <tran loc="es">iCloud</tran>
+        <tran loc="es-419">iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2382,7 +2382,7 @@
       <Position>USE_IPHONE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use iPhone Photo</base>
-        <tran loc="es">Usar foto del iPhone</tran>
+        <tran loc="es-419">Usar foto del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2390,7 +2390,7 @@
       <Position>PHOTO_ADD_LABEL</Position>
       <TranslationSet>
         <base loc="en">add\nphoto</base>
-        <tran loc="es">añadir\nfoto</tran>
+        <tran loc="es-419">agregar\nfoto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2398,7 +2398,7 @@
       <Position>texttone:Chime</Position>
       <TranslationSet>
         <base loc="en">Chime</base>
-        <tran loc="es">Campanilla</tran>
+        <tran loc="es-419">Timbre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2406,7 +2406,7 @@
       <Position>CONTACTS_COUNT-%@</Position>
       <TranslationSet>
         <base loc="en">%@ Contacts</base>
-        <tran loc="es">%@ contactos</tran>
+        <tran loc="es-419">%@ contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2414,7 +2414,7 @@
       <Position>texttone:Spell</Position>
       <TranslationSet>
         <base loc="en">Spell</base>
-        <tran loc="es">Hechizo</tran>
+        <tran loc="es-419">Hechizo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2422,7 +2422,7 @@
       <Position>Asia (Southern)</Position>
       <TranslationSet>
         <base loc="en">Asia (Southern)</base>
-        <tran loc="es">Asia (meridional)</tran>
+        <tran loc="es-419">Asia (meridional)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2430,7 +2430,7 @@
       <Position>system:Alarm</Position>
       <TranslationSet>
         <base loc="en">Alarm</base>
-        <tran loc="es">Alarma</tran>
+        <tran loc="es-419">Alarma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2438,7 +2438,7 @@
       <Position>USE_ACCOUNT_PHOTO_FORMAT_SHORT-%@</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2446,7 +2446,7 @@
       <Position>USE_SOURCE_PHOTO_FORMAT_SHORT-%@</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2454,7 +2454,7 @@
       <Position>DELETE_CARD_SHEET_FAILURE_ALERT_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">One or more of the contacts may be read-only.</base>
-        <tran loc="es">Puede que uno o más contactos sean de solo lectura.</tran>
+        <tran loc="es-419">Puede que uno o más contactos sean de sólo lectura.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2462,7 +2462,7 @@
       <Position>CARD_ACTION_DELETE_CARD</Position>
       <TranslationSet>
         <base loc="en">Delete Contact</base>
-        <tran loc="es">Eliminar contacto</tran>
+        <tran loc="es-419">Eliminar contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2470,7 +2470,7 @@
       <Position>DELETE_CARD_SHEET_CONFIRMATION</Position>
       <TranslationSet>
         <base loc="en">Delete Contact</base>
-        <tran loc="es">Eliminar contacto</tran>
+        <tran loc="es-419">Eliminar contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2478,7 +2478,7 @@
       <Position>PHONE_ACTION_FAVORITES_DIFFERENTIATE-%@</Position>
       <TranslationSet>
         <base loc="en">Add %@ to Favorites as:</base>
-        <tran loc="es">Añadir %@ a Favoritos como:</tran>
+        <tran loc="es-419">Agregar %@ a Favoritos como:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2486,7 +2486,7 @@
       <Position>USE_IPHONE_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">iPhone Photo %@</base>
-        <tran loc="es">Foto del iPhone %@</tran>
+        <tran loc="es-419">Foto del iPhone %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2494,7 +2494,7 @@
       <Position>system:Piano Riff</Position>
       <TranslationSet>
         <base loc="en">Piano Riff</base>
-        <tran loc="es">Riff de piano</tran>
+        <tran loc="es-419">Riff de piano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2502,7 +2502,7 @@
       <Position>NEW_CARD_DONE</Position>
       <TranslationSet>
         <base loc="en">Done|Save</base>
-        <tran loc="es">OK|Guardar</tran>
+        <tran loc="es-419">OK|Guardar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2510,7 +2510,7 @@
       <Position>ADD_CUSTOM_SERVICE_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">custom service</base>
-        <tran loc="es">servicio personalizado</tran>
+        <tran loc="es-419">servicio personalizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2518,7 +2518,7 @@
       <Position>EDIT_PROPERTY IM</Position>
       <TranslationSet>
         <base loc="en">Edit Instant Message</base>
-        <tran loc="es">Mensajería instantánea</tran>
+        <tran loc="es-419">Mensajería instantánea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2526,7 +2526,7 @@
       <Position>CARD_ACTION_SHOW_MEDICAL_ID</Position>
       <TranslationSet>
         <base loc="en">Show Medical ID</base>
-        <tran loc="es">Mostrar datos médicos</tran>
+        <tran loc="es-419">Mostrar Ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2534,7 +2534,7 @@
       <Position>Africa</Position>
       <TranslationSet>
         <base loc="en">Africa</base>
-        <tran loc="es">África</tran>
+        <tran loc="es-419">África</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2542,7 +2542,7 @@
       <Position>EDIT_PROPERTY Address</Position>
       <TranslationSet>
         <base loc="en">Edit Address</base>
-        <tran loc="es">Dirección</tran>
+        <tran loc="es-419">Dirección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2550,7 +2550,7 @@
       <Position>1_LINKED_CARD</Position>
       <TranslationSet>
         <base loc="en">1 Linked Contact</base>
-        <tran loc="es">1 contacto enlazado</tran>
+        <tran loc="es-419">1 contacto enlazado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2558,7 +2558,7 @@
       <Position>USE_FACEBOOK_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Facebook Photo %@</base>
-        <tran loc="es">Foto de Facebook %@</tran>
+        <tran loc="es-419">Foto de Facebook %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2566,7 +2566,7 @@
       <Position>CARD_EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit|Done</base>
-        <tran loc="es">Editar|OK</tran>
+        <tran loc="es-419">Editar|OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2574,7 +2574,7 @@
       <Position>CUSTOM_LABEL_EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit|Done</base>
-        <tran loc="es">Editar|OK</tran>
+        <tran loc="es-419">Editar|OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2582,7 +2582,7 @@
       <Position>USE_EXCHANGE_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Exchange Photo %@</base>
-        <tran loc="es">Foto de Exchange %@</tran>
+        <tran loc="es-419">Foto de Exchange %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2590,7 +2590,7 @@
       <Position>PHONE_ACTION_ADD_TO_FAVORITES_SHORT</Position>
       <TranslationSet>
         <base loc="en">Add to\nFavorites</base>
-        <tran loc="es">Añadir a\nlos favoritos</tran>
+        <tran loc="es-419">Agregar a\nFavoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2598,7 +2598,7 @@
       <Position>EDIT_PROPERTY Organization</Position>
       <TranslationSet>
         <base loc="en">Edit Company</base>
-        <tran loc="es">Editar empresa</tran>
+        <tran loc="es-419">Editar empresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2606,7 +2606,7 @@
       <Position>system:Sonar</Position>
       <TranslationSet>
         <base loc="en">Sonar</base>
-        <tran loc="es">Sonda</tran>
+        <tran loc="es-419">Sonda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2614,7 +2614,7 @@
       <Position>Africa (Western)</Position>
       <TranslationSet>
         <base loc="en">Africa (Western)</base>
-        <tran loc="es">África (occidental)</tran>
+        <tran loc="es-419">África (occidental)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2622,7 +2622,7 @@
       <Position>Africa (Middle)</Position>
       <TranslationSet>
         <base loc="en">Africa (Middle)</base>
-        <tran loc="es">África (central)</tran>
+        <tran loc="es-419">África (central)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2630,7 +2630,7 @@
       <Position>system:Motorcycle</Position>
       <TranslationSet>
         <base loc="en">Motorcycle</base>
-        <tran loc="es">Motocicleta</tran>
+        <tran loc="es-419">Motocicleta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2638,7 +2638,7 @@
       <Position>ADD_PROPERTY Email</Position>
       <TranslationSet>
         <base loc="en">Add Email</base>
-        <tran loc="es">Añadir correo</tran>
+        <tran loc="es-419">Agregar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2646,7 +2646,7 @@
       <Position>SHARE_CONTACT_ACTION_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share Contact</base>
-        <tran loc="es">Compartir contacto</tran>
+        <tran loc="es-419">Compartir contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2654,7 +2654,7 @@
       <Position>USE_MOBILEME_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">MobileMe Photo %@</base>
-        <tran loc="es">Foto de MobileMe %@</tran>
+        <tran loc="es-419">Foto de MobileMe %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2662,7 +2662,7 @@
       <Position>texttone:Suspense</Position>
       <TranslationSet>
         <base loc="en">Suspense</base>
-        <tran loc="es">Suspense</tran>
+        <tran loc="es-419">Suspense</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2670,7 +2670,7 @@
       <Position>BLOCK_THIS_CALLER</Position>
       <TranslationSet>
         <base loc="en">Block this Caller</base>
-        <tran loc="es">Bloquear este contacto</tran>
+        <tran loc="es-419">Bloquear este contacto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2678,7 +2678,7 @@
       <Position>MULTIPLE_PROPERTY Text Tone</Position>
       <TranslationSet>
         <base loc="en">Multiple Text Tones</base>
-        <tran loc="es">Varios tonos de SMS</tran>
+        <tran loc="es-419">Varios tonos de SMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2686,7 +2686,7 @@
       <Position>LINK_BAR_BUTTON_ITEM_TITLE</Position>
       <TranslationSet>
         <base loc="en">Link</base>
-        <tran loc="es">Enlazar</tran>
+        <tran loc="es-419">Enlazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2694,7 +2694,7 @@
       <Position>EDIT_PROPERTY MaidenName</Position>
       <TranslationSet>
         <base loc="en">Edit Maiden Name</base>
-        <tran loc="es">Nombre de soltera</tran>
+        <tran loc="es-419">Nombre de soltera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2702,7 +2702,7 @@
       <Position>GoogleTalk SHORT_INSTANT_MESSAGE_SERVICE</Position>
       <TranslationSet>
         <base loc="en">Google</base>
-        <tran loc="es">Google</tran>
+        <tran loc="es-419">Google</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2710,7 +2710,7 @@
       <Position>DELETE_PHOTO_MULTIPLE_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">Delete %@ Photos</base>
-        <tran loc="es">Eliminar %@ fotos</tran>
+        <tran loc="es-419">Eliminar %@ fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2718,7 +2718,7 @@
       <Position>SEARCH_LOCAL_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2726,7 +2726,7 @@
       <Position>SEARCH_NAV_TITLE</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2734,7 +2734,7 @@
       <Position>ADD_NEW_ITEM</Position>
       <TranslationSet>
         <base loc="en">add %@</base>
-        <tran loc="es">añadir %@</tran>
+        <tran loc="es-419">agregar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2742,7 +2742,7 @@
       <Position>RINGTONE_CARD_ITEM_DEFAULT_VALUE</Position>
       <TranslationSet>
         <base loc="en">Default</base>
-        <tran loc="es">Por omisión</tran>
+        <tran loc="es-419">Por omisión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2750,7 +2750,7 @@
       <Position>RINGTONE_PICKER_DEFAULT_VALUE</Position>
       <TranslationSet>
         <base loc="en">Default</base>
-        <tran loc="es">Por omisión</tran>
+        <tran loc="es-419">Por omisión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2758,7 +2758,7 @@
       <Position>RINGTONE_PICKER_GROUP_TITLE_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Default</base>
-        <tran loc="es">Por omisión</tran>
+        <tran loc="es-419">Por omisión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2766,7 +2766,7 @@
       <Position>VIBRATION_CARD_ITEM_DEFAULT_VALUE</Position>
       <TranslationSet>
         <base loc="en">Default</base>
-        <tran loc="es">Por omisión</tran>
+        <tran loc="es-419">Por omisión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2774,7 +2774,7 @@
       <Position>ADD_NEW_ITEM Date</Position>
       <TranslationSet>
         <base loc="en">add date</base>
-        <tran loc="es">añadir fecha</tran>
+        <tran loc="es-419">agregar fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2782,7 +2782,7 @@
       <Position>Asia</Position>
       <TranslationSet>
         <base loc="en">Asia</base>
-        <tran loc="es">Asia</tran>
+        <tran loc="es-419">Asia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2790,7 +2790,7 @@
       <Position>USE_CARDDAV_PHOTO_SHORT</Position>
       <TranslationSet>
         <base loc="en">CardDAV</base>
-        <tran loc="es">CardDAV</tran>
+        <tran loc="es-419">CardDAV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2798,7 +2798,7 @@
       <Position>CARD_ACTION_BLOCK_CONTACT_INFO_TEXT</Position>
       <TranslationSet>
         <base loc="en">You will not receive phone calls, messages, or FaceTime from people on the block list.</base>
-        <tran loc="es">No recibirás llamadas de teléfono, mensajes o llamadas FaceTime de los contactos bloqueados.</tran>
+        <tran loc="es-419">No recibirás llamadas telefónicas, mensajes o llamadas FaceTime de los números bloqueados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2806,7 +2806,7 @@
       <Position>EDIT_TEXTTONE</Position>
       <TranslationSet>
         <base loc="en">Text Tone</base>
-        <tran loc="es">Tono de SMS</tran>
+        <tran loc="es-419">Tono de SMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2814,7 +2814,7 @@
       <Position>TEXTTONE_CARD_ITEM_LABEL</Position>
       <TranslationSet>
         <base loc="en">Text Tone</base>
-        <tran loc="es">Tono de SMS</tran>
+        <tran loc="es-419">Tono de SMS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2822,7 +2822,7 @@
       <Position>MORE</Position>
       <TranslationSet>
         <base loc="en">more…</base>
-        <tran loc="es">más…</tran>
+        <tran loc="es-419">más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2830,7 +2830,7 @@
       <Position>CONTACTS</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2838,7 +2838,7 @@
       <Position>MAPS_CARD_ADD_TO_BOOKMARKS</Position>
       <TranslationSet>
         <base loc="en">Add to Bookmarks</base>
-        <tran loc="es">Marcadores</tran>
+        <tran loc="es-419">Marcadores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2846,7 +2846,7 @@
       <Position>URL_ACTION_BOOKMARK</Position>
       <TranslationSet>
         <base loc="en">Add to Bookmarks</base>
-        <tran loc="es">Marcadores</tran>
+        <tran loc="es-419">Marcadores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2854,7 +2854,7 @@
       <Position>texttone:Minuet</Position>
       <TranslationSet>
         <base loc="en">Minuet</base>
-        <tran loc="es">Minué</tran>
+        <tran loc="es-419">Minué</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2862,7 +2862,7 @@
       <Position>BIRTHDAY_LABEL_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">%@ birthday</base>
-        <tran loc="es">cumpleaños %@</tran>
+        <tran loc="es-419">cumpleaños %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2870,7 +2870,7 @@
       <Position>EDIT_PROPERTY RelatedNames</Position>
       <TranslationSet>
         <base loc="en">Edit Related Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre relacionado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2878,7 +2878,7 @@
       <Position>Asia (Central)</Position>
       <TranslationSet>
         <base loc="en">Asia (Central)</base>
-        <tran loc="es">Asia (central)</tran>
+        <tran loc="es-419">Asia (central)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2886,7 +2886,7 @@
       <Position>EDIT_PROPERTY Middle</Position>
       <TranslationSet>
         <base loc="en">Edit Middle Name</base>
-        <tran loc="es">Segundo nombre</tran>
+        <tran loc="es-419">Segundo nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2894,7 +2894,7 @@
       <Position>SET_COUNTRY</Position>
       <TranslationSet>
         <base loc="en">Set Country or Region</base>
-        <tran loc="es">Define el país o la región</tran>
+        <tran loc="es-419">Configurar país o región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2902,7 +2902,7 @@
       <Position>USE_ICLOUD_PHOTO_FORMAT_SHORT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">iCloud Photo %@</base>
-        <tran loc="es">Foto de iCloud %@</tran>
+        <tran loc="es-419">Foto de iCloud %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2910,7 +2910,7 @@
       <Position>SHARE_CONTACT_VIA_TEXT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Message</base>
-        <tran loc="es">Mensaje</tran>
+        <tran loc="es-419">Mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2918,7 +2918,7 @@
       <Position>WEIBO_ACTION_VIEW_WEIBOS</Position>
       <TranslationSet>
         <base loc="en">View Weibos</base>
-        <tran loc="es">Ver weibos</tran>
+        <tran loc="es-419">Ver weibos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2926,7 +2926,7 @@
       <Position>PHONE_ACTION_CALL</Position>
       <TranslationSet>
         <base loc="en">Call</base>
-        <tran loc="es">Llamar</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2934,7 +2934,7 @@
       <Position>OTHER_FORMATTER Phone</Position>
       <TranslationSet>
         <base loc="en">Other Phone</base>
-        <tran loc="es">Teléfono alternativo</tran>
+        <tran loc="es-419">Teléfono alternativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2942,7 +2942,7 @@
       <Position>CARD_ACTION_ASSIGN_RINGTONE</Position>
       <TranslationSet>
         <base loc="en">Assign Ringtone</base>
-        <tran loc="es">Asignar tono</tran>
+        <tran loc="es-419">Asignar tono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2950,7 +2950,7 @@
       <Position>system:Crickets</Position>
       <TranslationSet>
         <base loc="en">Crickets</base>
-        <tran loc="es">Grillos</tran>
+        <tran loc="es-419">Grillos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2958,7 +2958,7 @@
       <Position>ACCESS_DENIED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You can enable access in Privacy Settings.</base>
-        <tran loc="es">Puedes activar el acceso en los ajustes de privacidad.</tran>
+        <tran loc="es-419">Puedes activar el acceso en la configuración de privacidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2966,7 +2966,7 @@
       <Position>EDIT_PROPERTY Email</Position>
       <TranslationSet>
         <base loc="en">Edit Email</base>
-        <tran loc="es">Editar correo</tran>
+        <tran loc="es-419">Editar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2974,7 +2974,7 @@
       <Position>USE_IPOD_PHOTO_FORMAT_WITH_SUFFIX</Position>
       <TranslationSet>
         <base loc="en">Use iPod Photo %@</base>
-        <tran loc="es">Usar foto del iPod %@</tran>
+        <tran loc="es-419">Usar foto del iPod %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2982,7 +2982,7 @@
       <Position>ADD_EMAIL_TO</Position>
       <TranslationSet>
         <base loc="en">Add this email to:</base>
-        <tran loc="es">Añadir este correo a:</tran>
+        <tran loc="es-419">Agregar este correo a:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2990,7 +2990,7 @@
       <Position>system:Strum</Position>
       <TranslationSet>
         <base loc="en">Strum</base>
-        <tran loc="es">Rasgueo</tran>
+        <tran loc="es-419">Rasgueo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2998,7 +2998,7 @@
       <Position>LINKED_CARD_IMAGE_WARNING_EXPLANATION_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">This will change the photo for %@ linked contacts.</base>
-        <tran loc="es">Esto cambiará la foto de %@ contactos enlazados.</tran>
+        <tran loc="es-419">Esto cambiará la foto de %@ contactos enlazados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3006,7 +3006,7 @@
       <Position>CARD_NAME_NICKNAME_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">“%@”</base>
-        <tran loc="es">“%@”</tran>
+        <tran loc="es-419">“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3014,7 +3014,7 @@
       <Position>USE_EXCHANGE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Use Exchange Photo</base>
-        <tran loc="es">Usar foto de Exchange</tran>
+        <tran loc="es-419">Usar foto de Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3022,7 +3022,7 @@
       <Position>LINKED_CARDS_BACK_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Linked Contacts</base>
-        <tran loc="es">Contactos enlazados</tran>
+        <tran loc="es-419">Contactos enlazados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3030,7 +3030,7 @@
       <Position>PEOPLE_PICKER_FOR_LINKING_PROMPT_FORMAT-%@</Position>
       <TranslationSet>
         <base loc="en">Choose a contact to link with %@.</base>
-        <tran loc="es">Elige un contacto para enlazar con %@.</tran>
+        <tran loc="es-419">Elige un contacto para enlazar con %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3038,7 +3038,7 @@
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3049,7 +3049,7 @@
       <Position>/_LOCALIZABLE_:dict/ShouldShowPhoneticNamesByDefault:dict/:bool</Position>
       <TranslationSet>
         <base loc="en">0</base>
-        <tran loc="es">0</tran>
+        <tran loc="es-419">0</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>BLOCKED_CALLER</Position>
       <TranslationSet>
         <base loc="en">No Caller ID</base>
-        <tran loc="es">Número oculto</tran>
+        <tran loc="es-419">Número oculto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>UNKNOWN_LABEL</Position>
       <TranslationSet>
         <base loc="en">unknown</base>
-        <tran loc="es">desconocido</tran>
+        <tran loc="es-419">desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>UNKNOWN_CALLER</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
   </File>

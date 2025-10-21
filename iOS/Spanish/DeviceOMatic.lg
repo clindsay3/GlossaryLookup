@@ -8,7 +8,7 @@
       <Position>BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>POWER_HUNGRY_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Use Accessory</base>
-        <tran loc="es">No se puede usar el accesorio</tran>
+        <tran loc="es-419">No se puede usar el accesorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -36,7 +36,7 @@
       <Position>UNSUPPORTED_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Use Accessory</base>
-        <tran loc="es">No se puede usar el accesorio</tran>
+        <tran loc="es-419">No se puede usar el accesorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -44,7 +44,7 @@
       <Position>UNSUPPORTED_FAILURE_BODY</Position>
       <TranslationSet>
         <base loc="en">%@: This accessory is not supported.</base>
-        <tran loc="es">%@: este accesorio no es compatible.</tran>
+        <tran loc="es-419">%@: este accesorio no es compatible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -52,7 +52,7 @@
       <Position>MOUNT_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Contents not Available</base>
-        <tran loc="es">Contenido no disponible</tran>
+        <tran loc="es-419">Contenido no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -60,7 +60,7 @@
       <Position>VERIFICATION_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Contents not Available</base>
-        <tran loc="es">Contenido no disponible</tran>
+        <tran loc="es-419">Contenido no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -68,7 +68,7 @@
       <Position>MOUNT_FAILURE_BODY</Position>
       <TranslationSet>
         <base loc="en">Cannot read the connected storage media.</base>
-        <tran loc="es">No se puede leer el dispositivo de almacenamiento conectado.</tran>
+        <tran loc="es-419">No se puede leer el dispositivo de almacenamiento conectado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -76,7 +76,7 @@
       <Position>VERIFICATION_FAILURE_BODY</Position>
       <TranslationSet>
         <base loc="en">Cannot read the connected storage media.</base>
-        <tran loc="es">No se puede leer el dispositivo de almacenamiento conectado.</tran>
+        <tran loc="es-419">No se puede leer el dispositivo de almacenamiento conectado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -84,7 +84,7 @@
       <Position>POWER_HUNGRY_FAILURE_BODY</Position>
       <TranslationSet>
         <base loc="en">%@: This accessory requires too much power.</base>
-        <tran loc="es">%@: este accesorio requiere demasiada potencia.</tran>
+        <tran loc="es-419">%@: este accesorio requiere demasiada energía.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -92,7 +92,7 @@
       <Position>UNKNOWN_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Accessory</base>
-        <tran loc="es">Accesorio</tran>
+        <tran loc="es-419">Accesorio</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -103,7 +103,7 @@
       <Position>THUNDERBOLT_NOT_SUPPORTED_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Thunderbolt accessories are not supported on this iPod.</base>
-        <tran loc="es">Los accesorios Thunderbolt son incompatibles con este iPod.</tran>
+        <tran loc="es-419">Los accesorios Thunderbolt no son compatibles con este iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -111,7 +111,7 @@
       <Position>THUNDERBOLT_NOT_SUPPORTED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Use Thunderbolt Accessory</base>
-        <tran loc="es">No se puede usar este accesorio</tran>
+        <tran loc="es-419">No se puede usar el accesorio Thunderbolt</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -119,7 +119,7 @@
       <Position>THUNDERBOLT_NOT_SUPPORTED_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Thunderbolt accessories are not supported on this iPad.</base>
-        <tran loc="es">Los accesorios Thunderbolt son incompatibles con este iPad.</tran>
+        <tran loc="es-419">Los accesorios Thunderbolt no son compatibles con este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>THUNDERBOLT_NOT_SUPPORTED_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Thunderbolt accessories are not supported on this iPhone.</base>
-        <tran loc="es">Los accesorios Thunderbolt son incompatibles con este iPhone.</tran>
+        <tran loc="es-419">Los accesorios Thunderbolt no son compatibles con este iPhone.</tran>
       </TranslationSet>
     </TextItem>
   </File>

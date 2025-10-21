@@ -8,7 +8,7 @@
       <Position>SELECT_REGION</Position>
       <TranslationSet>
         <base loc="en">Select Region</base>
-        <tran loc="es">Seleccionar región</tran>
+        <tran loc="es-419">Seleccionar región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>CHANGE_DEVICE_REGION</Position>
       <TranslationSet>
         <base loc="en">Setting Region…</base>
-        <tran loc="es">Ajustando región…</tran>
+        <tran loc="es-419">Configurando región…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>TEMPERATURE_UNIT</Position>
       <TranslationSet>
         <base loc="en">Temperature Unit</base>
-        <tran loc="es">Unidad de temperatura</tran>
+        <tran loc="es-419">Unidad de temperatura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>SUGGESTED_LANGUAGES</Position>
       <TranslationSet>
         <base loc="en">Suggested Languages</base>
-        <tran loc="es">Idiomas sugeridos</tran>
+        <tran loc="es-419">Idiomas sugeridos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>SUGGESTED_LANGUAGE_INFO</Position>
       <TranslationSet>
         <base loc="en">%@ will use the first language that it supports from Language &amp; Region settings. You can select a different language for %@ to use if you prefer.</base>
-        <tran loc="es">%@ usará el primer idioma compatible de los ajustes de “Idioma y región”. También puedes elegir que %@ elija otro idioma si lo prefieres.</tran>
+        <tran loc="es-419">%@ usará el primer idioma que se muestre en la configuración de Idioma y región. Si lo prefieres, puedes seleccionar otro para %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -55,7 +55,7 @@
       <Position>INTERNATIONAL</Position>
       <TranslationSet>
         <base loc="en">Language &amp; Region</base>
-        <tran loc="es">Idioma y región</tran>
+        <tran loc="es-419">Idioma y región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -63,7 +63,7 @@
       <Position>PREFER_%@</Position>
       <TranslationSet>
         <base loc="en">Prefer %@</base>
-        <tran loc="es">Preferir %@</tran>
+        <tran loc="es-419">Preferir %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>KEEP_%@_AS_PRIMARY_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Keep %@</base>
-        <tran loc="es">Conservar %@</tran>
+        <tran loc="es-419">Seguir en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -79,7 +79,7 @@
       <Position>NUMBERING_SYSTEM</Position>
       <TranslationSet>
         <base loc="en">Numbers</base>
-        <tran loc="es">Números</tran>
+        <tran loc="es-419">Números</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -87,7 +87,7 @@
       <Position>DEVICE_LANGUAGE_%@_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone Language: %@</base>
-        <tran loc="es">Idioma del iPhone: %@</tran>
+        <tran loc="es-419">Idioma del iPhone: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -95,7 +95,7 @@
       <Position>EXAMPLE</Position>
       <TranslationSet>
         <base loc="en">Region Format Example</base>
-        <tran loc="es">Ejemplo de formato regional</tran>
+        <tran loc="es-419">Ejemplo de formato regional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -103,7 +103,7 @@
       <Position>DEVICE_LANGUAGES_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone Languages</base>
-        <tran loc="es">Idiomas del iPhone</tran>
+        <tran loc="es-419">Idiomas del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -111,7 +111,7 @@
       <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the Apple Watch language to %@?</base>
-        <tran loc="es">¿Quieres cambiar el idioma del Apple Watch a %@?</tran>
+        <tran loc="es-419">¿Cambiar el idioma del Apple Watch a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -119,7 +119,7 @@
       <Position>DEVICE_LANGUAGES_WATCH</Position>
       <TranslationSet>
         <base loc="en">Watch Languages</base>
-        <tran loc="es">Idiomas del reloj</tran>
+        <tran loc="es-419">Idiomas del Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">%@ will be used as the iPad language.</base>
-        <tran loc="es">Se usará el %@ como idioma del iPad.</tran>
+        <tran loc="es-419">%@ será el idioma utilizado en el iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>SELECT_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Select Language</base>
-        <tran loc="es">Seleccionar idioma</tran>
+        <tran loc="es-419">Seleccionar idioma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>DISPLAY_SAMPLE_MONEY_%@_AND_NUMBER_%@</Position>
       <TranslationSet>
         <base loc="en">%@\t\t%@</base>
-        <tran loc="es">%@\t\t%@</tran>
+        <tran loc="es-419">%@\t\t%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -159,7 +159,7 @@
       <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Change iPad Language?</base>
-        <tran loc="es">¿Cambiar el idioma del iPad?</tran>
+        <tran loc="es-419">¿Cambiar idioma del iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -167,7 +167,7 @@
       <Position>NEW_PREFERRED_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Other Languages…</base>
-        <tran loc="es">Otros idiomas…</tran>
+        <tran loc="es-419">Otros idiomas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -175,7 +175,7 @@
       <Position>DEVICE_LANGUAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Language</base>
-        <tran loc="es">Idioma del iPad</tran>
+        <tran loc="es-419">Idioma del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -183,7 +183,7 @@
       <Position>ADD_PREFERRED_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Add Language…</base>
-        <tran loc="es">Añadir idioma…</tran>
+        <tran loc="es-419">Agregar idioma…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -191,7 +191,7 @@
       <Position>APPLYING_WILL_RESTART_IPOD</Position>
       <TranslationSet>
         <base loc="en">Applying this setting will restart your iPod.</base>
-        <tran loc="es">Al aplicar este ajuste se reiniciará el iPod.</tran>
+        <tran loc="es-419">Al aplicar la configuración se reiniciará tu iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -199,7 +199,7 @@
       <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the iPhone language to %@?</base>
-        <tran loc="es">¿Quieres cambiar el idioma del iPhone a %@?</tran>
+        <tran loc="es-419">¿Cambiar el idioma del iPhone a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -207,7 +207,7 @@
       <Position>CANCEL_CHANGE_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -215,7 +215,7 @@
       <Position>CANCEL_CHANGE_REGION</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -223,7 +223,7 @@
       <Position>FAHRENHEIT_SHORT</Position>
       <TranslationSet>
         <base loc="en">°F</base>
-        <tran loc="es">°F</tran>
+        <tran loc="es-419">° F</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -231,7 +231,7 @@
       <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Change iPhone Language?</base>
-        <tran loc="es">¿Cambiar el idioma del iPhone?</tran>
+        <tran loc="es-419">¿Cambiar idioma del iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -239,7 +239,7 @@
       <Position>CHANGE_DEVICE_LANGUAGE_TITLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Change Watch Language?</base>
-        <tran loc="es">¿Cambiar el idioma del Apple Watch?</tran>
+        <tran loc="es-419">¿Cambiar idioma del Watch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -247,7 +247,7 @@
       <Position>CONTINUE_CHANGE_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -255,7 +255,7 @@
       <Position>CONTINUE_CHANGE_REGION</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -263,7 +263,7 @@
       <Position>DEVICE_LANGUAGES_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Languages</base>
-        <tran loc="es">Idiomas del iPad</tran>
+        <tran loc="es-419">Idiomas del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -271,7 +271,7 @@
       <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPOD</Position>
       <TranslationSet>
         <base loc="en">If you prefer %@, %@ will be used as the iPod language and by apps and websites where %@ is not supported.</base>
-        <tran loc="es">Si prefieres el %@, se usará el %@ como idioma del iPod y en las apps y sitios web donde el %@ no esté disponible.</tran>
+        <tran loc="es-419">Si lo prefieres %@, se usará %@ como el idioma del iPod, y de apps y sitios que no ofrezcan la opción de usarse en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -279,7 +279,7 @@
       <Position>DEVICE_LANGUAGE_%@_WATCH</Position>
       <TranslationSet>
         <base loc="en">Watch Language: %@</base>
-        <tran loc="es">Idioma del reloj: %@</tran>
+        <tran loc="es-419">Idioma del Apple Watch: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -287,7 +287,7 @@
       <Position>PREFERRED_LANGUAGE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Apps and websites will use the first language in this list that they support.</base>
-        <tran loc="es">Las apps y los sitios web usarán el primer idioma de esta lista que esté disponible.</tran>
+        <tran loc="es-419">Los sitios en Internet y las apps usarán el primer idioma de esta lista en el que estén disponibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -295,7 +295,7 @@
       <Position>ADD_PREFERRED_LANGUAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add Preferred Language</base>
-        <tran loc="es">Añadir idioma preferido</tran>
+        <tran loc="es-419">Agregar idioma preferido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -303,7 +303,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">%@ will be used as the iPod language.</base>
-        <tran loc="es">Se usará el %@ como idioma del iPod.</tran>
+        <tran loc="es-419">%@ será el idioma utilizado en el iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -311,7 +311,7 @@
       <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Change iPod Language?</base>
-        <tran loc="es">¿Cambiar el idioma del iPod?</tran>
+        <tran loc="es-419">¿Cambiar idioma del iPod?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -319,7 +319,7 @@
       <Position>CHANGE_UI_LANGUAGE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Setting Language…</base>
-        <tran loc="es">Cambiando idioma…</tran>
+        <tran loc="es-419">Cambiando idioma…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -327,7 +327,7 @@
       <Position>APPLYING_WILL_RESTART_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Applying this setting will restart your iPhone.</base>
-        <tran loc="es">Al aplicar este ajuste se reiniciará el iPhone.</tran>
+        <tran loc="es-419">Al aplicar la configuración se reiniciará tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -335,7 +335,7 @@
       <Position>CHANGE_LANGUAGE_ORDER_TEXT</Position>
       <TranslationSet>
         <base loc="en">Updating Languages…</base>
-        <tran loc="es">Actualizando idiomas…</tran>
+        <tran loc="es-419">Actualizando idiomas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -343,7 +343,7 @@
       <Position>DATE</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +351,7 @@
       <Position>FAHRENHEIT</Position>
       <TranslationSet>
         <base loc="en">Fahrenheit (°F)</base>
-        <tran loc="es">Fahrenheit (°F)</tran>
+        <tran loc="es-419">Fahrenheit (° F)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -359,7 +359,7 @@
       <Position>DEVICE_LANGUAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone Language</base>
-        <tran loc="es">Idioma del iPhone</tran>
+        <tran loc="es-419">Idioma del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -367,7 +367,7 @@
       <Position>LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Language</base>
-        <tran loc="es">Idioma</tran>
+        <tran loc="es-419">Idioma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -375,7 +375,7 @@
       <Position>APPLYING_WILL_RESTART_IPAD</Position>
       <TranslationSet>
         <base loc="en">Applying this setting will restart your iPad.</base>
-        <tran loc="es">Al aplicar este ajuste se reiniciará el iPad.</tran>
+        <tran loc="es-419">Al aplicar la configuración se reiniciará tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +383,7 @@
       <Position>LOCALE</Position>
       <TranslationSet>
         <base loc="en">Region</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -391,7 +391,7 @@
       <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_WATCH</Position>
       <TranslationSet>
         <base loc="en">If you prefer %@, %@ will be used as the Apple Watch language and by apps where %@ is not supported.</base>
-        <tran loc="es">Si prefieres el %@, se usará el %@ como idioma del Apple Watch y en las apps donde el %@ no esté disponible.</tran>
+        <tran loc="es-419">Si lo prefieres %@, se usará %@ como el idioma del Apple Watch, y de apps que no ofrezcan la opción de usarse en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -399,7 +399,7 @@
       <Position>ASK_CHANGE_LANGUAGE_PREFERENCE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Change Language Preference?</base>
-        <tran loc="es">¿Cambiar la preferencia de idioma?</tran>
+        <tran loc="es-419">¿Cambiar preferencias del idioma?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -407,7 +407,7 @@
       <Position>CELSIUS</Position>
       <TranslationSet>
         <base loc="en">Celsius (°C)</base>
-        <tran loc="es">Celsius (°C)</tran>
+        <tran loc="es-419">Celsius (° C)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -415,7 +415,7 @@
       <Position>DEVICE_LANGUAGE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Watch Language</base>
-        <tran loc="es">Idioma del reloj</tran>
+        <tran loc="es-419">Idioma del Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +423,7 @@
       <Position>TIME</Position>
       <TranslationSet>
         <base loc="en">Time</base>
-        <tran loc="es">Hora</tran>
+        <tran loc="es-419">Hota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +431,7 @@
       <Position>PREFERRED_LANGUAGES</Position>
       <TranslationSet>
         <base loc="en">Preferred Language Order</base>
-        <tran loc="es">Orden preferido para los idiomas</tran>
+        <tran loc="es-419">Orden de idiomas preferidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +439,7 @@
       <Position>DEVICE_LANGUAGES_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod Languages</base>
-        <tran loc="es">Idiomas del iPod</tran>
+        <tran loc="es-419">Idiomas del iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +447,7 @@
       <Position>APPLYING_WILL_RESTART_WATCH</Position>
       <TranslationSet>
         <base loc="en">Applying this setting will restart your Apple Watch.</base>
-        <tran loc="es">Al aplicar este ajuste se reiniciará el Apple Watch.</tran>
+        <tran loc="es-419">Al aplicar la configuración se reiniciará tu Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +455,7 @@
       <Position>CHANGE_REGION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Change Region</base>
-        <tran loc="es">Cambiar región</tran>
+        <tran loc="es-419">Cambiar región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +463,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">%@ will be used as the iPhone language.</base>
-        <tran loc="es">Se usará el %@ como idioma del iPhone.</tran>
+        <tran loc="es-419">%@ será el idioma utilizado en el iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +471,7 @@
       <Position>CHANGE_TO_%@_AS_PRIMARY_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Change to %@</base>
-        <tran loc="es">Cambiar a %@</tran>
+        <tran loc="es-419">Cambiar a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -479,7 +479,7 @@
       <Position>CHANGE_TO_%@_FOR_NEW_DEVICE_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Change to %@</base>
-        <tran loc="es">Cambiar a %@</tran>
+        <tran loc="es-419">Cambiar a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -487,7 +487,7 @@
       <Position>CELSIUS_SHORT</Position>
       <TranslationSet>
         <base loc="en">°C</base>
-        <tran loc="es">°C</tran>
+        <tran loc="es-419">° C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -495,7 +495,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_WATCH</Position>
       <TranslationSet>
         <base loc="en">%@ will be used as the Apple Watch language.</base>
-        <tran loc="es">Se usará el %@ como idioma del Apple Watch.</tran>
+        <tran loc="es-419">%@ será el idioma utilizado en el Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -503,7 +503,7 @@
       <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the iPad language to %@?</base>
-        <tran loc="es">¿Quieres cambiar el idioma del iPad a %@?</tran>
+        <tran loc="es-419">¿Cambiar el idioma del iPad a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +511,7 @@
       <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPAD</Position>
       <TranslationSet>
         <base loc="en">If you prefer %@, %@ will be used as the iPad language and by apps and websites where %@ is not supported.</base>
-        <tran loc="es">Si prefieres el %@, se usará el %@ como idioma del iPad y en las apps y sitios web donde el %@ no esté disponible.</tran>
+        <tran loc="es-419">Si lo prefieres %@, se usará %@ como el idioma del iPad, y de apps y sitios que no ofrezcan la opción de usarse en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -519,7 +519,7 @@
       <Position>OTHER_LANGUAGES</Position>
       <TranslationSet>
         <base loc="en">Other Languages</base>
-        <tran loc="es">Otros idiomas</tran>
+        <tran loc="es-419">Otros idiomas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -527,7 +527,7 @@
       <Position>CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -535,7 +535,7 @@
       <Position>SEARCH</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -543,7 +543,7 @@
       <Position>DEVICE_LANGUAGE_%@_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod Language: %@</base>
-        <tran loc="es">Idioma del iPod: %@</tran>
+        <tran loc="es-419">Idioma del iPod: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -551,7 +551,7 @@
       <Position>DEFAULT_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Default</base>
-        <tran loc="es">Por omisión</tran>
+        <tran loc="es-419">Predeterminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -559,7 +559,7 @@
       <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">If you prefer %@, %@ will be used as the iPhone language and by apps and websites where %@ is not supported.</base>
-        <tran loc="es">Si prefieres el %@, se usará el %@ como idioma del iPhone y en las apps y sitios web donde el %@ no esté disponible.</tran>
+        <tran loc="es-419">Si lo prefieres %@, se usará %@ como el idioma del iPhone, y de apps y sitios que no ofrezcan la opción de usarse en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -567,7 +567,7 @@
       <Position>DEVICE_LANGUAGE_%@_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Language: %@</base>
-        <tran loc="es">Idioma del iPad: %@</tran>
+        <tran loc="es-419">Idioma del iPad: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -575,7 +575,7 @@
       <Position>ASK_CHANGE_LANGUAGE_PREFERENCE_BODY</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to change your language preference?</base>
-        <tran loc="es">¿Seguro que quieres cambiar tu preferencia de idioma?</tran>
+        <tran loc="es-419">¿Seguro que quieres cambiar las preferencias de idioma?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -583,7 +583,7 @@
       <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the iPod language to %@?</base>
-        <tran loc="es">¿Quieres cambiar el idioma del iPod a %@?</tran>
+        <tran loc="es-419">¿Cambiar el idioma del iPod a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -591,7 +591,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_REGION</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the region to %@?</base>
-        <tran loc="es">¿Quieres cambiar la región a %@?</tran>
+        <tran loc="es-419">¿Cambiar la región a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -599,7 +599,7 @@
       <Position>DEVICE_LANGUAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod Language</base>
-        <tran loc="es">Idioma del iPod</tran>
+        <tran loc="es-419">Idioma del iPod</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -610,7 +610,7 @@
       <Position>SELECT_REGION</Position>
       <TranslationSet>
         <base loc="en">Select Region</base>
-        <tran loc="es">Seleccionar región</tran>
+        <tran loc="es-419">Seleccionar región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -618,7 +618,7 @@
       <Position>CHANGE_DEVICE_REGION</Position>
       <TranslationSet>
         <base loc="en">Setting Region…</base>
-        <tran loc="es">Ajustando región…</tran>
+        <tran loc="es-419">Configurando región…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@
       <Position>TEMPERATURE_UNIT</Position>
       <TranslationSet>
         <base loc="en">Temperature Unit</base>
-        <tran loc="es">Unidad de temperatura</tran>
+        <tran loc="es-419">Unidad de temperatura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -634,7 +634,7 @@
       <Position>SUGGESTED_LANGUAGES</Position>
       <TranslationSet>
         <base loc="en">Suggested Languages</base>
-        <tran loc="es">Idiomas sugeridos</tran>
+        <tran loc="es-419">Idiomas sugeridos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -642,7 +642,7 @@
       <Position>SUGGESTED_LANGUAGE_INFO</Position>
       <TranslationSet>
         <base loc="en">%@ will use the first language that it supports from Language &amp; Region settings. You can select a different language for %@ to use if you prefer.</base>
-        <tran loc="es">%@ usará el primer idioma compatible de los ajustes de “Idioma y región”. Puedes decidir que %@ elija otro idioma si lo prefieres.</tran>
+        <tran loc="es-419">%@ usará el primer idioma que se muestre en la configuración de Idioma y región. Si lo prefieres, puedes seleccionar otro para %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@
       <Position>INTERNATIONAL</Position>
       <TranslationSet>
         <base loc="en">Language &amp; Region</base>
-        <tran loc="es">Idioma y región</tran>
+        <tran loc="es-419">Idioma y región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@
       <Position>PREFER_%@</Position>
       <TranslationSet>
         <base loc="en">Prefer %@</base>
-        <tran loc="es">Preferir %@</tran>
+        <tran loc="es-419">Preferir %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@
       <Position>KEEP_%@_AS_PRIMARY_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Keep %@</base>
-        <tran loc="es">Conservar %@</tran>
+        <tran loc="es-419">Seguir en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +681,7 @@
       <Position>NUMBERING_SYSTEM</Position>
       <TranslationSet>
         <base loc="en">Numbers</base>
-        <tran loc="es">Números</tran>
+        <tran loc="es-419">Números</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +689,7 @@
       <Position>DEVICE_LANGUAGE_%@_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone Language: %@</base>
-        <tran loc="es">Idioma del iPhone: %@</tran>
+        <tran loc="es-419">Idioma del iPhone: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +697,7 @@
       <Position>EXAMPLE</Position>
       <TranslationSet>
         <base loc="en">Region Format Example</base>
-        <tran loc="es">Ejemplo de formato regional</tran>
+        <tran loc="es-419">Ejemplo de formato regional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +705,7 @@
       <Position>DEVICE_LANGUAGES_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone Languages</base>
-        <tran loc="es">Idiomas del iPhone</tran>
+        <tran loc="es-419">Idiomas del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +713,7 @@
       <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the Apple Watch language to %@?</base>
-        <tran loc="es">¿Quieres cambiar el idioma del Apple Watch a %@?</tran>
+        <tran loc="es-419">¿Cambiar el idioma del Apple Watch a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +721,7 @@
       <Position>DEVICE_LANGUAGES_WATCH</Position>
       <TranslationSet>
         <base loc="en">Watch Languages</base>
-        <tran loc="es">Idiomas del reloj</tran>
+        <tran loc="es-419">Idiomas del Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +729,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">%@ will be used as the iPad language.</base>
-        <tran loc="es">Se usará el %@ como idioma del iPad.</tran>
+        <tran loc="es-419">%@ será el idioma utilizado en el iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -745,7 +745,7 @@
       <Position>SELECT_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Select Language</base>
-        <tran loc="es">Seleccionar idioma</tran>
+        <tran loc="es-419">Seleccionar idioma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -753,7 +753,7 @@
       <Position>DISPLAY_SAMPLE_MONEY_%@_AND_NUMBER_%@</Position>
       <TranslationSet>
         <base loc="en">%@\t\t%@</base>
-        <tran loc="es">%@\t\t%@</tran>
+        <tran loc="es-419">%@\t\t%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -761,7 +761,7 @@
       <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Change iPad Language?</base>
-        <tran loc="es">¿Cambiar el idioma del iPad?</tran>
+        <tran loc="es-419">¿Cambiar idioma del iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -769,7 +769,7 @@
       <Position>NEW_PREFERRED_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Other Languages…</base>
-        <tran loc="es">Otros idiomas…</tran>
+        <tran loc="es-419">Otros idiomas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -777,7 +777,7 @@
       <Position>DEVICE_LANGUAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Language</base>
-        <tran loc="es">Idioma del iPad</tran>
+        <tran loc="es-419">Idioma del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -785,7 +785,7 @@
       <Position>ADD_PREFERRED_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Add Language…</base>
-        <tran loc="es">Añadir idioma…</tran>
+        <tran loc="es-419">Agregar idioma…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -793,7 +793,7 @@
       <Position>APPLYING_WILL_RESTART_IPOD</Position>
       <TranslationSet>
         <base loc="en">Applying this setting will restart your iPod.</base>
-        <tran loc="es">Al aplicar este ajuste se reiniciará el iPod.</tran>
+        <tran loc="es-419">Al aplicar la configuración se reiniciará tu iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -801,7 +801,7 @@
       <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the iPhone language to %@?</base>
-        <tran loc="es">¿Quieres cambiar el idioma del iPhone a %@?</tran>
+        <tran loc="es-419">¿Cambiar el idioma del iPhone a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -809,7 +809,7 @@
       <Position>CANCEL_CHANGE_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -817,7 +817,7 @@
       <Position>CANCEL_CHANGE_REGION</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -825,7 +825,7 @@
       <Position>FAHRENHEIT_SHORT</Position>
       <TranslationSet>
         <base loc="en">°F</base>
-        <tran loc="es">°F</tran>
+        <tran loc="es-419">° F</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -833,7 +833,7 @@
       <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Change iPhone Language?</base>
-        <tran loc="es">¿Cambiar el idioma del iPhone?</tran>
+        <tran loc="es-419">¿Cambiar idioma del iPhone?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -841,7 +841,7 @@
       <Position>CHANGE_DEVICE_LANGUAGE_TITLE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Change Watch Language?</base>
-        <tran loc="es">¿Cambiar el idioma del Apple Watch?</tran>
+        <tran loc="es-419">¿Cambiar idioma del Watch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -849,7 +849,7 @@
       <Position>CONTINUE_CHANGE_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -857,7 +857,7 @@
       <Position>CONTINUE_CHANGE_REGION</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -865,7 +865,7 @@
       <Position>DEVICE_LANGUAGES_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Languages</base>
-        <tran loc="es">Idiomas del iPad</tran>
+        <tran loc="es-419">Idiomas del iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -873,7 +873,7 @@
       <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPOD</Position>
       <TranslationSet>
         <base loc="en">If you prefer %@, %@ will be used as the iPod language and by apps and websites where %@ is not supported.</base>
-        <tran loc="es">Si prefieres el %@, se usará el %@ como idioma del iPod y en las apps y sitios web donde el %@ no esté disponible.</tran>
+        <tran loc="es-419">Si lo prefieres %@, se usará %@ como el idioma del iPod, y de apps y sitios que no ofrezcan la opción de usarse en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -881,7 +881,7 @@
       <Position>DEVICE_LANGUAGE_%@_WATCH</Position>
       <TranslationSet>
         <base loc="en">Watch Language: %@</base>
-        <tran loc="es">Idioma del reloj: %@</tran>
+        <tran loc="es-419">Idioma del Apple Watch: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -889,7 +889,7 @@
       <Position>PREFERRED_LANGUAGE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Apps and websites will use the first language in this list that they support.</base>
-        <tran loc="es">Las apps y los sitios web usarán el primer idioma de esta lista que esté disponible.</tran>
+        <tran loc="es-419">Los sitios en Internet y las apps usarán el primer idioma de esta lista en el que estén disponibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -897,7 +897,7 @@
       <Position>ADD_PREFERRED_LANGUAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add Preferred Language</base>
-        <tran loc="es">Añadir idioma preferido</tran>
+        <tran loc="es-419">Agregar idioma preferido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -905,7 +905,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">%@ will be used as the iPod language.</base>
-        <tran loc="es">Se usará el %@ como idioma del iPod.</tran>
+        <tran loc="es-419">%@ será el idioma utilizado en el iPod.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -913,7 +913,7 @@
       <Position>CHANGE_DEVICE_LANGUAGE_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Change iPod Language?</base>
-        <tran loc="es">¿Cambiar el idioma del iPod?</tran>
+        <tran loc="es-419">¿Cambiar idioma del iPod?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -921,7 +921,7 @@
       <Position>CHANGE_UI_LANGUAGE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Setting Language…</base>
-        <tran loc="es">Cambiando idioma…</tran>
+        <tran loc="es-419">Cambiando idioma…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -929,7 +929,7 @@
       <Position>APPLYING_WILL_RESTART_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Applying this setting will restart your iPhone.</base>
-        <tran loc="es">Al aplicar este ajuste se reiniciará el iPhone.</tran>
+        <tran loc="es-419">Al aplicar la configuración se reiniciará tu iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -937,7 +937,7 @@
       <Position>CHANGE_LANGUAGE_ORDER_TEXT</Position>
       <TranslationSet>
         <base loc="en">Updating Languages…</base>
-        <tran loc="es">Actualizando idiomas…</tran>
+        <tran loc="es-419">Actualizando idiomas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -945,7 +945,7 @@
       <Position>DATE</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -953,7 +953,7 @@
       <Position>FAHRENHEIT</Position>
       <TranslationSet>
         <base loc="en">Fahrenheit (°F)</base>
-        <tran loc="es">Fahrenheit (°F)</tran>
+        <tran loc="es-419">Fahrenheit (° F)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -961,7 +961,7 @@
       <Position>DEVICE_LANGUAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone Language</base>
-        <tran loc="es">Idioma del iPhone</tran>
+        <tran loc="es-419">Idioma del iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -969,7 +969,7 @@
       <Position>LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Language</base>
-        <tran loc="es">Idioma</tran>
+        <tran loc="es-419">Idioma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -977,7 +977,7 @@
       <Position>APPLYING_WILL_RESTART_IPAD</Position>
       <TranslationSet>
         <base loc="en">Applying this setting will restart your iPad.</base>
-        <tran loc="es">Al aplicar este ajuste se reiniciará el iPad.</tran>
+        <tran loc="es-419">Al aplicar la configuración se reiniciará tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -985,7 +985,7 @@
       <Position>LOCALE</Position>
       <TranslationSet>
         <base loc="en">Region</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -993,7 +993,7 @@
       <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_WATCH</Position>
       <TranslationSet>
         <base loc="en">If you prefer %@, %@ will be used as the Apple Watch language and by apps where %@ is not supported.</base>
-        <tran loc="es">Si prefieres el %@, se usará el %@ como idioma del Apple Watch y en las apps donde el %@ no esté disponible.</tran>
+        <tran loc="es-419">Si lo prefieres %@, se usará %@ como el idioma del Apple Watch, y de apps que no ofrezcan la opción de usarse en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1001,7 +1001,7 @@
       <Position>ASK_CHANGE_LANGUAGE_PREFERENCE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Change Language Preference?</base>
-        <tran loc="es">¿Cambiar la preferencia de idioma?</tran>
+        <tran loc="es-419">¿Cambiar preferencias del idioma?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1009,7 +1009,7 @@
       <Position>CELSIUS</Position>
       <TranslationSet>
         <base loc="en">Celsius (°C)</base>
-        <tran loc="es">Celsius (°C)</tran>
+        <tran loc="es-419">Celsius (° C)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1017,7 +1017,7 @@
       <Position>DEVICE_LANGUAGE_WATCH</Position>
       <TranslationSet>
         <base loc="en">Watch Language</base>
-        <tran loc="es">Idioma del reloj</tran>
+        <tran loc="es-419">Idioma del Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1025,7 +1025,7 @@
       <Position>TIME</Position>
       <TranslationSet>
         <base loc="en">Time</base>
-        <tran loc="es">Hora</tran>
+        <tran loc="es-419">Duración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1033,7 +1033,7 @@
       <Position>PREFERRED_LANGUAGES</Position>
       <TranslationSet>
         <base loc="en">Preferred Language Order</base>
-        <tran loc="es">Orden preferido para los idiomas</tran>
+        <tran loc="es-419">Orden de idiomas preferidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1041,7 +1041,7 @@
       <Position>DEVICE_LANGUAGES_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod Languages</base>
-        <tran loc="es">Idiomas del iPod</tran>
+        <tran loc="es-419">Idiomas del iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1049,7 +1049,7 @@
       <Position>APPLYING_WILL_RESTART_WATCH</Position>
       <TranslationSet>
         <base loc="en">Applying this setting will restart your Apple Watch.</base>
-        <tran loc="es">Al aplicar este ajuste se reiniciará el Apple Watch.</tran>
+        <tran loc="es-419">Al aplicar la configuración se reiniciará el Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1057,7 +1057,7 @@
       <Position>CHANGE_REGION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Change Region</base>
-        <tran loc="es">Cambiar región</tran>
+        <tran loc="es-419">Cambiar región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1065,7 +1065,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">%@ will be used as the iPhone language.</base>
-        <tran loc="es">Se usará el %@ como idioma del iPhone.</tran>
+        <tran loc="es-419">%@ será el idioma utilizado en el iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1073,7 +1073,7 @@
       <Position>CHANGE_TO_%@_AS_PRIMARY_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Change to %@</base>
-        <tran loc="es">Cambiar a %@</tran>
+        <tran loc="es-419">Cambiar a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1081,7 +1081,7 @@
       <Position>CHANGE_TO_%@_FOR_NEW_DEVICE_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Change to %@</base>
-        <tran loc="es">Cambiar a %@</tran>
+        <tran loc="es-419">Cambiar a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1089,7 +1089,7 @@
       <Position>CELSIUS_SHORT</Position>
       <TranslationSet>
         <base loc="en">°C</base>
-        <tran loc="es">°C</tran>
+        <tran loc="es-419">° C</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1097,7 +1097,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_LANGUAGE_WATCH</Position>
       <TranslationSet>
         <base loc="en">%@ will be used as the Apple Watch language.</base>
-        <tran loc="es">Se usará el %@ como idioma del Apple Watch.</tran>
+        <tran loc="es-419">%@ será el idioma utilizado en el Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1105,7 +1105,7 @@
       <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the iPad language to %@?</base>
-        <tran loc="es">¿Quieres cambiar el idioma del iPad a %@?</tran>
+        <tran loc="es-419">¿Cambiar el idioma del iPad a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1113,7 +1113,7 @@
       <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPAD</Position>
       <TranslationSet>
         <base loc="en">If you prefer %@, %@ will be used as the iPad language and by apps and websites where %@ is not supported.</base>
-        <tran loc="es">Si prefieres el %@, se usará el %@ como idioma del iPad y en las apps y sitios web donde el %@ no esté disponible.</tran>
+        <tran loc="es-419">Si lo prefieres %@, se usará %@ como el idioma del iPad, y de apps y sitios que no ofrezcan la opción de usarse en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1121,7 +1121,7 @@
       <Position>OTHER_LANGUAGES</Position>
       <TranslationSet>
         <base loc="en">Other Languages</base>
-        <tran loc="es">Otros idiomas</tran>
+        <tran loc="es-419">Otros idiomas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1129,7 +1129,7 @@
       <Position>CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1137,7 +1137,7 @@
       <Position>SEARCH</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1145,7 +1145,7 @@
       <Position>DEVICE_LANGUAGE_%@_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod Language: %@</base>
-        <tran loc="es">Idioma del iPod: %@</tran>
+        <tran loc="es-419">Idioma del iPod: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1153,7 +1153,7 @@
       <Position>DEFAULT_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Default</base>
-        <tran loc="es">Por omisión</tran>
+        <tran loc="es-419">Predeterminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1161,7 +1161,7 @@
       <Position>%@_IS_UNSUPPORTED_DEVICE_WILL_FALLBACK_TO_%@_WHERE_%@_IS_NOT_SUPPORTED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">If you prefer %@, %@ will be used as the iPhone language and by apps and websites where %@ is not supported.</base>
-        <tran loc="es">Si prefieres el %@, se usará el %@ como idioma del iPhone y en las apps y sitios web donde el %@ no esté disponible.</tran>
+        <tran loc="es-419">Si lo prefieres %@, se usará %@ como el idioma del iPhone, y de apps y sitios que no ofrezcan la opción de usarse en %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1169,7 +1169,7 @@
       <Position>DEVICE_LANGUAGE_%@_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad Language: %@</base>
-        <tran loc="es">Idioma del iPad: %@</tran>
+        <tran loc="es-419">Idioma del iPad: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1177,7 +1177,7 @@
       <Position>ASK_CHANGE_LANGUAGE_PREFERENCE_BODY</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to change your language preference?</base>
-        <tran loc="es">¿Seguro que quieres cambiar tu preferencia de idioma?</tran>
+        <tran loc="es-419">¿Seguro que quieres cambiar las preferencias de idioma?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1185,7 +1185,7 @@
       <Position>ASK_USE_%@_AS_DEVICE_LANGUAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the iPod language to %@?</base>
-        <tran loc="es">¿Quieres cambiar el idioma del iPod a %@?</tran>
+        <tran loc="es-419">¿Cambiar el idioma del iPod a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1193,7 +1193,7 @@
       <Position>%@_WILL_BE_USED_AS_DEVICE_REGION</Position>
       <TranslationSet>
         <base loc="en">Would you like to change the region to %@?</base>
-        <tran loc="es">¿Quieres cambiar la región a %@?</tran>
+        <tran loc="es-419">¿Cambiar la región a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1201,7 +1201,7 @@
       <Position>DEVICE_LANGUAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod Language</base>
-        <tran loc="es">Idioma del iPod</tran>
+        <tran loc="es-419">Idioma del iPod</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1212,7 +1212,7 @@
       <Position>CALENDAR_DIRECTIONALITY</Position>
       <TranslationSet>
         <base loc="en">Calendar Directionality</base>
-        <tran loc="es">Direccionalidad del calendario</tran>
+        <tran loc="es-419">Orientación de calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1220,7 +1220,7 @@
       <Position>BUDDHIST_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Buddhist</base>
-        <tran loc="es">Budista</tran>
+        <tran loc="es-419">Budista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1228,7 +1228,7 @@
       <Position>CALENDAR_TYPE_PLUS_DIRECTIONALITY_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1236,7 +1236,7 @@
       <Position>GREGORIAN_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Gregorian</base>
-        <tran loc="es">Gregoriano</tran>
+        <tran loc="es-419">Gregoriano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1244,7 +1244,7 @@
       <Position>CALENDAR_DIRECTIONALITY_LEFT_TO_RIGHT</Position>
       <TranslationSet>
         <base loc="en">Left to Right</base>
-        <tran loc="es">De izquierda a derecha</tran>
+        <tran loc="es-419">De izquierda a derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1252,7 +1252,7 @@
       <Position>CALENDAR_DIRECTIONALITY_RIGHT_TO_LEFT</Position>
       <TranslationSet>
         <base loc="en">Right to Left</base>
-        <tran loc="es">De derecha a izquierda</tran>
+        <tran loc="es-419">De derecha a izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1267,7 +1267,7 @@
       <Position>CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1275,7 +1275,7 @@
       <Position>CALENDAR_TYPE</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1283,7 +1283,7 @@
       <Position>JAPANESE_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Japanese</base>
-        <tran loc="es">Japonés</tran>
+        <tran loc="es-419">Japonés</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1300,7 +1300,7 @@
       <Position>LANGUAGE_AND_REGION</Position>
       <TranslationSet>
         <base loc="en">Language &amp; Region</base>
-        <tran loc="es">Idioma y región</tran>
+        <tran loc="es-419">Idioma y región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1308,7 +1308,7 @@
       <Position>MIRROR_MY_COMPANION</Position>
       <TranslationSet>
         <base loc="en">Mirror my iPhone</base>
-        <tran loc="es">Duplicar iPhone</tran>
+        <tran loc="es-419">Duplicar mi iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1316,7 +1316,7 @@
       <Position>CUSTOM_NOTIFICATION_OPTIONS</Position>
       <TranslationSet>
         <base loc="en">Custom</base>
-        <tran loc="es">Personalizada</tran>
+        <tran loc="es-419">Personalizadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1325,7 +1325,7 @@
       <Position>FOOTER_LINE_FORMAT_WITH_BULLET</Position>
       <TranslationSet>
         <base loc="en">• %@: %@\n</base>
-        <tran loc="es">• %@: %@\n</tran>
+        <tran loc="es-419">• %@: %@\n</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1333,7 +1333,7 @@
       <Position>FOOTER_LINE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@: %@\n</base>
-        <tran loc="es">%@: %@\n</tran>
+        <tran loc="es-419">%@: %@\n</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1344,7 +1344,7 @@
       <Position>LANGUAGE_AND_REGION</Position>
       <TranslationSet>
         <base loc="en">Language &amp; Region</base>
-        <tran loc="es">Idioma y región</tran>
+        <tran loc="es-419">Idioma y región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>NUMBERING_SYSTEM</Position>
       <TranslationSet>
         <base loc="en">Numbers</base>
-        <tran loc="es">Números</tran>
+        <tran loc="es-419">Números</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>PREFERRED_LANGUAGE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Apps will use the first language in this list that they support.</base>
-        <tran loc="es">Las apps usarán el primer idioma de esta lista que esté disponible.</tran>
+        <tran loc="es-419">Las apps usarán el primer idioma de esta lista en el que estén disponibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>BUDDHIST_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Buddhist</base>
-        <tran loc="es">Budista</tran>
+        <tran loc="es-419">Budista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1382,7 +1382,7 @@
       <Position>NEW_PREFERRED_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Other Languages…</base>
-        <tran loc="es">Otros idiomas…</tran>
+        <tran loc="es-419">Otros idiomas…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1390,7 +1390,7 @@
       <Position>ADD_PREFERRED_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Add Language…</base>
-        <tran loc="es">Añadir idioma…</tran>
+        <tran loc="es-419">Agregar idioma…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1398,7 +1398,7 @@
       <Position>GREGORIAN_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Gregorian</base>
-        <tran loc="es">Gregoriano</tran>
+        <tran loc="es-419">Gregoriano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1406,7 +1406,7 @@
       <Position>SET_LOCALE</Position>
       <TranslationSet>
         <base loc="en">Region</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Región</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1414,7 +1414,7 @@
       <Position>PREFERRED_LANGUAGES</Position>
       <TranslationSet>
         <base loc="en">Preferred Language Order</base>
-        <tran loc="es">Orden preferido para los idiomas</tran>
+        <tran loc="es-419">Orden de idiomas preferidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1422,7 +1422,7 @@
       <Position>CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1430,7 +1430,7 @@
       <Position>JAPANESE_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Japanese</base>
-        <tran loc="es">Japonés</tran>
+        <tran loc="es-419">Japonés</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1441,7 +1441,7 @@
       <Position>CALENDAR_DIRECTIONALITY</Position>
       <TranslationSet>
         <base loc="en">Calendar Directionality</base>
-        <tran loc="es">Direccionalidad del calendario</tran>
+        <tran loc="es-419">Orientación de calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1449,7 +1449,7 @@
       <Position>BUDDHIST_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Buddhist</base>
-        <tran loc="es">Budista</tran>
+        <tran loc="es-419">Budista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1457,7 +1457,7 @@
       <Position>CALENDAR_TYPE_PLUS_DIRECTIONALITY_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@, %@</base>
-        <tran loc="es">%@, %@</tran>
+        <tran loc="es-419">%@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1465,7 +1465,7 @@
       <Position>GREGORIAN_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Gregorian</base>
-        <tran loc="es">Gregoriano</tran>
+        <tran loc="es-419">Gregoriano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1473,7 +1473,7 @@
       <Position>CALENDAR_DIRECTIONALITY_LEFT_TO_RIGHT</Position>
       <TranslationSet>
         <base loc="en">Left to Right</base>
-        <tran loc="es">De izquierda a derecha</tran>
+        <tran loc="es-419">De izquierda a derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1481,7 +1481,7 @@
       <Position>CALENDAR_DIRECTIONALITY_RIGHT_TO_LEFT</Position>
       <TranslationSet>
         <base loc="en">Right to Left</base>
-        <tran loc="es">De derecha a izquierda</tran>
+        <tran loc="es-419">De derecha a izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>CALENDAR_TYPE</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>JAPANESE_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Japanese</base>
-        <tran loc="es">Japonés</tran>
+        <tran loc="es-419">Japonés</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>specific-puio</Position>
       <TranslationSet>
         <base loc="en">USB IDAM Out</base>
-        <tran loc="es">Salida USB IDAM</tran>
+        <tran loc="es-419">USB IDAM fuera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>mcfr</Position>
       <TranslationSet>
         <base loc="en">Front</base>
-        <tran loc="es">Delante</tran>
+        <tran loc="es-419">Delante</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>mcal</Position>
       <TranslationSet>
         <base loc="en">All</base>
-        <tran loc="es">Todo</tran>
+        <tran loc="es-419">Todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>psta</Position>
       <TranslationSet>
         <base loc="en">Car Speakers</base>
-        <tran loc="es">Altavoces del coche</tran>
+        <tran loc="es-419">Bocinas del automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>psti</Position>
       <TranslationSet>
         <base loc="en">Car Speakers</base>
-        <tran loc="es">Altavoces del coche</tran>
+        <tran loc="es-419">Bocinas del automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>psto</Position>
       <TranslationSet>
         <base loc="en">Car Speakers</base>
-        <tran loc="es">Altavoces del coche</tran>
+        <tran loc="es-419">Bocinas del automóvil</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>prec</Position>
       <TranslationSet>
         <base loc="en">iPhone</base>
-        <tran loc="es">iPhone</tran>
+        <tran loc="es-419">iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>phpB</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Audio</base>
-        <tran loc="es">Audio Bluetooth</tran>
+        <tran loc="es-419">Audio Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>phpb</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Audio</base>
-        <tran loc="es">Audio Bluetooth</tran>
+        <tran loc="es-419">Audio Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>pleo</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Audio</base>
-        <tran loc="es">Audio Bluetooth</tran>
+        <tran loc="es-419">Audio Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>pmbt</Position>
       <TranslationSet>
         <base loc="en">Bluetooth Audio</base>
-        <tran loc="es">Audio Bluetooth</tran>
+        <tran loc="es-419">Audio Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>phac</Position>
       <TranslationSet>
         <base loc="en">Hearing Aid Boost</base>
-        <tran loc="es">Potenciación del audífono</tran>
+        <tran loc="es-419">Potenciación del aparato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>specific-puii</Position>
       <TranslationSet>
         <base loc="en">USB IDAM In</base>
-        <tran loc="es">Entrada USB IDAM</tran>
+        <tran loc="es-419">USB IDAM dentro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>ptti</Position>
       <TranslationSet>
         <base loc="en">TTY</base>
-        <tran loc="es">TTY</tran>
+        <tran loc="es-419">TTY</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>ptto</Position>
       <TranslationSet>
         <base loc="en">TTY</base>
-        <tran loc="es">TTY</tran>
+        <tran loc="es-419">TTY</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>phpw</Position>
       <TranslationSet>
         <base loc="en">Headphones</base>
-        <tran loc="es">Auriculares</tran>
+        <tran loc="es-419">Audífonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>pmwi</Position>
       <TranslationSet>
         <base loc="en">Headphones</base>
-        <tran loc="es">Auriculares</tran>
+        <tran loc="es-419">Audífonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>specific-pmwi</Position>
       <TranslationSet>
         <base loc="en">Headset Microphone</base>
-        <tran loc="es">Micrófono del auricular</tran>
+        <tran loc="es-419">Micrófono del audífono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>mcbt</Position>
       <TranslationSet>
         <base loc="en">Bottom</base>
-        <tran loc="es">Abajo</tran>
+        <tran loc="es-419">Abajo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>mclf</Position>
       <TranslationSet>
         <base loc="en">Left</base>
-        <tran loc="es">Izquierda</tran>
+        <tran loc="es-419">Izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>pspf</Position>
       <TranslationSet>
         <base loc="en">S/PDIF</base>
-        <tran loc="es">S/PDIF</tran>
+        <tran loc="es-419">S/PDIF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>specific-pspf</Position>
       <TranslationSet>
         <base loc="en">S/PDIF</base>
-        <tran loc="es">S/PDIF</tran>
+        <tran loc="es-419">S/PDIF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>gnrc</Position>
       <TranslationSet>
         <base loc="en">Microphone</base>
-        <tran loc="es">Micrófono</tran>
+        <tran loc="es-419">Micrófono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>pmbi</Position>
       <TranslationSet>
         <base loc="en">Microphone</base>
-        <tran loc="es">Micrófono</tran>
+        <tran loc="es-419">Micrófono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>pnli</Position>
       <TranslationSet>
         <base loc="en">Null Input</base>
-        <tran loc="es">Entrada nula</tran>
+        <tran loc="es-419">Entrada no válida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>specific-plou</Position>
       <TranslationSet>
         <base loc="en">Line Out</base>
-        <tran loc="es">Salida de línea</tran>
+        <tran loc="es-419">Salida de línea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>specific-puso</Position>
       <TranslationSet>
         <base loc="en">USB Out</base>
-        <tran loc="es">Salida USB</tran>
+        <tran loc="es-419">Salida USB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>pact</Position>
       <TranslationSet>
         <base loc="en">Actuator</base>
-        <tran loc="es">Actuador</tran>
+        <tran loc="es-419">Accionador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>specific-pdsp</Position>
       <TranslationSet>
         <base loc="en">HDMI</base>
-        <tran loc="es">HDMI</tran>
+        <tran loc="es-419">HDMI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>specific-phdm</Position>
       <TranslationSet>
         <base loc="en">HDMI</base>
-        <tran loc="es">HDMI</tran>
+        <tran loc="es-419">HDMI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>mcbk</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Detrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>mcrt</Position>
       <TranslationSet>
         <base loc="en">Right</base>
-        <tran loc="es">Derecha</tran>
+        <tran loc="es-419">Derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>pnul</Position>
       <TranslationSet>
         <base loc="en">Null</base>
-        <tran loc="es">Nulo</tran>
+        <tran loc="es-419">Nulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>pdsp</Position>
       <TranslationSet>
         <base loc="en">Dock Connector</base>
-        <tran loc="es">Conector Dock</tran>
+        <tran loc="es-419">Conector Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>phdm</Position>
       <TranslationSet>
         <base loc="en">Dock Connector</base>
-        <tran loc="es">Conector Dock</tran>
+        <tran loc="es-419">Conector Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>plou</Position>
       <TranslationSet>
         <base loc="en">Dock Connector</base>
-        <tran loc="es">Conector Dock</tran>
+        <tran loc="es-419">Conector Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>puii</Position>
       <TranslationSet>
         <base loc="en">Dock Connector</base>
-        <tran loc="es">Conector Dock</tran>
+        <tran loc="es-419">Conector Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>puio</Position>
       <TranslationSet>
         <base loc="en">Dock Connector</base>
-        <tran loc="es">Conector Dock</tran>
+        <tran loc="es-419">Conector Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>pusi</Position>
       <TranslationSet>
         <base loc="en">Dock Connector</base>
-        <tran loc="es">Conector Dock</tran>
+        <tran loc="es-419">Conector Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>puso</Position>
       <TranslationSet>
         <base loc="en">Dock Connector</base>
-        <tran loc="es">Conector Dock</tran>
+        <tran loc="es-419">Conector Dock</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>paiv</Position>
       <TranslationSet>
         <base loc="en">ActuatorIV</base>
-        <tran loc="es">ActuatorIV</tran>
+        <tran loc="es-419">ActuatorIV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>specific-prec</Position>
       <TranslationSet>
         <base loc="en">Receiver</base>
-        <tran loc="es">Receptor</tran>
+        <tran loc="es-419">Receptor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>pscp</Position>
       <TranslationSet>
         <base loc="en">System Capture</base>
-        <tran loc="es">Captura del sistema</tran>
+        <tran loc="es-419">Captura de sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>mctp</Position>
       <TranslationSet>
         <base loc="en">Top</base>
-        <tran loc="es">Arriba</tran>
+        <tran loc="es-419">Arriba</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>specific-pusi</Position>
       <TranslationSet>
         <base loc="en">USB In</base>
-        <tran loc="es">Entrada USB</tran>
+        <tran loc="es-419">Entrada USB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>pspk</Position>
       <TranslationSet>
         <base loc="en">Speaker</base>
-        <tran loc="es">Altavoz</tran>
+        <tran loc="es-419">Altavoz</tran>
       </TranslationSet>
     </TextItem>
   </File>

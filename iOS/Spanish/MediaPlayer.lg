@@ -9,7 +9,7 @@
       <Position>com.apple.Music</Position>
       <TranslationSet>
         <base loc="en">Music</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -17,7 +17,7 @@
       <Position>com.apple.podcasts</Position>
       <TranslationSet>
         <base loc="en">Podcasts</base>
-        <tran loc="es">Podcasts</tran>
+        <tran loc="es-419">Podcasts</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -28,7 +28,7 @@
       <Position>AUTO_SUBTITLES</Position>
       <TranslationSet>
         <base loc="en">Auto (Recommended)</base>
-        <tran loc="es">Automáticos (recomendado)</tran>
+        <tran loc="es-419">Automáticos (recomendado)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -36,7 +36,7 @@
       <Position>ENABLE_CLOUD_LIBRARY_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Music Library couldn’t be enabled.</base>
-        <tran loc="es">No se ha podido activar la biblioteca de música de iCloud.</tran>
+        <tran loc="es-419">No se puede activar la biblioteca musical de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -44,7 +44,7 @@
       <Position>ENABLE_CLOUD_LIBRARY_FAILED_TOO_MANY_ITEMS_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Music Library couldn’t be enabled.</base>
-        <tran loc="es">No se ha podido activar la biblioteca de música de iCloud.</tran>
+        <tran loc="es-419">No se puede activar la biblioteca musical de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -52,7 +52,7 @@
       <Position>AIRTUNES_PASSWORD_ALERT_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">password</base>
-        <tran loc="es">contraseña</tran>
+        <tran loc="es-419">contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -60,7 +60,7 @@
       <Position>ROUTING_SPEAKER_HIJACK_NAG_MULTITASK_TV_TITLE</Position>
       <TranslationSet>
         <base loc="en">Replace what is playing on this TV?</base>
-        <tran loc="es">¿Reemplazar lo que se está reproduciendo en este televisor?</tran>
+        <tran loc="es-419">¿Reemplazar lo que se está reproduciendo en esta TV?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -68,7 +68,7 @@
       <Position>ROUTING_SPEAKER_HIJACK_INTERRUPT_LOCAL_MULTITASK_TITLE</Position>
       <TranslationSet>
         <base loc="en">Interrupt what is playing on “%@”?</base>
-        <tran loc="es">¿Interrumpir lo que se está reproduciendo en “%@”?</tran>
+        <tran loc="es-419">¿Interrumpir lo que se está reproduciendo en “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -76,7 +76,7 @@
       <Position>SUBTITLES_2013</Position>
       <TranslationSet>
         <base loc="en">SUBTITLES &amp; CC</base>
-        <tran loc="es">SUBTÍTULOS</tran>
+        <tran loc="es-419">SUBTÍTULOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -84,7 +84,7 @@
       <Position>AIRPLAY_MIRRORING_OFF_ACTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad (AirPlay Mirroring Off)</base>
-        <tran loc="es">iPad (duplicación AirPlay desactivada)</tran>
+        <tran loc="es-419">Duplicación AirPlay: No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -92,7 +92,7 @@
       <Position>UNKNOWN_DURATION</Position>
       <TranslationSet>
         <base loc="en">--:--</base>
-        <tran loc="es">--:--</tran>
+        <tran loc="es-419">--:--</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -100,7 +100,7 @@
       <Position>AIRPLAY_MIRRORING_IPAD_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">With AirPlay Mirroring you can send everything on your iPad’s display to an Apple TV, wirelessly.</base>
-        <tran loc="es">Con la función de duplicación de AirPlay, puedes ver en el Apple TV todo lo que veas en la pantalla del iPad, de forma inalámbrica.</tran>
+        <tran loc="es-419">Con la duplicación de AirPlay, puedes transmitir la pantalla de tu iPad a tu Apple TV de forma inalámbrica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -108,7 +108,7 @@
       <Position>GENIUS_PICKER_NO_RESULTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Try Again</base>
-        <tran loc="es">Inténtalo de nuevo</tran>
+        <tran loc="es-419">Intenta de nuevo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -116,7 +116,7 @@
       <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_COMBINED_FORMAT_%@_%@</Position>
       <TranslationSet>
         <base loc="en">L: %1$@  R: %2$@</base>
-        <tran loc="es">I: %1$@  D: %2$@</tran>
+        <tran loc="es-419">I: %1$@  D: %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -124,7 +124,7 @@
       <Position>AIRPLAY_MIRRORING_OFF_ACTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod (AirPlay Mirroring Off)</base>
-        <tran loc="es">iPod (duplicación AirPlay desactivada)</tran>
+        <tran loc="es-419">Duplicación AirPlay: No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -132,7 +132,7 @@
       <Position>ROUTE_NAME_CENTER_TRUNCATING_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">…</base>
-        <tran loc="es">…</tran>
+        <tran loc="es-419">…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -140,7 +140,7 @@
       <Position>SEASON_DISPLAY_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Season %@</base>
-        <tran loc="es">Temporada %@</tran>
+        <tran loc="es-419">Temporada %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -148,7 +148,7 @@
       <Position>AUDIO_AND_SUBTITLES_POPOVER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Audio &amp; Subtitles</base>
-        <tran loc="es">Audio y subtítulos</tran>
+        <tran loc="es-419">Audio y subtítulos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -156,7 +156,7 @@
       <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_LEFT_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">L: %@</base>
-        <tran loc="es">I: %@</tran>
+        <tran loc="es-419">I: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -164,7 +164,7 @@
       <Position>RADIO_LABEL</Position>
       <TranslationSet>
         <base loc="en">Radio</base>
-        <tran loc="es">Radio</tran>
+        <tran loc="es-419">Radio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -172,7 +172,7 @@
       <Position>AIRTUNES_POPOVER_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -180,7 +180,7 @@
       <Position>AIRTUNES_VIDEO_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -188,7 +188,7 @@
       <Position>AIRTUNES_VIDEO_POPOVER_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -196,7 +196,7 @@
       <Position>AIRTUNES_PASSWORD_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@”</base>
-        <tran loc="es">Introduce la contraseña de “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -204,7 +204,7 @@
       <Position>ENABLE_CLOUD_LIBRARY_FAILED_TOO_MANY_ITEMS_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Merging your Libraries would put you over the song limit. Delete songs from this iPhone and try again, or delete and replace this Library with your iCloud Music Library.</base>
-        <tran loc="es">Si fusionaras las bibliotecas superarías el límite de canciones. Elimina canciones de este iPhone y vuelve a intentarlo, o elimina esta biblioteca y sustitúyela por tu biblioteca de música de iCloud.</tran>
+        <tran loc="es-419">Asociar tus bibliotecas podría rebasar el límite de canciones. Elimina algunas de este iPhone y reintenta, o elimina y reemplaza esta biblioteca con tu biblioteca musical de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -212,7 +212,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -220,7 +220,7 @@
       <Position>PROGRESS_TIME_FULL_WIDTH_NO_HOURS_FORMAT_%@_%d_%d</Position>
       <TranslationSet>
         <base loc="en">%@%02d:%02d</base>
-        <tran loc="es">%@%02d:%02d</tran>
+        <tran loc="es-419">%@%02d:%02d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>HDCP_PROTECTION_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Play Movie</base>
-        <tran loc="es">Imposible reproducir el vídeo</tran>
+        <tran loc="es-419">Imposible reproducir el video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -236,7 +236,7 @@
       <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_RIGHT_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">R: %@</base>
-        <tran loc="es">D: %@</tran>
+        <tran loc="es-419">D: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +244,7 @@
       <Position>QUARTER_SPEED_SCRUBBING</Position>
       <TranslationSet>
         <base loc="en">Quarter-Speed Scrubbing</base>
-        <tran loc="es">Barrido al 25 % de la velocidad</tran>
+        <tran loc="es-419">Barrido al 25% de la velocidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +252,7 @@
       <Position>AIRPLAY_MIRRORING_COMPACT_DESCRIPTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Mirror your iPhone on an Apple TV.</base>
-        <tran loc="es">Duplica la pantalla del iPhone en un Apple TV.</tran>
+        <tran loc="es-419">Duplica la pantalla de tu iPhone en un Apple TV.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -260,7 +260,7 @@
       <Position>ROUTING_VIEW_HEADER_SPEAKERS_AND_TVS</Position>
       <TranslationSet>
         <base loc="en">SPEAKERS &amp; TVs</base>
-        <tran loc="es">ALTAVOCES Y TELEVISORES</tran>
+        <tran loc="es-419">BOCINAS Y TV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -268,7 +268,7 @@
       <Position>GENERIC_COULD_NOT_LOAD_MOVIE</Position>
       <TranslationSet>
         <base loc="en">Could not load movie</base>
-        <tran loc="es">El vídeo no ha podido cargarse</tran>
+        <tran loc="es-419">El video no pudo cargarse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -276,7 +276,7 @@
       <Position>EXPLICIT_CONTENT_NOT_ALLOWED_ENABLE_EXPLICIT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Allow Explicit</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir contenido explícito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -284,7 +284,7 @@
       <Position>ROUTING_VIEW_SHARE_AUDIO_DISABLED_CARPLAY</Position>
       <TranslationSet>
         <base loc="en">Not available in CarPlay</base>
-        <tran loc="es">No disponible en CarPlay</tran>
+        <tran loc="es-419">No disponible en CarPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -292,7 +292,7 @@
       <Position>NOT_SUPPORTED</Position>
       <TranslationSet>
         <base loc="en">The requested action is not supported</base>
-        <tran loc="es">La acción solicitada es incompatible</tran>
+        <tran loc="es-419">La acción solicitada es incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -300,7 +300,7 @@
       <Position>ROUTING_SPEAKER_HIJACK_NAG_MULTITASK_TV_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Selecting this TV will pause what it is currently playing and play the selected content.</base>
-        <tran loc="es">Al seleccionar este televisor, se pondrá en pausa la reproducción actual y se reproducirá el contenido seleccionado.</tran>
+        <tran loc="es-419">Al seleccionar esta TV, pausarás lo que se está reproduciendo actualmente para poner el contenido seleccionado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -308,7 +308,7 @@
       <Position>POSITION_IN_PLAYLIST_FORMAT_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ of %2$@</base>
-        <tran loc="es">%1$@ de %2$@</tran>
+        <tran loc="es-419">%1$@ de %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -316,7 +316,7 @@
       <Position>EXPLICIT_CONTENT_NOT_ALLOWED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Explicit Content</base>
-        <tran loc="es">Contenido explícito</tran>
+        <tran loc="es-419">Contenido explícito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -324,7 +324,7 @@
       <Position>ROUTING_SPEAKER_HIJACK_INTERRUPT_LOCAL_MULTITASK_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Using AirPlay in “%@” will pause what “%@“ is currently playing.</base>
-        <tran loc="es">Al usar AirPlay en “%@”, se pondrá en pausa lo que se está reproduciendo en “%@“.</tran>
+        <tran loc="es-419">Si usas AirPlay en “%@” se pausará lo que se está reproduciendo en “%@“.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -332,7 +332,7 @@
       <Position>FINE_SCRUBBING</Position>
       <TranslationSet>
         <base loc="en">Fine Scrubbing</base>
-        <tran loc="es">Barrido preciso</tran>
+        <tran loc="es-419">Barrido preciso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -340,7 +340,7 @@
       <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_WIFI</Position>
       <TranslationSet>
         <base loc="en">Connect to a Wi-Fi network to create a Genius Playlist.</base>
-        <tran loc="es">Conéctate a una red Wi-Fi para crear una lista Genius.</tran>
+        <tran loc="es-419">Conéctate a una red Wi-Fi para crear una playlist Genius.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -348,7 +348,7 @@
       <Position>AIRPLAY_MIRRORING_COMPACT_DESCRIPTION_IPOD</Position>
       <TranslationSet>
         <base loc="en">Mirror your iPod on an Apple TV.</base>
-        <tran loc="es">Duplica la pantalla del iPod en un Apple TV.</tran>
+        <tran loc="es-419">Duplica la pantalla de tu iPod en un Apple TV.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -356,7 +356,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -364,7 +364,7 @@
       <Position>ROUTE_NAME_ARROW_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ → %@</base>
-        <tran loc="es">%@ → %@</tran>
+        <tran loc="es-419">%@ → %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -372,7 +372,7 @@
       <Position>ENABLE_CLOUD_LIBRARY_FAILED_TOO_MANY_ITEMS_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Merging your Libraries would put you over the song limit. Delete songs from this iPod and try again, or delete and replace this Library with your iCloud Music Library.</base>
-        <tran loc="es">Si fusionaras las bibliotecas superarías el límite de canciones. Elimina canciones de este iPod y vuelve a intentarlo, o elimina esta biblioteca y sustitúyela por tu biblioteca de música de iCloud.</tran>
+        <tran loc="es-419">Asociar tus bibliotecas podría rebasar el límite de canciones. Elimina algunas de este iPod y reintenta, o elimina y reemplaza esta biblioteca con tu biblioteca musical de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -380,7 +380,7 @@
       <Position>VIEW</Position>
       <TranslationSet>
         <base loc="en">View</base>
-        <tran loc="es">Ver</tran>
+        <tran loc="es-419">Ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -388,7 +388,7 @@
       <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_SINGLE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Battery: %@</base>
-        <tran loc="es">Batería: %@</tran>
+        <tran loc="es-419">Batería: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -396,7 +396,7 @@
       <Position>CC_SUBTITLE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">%@ CC</base>
-        <tran loc="es">%@ (subtítulos opcionales)</tran>
+        <tran loc="es-419">%@ (subtítulos opcionales)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -404,7 +404,7 @@
       <Position>AIRPLAY_NO_ROUTES_AVAILABLE_LABEL</Position>
       <TranslationSet>
         <base loc="en">No Routes Available</base>
-        <tran loc="es">No hay salidas disponibles</tran>
+        <tran loc="es-419">Sin rutas disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -412,7 +412,7 @@
       <Position>AIRPLAY_MIRRORING_OFF_ACTION_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone (AirPlay Mirroring Off)</base>
-        <tran loc="es">iPhone (duplicación AirPlay desactivada)</tran>
+        <tran loc="es-419">Duplicación AirPlay: No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -420,7 +420,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -428,7 +428,7 @@
       <Position>GENIUS_MIX_OFFLINE</Position>
       <TranslationSet>
         <base loc="en">Offline</base>
-        <tran loc="es">Sin conexión</tran>
+        <tran loc="es-419">Sin conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -436,7 +436,7 @@
       <Position>AIRPLAY_MIRRORING_COMPACT_DESCRIPTION_IPAD</Position>
       <TranslationSet>
         <base loc="en">Mirror your iPad on an Apple TV.</base>
-        <tran loc="es">Duplica la pantalla del iPad en un Apple TV.</tran>
+        <tran loc="es-419">Duplica la pantalla de tu iPad en un Apple TV.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -444,7 +444,7 @@
       <Position>ROUTING_VIEW_SHARE_AUDIO_DISABLED_CARKIT_SAME_OWNER</Position>
       <TranslationSet>
         <base loc="en">Sharing audio with more than one user is not available while connected to car Bluetooth.</base>
-        <tran loc="es">No puedes compartir audio con más de un usuario mientras estés conectado a la función Bluetooth del coche.</tran>
+        <tran loc="es-419">No se puede compartir audio con más de un usuario al estar conectado al Bluetooth del auto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -452,7 +452,7 @@
       <Position>DETAIL_SCRUB_INSTRUCTIONS</Position>
       <TranslationSet>
         <base loc="en">Slide your finger down to adjust the scrubbing rate.</base>
-        <tran loc="es">Desliza el dedo hacia abajo para ajustar la velocidad del barrido.</tran>
+        <tran loc="es-419">Desliza el dedo para ajustar la velocidad del barrido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -460,7 +460,7 @@
       <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_WLAN</Position>
       <TranslationSet>
         <base loc="en">Connect to a WLAN to create a Genius Playlist.</base>
-        <tran loc="es">Conéctate a una red WLAN para crear una lista Genius.</tran>
+        <tran loc="es-419">Para crear una playlist Genius, conéctate por WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -468,7 +468,7 @@
       <Position>EXPLICIT_CONTENT_NOT_ALLOWED_DUE_TO_RESTRICTIONS_%@</Position>
       <TranslationSet>
         <base loc="en">Explicit content is restricted on this %@.</base>
-        <tran loc="es">El contenido explícito está restringido en este %@.</tran>
+        <tran loc="es-419">El contenido explícito está restringido en este %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -476,7 +476,7 @@
       <Position>PROGRESS_TIME_SHORT_WIDTH_HOURS_FORMAT_%@_%d_%d_%d</Position>
       <TranslationSet>
         <base loc="en">%@%d:%02d:%02d</base>
-        <tran loc="es">%@%d:%02d:%02d</tran>
+        <tran loc="es-419">%@%d:%02d:%02d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -484,7 +484,7 @@
       <Position>AIRPLAY_MIRRORING_IPHONE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">With AirPlay Mirroring you can send everything on your iPhone’s display to an Apple TV, wirelessly.</base>
-        <tran loc="es">Con la función de duplicación de AirPlay, puedes ver en el Apple TV todo lo que veas en la pantalla del iPhone, de forma inalámbrica.</tran>
+        <tran loc="es-419">Con la duplicación de AirPlay, puedes transmitir la pantalla de tu iPhone a tu Apple TV de forma inalámbrica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -492,7 +492,7 @@
       <Position>HDCP_PROTECTION_ERROR_BODY</Position>
       <TranslationSet>
         <base loc="en">The connected display is not authorized to play protected movies.</base>
-        <tran loc="es">La pantalla conectada no tiene autorización para reproducir películas protegidas.</tran>
+        <tran loc="es-419">La pantalla conectada no tiene autorización para reproducir películas protegidas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -500,7 +500,7 @@
       <Position>ROUTING_SPEAKER_HIJACK_NAG_MULTITASK_SPEAKER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Replace what is playing on this speaker?</base>
-        <tran loc="es">¿Reemplazar lo que se está reproduciendo en este altavoz?</tran>
+        <tran loc="es-419">¿Reemplazar lo que se está reproduciendo en esta bocina?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -508,7 +508,7 @@
       <Position>NOT_FOUND</Position>
       <TranslationSet>
         <base loc="en">The requested ID could not be found</base>
-        <tran loc="es">No se ha encontrado el identificador solicitado</tran>
+        <tran loc="es-419">No se encontró el ID solicitado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -516,7 +516,7 @@
       <Position>GENIUS_FEATURE_NOT_AVAILABLE_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Genius Playlists are not enabled.\nUse iTunes to enable Genius Playlists.</base>
-        <tran loc="es">No tienes activadas las listas Genius.\nPara activarlas, usa iTunes.</tran>
+        <tran loc="es-419">Las playlists Genius no están activadas.\nUsa iTunes para activarlas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -524,7 +524,7 @@
       <Position>AIRTUNES_VIDEO_PLACEHOLDER_SUBTITLE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">This video is playing on “%@”.</base>
-        <tran loc="es">Este vídeo se está reproduciendo en “%@”.</tran>
+        <tran loc="es-419">Este video se está reproduciendo en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -532,7 +532,7 @@
       <Position>PROGRESS_TIME_ALT_SHORT_WIDTH_HOURS_FORMAT_%@_%d_%d</Position>
       <TranslationSet>
         <base loc="en">%@%d:%02dh</base>
-        <tran loc="es">%@%d:%02dh</tran>
+        <tran loc="es-419">%@%d:%02dh</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -540,7 +540,7 @@
       <Position>NO_VOLUME_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">No Volume Available</base>
-        <tran loc="es">Volumen no disponible</tran>
+        <tran loc="es-419">Volumen no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -548,7 +548,7 @@
       <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_CELLULAR</Position>
       <TranslationSet>
         <base loc="en">Connect to a cellular network to create a Genius Playlist.</base>
-        <tran loc="es">Conéctate a una red móvil para crear una lista Genius.</tran>
+        <tran loc="es-419">Conéctate a una red celular para crear una playlist Genius.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -556,7 +556,7 @@
       <Position>AIRPLAY_MIRRORING_ENABLED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Mirroring</base>
-        <tran loc="es">Duplicación</tran>
+        <tran loc="es-419">Duplicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -564,7 +564,7 @@
       <Position>LIVE</Position>
       <TranslationSet>
         <base loc="en">Live</base>
-        <tran loc="es">En directo</tran>
+        <tran loc="es-419">En vivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -572,7 +572,7 @@
       <Position>FOR_YOU_PERSONAL_MIXES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Personal Mixes</base>
-        <tran loc="es">Mezclas personales</tran>
+        <tran loc="es-419">Mezclas personales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -580,7 +580,7 @@
       <Position>ROUTING_SPEAKER_HIJACK_NAG_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Replace</base>
-        <tran loc="es">Reemplazar</tran>
+        <tran loc="es-419">Reemplazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -588,7 +588,7 @@
       <Position>EXPLICIT_CONTENT_NOT_ALLOWED_DUE_TO_SWITCH</Position>
       <TranslationSet>
         <base loc="en">To listen to this station, you must allow explicit tracks for iTunes Radio.</base>
-        <tran loc="es">Para escuchar esta emisora, debes permitir el contenido explícito para iTunes Radio.</tran>
+        <tran loc="es-419">Para escuchar esta estación, debes permitir las pistas explícitas en iTunes Radio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -596,7 +596,7 @@
       <Position>ROUTING_VIEW_HEADER_HEADPHONES</Position>
       <TranslationSet>
         <base loc="en">HEADPHONES</base>
-        <tran loc="es">AURICULARES</tran>
+        <tran loc="es-419">AUDÍFONOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -604,7 +604,7 @@
       <Position>PROGRESS_TIME_SHORT_WIDTH_NO_HOURS_FORMAT_%@_%d_%d</Position>
       <TranslationSet>
         <base loc="en">%@%d:%02d</base>
-        <tran loc="es">%@%d:%02d</tran>
+        <tran loc="es-419">%@%d:%02d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -612,7 +612,7 @@
       <Position>UNKNOWN_ERROR</Position>
       <TranslationSet>
         <base loc="en">An unknown error occurred.</base>
-        <tran loc="es">Se ha producido un error desconocido.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -620,7 +620,7 @@
       <Position>AIRPLAY_IN_USE_ON_PAIRED_DEVICE_%@</Position>
       <TranslationSet>
         <base loc="en">In Use on %@</base>
-        <tran loc="es">En uso en “%@”</tran>
+        <tran loc="es-419">Se está usando en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -628,7 +628,7 @@
       <Position>ROUTING_SPEAKER_HIJACK_NAG_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -636,7 +636,7 @@
       <Position>TCC_EXPIRATION_REJECT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -644,7 +644,7 @@
       <Position>TCC_EXPIRATION_ACCEPT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Keep Sharing</base>
-        <tran loc="es">Seguir compartiendo</tran>
+        <tran loc="es-419">Seguir compartiendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -652,7 +652,7 @@
       <Position>TCC_EXPIRATION_MULTIPLE_APPS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Keep sharing your music and video activity with these apps so you can use them with Apple Music:</base>
-        <tran loc="es">Sigue compartiendo tu actividad de música y vídeos con estas apps para poder usarlas con Apple Music:</tran>
+        <tran loc="es-419">Sigue compartiendo tu actividad de reproducción de música y video con las siguientes apps para poder usarlas con Apple Music.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -660,7 +660,7 @@
       <Position>ROUTING_SPEAKER_HIJACK_NAG_MULTITASK_SPEAKER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Selecting this speaker will pause what it is currently playing and play the selected content.</base>
-        <tran loc="es">Al seleccionar este altavoz, se pondrá en pausa la reproducción actual y se reproducirá el contenido seleccionado.</tran>
+        <tran loc="es-419">Al seleccionar esta bocina, pausarás lo que se está reproduciendo actualmente para poner el contenido seleccionado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -668,7 +668,7 @@
       <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_ALL</Position>
       <TranslationSet>
         <base loc="en">Connect to a Wi-Fi or cellular network to create a Genius Playlist.</base>
-        <tran loc="es">Conéctate a una red móvil o Wi-Fi para crear una lista Genius.</tran>
+        <tran loc="es-419">Conéctate a una red celular o Wi-Fi para crear una playlist Genius.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -676,7 +676,7 @@
       <Position>AIRPLAY_DEVICE_BATTERY_LEVEL_CASE_%@</Position>
       <TranslationSet>
         <base loc="en">Case: %@</base>
-        <tran loc="es">Estuche: %@</tran>
+        <tran loc="es-419">Estuche: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -684,7 +684,7 @@
       <Position>EXPIRED</Position>
       <TranslationSet>
         <base loc="en">Expired</base>
-        <tran loc="es">Ha caducado</tran>
+        <tran loc="es-419">Venció</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -692,7 +692,7 @@
       <Position>AIRPLAY_MIRRORING_IPOD_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">With AirPlay Mirroring you can send everything on your iPod’s display to an Apple TV, wirelessly.</base>
-        <tran loc="es">Con la función de duplicación de AirPlay, puedes ver en el Apple TV todo lo que veas en la pantalla del iPod, de forma inalámbrica.</tran>
+        <tran loc="es-419">Con la duplicación de AirPlay, puedes transmitir la pantalla de tu iPod a tu Apple TV de forma inalámbrica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -700,7 +700,7 @@
       <Position>AUDIO_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Audio Device</base>
-        <tran loc="es">Dispositivo de audio</tran>
+        <tran loc="es-419">Dispositivo de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -708,7 +708,7 @@
       <Position>CAPABILITY_MISSING</Position>
       <TranslationSet>
         <base loc="en">The requested operation is not enabled for this device.</base>
-        <tran loc="es">La operación solicitada no está activada en este dispositivo.</tran>
+        <tran loc="es-419">La operación solicitada no es compatible con este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -716,7 +716,7 @@
       <Position>MEDIAPICKER_NAVIGATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Library</base>
-        <tran loc="es">Biblioteca</tran>
+        <tran loc="es-419">Biblioteca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -724,7 +724,7 @@
       <Position>AUDIO_2013</Position>
       <TranslationSet>
         <base loc="en">AUDIO</base>
-        <tran loc="es">AUDIO</tran>
+        <tran loc="es-419">AUDIO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -732,7 +732,7 @@
       <Position>ENABLE_CLOUD_LIBRARY_FAILED_BODY</Position>
       <TranslationSet>
         <base loc="en">Your iCloud Music Library is temporarily unavailable. Try enabling it again later in Settings.</base>
-        <tran loc="es">Tu biblioteca de música de iCloud no está disponible temporalmente. Intenta activarla más tarde en Ajustes.</tran>
+        <tran loc="es-419">Tu biblioteca musical de iCloud no está disponible temporalmente. Intenta activarla después en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -740,7 +740,7 @@
       <Position>GENIUS_PICKER_NO_RESULTS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This song does not have enough related songs to create a Genius Playlist.</base>
-        <tran loc="es">Esta canción no tiene suficientes canciones relacionadas para crear una lista Genius.</tran>
+        <tran loc="es-419">Esta canción no tiene suficientes canciones relacionadas para crear una playlist Genius.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -748,7 +748,7 @@
       <Position>AIRPLAY_BUSY_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">“%@” is being used by someone else.</base>
-        <tran loc="es">Otra persona está usando “%@”.</tran>
+        <tran loc="es-419">Otra persona está usando “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -756,7 +756,7 @@
       <Position>AIRTUNES_PASSWORD_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay Password</base>
-        <tran loc="es">Contraseña de AirPlay</tran>
+        <tran loc="es-419">Contraseña de AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -764,7 +764,7 @@
       <Position>POSITION_IN_PLAYLIST_ATTRIBUTED_FORMAT_%d_%d</Position>
       <TranslationSet>
         <base loc="en">#%1$d# of #%2$d#</base>
-        <tran loc="es">#%1$d# de #%2$d#</tran>
+        <tran loc="es-419">#%1$d# de #%2$d#</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -772,7 +772,7 @@
       <Position>AIRTUNES_PIN_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay Code</base>
-        <tran loc="es">Código de AirPlay</tran>
+        <tran loc="es-419">Código de AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -780,7 +780,7 @@
       <Position>AIRPLAY_DEBUG_LABEL</Position>
       <TranslationSet>
         <base loc="en">Report a Problem</base>
-        <tran loc="es">Señalar problema</tran>
+        <tran loc="es-419">Reportar un problema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -788,7 +788,7 @@
       <Position>SUBTITLE_TRACK_DISPLAY_FORMAT_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%@ (%@)</base>
-        <tran loc="es">%@ (%@)</tran>
+        <tran loc="es-419">%@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -796,7 +796,7 @@
       <Position>AIRTUNES_PASSCODE_ALERT_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">code</base>
-        <tran loc="es">código</tran>
+        <tran loc="es-419">código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -804,7 +804,7 @@
       <Position>NETWORK_FAILED</Position>
       <TranslationSet>
         <base loc="en">Could not connect to the iTunes Store.</base>
-        <tran loc="es">No se ha podido establecer conexión con iTunes Store.</tran>
+        <tran loc="es-419">Error al conectarse a iTunes Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -812,7 +812,7 @@
       <Position>NOW_PLAYING_SIRI_SUGGESTION</Position>
       <TranslationSet>
         <base loc="en">%@  |  Siri Suggestion</base>
-        <tran loc="es">%@  |  Sugerencia de Siri</tran>
+        <tran loc="es-419">%@  |  Sugerencia de Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -820,7 +820,7 @@
       <Position>UNKNOWN_LANGUAGE</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -828,7 +828,7 @@
       <Position>UNKNOWN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -836,7 +836,7 @@
       <Position>AIRTUNES_PIN_ALERT_MESSAGE_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Enter the onscreen code for “%@”</base>
-        <tran loc="es">Introduce el código de la pantalla de “%@”</tran>
+        <tran loc="es-419">Ingresa el código de la pantalla de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -844,7 +844,7 @@
       <Position>HALF_SPEED_SCRUBBING</Position>
       <TranslationSet>
         <base loc="en">Half-Speed Scrubbing</base>
-        <tran loc="es">Barrido al 50 % de la velocidad</tran>
+        <tran loc="es-419">Barrido al 50% de la velocidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -852,7 +852,7 @@
       <Position>AIRPLAY_BUSY_ATV_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Apple TV Not Available</base>
-        <tran loc="es">Apple TV no disponible</tran>
+        <tran loc="es-419">Apple TV no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -860,7 +860,7 @@
       <Position>COULD_NOT_LOAD_MOVIE_ERROR_FMT_%@</Position>
       <TranslationSet>
         <base loc="en">%@</base>
-        <tran loc="es">%@</tran>
+        <tran loc="es-419">%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -868,7 +868,7 @@
       <Position>ROUTE_NAME_PLUS_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en"> + </base>
-        <tran loc="es"> + </tran>
+        <tran loc="es-419"> y </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -876,7 +876,7 @@
       <Position>LOADING_AUDIO_LABEL</Position>
       <TranslationSet>
         <base loc="en">Loading\U2026</base>
-        <tran loc="es">Cargando\U2026</tran>
+        <tran loc="es-419">Cargando\U2026</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -884,7 +884,7 @@
       <Position>LOADING_MOVIE_LABEL</Position>
       <TranslationSet>
         <base loc="en">Loading\U2026</base>
-        <tran loc="es">Cargando\U2026</tran>
+        <tran loc="es-419">Cargando\U2026</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -892,7 +892,7 @@
       <Position>HI_SPEED_SCRUBBING</Position>
       <TranslationSet>
         <base loc="en">Hi-Speed Scrubbing</base>
-        <tran loc="es">Barrido de alta velocidad</tran>
+        <tran loc="es-419">Barrido de alta velocidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -900,7 +900,7 @@
       <Position>PROGRESS_TIME_FULL_WIDTH_HOURS_FORMAT_%@_%d_%d_%d</Position>
       <TranslationSet>
         <base loc="en">%@%02d:%02d:%02d</base>
-        <tran loc="es">%@%02d:%02d:%02d</tran>
+        <tran loc="es-419">%@%02d:%02d:%02d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>AIRPLAY_MIRRORING_OFF_ACTION</Position>
       <TranslationSet>
         <base loc="en">Turn Off AirPlay Mirroring</base>
-        <tran loc="es">Desactivar duplicación</tran>
+        <tran loc="es-419">Desactivar duplicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>PLAY_WHILE_DOWNLOAD_STATUS</Position>
       <TranslationSet>
         <base loc="en">Playing</base>
-        <tran loc="es">Reproduciendo</tran>
+        <tran loc="es-419">Reproduciendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -924,7 +924,7 @@
       <Position>DEFAULT_GENIUS_PLAYLIST_NAME</Position>
       <TranslationSet>
         <base loc="en">Genius Playlist</base>
-        <tran loc="es">Lista Genius</tran>
+        <tran loc="es-419">Playlist Genius</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -933,7 +933,7 @@
       <Position>TCC_EXPIRATION_SINGLE_APP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Keep sharing your music and video activity with %@ so you can use it with Apple Music.</base>
-        <tran loc="es">Sigue compartiendo tu actividad de música y vídeos con la app %@ para poder usarla con Apple Music.</tran>
+        <tran loc="es-419">Sigue compartiendo tu actividad de reproducción de música y video con %@ para poder usarla con Apple Music.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -941,7 +941,7 @@
       <Position>GENIUS_FEATURE_NOT_AVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Genius Playlists</base>
-        <tran loc="es">Listas Genius</tran>
+        <tran loc="es-419">Playlists Genius</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -949,7 +949,7 @@
       <Position>GENIUS_PLAYLIST_OFFLINE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Genius Playlists</base>
-        <tran loc="es">Listas Genius</tran>
+        <tran loc="es-419">Playlists Genius</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -957,7 +957,7 @@
       <Position>ROUTING_VIEW_SHARE_AUDIO</Position>
       <TranslationSet>
         <base loc="en">Share Audio…</base>
-        <tran loc="es">Compartir audio…</tran>
+        <tran loc="es-419">Compartir audio…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -965,7 +965,7 @@
       <Position>TVOUT_PLACEHOLDER_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">This video is playing on the TV.</base>
-        <tran loc="es">El vídeo se está reproduciendo en el televisor.</tran>
+        <tran loc="es-419">El video se está reproduciendo en la televisión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -973,7 +973,7 @@
       <Position>PERMISSION_DENIED</Position>
       <TranslationSet>
         <base loc="en">The requesting app does not have the necessary permissions</base>
-        <tran loc="es">La app que realiza la solicitud no dispone de los permisos necesarios</tran>
+        <tran loc="es-419">La app solicitante no cuenta con los permisos necesarios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -981,7 +981,7 @@
       <Position>TVOUT_PLACEHOLDER_TITLE</Position>
       <TranslationSet>
         <base loc="en">TV Connected</base>
-        <tran loc="es">Televisor conectado</tran>
+        <tran loc="es-419">Televisión conectada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -989,7 +989,7 @@
       <Position>PROGRESS_TIME_MINUTES_ONLY_FORMAT_%d</Position>
       <TranslationSet>
         <base loc="en">%dm</base>
-        <tran loc="es">%d m</tran>
+        <tran loc="es-419">%d m</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +997,7 @@
       <Position>ENABLE_CLOUD_LIBRARY_FAILED_TOO_MANY_ITEMS_MESSAGE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Merging your Libraries would put you over the song limit. Delete songs from this iPad and try again, or delete and replace this Library with your iCloud Music Library.</base>
-        <tran loc="es">Si fusionaras las bibliotecas superarías el límite de canciones. Elimina canciones de este iPad y vuelve a intentarlo, o elimina esta biblioteca y sustitúyela por tu biblioteca de música de iCloud.</tran>
+        <tran loc="es-419">Asociar tus bibliotecas podría rebasar el límite de canciones. Elimina algunas de este iPad y reintenta, o elimina y reemplaza esta biblioteca con tu biblioteca musical de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1005,7 +1005,7 @@
       <Position>AIRPLAY_BUSY_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay Speaker Not Available</base>
-        <tran loc="es">Altavoz AirPlay no disponible</tran>
+        <tran loc="es-419">Bocina de AirPlay no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1013,7 +1013,7 @@
       <Position>ROUTING_VIEW_SHARE_AUDIO_DISABLED_CARPLAY_SAME_OWNER</Position>
       <TranslationSet>
         <base loc="en">Sharing audio with more than one user is not available while connected to CarPlay.</base>
-        <tran loc="es">No puedes compartir audio con más de un usuario mientras estés conectado a CarPlay.</tran>
+        <tran loc="es-419">No se puede compartir audio con más de un usuario al estar conectado a CarPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1021,7 +1021,7 @@
       <Position>AIRPLAY_MIRRORING_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay Mirroring</base>
-        <tran loc="es">Duplicación AirPlay</tran>
+        <tran loc="es-419">Duplicación AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@
       <Position>VOLUME</Position>
       <TranslationSet>
         <base loc="en">Volume</base>
-        <tran loc="es">Volumen</tran>
+        <tran loc="es-419">Volumen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@
       <Position>AIRTUNES_VIDEO_ALERT_BODY_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">Cannot play video on “%@”.</base>
-        <tran loc="es">No se puede reproducir el vídeo en “%@”.</tran>
+        <tran loc="es-419">No se puede reproducir el video en “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@
       <Position>EXPLICIT_CONTENT_NOT_ALLOWED_SETTINGS_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1053,7 @@
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1061,7 @@
       <Position>AIRPLAY_MIRRORING_DISCOVERING_STATUS</Position>
       <TranslationSet>
         <base loc="en">Looking for Apple TV…</base>
-        <tran loc="es">Buscando un Apple TV…</tran>
+        <tran loc="es-419">Buscando un Apple TV…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1069,7 @@
       <Position>GENIUS_PLAYLIST_OFFLINE_SUBTITLE_ALL_WLAN</Position>
       <TranslationSet>
         <base loc="en">Connect to a WLAN or cellular network to create a Genius Playlist.</base>
-        <tran loc="es">Conéctate a una red móvil o WLAN para crear una lista Genius.</tran>
+        <tran loc="es-419">Conéctate a una red celular o WLAN para crear una playlist Genius.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1077,7 +1077,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1085,7 +1085,7 @@
       <Position>ROUTING_VIEW_SHARE_AUDIO_DISABLED_CARKIT</Position>
       <TranslationSet>
         <base loc="en">Not available in the Car</base>
-        <tran loc="es">No disponible en el coche</tran>
+        <tran loc="es-419">No está disponible en el auto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1093,7 +1093,7 @@
       <Position>STREAMING_AUDIO_LABEL</Position>
       <TranslationSet>
         <base loc="en">Streaming\U2026</base>
-        <tran loc="es">Transmitiendo\U2026</tran>
+        <tran loc="es-419">Transmisión\U2026</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1104,7 +1104,7 @@
       <Position>/ROUTE_NAME_PLUS_COUNT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%@%#@routenames@</base>
-        <tran loc="es">%@%#@routenames@</tran>
+        <tran loc="es-419">%@%#@routenames@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1112,7 @@
       <Position>/ROUTE_NAME_HEADPHONES_COUNT:dict/headphonescount:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Headphone</base>
-        <tran loc="es">%lu auricular</tran>
+        <tran loc="es-419">%lu audífono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1120,7 @@
       <Position>/ROUTE_NAME_HEADPHONES_COUNT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@headphonescount@</base>
-        <tran loc="es">%#@headphonescount@</tran>
+        <tran loc="es-419">%#@headphonescount@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1128,7 @@
       <Position>/ROUTE_NAME_HEADPHONES_COUNT:dict/headphonescount:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu Headphones</base>
-        <tran loc="es">%lu auriculares</tran>
+        <tran loc="es-419">%lu audífonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1136,7 @@
       <Position>/ROUTE_NAME_PLUS_COUNT:dict/routenames:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en"> + %lu</base>
-        <tran loc="es"> + %lu</tran>
+        <tran loc="es-419"> + %lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1144,7 @@
       <Position>/ROUTE_NAME_PLUS_COUNT:dict/routenames:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en"> + %lu</base>
-        <tran loc="es"> + %lu</tran>
+        <tran loc="es-419"> + %lu</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1152,7 @@
       <Position>/ROUTE_NAME_PLUS_COUNT:dict/routenames:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/ROUTE_NAME_PLUS_COUNT:dict/routenames:dict/zero:dict/:string)</base>
-        <tran loc="es">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/ROUTE_NAME_PLUS_COUNT:dict/routenames:dict/zero:dict/:string)</tran>
+        <tran loc="es-419">__Source_text_is_empty__Translate_Or_Leave_this_text_as_is_if_target_text_is_also_empty__(/ROUTE_NAME_PLUS_COUNT:dict/routenames:dict/zero:dict/:string)</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1163,7 +1163,7 @@
       <Position>DELETE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1171,7 +1171,7 @@
       <Position>REMOTE_CONTROL_LIKE_TRACK_SHORT</Position>
       <TranslationSet>
         <base loc="en">Like</base>
-        <tran loc="es">Me gusta</tran>
+        <tran loc="es-419">Me gusta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1179,7 +1179,7 @@
       <Position>PLAYBACK_FAILURE_NETWORK_RESTRICTION_MESSAGE_CELL_WLAN</Position>
       <TranslationSet>
         <base loc="en">To play Radio when you aren’t connected to WLAN, enable cellular playback in Music in the Settings app.</base>
-        <tran loc="es">Para reproducir la radio cuando no estés conectado a una red WLAN, activa la reproducción a través de la red móvil en la sección Música de la app Ajustes.</tran>
+        <tran loc="es-419">Para reproducir Radio sin tener conexión WLAN, activa la reproducción con datos en Música en la app Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1187,7 +1187,7 @@
       <Position>ADD_STATION_FAILED_ALBUM_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A station cannot be started with this album.</base>
-        <tran loc="es">No se puede iniciar una emisora con este álbum.</tran>
+        <tran loc="es-419">No se puede iniciar una estación con este álbum.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1195,7 +1195,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1203,7 +1203,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1211,7 +1211,7 @@
       <Position>ADD_STATION_FAILED_ARTIST_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A station cannot be started with this artist.</base>
-        <tran loc="es">No se puede iniciar una emisora con este artista.</tran>
+        <tran loc="es-419">No se puede iniciar una estación con este artista.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1219,7 +1219,7 @@
       <Position>ADD_STATION_FAILED_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">A station cannot be started with this song.</base>
-        <tran loc="es">No se puede iniciar una emisora con esta canción.</tran>
+        <tran loc="es-419">No se puede iniciar una estación con esta canción.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1227,7 +1227,7 @@
       <Position>PLAYBACK_TIMEOUT_ALERT_BUTTON_CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1235,7 +1235,7 @@
       <Position>PLAYBACK_FAILURE_NETWORK_RESTRICTION_MESSAGE_CELL_WIFI</Position>
       <TranslationSet>
         <base loc="en">To play Radio when you aren’t connected to Wi-Fi, enable cellular playback in Music in the Settings app.</base>
-        <tran loc="es">Para reproducir la radio cuando no estés conectado a una red Wi-Fi, activa la reproducción a través de la red móvil en la sección Música de la app Ajustes.</tran>
+        <tran loc="es-419">Para reproducir Radio sin tener conexión Wi-Fi, activa la reproducción con datos en Música en la app Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1243,7 +1243,7 @@
       <Position>ADD_STATION_FAILED_TEMPORARY_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">There was a problem starting the station. Try again later.</base>
-        <tran loc="es">Ha habido un problema al iniciar la emisora. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Ocurrió un problema al iniciar la estación. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1251,7 +1251,7 @@
       <Position>PLAYBACK_FAILURE_NETWORK_RESTRICTION_TITLE_WLAN</Position>
       <TranslationSet>
         <base loc="en">Connect to WLAN to play Radio.</base>
-        <tran loc="es">Conéctate a una red WLAN para reproducir la radio.</tran>
+        <tran loc="es-419">Para reproducir Radio, conéctate a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1259,7 +1259,7 @@
       <Position>PLAYBACK_FAILURE_NETWORK_RESTRICTION_TITLE_WIFI</Position>
       <TranslationSet>
         <base loc="en">Connect to Wi-Fi to play Radio.</base>
-        <tran loc="es">Conéctate a una red Wi-Fi para reproducir la radio.</tran>
+        <tran loc="es-419">Para reproducir Radio, conéctate a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1267,7 +1267,7 @@
       <Position>PLAYBACK_TIMEOUT_ALERT_BUTTON_STOP</Position>
       <TranslationSet>
         <base loc="en">Stop</base>
-        <tran loc="es">Detener</tran>
+        <tran loc="es-419">Detener</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1275,7 +1275,7 @@
       <Position>REMOTE_CONTROL_DISLIKE_TRACK_RADIO</Position>
       <TranslationSet>
         <base loc="en">Play Less Like This</base>
-        <tran loc="es">Reproducir distintas</tran>
+        <tran loc="es-419">Evitar similares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1283,7 +1283,7 @@
       <Position>PLAYBACK_FAILURE_LOCATION_RESTRICTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">This radio station is not currently available in your country or region.</base>
-        <tran loc="es">Esta emisora de radio no está disponible actualmente en tu país o región.</tran>
+        <tran loc="es-419">Esta estación de radio no está disponible actualmente en tu país o región.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1291,7 +1291,7 @@
       <Position>ADD_STATION_FAILED_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to Start Station</base>
-        <tran loc="es">Imposible iniciar la emisora</tran>
+        <tran loc="es-419">No se pudo iniciar la estación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1299,7 +1299,7 @@
       <Position>PLAYBACK_TIMEOUT_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Still Listening to\niTunes Radio?</base>
-        <tran loc="es">¿Seguir escuchando\niTunes Radio?</tran>
+        <tran loc="es-419">¿Seguir escuchando\niTunes Radio?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1307,7 +1307,7 @@
       <Position>REMOTE_CONTROL_LIKE_TRACK_RADIO</Position>
       <TranslationSet>
         <base loc="en">Play More Like This</base>
-        <tran loc="es">Reproducir parecidas</tran>
+        <tran loc="es-419">Reproducir similares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1315,7 +1315,7 @@
       <Position>REMOTE_CONTROL_DISLIKE_TRACK_SHORT</Position>
       <TranslationSet>
         <base loc="en">Never Play</base>
-        <tran loc="es">No reproducir</tran>
+        <tran loc="es-419">Tocar nunca</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1326,7 +1326,7 @@
       <Position>LANGUAGE_OPTIONS_AUTO_SELECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Auto</base>
-        <tran loc="es">Automático</tran>
+        <tran loc="es-419">Automático</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1334,7 +1334,7 @@
       <Position>LANGUAGE_OPTIONS_SUBTITLE_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Subtitles</base>
-        <tran loc="es">Subtítulos</tran>
+        <tran loc="es-419">Subtítulos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1342,7 +1342,7 @@
       <Position>LANGUAGE_OPTIONS_AUDIO_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Audio</base>
-        <tran loc="es">Audio</tran>
+        <tran loc="es-419">Audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1356,7 +1356,7 @@
       <Position>LANGUAGE_OPTIONS_EMPTY_SELECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>

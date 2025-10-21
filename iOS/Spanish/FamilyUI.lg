@@ -8,7 +8,7 @@
       <Position>SHARED_SUBSCRIPTION_GROUP_HEADER</Position>
       <TranslationSet>
         <base loc="en">Shared Features</base>
-        <tran loc="es">Funciones compartidas</tran>
+        <tran loc="es-419">Funciones compartidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>FOLLOWUP_INVITE_PRIMARY</Position>
       <TranslationSet>
         <base loc="en">View Invitation</base>
-        <tran loc="es">Ver invitación</tran>
+        <tran loc="es-419">Ver invitación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>FAMILY_SETUP_APPLE_ID_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Family Sharing requires everyone to use their own Apple ID. This ensures purchases, photos, comments, and more are attributed to the right people.\n\nTo switch to your personal Apple ID, go to iCloud Settings, sign out, and then sign in with the correct Apple ID.</base>
-        <tran loc="es">Para usar “En familia”, cada miembro debe utilizar su propio ID de Apple para garantizar que las compras, fotos, comentarios y demás se atribuyan a las personas correctas.\n\nPara cambiar a tu ID de Apple personal, ve a los ajustes de iCloud, cierra la sesión actual e inicia una nueva con el ID de Apple correcto.</tran>
+        <tran loc="es-419">"Compartir en familia" requiere que todos usen su propio Apple ID. Esto asegura que las compras, fotos, comentarios, etc. se comparten y asignan a la gente adecuada.\n\nPara cambiar a tu Apple ID personal, ve a Configuración de iCloud, cierra la sesión y luego iníciala con el Apple ID correcto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>PROFILE_TAKE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Take Photo</base>
-        <tran loc="es">Hacer foto</tran>
+        <tran loc="es-419">Tomar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>FAMILY_SHARE_MUSIC_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Share a family membership to Apple Music.</base>
-        <tran loc="es">Comparte una suscripción familiar a Apple Music.</tran>
+        <tran loc="es-419">Compartir una membresía familiar de Apple Music.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>FAMILY_SHARE_MUSIC_DESCRIPTION_INVITE_CONTEXT</Position>
       <TranslationSet>
         <base loc="en">Share a family membership to Apple Music.</base>
-        <tran loc="es">Compartir una suscripción familiar a Apple Music</tran>
+        <tran loc="es-419">Compartir una membresía familiar de Apple Music.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>INVALID_INVITE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot View Invite</base>
-        <tran loc="es">No se puede ver la invitación</tran>
+        <tran loc="es-419">Imposible ver la invitación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>PROFILE_CHOOSE_PHOTO</Position>
       <TranslationSet>
         <base loc="en">Choose Photo</base>
-        <tran loc="es">Seleccionar foto</tran>
+        <tran loc="es-419">Seleccionar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>FAMILY_SETUP_USE_DIFFERENT_ID_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not %@ or want to use a different ID?</base>
-        <tran loc="es">¿No eres %@ o quieres utilizar otro ID?</tran>
+        <tran loc="es-419">¿No eres %@ o quieres usar un ID diferente?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>FAMILY_INVITATIONS_CELL</Position>
       <TranslationSet>
         <base loc="en">Invitations</base>
-        <tran loc="es">Invitaciones</tran>
+        <tran loc="es-419">Invitaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>FAMILY_INVITATIONS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Invitations</base>
-        <tran loc="es">Invitaciones</tran>
+        <tran loc="es-419">Invitaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>PENDING_INVITE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Respond to Pending Family Invitation?</base>
-        <tran loc="es">¿Responder a la invitación de familia pendiente?</tran>
+        <tran loc="es-419">¿Responder a la invitación de la familia pendiente?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>FAMILY_INVITATION_ACCEPT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>FAMILY_SHARE_PURCHASES_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Share purchased music, movies, TV shows, books, and apps.</base>
-        <tran loc="es">Comparte la música, las películas, los libros y las apps que se hayan comprado.</tran>
+        <tran loc="es-419">Compartir música, películas, programas de TV, apps y libros ya comprados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>FAMILY_SHARE_PURCHASES_DESCRIPTION_INVITE_CONTEXT</Position>
       <TranslationSet>
         <base loc="en">Share purchased music, movies, TV shows, books, and apps.</base>
-        <tran loc="es">Compartir la música, las películas, los libros y las apps que se hayan comprado</tran>
+        <tran loc="es-419">Compartir música, películas, programas de TV, apps y libros ya comprados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>CUSTOMIZE_PARENTAL_RESTRICTIONS</Position>
       <TranslationSet>
         <base loc="en">Customize</base>
-        <tran loc="es">Personalizar</tran>
+        <tran loc="es-419">Personalizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>NO_INVITATIONS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">No pending Family Sharing invitations</base>
-        <tran loc="es">No hay invitaciones pendientes de “En familia”</tran>
+        <tran loc="es-419">No quedan invitaciones pendientes de "Compartir en familia".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>FAMILY_SETTINGS_PAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Family</base>
-        <tran loc="es">Familia</tran>
+        <tran loc="es-419">Familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>FAMILY_CONFIRM_ACCOUNT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Confirm Account</base>
-        <tran loc="es">Confirmar cuenta</tran>
+        <tran loc="es-419">Confirmar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>FAMILY_SETUP_SECOND_PAGE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">As the Family organizer, you can invite family members and agree to pay for Apple Music, TV, Books, and App Store purchases they initiate.</base>
-        <tran loc="es">Como organizador de la familia, puedes invitar a los miembros de la familia y aceptar encargarte del pago de las compras que ellos inicien en Apple Music, TV, Libros y App Store.</tran>
+        <tran loc="es-419">Como organizador de la familia, puedes invitar familiares y aceptar pagar sus compras en Apple Music, TV, Libros y App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>FAMILY_CHILD_TRANSFER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Transfer\n%@?</base>
-        <tran loc="es">¿Transferir a\n%@?</tran>
+        <tran loc="es-419">¿Transferir\n%@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>PENDING_INVITE_RESPOND_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Respond</base>
-        <tran loc="es">Responder</tran>
+        <tran loc="es-419">Responder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>FAMILY_CHILD_TRANSFER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%@ has invited %@ to Family Sharing.</base>
-        <tran loc="es">%@ ha invitado a %@ a “En familia”.</tran>
+        <tran loc="es-419">%@ invitó a %@ a "Compartir en familia".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>FAMILY_TRANSFER_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%@ has invited %@ to Family Sharing.</base>
-        <tran loc="es">%@ ha invitado a %@ a “En familia”.</tran>
+        <tran loc="es-419">%@ invitó a %@ a "Compartir en familia".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>FAMILY_HELP_LOCATE_DEVICES_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Help family members find their missing devices.</base>
-        <tran loc="es">Ayuda a encontrar los dispositivos que hayan perdido los miembros de la familia.</tran>
+        <tran loc="es-419">Ayuda a que tus familiares encuentren sus dispositivos perdidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>FAMILY_HELP_LOCATE_DEVICES_DESCRIPTION_INVITE_CONTEXT</Position>
       <TranslationSet>
         <base loc="en">Help family members find their missing devices.</base>
-        <tran loc="es">Ayudar a encontrar los dispositivos que hayan perdido los miembros de la familia</tran>
+        <tran loc="es-419">Ayuda a que tus familiares encuentren sus dispositivos perdidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>FAMILY_SHARE_PHOTOS_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Share photos and videos in a family photo album.</base>
-        <tran loc="es">Compartir fotos y vídeos en un álbum familiar</tran>
+        <tran loc="es-419">Compartir fotos y videos mediante un álbum familiar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>FAMILY_SHARE_PHOTOS_DESCRIPTION_INVITE_CONTEXT</Position>
       <TranslationSet>
         <base loc="en">Share photos and videos in a family photo album.</base>
-        <tran loc="es">Compartir fotos y vídeos en un álbum familiar</tran>
+        <tran loc="es-419">Compartir fotos y videos mediante un álbum familiar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>FAMILY_CONFIRM_ACCOUNT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Confirm this is the account you want to use for Family Sharing. Your name and photo will be shared with your family.</base>
-        <tran loc="es">Confirma que esta es la cuenta que quieres usar para “En familia”. Tu nombre y foto se compartirán con la familia.</tran>
+        <tran loc="es-419">Confirma que esta es la cuenta que quieres usar para "Compartir en familia". Tu familia verá tu nombre y foto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>SERVER_UNREACHABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to server.</base>
-        <tran loc="es">No se ha podido establecer conexión con el servidor.</tran>
+        <tran loc="es-419">Imposible conectarse al servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>FAMILY_CELL_LABEL</Position>
       <TranslationSet>
         <base loc="en">Family Sharing</base>
-        <tran loc="es">En familia</tran>
+        <tran loc="es-419">Compartir en familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>FAMILY_SETUP_FIRST_PAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Family Sharing</base>
-        <tran loc="es">En familia</tran>
+        <tran loc="es-419">Compartir en familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>PROFILE_NO_PHOTO_SOURCE</Position>
       <TranslationSet>
         <base loc="en">No Photo Sources Available</base>
-        <tran loc="es">Ninguna fuente de fotos disponible</tran>
+        <tran loc="es-419">No hay fuentes disponibles de fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>FAMILY_SETUP_ADD_FAMILY_MEMBER_INSTRUCTIONS</Position>
       <TranslationSet>
         <base loc="en">Enter a family member’s name or email address.</base>
-        <tran loc="es">Introduce el nombre o la dirección de correo de un miembro de la familia.</tran>
+        <tran loc="es-419">Ingresa el nombre o la dirección de correo electrónico de un familiar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>FAMILY_SHARE_LOCATION_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Share your location with family members.</base>
-        <tran loc="es">Comparte tu ubicación con los miembros de la familia.</tran>
+        <tran loc="es-419">Compartir tu ubicación con familiares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>FAMILY_SHARE_LOCATION_DESCRIPTION_INVITE_CONTEXT</Position>
       <TranslationSet>
         <base loc="en">Share your location with family members.</base>
-        <tran loc="es">Compartir la ubicación de los miembros de la familia</tran>
+        <tran loc="es-419">Compartir tu ubicación con familiares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>PENDING_INVITE_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">You have a pending family invitiation. Would you like to respond to this invitation first?</base>
-        <tran loc="es">Tienes una invitación de familia pendiente. ¿Quieres responder primero a esta invitación?</tran>
+        <tran loc="es-419">Tienes pendiente una invitación de familiar. ¿Quieres responder a ella primero?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>FAMILY_SETUP_YOUR_APPLE_ID_TITLE</Position>
       <TranslationSet>
         <base loc="en">Your Apple ID</base>
-        <tran loc="es">Tu ID de Apple</tran>
+        <tran loc="es-419">Tu Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>INVITE_IN_PERSON</Position>
       <TranslationSet>
         <base loc="en">Invite in Person</base>
-        <tran loc="es">Invitar en persona</tran>
+        <tran loc="es-419">Invitar en persona</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>INVALID_INVITE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The invite cannot be viewed from this account.</base>
-        <tran loc="es">No se puede ver la invitación desde esta cuenta.</tran>
+        <tran loc="es-419">No se puede ver la invitación en esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>FAMILY_MEMBER_NAMES_TWO</Position>
       <TranslationSet>
         <base loc="en">%@ and %@</base>
-        <tran loc="es">%@ y %@</tran>
+        <tran loc="es-419">%@ y %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>FAMILY_SETUP_CONTINUE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>FAMILY_SETUP_SHORT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Family Sharing is the easy way to share what’s important with members of your family.</base>
-        <tran loc="es">“En familia” es la forma más fácil de compartir cosas importantes con tus familiares.</tran>
+        <tran loc="es-419">"Compartir en familia" es la manera más fácil de compartir las cosas importantes con tus familiares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>FOLLOWUP_TRANSFER_PRIMARY</Position>
       <TranslationSet>
         <base loc="en">View Transfer</base>
-        <tran loc="es">Ver transferencia</tran>
+        <tran loc="es-419">Ver transferencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>FAMILY_INVITE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%@ (%@) has invited you to Family Sharing.</base>
-        <tran loc="es">%@ (%@) te ha invitado a “En familia”.</tran>
+        <tran loc="es-419">%@ (%@) te invitó a “Compartir en familia”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>FAMILY_SETTINGS_CREATE_CHILD_ACCOUNT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Create an Apple ID for your child.</base>
-        <tran loc="es">Crea un ID de Apple para tu hijo/a.</tran>
+        <tran loc="es-419">Crear un Apple ID para tu hijo(a).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>FAMILY_SETUP_ADD_CHILD_ACCOUNT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Create an Apple ID for your child.</base>
-        <tran loc="es">Crea un ID de Apple para tu hijo/a.</tran>
+        <tran loc="es-419">Crear un Apple ID para tu hijo(a).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>COULD_NOT_CONNECT_TO_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Cannot Connect to iCloud</base>
-        <tran loc="es">Imposible conectarse a iCloud</tran>
+        <tran loc="es-419">Imposible conectarse a iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>FAMILY_MEMBER_NAMES_MANY</Position>
       <TranslationSet>
         <base loc="en">%@, %@, and %@ more</base>
-        <tran loc="es">%@, %@ y %@ más</tran>
+        <tran loc="es-419">%@, %@ y %@ más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>SETUP_FAMILY_SHARING_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Share music, movies, apps, photos, and more with members of your family.</base>
-        <tran loc="es">Comparte música, vídeos, apps, fotos y muchas cosas más con los miembros de tu familia.</tran>
+        <tran loc="es-419">Comparte música, películas, apps, fotos y más con tus familiares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>MOBILEME_CREATE_APPLEID_UNAVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Create Apple ID</base>
-        <tran loc="es">No se puede crear el ID de Apple</tran>
+        <tran loc="es-419">No se puede crear el Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>CLOSE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>FAMILY_INVITATION_PAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Family Sharing Invitation</base>
-        <tran loc="es">Invitación de “En familia”</tran>
+        <tran loc="es-419">Invitación a "Compartir en familia"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>CANT_CREATE_APPLEID_TITLE</Position>
       <TranslationSet>
         <base loc="en">Can’t Create Apple ID</base>
-        <tran loc="es">No se puede crear el ID de Apple</tran>
+        <tran loc="es-419">Imposible crear Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>FAMILY_INVITATION_DECLINE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Decline</base>
-        <tran loc="es">Rechazar</tran>
+        <tran loc="es-419">Rechazar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>SETUP_FAMILY_BUTTON_LABEL</Position>
       <TranslationSet>
         <base loc="en">Set Up Family Sharing</base>
-        <tran loc="es">Configurar “En familia”</tran>
+        <tran loc="es-419">Compartir en familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>SETUP_FAMILY_SHARING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Set Up Family Sharing</base>
-        <tran loc="es">Configurar “En familia”</tran>
+        <tran loc="es-419">Configurar “Compartir en familia”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>FAMILY_SETUP_SECOND_PAGE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Family Setup</base>
-        <tran loc="es">Configuración de la familia</tran>
+        <tran loc="es-419">Configuración de Familia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>FAMILY_SHARE_CALENDAR_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Schedule events on the family calendar.</base>
-        <tran loc="es">Programa eventos en el calendario familiar.</tran>
+        <tran loc="es-419">Programar eventos en el calendario familiar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>FAMILY_SHARE_CALENDAR_DESCRIPTION_INVITE_CONTEXT</Position>
       <TranslationSet>
         <base loc="en">Schedule events on the family calendar.</base>
-        <tran loc="es">Programar eventos en el calendario familiar</tran>
+        <tran loc="es-419">Programar eventos en el calendario familiar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>PENDING_INVITE_NOT_NOW_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>SETUP_FAMILY_NOT_NOW_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>FAMILY_CONFIRM_ACCOUNT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Confirm</base>
-        <tran loc="es">Confirmar</tran>
+        <tran loc="es-419">Confirmar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>FAMILY_INVITATION_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">%@ has invited you to Family Sharing so you and other family members can:</base>
-        <tran loc="es">%@ te ha invitado a “En familia” para que tú y el resto de miembros de la familia podáis:</tran>
+        <tran loc="es-419">%@ te invitó a "Compartir en familia" para que tú y tus familiares puedan:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>FAMILY_SHARING_LEARN_MORE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Learn more about Family Sharing</base>
-        <tran loc="es">Más información</tran>
+        <tran loc="es-419">Más sobre "Compartir en familia"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>GET_STARTED_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Get Started</base>
-        <tran loc="es">Empezar</tran>
+        <tran loc="es-419">Empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>SETUP_FAMILY_YES_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Set Up</base>
-        <tran loc="es">Configurar</tran>
+        <tran loc="es-419">Configurar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>FAMILY_CHILD_TRANSFER_DETAILS</Position>
       <TranslationSet>
         <base loc="en">If you accept this request, %@ will be removed from your family and added to %@’s family. %@ will no longer be able to see and share purchases with your family.</base>
-        <tran loc="es">Si aceptas esta solicitud, se eliminará a %@ de tu familia y se añadirá a la familia de %@. %@ ya no podrá ver ni compartir las compras con tu familia.</tran>
+        <tran loc="es-419">Si aceptas esta solicitud, se quitará a %@ de tu familia y se agregará a la de %@. %@ ya no podrá ver ni compartir compras con tu familia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>SHARED_SUBSCRIPTION_GROUP_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Your family can also share a photo album, a family calendar, or find family devices by asking Siri to ping them or viewing them in Find My.</base>
-        <tran loc="es">La familia también puede compartir un álbum de fotos y un calendario familiar, o buscar los dispositivos de la familia pidiéndole a Siri que los active, o bien, verlos en Buscar.</tran>
+        <tran loc="es-419">Tu familia también puede compartir un álbum de fotos, un calendario familiar y buscar los dispositivos de la familia al pedirle a Siri hacerlos sonar o verlos en Encontrar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>FAMILY_SENT_INVITE_ONE</Position>
       <TranslationSet>
         <base loc="en">1 Invitation Sent</base>
-        <tran loc="es">1 invitación enviada</tran>
+        <tran loc="es-419">1 invitación enviada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>FAMILY_INVITATIONS_TITLE_MANY</Position>
       <TranslationSet>
         <base loc="en">%@ of %@</base>
-        <tran loc="es">%@ de %@</tran>
+        <tran loc="es-419">%@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>INVITE_VIA_MESSAGES</Position>
       <TranslationSet>
         <base loc="en">Invite via iMessage</base>
-        <tran loc="es">Invitar por iMessage</tran>
+        <tran loc="es-419">Invitar por iMessage</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>FAMILY_SHORT_FOOTER_BLURB</Position>
       <TranslationSet>
         <base loc="en">Up to six people from your household can be in a family. Only the organizer can add family members.</base>
-        <tran loc="es">Una familia puede estar formada por hasta seis personas. El organizador es el único que puede añadir miembros a la familia.</tran>
+        <tran loc="es-419">Hasta seis personas de tu hogar pueden ser una familia. Sólo el organizador puede agregar familiares.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -615,7 +615,7 @@
       <Position>FAMILY_MEMBER_ME_MARKER_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ (Me)</base>
-        <tran loc="es">%@ (yo)</tran>
+        <tran loc="es-419">%@ (yo)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -623,7 +623,7 @@
       <Position>FAMILY_SETUP_ADD_PROFILE_PICTURE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">add\nphoto</base>
-        <tran loc="es">añadir\nfoto</tran>
+        <tran loc="es-419">agregar\nfoto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -631,7 +631,7 @@
       <Position>FAMILY_SENT_INVITES_MANY</Position>
       <TranslationSet>
         <base loc="en">%@ Invitations Sent</base>
-        <tran loc="es">%@ invitaciones enviadas</tran>
+        <tran loc="es-419">%@ invitaciones enviadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -639,7 +639,7 @@
       <Position>INVITED</Position>
       <TranslationSet>
         <base loc="en">Invitation Sent</base>
-        <tran loc="es">Invitación enviada</tran>
+        <tran loc="es-419">Invitación enviada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -647,7 +647,7 @@
       <Position>FAMILY_PAYMENT_INFO_HEADER</Position>
       <TranslationSet>
         <base loc="en">Shared payment method</base>
-        <tran loc="es">Método de pago compartido</tran>
+        <tran loc="es-419">Compartir forma de pago</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -655,7 +655,7 @@
       <Position>CREATE_CHILD_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Create a Child Account</base>
-        <tran loc="es">Crear una cuenta para un menor</tran>
+        <tran loc="es-419">Crear una cuenta para niños</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -663,7 +663,7 @@
       <Position>FAMILY_MEMBER_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Family Members</base>
-        <tran loc="es">Miembros de la familia</tran>
+        <tran loc="es-419">Familiares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -671,7 +671,7 @@
       <Position>INVITE_TO_FIELD_LABEL</Position>
       <TranslationSet>
         <base loc="en">To:</base>
-        <tran loc="es">Para:</tran>
+        <tran loc="es-419">Para:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -679,7 +679,7 @@
       <Position>FAILED_TO_LOAD_SERVICES</Position>
       <TranslationSet>
         <base loc="en">Failed to load services</base>
-        <tran loc="es">No se han podido cargar los servicios</tran>
+        <tran loc="es-419">Error al cargar servicios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -687,7 +687,7 @@
       <Position>ADD_FAMILY_MEMBER_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Add Family Member…</base>
-        <tran loc="es">Añadir miembro de la familia…</tran>
+        <tran loc="es-419">Agregar familiar…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +695,7 @@
       <Position>FAMILY_SETUP_APPLE_ID_EXPLANATION_FOR_INVITEE</Position>
       <TranslationSet>
         <base loc="en">Family Sharing requires everyone to use their own Apple ID. This ensures purchases, photos, comments, and more are attributed to the right people.\n\nTo switch to your personal Apple ID, go to iCloud Settings, sign out, and then sign in with the correct Apple ID. Then open the Family Invitation email you received and select Join Family.</base>
-        <tran loc="es">Para usar “En familia”, cada miembro debe utilizar su propio ID de Apple para garantizar que las compras, fotos, comentarios y demás se atribuyan a las personas correctas.\n\nPara cambiar a tu ID de Apple personal, ve a los ajustes de iCloud, cierra la sesión actual e inicia una nueva con el ID de Apple correcto; luego, abre el correo de invitación que has recibido y selecciona “Unirse a la familia”.</tran>
+        <tran loc="es-419">"Compartir en familia" requiere que todos usen su propio Apple ID. Esto asegura que las compras, fotos, comentarios, etc. se comparten y asignan a la gente adecuada.\n\nPara cambiar a tu Apple ID personal, ve a Configuración de iCloud, cierra la sesión y luego iníciala con el Apple ID correcto. A continuación abre el correo electrónico de Invitación y selecciona "Unirse".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +703,7 @@
       <Position>FAMILY_INVITATION_DESCRIPTION_WITH_EMAIL</Position>
       <TranslationSet>
         <base loc="en">%@ (%@) has invited you to Family Sharing so you and other family members can:</base>
-        <tran loc="es">%@ (%@) te ha invitado a “En familia” para que tú y el resto de miembros de la familia podáis:</tran>
+        <tran loc="es-419">%@ (%@) te invitó a "Compartir en familia" para que tú y tus familiares puedan:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +711,7 @@
       <Position>FAMILY_MEMBER_NAMES_THREE</Position>
       <TranslationSet>
         <base loc="en">%@, %@, %@</base>
-        <tran loc="es">%@, %@, %@</tran>
+        <tran loc="es-419">%@, %@, %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +719,7 @@
       <Position>FAILED_TO_LOAD_FAMILY_STATUS</Position>
       <TranslationSet>
         <base loc="en">Family information is not available</base>
-        <tran loc="es">Información de familia no disponible</tran>
+        <tran loc="es-419">Información de familia no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +727,7 @@
       <Position>NOT_SHARING_PURCHASES</Position>
       <TranslationSet>
         <base loc="en">Add account to share purchases</base>
-        <tran loc="es">Añadir cuenta para compartir compras</tran>
+        <tran loc="es-419">Agregar cuenta p. compartir compras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -735,7 +735,7 @@
       <Position>FAMILY_SETUP_NEXT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -743,7 +743,7 @@
       <Position>FAMILY_SETUP_ADD_FAMILY_MEMBER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add Family Member</base>
-        <tran loc="es">Añadir miembro</tran>
+        <tran loc="es-419">Agregar familiar</tran>
       </TranslationSet>
     </TextItem>
   </File>

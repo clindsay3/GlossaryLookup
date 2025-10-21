@@ -16,7 +16,7 @@
       <Position>DNT</Position>
       <TranslationSet>
         <base loc="en">DNT</base>
-        <tran loc="es">DNT</tran>
+        <tran loc="es-419">DNT</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -35,7 +35,7 @@
       <Position>DNT</Position>
       <TranslationSet>
         <base loc="en">DNT</base>
-        <tran loc="es">DNT</tran>
+        <tran loc="es-419">DNT</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -46,7 +46,7 @@
       <Position>STOP_SHARING_MESSAGE_TEXT_NOTE</Position>
       <TranslationSet>
         <base loc="en">If you stop sharing, other people will no longer have access to this note and it will be deleted from all of their devices.</base>
-        <tran loc="es">Si dejas de compartir esta nota, los demás ya no tendrán acceso a ella y se eliminará de todos sus dispositivos.</tran>
+        <tran loc="es-419">Si dejas de compartir, los demás ya no tendrán acceso a esta nota y se eliminará de todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>Browse</Position>
       <TranslationSet>
         <base loc="en">Browse</base>
-        <tran loc="es">Explorar</tran>
+        <tran loc="es-419">Explorar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>NON_ROOT_ITEM_INFORMATION_TEXT_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">This presentation is in a shared folder. %@</base>
-        <tran loc="es">Esta presentación se encuentra en una carpeta compartida. %@</tran>
+        <tran loc="es-419">Esta presentación está en una carpeta compartida. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this folder.</base>
-        <tran loc="es">Solo las personas que %@ ha invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a esta carpeta.</tran>
+        <tran loc="es-419">Sólo los invitados de %@ la carpeta compartida “%@” pueden usar el enlace para acceder a esta carpeta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>SHARE_INITIAL_INFO_LABEL_NOTE</Position>
       <TranslationSet>
         <base loc="en">Add people to this note and everyone will see the latest changes.</base>
-        <tran loc="es">Añade personas a esta nota y todas verán los cambios.</tran>
+        <tran loc="es-419">Agrega personas a esta nota para que todos vean los cambios más recientes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>SETTINGS_DETAIL_ACL_MIXED_SUMMARY_TEXT</Position>
       <TranslationSet>
         <base loc="en">Only people you invite can open.</base>
-        <tran loc="es">Solo pueden abrirlo las personas que invites.</tran>
+        <tran loc="es-419">Sólo tus invitados pueden abrir esto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>COPY_LINK_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Copy Link</base>
-        <tran loc="es">Copiar enlace</tran>
+        <tran loc="es-419">Copiar enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>COPY_LINK_ACTIVITY_TEXT</Position>
       <TranslationSet>
         <base loc="en">Copy Link</base>
-        <tran loc="es">Copiar enlace</tran>
+        <tran loc="es-419">Copiar enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>Shared from %@</Position>
       <TranslationSet>
         <base loc="en">Shared from %@</base>
-        <tran loc="es">Compartiendo desde %@</tran>
+        <tran loc="es-419">Compartir desde %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>The document picker “%@” failed to launch (%i).</Position>
       <TranslationSet>
         <base loc="en">The document picker “%1$@” failed to launch (%2$i).</base>
-        <tran loc="es">No se ha podido abrir el selector de documentos “%1$@” (%2$i).</tran>
+        <tran loc="es-419">El selector de documentos %1$@ no pudo iniciar (%2$i).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>ERROR_MESSAGE_FILE_ALREADY_SHARED</Position>
       <TranslationSet>
         <base loc="en">This file is inside a shared folder and cannot be shared on its own.</base>
-        <tran loc="es">Este archivo está dentro de una carpeta compartida y no se puede compartir solo.</tran>
+        <tran loc="es-419">Este archivo está dentro de una carpeta compartida y no se puede compartir por sí solo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>MAIL_TEMPLATE_BODY_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared document:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
-        <tran loc="es">&lt;br&gt;&lt;br&gt;Abre mi documento compartido:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+        <tran loc="es-419">&lt;br&gt;&lt;br&gt;Abre mi documento compartido:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>SHARE_INVITE_INFO_LABEL_TEXT</Position>
       <TranslationSet>
         <base loc="en">Choose how you’d like to send your invitation:</base>
-        <tran loc="es">Elige cómo quieres enviar tu invitación:</tran>
+        <tran loc="es-419">Elige cómo quieres enviar tu invitación:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>Upgrade</Position>
       <TranslationSet>
         <base loc="en">Upgrade</base>
-        <tran loc="es">Actualizar</tran>
+        <tran loc="es-419">Actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>Who can access</Position>
       <TranslationSet>
         <base loc="en">Who can access</base>
-        <tran loc="es">Quién tiene acceso</tran>
+        <tran loc="es-419">Quién puede acceder</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>Bummer</Position>
       <TranslationSet>
         <base loc="en">Bummer</base>
-        <tran loc="es">Vaya…</tran>
+        <tran loc="es-419">Con la pena</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>Delete</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>modified %lu minutes ago</Position>
       <TranslationSet>
         <base loc="en">modified %lu minutes ago</base>
-        <tran loc="es">modificado hace %lu minutos</tran>
+        <tran loc="es-419">se modificó hace %lu minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>Choose a location to add these items.</Position>
       <TranslationSet>
         <base loc="en">Choose a location to add these items.</base>
-        <tran loc="es">Selecciona dónde quieres añadir estos ítems.</tran>
+        <tran loc="es-419">Elige dónde agregar estos elementos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited will have access to this presentation.</base>
-        <tran loc="es">Solo pueden acceder a esta presentación las personas que %@ invite.</tran>
+        <tran loc="es-419">Sólo invitados de %@ tendrán acceso a esta presentación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>NO_ICLOUD_MIGRATION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Store your files in iCloud and access them anytime on all your devices.</base>
-        <tran loc="es">Guarda tus archivos en iCloud y accede a ellos siempre que quieras desde cualquiera de tus dispositivos.</tran>
+        <tran loc="es-419">Guarda tus archivos en iCloud y accede a ellos desde cualquiera de tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>REMOVE_ACCESS_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Remove Access</base>
-        <tran loc="es">Eliminar acceso</tran>
+        <tran loc="es-419">Quitar acceso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>Manage Locations</Position>
       <TranslationSet>
         <base loc="en">Manage Locations</base>
-        <tran loc="es">Gestionar ubicaciones</tran>
+        <tran loc="es-419">Administrar ubicaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>GIVE_ACCESS_INFO_LABEL_NOTE</Position>
       <TranslationSet>
         <base loc="en">Only people you add will be able to access this note.</base>
-        <tran loc="es">Solo pueden acceder a esta nota las personas que añadas.</tran>
+        <tran loc="es-419">Sólo las personas que agregues podrán ver esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>Rename...</Position>
       <TranslationSet>
         <base loc="en">Rename…</base>
-        <tran loc="es">Renombrar…</tran>
+        <tran loc="es-419">Renombrar…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this presentation.</base>
-        <tran loc="es">Solo las personas que %@ ha invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a esta presentación.</tran>
+        <tran loc="es-419">Sólo los invitados de %@ la carpeta compartida “%@” pueden usar el enlace para acceder a esta presentación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>Name[sort option]</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>SUBTITLE_JOINER</Position>
       <TranslationSet>
         <base loc="en">–</base>
-        <tran loc="es">–</tran>
+        <tran loc="es-419">–</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,7 +270,7 @@
       <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited will have access.</base>
-        <tran loc="es">Solo pueden acceder las personas que %@ invite.</tran>
+        <tran loc="es-419">Sólo invitados de %@ tendrán acceso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Sorry, the spreadsheet link couldn’t be copied.</base>
-        <tran loc="es">No se ha podido copiar el enlace de la hoja de cálculo.</tran>
+        <tran loc="es-419">No se pudo copiar el enlace de la hoja de cálculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>Remove “%@”?</Position>
       <TranslationSet>
         <base loc="en">Remove “%@”?</base>
-        <tran loc="es">¿Eliminar a “%@”?</tran>
+        <tran loc="es-419">¿Eliminar “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>More...</Position>
       <TranslationSet>
         <base loc="en">More…</base>
-        <tran loc="es">Más…</tran>
+        <tran loc="es-419">Más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>MODIFIED_BY_OTHER_TEXT</Position>
       <TranslationSet>
         <base loc="en">Modified by %@</base>
-        <tran loc="es">Modificado por %@</tran>
+        <tran loc="es-419">Modificado por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>GIVE_ACCESS_INFO_LABEL_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Only people you add will be able to access this spreadsheet.</base>
-        <tran loc="es">Solo pueden acceder a esta hoja de cálculo las personas que añadas.</tran>
+        <tran loc="es-419">Sólo quienes agregues podrán ver esta hoja de cálculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">This presentation is in a shared folder.</base>
-        <tran loc="es">Esta presentación se encuentra en una carpeta compartida.</tran>
+        <tran loc="es-419">Esta presentación está en una carpeta compartida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>%@, %@</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@</base>
-        <tran loc="es">%1$@, %2$@</tran>
+        <tran loc="es-419">%1$@, %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>NON_ROOT_ITEM_INSTRUCTIONS_PRIVATE</Position>
       <TranslationSet>
         <base loc="en">Go to the folder’s share options to add people or change editing permissions.</base>
-        <tran loc="es">Para añadir personas o cambiar los permisos de edición de los usuarios, ve a las opciones para compartir de la carpeta.</tran>
+        <tran loc="es-419">Ve a las opciones de la carpeta para agregar personas o cambiar los permisos de edición.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>ERROR_TITLE_TOO_MANY_PARTICIPANTS</Position>
       <TranslationSet>
         <base loc="en">Maximum Invites Reached</base>
-        <tran loc="es">Número máximo de invitaciones</tran>
+        <tran loc="es-419">Se alcanzó el máximo de invitaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>SETTINGS_COPY_LINK_SUBTITLE_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Only people you invited will be able to access your presentation.</base>
-        <tran loc="es">Solo pueden acceder a tu presentación las personas que invites.</tran>
+        <tran loc="es-419">Sólo tus invitados podrán ver tu presentación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>Search Results</Position>
       <TranslationSet>
         <base loc="en">Search Results</base>
-        <tran loc="es">Resultados de la búsqueda</tran>
+        <tran loc="es-419">Resultados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>ERROR_TITLE_FILE_ALREADY_SHARED</Position>
       <TranslationSet>
         <base loc="en">Can’t Share Document</base>
-        <tran loc="es">Imposible compartir el documento</tran>
+        <tran loc="es-419">No se puede compartir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>ALERT_EXISTING_SHARED_ITEMS_MESSAGE_ONE_ITEM</Position>
       <TranslationSet>
         <base loc="en">This folder already contains a shared item “%@”. People who currently have access to this item may lose it.</base>
-        <tran loc="es">Esta carpeta ya contiene un ítem compartido: “%@”. Las personas que actualmente tienen acceso a este ítem podrían dejar de tener acceso.</tran>
+        <tran loc="es-419">Esta carpeta ya contiene un elemento compartido “%@”. Las personas con acceso a este elemento podrían perder el acceso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>Copying file failed</Position>
       <TranslationSet>
         <base loc="en">Copying file failed</base>
-        <tran loc="es">Error al copiar el archivo</tran>
+        <tran loc="es-419">No se copió el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>LEAVE_SHARE_MESSAGE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Removing yourself will delete “%@” from all your devices.</base>
-        <tran loc="es">Si te eliminas de “%@”, se eliminará de todos tus dispositivos.</tran>
+        <tran loc="es-419">Al eliminarte de “%@”, se eliminará de todos tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>ERROR_MESSAGE_MAID_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">This account has restrictions on the people you can share documents with.</base>
-        <tran loc="es">Esta cuenta tiene restringidas las personas con las que puedes compartir documentos.</tran>
+        <tran loc="es-419">Esta cuenta tiene restricciones sobre las personas con las que puedes compartir documentos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@
       <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Everyone will be removed from this document and it will be deleted from iCloud Drive on all of their devices.</base>
-        <tran loc="es">Se eliminará a todos los usuarios de este documento, y el documento se eliminará de iCloud Drive en todos sus dispositivos.</tran>
+        <tran loc="es-419">Se eliminará a todas las personas de este documento y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@
       <Position>ALERT_EXISTING_SHARED_ITEMS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This folder already contains shared items, including “%1$@” and %2$lu others. People who currently have access to these items may lose it.</base>
-        <tran loc="es">Esta carpeta ya contiene ítems compartidos, como “%1$@” y %2$lu más. Las personas que actualmente tienen acceso a estos ítems podrían dejar de tener acceso.</tran>
+        <tran loc="es-419">Esta carpeta ya contiene elementos compartidos, incluido “%1$@” y otros %2$lu. Las personas que tienen acceso a estos elementos podrían perderlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -422,7 +422,7 @@
       <Position>ERROR_MESSAGE_INITIAL_NETWORK_FAILURE</Position>
       <TranslationSet>
         <base loc="en">%@ couldn’t connect to iCloud. There may be a problem with the server or network. Please try again later.</base>
-        <tran loc="es">%@ no ha podido conectarse a iCloud. Es posible que haya un problema con el servidor o con la red. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">%@ no pudo conectarse a iCloud. Es posible que haya un problema con el servidor o con la red. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -430,7 +430,7 @@
       <Position>ERROR_MESSAGE_INITIAL_NETWORK_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">%@ couldn’t connect to iCloud. There may be a problem with the server or network. Please try again later.</base>
-        <tran loc="es">%@ no ha podido conectarse a iCloud. Es posible que haya un problema con el servidor o con la red. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">%@ no pudo conectarse a iCloud. Es posible que haya un problema con el servidor o con la red. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@
       <Position>SETTINGS_DETAIL_PUBLIC_RO_TEXT</Position>
       <TranslationSet>
         <base loc="en">Anyone with the link can view.</base>
-        <tran loc="es">Cualquiera que tenga el enlace puede verlo.</tran>
+        <tran loc="es-419">Quien tenga el enlace puede ver.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -446,7 +446,7 @@
       <Position>ERROR_MESSAGE_COULD_NOT_ADD_PARTICIPANTS_WITH_ADDRESSES</Position>
       <TranslationSet>
         <base loc="en">Some email addresses or phone numbers you entered are not valid. Please enter valid email addresses or phone numbers, then try sharing again.</base>
-        <tran loc="es">Algunas direcciones de correo o algunos números de teléfono de los que has introducido no son válidos. Introduce direcciones de correo o números de teléfono válidos e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Algunos correos o números telefónicos que ingresaste no son válidos. Ingresa uno válido y luego intenta volver a compartir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@
       <Position>ERROR_TITLE_INITIAL_NETWORK_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Connect</base>
-        <tran loc="es">No se ha podido conectar</tran>
+        <tran loc="es-419">No se pudo conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@
       <Position>ERROR_TITLE_INITIAL_NETWORK_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Connect</base>
-        <tran loc="es">No se ha podido conectar</tran>
+        <tran loc="es-419">No se pudo conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@
       <Position>ERROR_TITLE_NETWORK_FAILURE</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Connect</base>
-        <tran loc="es">No se ha podido conectar</tran>
+        <tran loc="es-419">No se pudo conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -478,7 +478,7 @@
       <Position>ERROR_TITLE_NETWORK_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Connect</base>
-        <tran loc="es">No se ha podido conectar</tran>
+        <tran loc="es-419">No se pudo conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -486,7 +486,7 @@
       <Position>Permission</Position>
       <TranslationSet>
         <base loc="en">Permission</base>
-        <tran loc="es">Permiso</tran>
+        <tran loc="es-419">Permiso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -494,7 +494,7 @@
       <Position>ADD_PEOPLE_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Add People</base>
-        <tran loc="es">Añadir personas</tran>
+        <tran loc="es-419">Agregar personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -502,7 +502,7 @@
       <Position>GIVE_ACCESS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add People</base>
-        <tran loc="es">Añadir</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -510,7 +510,7 @@
       <Position>SHARE_INITIAL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Add People</base>
-        <tran loc="es">Añadir personas</tran>
+        <tran loc="es-419">Agregar personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -518,7 +518,7 @@
       <Position>The file could not be made available to the application. (%@)</Position>
       <TranslationSet>
         <base loc="en">The file could not be made available to the application. (%@)</base>
-        <tran loc="es">No se ha podido hacer que el archivo estuviera disponible para la aplicación. (%@)</tran>
+        <tran loc="es-419">La aplicación no puede usar el archivo. (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -526,7 +526,7 @@
       <Position>ERROR_MESSAGE_MAID_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">This account has restrictions on the people you can share presentations with.</base>
-        <tran loc="es">Esta cuenta tiene restringidas las personas con las que puedes compartir presentaciones.</tran>
+        <tran loc="es-419">Esta cuenta tiene restricciones sobre las personas con las que puedes compartir presentaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -534,7 +534,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this document.</base>
-        <tran loc="es">Solo las personas que %@ ha invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a este documento.</tran>
+        <tran loc="es-419">Sólo los invitados de %@ a la carpeta compartida “%@” pueden usar el enlace para acceder a este documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -542,7 +542,7 @@
       <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">This document is in a shared folder.</base>
-        <tran loc="es">Este documento se encuentra en una carpeta compartida.</tran>
+        <tran loc="es-419">Este documento está en una carpeta compartida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -550,7 +550,7 @@
       <Position>ERROR_MESSAGE_COULD_NOT_ADD_PARTICIPANTS</Position>
       <TranslationSet>
         <base loc="en">Your invitations weren’t sent.</base>
-        <tran loc="es">Las invitaciones no se han enviado.</tran>
+        <tran loc="es-419">No se enviaron tus invitaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -558,7 +558,7 @@
       <Position>ERROR_TITLE_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Sorry, you can’t manage settings right now</base>
-        <tran loc="es">Los ajustes no se pueden gestionar en estos momentos</tran>
+        <tran loc="es-419">No puedes cambiar la configuración ahora mismo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -566,7 +566,7 @@
       <Position>ERROR_MESSAGE_MAID</Position>
       <TranslationSet>
         <base loc="en">This account has restrictions on the people you can share with.</base>
-        <tran loc="es">Esta cuenta tiene restringidas las personas con las que puedes compartir.</tran>
+        <tran loc="es-419">Esta cuenta tiene restricciones sobre las personas con las que puedes compartir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -574,7 +574,7 @@
       <Position>PARTICIPANT_OWNER_TEXT</Position>
       <TranslationSet>
         <base loc="en">%@ (Owner)</base>
-        <tran loc="es">%@ (propietario)</tran>
+        <tran loc="es-419">%@ (propietario)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -582,7 +582,7 @@
       <Position>MAIL_TEMPLATE_SUBJECT</Position>
       <TranslationSet>
         <base loc="en">“#ITEM_NAME#”</base>
-        <tran loc="es">“#ITEM_NAME#”</tran>
+        <tran loc="es-419">“#ITEM_NAME#”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -590,7 +590,7 @@
       <Position>email</Position>
       <TranslationSet>
         <base loc="en">email</base>
-        <tran loc="es">correo</tran>
+        <tran loc="es-419">correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -598,7 +598,7 @@
       <Position>iCloud Drive</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -606,7 +606,7 @@
       <Position>iCloud Drive[unavailable nav title]</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -614,7 +614,7 @@
       <Position>iCloud Drive[unavailable view title]</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -622,7 +622,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Only people in the shared folder “%@” can use the link to access this folder.</base>
-        <tran loc="es">Solo las personas incluidas en la carpeta compartida “%@” pueden usar el enlace para acceder a esta carpeta.</tran>
+        <tran loc="es-419">Sólo los invitados a la carpeta compartida “%@” pueden usar el enlace para acceder a esta carpeta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -630,7 +630,7 @@
       <Position>LEAVE_SHARE_MESSAGE_TEXT_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Removing yourself from this shared presentation will delete the document from iCloud Drive on all your devices.</base>
-        <tran loc="es">Si te eliminas de esta presentación compartida, esta se eliminará de iCloud Drive en todos tus dispositivos.</tran>
+        <tran loc="es-419">Al eliminarte de esta presentación compartida se eliminará de iCloud Drive en todos tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -638,7 +638,7 @@
       <Position>ERROR_MESSAGE_NETWORK_FAILURE</Position>
       <TranslationSet>
         <base loc="en">You can’t manage settings offline. There may be a problem with the server or network. Please try again later.</base>
-        <tran loc="es">No puedes gestionar los ajustes sin conexión. Es posible que haya un problema con el servidor o con la red. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Sin conexión, no puedes cambiar la configuración. Puede que haya un problema con el servidor o con la red. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -646,7 +646,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this spreadsheet.</base>
-        <tran loc="es">Solo las personas que has invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a esta hoja de cálculo.</tran>
+        <tran loc="es-419">Sólo las personas que tú invitaste a la carpeta compartida “%@” pueden usar el enlace para acceder a esta hoja de cálculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -654,7 +654,7 @@
       <Position>GIVE_ACCESS_INFO_LABEL</Position>
       <TranslationSet>
         <base loc="en">Only people you add will have access.</base>
-        <tran loc="es">Solo pueden acceder las personas que añadas.</tran>
+        <tran loc="es-419">Sólo quienes agregues tendrán acceso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -662,7 +662,7 @@
       <Position>GIVE_ACCESS_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Email addresses or phone numbers</base>
-        <tran loc="es">Direcciones de correo electrónico o números de teléfono</tran>
+        <tran loc="es-419">Correos o números de teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -670,7 +670,7 @@
       <Position>in ContainerDisplayName</Position>
       <TranslationSet>
         <base loc="en">in %@</base>
-        <tran loc="es">en %@</tran>
+        <tran loc="es-419">en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -678,7 +678,7 @@
       <Position>modified %lu hours ago</Position>
       <TranslationSet>
         <base loc="en">modified %lu hours ago</base>
-        <tran loc="es">modificado hace %lu horas</tran>
+        <tran loc="es-419">se modificó hace %lu horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -686,7 +686,7 @@
       <Position>A Newer Version of iOS is Needed to Edit this File</Position>
       <TranslationSet>
         <base loc="en">A Newer Version of iOS is Needed to Edit this File</base>
-        <tran loc="es">Para editar este archivo se requiere una versión más reciente de iOS.</tran>
+        <tran loc="es-419">Para editar este archivo se requiere una versión más reciente de iOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -694,7 +694,7 @@
       <Position>SHARED_BY_ME_TEXT</Position>
       <TranslationSet>
         <base loc="en">Shared by Me</base>
-        <tran loc="es">Compartido por mí</tran>
+        <tran loc="es-419">Por mí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -702,7 +702,7 @@
       <Position>Shared by Me</Position>
       <TranslationSet>
         <base loc="en">Shared by Me</base>
-        <tran loc="es">Compartido por mí</tran>
+        <tran loc="es-419">Por mí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -710,7 +710,7 @@
       <Position>Delete...</Position>
       <TranslationSet>
         <base loc="en">Delete…</base>
-        <tran loc="es">Eliminar…</tran>
+        <tran loc="es-419">Eliminar…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -718,7 +718,7 @@
       <Position>NO_ICLOUD_DISABLED_TEXT</Position>
       <TranslationSet>
         <base loc="en">Documents in iCloud Drive are not available because the iCloud Drive setting is disabled.</base>
-        <tran loc="es">Los documentos de iCloud Drive no están disponibles porque iCloud Drive está desactivado.</tran>
+        <tran loc="es-419">Los documentos en iCloud Drive no están disponibles debido a que se desactivó la configuración de iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -726,7 +726,7 @@
       <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE_NOTE</Position>
       <TranslationSet>
         <base loc="en">Everyone will be removed from this note and it will be deleted from all of their devices.</base>
-        <tran loc="es">Se eliminará a todos los usuarios de esta nota, y la nota se eliminará de todos sus dispositivos.</tran>
+        <tran loc="es-419">Se eliminará a todas las personas de esta nota y se eliminará de todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -734,7 +734,7 @@
       <Position>ERROR_ACTION_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -742,7 +742,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -750,7 +750,7 @@
       <Position>STOP_SHARING_OK_TEXT</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -758,7 +758,7 @@
       <Position>Removing the only invited participant will stop sharing.</Position>
       <TranslationSet>
         <base loc="en">Removing the only invited participant will stop sharing.</base>
-        <tran loc="es">Si eliminas al único participante invitado, dejarás de compartir el archivo.</tran>
+        <tran loc="es-419">Si eliminas el único participante invitado se dejará de compartir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -766,7 +766,7 @@
       <Position>Anyone with the link</Position>
       <TranslationSet>
         <base loc="en">Anyone with the link</base>
-        <tran loc="es">Cualquiera que tenga el enlace</tran>
+        <tran loc="es-419">Quien tenga el enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -774,7 +774,7 @@
       <Position>Enable iCloud Drive</Position>
       <TranslationSet>
         <base loc="en">Enable iCloud Drive</base>
-        <tran loc="es">Activar iCloud Drive</tran>
+        <tran loc="es-419">Activar iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -782,7 +782,7 @@
       <Position>Rename</Position>
       <TranslationSet>
         <base loc="en">Rename</base>
-        <tran loc="es">Renombrar</tran>
+        <tran loc="es-419">Renombrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -790,7 +790,7 @@
       <Position>ERROR_MESSAGE_MAID_NOTE</Position>
       <TranslationSet>
         <base loc="en">This account has restrictions on the people you can share notes with.</base>
-        <tran loc="es">Esta cuenta tiene restringidas las personas con las que puedes compartir notas.</tran>
+        <tran loc="es-419">Esta cuenta tiene restricciones sobre las personas con las que puedes compartir notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -798,7 +798,7 @@
       <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Only you will have access to “%@” until you invite people.</base>
-        <tran loc="es">Solo tú tendrás acceso a “%@” hasta que invites a otras personas.</tran>
+        <tran loc="es-419">Sólo tú tendrás acceso a “%@” hasta que invites a más personas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -806,7 +806,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC</Position>
       <TranslationSet>
         <base loc="en">Only people in the shared folder “%@” can use the link to access this item.</base>
-        <tran loc="es">Solo las personas incluidas en la carpeta compartida “%@” pueden usar el enlace para acceder a este ítem.</tran>
+        <tran loc="es-419">Sólo los invitados a la carpeta compartida “%@” pueden usar el enlace para acceder a este elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -814,7 +814,7 @@
       <Position>Choose a new location to move these items.</Position>
       <TranslationSet>
         <base loc="en">Choose a new location to move these items.</base>
-        <tran loc="es">Selecciona dónde quieres trasladar estos ítems.</tran>
+        <tran loc="es-419">Elige a dónde mover estos elementos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -822,7 +822,7 @@
       <Position>More</Position>
       <TranslationSet>
         <base loc="en">More</base>
-        <tran loc="es">Más</tran>
+        <tran loc="es-419">Más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -830,7 +830,7 @@
       <Position>NON_ROOT_ITEM_INSTRUCTIONS_PUBLIC</Position>
       <TranslationSet>
         <base loc="en">Go to the folder’s share options to change access or editing permissions.</base>
-        <tran loc="es">Para cambiar el acceso o los permisos de edición de los usuarios, ve a las opciones para compartir de la carpeta.</tran>
+        <tran loc="es-419">Ve a las opciones de la carpeta para cambiar los permisos de edición o acceso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -838,7 +838,7 @@
       <Position>STOP_SHARING_MESSAGE_TEXT_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">If you stop sharing, other people will no longer have access to this spreadsheet and it will be deleted from iCloud Drive on all of their devices.</base>
-        <tran loc="es">Si dejas de compartir esta hoja de cálculo, los demás ya no tendrán acceso a ella y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
+        <tran loc="es-419">Si dejas de compartir, los demás ya no tendrán acceso a esta hoja de cálculo y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -846,7 +846,7 @@
       <Position>PROGRESS_UPLOADING_TEXT</Position>
       <TranslationSet>
         <base loc="en">Uploading</base>
-        <tran loc="es">Cargando</tran>
+        <tran loc="es-419">Cargando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -854,7 +854,7 @@
       <Position>SETTINGS_DETAIL_ACL_RO_SUMMARY_TEXT</Position>
       <TranslationSet>
         <base loc="en">Only people you invite can view.</base>
-        <tran loc="es">Solo pueden verlo las personas que invites.</tran>
+        <tran loc="es-419">Sólo tus invitados pueden ver.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -862,7 +862,7 @@
       <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited will have access to this document.</base>
-        <tran loc="es">Solo pueden acceder a este documento las personas que %@ invite.</tran>
+        <tran loc="es-419">Sólo invitados de %@ tendrán acceso a este documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -870,7 +870,7 @@
       <Position>Error</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -878,7 +878,7 @@
       <Position>ALERT_CANCEL_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -892,7 +892,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -900,7 +900,7 @@
       <Position>LEAVE_SHARE_CANCEL_TEXT</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>STOP_SHARING_CANCEL_TEXT</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>modified less than a minute ago</Position>
       <TranslationSet>
         <base loc="en">modified less than a minute ago</base>
-        <tran loc="es">modificado hace menos de un minuto</tran>
+        <tran loc="es-419">se modificó hace menos de un minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -924,7 +924,7 @@
       <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Everyone will be removed from this spreadsheet and it will be deleted from iCloud Drive on all of their devices.</base>
-        <tran loc="es">Se eliminará a todos los usuarios de esta hoja de cálculo, y la hoja de cálculo se eliminará de iCloud Drive en todos sus dispositivos.</tran>
+        <tran loc="es-419">Se eliminará a todas las personas de esta hoja de cálculo y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -932,7 +932,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this spreadsheet.</base>
-        <tran loc="es">Solo las personas que %@ ha invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a esta hoja de cálculo.</tran>
+        <tran loc="es-419">Sólo los invitados de %@ la carpeta compartida “%@” pueden usar el enlace para acceder a esta hoja de cálculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -940,7 +940,7 @@
       <Position>SETTINGS_ONLY_OWNER_CAN_CHANGE</Position>
       <TranslationSet>
         <base loc="en">Only %@ can invite people.</base>
-        <tran loc="es">Solo %@ puede invitar a personas.</tran>
+        <tran loc="es-419">Sólo %@ puede invitar personas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -948,7 +948,7 @@
       <Position>ERROR_TITLE_COULD_NOT_ADD_PARTICIPANTS</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Add People</base>
-        <tran loc="es">No se han podido añadir personas</tran>
+        <tran loc="es-419">No se pudo agregar personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -956,7 +956,7 @@
       <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited will have access to this spreadsheet.</base>
-        <tran loc="es">Solo pueden acceder a esta hoja de cálculo las personas que %@ invite.</tran>
+        <tran loc="es-419">Sólo invitados de %@ tendrán acceso a esta hoja de cálculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -964,7 +964,7 @@
       <Position>modified %lu years ago</Position>
       <TranslationSet>
         <base loc="en">modified %lu years ago</base>
-        <tran loc="es">modificado hace %lu años</tran>
+        <tran loc="es-419">se modificó hace %lu años</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -972,7 +972,7 @@
       <Position>PARTICIPANT_ANYONE_ELSE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Anyone else</base>
-        <tran loc="es">Todos los demás</tran>
+        <tran loc="es-419">Todos los demás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -980,7 +980,7 @@
       <Position>Doesn’t support opening files</Position>
       <TranslationSet>
         <base loc="en">Doesn’t support opening files</base>
-        <tran loc="es">No admite la apertura de archivos</tran>
+        <tran loc="es-419">No permite abrir archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -988,7 +988,7 @@
       <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT</Position>
       <TranslationSet>
         <base loc="en">This item is in a shared folder.</base>
-        <tran loc="es">Este ítem se encuentra en una carpeta compartida.</tran>
+        <tran loc="es-419">Este elemento está en una carpeta compartida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -996,7 +996,7 @@
       <Position>Documents</Position>
       <TranslationSet>
         <base loc="en">Documents</base>
-        <tran loc="es">Documentos</tran>
+        <tran loc="es-419">Documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1004,7 +1004,7 @@
       <Position>Local documents</Position>
       <TranslationSet>
         <base loc="en">Local documents</base>
-        <tran loc="es">Documentos locales</tran>
+        <tran loc="es-419">Documentos locales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1012,7 +1012,7 @@
       <Position>Failed to launch “%@”</Position>
       <TranslationSet>
         <base loc="en">Failed to launch “%@”</base>
-        <tran loc="es">Error al abrir “%@”</tran>
+        <tran loc="es-419">No se pudo iniciar "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1020,7 +1020,7 @@
       <Position>Move...</Position>
       <TranslationSet>
         <base loc="en">Move…</base>
-        <tran loc="es">Trasladar…</tran>
+        <tran loc="es-419">Mover…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@
       <Position>Continue</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@
       <Position>LEAVE_SHARE_CONTINUE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@
       <Position>You cannot move this document</Position>
       <TranslationSet>
         <base loc="en">You cannot move this document</base>
-        <tran loc="es">No puedes trasladar este documento</tran>
+        <tran loc="es-419">No puedes mover este documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1053,7 @@
       <Position>modified %lu days ago</Position>
       <TranslationSet>
         <base loc="en">modified %lu days ago</base>
-        <tran loc="es">modificado hace %lu días</tran>
+        <tran loc="es-419">se modificó hace %lu días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1061,7 @@
       <Position>PARTICIPANT_ORG_ADMIN_TEXT</Position>
       <TranslationSet>
         <base loc="en">Your Organization</base>
-        <tran loc="es">Tu organización</tran>
+        <tran loc="es-419">Tu empresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1069,7 @@
       <Position>SETTINGS_COPY_LINK_SUBTITLE_NOTE</Position>
       <TranslationSet>
         <base loc="en">Only people you invited will be able to access your note.</base>
-        <tran loc="es">Solo pueden acceder a tu nota las personas que invites.</tran>
+        <tran loc="es-419">Sólo tus invitados podrán ver tu nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1077,7 +1077,7 @@
       <Position>PARTICIPANT_STATUS_TEXT_WAITING</Position>
       <TranslationSet>
         <base loc="en">Invited</base>
-        <tran loc="es">Invitado</tran>
+        <tran loc="es-419">Invitado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1085,7 +1085,7 @@
       <Position>SEND_LINK_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Send Link</base>
-        <tran loc="es">Enviar enlace</tran>
+        <tran loc="es-419">Enviar enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1093,7 +1093,7 @@
       <Position>SHARE_RESEND_PUBLIC_TITLE</Position>
       <TranslationSet>
         <base loc="en">Send Link</base>
-        <tran loc="es">Enviar enlace</tran>
+        <tran loc="es-419">Enviar enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1101,7 +1101,7 @@
       <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Sorry, the document link couldn’t be copied.</base>
-        <tran loc="es">No se ha podido copiar el enlace del documento.</tran>
+        <tran loc="es-419">No se pudo copiar el enlace del documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1109,7 +1109,7 @@
       <Position>%@ of %@ downloaded</Position>
       <TranslationSet>
         <base loc="en">%1$@ of %2$@ downloaded</base>
-        <tran loc="es">%1$@ de %2$@ descargado(s)</tran>
+        <tran loc="es-419">%1$@ de %2$@ descargado(s)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1117,7 +1117,7 @@
       <Position>Info</Position>
       <TranslationSet>
         <base loc="en">Info</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1125,7 +1125,7 @@
       <Position>PARTICIPANT_INFO_TITLE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Info</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1133,7 +1133,7 @@
       <Position>PROGRESS_FINISHING_TEXT</Position>
       <TranslationSet>
         <base loc="en">Finishing up…</base>
-        <tran loc="es">Terminando…</tran>
+        <tran loc="es-419">Terminando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1141,7 +1141,7 @@
       <Position>STOP_SHARING_TITLE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Stop Sharing?</base>
-        <tran loc="es">¿Dejar de compartir?</tran>
+        <tran loc="es-419">¿Dejar de compartir?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1151,7 +1151,7 @@
       <Position>Dismiss</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1159,7 +1159,7 @@
       <Position>IWORK_LEGACY_TEXT_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">To share this spreadsheet, get the latest version of Numbers from the App Store.</base>
-        <tran loc="es">Para compartir esta hoja de cálculo, descarga la versión de Numbers más reciente de App Store.</tran>
+        <tran loc="es-419">Para compartir esta hoja de cálculo, descarga la versión más reciente de Numbers disponible en App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1167,7 +1167,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_NOTE</Position>
       <TranslationSet>
         <base loc="en">Only people in the shared folder “%@” can use the link to access this note.</base>
-        <tran loc="es">Solo las personas incluidas en la carpeta compartida “%@” pueden usar el enlace para acceder a esta nota.</tran>
+        <tran loc="es-419">Sólo los invitados a la carpeta compartida “%@” pueden usar el enlace para acceder a esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1175,7 +1175,7 @@
       <Position>COPY_LINK_FOOTER_ACL_TEXT</Position>
       <TranslationSet>
         <base loc="en">Anyone with the link will be able to access.</base>
-        <tran loc="es">Cualquiera que tenga el enlace puede acceder.</tran>
+        <tran loc="es-419">Quien tenga el enlace tendrá acceso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1183,7 +1183,7 @@
       <Position>Locations</Position>
       <TranslationSet>
         <base loc="en">Locations</base>
-        <tran loc="es">Ubicaciones</tran>
+        <tran loc="es-419">Ubicaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1191,7 +1191,7 @@
       <Position>LEGACY_TEXT_OTHER</Position>
       <TranslationSet>
         <base loc="en">This application is too old and does not support this type of sharing. An update may be available.</base>
-        <tran loc="es">Esta aplicación es demasiado antigua y no permite compartir de esta manera. Es posible que haya una actualización disponible.</tran>
+        <tran loc="es-419">La app es demasiado antigua y no es compatible con esta manera de compartir. Una actualización podría estar disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1199,7 +1199,7 @@
       <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Sorry, the folder link couldn’t be copied.</base>
-        <tran loc="es">No se ha podido copiar el enlace de la carpeta.</tran>
+        <tran loc="es-419">No se pudo copiar el enlace de la carpeta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1207,7 +1207,7 @@
       <Position>NON_ROOT_ITEM_INFORMATION_TEXT</Position>
       <TranslationSet>
         <base loc="en">This item is in a shared folder. %@</base>
-        <tran loc="es">Este ítem se encuentra en una carpeta compartida. %@</tran>
+        <tran loc="es-419">Este elemento está en una carpeta compartida. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1215,7 +1215,7 @@
       <Position>SETTINGS_COPY_LINK_SUBTITLE_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Only people you invited will be able to access your document.</base>
-        <tran loc="es">Solo pueden acceder a tu documento las personas que invites.</tran>
+        <tran loc="es-419">Sólo tus invitados podrán ver tu documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1223,7 +1223,7 @@
       <Position>NO_ICLOUD_MIGRATION_TEXT2</Position>
       <TranslationSet>
         <base loc="en">Make edits on any device or any app, the most up-to-date version of your document is available everywhere.</base>
-        <tran loc="es">Modifica lo que quieras desde cualquier dispositivo o app: sea donde sea, siempre tendrás la versión más actualizada de tus documentos.</tran>
+        <tran loc="es-419">Edita tu documento en cualquier dispositivo o app; la versión más actualizada del mismo estará disponible en todas partes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1231,7 +1231,7 @@
       <Position>Changes made to this document will not be available on any other devices. Open this document anyway?</Position>
       <TranslationSet>
         <base loc="en">Changes made to this document will not be available on any other devices. Open this document anyway?</base>
-        <tran loc="es">Los cambios efectuados en este documento no estarán disponibles en ningún otro dispositivo. ¿Quieres abrir este documento de todos modos?</tran>
+        <tran loc="es-419">Los cambios realizados a este documento no estarán disponibles en ningún otro dispositivo. ¿Quieres abrirlo de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1239,7 +1239,7 @@
       <Position>Share...</Position>
       <TranslationSet>
         <base loc="en">Share…</base>
-        <tran loc="es">Compartir…</tran>
+        <tran loc="es-419">Compartir…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1247,7 +1247,7 @@
       <Position>NON_ROOT_ITEM_INFORMATION_TEXT_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder is in a shared folder. %@</base>
-        <tran loc="es">Esta carpeta se encuentra en una carpeta compartida. %@</tran>
+        <tran loc="es-419">Esta carpeta está en una carpeta compartida. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1255,7 +1255,7 @@
       <Position>SETTINGS_DETAIL_ACL_RO_TEXT</Position>
       <TranslationSet>
         <base loc="en">People you invite can view.</base>
-        <tran loc="es">Las personas que invites pueden verlo.</tran>
+        <tran loc="es-419">Tus invitados pueden ver.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1263,7 +1263,7 @@
       <Position>LEAVE_SHARE_MESSAGE_TEXT_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Removing yourself from this shared document will delete the document from iCloud Drive on all your devices.</base>
-        <tran loc="es">Si te eliminas de este documento compartido, este se eliminará de iCloud Drive en todos tus dispositivos.</tran>
+        <tran loc="es-419">Al eliminarte de este documento compartido se eliminará de iCloud Drive en todos tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1271,7 +1271,7 @@
       <Position>SHARE_INITIAL_INFO_LABEL_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Add people to this folder and everyone will see the latest changes.</base>
-        <tran loc="es">Añade personas a esta carpeta y todas verán los cambios.</tran>
+        <tran loc="es-419">Agrega personas a esta carpeta para que todos vean los cambios más recientes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1279,7 +1279,7 @@
       <Position>SHARE_INITIAL_INFO_LABEL_NOTES_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Add people to this folder and everyone will see the latest changes.</base>
-        <tran loc="es">Añade personas a esta carpeta y todas verán los cambios.</tran>
+        <tran loc="es-419">Agrega personas a esta carpeta para que todos vean los cambios más recientes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1287,7 +1287,7 @@
       <Position>Remove</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@
       <Position>%@ &amp; %lu more…</Position>
       <TranslationSet>
         <base loc="en">%1$@ &amp; %2$lu more…</base>
-        <tran loc="es">%1$@ y %2$lu más…</tran>
+        <tran loc="es-419">%1$@ y %2$lu más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@
       <Position>SHARED_BY_UNKNOWN_OTHER_TEXT</Position>
       <TranslationSet>
         <base loc="en">Shared</base>
-        <tran loc="es">Compartido</tran>
+        <tran loc="es-419">Compartido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE</Position>
       <TranslationSet>
         <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this item.</base>
-        <tran loc="es">Solo las personas que has invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a este ítem.</tran>
+        <tran loc="es-419">Sólo tu invitados a la carpeta compartida “%@” pueden usar el enlace para acceder a este elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>ERROR_MESSAGE_TOO_MANY_PARTICIPANTS</Position>
       <TranslationSet>
         <base loc="en">New invitations can’t be sent. Reduce the number of people you’re inviting or have previously invited, then try again.</base>
-        <tran loc="es">No se pueden enviar más invitaciones. Reduce el número de personas a las que estás invitando o has invitado anteriormente e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se pueden enviar nuevas invitaciones. Reduce la cantidad de personas que estás invitando o que has invitado antes y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>LEAVE_SHARE_MESSAGE_TEXT_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Removing yourself from this shared spreadsheet will delete the document from iCloud Drive on all your devices.</base>
-        <tran loc="es">Si te eliminas de esta hoja de cálculo compartida, esta se eliminará de iCloud Drive en todos tus dispositivos.</tran>
+        <tran loc="es-419">Al eliminarte de esta hoja de cálculo compartida se eliminará de iCloud Drive en todos tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>NETWORK_UNREACHABLE_INITIAL_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Check your Internet connection.</base>
-        <tran loc="es">Comprueba tu conexión a internet.</tran>
+        <tran loc="es-419">Comprueba la conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>NETWORK_UNREACHABLE_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Check your Internet connection.</base>
-        <tran loc="es">Comprueba tu conexión a internet.</tran>
+        <tran loc="es-419">Comprueba la conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>Date[sort option]</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>IWORK_LEGACY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Time to Update</base>
-        <tran loc="es">Actualización necesaria</tran>
+        <tran loc="es-419">Es momento de actualizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE_NOTE</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this note.</base>
-        <tran loc="es">Solo las personas que %@ ha invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a esta nota.</tran>
+        <tran loc="es-419">Sólo los invitados de %@ la carpeta compartida “%@” pueden usar el enlace para acceder a esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@
       <Position>STOP_SHARING_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Stop Sharing</base>
-        <tran loc="es">Dejar de compartir</tran>
+        <tran loc="es-419">Dejar de compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@
       <Position>MAIL_TEMPLATE_BODY_NOTE</Position>
       <TranslationSet>
         <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared note:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
-        <tran loc="es">&lt;br&gt;&lt;br&gt;Abre mi nota compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+        <tran loc="es-419">&lt;br&gt;&lt;br&gt;Abre mi nota compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1392,7 @@
       <Position>STOP_SHARING_MESSAGE_TEXT_NOTES_FOLDER</Position>
       <TranslationSet>
         <base loc="en">If you stop sharing, other people will no longer have access to this folder or any notes within it. It will be deleted from all of their devices.</base>
-        <tran loc="es">Si dejas de compartir esta carpeta, los demás ya no tendrán acceso a ella ni a las notas que contiene, y se eliminará de todos sus dispositivos.</tran>
+        <tran loc="es-419">Si dejas de compartir, los demás ya no tendrán acceso a esta carpeta —o a cualquier notas que contenga— y se eliminará de todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1400,7 @@
       <Position>SHARED_WITHIN_TEXT</Position>
       <TranslationSet>
         <base loc="en">Shared Folder: %@</base>
-        <tran loc="es">Carpeta compartida: %@</tran>
+        <tran loc="es-419">Carpeta compartida: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1408,7 @@
       <Position>Desktop</Position>
       <TranslationSet>
         <base loc="en">Desktop</base>
-        <tran loc="es">Escritorio</tran>
+        <tran loc="es-419">Escritorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1416,7 @@
       <Position>NETWORK_UNREACHABLE_INITIAL_TITLE</Position>
       <TranslationSet>
         <base loc="en">You’re Offline</base>
-        <tran loc="es">No estás conectado</tran>
+        <tran loc="es-419">No tienes conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1424,7 @@
       <Position>NETWORK_UNREACHABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">You’re Offline</base>
-        <tran loc="es">No estás conectado</tran>
+        <tran loc="es-419">No tienes conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@
       <Position>LEAVE_SHARE_MESSAGE_TEXT_CLOUDKIT</Position>
       <TranslationSet>
         <base loc="en">This will remove you from “%@”.</base>
-        <tran loc="es">Esta acción te eliminará de “%@”.</tran>
+        <tran loc="es-419">Esto te eliminará de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@
       <Position>PUBLIC_PERMISSION_RO_TEXT</Position>
       <TranslationSet>
         <base loc="en">Can view</base>
-        <tran loc="es">Ver</tran>
+        <tran loc="es-419">Puede ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@
       <Position>This document is shared. Moving it to a different location will stop sharing the document. You can share again from the new location.</Position>
       <TranslationSet>
         <base loc="en">This document is shared. Moving it to a different location will stop sharing the document. You can share again from the new location.</base>
-        <tran loc="es">Este documento está compartido. Si lo trasladas a otra ubicación, dejarás de compartirlo. Puedes volver a compartirlo desde la nueva ubicación.</tran>
+        <tran loc="es-419">Este es un documento compartido. Si se mueve, se dejará de compartir. Puedes volver a compartirlo desde su nueva ubicación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>SETTINGS_COPY_LINK_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Only people you invited will have access.</base>
-        <tran loc="es">Solo pueden acceder las personas que invites.</tran>
+        <tran loc="es-419">Sólo tus invitados tendrán acceso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@
       <Position>Shared by unknown user</Position>
       <TranslationSet>
         <base loc="en">Shared by unknown user</base>
-        <tran loc="es">Compartido por un usuario desconocido</tran>
+        <tran loc="es-419">Por alguien desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>Debug...</Position>
       <TranslationSet>
         <base loc="en">Debug…</base>
-        <tran loc="es">Depurar…</tran>
+        <tran loc="es-419">Depurar…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>ERROR_TITLE_INITIAL_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be shared right now.</base>
-        <tran loc="es">Este documento no se puede compartir en estos momentos.</tran>
+        <tran loc="es-419">Este documento no se puede compartir ahora mismo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>IWORK_LEGACY_TEXT_PAGES</Position>
       <TranslationSet>
         <base loc="en">To share this document, get the latest version of Pages from the App Store.</base>
-        <tran loc="es">Para compartir este documento, descarga la versión de Pages más reciente de App Store.</tran>
+        <tran loc="es-419">Para compartir este documento, descarga la versión más reciente de Pages disponible en App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>PARTICIPANT_STATUS_TEXT_VIEW_ONLY</Position>
       <TranslationSet>
         <base loc="en">View only</base>
-        <tran loc="es">Solo lectura</tran>
+        <tran loc="es-419">Sólo lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>View only</Position>
       <TranslationSet>
         <base loc="en">View only</base>
-        <tran loc="es">Solo lectura</tran>
+        <tran loc="es-419">Sólo lectura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>ALERT_EXISTING_SHARED_ITEMS_MESSAGE_UNKNOWN_ITEMS</Position>
       <TranslationSet>
         <base loc="en">This folder already contains shared items. People who currently have access to these items may lose it.</base>
-        <tran loc="es">Esta carpeta ya contiene ítems compartidos. Las personas que actualmente tienen acceso a estos ítems podrían dejar de tener acceso.</tran>
+        <tran loc="es-419">Esta carpeta ya contiene elementos compartidos. Las personas con acceso a ellos podrían perder el acceso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1520,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Only people in the shared folder “%@” can use the link to access this spreadsheet.</base>
-        <tran loc="es">Solo las personas de la carpeta compartida “%@” pueden usar el enlace para acceder a esta hoja de cálculo.</tran>
+        <tran loc="es-419">Sólo las personas en la carpeta compartida “%@” pueden usar el enlace para acceder a esta hoja de cálculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@
       <Position>LEAVE_SHARE_TITLE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Remove Yourself?</base>
-        <tran loc="es">¿Eliminarte?</tran>
+        <tran loc="es-419">¿Eliminarte de aquí?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@
       <Position>SHARE_INITIAL_INFO_LABEL</Position>
       <TranslationSet>
         <base loc="en">Invite people to collaborate with you. Everyone will see the latest changes.</base>
-        <tran loc="es">Invita a personas para que colaboren contigo. Todas verán los cambios.</tran>
+        <tran loc="es-419">Invita personas para que colaboren y que todos vean los cambios más recientes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@
       <Position>Untitled</Position>
       <TranslationSet>
         <base loc="en">Untitled</base>
-        <tran loc="es">Sin título</tran>
+        <tran loc="es-419">Sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@
       <Position>COPY_LINK_FOOTER_PUBLIC_TEXT</Position>
       <TranslationSet>
         <base loc="en">Only people you invited will be able to access.</base>
-        <tran loc="es">Solo pueden acceder las personas que invites.</tran>
+        <tran loc="es-419">Sólo tus invitados tienen acceso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@
       <Position>COULD_NOT_COPY_LINK_TITLE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Copy Link</base>
-        <tran loc="es">No se ha podido copiar el enlace</tran>
+        <tran loc="es-419">No se pudo copiar el enlace</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@
       <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet is in a shared folder.</base>
-        <tran loc="es">Esta hoja de cálculo se encuentra en una carpeta compartida.</tran>
+        <tran loc="es-419">Esta hoja de cálculo está en una carpeta compartida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@
       <Position>NO_ICLOUD_MDM_TEXT</Position>
       <TranslationSet>
         <base loc="en">Access to iCloud documents has been disabled by a device management profile.</base>
-        <tran loc="es">Se ha desactivado el acceso a los documentos de iCloud mediante un perfil de gestión de dispositivos.</tran>
+        <tran loc="es-419">El perfil de administración de dispositivos desactivó el acceso a documentos de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@
       <Position>PUBLIC_PERMISSION_RW_TEXT</Position>
       <TranslationSet>
         <base loc="en">Can edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Puede editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@
       <Position>SHOW_FOLDER_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Show Shared Folder</base>
-        <tran loc="es">Mostrar carpeta compartida</tran>
+        <tran loc="es-419">Mostrar carpetas compartidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@
       <Position>Move and stop sharing</Position>
       <TranslationSet>
         <base loc="en">Move and stop sharing</base>
-        <tran loc="es">Trasladar y dejar de compartir</tran>
+        <tran loc="es-419">Mover y dejar de compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1608,7 @@
       <Position>This location already contains a file named %@</Position>
       <TranslationSet>
         <base loc="en">This location already contains a file named %@</base>
-        <tran loc="es">En esta ubicación ya hay un archivo llamado “%@”</tran>
+        <tran loc="es-419">Ya había un archivo llamado %@ en esta ubicación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1616,7 +1616,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Only people in the shared folder “%@” can use the link to access this document.</base>
-        <tran loc="es">Solo las personas de la carpeta compartida “%@” pueden usar el enlace para acceder a este documento.</tran>
+        <tran loc="es-419">Sólo las personas en la carpeta compartida “%@” pueden usar el enlace para acceder a este documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1624,7 +1624,7 @@
       <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Sorry, the item link couldn’t be copied.</base>
-        <tran loc="es">No se ha podido copiar el enlace del ítem.</tran>
+        <tran loc="es-419">No se pudo copiar el enlace del elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1632,7 +1632,7 @@
       <Position>NON_ROOT_ITEM_INFORMATION_TEXT_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet is in a shared folder. %@</base>
-        <tran loc="es">Esta hoja de cálculo se encuentra en una carpeta compartida. %@</tran>
+        <tran loc="es-419">Esta hoja de cálculo está en una carpeta compartida. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1640,7 +1640,7 @@
       <Position>MAIL_TEMPLATE_BODY_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared presentation:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
-        <tran loc="es">&lt;br&gt;&lt;br&gt;Abre mi presentación compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+        <tran loc="es-419">&lt;br&gt;&lt;br&gt;Abre mi presentación compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1648,7 +1648,7 @@
       <Position>NON_ROOT_ITEM_INFORMATION_TEXT_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">This document is in a shared folder. %@</base>
-        <tran loc="es">Este documento se encuentra en una carpeta compartida. %@</tran>
+        <tran loc="es-419">Este documento está en una carpeta compartida. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1656,7 +1656,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_COLLAB_PRIVATE</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited to the shared folder “%@” can use the link to access this item.</base>
-        <tran loc="es">Solo las personas que %@ ha invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a este ítem.</tran>
+        <tran loc="es-419">Sólo los invitados de %@ a la carpeta compartida “%@” pueden usar el enlace para acceder a este elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1664,7 +1664,7 @@
       <Position>ERROR_MESSAGE_NETWORK_UNAVAILABLE</Position>
       <TranslationSet>
         <base loc="en">You can’t manage settings offline. There may be a problem with the server or network. Please try again later. </base>
-        <tran loc="es">No puedes gestionar los ajustes sin conexión. Es posible que haya un problema con el servidor o con la red. Inténtalo de nuevo más tarde. </tran>
+        <tran loc="es-419">Sin conexión, no puedes cambiar la configuración. Puede que haya un problema con el servidor o con la red. Intenta más tarde. </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1672,7 +1672,7 @@
       <Position>ALERT_EXISTING_SHARED_ITEMS_MESSAGE_TWO_ITEMS</Position>
       <TranslationSet>
         <base loc="en">This folder already contains shared items “%1$@” and “%2$@”. People who currently have access to these items may lose it.</base>
-        <tran loc="es">Esta carpeta ya contiene ítems compartidos: “%1$@” y “%2$@”. Las personas que actualmente tienen acceso a estos ítems podrían dejar de tener acceso.</tran>
+        <tran loc="es-419">Esta carpeta ya contiene los elementos compartidos “%1$@” y “%2$@”. Las personas que tienen acceso a estos elementos podrían perderlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1680,7 +1680,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this folder.</base>
-        <tran loc="es">Solo las personas que has invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a esta carpeta.</tran>
+        <tran loc="es-419">Sólo tu invitados a la carpeta compartida “%@” pueden usar el enlace para acceder a esta carpeta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1688,7 +1688,7 @@
       <Position>SETTINGS_ONLY_PEOPLE_INVITED_CAN_ACCESS_NOTE</Position>
       <TranslationSet>
         <base loc="en">Only people %@ invited will have access to this note.</base>
-        <tran loc="es">Solo pueden acceder a esta nota las personas que %@ invite.</tran>
+        <tran loc="es-419">Sólo invitados de %@ tendrán acceso a esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1696,7 +1696,7 @@
       <Position>SHARE_INITIAL_INFO_LABEL_CLOUDKIT</Position>
       <TranslationSet>
         <base loc="en">Share this with others and everyone will see the latest changes.</base>
-        <tran loc="es">Compártelo con otras personas y todas verán los cambios.</tran>
+        <tran loc="es-419">Comparte esto para que otros editen y todos puedan ver los cambios más recientes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1704,7 +1704,7 @@
       <Position>No Documents[unavailable view title]</Position>
       <TranslationSet>
         <base loc="en">No Documents</base>
-        <tran loc="es">No hay documentos</tran>
+        <tran loc="es-419">Sin documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1712,7 +1712,7 @@
       <Position>ERROR_TITLE_MAID</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Complete Request</base>
-        <tran loc="es">No se ha podido completar la solicitud</tran>
+        <tran loc="es-419">No se pudo completar la solicitud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1720,7 +1720,7 @@
       <Position>Can make changes</Position>
       <TranslationSet>
         <base loc="en">Can make changes</base>
-        <tran loc="es">Puede hacer cambios</tran>
+        <tran loc="es-419">Puede hacer cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1728,7 +1728,7 @@
       <Position>MODIFIED_BY_ME_TEXT</Position>
       <TranslationSet>
         <base loc="en">Modified by Me</base>
-        <tran loc="es">Modificado por mí</tran>
+        <tran loc="es-419">Modificado por mí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1736,7 @@
       <Position>ERROR_MESSAGE_MAID_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">This account has restrictions on the people you can share spreadsheets with.</base>
-        <tran loc="es">Esta cuenta tiene restringidas las personas con las que puedes compartir hojas de cálculo.</tran>
+        <tran loc="es-419">Esta cuenta tiene restricciones sobre las personas con las que puedes compartir hojas de cálculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1744,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_NOTE</Position>
       <TranslationSet>
         <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this note.</base>
-        <tran loc="es">Solo las personas que has invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a esta nota.</tran>
+        <tran loc="es-419">Sólo tu invitados a la carpeta compartida “%@” pueden usar el enlace para acceder a esta nota.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1752,7 @@
       <Position>Doesn’t support moving files</Position>
       <TranslationSet>
         <base loc="en">Doesn’t support moving files</base>
-        <tran loc="es">No admite el traslado de archivos</tran>
+        <tran loc="es-419">No permite mover archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1762,7 +1762,7 @@
       <Position>MAIL_TEMPLATE_BRICK_ICLOUD_DRIVE</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1770,7 +1770,7 @@
       <Position>SETTINGS_COPY_LINK_SUBTITLE_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">Only people you invited will be able to access your spreadsheet.</base>
-        <tran loc="es">Solo pueden acceder a tu hoja de cálculo las personas que invites.</tran>
+        <tran loc="es-419">Sólo tus invitados podrán ver tu hoja de cálculo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1778,7 +1778,7 @@
       <Position>NON_ROOT_ITEM_INFORMATION_TEXT_NOTE</Position>
       <TranslationSet>
         <base loc="en">This note is in a shared folder. %@</base>
-        <tran loc="es">Esta nota se encuentra en una carpeta compartida. %@</tran>
+        <tran loc="es-419">Esta nota está en una carpeta compartida. %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1786,7 +1786,7 @@
       <Position>ALERT_SHARE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1794,7 +1794,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this document.</base>
-        <tran loc="es">Solo las personas que has invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a este documento.</tran>
+        <tran loc="es-419">Sólo las personas que tú invitaste a la carpeta compartida “%@” pueden usar el enlace para acceder a este documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1802,7 +1802,7 @@
       <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_NOTE</Position>
       <TranslationSet>
         <base loc="en">This note is in a shared folder.</base>
-        <tran loc="es">Esta nota se encuentra en una carpeta compartida.</tran>
+        <tran loc="es-419">Esta nota está en una carpeta compartida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1810,7 +1810,7 @@
       <Position>SETTINGS_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Share Options</base>
-        <tran loc="es">Opciones para compartir</tran>
+        <tran loc="es-419">Opciones para compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1818,7 +1818,7 @@
       <Position>SETTINGS_TITLE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Share Options</base>
-        <tran loc="es">Opciones para compartir</tran>
+        <tran loc="es-419">Opciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1826,7 +1826,7 @@
       <Position>File provider component not found</Position>
       <TranslationSet>
         <base loc="en">File provider component not found</base>
-        <tran loc="es">Componente del proveedor de archivos no encontrado</tran>
+        <tran loc="es-419">No se encontró el componente del proveedor de archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1834,7 +1834,7 @@
       <Position>ALERT_EXISTING_SHARED_ITEMS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sharing this folder will change who can read and edit all items within it.</base>
-        <tran loc="es">Al compartir esta carpeta, cambiará quién puede leer y editar todos los ítems que contiene.</tran>
+        <tran loc="es-419">Si compartes esta carpeta, se cambiarán los derechos de lectura y escritura de todos los elementos que contiene.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1842,7 +1842,7 @@
       <Position>PARTICIPANT_ME_TEXT</Position>
       <TranslationSet>
         <base loc="en">%@ (Me)</base>
-        <tran loc="es">%@ (yo)</tran>
+        <tran loc="es-419">%@ (yo)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1850,7 +1850,7 @@
       <Position>Doesn’t support exporting files</Position>
       <TranslationSet>
         <base loc="en">Doesn’t support exporting files</base>
-        <tran loc="es">No admite la exportación de archivos</tran>
+        <tran loc="es-419">No permite exportar archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1858,7 +1858,7 @@
       <Position>%@, %@ &amp; %lu more…</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@ &amp; %3$lu more…</base>
-        <tran loc="es">%1$@, %2$@ y %3$lu más…</tran>
+        <tran loc="es-419">%1$@, %2$@ y %3$lu más…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1866,7 +1866,7 @@
       <Position>MAIL_TEMPLATE_BODY_SPREADSHEET</Position>
       <TranslationSet>
         <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared spreadsheet:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
-        <tran loc="es">&lt;br&gt;&lt;br&gt;Abre mi hoja de cálculo compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+        <tran loc="es-419">&lt;br&gt;&lt;br&gt;Abre mi hoja de cálculo compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1874,7 +1874,7 @@
       <Position>SETTINGS_DETAIL_PUBLIC_RW_TEXT</Position>
       <TranslationSet>
         <base loc="en">Anyone with the link can make changes.</base>
-        <tran loc="es">Cualquiera con el enlace puede hacer cambios.</tran>
+        <tran loc="es-419">Quien tenga el enlace puede hacer cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1882,7 +1882,7 @@
       <Position>Some people can make changes, others can only view.</Position>
       <TranslationSet>
         <base loc="en">Some people can make changes, others can only view.</base>
-        <tran loc="es">Algunas personas pueden editarlo, otras solo lo pueden ver.</tran>
+        <tran loc="es-419">Algunos pueden hacer cambios, otros sólo ver.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1890,7 +1890,7 @@
       <Position>IWORK_LEGACY_TEXT_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">To share this presentation, get the latest version of Keynote from the App Store.</base>
-        <tran loc="es">Para compartir esta presentación, descarga la versión de Keynote más reciente de App Store.</tran>
+        <tran loc="es-419">Para compartir esta presentación, descarga la versión más reciente de Keynote disponible en App Store.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1898,7 +1898,7 @@
       <Position>Would you like to rename the file you are about to export?</Position>
       <TranslationSet>
         <base loc="en">Would you like to rename the file you are about to export?</base>
-        <tran loc="es">¿Quieres renombrar el archivo que te dispones a exportar?</tran>
+        <tran loc="es-419">¿Quieres renombrar el archivo por exportar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1906,7 +1906,7 @@
       <Position>SETTINGS_SWITCH_TO_ACL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Change to Invite Only?</base>
-        <tran loc="es">¿Cambiar a “Solo invitados”?</tran>
+        <tran loc="es-419">¿Cambiar a “Sólo por invitación”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1914,7 +1914,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PUBLIC_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Only people in the shared folder “%@” can use the link to access this presentation.</base>
-        <tran loc="es">Solo las personas de la carpeta compartida “%@” pueden usar el enlace para acceder a esta presentación.</tran>
+        <tran loc="es-419">Sólo las personas en la carpeta compartida “%@” pueden usar el enlace para acceder a esta presentación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1922,7 +1922,7 @@
       <Position>Only people you invite</Position>
       <TranslationSet>
         <base loc="en">Only people you invite</base>
-        <tran loc="es">Solo las personas que invites</tran>
+        <tran loc="es-419">Sólo tus invitados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1930,7 +1930,7 @@
       <Position>SHARED_BY_OTHER_TEXT</Position>
       <TranslationSet>
         <base loc="en">Shared by %@</base>
-        <tran loc="es">Compartido por %@</tran>
+        <tran loc="es-419">Por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1938,7 +1938,7 @@
       <Position>Shared by SomeoneElseThanMe</Position>
       <TranslationSet>
         <base loc="en">Shared by %@</base>
-        <tran loc="es">Compartido por %@</tran>
+        <tran loc="es-419">Por %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1946,7 +1946,7 @@
       <Position>Downloading \"%@\"</Position>
       <TranslationSet>
         <base loc="en">Downloading a Copy of “%@”</base>
-        <tran loc="es">Descargando una copia de “%@”</tran>
+        <tran loc="es-419">Descargando una copia de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1954,7 +1954,7 @@
       <Position>SETTINGS_DETAIL_ACL_RW_TEXT</Position>
       <TranslationSet>
         <base loc="en">People you invite can make changes.</base>
-        <tran loc="es">Las personas que invites pueden hacer cambios.</tran>
+        <tran loc="es-419">Tus invitados pueden hacer cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1962,7 +1962,7 @@
       <Position>GIVE_ACCESS_INFO_LABEL_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">Only people you add will be able to access this document.</base>
-        <tran loc="es">Solo pueden acceder a este documento las personas que añadas.</tran>
+        <tran loc="es-419">Sólo quienes agregues podrán ver este documento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1970,7 +1970,7 @@
       <Position>Doesn’t support importing files</Position>
       <TranslationSet>
         <base loc="en">Doesn’t support importing files</base>
-        <tran loc="es">No admite la importación de archivos</tran>
+        <tran loc="es-419">No permite importar archivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1978,7 +1978,7 @@
       <Position>COULD_NOT_COPY_LINK_MESSAGE_TEXT_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Sorry, the presentation link couldn’t be copied.</base>
-        <tran loc="es">No se ha podido copiar el enlace de la presentación.</tran>
+        <tran loc="es-419">No se pudo copiar el enlace de la presentación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1986,7 +1986,7 @@
       <Position>MAIL_TEMPLATE_BODY_FOLDER</Position>
       <TranslationSet>
         <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared folder:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
-        <tran loc="es">&lt;br&gt;&lt;br&gt;Abre mi carpeta compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+        <tran loc="es-419">&lt;br&gt;&lt;br&gt;Abre mi carpeta compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1994,7 +1994,7 @@
       <Position>MAIL_TEMPLATE_BODY_NOTES_FOLDER</Position>
       <TranslationSet>
         <base loc="en">&lt;br&gt;&lt;br&gt;Open my shared folder:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
-        <tran loc="es">&lt;br&gt;&lt;br&gt;Abre mi carpeta compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+        <tran loc="es-419">&lt;br&gt;&lt;br&gt;Abre mi carpeta compartida:&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2002,7 +2002,7 @@
       <Position>STOP_SHARING_MESSAGE_TEXT_FOLDER</Position>
       <TranslationSet>
         <base loc="en">If you stop sharing, other people will no longer have access to this folder or any items within it. It will be deleted from iCloud Drive on all of their devices.</base>
-        <tran loc="es">Si dejas de compartir esta carpeta, los demás ya no tendrán acceso a ella ni a los archivos que contiene, y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
+        <tran loc="es-419">Si dejas de compartir, los demás ya no tendrán acceso a esta carpeta —o a cualquier elemento que contenga— y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2010,7 +2010,7 @@
       <Position>New filename</Position>
       <TranslationSet>
         <base loc="en">New filename</base>
-        <tran loc="es">Nuevo nombre de archivo</tran>
+        <tran loc="es-419">Nuevo nombre de archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2018,7 +2018,7 @@
       <Position>Tags[sort option]</Position>
       <TranslationSet>
         <base loc="en">Tags</base>
-        <tran loc="es">Etiquetas</tran>
+        <tran loc="es-419">Etiquetas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2026,7 +2026,7 @@
       <Position>SHARE_INVITE_SHARE_AS_OWNER_TEXT</Position>
       <TranslationSet>
         <base loc="en">%1$@ (%2$@)</base>
-        <tran loc="es">%1$@ (%2$@)</tran>
+        <tran loc="es-419">%1$@ (%2$@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2034,7 +2034,7 @@
       <Position>PARTICIPANT_EVERYONE_TEXT</Position>
       <TranslationSet>
         <base loc="en">Everyone</base>
-        <tran loc="es">Todos</tran>
+        <tran loc="es-419">Todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2042,7 +2042,7 @@
       <Position>GIVE_ACCESS_TO_LABEL</Position>
       <TranslationSet>
         <base loc="en">To:</base>
-        <tran loc="es">Para:</tran>
+        <tran loc="es-419">Para:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2050,7 +2050,7 @@
       <Position>STOP_SHARING_MESSAGE_TEXT_DOCUMENT</Position>
       <TranslationSet>
         <base loc="en">If you stop sharing, other people will no longer have access to this document and it will be deleted from iCloud Drive on all of their devices.</base>
-        <tran loc="es">Si dejas de compartir este documento, los demás ya no tendrán acceso a él y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
+        <tran loc="es-419">Si dejas de compartir, los demás ya no tendrán acceso a este documento y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2058,7 +2058,7 @@
       <Position>SETTINGS_DETAIL_ACL_RW_SUMMARY_TEXT</Position>
       <TranslationSet>
         <base loc="en">Only people you invite can make changes.</base>
-        <tran loc="es">Solo pueden hacer cambios los invitados.</tran>
+        <tran loc="es-419">Sólo tus invitados puede hacer cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2067,7 +2067,7 @@
       <Position>%lu items</Position>
       <TranslationSet>
         <base loc="en">%lu items</base>
-        <tran loc="es">%lu ítems</tran>
+        <tran loc="es-419">%lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2075,7 +2075,7 @@
       <Position>STOP_SHARING_MESSAGE_TEXT_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">If you stop sharing, other people will no longer have access to this presentation and it will be deleted from iCloud Drive on all of their devices.</base>
-        <tran loc="es">Si dejas de compartir esta presentación, los demás ya no tendrán acceso a ella y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
+        <tran loc="es-419">Si dejas de compartir, los demás ya no tendrán acceso a esta presentación y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2083,7 +2083,7 @@
       <Position>GIVE_ACCESS_INFO_LABEL_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Only people you add will be able to access this presentation.</base>
-        <tran loc="es">Solo pueden acceder a esta presentación las personas que añadas.</tran>
+        <tran loc="es-419">Sólo quienes agregues podrán ver esta presentación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2091,7 +2091,7 @@
       <Position>Doesn’t support the file type</Position>
       <TranslationSet>
         <base loc="en">Doesn’t support the file type</base>
-        <tran loc="es">No admite ese tipo de archivo</tran>
+        <tran loc="es-419">Incompatible con el tipo de archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2099,7 +2099,7 @@
       <Position>This document has been shared to you. You cannot move it to a different location.</Position>
       <TranslationSet>
         <base loc="en">This document has been shared to you. You cannot move it to a different location.</base>
-        <tran loc="es">Este documento se ha compartido contigo. No puedes trasladarlo a otra ubicación.</tran>
+        <tran loc="es-419">Compartiste este documento. No puedes moverlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2107,7 +2107,7 @@
       <Position>SETTINGS_SWITCH_TO_ACL_MESSAGE_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Everyone will be removed from this presentation and it will be deleted from iCloud Drive on all of their devices.</base>
-        <tran loc="es">Se eliminará a todos los usuarios de esta presentación, y la presentación se eliminará de iCloud Drive en todos sus dispositivos.</tran>
+        <tran loc="es-419">Se eliminará a todas las personas de esta presentación y se eliminará de iCloud Drive en todos sus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2115,7 +2115,7 @@
       <Position>modified %lu months ago</Position>
       <TranslationSet>
         <base loc="en">modified %lu months ago</base>
-        <tran loc="es">modificado hace %lu meses</tran>
+        <tran loc="es-419">se modificó hace %lu meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2123,7 +2123,7 @@
       <Position>ERROR_MESSAGE_COULD_NOT_ADD_PARTICIPANTS_WITH_SINGLE_ADDRESS</Position>
       <TranslationSet>
         <base loc="en">“%@” is not valid. Please enter a valid email address or phone number, then try sharing again.</base>
-        <tran loc="es">“%@” no es válido. Introduce una dirección de correo o un número de teléfono válido e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede validar “%@”. Ingresa un correo o número telefónico válido y reintenta compartir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2131,7 +2131,7 @@
       <Position>SETTINGS_DETAIL_ACL_MIXED_TEXT</Position>
       <TranslationSet>
         <base loc="en">People you invite can open.</base>
-        <tran loc="es">Las personas que invites pueden abrirlo.</tran>
+        <tran loc="es-419">Tus invitados pueden abrir esto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2139,7 +2139,7 @@
       <Position>Would you like to rename the file you are about to move?</Position>
       <TranslationSet>
         <base loc="en">Would you like to rename the file you are about to move?</base>
-        <tran loc="es">¿Quieres renombrar el archivo que te dispones a trasladar?</tran>
+        <tran loc="es-419">¿Quieres renombrar del archivo que vas a mover?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2147,7 +2147,7 @@
       <Position>LEAVE_SHARE_ACTION_TEXT</Position>
       <TranslationSet>
         <base loc="en">Remove Me</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Darme de baja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2155,7 +2155,7 @@
       <Position>SETTINGS_COPY_LINK_SUBFOLDERTITLE_PRIVATE_PRESENTATION</Position>
       <TranslationSet>
         <base loc="en">Only people you invited to the shared folder “%@” can use the link to access this presentation.</base>
-        <tran loc="es">Solo las personas que has invitado a la carpeta compartida “%@” pueden usar el enlace para acceder a esta presentación.</tran>
+        <tran loc="es-419">Sólo las personas que tú invitaste a la carpeta compartida “%@” pueden usar el enlace para acceder a esta presentación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2163,7 +2163,7 @@
       <Position>ERROR_MESSAGE_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2171,7 +2171,7 @@
       <Position>ERROR_MESSAGE_INITIAL_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2179,7 +2179,7 @@
       <Position>MAIL_TEMPLATE_BODY</Position>
       <TranslationSet>
         <base loc="en">&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</base>
-        <tran loc="es">&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
+        <tran loc="es-419">&lt;br&gt;&lt;br&gt;#LINK_FRAGMENT#</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2187,7 +2187,7 @@
       <Position>Phone number</Position>
       <TranslationSet>
         <base loc="en">Phone number</base>
-        <tran loc="es">Número de teléfono</tran>
+        <tran loc="es-419">Número de teléfono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2195,7 +2195,7 @@
       <Position>Moving this document will unshare it</Position>
       <TranslationSet>
         <base loc="en">Moving this document will unshare it</base>
-        <tran loc="es">Si trasladas este documento, dejarás de compartirlo</tran>
+        <tran loc="es-419">Se dejará de compartir este documento al moverlo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2203,7 +2203,7 @@
       <Position>STOP_SHARING_MESSAGE_TEXT</Position>
       <TranslationSet>
         <base loc="en">If you stop sharing, other people will no longer have access to “%@”.</base>
-        <tran loc="es">Si dejas de compartir “%@”, los demás ya no tendrán acceso.</tran>
+        <tran loc="es-419">Si se deja de compartir, otras personas perderán acceso a “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2211,7 +2211,7 @@
       <Position>STOP_SHARING_MESSAGE_TEXT_CLOUDKIT</Position>
       <TranslationSet>
         <base loc="en">If you stop sharing, other people will no longer have access to “%@”.</base>
-        <tran loc="es">Si dejas de compartir “%@”, los demás ya no tendrán acceso.</tran>
+        <tran loc="es-419">Si se deja de compartir, otras personas perderán acceso a “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2219,7 +2219,7 @@
       <Position>Failed to make file available</Position>
       <TranslationSet>
         <base loc="en">Failed to make file available</base>
-        <tran loc="es">Error al hacer que el archivo esté disponible</tran>
+        <tran loc="es-419">El archivo sigue sin estar disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2227,7 +2227,7 @@
       <Position>POST_SHARE_LIST_TITLE_BACK_BUTTON_TEXT</Position>
       <TranslationSet>
         <base loc="en">People</base>
-        <tran loc="es">Personas</tran>
+        <tran loc="es-419">Personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2235,7 +2235,7 @@
       <Position>POST_SHARE_LIST_TITLE_TEXT</Position>
       <TranslationSet>
         <base loc="en">People</base>
-        <tran loc="es">Personas</tran>
+        <tran loc="es-419">Personas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2243,7 +2243,7 @@
       <Position>Open</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2251,7 +2251,7 @@
       <Position>LEAVE_SHARE_MESSAGE_TEXT_NOTE</Position>
       <TranslationSet>
         <base loc="en">Removing yourself from this shared note will delete the note from all your devices.</base>
-        <tran loc="es">Si te eliminas de esta nota compartida, esta se eliminará de todos tus dispositivos.</tran>
+        <tran loc="es-419">Al eliminarte de esta nota compartida se eliminará de todos tus dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2259,7 +2259,7 @@
       <Position>NON_ROOT_ITEM_PARTICIPANT_INFORMATION_TEXT_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder is in a shared folder.</base>
-        <tran loc="es">Esta carpeta se encuentra en una carpeta compartida.</tran>
+        <tran loc="es-419">Esta carpeta está en una carpeta compartida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2267,7 +2267,7 @@
       <Position>ALERT_APPSTORE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">App Store</base>
-        <tran loc="es">App Store</tran>
+        <tran loc="es-419">App Store</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2275,7 +2275,7 @@
       <Position>Unknown participant</Position>
       <TranslationSet>
         <base loc="en">Unknown participant</base>
-        <tran loc="es">Participante desconocido</tran>
+        <tran loc="es-419">Participante desconocido</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2286,7 +2286,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Save to Files</base>
-        <tran loc="es">Guardar en Archivos</tran>
+        <tran loc="es-419">Guardar en Archivos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2297,7 +2297,7 @@
       <Position>/NAV_TITLE_TEXT:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Share via iCloud</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir por iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2305,7 +2305,7 @@
       <Position>/modified %lu minutes ago:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu minutes ago</base>
-        <tran loc="es">modificado hace %lu minutos</tran>
+        <tran loc="es-419">se modificó hace %lu minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2313,7 +2313,7 @@
       <Position>/modified %lu minutes ago:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu minutes ago</base>
-        <tran loc="es">modificado hace %lu minutos</tran>
+        <tran loc="es-419">se modificó hace %lu minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2321,7 +2321,7 @@
       <Position>/Choose a location to add these items.:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Choose a location to add these items.</base>
-        <tran loc="es">Selecciona dónde quieres añadir estos ítems.</tran>
+        <tran loc="es-419">Elige dónde agregar estos elementos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2329,7 +2329,7 @@
       <Position>/modified %lu days ago:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified one day ago</base>
-        <tran loc="es">modificado hace un día</tran>
+        <tran loc="es-419">se modificó hace un día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2337,7 +2337,7 @@
       <Position>/TITLE_CREATE_SHARE_TEXT:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Preparing…</base>
-        <tran loc="es">Preparando…</tran>
+        <tran loc="es-419">Preparando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2345,7 +2345,7 @@
       <Position>/modified %lu hours ago:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu hours ago</base>
-        <tran loc="es">modificado hace %lu horas</tran>
+        <tran loc="es-419">se modificó hace %lu horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2353,7 +2353,7 @@
       <Position>/modified %lu hours ago:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu hours ago</base>
-        <tran loc="es">modificado hace %lu horas</tran>
+        <tran loc="es-419">se modificó hace %lu horas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2361,7 +2361,7 @@
       <Position>/modified %lu years ago:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified one year ago</base>
-        <tran loc="es">modificado hace un año</tran>
+        <tran loc="es-419">se modificó hace un año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2369,7 +2369,7 @@
       <Position>/GIVE_ACCESS_PLACEHOLDER:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Emails or phone numbers</base>
-        <tran loc="es">Dirección de correo o teléfono</tran>
+        <tran loc="es-419">Número telefónicos o correos electrónicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2377,7 +2377,7 @@
       <Position>/Choose a new location to move these items.:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Choose a new location to move these items.</base>
-        <tran loc="es">Selecciona dónde quieres trasladar estos ítems.</tran>
+        <tran loc="es-419">Elige a dónde mover estos elementos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2385,7 +2385,7 @@
       <Position>/modified %lu years ago:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu years ago</base>
-        <tran loc="es">modificado hace %lu años</tran>
+        <tran loc="es-419">se modificó hace %lu años</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2393,7 +2393,7 @@
       <Position>/modified %lu years ago:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu years ago</base>
-        <tran loc="es">modificado hace %lu años</tran>
+        <tran loc="es-419">se modificó hace %lu años</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2401,7 +2401,7 @@
       <Position>/Choose a new location to move these items.:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Choose a new location to move this item.</base>
-        <tran loc="es">Selecciona dónde quieres trasladar este ítem.</tran>
+        <tran loc="es-419">Elige a dónde mover este elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2409,7 +2409,7 @@
       <Position>/modified %lu days ago:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu days ago</base>
-        <tran loc="es">modificado hace %lu días</tran>
+        <tran loc="es-419">se modificó hace %lu días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2417,7 +2417,7 @@
       <Position>/modified %lu days ago:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu days ago</base>
-        <tran loc="es">modificado hace %lu días</tran>
+        <tran loc="es-419">se modificó hace %lu días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2425,7 +2425,7 @@
       <Position>/%lu items:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu item</base>
-        <tran loc="es">%lu ítem</tran>
+        <tran loc="es-419">%lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2433,7 +2433,7 @@
       <Position>/modified %lu hours ago:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified an hour ago</base>
-        <tran loc="es">modificado hace una hora</tran>
+        <tran loc="es-419">se modificó hace una hora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2441,7 +2441,7 @@
       <Position>/modified %lu minutes ago:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified a minute ago</base>
-        <tran loc="es">modificado hace un minuto</tran>
+        <tran loc="es-419">se modificó hace un minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2449,7 +2449,7 @@
       <Position>/Choose a location to add these items.:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Choose a location to add this item.</base>
-        <tran loc="es">Selecciona dónde quieres añadir este ítem.</tran>
+        <tran loc="es-419">Elige dónde agregar este elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2457,7 +2457,7 @@
       <Position>/NAV_TITLE_TEXT_IWORK:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Collaborate</base>
-        <tran loc="es">Colaborar</tran>
+        <tran loc="es-419">Colaborar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2465,7 +2465,7 @@
       <Position>/%lu items:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2473,7 +2473,7 @@
       <Position>/Choose a location to add these items.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2481,7 +2481,7 @@
       <Position>/Choose a new location to move these items.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2489,7 +2489,7 @@
       <Position>/modified %lu days ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2497,7 +2497,7 @@
       <Position>/modified %lu hours ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2505,7 +2505,7 @@
       <Position>/modified %lu minutes ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2513,7 +2513,7 @@
       <Position>/modified %lu months ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2521,7 +2521,7 @@
       <Position>/modified %lu years ago:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2529,7 +2529,7 @@
       <Position>/%lu items:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu items</base>
-        <tran loc="es">%lu ítems</tran>
+        <tran loc="es-419">%lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2537,7 +2537,7 @@
       <Position>/%lu items:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu items</base>
-        <tran loc="es">%lu ítems</tran>
+        <tran loc="es-419">%lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2545,7 +2545,7 @@
       <Position>/modified %lu months ago:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu months ago</base>
-        <tran loc="es">modificado hace %lu meses</tran>
+        <tran loc="es-419">se modificó hace %lu meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2553,7 +2553,7 @@
       <Position>/modified %lu months ago:dict/items:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified %lu months ago</base>
-        <tran loc="es">modificado hace %lu meses</tran>
+        <tran loc="es-419">se modificó hace %lu meses</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2561,15 +2561,7 @@
       <Position>/modified %lu months ago:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">modified one month ago</base>
-        <tran loc="es">modificado hace un mes</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/NAV_TITLE_TEXT:dict/NSStringVariableWidthRuleType:dict/27:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">Share via iCloud</base>
-        <tran loc="es">Compartir en iCloud</tran>
+        <tran loc="es-419">se modificó hace un mes</tran>
       </TranslationSet>
     </TextItem>
   </File>

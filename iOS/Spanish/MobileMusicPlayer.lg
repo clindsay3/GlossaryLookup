@@ -8,7 +8,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">iPod</base>
-        <tran loc="es">iPod</tran>
+        <tran loc="es-419">iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">© Apple Computer, 2009</base>
-        <tran loc="es">© Apple Computer, 2009</tran>
+        <tran loc="es-419">© Apple Computer, 2009</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -27,7 +27,7 @@
       <Position>BLUETOOTH_LISTENING_MODE_REQUIRES_BOTH_BUDS_IN_EAR</Position>
       <TranslationSet>
         <base loc="en">Place Both AirPods In Your Ears To Use Noise Cancellation</base>
-        <tran loc="es">Ponte los dos AirPods para usar la cancelación de ruido</tran>
+        <tran loc="es-419">Coloca ambos AirPods en tus oídos para usar la cancelación de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +41,7 @@
       <Position>BLUETOOTH_LISTENING_MODE_TRANSPARENCY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Transparency</base>
-        <tran loc="es">Ambiente</tran>
+        <tran loc="es-419">Ambiente</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -52,7 +52,7 @@
       <Position>SELECT_ALBUM_SPOKEN_FORMAT</Position>
       <TranslationSet>
         <base loc="en">playing album %@</base>
-        <tran loc="es">suena el álbum %@</tran>
+        <tran loc="es-419">suena el álbum %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -60,7 +60,7 @@
       <Position>MUSIC_ALREADY_PLAYING</Position>
       <TranslationSet>
         <base loc="en">Music is already playing.</base>
-        <tran loc="es">La música está sonando.</tran>
+        <tran loc="es-419">La música está sonando.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -68,7 +68,7 @@
       <Position>SELECT_PLAYLIST_SPOKEN_FORMAT</Position>
       <TranslationSet>
         <base loc="en">playing playlist %@</base>
-        <tran loc="es">suena la lista %@</tran>
+        <tran loc="es-419">suena la playlist %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -76,7 +76,7 @@
       <Position>UNKNOWN_ARTIST</Position>
       <TranslationSet>
         <base loc="en">unknown artist</base>
-        <tran loc="es">artista desconocido</tran>
+        <tran loc="es-419">artista desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -84,7 +84,7 @@
       <Position>ENABLING_SHUFFLE</Position>
       <TranslationSet>
         <base loc="en">shuffle on</base>
-        <tran loc="es">aleatorio activado</tran>
+        <tran loc="es-419">aleatorio activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -92,7 +92,7 @@
       <Position>GENIUS_NOT_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">genius not available</base>
-        <tran loc="es">Genius no está disponible</tran>
+        <tran loc="es-419">Genius no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -100,7 +100,7 @@
       <Position>GENIUS_TITLE_SPOKEN_FORMAT</Position>
       <TranslationSet>
         <base loc="en">playing genius playlist based on %@</base>
-        <tran loc="es">reproduciendo lista genius basada en %@</tran>
+        <tran loc="es-419">suena la playlist Genius basada en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -108,7 +108,7 @@
       <Position>GENIUS</Position>
       <TranslationSet>
         <base loc="en">playing genius playlist</base>
-        <tran loc="es">suena la lista Genius</tran>
+        <tran loc="es-419">suena la playlist Genius</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -116,7 +116,7 @@
       <Position>IDENTIFY_SONG_TITLE_AND_ARTIST</Position>
       <TranslationSet>
         <base loc="en">now playing %@ by %@</base>
-        <tran loc="es">ahora suena %@ de %@</tran>
+        <tran loc="es-419">ahora suena %@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -124,7 +124,7 @@
       <Position>NO_MUSIC_PLAYING</Position>
       <TranslationSet>
         <base loc="en">No music is playing.</base>
-        <tran loc="es">No suena música.</tran>
+        <tran loc="es-419">No suena música.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -132,7 +132,7 @@
       <Position>NO_MUSIC</Position>
       <TranslationSet>
         <base loc="en">No music.</base>
-        <tran loc="es">No hay música.</tran>
+        <tran loc="es-419">No hay música.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -140,7 +140,7 @@
       <Position>GENIUS_TITLE_ARTIST_SPOKEN_FORMAT</Position>
       <TranslationSet>
         <base loc="en">playing genius playlist based on %@ by %@</base>
-        <tran loc="es">reproduciendo lista genius basada en %@ de %@</tran>
+        <tran loc="es-419">suena la playlist Genius basada en %@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -148,7 +148,7 @@
       <Position>UNKNOWN_TITLE</Position>
       <TranslationSet>
         <base loc="en">untitled song</base>
-        <tran loc="es">canción sin título</tran>
+        <tran loc="es-419">canción sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -156,7 +156,7 @@
       <Position>SELECT_ALBUM_ARTIST_SPOKEN_FORMAT</Position>
       <TranslationSet>
         <base loc="en">playing album %@ by %@</base>
-        <tran loc="es">suena el álbum %@ de %@</tran>
+        <tran loc="es-419">suena el álbum %@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -164,7 +164,7 @@
       <Position>START_PLAYING_MUSIC_CONFIRMATION</Position>
       <TranslationSet>
         <base loc="en">No music is playing.  Do you want to play music now?</base>
-        <tran loc="es">No suena música. ¿Quieres reproducir música ahora?</tran>
+        <tran loc="es-419">No suena música. ¿Quieres reproducir música ahora?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -172,7 +172,7 @@
       <Position>SELECT_ARTIST_SPOKEN_FORMAT</Position>
       <TranslationSet>
         <base loc="en">playing songs by %@</base>
-        <tran loc="es">suenan canciones de %@</tran>
+        <tran loc="es-419">suenan canciones de %@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -183,7 +183,7 @@
       <Position>AIRPLAY_VIDEO_PICKER_BUTTON_TITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Play on iPod</base>
-        <tran loc="es">Reproducir en el iPod</tran>
+        <tran loc="es-419">Reproducir en el iPod</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -191,7 +191,7 @@
       <Position>DISLIKE_TRACK_DEFAULT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Dislike This Track</base>
-        <tran loc="es">No me gusta esta pista</tran>
+        <tran loc="es-419">No te gusta esta pista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -199,7 +199,7 @@
       <Position>AIRPLAY_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">AirPlay</base>
-        <tran loc="es">AirPlay</tran>
+        <tran loc="es-419">AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -207,7 +207,7 @@
       <Position>COMPOSED_BY_TITLE_%@</Position>
       <TranslationSet>
         <base loc="en">By %@</base>
-        <tran loc="es">De %@</tran>
+        <tran loc="es-419">De %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -215,7 +215,7 @@
       <Position>AIRPLAY_VIDEO_PICKER_TITLE</Position>
       <TranslationSet>
         <base loc="en">This app will automatically play on the selected TV.</base>
-        <tran loc="es">Esta app se reproducirá automáticamente en el TV seleccionado.</tran>
+        <tran loc="es-419">Esta app se reproducirá automáticamente en la TV seleccionada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -223,7 +223,7 @@
       <Position>REMOVE_BOOKMARK_TRACK_DEFAULT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Remove Bookmark</base>
-        <tran loc="es">Eliminar marcador</tran>
+        <tran loc="es-419">Eliminar marcador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -231,7 +231,7 @@
       <Position>OK_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -239,7 +239,7 @@
       <Position>BOOKMARK_TRACK_DEFAULT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Bookmark This Track</base>
-        <tran loc="es">Añadir esta pista a los marcadores</tran>
+        <tran loc="es-419">Agregar marcador</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -247,7 +247,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -255,7 +255,7 @@
       <Position>AIRPLAY_CONNECTION_ERROR_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Unable to connect to “%@”.</base>
-        <tran loc="es">No se ha podido establecer conexión con “%@”.</tran>
+        <tran loc="es-419">No se puede conectar con “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -269,7 +269,7 @@
       <Position>LIKE_TRACK_DEFAULT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Like This Track</base>
-        <tran loc="es">Me gusta esta pista</tran>
+        <tran loc="es-419">Te gusta esta pista </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -277,7 +277,7 @@
       <Position>MEDIA_CONTROLS_EMPTY_STATE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not Playing</base>
-        <tran loc="es">Sin reproducir</tran>
+        <tran loc="es-419">Sin reproducción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -285,7 +285,7 @@
       <Position>AIRPLAY_VIDEO_PICKER_BUTTON_TITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Play on iPhone</base>
-        <tran loc="es">Reproducir en el iPhone</tran>
+        <tran loc="es-419">Reproducir en el iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -293,7 +293,7 @@
       <Position>ROUTE_NOT_CONNECTED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Tap to Connect</base>
-        <tran loc="es">Pulsar para conectar</tran>
+        <tran loc="es-419">Toca para conectar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -301,7 +301,7 @@
       <Position>BLUETOOTH_LISTENING_MODE_NOISE_FOCUS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Focus</base>
-        <tran loc="es">Concentración</tran>
+        <tran loc="es-419">Enfoque</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -309,7 +309,7 @@
       <Position>SCRUBBER_LIVE</Position>
       <TranslationSet>
         <base loc="en">LIVE</base>
-        <tran loc="es">EN DIRECTO</tran>
+        <tran loc="es-419">EN VIVO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -317,7 +317,7 @@
       <Position>BLUETOOTH_LISTENING_MODE_NOISE_CONTROL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Noise Control</base>
-        <tran loc="es">Control de ruido</tran>
+        <tran loc="es-419">Control de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>BLUETOOTH_LISTENING_MODE_NOISE_CANCELLATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Noise Cancellation</base>
-        <tran loc="es">Cancelación de ruido</tran>
+        <tran loc="es-419">Cancelar ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>AIRPLAY_VIDEO_PICKER_BUTTON_TITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Play on iPad</base>
-        <tran loc="es">Reproducir en el iPad</tran>
+        <tran loc="es-419">Reproducir en el iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>MEDIA_CONTROLS_PLATTER_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Controls unavailable for this device.</base>
-        <tran loc="es">Los controles no están disponibles para este dispositivo.</tran>
+        <tran loc="es-419">No hay controles disponibles para este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>ROUTE_CONNECTING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Connecting…</base>
-        <tran loc="es">Conectando…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>BLUETOOTH_LISTENING_MODE_OFF_TITLE</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -368,7 +368,7 @@
       <Position>Screen Mirroring Compact</Position>
       <TranslationSet>
         <base loc="en">Screen Mirroring</base>
-        <tran loc="es">Duplicar pantalla</tran>
+        <tran loc="es-419">Duplicar pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +383,7 @@
       <Position>Screen Mirroring Expanded</Position>
       <TranslationSet>
         <base loc="en">Screen Mirroring</base>
-        <tran loc="es">Duplicar pantalla</tran>
+        <tran loc="es-419">Duplicar pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -391,7 +391,7 @@
       <Position>Stop Mirroring</Position>
       <TranslationSet>
         <base loc="en">Stop Mirroring</base>
-        <tran loc="es">Detener duplicación</tran>
+        <tran loc="es-419">Dejar de duplicar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -408,7 +408,7 @@
       <Position>BLUETOOTH_LISTENING_MODE_TRANSPARENCY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Transparency</base>
-        <tran loc="es">Ambiente</tran>
+        <tran loc="es-419">Ambiente</tran>
       </TranslationSet>
     </TextItem>
   </File>

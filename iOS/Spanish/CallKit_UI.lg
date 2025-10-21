@@ -8,7 +8,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>OKAY</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -31,7 +31,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -39,7 +39,7 @@
       <Position>%@_HAS_BLOCKED_%@_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">%@ has blocked %@. Please visit Settings to unblock phone numbers</base>
-        <tran loc="es">%@ ha bloqueado el número %@. Ve a Ajustes para desbloquear números de teléfono</tran>
+        <tran loc="es-419">%2$@ bloqueó a %1$@. Ve a Configuración para desbloquear números de teléfono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -47,7 +47,7 @@
       <Position>NUMBER_HAS_BEEN_BLOCKED</Position>
       <TranslationSet>
         <base loc="en">Phone Number Blocked</base>
-        <tran loc="es">Número de teléfono bloqueado</tran>
+        <tran loc="es-419">Número de teléfono bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -55,7 +55,7 @@
       <Position>SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
   </File>

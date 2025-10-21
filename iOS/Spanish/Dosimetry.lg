@@ -8,7 +8,7 @@
       <Position>THRESHOLD_FOOTER_OFF</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when the average sound level over 3 minutes reaches or exceeds the set level.\n\nDaily limits are derived from World Health Organization recommendations.\n\nSound levels are measured in A-weighted decibels.</base>
-        <tran loc="es">Recibe una notificación cuando, durante más de 3 minutos, el nivel de sonido medio alcance o supere el nivel establecido.\n\nLos límites diarios se derivan de las recomendaciones de la Organización Mundial de la Salud.\n\nLos niveles de sonido se miden en decibelios A.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el nivel promedio de ruido alcance o sobrepase el nivel determinado por más de tres minutos.\n\nLos límites diarios se obtienen de las recomendaciones de la Organización Mundial de la Salud.\n\nLos niveles de sonido se miden en decibeles ponderados A.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>ENVIRONMENTAL_EXPOSURE_AREA_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can check sound levels nearby and notify you when they might affect your hearing.</base>
-        <tran loc="es">El Apple Watch puede comprobar los niveles de sonido cercanos y avisarte si detecta que pueden afectar a tu oído.</tran>
+        <tran loc="es-419">El Apple Watch puede ayudarte a revisar los niveles de ruido cercanos y avisarte cuando podrían estar afectando tu oído.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>ENVIRONMENTAL_EXPOSURE_NOTIFICATION_NAME</Position>
       <TranslationSet>
         <base loc="en">Noise Threshold</base>
-        <tran loc="es">Umbral de ruido</tran>
+        <tran loc="es-419">Umbral de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>THRESHOLD_PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Noise Threshold</base>
-        <tran loc="es">Umbral de ruido</tran>
+        <tran loc="es-419">Umbral de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>ONBOARDING_CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Enable</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>THRESHOLD_LEVEL_INFO_90</Position>
       <TranslationSet>
         <base loc="en">Limit: 30min/day</base>
-        <tran loc="es">Límite: 30 min/día</tran>
+        <tran loc="es-419">Límite: 30 min al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>THRESHOLD_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when the average sound level over 3 minutes reaches or exceeds %@.\n\nDaily limits are derived from World Health Organization recommendations.\n\nSound levels are measured in A-weighted decibels.</base>
-        <tran loc="es">Recibe una notificación cuando, durante más de 3 minutos, el nivel de sonido medio alcance o supere los %@.\n\nLos límites diarios se derivan de las recomendaciones de la Organización Mundial de la Salud.\n\nLos niveles de sonido se miden en decibelios A.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el nivel promedio de ruido alcance o sobrepase %@ por más de tres minutos.\n\nLos límites diarios se obtienen de las recomendaciones de la Organización Mundial de la Salud.\n\nLos niveles de sonido se miden en decibeles ponderados A.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>THRESHOLD_LEVEL_INFO_85</Position>
       <TranslationSet>
         <base loc="en">Limit: 1hr 45min/day</base>
-        <tran loc="es">Límite: 1 h 45 min/día</tran>
+        <tran loc="es-419">Límite: 1 h 45 min al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>ENVIRONMENTAL_EXPOSURE_AREA_TITLE</Position>
       <TranslationSet>
         <base loc="en">Noise</base>
-        <tran loc="es">Ruido</tran>
+        <tran loc="es-419">Ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>MAIN_PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Noise</base>
-        <tran loc="es">Ruido</tran>
+        <tran loc="es-419">Ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>NOTIFICATION_COALESCING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notification Grouping</base>
-        <tran loc="es">Agrupar notificaciones</tran>
+        <tran loc="es-419">Agrupación de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>THRESHOLD_LEVEL_INFO_95</Position>
       <TranslationSet>
         <base loc="en">Limit: 10min/day</base>
-        <tran loc="es">Límite: 10 min/día</tran>
+        <tran loc="es-419">Límite: 10 min al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>ENVIRONMENTAL_EXPOSURE_ENABLE_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Use the microphone to measure environmental sound levels throughout the day. Your watch does not record or save any sounds to measure these levels.</base>
-        <tran loc="es">Se usa el micrófono para medir los niveles de sonido ambiental a lo largo del día. Tu reloj no registra ni guarda ningún sonido para medir estos niveles.</tran>
+        <tran loc="es-419">Usa el micrófono para medir los niveles de ruido ambiental en el transcurso del día. Tu Apple Watch no graba ningún sonido al medirlos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>THRESHOLD_LEVEL_INFO_100</Position>
       <TranslationSet>
         <base loc="en">Limit: 3min/day</base>
-        <tran loc="es">Límite: 3 min/día</tran>
+        <tran loc="es-419">Límite: 3 min al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>ENVIRONMENTAL_EXPOSURE_ENABLE_NAME</Position>
       <TranslationSet>
         <base loc="en">Environmental Sound Measurements</base>
-        <tran loc="es">Mediciones del sonido ambiental</tran>
+        <tran loc="es-419">Medidas de ruido ambiental</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>NOTIFICATION_COALESCING_AUTO</Position>
       <TranslationSet>
         <base loc="en">Automatically</base>
-        <tran loc="es">Automáticamente</tran>
+        <tran loc="es-419">Automáticamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>TRESHOLD_OFF_INFO</Position>
       <TranslationSet>
         <base loc="en">No notifications</base>
-        <tran loc="es">Ninguna notificación</tran>
+        <tran loc="es-419">Sin notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>ENVIRONMENTAL_EXPOSURE_NOTIFICATION_HEADER</Position>
       <TranslationSet>
         <base loc="en">Noise Notifications</base>
-        <tran loc="es">Notificaciones de ruido</tran>
+        <tran loc="es-419">Notificaciones por ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>ONBOARDING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Noise Notifications</base>
-        <tran loc="es">Notificaciones de ruido</tran>
+        <tran loc="es-419">Notificaciones por ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>NOTIFICATION_COALESCING_BY_APP</Position>
       <TranslationSet>
         <base loc="en">By App</base>
-        <tran loc="es">Por app</tran>
+        <tran loc="es-419">Por app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>ONBOARDING_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can check sound levels nearby and notify you when they might affect your hearing. This uses the microphone but does not record or save any sounds.</base>
-        <tran loc="es">El Apple Watch puede comprobar los niveles de sonido cercanos y avisarte si detecta que pueden afectar a tu oído. Para ello se utiliza el micrófono, pero no se graba ni guarda ningún sonido.</tran>
+        <tran loc="es-419">El Apple Watch puede ayudarte a revisar los niveles de ruido cercanos y avisarte cuando podrían estar afectando tu oído. Aunque esta función utiliza el micrófono, no se grabará ningún sonido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>LEARN_MORE_LINK</Position>
       <TranslationSet>
         <base loc="en">Learn more about these notifications.</base>
-        <tran loc="es">Más información sobre estas notificaciones.</tran>
+        <tran loc="es-419">Más información sobre estas notificaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>ENVIRONMENTAL_EXPOSURE_NOTIFICATION_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when Apple Watch identifies sound levels that could be harmful to your hearing.\n%@\n\nWater or wind can affect the accuracy of sound levels.</base>
-        <tran loc="es">Recibe una notificación cuando el Apple Watch identifica unos niveles de sonido que podrían dañar el oído.\n%@\n\nEl agua o el viento pueden afectar a la precisión de los niveles de sonido.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el Apple Watch identifique niveles de ruido que pudieran ser perjudiciales para tu audición.\n%@\n\nEl agua o el viento podrían reducir la precisión de las mediciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>THRESHOLD_LEVEL_INFO_80</Position>
       <TranslationSet>
         <base loc="en">Limit: 5hr 30min/day</base>
-        <tran loc="es">Límite: 5 h 30 min/día</tran>
+        <tran loc="es-419">Límite: 5 h 30 min al día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>NOTIFICATION_COALESCING_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>TRESHOLD_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>ONBOARDING_LATER</Position>
       <TranslationSet>
         <base loc="en">Set Up Later</base>
-        <tran loc="es">Configurar más tarde</tran>
+        <tran loc="es-419">Configurar más tarde</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -233,7 +233,7 @@
       <Position>/THRESHOLD_LEVEL:dict/decibels:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d decibels</base>
-        <tran loc="es">%d decibelios</tran>
+        <tran loc="es-419">%d decibeles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>/THRESHOLD_LEVEL:dict/decibels:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d decibel</base>
-        <tran loc="es">%d decibelio</tran>
+        <tran loc="es-419">%d decibel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>/THRESHOLD_LEVEL:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@decibels@</base>
-        <tran loc="es">%#@decibels@</tran>
+        <tran loc="es-419">%#@decibels@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -266,7 +266,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Noise</base>
-        <tran loc="es">Ruido</tran>
+        <tran loc="es-419">Ruido</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -277,7 +277,7 @@
       <Position>LOUD_LABEL</Position>
       <TranslationSet>
         <base loc="en">Loud</base>
-        <tran loc="es">Ruidoso</tran>
+        <tran loc="es-419">Alto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -285,7 +285,7 @@
       <Position>LEVEL_SHORT</Position>
       <TranslationSet>
         <base loc="en">%@dB</base>
-        <tran loc="es">%@ dB</tran>
+        <tran loc="es-419">%@ dB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -293,7 +293,7 @@
       <Position>SUSPENDED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Suspended</base>
-        <tran loc="es">Suspendido</tran>
+        <tran loc="es-419">Suspendida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -301,7 +301,7 @@
       <Position>BEZEL_SUSPENDED_LABEL</Position>
       <TranslationSet>
         <base loc="en">Noise Suspended</base>
-        <tran loc="es">Ruido suspendido</tran>
+        <tran loc="es-419">App Ruido suspendida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -309,7 +309,7 @@
       <Position>SETUP_NOISE</Position>
       <TranslationSet>
         <base loc="en">Set Up Noise</base>
-        <tran loc="es">Configurar Ruido</tran>
+        <tran loc="es-419">Definir Ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -317,7 +317,7 @@
       <Position>MEASUREMENTS_LABEL</Position>
       <TranslationSet>
         <base loc="en">Measurements</base>
-        <tran loc="es">Mediciones</tran>
+        <tran loc="es-419">Medidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>OK_LABEL</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>UNKNOWN_DECIBELS_LEVEL</Position>
       <TranslationSet>
         <base loc="en"> </base>
-        <tran loc="es"> </tran>
+        <tran loc="es-419"> </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>SETUP_LONG</Position>
       <TranslationSet>
         <base loc="en">Tap to Set Up</base>
-        <tran loc="es">Pulsa para configurar</tran>
+        <tran loc="es-419">Toca para configurar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -355,7 +355,7 @@
       <Position>APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Noise</base>
-        <tran loc="es">Ruido</tran>
+        <tran loc="es-419">Ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -363,7 +363,7 @@
       <Position>CLASSIFIER_SUSPENDED</Position>
       <TranslationSet>
         <base loc="en">Noise</base>
-        <tran loc="es">Ruido</tran>
+        <tran loc="es-419">Ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -371,7 +371,7 @@
       <Position>BEZEL_LABEL</Position>
       <TranslationSet>
         <base loc="en">%@ Noise Level</base>
-        <tran loc="es">Nivel de ruido: %@</tran>
+        <tran loc="es-419">Nivel de ruido %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -379,7 +379,7 @@
       <Position>UNIT_LABEL_LONG</Position>
       <TranslationSet>
         <base loc="en">decibels</base>
-        <tran loc="es">decibelios</tran>
+        <tran loc="es-419">decibeles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -387,7 +387,7 @@
       <Position>HEADER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Noise Level</base>
-        <tran loc="es">Nivel de ruido</tran>
+        <tran loc="es-419">Nivel de ruido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -395,7 +395,7 @@
       <Position>SETUP_SHORT</Position>
       <TranslationSet>
         <base loc="en">Set Up</base>
-        <tran loc="es">Configurar</tran>
+        <tran loc="es-419">Configurar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -403,7 +403,7 @@
       <Position>LEVEL_SUMMARY</Position>
       <TranslationSet>
         <base loc="en">%@, %@dB</base>
-        <tran loc="es">%@, %@ dB</tran>
+        <tran loc="es-419">%@, %@ dB</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -411,7 +411,7 @@
       <Position>UNIT_LABEL</Position>
       <TranslationSet>
         <base loc="en">dB</base>
-        <tran loc="es">dB</tran>
+        <tran loc="es-419">dB</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -422,7 +422,7 @@
       <Position>/LEVEL_LONG:dict/decibels:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d decibels</base>
-        <tran loc="es">%d decibelios</tran>
+        <tran loc="es-419">%d decibeles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -430,7 +430,7 @@
       <Position>/LEVEL_LONG:dict/decibels:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d decibel</base>
-        <tran loc="es">%d decibelio</tran>
+        <tran loc="es-419">%d decibel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@
       <Position>/LEVEL_LONG:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@decibels@</base>
-        <tran loc="es">%#@decibels@</tran>
+        <tran loc="es-419">%#@decibels@</tran>
       </TranslationSet>
     </TextItem>
   </File>

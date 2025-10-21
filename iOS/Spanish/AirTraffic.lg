@@ -14,7 +14,7 @@
       <Position>ITUNES_SYNC</Position>
       <TranslationSet>
         <base loc="en">iTunes Sync</base>
-        <tran loc="es">Sincronización con iTunes</tran>
+        <tran loc="es-419">Sincronización con iTunes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>APP_INSTALL_FAIL_PROFILE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">‘%@’ failed to install.</base>
-        <tran loc="es">Error al instalar “%@”.</tran>
+        <tran loc="es-419">Error al instalar “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>ITUNES_SYNC_IN_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">iTunes Sync in Progress</base>
-        <tran loc="es">Sincronización con iTunes en curso</tran>
+        <tran loc="es-419">Sincronización con iTunes en curso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>NUM_ITEMS_FORMAT_PLURAL</Position>
       <TranslationSet>
         <base loc="en">%@ items could not be synced. See iTunes for more information.</base>
-        <tran loc="es">No se han podido sincronizar %@ ítems. Puedes obtener más información en iTunes.</tran>
+        <tran loc="es-419">No se pudieron sincronizar %@ elementos. Puedes obtener más información en iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>ICLOUD_RESTORE</Position>
       <TranslationSet>
         <base loc="en">iCloud Restore</base>
-        <tran loc="es">Restauración iCloud</tran>
+        <tran loc="es-419">Restauración iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>NUM_ITEMS_FORMAT_SINGLE</Position>
       <TranslationSet>
         <base loc="en">%@ item could not be synced. See iTunes for more information.</base>
-        <tran loc="es">No se ha podido sincronizar %@ ítem. Puedes obtener más información en iTunes.</tran>
+        <tran loc="es-419">No se pudo sincronizar %@ elemento. Puedes obtener más información en iTunes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>WAIT_FOR_FINISH_FORMAT_DEVICE</Position>
       <TranslationSet>
         <base loc="en">Wait for iTunes to finish syncing your content before disconnecting your %@.</base>
-        <tran loc="es">No desconectes %@ hasta que la sincronización del contenido con iTunes haya finalizado.</tran>
+        <tran loc="es-419">No desconectes %@ hasta que la sincronización del contenido con iTunes haya finalizado.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -73,7 +73,7 @@
       <Position>ASSET_TYPE_ITUNESUVIDEOS</Position>
       <TranslationSet>
         <base loc="en">iTunes U Videos</base>
-        <tran loc="es">Vídeos de iTunes U</tran>
+        <tran loc="es-419">Videos de iTunes U</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>HEADER_TEXT_WIFI_IPAD</Position>
       <TranslationSet>
         <base loc="en">Automatically sync with iTunes on your computer when your iPad is plugged in to power and connected to Wi‑Fi.</base>
-        <tran loc="es">Sincronizar con iTunes en el ordenador automáticamente\ncuando el iPad esté enchufado a la corriente y conectado a una red Wi-Fi.</tran>
+        <tran loc="es-419">Sincronizar con iTunes en la computadora automáticamente\ncuando tu iPad esté conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>ITUNES_WLAN_SYNC</Position>
       <TranslationSet>
         <base loc="en">iTunes WLAN Sync</base>
-        <tran loc="es">Sincronización con iTunes vía WLAN</tran>
+        <tran loc="es-419">Sincronización con iTunes vía WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>ITUNES_WLAN_SYNC_SHORT</Position>
       <TranslationSet>
         <base loc="en">iTunes WLAN Sync</base>
-        <tran loc="es">Sincr. iTunes (WLAN)</tran>
+        <tran loc="es-419">Sincr. iTunes (WLAN)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>ITUNES_WLAN_SYNC_SHORT_IPAD</Position>
       <TranslationSet>
         <base loc="en">iTunes WLAN Sync</base>
-        <tran loc="es">Sincronización con iTunes vía WLAN</tran>
+        <tran loc="es-419">Sincronización con iTunes vía WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>HEADER_TEXT_WLAN_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Automatically sync with iTunes on your computer when your iPhone is plugged in to power and connected to WLAN.</base>
-        <tran loc="es">Sincronizar con iTunes en el ordenador automáticamente cuando el iPhone esté enchufado a la corriente y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Sincronizar con iTunes en la computadora automáticamente cuando tu iPhone esté conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>ASSET_TYPE_BOOKS</Position>
       <TranslationSet>
         <base loc="en">Books</base>
-        <tran loc="es">Libros</tran>
+        <tran loc="es-419">Libros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>LOOKING_FOR_HOST_NO_NAME</Position>
       <TranslationSet>
         <base loc="en">Looking for host…</base>
-        <tran loc="es">Buscando host…</tran>
+        <tran loc="es-419">Buscando servidor…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>LAST_SYNC</Position>
       <TranslationSet>
         <base loc="en">Last Sync:</base>
-        <tran loc="es">Última sincronización:</tran>
+        <tran loc="es-419">Última sincronización:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>HEADER_TEXT_WLAN_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">Automatically sync with iTunes on your computer when your iPod touch is plugged in to power and connected to WLAN.</base>
-        <tran loc="es">Sincronizar con iTunes en el ordenador automáticamente cuando el iPod touch esté enchufado a la corriente y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Sincronizar con iTunes en la computadora automáticamente cuando tu iPod touch esté conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>ASSET_TYPE_MUSIC</Position>
       <TranslationSet>
         <base loc="en">Music</base>
-        <tran loc="es">Música</tran>
+        <tran loc="es-419">Música</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>INSTALLING</Position>
       <TranslationSet>
         <base loc="en">Installing %d of %d: “%@”</base>
-        <tran loc="es">Instalando %d de %d: “%@”</tran>
+        <tran loc="es-419">Instalando %d de %d: “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>ITUNES_WLAN_CONNECT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPhone over WLAN”.</base>
-        <tran loc="es">Para activar la sincronización con iTunes a través de WLAN, conéctate a iTunes en el ordenador mediante un cable y selecciona “Sincronizar con este iPhone vía WLAN”.</tran>
+        <tran loc="es-419">Para activar la sincronización con iTunes a través de WLAN, conéctate a iTunes en tu computadora mediante un cable y selecciona “Sincronizar con este iPhone por WLAN”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>ITUNES_WIFI_SYNC</Position>
       <TranslationSet>
         <base loc="en">iTunes Wi-Fi Sync</base>
-        <tran loc="es">Sincronizar con iTunes vía Wi-Fi</tran>
+        <tran loc="es-419">Sincr. con iTunes vía Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>ITUNES_WIFI_SYNC_SHORT</Position>
       <TranslationSet>
         <base loc="en">iTunes Wi-Fi Sync</base>
-        <tran loc="es">Sincr. iTunes (Wi-Fi)</tran>
+        <tran loc="es-419">Sincr. iTunes (Wi-Fi)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>ITUNES_WIFI_SYNC_SHORT_IPAD</Position>
       <TranslationSet>
         <base loc="en">iTunes Wi-Fi Sync</base>
-        <tran loc="es">Sincronización con iTunes vía Wi-Fi</tran>
+        <tran loc="es-419">Sincronización con iTunes vía Wi-Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>HEADER_TEXT_WLAN_IPAD</Position>
       <TranslationSet>
         <base loc="en">Automatically sync with iTunes on your computer when your iPad is plugged in to power and connected to WLAN.</base>
-        <tran loc="es">Sincronizar con iTunes en el ordenador automáticamente cuando el iPad esté enchufado a la corriente y conectado a una red WLAN.</tran>
+        <tran loc="es-419">Sincronizar con iTunes en la computadora automáticamente cuando tu iPad esté conectado a la corriente y a una red WLAN.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>ASSET_TYPE_AUDIOBOOKS</Position>
       <TranslationSet>
         <base loc="en">Audiobooks</base>
-        <tran loc="es">Audiolibros</tran>
+        <tran loc="es-419">Audiolibros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>CANCEL_SYNC</Position>
       <TranslationSet>
         <base loc="en">Cancel Sync</base>
-        <tran loc="es">Cancelar sincronización</tran>
+        <tran loc="es-419">Cancelar sincronización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>HEADER_TEXT_WIFI_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Automatically sync with iTunes on your computer when your iPhone is plugged in to power and connected to Wi‑Fi.</base>
-        <tran loc="es">Sincronizar con iTunes en el ordenador automáticamente cuando el iPhone esté enchufado a la corriente y conectado a una red Wi-Fi.</tran>
+        <tran loc="es-419">Sincronizar con iTunes en la computadora automáticamente cuando tu iPhone esté conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>ITUNES_WIFI_CONNECT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPhone over Wi‑Fi”.</base>
-        <tran loc="es">Para activar la sincronización con iTunes a través de Wi‑Fi, conéctate a iTunes en el ordenador mediante un cable y selecciona “Sincronizar con este iPhone vía Wi‑Fi”.</tran>
+        <tran loc="es-419">Para activar la sincronización con iTunes a través de Wi-Fi, conéctate a iTunes en tu computadora mediante un cable y selecciona “Sincronizar con este iPhone por Wi-Fi”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>ASSET_TYPE_TVSHOWS</Position>
       <TranslationSet>
         <base loc="en">TV Shows</base>
-        <tran loc="es">Programas de televisión</tran>
+        <tran loc="es-419">Programas de televisión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>COPYING</Position>
       <TranslationSet>
         <base loc="en">Copying %d of %d: “%@”</base>
-        <tran loc="es">Copiando %d de %d: “%@”</tran>
+        <tran loc="es-419">Copiando %d de %d: “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>SYNCED_ASSET_TWO_ITEMS_CONJUCTION</Position>
       <TranslationSet>
         <base loc="en"> and </base>
-        <tran loc="es"> y </tran>
+        <tran loc="es-419"> y </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>ASSET_TYPE_APPLICATIONS</Position>
       <TranslationSet>
         <base loc="en">Apps</base>
-        <tran loc="es">Apps</tran>
+        <tran loc="es-419">Apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>SYNCING</Position>
       <TranslationSet>
         <base loc="en">Syncing...</base>
-        <tran loc="es">Sincronizando…</tran>
+        <tran loc="es-419">Sincronizando...</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>STEP_N_OF_N</Position>
       <TranslationSet>
         <base loc="en">Step %d of %d</base>
-        <tran loc="es">Paso %d de %d</tran>
+        <tran loc="es-419">Paso %d de %d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>SYNC_STAGE_METADATA</Position>
       <TranslationSet>
         <base loc="en">Metadata</base>
-        <tran loc="es">Metadatos</tran>
+        <tran loc="es-419">Metadatos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>WAITING_FOR_HOST</Position>
       <TranslationSet>
         <base loc="en">Waiting for %@…</base>
-        <tran loc="es">Esperando a %@…</tran>
+        <tran loc="es-419">Esperando a %@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>ITUNES_WIFI_CONNECT_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPod over Wi‑Fi”.</base>
-        <tran loc="es">Para activar la sincronización con iTunes a través de Wi‑Fi, conéctate a iTunes en el ordenador mediante un cable y selecciona “Sincronizar con este iPod vía Wi‑Fi”.</tran>
+        <tran loc="es-419">Para activar la sincronización con iTunes a través de Wi-Fi, conéctate a iTunes en tu computadora mediante un cable y selecciona “Sincronizar con este iPod por Wi-Fi”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -313,7 +313,7 @@
       <Position>HEADER_TEXT_WIFI_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">Automatically sync with iTunes on your computer when your iPod touch is plugged in to power and connected to Wi‑Fi.</base>
-        <tran loc="es">Sincronizar con iTunes en el ordenador automáticamente cuando el iPod touch esté enchufado a la corriente y conectado a una red Wi-Fi.</tran>
+        <tran loc="es-419">Sincronizar con iTunes en la computadora automáticamente cuando tu iPod touch esté conectado a la corriente y a una red Wi-Fi.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>ASSET_TYPE_VIDEOPODCASTS</Position>
       <TranslationSet>
         <base loc="en">Video Podcasts</base>
-        <tran loc="es">Podcasts de vídeo</tran>
+        <tran loc="es-419">Podcasts de video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>ASSET_TYPE_ITUNESU</Position>
       <TranslationSet>
         <base loc="en">iTunes U</base>
-        <tran loc="es">iTunes U</tran>
+        <tran loc="es-419">iTunes U</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>ASSET_TYPE_MOVIES</Position>
       <TranslationSet>
         <base loc="en">Movies</base>
-        <tran loc="es">Vídeos</tran>
+        <tran loc="es-419">Videos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>ASSET_TYPE_PODCASTS</Position>
       <TranslationSet>
         <base loc="en">Podcasts</base>
-        <tran loc="es">Podcasts</tran>
+        <tran loc="es-419">Podcasts</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>SYNCED_ASSET_CONJUCTION</Position>
       <TranslationSet>
         <base loc="en">, and </base>
-        <tran loc="es"> y </tran>
+        <tran loc="es-419"> y </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>ITUNES_WIFI_CONNECT_IPAD</Position>
       <TranslationSet>
         <base loc="en">To enable Wi-Fi syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPad over Wi‑Fi”.</base>
-        <tran loc="es">Para activar la sincronización con iTunes a través de Wi‑Fi, conéctate a iTunes en el ordenador mediante un cable y selecciona “Sincronizar con este iPad vía Wi‑Fi”.</tran>
+        <tran loc="es-419">Para activar la sincronización con iTunes a través de Wi-Fi, conéctate a iTunes en tu computadora mediante un cable y selecciona “Sincronizar con este iPad por Wi-Fi”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>NOT_CONNECTED_TEXT</Position>
       <TranslationSet>
         <base loc="en">Sync will resume when “%@” is available.</base>
-        <tran loc="es">La sincronización se reanudará cuando “%@” esté disponible.</tran>
+        <tran loc="es-419">La sincronización se reanudará cuando “%@” esté disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>ASSET_TYPE_MUSICVIDEOS</Position>
       <TranslationSet>
         <base loc="en">Music Videos</base>
-        <tran loc="es">Videoclips</tran>
+        <tran loc="es-419">Videos musicales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>STEP_N_OF_N_WITH_STATUS</Position>
       <TranslationSet>
         <base loc="en">Step %d of %d: %@</base>
-        <tran loc="es">Paso %d de %d: %@</tran>
+        <tran loc="es-419">Paso %d de %d: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>SYNC_NOW</Position>
       <TranslationSet>
         <base loc="en">Sync Now</base>
-        <tran loc="es">Sincronizar ahora</tran>
+        <tran loc="es-419">Sincronizar ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>SYNCED_ASSET_SEPARATOR</Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>ASSET_TYPE_PHOTOS</Position>
       <TranslationSet>
         <base loc="en">Photos</base>
-        <tran loc="es">Fotos</tran>
+        <tran loc="es-419">Fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +423,7 @@
       <Position>SYNC_STAGE_PREP</Position>
       <TranslationSet>
         <base loc="en">Preparing</base>
-        <tran loc="es">Preparando</tran>
+        <tran loc="es-419">Preparando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +431,7 @@
       <Position>ASSET_TYPE_DATA</Position>
       <TranslationSet>
         <base loc="en">Data</base>
-        <tran loc="es">Datos</tran>
+        <tran loc="es-419">Datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +439,7 @@
       <Position>ITUNES_WLAN_CONNECT_IPAD</Position>
       <TranslationSet>
         <base loc="en">To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPad over WLAN”.</base>
-        <tran loc="es">Para activar la sincronización con iTunes a través de WLAN, conéctate a iTunes en el ordenador mediante un cable y selecciona “Sincronizar con este iPad vía WLAN”.</tran>
+        <tran loc="es-419">Para activar la sincronización con iTunes a través de WLAN, conéctate a iTunes en tu computadora mediante un cable y selecciona “Sincronizar con este iPad por WLAN”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +447,7 @@
       <Position>ASSET_TYPE_MEDIA</Position>
       <TranslationSet>
         <base loc="en">Media</base>
-        <tran loc="es">Contenido multimedia</tran>
+        <tran loc="es-419">Contenido multimedia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +455,7 @@
       <Position>SYNC_STAGE_ASSETS</Position>
       <TranslationSet>
         <base loc="en">Syncing %@</base>
-        <tran loc="es">Sincronizando %@</tran>
+        <tran loc="es-419">Sincronizando %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +463,7 @@
       <Position>SYNC_STAGE_RECONCILE</Position>
       <TranslationSet>
         <base loc="en">Reconciling</base>
-        <tran loc="es">Restaurando</tran>
+        <tran loc="es-419">Restaurando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +471,7 @@
       <Position>LAST_SYNC_AT</Position>
       <TranslationSet>
         <base loc="en">at</base>
-        <tran loc="es">a las</tran>
+        <tran loc="es-419">a las</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -479,7 +479,7 @@
       <Position>ASSET_SYNC</Position>
       <TranslationSet>
         <base loc="en">Syncing %@ to “%@”</base>
-        <tran loc="es">Sincronizando datos de %@ con “%@”</tran>
+        <tran loc="es-419">Sincronizando datos de %@ con “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -487,7 +487,7 @@
       <Position>LOOKING_FOR_HOST</Position>
       <TranslationSet>
         <base loc="en">Looking for %@…</base>
-        <tran loc="es">Buscando %@…</tran>
+        <tran loc="es-419">Buscando %@…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -495,7 +495,7 @@
       <Position>ITUNES_WLAN_CONNECT_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">To enable WLAN syncing with iTunes, connect to iTunes on your computer using a cable and click “Sync with this iPod over WLAN”.</base>
-        <tran loc="es">Para activar la sincronización con iTunes a través de WLAN, conéctate a iTunes en el ordenador mediante un cable y selecciona “Sincronizar con este iPod vía WLAN”.</tran>
+        <tran loc="es-419">Para activar la sincronización con iTunes a través de WLAN, conéctate a iTunes en tu computadora mediante un cable y selecciona “Sincronizar con este iPod por WLAN”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -503,7 +503,7 @@
       <Position>ASSET_TYPE_TONES</Position>
       <TranslationSet>
         <base loc="en">Tones</base>
-        <tran loc="es">Tonos</tran>
+        <tran loc="es-419">Tonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -511,7 +511,7 @@
       <Position>ASSET_TYPE_VOICEMEMOS</Position>
       <TranslationSet>
         <base loc="en">Voice Memos</base>
-        <tran loc="es">Notas de voz</tran>
+        <tran loc="es-419">Notas de voz</tran>
       </TranslationSet>
     </TextItem>
   </File>

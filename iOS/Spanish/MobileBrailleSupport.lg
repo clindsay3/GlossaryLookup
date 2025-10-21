@@ -8,7 +8,7 @@
       <Position>braille.key.67330</Position>
       <TranslationSet>
         <base loc="en">Dot 8</base>
-        <tran loc="es">Punto 8</tran>
+        <tran loc="es-419">Punto 8</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>braille.key.67586</Position>
       <TranslationSet>
         <base loc="en">Space bar</base>
-        <tran loc="es">Barra espaciadora</tran>
+        <tran loc="es-419">Barra espaciadora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>braille.key.66306</Position>
       <TranslationSet>
         <base loc="en">Dot 4</base>
-        <tran loc="es">Punto 4</tran>
+        <tran loc="es-419">Punto 4</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>braille.key.66818</Position>
       <TranslationSet>
         <base loc="en">Dot 6</base>
-        <tran loc="es">Punto 6</tran>
+        <tran loc="es-419">Punto 6</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>braille.key.65794</Position>
       <TranslationSet>
         <base loc="en">Dot 2</base>
-        <tran loc="es">Punto 2</tran>
+        <tran loc="es-419">Punto 2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>braille.key.68098</Position>
       <TranslationSet>
         <base loc="en">⌘</base>
-        <tran loc="es">⌘</tran>
+        <tran loc="es-419">⌘</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>braille.key.67842</Position>
       <TranslationSet>
         <base loc="en">⇧</base>
-        <tran loc="es">⇧</tran>
+        <tran loc="es-419">⇧</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>braille.key.67074</Position>
       <TranslationSet>
         <base loc="en">Dot 7</base>
-        <tran loc="es">Punto 7</tran>
+        <tran loc="es-419">Punto 7</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>braille.key.66562</Position>
       <TranslationSet>
         <base loc="en">Dot 5</base>
-        <tran loc="es">Punto 5</tran>
+        <tran loc="es-419">Punto 5</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>braille.key.68354</Position>
       <TranslationSet>
         <base loc="en">⌃</base>
-        <tran loc="es">⌃</tran>
+        <tran loc="es-419">⌃</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>braille.key.66050</Position>
       <TranslationSet>
         <base loc="en">Dot 3</base>
-        <tran loc="es">Punto 3</tran>
+        <tran loc="es-419">Punto 3</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>braille.key.68610</Position>
       <TranslationSet>
         <base loc="en">⌥</base>
-        <tran loc="es">⌥</tran>
+        <tran loc="es-419">⌥</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>braille.key.65538</Position>
       <TranslationSet>
         <base loc="en">Dot 1</base>
-        <tran loc="es">Punto 1</tran>
+        <tran loc="es-419">Punto 1</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>unassigned</Position>
       <TranslationSet>
         <base loc="en">Unassigned</base>
-        <tran loc="es">Sin asignar</tran>
+        <tran loc="es-419">Sin asignar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -123,7 +123,7 @@
       <Position>eng.xuk00.variant</Position>
       <TranslationSet>
         <base loc="en">UK</base>
-        <tran loc="es">Reino Unido</tran>
+        <tran loc="es-419">Imperiales</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -131,7 +131,7 @@
       <Position>spa.xre.variant</Position>
       <TranslationSet>
         <base loc="en">Mexico</base>
-        <tran loc="es">México</tran>
+        <tran loc="es-419">México</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -139,7 +139,7 @@
       <Position>ebupharma</Position>
       <TranslationSet>
         <base loc="en">EBU - Pharmaceutical</base>
-        <tran loc="es">EBU - Farmacéutica</tran>
+        <tran loc="es-419">EBU - Farmacéutica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -147,7 +147,7 @@
       <Position>sck</Position>
       <TranslationSet>
         <base loc="en">Sadri</base>
-        <tran loc="es">sadri</tran>
+        <tran loc="es-419">Sadri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -155,7 +155,7 @@
       <Position>ctg</Position>
       <TranslationSet>
         <base loc="en">Chittagonian</base>
-        <tran loc="es">chittagong</tran>
+        <tran loc="es-419">Chittagoniano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -163,7 +163,7 @@
       <Position>ipa</Position>
       <TranslationSet>
         <base loc="en">International Phonetic Alphabet</base>
-        <tran loc="es">Alfabeto fonético internacional</tran>
+        <tran loc="es-419">Alfabético fonético internacional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -172,7 +172,7 @@
       <Position>table.name.with.variant.and.service</Position>
       <TranslationSet>
         <base loc="en">%@ (%@) — %@</base>
-        <tran loc="es">%@ (%@) — %@</tran>
+        <tran loc="es-419">%@ (%@) — %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -180,7 +180,7 @@
       <Position>no.g3.variant</Position>
       <TranslationSet>
         <base loc="en">Level 3, Extended</base>
-        <tran loc="es">Nivel 3, ampliado</tran>
+        <tran loc="es-419">Grado 3 - Extendido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -188,7 +188,7 @@
       <Position>es.es.variant</Position>
       <TranslationSet>
         <base loc="en">Spain</base>
-        <tran loc="es">España</tran>
+        <tran loc="es-419">España</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -196,7 +196,7 @@
       <Position>heb.isr.variant</Position>
       <TranslationSet>
         <base loc="en">Israel</base>
-        <tran loc="es">Israel</tran>
+        <tran loc="es-419">Israel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -204,7 +204,7 @@
       <Position>da.8dot.variant</Position>
       <TranslationSet>
         <base loc="en">Danish, Eight dot</base>
-        <tran loc="es">Danés, ocho puntos</tran>
+        <tran loc="es-419">Danés, ocho puntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -212,7 +212,7 @@
       <Position>com.apple.scrod.braille.table.liblouis</Position>
       <TranslationSet>
         <base loc="en">Liblouis</base>
-        <tran loc="es">Liblouis</tran>
+        <tran loc="es-419">Liblouis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -220,7 +220,7 @@
       <Position>sv.1989.variant</Position>
       <TranslationSet>
         <base loc="en">1989</base>
-        <tran loc="es">1989</tran>
+        <tran loc="es-419">1989</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>no.g1.variant</Position>
       <TranslationSet>
         <base loc="en">Level 1, Simplified</base>
-        <tran loc="es">Nivel 1, simplificado</tran>
+        <tran loc="es-419">Grado 1 - Simplificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -236,7 +236,7 @@
       <Position>ko.2006.variant</Position>
       <TranslationSet>
         <base loc="en">2006</base>
-        <tran loc="es">2006</tran>
+        <tran loc="es-419">2006</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -245,7 +245,7 @@
       <Position>table.name.with.service</Position>
       <TranslationSet>
         <base loc="en">%@ — %@</base>
-        <tran loc="es">%@ — %@</tran>
+        <tran loc="es-419">%@ — %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -253,7 +253,7 @@
       <Position>nl.be.variant</Position>
       <TranslationSet>
         <base loc="en">Belgium</base>
-        <tran loc="es">Bélgica</tran>
+        <tran loc="es-419">Bélgica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -261,7 +261,7 @@
       <Position>bra</Position>
       <TranslationSet>
         <base loc="en">Braj</base>
-        <tran loc="es">Braj</tran>
+        <tran loc="es-419">Braj</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -269,7 +269,7 @@
       <Position>sv.1996.variant</Position>
       <TranslationSet>
         <base loc="en">1996</base>
-        <tran loc="es">1996</tran>
+        <tran loc="es-419">1996</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -277,7 +277,7 @@
       <Position>en.ca.variant</Position>
       <TranslationSet>
         <base loc="en">Canada</base>
-        <tran loc="es">Canadá</tran>
+        <tran loc="es-419">Canadá</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -285,7 +285,7 @@
       <Position>pi</Position>
       <TranslationSet>
         <base loc="en">Pali</base>
-        <tran loc="es">Pali</tran>
+        <tran loc="es-419">Pali</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -293,7 +293,7 @@
       <Position>de.g1.variant</Position>
       <TranslationSet>
         <base loc="en">Partially Contracted</base>
-        <tran loc="es">Parcialmente contraído</tran>
+        <tran loc="es-419">Parcialmente contraído</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -301,7 +301,7 @@
       <Position>da.6dot.variant</Position>
       <TranslationSet>
         <base loc="en">Danish, Six dot</base>
-        <tran loc="es">Danés, seis puntos</tran>
+        <tran loc="es-419">Danés, seis puntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -309,7 +309,7 @@
       <Position>cnr</Position>
       <TranslationSet>
         <base loc="en">Montenegrin</base>
-        <tran loc="es">montenegrino</tran>
+        <tran loc="es-419">Montenegrino</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -317,7 +317,7 @@
       <Position>hyw</Position>
       <TranslationSet>
         <base loc="en">Western Armenian</base>
-        <tran loc="es">Armenio occidental</tran>
+        <tran loc="es-419">Armenio occidental</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -325,7 +325,7 @@
       <Position>eng.xueb.variant</Position>
       <TranslationSet>
         <base loc="en">Unified</base>
-        <tran loc="es">Unificado</tran>
+        <tran loc="es-419">Unificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -333,7 +333,7 @@
       <Position>fr.bfu.variant</Position>
       <TranslationSet>
         <base loc="en">Unified</base>
-        <tran loc="es">Unificado</tran>
+        <tran loc="es-419">Unificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>fra.xuf.variant</Position>
       <TranslationSet>
         <base loc="en">Unified</base>
-        <tran loc="es">Unificado</tran>
+        <tran loc="es-419">Unificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>table.name.with.variant</Position>
       <TranslationSet>
         <base loc="en">%@ (%@)</base>
-        <tran loc="es">%@ (%@)</tran>
+        <tran loc="es-419">%@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>eng.xna.variant</Position>
       <TranslationSet>
         <base loc="en">US</base>
-        <tran loc="es">Estados Unidos</tran>
+        <tran loc="es-419">EE.UU.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>heb.usa.variant</Position>
       <TranslationSet>
         <base loc="en">US</base>
-        <tran loc="es">Estados Unidos</tran>
+        <tran loc="es-419">EE.UU.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>gon</Position>
       <TranslationSet>
         <base loc="en">Gondi</base>
-        <tran loc="es">Gondi</tran>
+        <tran loc="es-419">Gondi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>ascii</Position>
       <TranslationSet>
         <base loc="en">ASCII Braille</base>
-        <tran loc="es">Braille ASCII</tran>
+        <tran loc="es-419">Braille ASCII</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>da.computer.variant</Position>
       <TranslationSet>
         <base loc="en">Danish, Computer Braille</base>
-        <tran loc="es">Danés, braille computerizado</tran>
+        <tran loc="es-419">Braille computerizado - Danés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>hul</Position>
       <TranslationSet>
         <base loc="en">Hula</base>
-        <tran loc="es">hula</tran>
+        <tran loc="es-419">Hula</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@
       <Position>bgc</Position>
       <TranslationSet>
         <base loc="en">Haryanvi</base>
-        <tran loc="es">haryanvi</tran>
+        <tran loc="es-419">Haryanvi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +421,7 @@
       <Position>com.apple.scrod.braille.table.duxbury</Position>
       <TranslationSet>
         <base loc="en">System</base>
-        <tran loc="es">Sistema</tran>
+        <tran loc="es-419">Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>prs</Position>
       <TranslationSet>
         <base loc="en">Farsi</base>
-        <tran loc="es">farsi</tran>
+        <tran loc="es-419">Persa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -437,7 +437,7 @@
       <Position>mwr</Position>
       <TranslationSet>
         <base loc="en">Marwari</base>
-        <tran loc="es">Marwari</tran>
+        <tran loc="es-419">Marwari</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -445,7 +445,7 @@
       <Position>syl</Position>
       <TranslationSet>
         <base loc="en">Sylheti</base>
-        <tran loc="es">sylheti</tran>
+        <tran loc="es-419">Sylheti</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -453,7 +453,7 @@
       <Position>unicode</Position>
       <TranslationSet>
         <base loc="en">Braille Dot Patterns</base>
-        <tran loc="es">Patrones de puntos braille</tran>
+        <tran loc="es-419">Patrones de puntos de Braille</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -461,7 +461,7 @@
       <Position>no.g2.variant</Position>
       <TranslationSet>
         <base loc="en">Level 2, Normal</base>
-        <tran loc="es">Nivel 2, normal</tran>
+        <tran loc="es-419">Grado 2 - Normal</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -472,7 +472,7 @@
       <Position>NSHumanReadableCopyright</Position>
       <TranslationSet>
         <base loc="en">Copyright © 2008-2017 Apple Inc. All Rights Reserved.</base>
-        <tran loc="es">Copyright © 2008-2017 Apple Inc. Todos los derechos reservados.</tran>
+        <tran loc="es-419">Copyright © 2008-2017 Apple Inc. Todos los derechos reservados.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>com.apple.generic.hid</Position>
       <TranslationSet>
         <base loc="en">Braille Display</base>
-        <tran loc="es">Pantalla braille</tran>
+        <tran loc="es-419">Pantalla Braille</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>com.apple.generic.hid.mobile</Position>
       <TranslationSet>
         <base loc="en">Braille Display</base>
-        <tran loc="es">Pantalla braille</tran>
+        <tran loc="es-419">Pantalla Braille</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -499,7 +499,7 @@
       <Position>canPanLeft</Position>
       <TranslationSet>
         <base loc="en">left pannable</base>
-        <tran loc="es">panoramizable a la izquierda</tran>
+        <tran loc="es-419">panoramizable a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -507,7 +507,7 @@
       <Position>braille.unknown.key.format.multiple</Position>
       <TranslationSet>
         <base loc="en">Dots %@</base>
-        <tran loc="es">Puntos %@</tran>
+        <tran loc="es-419">Puntos %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +515,7 @@
       <Position>noAnnouncements</Position>
       <TranslationSet>
         <base loc="en">No announcements</base>
-        <tran loc="es">No hay avisos</tran>
+        <tran loc="es-419">No hay avisos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +523,7 @@
       <Position>currentAnnouncementUnread</Position>
       <TranslationSet>
         <base loc="en">current unread</base>
-        <tran loc="es">no leídos actualmente</tran>
+        <tran loc="es-419">no leídos actualmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>braille.unknown.key.format</Position>
       <TranslationSet>
         <base loc="en">Dot %@</base>
-        <tran loc="es">Punto %@</tran>
+        <tran loc="es-419">Punto %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>canPanRight</Position>
       <TranslationSet>
         <base loc="en">right pannable</base>
-        <tran loc="es">panoramizable a la derecha</tran>
+        <tran loc="es-419">panoramizable a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>unreadAnnouncements</Position>
       <TranslationSet>
         <base loc="en">unread announcements</base>
-        <tran loc="es">avisos no leídos</tran>
+        <tran loc="es-419">avisos no leídos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>checked</Position>
       <TranslationSet>
         <base loc="en">(x)</base>
-        <tran loc="es">(x)</tran>
+        <tran loc="es-419">(x)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>unchecked</Position>
       <TranslationSet>
         <base loc="en">( )</base>
-        <tran loc="es">( )</tran>
+        <tran loc="es-419">( )</tran>
       </TranslationSet>
     </TextItem>
   </File>

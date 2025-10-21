@@ -8,7 +8,7 @@
       <Position>TOUCH_ID_ISSUE_NOTIFICATION_TEXT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Unable to activate Touch ID on this iPhone.</base>
-        <tran loc="es">No se ha podido activar Touch ID en este iPhone.</tran>
+        <tran loc="es-419">No se puede activar Touch ID en este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -22,7 +22,7 @@
       <Position>TOUCH_ID_ISSUE_NOTIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Touch ID</base>
-        <tran loc="es">Touch ID</tran>
+        <tran loc="es-419">Touch ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>FACE_ID_INTERLOCK_ACTION</Position>
       <TranslationSet>
         <base loc="en">Learn More…</base>
-        <tran loc="es">Más información…</tran>
+        <tran loc="es-419">Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>FACE_ID_ISSUE_NOTIFICATION_TEXT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Unable to activate Face ID on this iPad.</base>
-        <tran loc="es">No se ha podido activar Face ID en este iPad.</tran>
+        <tran loc="es-419">No se puede activar Face ID en este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>TOUCH_ID_ISSUE_NOTIFICATION_TEXT_IPAD</Position>
       <TranslationSet>
         <base loc="en">Unable to activate Touch ID on this iPad.</base>
-        <tran loc="es">No se ha podido activar Touch ID en este iPad.</tran>
+        <tran loc="es-419">No se puede activar Touch ID en este iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>FACE_ID_INTERLOCK_TITLE</Position>
       <TranslationSet>
         <base loc="en">Face ID Has Been Disabled</base>
-        <tran loc="es">Face ID se ha desactivado</tran>
+        <tran loc="es-419">Se desactivó Face ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>FACE_ID_ISSUE_NOTIFICATION_TEXT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Unable to activate Face ID on this iPhone.</base>
-        <tran loc="es">No se ha podido activar Face ID en este iPhone.</tran>
+        <tran loc="es-419">No se puede activar Face ID en este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>FACE_ID_ISSUE_NOTIFICATION_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>TOUCH_ID_ISSUE_NOTIFICATION_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>FACE_ID_INTERLOCK_INFORMATIVE_TEXT</Position>
       <TranslationSet>
         <base loc="en">A problem was detected with the TrueDepth camera. Face ID has been disabled.</base>
-        <tran loc="es">Se ha detectado un problema con la cámara TrueDepth. Face ID se ha desactivado.</tran>
+        <tran loc="es-419">Se detectó un problema con la cámara TrueDepth. Se desactivó Face ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>FACE_ID_ISSUE_NOTIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Face ID</base>
-        <tran loc="es">Face ID</tran>
+        <tran loc="es-419">Face ID</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>ACKNOWLEDGEMENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Thank You</base>
-        <tran loc="es">Gracias</tran>
+        <tran loc="es-419">Gracias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>REPORT_A_PROBLEM_TITLE</Position>
       <TranslationSet>
         <base loc="en">Report A Problem</base>
-        <tran loc="es">Señala un problema</tran>
+        <tran loc="es-419">Reportar un problema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>ERROR_REPORTING_PROBLEM_TITLE</Position>
       <TranslationSet>
         <base loc="en">Error Reporting Problem</base>
-        <tran loc="es">Error al informar de un problema</tran>
+        <tran loc="es-419">Error al reportar el problema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>DRAWER_PARTICIPANT_NOT_AVAILABLE</Position>
       <TranslationSet>
         <base loc="en">Not Available</base>
-        <tran loc="es">No disponible</tran>
+        <tran loc="es-419">No disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>GROUP_FACETIME_BLOCKED_PARTICIPANTS_JOINING_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">You are joining a FaceTime call with a blocked contact.</base>
-        <tran loc="es">Te vas a unir a una llamada de FaceTime en la que participa uno de tus contactos bloqueados.</tran>
+        <tran loc="es-419">Estás ingresando a una llamada por FaceTime con un contacto bloqueado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>DRAWER_ADD_PERSON</Position>
       <TranslationSet>
         <base loc="en">Add Person</base>
-        <tran loc="es">Añadir persona</tran>
+        <tran loc="es-419">Agregar persona</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>DRAWER_MUTE_AUDIO_BUTTON</Position>
       <TranslationSet>
         <base loc="en">mute</base>
-        <tran loc="es">silenciar</tran>
+        <tran loc="es-419">silenciar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>DRAWER_PARTICIPANT_ACTIVE_FACETIME_VIDEO</Position>
       <TranslationSet>
         <base loc="en">FaceTime Video</base>
-        <tran loc="es">FaceTime de vídeo</tran>
+        <tran loc="es-419">FaceTime de video</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>STAGING_AREA_FACETIME_CALL_FROM_%@</Position>
       <TranslationSet>
         <base loc="en">FaceTime Call from %@</base>
-        <tran loc="es">FaceTime de %@</tran>
+        <tran loc="es-419">FaceTime de audio con %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>ERROR_REPORTING_PROBLEM_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">There was an issue contacting the reporting server. Please make sure you're connected to an Apple internal network and try again.</base>
-        <tran loc="es">Se ha producido un problema al contactar con el servidor de informes. Asegúrate de tener conexión a una red interna de Apple y vuelve a intentarlo.</tran>
+        <tran loc="es-419">Ocurrió un error al comunicarse con el servidor de reportes. Asegúrate de haberte conectado a una red interna de Apple y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>DRAWER_RING_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Ring</base>
-        <tran loc="es">Llamar</tran>
+        <tran loc="es-419">Llamar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>ME</Position>
       <TranslationSet>
         <base loc="en">Me</base>
-        <tran loc="es">Yo</tran>
+        <tran loc="es-419">Yo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>DRAWER_END_CALL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">end</base>
-        <tran loc="es">finalizar</tran>
+        <tran loc="es-419">fin</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>GROUP_FACETIME_BLOCKED_PARTICIPANTS_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>DRAWER_JOIN_CALL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">join</base>
-        <tran loc="es">unirse</tran>
+        <tran loc="es-419">unirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>DRAWER_PARTICIPANT_ACTIVE_FACETIME_AUDIO</Position>
       <TranslationSet>
         <base loc="en">FaceTime Audio</base>
-        <tran loc="es">FaceTime de audio</tran>
+        <tran loc="es-419">FaceTime de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>REPORT_A_PROBLEM_AGREEMENT</Position>
       <TranslationSet>
         <base loc="en">By clicking “Continue” you agree to securely send uniquely identifying metadata about this conversation to Apple, such as its membership list and an overview of the active participants. This information will be used to aid in grouping reports between different members of this conversation.</base>
-        <tran loc="es">Al pulsar en Continuar, estás aceptando enviar de forma segura a Apple metadatos de esta conversación que pueden identificarla de manera única, como su lista de miembros y una visión general de los participantes activos. Esta información se utilizará para ayudar a agrupar los informes entre los distintos participantes de esta conversación.</tran>
+        <tran loc="es-419">Al hacer clic en Continuar, aceptas que se envíen de forma segura a Apple metadatos de identificación única relacionados con esta conversación; entre ellos se incluyen su lista de integrantes y una descripción general de los participantes activos. Esta información se utilizará para ayudar a agrupar reportes entre los diferentes integrantes de esta conversación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>DRAWER_EFFECTS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">effects</base>
-        <tran loc="es">efectos</tran>
+        <tran loc="es-419">efectos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>STAGING_AREA_%@_AND_%@_MORE</Position>
       <TranslationSet>
         <base loc="en">%1$@\nand %2$@ more</base>
-        <tran loc="es">%1$@\ny %2$@ más</tran>
+        <tran loc="es-419">%1$@\ny %2$@ más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>REQUEST_LOGS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Press on the link below to add logs from your Group FaceTime conversation.</base>
-        <tran loc="es">Pulsa en el enlace siguiente para añadir registros de tu conversación de grupo por FaceTime.</tran>
+        <tran loc="es-419">Toca el enlace a continuación para agregar registros de tu conversación de FaceTime en grupo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>DRAWER_RING_BUTTON_RINGING</Position>
       <TranslationSet>
         <base loc="en">Ringing...</base>
-        <tran loc="es">Llamando…</tran>
+        <tran loc="es-419">Marcando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>STAGING_AREA_%@_AND_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ &amp; %2$@</base>
-        <tran loc="es">%1$@ y %2$@</tran>
+        <tran loc="es-419">%1$@ y %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>DISMISS</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Entendido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>STAGING_AREA_%@_%@_%@_AND_%@_MORE</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@, %3$@\nand %4$@ more</base>
-        <tran loc="es">%1$@, %2$@, %3$@\n y %4$@ más</tran>
+        <tran loc="es-419">%1$@, %2$@, %3$@\ny %4$@ más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>REQUEST_LOGS_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Request Logs From Everyone</base>
-        <tran loc="es">Solicitar registros a todos</tran>
+        <tran loc="es-419">Solicitar registros de todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>DRAWER_DISC_AUDIO_ROUTE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">speaker</base>
-        <tran loc="es">altavoz</tran>
+        <tran loc="es-419">altavoz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>ACKNOWLEDGEMENT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Your feedback is important in order to help us improve Group FaceTime. Press below to send a message to other active participants of this conversation to request logs from them as well.</base>
-        <tran loc="es">Tu opinión es importante y nos ayudará a mejorar el funcionamiento de las conversaciones de grupo por FaceTime. Pulsa más abajo para enviar un mensaje a otros participantes en esta conversación para solicitarles que también envíen sus registros.</tran>
+        <tran loc="es-419">Tus comentarios son importantes para ayudarnos a mejorar FaceTime en grupo. Presiona abajo para enviar un mensaje a otros participantes activos de esta conversación para solicitar también registros de ellos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>DRAWER_DISC_TOGGLE_CAMERA</Position>
       <TranslationSet>
         <base loc="en">camera off</base>
-        <tran loc="es">desactivar cámara</tran>
+        <tran loc="es-419">cámara apagada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -246,7 +246,7 @@
       <Position>DRAWER_MESSAGE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">message</base>
-        <tran loc="es">mensaje</tran>
+        <tran loc="es-419">mensaje</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -254,7 +254,7 @@
       <Position>PARTICIPANT_VIEW_RING_AGAIN</Position>
       <TranslationSet>
         <base loc="en">Ring Again</base>
-        <tran loc="es">Llamar de nuevo</tran>
+        <tran loc="es-419">Volver a marcar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -262,7 +262,7 @@
       <Position>STAGING_AREA_%@_%@_AND_%@_MORE</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@\nand %3$@ more</base>
-        <tran loc="es">%1$@, %2$@\ny %3$@ más</tran>
+        <tran loc="es-419">%1$@, %2$@\ny %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -270,8 +270,7 @@
       <Position>DRAWER_FLIP_CAMERA_BUTTON</Position>
       <TranslationSet>
         <base loc="en">flip</base>
-        <tran loc="es">cambiar
-cámara</tran>
+        <tran loc="es-419">voltear</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -279,7 +278,7 @@ cámara</tran>
       <Position>PARTICIPANT_VIEW_REMOTE_PARTICIPANT_WAITING_TO_JOIN</Position>
       <TranslationSet>
         <base loc="en">Waiting…</base>
-        <tran loc="es">Esperando…</tran>
+        <tran loc="es-419">Esperando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -287,7 +286,7 @@ cámara</tran>
       <Position>PARTICIPANT_VIEW_FACETIME_PHOTO_DISABLED</Position>
       <TranslationSet>
         <base loc="en">FaceTime Photos must be enabled on both devices to use this feature.</base>
-        <tran loc="es">Para poder usar esta función, es necesario activar las fotos de FaceTime en ambos dispositivos.</tran>
+        <tran loc="es-419">Se deben activar las fotos por FaceTime en ambos dispositivos para usar esta función.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -295,7 +294,7 @@ cámara</tran>
       <Position>GROUP_FACETIME_BLOCKED_PARTICIPANTS_WHILE_ACTIVE_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">A blocked contact is joining this FaceTime call.</base>
-        <tran loc="es">Un contacto bloqueado se ha unido a esta llamada de FaceTime.</tran>
+        <tran loc="es-419">Un contacto bloqueado está ingresando a esta llamada de FaceTime.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -303,7 +302,7 @@ cámara</tran>
       <Position>IN_CALL_CONTROLS_PERSON_SUMMARY_%@</Position>
       <TranslationSet>
         <base loc="en">Conversation with %1$@</base>
-        <tran loc="es">Conversación con %1$@</tran>
+        <tran loc="es-419">Conversación con %1$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -311,7 +310,7 @@ cámara</tran>
       <Position>STAGING_AREA_%@_%@_AND_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@, %2$@ &amp; %3$@</base>
-        <tran loc="es">%1$@, %2$@ y %3$@</tran>
+        <tran loc="es-419">%1$@, %2$@ y %3$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -319,7 +318,7 @@ cámara</tran>
       <Position>DRAWER_PILL_TOGGLE_CAMERA</Position>
       <TranslationSet>
         <base loc="en">Camera Off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Cámara: no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -327,7 +326,7 @@ cámara</tran>
       <Position>DRAWER_PARTICIPANT_NOT_CONNETED</Position>
       <TranslationSet>
         <base loc="en">Not Connected</base>
-        <tran loc="es">No conectado</tran>
+        <tran loc="es-419">Sin conexión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -335,7 +334,15 @@ cámara</tran>
       <Position>DRAWER_PILL_AUDIO_ROUTE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Speaker</base>
-        <tran loc="es">Altavoz</tran>
+        <tran loc="es-419">Altavoz</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>IN_CALL_CONTROLS_PEOPLE_SUMMARY_%@</Position>
+      <TranslationSet>
+        <base loc="en">%1$@ people in the conversation</base>
+        <tran loc="es-419">%1$@ personas en la conversación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -343,7 +350,7 @@ cámara</tran>
       <Position>PARTICIPANT_VIEW_FACETIME_PHOTO_SUCCESS</Position>
       <TranslationSet>
         <base loc="en">You took a FaceTime photo</base>
-        <tran loc="es">Has hecho una foto de FaceTime</tran>
+        <tran loc="es-419">Tomaste una foto por FaceTime</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +358,7 @@ cámara</tran>
       <Position>STAGING_AREA_CONNECTING</Position>
       <TranslationSet>
         <base loc="en">Connecting…</base>
-        <tran loc="es">Conectando…</tran>
+        <tran loc="es-419">Conectando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -359,7 +366,7 @@ cámara</tran>
       <Position>DESCRIBE_ISSUES</Position>
       <TranslationSet>
         <base loc="en">Please describe any issues you experienced (leave blank if you didn’t notice any symptoms).</base>
-        <tran loc="es">Describe los problemas que hayas encontrado (deja el espacio en blanco si no has notado ninguno).</tran>
+        <tran loc="es-419">Describe los problemas que hayas experimentado (deja el campo en blanco si no notaste ningún síntoma).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -367,26 +374,7 @@ cámara</tran>
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
-      </TranslationSet>
-    </TextItem>
-  </File>
-  <File>
-    <Filepath>ConversationKit/System/Library/PrivateFrameworks/ConversationKit.framework/en.lproj/ConversationKit.stringsdict</Filepath>
-    <TextItem>
-      <Description/>
-      <Position>/IN_CALL_CONTROLS_PEOPLE_SUMMARY_%@:dict/NSStringVariableWidthRuleType:dict/1:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">%1$@ people in the conversation</base>
-        <tran loc="es">%1$@ personas conversando</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>/IN_CALL_CONTROLS_PEOPLE_SUMMARY_%@:dict/NSStringVariableWidthRuleType:dict/27:dict/:string</Position>
-      <TranslationSet>
-        <base loc="en">%1$@ people in the conversation</base>
-        <tran loc="es">%1$@ personas en la conversación</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
   </File>

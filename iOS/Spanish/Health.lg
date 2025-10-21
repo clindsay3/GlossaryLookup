@@ -8,7 +8,7 @@
       <Position>MEASURE_LEVELS_FOOTER_TEXT</Position>
       <TranslationSet>
         <base loc="en">Your device does not record or save any sounds to measure audio levels. The Health app measures audio exposure through the following devices:</base>
-        <tran loc="es">El dispositivo no graba ni guarda ningún sonido para medir los niveles de audio. La app Salud mide la exposición acústica mediante los siguientes dispositivos:</tran>
+        <tran loc="es-419">Tu dispositivo no graba ni guarda sonidos para medir niveles de audio. La app Salud mide la exposición al ruido mediante los siguientes dispositivos:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>INCLUDE_OTHER_HEADPHONES</Position>
       <TranslationSet>
         <base loc="en">Include Other Headphones</base>
-        <tran loc="es">Incluir otros auriculares</tran>
+        <tran loc="es-419">Incluir otros audífonos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>MEASURE_LEVELS_FOOTER_TEXT_GENERIC</Position>
       <TranslationSet>
         <base loc="en">• Apple EarPods</base>
-        <tran loc="es">• EarPods de Apple</tran>
+        <tran loc="es-419">• Apple EarPods</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>SOURCES_LIST_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Apps that have requested access to your Health data will appear here.</base>
-        <tran loc="es">Aquí aparecerán las apps que han solicitado acceso a tus datos de salud.</tran>
+        <tran loc="es-419">Aquí estarán las apps que solicitaron acceso a tus datos de Salud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>MEASURE_LEVELS</Position>
       <TranslationSet>
         <base loc="en">Measure Levels</base>
-        <tran loc="es">Medición de niveles</tran>
+        <tran loc="es-419">Medir niveles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>HEADPHONE_AUDIO_LEVELS</Position>
       <TranslationSet>
         <base loc="en">Headphone Audio Levels</base>
-        <tran loc="es">Niveles de audio de auriculares</tran>
+        <tran loc="es-419">Niveles de audio de audífono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>INCLUDE_OTHER_HEADPHONES_FOOTER_TEXT_GENERIC</Position>
       <TranslationSet>
         <base loc="en">• Other devices plugged into your iPhone</base>
-        <tran loc="es">• Otros dispositivos enchufados a tu iPhone</tran>
+        <tran loc="es-419">• Otros dispositivos conectados a tu iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>INCLUDE_OTHER_HEADPHONE_HEADPHONE_LIST_%@</Position>
       <TranslationSet>
         <base loc="en">• %@</base>
-        <tran loc="es">• %@</tran>
+        <tran loc="es-419">• %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>INCLUDE_OTHER_HEADPHONES_FOOTER_TEXT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">The Health app can estimate audio levels for devices where a true sound level cannot be determined. These estimates are based on the volume level of your iPhone. This includes:</base>
-        <tran loc="es">La app Salud puede calcular los niveles de audio para los dispositivos en los que no es posible determinar un nivel de sonido real. Dichas estimaciones se basan en el nivel de volumen de tu iPhone. Esto incluye:</tran>
+        <tran loc="es-419">La app Salud puede obtener una estimación de los niveles de audio de los dispositivos en los que no se puede determinar el nivel de sonido real. Estas estimaciones se basan en el nivel de volumen de tu iPhone. Esto incluye:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>SOURCES_VIEW_CONTROLLER_TITLE</Position>
       <TranslationSet>
         <base loc="en">Health</base>
-        <tran loc="es">Salud</tran>
+        <tran loc="es-419">Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>INCLUDE_OTHER_HEADPHONES_FOOTER_TEXT_IPAD</Position>
       <TranslationSet>
         <base loc="en">The Health app can estimate audio levels for devices where a true sound level cannot be determined. These estimates are based on the volume level of your iPad. This includes:</base>
-        <tran loc="es">La app Salud puede calcular los niveles de audio para los dispositivos en los que no es posible determinar un nivel de sonido real. Dichas estimaciones se basan en el nivel de volumen de tu iPad. Esto incluye:</tran>
+        <tran loc="es-419">La app Salud puede obtener una estimación de los niveles de audio de los dispositivos en los que no se puede determinar el nivel de sonido real. Estas estimaciones se basan en el nivel de volumen de tu iPad. Esto incluye:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>INCLUDE_OTHER_HEADPHONES_FOOTER_TEXT_IPOD</Position>
       <TranslationSet>
         <base loc="en">The Health app can estimate audio levels for devices where a true sound level cannot be determined. These estimates are based on the volume level of your iPod touch. This includes:</base>
-        <tran loc="es">La app Salud puede calcular los niveles de audio para los dispositivos en los que no es posible determinar un nivel de sonido real. Dichas estimaciones se basan en el nivel de volumen de tu iPod touch. Esto incluye:</tran>
+        <tran loc="es-419">La app Salud puede obtener una estimación de los niveles de audio de los dispositivos en los que no se puede determinar el nivel de sonido real. Estas estimaciones se basan en el nivel de volumen de tu iPod touch. Esto incluye:</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -113,7 +113,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_LAST_SAMPLE_%@</Position>
       <TranslationSet>
         <base loc="en">Notifications are on. Last sample collected and analyzed: %@</base>
-        <tran loc="es">Las notificaciones están activadas. Última toma de frecuencia cardiaca y análisis: %@</tran>
+        <tran loc="es-419">Las notificaciones están activadas. Se recopiló y analizó la última muestra: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_DISABLED_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn More…</base>
-        <tran loc="es">Más información…</tran>
+        <tran loc="es-419">Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_FAVORITES_FOOTNOTE_NOT_FAVORITED</Position>
       <TranslationSet>
         <base loc="en">Favorites appear in Summary.</base>
-        <tran loc="es">Los favoritos aparecen en Resumen.</tran>
+        <tran loc="es-419">Los Favoritos se mostrarán en el resumen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_AVAILABLE_OFF_LINK</Position>
       <TranslationSet>
         <base loc="en">Turn on in the Apple Watch app.</base>
-        <tran loc="es">Actívalas en la app Apple Watch.</tran>
+        <tran loc="es-419">Actívalas en la app Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_NOTIFICATIONS_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notifications</base>
-        <tran loc="es">Notificaciones</tran>
+        <tran loc="es-419">Notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_TITLE</Position>
       <TranslationSet>
         <base loc="en">What’s New in Health</base>
-        <tran loc="es">Novedades de Salud</tran>
+        <tran loc="es-419">Novedades de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_UNAVAILABLE_LEARN_MORE_URL</Position>
       <TranslationSet>
         <base loc="en">https://www.apple.com/watchos/feature-availability/</base>
-        <tran loc="es">https://www.apple.com/es/watchos/feature-availability/</tran>
+        <tran loc="es-419">https://www.apple.com/la/watchos/feature-availability/</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_ABOUT_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">About Atrial Fibrillation</base>
-        <tran loc="es">Acerca de Fibrilación auricular</tran>
+        <tran loc="es-419">Acerca de la fibrilación auricular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_MANAGE_SETTINGS_IN_WATCH</Position>
       <TranslationSet>
         <base loc="en">Manage Settings in Apple Watch App</base>
-        <tran loc="es">Gestionar ajustes en la app Apple Watch</tran>
+        <tran loc="es-419">Define la configuración en la app Apple Watch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_ENABLED_NO_SAMPLES</Position>
       <TranslationSet>
         <base loc="en">Notifications are on. No samples collected or analyzed.</base>
-        <tran loc="es">Las notificaciones están activadas. Todavía no se ha tomado ni analizado ninguna muestra.</tran>
+        <tran loc="es-419">Las notificaciones están activadas. No se recopilaron ni analizaron muestras.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">Set Up Irregular Rhythm Notifications</base>
-        <tran loc="es">Configuración de las notificaciones de ritmo irregular</tran>
+        <tran loc="es-419">Configurar notificaciones de pulso irregular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_UNAVAILABLE_ON_ACTIVE_WATCH</Position>
       <TranslationSet>
         <base loc="en">This feature is not available on the watch you are currently wearing.</base>
-        <tran loc="es">Esta función no está disponible en el reloj que llevas puesto en este momento.</tran>
+        <tran loc="es-419">Esta función no está disponible en el modelo de Apple Watch que traes puesto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>ATRIAL_FIBRILLATION_EVENT_CELL_LABEL</Position>
       <TranslationSet>
         <base loc="en">Atrial Fibrillation</base>
-        <tran loc="es">Fibrilación auricular</tran>
+        <tran loc="es-419">Fibrilación auricular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_OPTIONS_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Options</base>
-        <tran loc="es">Opciones</tran>
+        <tran loc="es-419">Opciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_FAVORITES_FOOTNOTE_FAVORITED</Position>
       <TranslationSet>
         <base loc="en">Irregular Rhythm Notifications will appear as a Favorite in Summary.</base>
-        <tran loc="es">Notificaciones de ritmo irregular aparecerá como favorito en Resumen.</tran>
+        <tran loc="es-419">Las notificaciones de pulso irregular se mostrarán como un Favorito en el resumen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_DISMISS_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Irregular Rhythm Notifications</base>
-        <tran loc="es">Notificación de ritmo irregular</tran>
+        <tran loc="es-419">Notificaciones de pulso irregular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_BODY</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can notify you if it sees your heart beating with an irregular rhythm that may be atrial fibrillation.</base>
-        <tran loc="es">El Apple Watch puede enviarte una notificación si detecta que tu corazón está latiendo con un ritmo irregular que podría deberse a una fibrilación auricular.</tran>
+        <tran loc="es-419">Tu Apple Watch puede avisarte si identifica un pulso irregular en tu corazón que pudiera indicar fibrilación auricular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_BODY</Position>
       <TranslationSet>
         <base loc="en">Get a notification if your Apple Watch sees an irregular heart rhythm that may be atrial fibrillation.</base>
-        <tran loc="es">Recibe una notificación si el Apple Watch detecta ritmos cardiacos que parezcan ser de fibrilación auricular.</tran>
+        <tran loc="es-419">Recibe una notificación si tu Apple Watch identifica un pulso irregular en tu corazón que pudiera indicar fibrilación auricular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_REGULATORY_LABEL</Position>
       <TranslationSet>
         <base loc="en">About</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_AVAILABLE_OFF</Position>
       <TranslationSet>
         <base loc="en">Notifications are off.</base>
-        <tran loc="es">Las notificaciones están desactivadas.</tran>
+        <tran loc="es-419">Se desactivaron las notificaciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Set Up Notifications</base>
-        <tran loc="es">Configurar las notificaciones</tran>
+        <tran loc="es-419">Configurar notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_SETUP_MODAL_ONBOARDING_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Set Up Notifications</base>
-        <tran loc="es">Configurar las notificaciones</tran>
+        <tran loc="es-419">Configurar notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_EDUCATION_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Education</base>
-        <tran loc="es">Formación</tran>
+        <tran loc="es-419">Educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_DISABLED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Irregular Rhythm Notifications are no longer available</base>
-        <tran loc="es">Las notificaciones de ritmo irregular ya no están disponibles</tran>
+        <tran loc="es-419">Las notificaciones de pulso irregular ya no están disponibles</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_HEART_AGE_GATED</Position>
       <TranslationSet>
         <base loc="en">Notifications not intended for use by people under 22 years old.</base>
-        <tran loc="es">Las notificaciones no están concebidas para que las usen personas menores de 22 años.</tran>
+        <tran loc="es-419">Las notificaciones no se planearon para que menores de 22 años las utilicen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>ATRIAL_FIBRILLATION_DETECTION_UNAVAILABLE_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn more.</base>
-        <tran loc="es">Más información.</tran>
+        <tran loc="es-419">Obtener más información.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -345,7 +345,7 @@
       <Position>HEALTH_LABEL</Position>
       <TranslationSet>
         <base loc="en">Health</base>
-        <tran loc="es">Salud</tran>
+        <tran loc="es-419">Salud</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -356,7 +356,7 @@
       <Position>HEART_NOTIFICATION_TACHYCARDIA_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when Apple Watch detects a heart rate that rises above %@ while you appear to have been inactive for 10 minutes.</base>
-        <tran loc="es">Recibe una notificación cuando el Apple Watch registre una frecuencia cardiaca superior a %@ y no se detecte actividad durante 10 minutos.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el Apple Watch detecte una frecuencia cardiaca que rebase %@ si parece que no tienes actividad durante un mínimo de 10 minutos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -364,7 +364,7 @@
       <Position>HEART_NOTIFICATION_TACHYCARDIA_FOOTER_OFF</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when Apple Watch detects a heart rate that rises above a selected threshold while you appear to have been inactive for 10 minutes.</base>
-        <tran loc="es">Recibe una notificación cuando el Apple Watch registre una frecuencia cardiaca superior a un umbral seleccionado y no se detecte actividad durante 10 minutos.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el Apple Watch detecte una frecuencia cardiaca que rebase el umbral seleccionado si parece que no tienes actividad durante un mínimo de 10 minutos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -378,7 +378,7 @@
       <Position>HEART_NOTIFICATION_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Heart Rate Notifications</base>
-        <tran loc="es">Avisos de pulsaciones</tran>
+        <tran loc="es-419">Notificaciones de frecuencia cardiaca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -386,7 +386,7 @@
       <Position>HEART_NOTIFICATION_COALESCING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notification Grouping</base>
-        <tran loc="es">Agrupar notificaciones</tran>
+        <tran loc="es-419">Agrupación de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -394,7 +394,7 @@
       <Position>HEART_AGE_GATING_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can help you look after your heart.</base>
-        <tran loc="es">El Apple Watch te puede ayudar a cuidar de tu corazón.</tran>
+        <tran loc="es-419">El Apple Watch puede ayudarte a cuidar de tu corazón.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -402,7 +402,7 @@
       <Position>FEATURE_DISABLED_REMOTELY_LINK_URL</Position>
       <TranslationSet>
         <base loc="en">https://support.apple.com/kb/HT208720</base>
-        <tran loc="es">https://support.apple.com/es-es/HT208720</tran>
+        <tran loc="es-419">https://support.apple.com/es-lamr/HT208720</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -410,7 +410,7 @@
       <Position>HEART_NOTIFICATION_TACHYCARDIA_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Disabled</base>
-        <tran loc="es">Desactivada</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -418,7 +418,7 @@
       <Position>HEART_NOTIFICATION_COALESCING_AUTO</Position>
       <TranslationSet>
         <base loc="en">Automatically</base>
-        <tran loc="es">Automáticamente</tran>
+        <tran loc="es-419">Automáticamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -426,7 +426,7 @@
       <Position>FEATURE_DISABLED_REMOTELY_LINK</Position>
       <TranslationSet>
         <base loc="en">Learn more…</base>
-        <tran loc="es">Más información…</tran>
+        <tran loc="es-419">Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -434,7 +434,7 @@
       <Position>HEART_NOTIFICATION_COALESCING_BY_APP</Position>
       <TranslationSet>
         <base loc="en">By App</base>
-        <tran loc="es">Por app</tran>
+        <tran loc="es-419">Por app</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -442,7 +442,7 @@
       <Position>HEART_NOTIFICATION_TACHYCARDIA_LABEL</Position>
       <TranslationSet>
         <base loc="en">High Heart Rate</base>
-        <tran loc="es">Frec. cardiaca elevada</tran>
+        <tran loc="es-419">Frec. card. alta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -450,7 +450,7 @@
       <Position>HEART_NOTIFICATION_COALESCING_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -458,7 +458,7 @@
       <Position>HEART_NOTIFICATION_TACHYCARDIA_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -469,7 +469,7 @@
       <Position>HEART_AREA_DESCRIPTION_BRADYCARDIA</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can help you look after your heart. You can get a notification if Apple Watch detects that your heart rate is high or low.</base>
-        <tran loc="es">El Apple Watch te puede ayudar a cuidar de tu corazón. Puedes recibir una notificación si el Apple Watch detecta que tu ritmo cardiaco es alto o bajo.</tran>
+        <tran loc="es-419">El Apple Watch puede ayudarte a cuidar de tu corazón; recibirás una notificación cuando detecte que tu frecuencia cardiaca es alta o baja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -483,7 +483,7 @@
       <Position>PANE_TITLE_BRADYCARDIA</Position>
       <TranslationSet>
         <base loc="en">Heart</base>
-        <tran loc="es">Corazón</tran>
+        <tran loc="es-419">Corazón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -491,7 +491,7 @@
       <Position>HEART_NOTIFICATION_BRADYCARDIA_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when Apple Watch detects a heart rate that falls below %@ for 10 minutes.</base>
-        <tran loc="es">Recibe una notificación cuando el Apple Watch registre una frecuencia cardiaca inferior a %@ durante 10 minutos.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el Apple Watch detecte una frecuencia cardiaca que sea inferior a %@ durante 10 minutos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -499,7 +499,7 @@
       <Position>FEATURES_DISABLED_WRIST_DETECTION_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">These features are not available because Wrist Detection has been turned off in Passcode settings.</base>
-        <tran loc="es">Estas funciones no están disponibles porque se ha desactivado la detección de muñeca en los ajustes de código.</tran>
+        <tran loc="es-419">Estas funciones no están disponibles porque se desactivó la detección de la muñeca en la configuración del código.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -507,7 +507,7 @@
       <Position>FEATURES_UNAVAILABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">These features are not available for all watches paired with this phone.</base>
-        <tran loc="es">Estas funciones no están disponibles para todos los relojes enlazados con este teléfono.</tran>
+        <tran loc="es-419">Estas funciones no están disponibles para todos los relojes enlazados con este teléfono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -515,7 +515,7 @@
       <Position>HEART_NOTIFICATION_BRADYCARDIA_FOOTER_OFF</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when Apple Watch detects a heart rate that falls below a selected threshold for 10 minutes.</base>
-        <tran loc="es">Recibe una notificación cuando el Apple Watch registre una frecuencia cardiaca inferior a un umbral seleccionado durante 10 minutos.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el Apple Watch detecte una frecuencia cardiaca que sea inferior a un umbral seleccionado durante 10 minutos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -523,7 +523,7 @@
       <Position>HEART_NOTIFICATION_BRADYCARDIA_LABEL</Position>
       <TranslationSet>
         <base loc="en">Low Heart Rate</base>
-        <tran loc="es">Frec. cardiaca baja</tran>
+        <tran loc="es-419">Frec. card. baja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -531,7 +531,7 @@
       <Position>HEART_AREA_TITLE</Position>
       <TranslationSet>
         <base loc="en">Heart Health</base>
-        <tran loc="es">Salud cardiaca</tran>
+        <tran loc="es-419">Salud cardiaca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -539,7 +539,7 @@
       <Position>HEART_AREA_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can help you look after your heart. You can get a notification if Apple Watch detects that your heart rate is high.</base>
-        <tran loc="es">El Apple Watch te puede ayudar a cuidar de tu corazón. Puedes recibir una notificación si el Apple Watch detecta que tu ritmo cardiaco es alto.</tran>
+        <tran loc="es-419">El Apple Watch puede ayudarte a cuidar de tu corazón; recibirás una notificación cuando detecte que tu frecuencia cardiaca es alta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -547,7 +547,7 @@
       <Position>HEART_NOTIFICATION_BRADYCARDIA_DISABLED</Position>
       <TranslationSet>
         <base loc="en">Disabled</base>
-        <tran loc="es">Desactivada</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -555,7 +555,7 @@
       <Position>FEATURES_DISABLED_IN_PRIVACY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">These features are not available because Heart Rate has been turned off in Privacy settings.</base>
-        <tran loc="es">Estas funciones no están disponibles porque se ha desactivado “Frecuencia cardiaca” en los Ajustes de privacidad.</tran>
+        <tran loc="es-419">Estas funciones no están disponibles porque se desactivó "Frecuencia cardiaca" en la configuración de privacidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -563,7 +563,7 @@
       <Position>FEATURES_DISABLED_IN_PRIVACY_LINK</Position>
       <TranslationSet>
         <base loc="en">Privacy settings</base>
-        <tran loc="es">Ajustes de privacidad</tran>
+        <tran loc="es-419">configuración de privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -571,7 +571,7 @@
       <Position>HEART_NOTIFICATION_BRADYCARDIA_OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">Desactivado</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -582,7 +582,7 @@
       <Position>DELETE_ALL_ASSOCIATED_YES</Position>
       <TranslationSet>
         <base loc="en">Delete Workout &amp; Data</base>
-        <tran loc="es">Eliminar entreno y datos</tran>
+        <tran loc="es-419">Eliminar entrenamiento y datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -590,7 +590,7 @@
       <Position>SLEEP_INTERRUPTIONS_HEADER</Position>
       <TranslationSet>
         <base loc="en">INTERRUPTIONS</base>
-        <tran loc="es">INTERRUPCIONES</tran>
+        <tran loc="es-419">INTERRUPCIONES</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -598,7 +598,7 @@
       <Position>OUT_OF_RANGE_ALERT_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Data Limit</base>
-        <tran loc="es">Límite de datos</tran>
+        <tran loc="es-419">Límite de datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -606,7 +606,7 @@
       <Position>SOURCES_SIRI_AND_APP_SUGGESTIONS_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Allow information from “Health” to appear in search, and allow Siri to learn from and make suggestions based on this app.</base>
-        <tran loc="es">Permite que la información de Salud aparezca en la búsqueda, y que Siri aprenda y haga sugerencias basadas en esta app.</tran>
+        <tran loc="es-419">Se permite mostrar información de “Salud” en Buscar, y que Siri aprenda y realice sugerencias basadas en esta app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -615,7 +615,7 @@
       <Position>HEART_RATE_RANGE</Position>
       <TranslationSet>
         <base loc="en">%1$@-%2$@</base>
-        <tran loc="es">%1$@-%2$@</tran>
+        <tran loc="es-419">%1$@-%2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -623,7 +623,7 @@
       <Position>MIN_LOWERCASE: </Position>
       <TranslationSet>
         <base loc="en">min: </base>
-        <tran loc="es">mín.: </tran>
+        <tran loc="es-419">mín.: </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -631,7 +631,7 @@
       <Position>BEDTIME_HEADER</Position>
       <TranslationSet>
         <base loc="en">BEDTIME</base>
-        <tran loc="es">HORA DE ACOSTARSE</tran>
+        <tran loc="es-419">HORA DE DORMIR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -639,7 +639,7 @@
       <Position>SOURCES</Position>
       <TranslationSet>
         <base loc="en">Sources</base>
-        <tran loc="es">Fuentes</tran>
+        <tran loc="es-419">Fuentes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -647,7 +647,7 @@
       <Position>MY_INFO</Position>
       <TranslationSet>
         <base loc="en">My Info</base>
-        <tran loc="es">Mis datos</tran>
+        <tran loc="es-419">Mis datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -655,7 +655,7 @@
       <Position>TIME_IN_BED_CONTEXT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Avg. Time in Bed</base>
-        <tran loc="es">Tiempo acostado medio</tran>
+        <tran loc="es-419">Promedio en cama</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -663,7 +663,7 @@
       <Position>RESET_SHARING</Position>
       <TranslationSet>
         <base loc="en">Reset sharing</base>
-        <tran loc="es">Restablecer ajustes de compartir</tran>
+        <tran loc="es-419">Restablecer compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -671,7 +671,7 @@
       <Position>blood_type_o+</Position>
       <TranslationSet>
         <base loc="en">O+</base>
-        <tran loc="es">O+</tran>
+        <tran loc="es-419">O+</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -679,7 +679,7 @@
       <Position>BEDTIME_CONSISTENCY_CONTEXT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Bedtime Consistency</base>
-        <tran loc="es">Regularidad al acostarse</tran>
+        <tran loc="es-419">Constancia para dormir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -687,7 +687,7 @@
       <Position>DELETE_ALL_ASSOCIATED_NO</Position>
       <TranslationSet>
         <base loc="en">Delete Workout Only</base>
-        <tran loc="es">Eliminar solo el entreno</tran>
+        <tran loc="es-419">Eliminar sólo el entrenamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -695,7 +695,7 @@
       <Position>DATA_COLLECTION_MORE_INFO_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Learn More…</base>
-        <tran loc="es">Más información…</tran>
+        <tran loc="es-419">Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -703,7 +703,7 @@
       <Position>CDA_IMPORT_NO_DOCUMENTS</Position>
       <TranslationSet>
         <base loc="en">No Clinical Documents were found to import.</base>
-        <tran loc="es">No se ha encontrado ningún documento clínico para importar.</tran>
+        <tran loc="es-419">No se encontraron documentos clínicos para importar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -711,7 +711,7 @@
       <Position>SLEEP_FROM_HEADER</Position>
       <TranslationSet>
         <base loc="en">IN BED AT</base>
-        <tran loc="es">EN LA CAMA A:</tran>
+        <tran loc="es-419">EN CAMA DESDE:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -719,7 +719,7 @@
       <Position>blood_type_ab+</Position>
       <TranslationSet>
         <base loc="en">AB+</base>
-        <tran loc="es">AB+</tran>
+        <tran loc="es-419">AB+</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -727,7 +727,7 @@
       <Position>CONNECTING</Position>
       <TranslationSet>
         <base loc="en">Connecting</base>
-        <tran loc="es">Conectando</tran>
+        <tran loc="es-419">Conectando</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -735,7 +735,7 @@
       <Position>CCD_SHARE_DATA_TITLE</Position>
       <TranslationSet>
         <base loc="en">Share CCD Report</base>
-        <tran loc="es">Compartir informe de CCD</tran>
+        <tran loc="es-419">Compartir reporte de DCC</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -743,7 +743,7 @@
       <Position>SPLASH_SCREEN_TITLE_GRAPHS</Position>
       <TranslationSet>
         <base loc="en">New Graphs</base>
-        <tran loc="es">Nuevas gráficas</tran>
+        <tran loc="es-419">Nuevas gráficas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -751,7 +751,7 @@
       <Position>SOURCES_WATCH_PAIRED</Position>
       <TranslationSet>
         <base loc="en">Go to the Apple Watch app to change health data settings for this Apple Watch.</base>
-        <tran loc="es">Desde la app Apple Watch puedes cambiar los ajustes de los datos de salud del Apple Watch.</tran>
+        <tran loc="es-419">Abre la app Apple Watch para cambiar la configuración de salud de este Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -759,7 +759,7 @@
       <Position>PRIVACY_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Privacy Settings</base>
-        <tran loc="es">Ajustes de privacidad</tran>
+        <tran loc="es-419">Configuración de privacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@
       <Position>UPDATE_MEDICAL_ID</Position>
       <TranslationSet>
         <base loc="en">Update Medical ID</base>
-        <tran loc="es">Actualizar datos médicos</tran>
+        <tran loc="es-419">Actualizar la ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -775,7 +775,7 @@
       <Position>INACTIVE</Position>
       <TranslationSet>
         <base loc="en">Inactive</base>
-        <tran loc="es">Inactivo</tran>
+        <tran loc="es-419">Inactiva</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@
       <Position>SOURCES_WATCH_UNPAIRED_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This Apple Watch is no longer paired with this iPhone.</base>
-        <tran loc="es">Este Apple Watch ya no está enlazado con este iPhone.</tran>
+        <tran loc="es-419">Este Apple Watch ya no está enlazado con este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -791,7 +791,7 @@
       <Position>DASHBOARD_EMPTY</Position>
       <TranslationSet>
         <base loc="en">Dashboard Empty</base>
-        <tran loc="es">Tablero vacío</tran>
+        <tran loc="es-419">Tablero vacío</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -799,7 +799,7 @@
       <Position>BIRTHDATE</Position>
       <TranslationSet>
         <base loc="en">Date of Birth</base>
-        <tran loc="es">Fecha de nacimiento</tran>
+        <tran loc="es-419">Fecha de nacimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -807,7 +807,7 @@
       <Position>BEDTIME_CONSISTENCY_REGULAR</Position>
       <TranslationSet>
         <base loc="en">Regular</base>
-        <tran loc="es">Regular</tran>
+        <tran loc="es-419">Regulares</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -815,7 +815,7 @@
       <Position>DELETE_ALL_ASSOCIATED_YES_PLURAL</Position>
       <TranslationSet>
         <base loc="en">Delete Workouts &amp; Data</base>
-        <tran loc="es">Eliminar entrenos y datos</tran>
+        <tran loc="es-419">Eliminar entrenamientos y datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -823,7 +823,7 @@
       <Position>ADD_DATA</Position>
       <TranslationSet>
         <base loc="en">Add Data</base>
-        <tran loc="es">Añadir datos</tran>
+        <tran loc="es-419">Agregar datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -831,7 +831,7 @@
       <Position>MIN_MAX_SHORT %@</Position>
       <TranslationSet>
         <base loc="en">mn%@mx: </base>
-        <tran loc="es">mn%@mx: </tran>
+        <tran loc="es-419">mín.%@máx.: </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -839,7 +839,7 @@
       <Position>ALL_DATA_TITLE</Position>
       <TranslationSet>
         <base loc="en">All Recorded Data</base>
-        <tran loc="es">Todos los datos</tran>
+        <tran loc="es-419">Todos los registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -847,7 +847,7 @@
       <Position>DELETE_ALL_ASSOCIATED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Do you also want to remove the health data that was recorded with this workout?</base>
-        <tran loc="es">¿Quieres eliminar también los datos de salud asociados a este entreno?</tran>
+        <tran loc="es-419">¿También quieres eliminar los datos de salud guardados con este entrenamiento?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -855,7 +855,7 @@
       <Position>TRENDS</Position>
       <TranslationSet>
         <base loc="en">Trends</base>
-        <tran loc="es">Tendencias</tran>
+        <tran loc="es-419">Tendencias</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -863,7 +863,7 @@
       <Position>MAX_LONG %@</Position>
       <TranslationSet>
         <base loc="en">Max: %@</base>
-        <tran loc="es">Máx.: %@</tran>
+        <tran loc="es-419">Máx.: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -871,7 +871,7 @@
       <Position>HEALTH_PROFILE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Your health profile is the basic information the app needs to provide you relevant information.</base>
-        <tran loc="es">Tu perfil de salud incluye los datos básicos que la app necesita para mostrarte información relevante.</tran>
+        <tran loc="es-419">Tu perfil de salud es la información básica que la app necesita para proporcionarte información relevante.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -879,7 +879,7 @@
       <Position>blood_type_ab-</Position>
       <TranslationSet>
         <base loc="en">AB-</base>
-        <tran loc="es">AB-</tran>
+        <tran loc="es-419">AB-</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -887,7 +887,7 @@
       <Position>DELETE_ALL_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Delete All</base>
-        <tran loc="es">Eliminar todo</tran>
+        <tran loc="es-419">Eliminar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -895,7 +895,7 @@
       <Position>DELETE_ALL_ASSOCIATED_NO_PLURAL</Position>
       <TranslationSet>
         <base loc="en">Delete Workouts Only</base>
-        <tran loc="es">Eliminar solo los entrenos</tran>
+        <tran loc="es-419">Eliminar sólo entrenamientos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -903,7 +903,7 @@
       <Position>CREATE_MEDICAL_ID</Position>
       <TranslationSet>
         <base loc="en">Create Medical ID</base>
-        <tran loc="es">Crear datos médicos</tran>
+        <tran loc="es-419">Crear ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -911,7 +911,7 @@
       <Position>RECOMMENDED_APPS</Position>
       <TranslationSet>
         <base loc="en">Recommended Apps</base>
-        <tran loc="es">Apps recomendadas</tran>
+        <tran loc="es-419">Apps recomendadas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -919,7 +919,7 @@
       <Position>DATA_COLLECTION_MORE_INFO_DONE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -927,7 +927,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -935,7 +935,7 @@
       <Position>fitzpatrick_skin_type_II</Position>
       <TranslationSet>
         <base loc="en">Type II</base>
-        <tran loc="es">Fototipo II</tran>
+        <tran loc="es-419">Tipo II</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -943,7 +943,7 @@
       <Position>UNINSTALLED_APPS</Position>
       <TranslationSet>
         <base loc="en">Uninstalled Apps</base>
-        <tran loc="es">Apps desinstaladas</tran>
+        <tran loc="es-419">Apps desinstaladas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -951,7 +951,7 @@
       <Position>APP_SECTION_HEADER %@</Position>
       <TranslationSet>
         <base loc="en">Apps for Tracking %@</base>
-        <tran loc="es">Apps para controlar %@</tran>
+        <tran loc="es-419">Apps que registran %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -959,7 +959,7 @@
       <Position>BEDTIME_CONSISTENCY_IRREGULAR</Position>
       <TranslationSet>
         <base loc="en">Irregular</base>
-        <tran loc="es">Irregular</tran>
+        <tran loc="es-419">Irregular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -967,7 +967,7 @@
       <Position>MEDICAL_ID_CONSOLIDATION_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Emergency SOS</base>
-        <tran loc="es">Emergencia SOS</tran>
+        <tran loc="es-419">Emergencia SOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -975,7 +975,7 @@
       <Position>INTERRUPTIONS_CONTEXT_BUTTON_TITLE_DAY_SCOPE</Position>
       <TranslationSet>
         <base loc="en">Interruptions</base>
-        <tran loc="es">Interrupciones</tran>
+        <tran loc="es-419">Interrupciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -983,7 +983,7 @@
       <Position>TIME_IN_BED_CONTEXT_BUTTON_TITLE_DAY_SCOPE</Position>
       <TranslationSet>
         <base loc="en">Time in Bed</base>
-        <tran loc="es">Tiempo acostado</tran>
+        <tran loc="es-419">Tiempo en cama</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -991,7 +991,7 @@
       <Position>CHART_NO_DATA</Position>
       <TranslationSet>
         <base loc="en">No Data</base>
-        <tran loc="es">Sin datos</tran>
+        <tran loc="es-419">Sin datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -999,7 +999,7 @@
       <Position>EFFICIENCY_CONTEXT_BUTTON_VALUE_NO_DATA</Position>
       <TranslationSet>
         <base loc="en">No Data</base>
-        <tran loc="es">Sin datos</tran>
+        <tran loc="es-419">Sin datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1007,7 +1007,7 @@
       <Position>TODAY_NO_CONTENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">No Data</base>
-        <tran loc="es">Sin datos</tran>
+        <tran loc="es-419">Sin datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1015,7 +1015,7 @@
       <Position>APP_ALREADY_INSTALLED</Position>
       <TranslationSet>
         <base loc="en">Installed</base>
-        <tran loc="es">Instalada</tran>
+        <tran loc="es-419">Instalada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1023,7 +1023,7 @@
       <Position>WHY_IMPORTANT_TEXT_SLEEP</Position>
       <TranslationSet>
         <base loc="en">Set a bedtime. Wake at the same time. Stay consistent.</base>
-        <tran loc="es">A la cama cuando toca. En pie con energía. Horario regular.</tran>
+        <tran loc="es-419">Define tu hora de dormir. Despiértate a un mismo horario. Sé constante.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1031,7 +1031,7 @@
       <Position>NO_RECORDED_DATA</Position>
       <TranslationSet>
         <base loc="en">No Recorded Data</base>
-        <tran loc="es">No hay datos guardados</tran>
+        <tran loc="es-419">Sin registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1039,7 +1039,7 @@
       <Position>SPLASH_SCREEN_MAIN_TITLE</Position>
       <TranslationSet>
         <base loc="en">What’s New in Health</base>
-        <tran loc="es">Novedades de Salud</tran>
+        <tran loc="es-419">Novedades de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1047,7 +1047,7 @@
       <Position>EXPORT_PREPARING_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Preparing…</base>
-        <tran loc="es">Preparando…</tran>
+        <tran loc="es-419">Preparando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1055,7 +1055,7 @@
       <Position>MEDICAL_ID</Position>
       <TranslationSet>
         <base loc="en">Medical ID</base>
-        <tran loc="es">Datos médicos</tran>
+        <tran loc="es-419">Ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1063,7 +1063,7 @@
       <Position>STARTING_AT</Position>
       <TranslationSet>
         <base loc="en">Starting At</base>
-        <tran loc="es">A partir de</tran>
+        <tran loc="es-419">Desde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1071,7 +1071,7 @@
       <Position>SHOW_ALL_DATA_UA_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Show All %@ Data</base>
-        <tran loc="es">Mostrar todos los datos de %@</tran>
+        <tran loc="es-419">Mostrar todos los datos de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1079,7 +1079,7 @@
       <Position>LIST</Position>
       <TranslationSet>
         <base loc="en">List</base>
-        <tran loc="es">Lista</tran>
+        <tran loc="es-419">Lista</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1087,7 +1087,7 @@
       <Position>blood_type_o-</Position>
       <TranslationSet>
         <base loc="en">O-</base>
-        <tran loc="es">O-</tran>
+        <tran loc="es-419">O-</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1095,7 +1095,7 @@
       <Position>fitzpatrick_skin_type_I</Position>
       <TranslationSet>
         <base loc="en">Type I</base>
-        <tran loc="es">Fototipo I</tran>
+        <tran loc="es-419">Tipo I</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1103,7 +1103,7 @@
       <Position>HEALTH_PROFILE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Health Profile</base>
-        <tran loc="es">Perfil de salud</tran>
+        <tran loc="es-419">Perfil de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1111,7 +1111,7 @@
       <Position>SHOW_ALL_RECORDS</Position>
       <TranslationSet>
         <base loc="en">Show All Records</base>
-        <tran loc="es">Mostrar todos los historiales</tran>
+        <tran loc="es-419">Mostrar todos los registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1119,7 +1119,7 @@
       <Position>EFFICIENCY_CONTEXT_BUTTON_TITLE_DAY_SCOPE</Position>
       <TranslationSet>
         <base loc="en">Efficiency</base>
-        <tran loc="es">Eficiencia</tran>
+        <tran loc="es-419">Eficiencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1127,7 +1127,7 @@
       <Position>SPLASH_SCREEN_DESCRIPTION_HEART</Position>
       <TranslationSet>
         <base loc="en">View all the data about your heart in one place, such as workout, walking and resting heart rates.</base>
-        <tran loc="es">Consulta en un solo lugar toda tu información cardiaca, como las frecuencias cardiacas al entrenar, al pasear y en reposo.</tran>
+        <tran loc="es-419">Conoce tus distintas frecuencias cardiacas —como al caminar, en reposo y al descansar— en un solo lugar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1135,7 +1135,7 @@
       <Position>MEDICAL_ID_CONSOLIDATION_LEARN_MORE_TITLE</Position>
       <TranslationSet>
         <base loc="en">About Emergency SOS</base>
-        <tran loc="es">Acerca de “Emergencia SOS”</tran>
+        <tran loc="es-419">Acerca de Emergencia SOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1143,7 +1143,7 @@
       <Position>CDA_IMPORT_DOCUMENT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Clinical Documents</base>
-        <tran loc="es">Documentos clínicos</tran>
+        <tran loc="es-419">Documentos clínicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1151,7 +1151,7 @@
       <Position>fitzpatrick_skin_type_IV</Position>
       <TranslationSet>
         <base loc="en">Type IV</base>
-        <tran loc="es">Fototipo IV</tran>
+        <tran loc="es-419">Tipo IV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1159,7 +1159,7 @@
       <Position>CONFIRM_UNIT_CHANGE %@</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to change units to %@?</base>
-        <tran loc="es">¿Seguro que quieres cambiar las unidades a %@?</tran>
+        <tran loc="es-419">¿Seguro que quieres cambiar las unidades a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1167,7 +1167,7 @@
       <Position>TIME_AWAKE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Time Awake</base>
-        <tran loc="es">Tiempo despierto</tran>
+        <tran loc="es-419">Vigilia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1175,7 +1175,7 @@
       <Position>MEDICAL_ID_CONSOLIDATION_ALERT_BODY_WATCH_ONLY</Position>
       <TranslationSet>
         <base loc="en">SOS and emergency contacts are now in your Medical ID in the Health app on iPhone. After you update your Apple Watch, all these contacts will be notified when you use Emergency SOS on Apple Watch.</base>
-        <tran loc="es">Ahora, todos tus contactos de emergencia se encuentran en la pestaña “Datos médicos” de la app Salud del iPhone. Una vez actualizado el Apple Watch, si usas la función “Emergencia SOS” desde el Apple Watch, se enviará una notificación a todos tus contactos de emergencia.</tran>
+        <tran loc="es-419">Emergencia SOS y los contactos de emergencia ahora están en tu ficha médica en la app Salud del iPhone. Después de actualizar tu Apple Watch, estos contactos recibirán avisos cuando uses Emergencia SOS en tu Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1183,7 +1183,7 @@
       <Position>ORGAN_DONATION</Position>
       <TranslationSet>
         <base loc="en">Organ Donation</base>
-        <tran loc="es">Donación de órganos</tran>
+        <tran loc="es-419">Donación de órganos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1191,7 +1191,7 @@
       <Position>CCD_SHARED_WITH_APP</Position>
       <TranslationSet>
         <base loc="en">Shared With:</base>
-        <tran loc="es">Compartido con:</tran>
+        <tran loc="es-419">Compartido con:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1199,7 +1199,7 @@
       <Position>CDA_IMPORT_SOME_INVALID_DOCUMENTS %@ %@</Position>
       <TranslationSet>
         <base loc="en">Note: %1$@ of %2$@ Clinical Documents were found to be invalid.</base>
-        <tran loc="es">Nota: El formato de %1$@ de los %2$@ documentos clínicos no es válido.</tran>
+        <tran loc="es-419">Nota: %1$@ de %2$@ documentos clínicos no son válidos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1207,7 +1207,7 @@
       <Position>WHY_IMPORTANT_TEXT_FITNESS</Position>
       <TranslationSet>
         <base loc="en">Sit less. Move more. Get some exercise.</base>
-        <tran loc="es">Siéntate menos. Muévete más. Haz algo de ejercicio.</tran>
+        <tran loc="es-419">Siéntate menos. Muévete más. Haz ejercicio.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1215,7 +1215,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1223,7 +1223,7 @@
       <Position>OUT_OF_RANGE_ALERT_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1231,7 +1231,7 @@
       <Position>SLEEP_ROOM_DESCRIPTION_PARAGRAPH_2</Position>
       <TranslationSet>
         <base loc="en">The “In Bed” period reflects the time period you are lying in bed with the intention to sleep. For most people, it starts when you turn the lights off and it ends when you get out of bed. The “Asleep” period reflects the period(s) you are asleep.</base>
-        <tran loc="es">El período “En la cama” refleja el período de tiempo que estás tumbado en la cama con la intención de dormir. Para la mayoría de las personas, comienza al apagar la luz y termina al levantarse de la cama. El período “Durmiendo” refleja el período o períodos de tiempo que estás dormido.</tran>
+        <tran loc="es-419">El periodo "En cama" refleja el tiempo que pasas sobre la cama con la intención de dormir. Para la mayoría de las personas, esta comienza al apagar la luz y termina al levantarse de la cama. El periodo de "Sueño" es el que refleja el tiempo que duermes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1239,7 +1239,7 @@
       <Position>SOURCES_SIRI_AND_APP_SUGGESTIONS</Position>
       <TranslationSet>
         <base loc="en">Search &amp; Siri Suggestions</base>
-        <tran loc="es">Sugerencias de Siri y Buscar</tran>
+        <tran loc="es-419">Buscar y sugerencias de Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1247,7 +1247,7 @@
       <Position>EXPORT_NO_DATA</Position>
       <TranslationSet>
         <base loc="en">Could not export data.</base>
-        <tran loc="es">No se han podido exportar los datos.</tran>
+        <tran loc="es-419">No se puede exportar datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1255,7 +1255,7 @@
       <Position>DELETE_ALL_ASSOCIATED_MESSAGE_PLURAL</Position>
       <TranslationSet>
         <base loc="en">Do you also want to remove the health data that was recorded with these workouts?</base>
-        <tran loc="es">¿Quieres eliminar también los datos de salud asociados a estos entrenos?</tran>
+        <tran loc="es-419">¿También quieres eliminar los datos de salud guardados con estos entrenamientos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1263,7 +1263,7 @@
       <Position>ADD</Position>
       <TranslationSet>
         <base loc="en">Add</base>
-        <tran loc="es">Añadir</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1271,7 +1271,7 @@
       <Position>OUT_OF_RANGE_ALERT_SAMPLE_DURATION_ERROR_%@_%@</Position>
       <TranslationSet>
         <base loc="en">You can enter up to %1$@ of %2$@ at a time.</base>
-        <tran loc="es">Puedes introducir hasta %1$@ de %2$@ cada vez.</tran>
+        <tran loc="es-419">Puedes ingresar hasta %1$@ de %2$@ a la vez.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1279,7 +1279,7 @@
       <Position>LAST_NAME</Position>
       <TranslationSet>
         <base loc="en">Last Name</base>
-        <tran loc="es">Apellidos</tran>
+        <tran loc="es-419">Apellido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1287,7 +1287,7 @@
       <Position>LAST_ACTIVITY %@</Position>
       <TranslationSet>
         <base loc="en">Last Activity: %@</base>
-        <tran loc="es">Última actividad: %@</tran>
+        <tran loc="es-419">Última actividad: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1295,7 +1295,7 @@
       <Position>SPLASH_SCREEN_TITLE_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Health in iCloud</base>
-        <tran loc="es">Salud en iCloud</tran>
+        <tran loc="es-419">Salud en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1303,7 +1303,7 @@
       <Position>fitzpatrick_skin_type_V</Position>
       <TranslationSet>
         <base loc="en">Type V</base>
-        <tran loc="es">Fototipo V</tran>
+        <tran loc="es-419">Tipo V</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1311,7 +1311,7 @@
       <Position>OUT_OF_RANGE_ALERT_TWO_ITEMS_FORMAT_%@_%@</Position>
       <TranslationSet>
         <base loc="en">You entered %1$@ and %2$@. Is this correct?</base>
-        <tran loc="es">Has introducido “%1$@” y “%2$@”. ¿Es correcto?</tran>
+        <tran loc="es-419">Ingresaste %1$@ y %2$@, ¿es correcto?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>EDIT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>EFFICIENCY_CONTEXT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Avg. Efficiency</base>
-        <tran loc="es">Eficiencia media</tran>
+        <tran loc="es-419">Eficiencia prom.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>WHEELCHAIR_USE_COREMOTION_TEXT_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Track pushes instead of steps on Apple Watch in the Activity app, and in wheelchair workouts in the Workout app, and record them to Health. When this setting is on, your iPhone stops tracking steps.</base>
-        <tran loc="es">Se registran impulsos en vez de pasos en la app Actividad del Apple Watch y en los entrenos para personas en silla de ruedas de la app Entreno. Los impulsos se guardan en la app Salud. Si esta opción está activada, el iPhone deja de registrar pasos.</tran>
+        <tran loc="es-419">Da seguimiento a impulsos en lugar de pasos con tu Apple Watch en la app Actividad y en ejercicios en silla de ruedas en la app Entrenamiento, registrándolos en Salud. Si se activa, tu iPhone dejará de dar seguimiento a tus pasos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>ADD_TO_FAVORITES</Position>
       <TranslationSet>
         <base loc="en">Add to Favorites</base>
-        <tran loc="es">Añadir a favoritos</tran>
+        <tran loc="es-419">Agregar a Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>STARTS</Position>
       <TranslationSet>
         <base loc="en">Starts</base>
-        <tran loc="es">Empieza</tran>
+        <tran loc="es-419">Inicia el</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1361,7 +1361,7 @@
       <Position>DATE_SELECTION_SHORT_%@_%@</Position>
       <TranslationSet>
         <base loc="en">%1$@ \U2013 %2$@</base>
-        <tran loc="es">%1$@ \U2013 %2$@</tran>
+        <tran loc="es-419">%1$@ \U2013 %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1369,7 +1369,7 @@
       <Position>EXPORT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Export Health Data</base>
-        <tran loc="es">Exportar datos de salud</tran>
+        <tran loc="es-419">Exportar datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1377,7 +1377,7 @@
       <Position>MEDICAL_ID_CONSOLIDATION_LEARN_MORE_BODY</Position>
       <TranslationSet>
         <base loc="en">When you use Emergency SOS, your device will attempt to call emergency services. To allow the dispatcher to assist you, this call may include your location, regardless of whether you enable Location Services. Once the call ends, you can choose to notify your emergency contacts with a message that says you have called emergency services. This message also includes your current location. You can manage your emergency contacts by editing your Medical ID in the Health app on iPhone.\n\nFor a limited period of time, your device will send updates to your emergency contacts as your location changes. You’ll receive a notification when this happens. You may stop these updates by selecting Stop Sharing in the notification.\n\nIf Location Services is disabled, it will be temporarily enabled in order to notify your emergency contacts with your location. If you don’t want to send your location to your emergency contacts, open Settings on your iPhone, tap Privacy, tap Location Services, tap System Services, and turn off Emergency SOS.</base>
-        <tran loc="es">Cuando usas la función “Emergencia SOS”, el dispositivo intenta llamar a los servicios de socorro. Con el fin de facilitar las labores de asistencia, esta llamada puede incluir tu ubicación, independientemente de si tienes o no activada la función de localización. Cuando la llamada termina, puedes enviar a tus contactos de emergencia un mensaje que les avise de que has llamado a los servicios de socorro. El mensaje incluirá tu ubicación actual. Puedes gestionar tus contactos de emergencia desde la pestaña “Datos médicos” de la app Salud del iPhone.\n\nDurante un periodo de tiempo limitado, tu dispositivo enviará actualizaciones a tus contactos de emergencia cuando tu ubicación cambie, y tú también recibirás una notificación. Puedes desactivar el envío de actualizaciones seleccionando “Dejar de compartir” en la notificación.\n\nSi la localización está desactivada, se activará temporalmente para enviar tu ubicación a tus contactos de emergencia. Si no quieres que se envíe tu ubicación a estos contactos, en el iPhone ve a Ajustes &gt; Privacidad &gt; Localización &gt; Servicios del sistema, y desactiva la opción “Emergencia SOS”.</tran>
+        <tran loc="es-419">Al usar Emergencia SOS, tu dispositivo intentará llamar a servicios de emergencia. Para que quien atienda tu llamada pueda ayudarte, esta incluye tu ubicación sin importar si activaste Localización. Al finalizar la llamada, tendrás la opción de avisar a tus contactos de emergencia con un mensaje en el que se informa que realizaste una llamada de emergencia y que incluye tu ubicación actual. Puedes administrarlos al editar tu ficha médica en la app Salud de tu iPhone.\n\nDurante un periodo limitado, tu dispositivo enviará actualizaciones a tus contactos de emergencia conforme tu ubicación cambie y recibirás una notificación cuando esto suceda. Puedes desactivarlas al seleccionar “Dejar de compartir” en la notificación.\n\nSi Localización está desactivada, se reactivará temporalmente para comunicar tu ubicación a tus contactos de emergencia. Si no quieres que se les envíe, desactiva Emergencia SOS en tu iPhone enlazado en Configuración &gt; Privacidad &gt; Localización &gt; Servicios del sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1385,7 +1385,7 @@
       <Position>OUT_OF_RANGE_ALERT_CONFIRM_TITLE</Position>
       <TranslationSet>
         <base loc="en">Confirm Data</base>
-        <tran loc="es">Confirmar datos</tran>
+        <tran loc="es-419">Confirmar datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1393,7 +1393,7 @@
       <Position>BEDTIME_CONSISTENCY_ON_TIME</Position>
       <TranslationSet>
         <base loc="en">On time</base>
-        <tran loc="es">A la misma hora</tran>
+        <tran loc="es-419">A tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1401,7 +1401,7 @@
       <Position>DATA_COLLECTION_ENABLE</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1409,7 +1409,7 @@
       <Position>HEART_RATE_NO_VALUE</Position>
       <TranslationSet>
         <base loc="en">--</base>
-        <tran loc="es">--</tran>
+        <tran loc="es-419">--</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1417,7 +1417,7 @@
       <Position>NO_DATA</Position>
       <TranslationSet>
         <base loc="en">--</base>
-        <tran loc="es">--</tran>
+        <tran loc="es-419">--</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1425,7 +1425,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1433,7 +1433,7 @@
       <Position>HEALTH_DATA_CALENDAR_EXIT</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1441,7 +1441,7 @@
       <Position>OUT_OF_RANGE_ALERT_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1449,7 +1449,7 @@
       <Position>CCD_PROVIDER_TITLE</Position>
       <TranslationSet>
         <base loc="en">CCD Documents</base>
-        <tran loc="es">Documentos de CCD</tran>
+        <tran loc="es-419">Documentos de continuidad de cuidado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1457,7 +1457,7 @@
       <Position>SLEEP_GOAL_HEADER</Position>
       <TranslationSet>
         <base loc="en">GOAL</base>
-        <tran loc="es">OBJETIVO</tran>
+        <tran loc="es-419">OBJETIVO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1465,7 +1465,7 @@
       <Position>EXPORT_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Are you sure that you want to export your data? This may take a few moments.</base>
-        <tran loc="es">¿Seguro que quieres exportar tus datos? Este proceso puede durar unos minutos.</tran>
+        <tran loc="es-419">¿Seguro que quieres exportar tus datos? Esto podría tardar un poco.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1473,7 +1473,7 @@
       <Position>WORKOUT_TOTAL_DISTANCE_WITH_UNIT %@</Position>
       <TranslationSet>
         <base loc="en">Distance (%@)</base>
-        <tran loc="es">Distancia (%@)</tran>
+        <tran loc="es-419">Distancia (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1481,7 +1481,7 @@
       <Position>SLEEP_RECOMMENDED_MIN_HEADER</Position>
       <TranslationSet>
         <base loc="en">RECOMMENDED MINIMUM</base>
-        <tran loc="es">MÍNIMO RECOMENDADO</tran>
+        <tran loc="es-419">MÍNIMO RECOMENDADO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1489,7 +1489,7 @@
       <Position>APPS_LIST_HEADER</Position>
       <TranslationSet>
         <base loc="en">Apps</base>
-        <tran loc="es">Apps</tran>
+        <tran loc="es-419">Apps</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1497,7 +1497,7 @@
       <Position>SLEEP_ROOM_DESCRIPTION_PARAGRAPH_1</Position>
       <TranslationSet>
         <base loc="en">Sleep analysis provides insight into your sleeping habits. Sleep trackers and monitors can help you determine the amount of time you are in bed and asleep. These devices estimate your time in bed and your time asleep by analyzing changes in physical activity, including movement during the night. You can also keep track of your sleep by entering your own estimation of your bed time and sleep time manually.</base>
-        <tran loc="es">El análisis del sueño ofrece una visión global de tus hábitos de sueño. Los monitores y rastreadores de sueño pueden ayudarte a determinar la cantidad de tiempo que estás en la cama y durmiendo. Estos dispositivos calculan el tiempo que permaneces en la cama y el tiempo que estás durmiendo analizando los cambios en tu actividad física, entre ellos los movimientos realizados durante la noche. También puedes realizar un seguimiento de tus hábitos de sueño introduciendo manualmente tu propia estimación del tiempo que estás en la cama y el tiempo que estás durmiendo.</tran>
+        <tran loc="es-419">El análisis de sueño te ofrece una perspectiva amplia sobre tus hábitos al dormir. Los dispositivos que supervisan el sueño pueden ayudarte a determinar la cantidad de tiempo que debes estar en cama durmiendo; calculan el tiempo que pasas en la cama y que duermes al analizar cambios en la actividad física incluyendo los movimientos nocturnos. También puedes dar seguimiento a tu sueño al ingresar manualmente tu propio cálculo del tiempo que duermes y del que permaneces en tu cama.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1505,7 +1505,7 @@
       <Position>WHY_IMPORTANT_TEXT_NUTRITION</Position>
       <TranslationSet>
         <base loc="en">Eat more real food. Eat less junk food. Mind the amount.</base>
-        <tran loc="es">Más comida real. Menos comida basura. Porciones razonables.</tran>
+        <tran loc="es-419">Más alimentos nutritivos. Menos comida chatarra. Controla las porciones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1513,7 +1513,7 @@
       <Position>THIS_WEEK</Position>
       <TranslationSet>
         <base loc="en">This Week</base>
-        <tran loc="es">Esta semana</tran>
+        <tran loc="es-419">Esta semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1521,7 +1521,7 @@
       <Position>OLDER</Position>
       <TranslationSet>
         <base loc="en">Older</base>
-        <tran loc="es">Anterior</tran>
+        <tran loc="es-419">De más edad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1529,7 +1529,7 @@
       <Position>WORKOUTS</Position>
       <TranslationSet>
         <base loc="en">Workouts</base>
-        <tran loc="es">Entrenos</tran>
+        <tran loc="es-419">Sesiones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1537,7 +1537,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1545,7 +1545,7 @@
       <Position>SPLASH_SCREEN_TITLE_HEART</Position>
       <TranslationSet>
         <base loc="en">Heart Overview</base>
-        <tran loc="es">Estado general del corazón</tran>
+        <tran loc="es-419">Información cardiaca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1553,7 +1553,7 @@
       <Position>CCD_PLAIN_TEXT_VIEW</Position>
       <TranslationSet>
         <base loc="en">Report in Raw Form</base>
-        <tran loc="es">Informe sin formato</tran>
+        <tran loc="es-419">Reporte sin cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1561,7 +1561,7 @@
       <Position>MIN_ONLY</Position>
       <TranslationSet>
         <base loc="en">min</base>
-        <tran loc="es">min</tran>
+        <tran loc="es-419">min.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1569,7 +1569,7 @@
       <Position>UNIT</Position>
       <TranslationSet>
         <base loc="en">Unit</base>
-        <tran loc="es">Unidad</tran>
+        <tran loc="es-419">Unidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1577,7 +1577,7 @@
       <Position>DELETE_ALL_ASSOCIATED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Workout Data</base>
-        <tran loc="es">Datos de entreno</tran>
+        <tran loc="es-419">Datos de entrenamientos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1585,7 +1585,7 @@
       <Position>DATA_COLLECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Improve Health &amp; Activity?</base>
-        <tran loc="es">¿Mejorar Salud y Actividad?</tran>
+        <tran loc="es-419">¿Mejorar Actividad y Salud?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1593,7 +1593,7 @@
       <Position>NO</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1601,7 +1601,7 @@
       <Position>WHEELCHAIR_USE_COREMOTION_TEXT_IPOD</Position>
       <TranslationSet>
         <base loc="en">When this setting is on, your iPod touch stops tracking steps.</base>
-        <tran loc="es">Si esta opción está activada, el iPod touch no registra los pasos.</tran>
+        <tran loc="es-419">Si se activa, tu iPod touch dejará de dar seguimiento a tus pasos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1609,7 +1609,7 @@
       <Position>THIS_MONTH</Position>
       <TranslationSet>
         <base loc="en">This Month</base>
-        <tran loc="es">Este mes</tran>
+        <tran loc="es-419">Este mes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1617,7 +1617,7 @@
       <Position>WAKETIME_HEADER</Position>
       <TranslationSet>
         <base loc="en">WAKE TIME</base>
-        <tran loc="es">HORA DE DESPERTARSE</tran>
+        <tran loc="es-419">DESPERTARSE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1625,7 +1625,7 @@
       <Position>SPLASH_SCREEN_DESCRIPTION_ICLOUD</Position>
       <TranslationSet>
         <base loc="en">Securely store your data in iCloud and keep Health and Activity up to date on iPhone and Apple Watch.</base>
-        <tran loc="es">Guarda tus datos en iCloud de forma segura y mantén actualizada tu información de salud y actividad en el iPhone y el Apple Watch.</tran>
+        <tran loc="es-419">Almacena de forma segura tus datos en iCloud. Mantén actualizadas las apps Salud y Actividad en tu iPhone y tu Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1633,7 +1633,7 @@
       <Position>DATA_TYPE_PROVIDERS_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">The sources above are allowed to update your %@ data. When multiple sources are available, one data source will be chosen based on the priority order listed above.</base>
-        <tran loc="es">Las fuentes anteriores tienen autorización para actualizar tus datos de %@. Si hay varias fuentes disponibles, se seleccionará una en función del orden de prioridad de la lista.</tran>
+        <tran loc="es-419">Las fuentes anteriores pueden actualizar tus datos de %@. Cuando haya disponibles varias fuentes, se elegirá una según el orden de prioridad de la lista anterior.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1643,7 +1643,7 @@
       <Position>LOG</Position>
       <TranslationSet>
         <base loc="en">Log</base>
-        <tran loc="es">Registrar</tran>
+        <tran loc="es-419">Registrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1651,7 +1651,7 @@
       <Position>EXPORT_DATA_FILE_CDA</Position>
       <TranslationSet>
         <base loc="en">export_cda</base>
-        <tran loc="es">export_cda</tran>
+        <tran loc="es-419">export_cda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1659,7 +1659,7 @@
       <Position>WHY_IMPORTANT_TEXT_HEART</Position>
       <TranslationSet>
         <base loc="en">Train it harder. Make it stronger. Keep it pumping.</base>
-        <tran loc="es">Entrénalo más. Fortalécelo. Hazlo latir.</tran>
+        <tran loc="es-419">Entrénalo. Fortalécelo. Mantenlo trabajando.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1667,7 +1667,7 @@
       <Position>SHOW_ON_DASHBOARD</Position>
       <TranslationSet>
         <base loc="en">Show on Dashboard</base>
-        <tran loc="es">Mostrar en el tablero</tran>
+        <tran loc="es-419">Mostrar en el tablero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1675,7 +1675,7 @@
       <Position>MALE</Position>
       <TranslationSet>
         <base loc="en">Male</base>
-        <tran loc="es">Hombre</tran>
+        <tran loc="es-419">Hombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1683,7 +1683,7 @@
       <Position>SPLASH_SCREEN_DESCRIPTION_GRAPHS</Position>
       <TranslationSet>
         <base loc="en">Clear, interactive views into your data make it easier to see changes over time.</base>
-        <tran loc="es">Las vistas claras e interactivas permiten ver fácilmente los cambios a lo largo del tiempo.</tran>
+        <tran loc="es-419">Visualiza tus datos de forma clara e interactiva para facilitar notar sus cambios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1691,7 +1691,7 @@
       <Position>APPS_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1699,7 +1699,7 @@
       <Position>DEVICES_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1707,7 +1707,7 @@
       <Position>NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1715,7 +1715,7 @@
       <Position>NO_APPS_TO_SHOW</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1723,7 +1723,7 @@
       <Position>RESEARCH_STUDIES_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1731,7 +1731,7 @@
       <Position>SLEEP_INTERRUPTIONS_NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguna</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1739,7 +1739,7 @@
       <Position>WORKOUT_TOTAL_ENERGY_BURNED_WITH_UNIT %@</Position>
       <TranslationSet>
         <base loc="en">Active Energy (%@)</base>
-        <tran loc="es">Energía en actividad (%@)</tran>
+        <tran loc="es-419">Energía activa (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1747,7 +1747,7 @@
       <Position>blood_type_b-</Position>
       <TranslationSet>
         <base loc="en">B-</base>
-        <tran loc="es">B-</tran>
+        <tran loc="es-419">B-</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1755,7 +1755,7 @@
       <Position>HEALTH_PROFILE</Position>
       <TranslationSet>
         <base loc="en">Set up Health Profile</base>
-        <tran loc="es">Configurar perfil de salud</tran>
+        <tran loc="es-419">Configurar perfil de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1763,7 +1763,7 @@
       <Position>WORKOUT_ACTIVITY_TYPE</Position>
       <TranslationSet>
         <base loc="en">Activity Type</base>
-        <tran loc="es">Actividad</tran>
+        <tran loc="es-419">Tipo de actividad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1771,7 +1771,7 @@
       <Position>EXPORT_PREPARING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Exporting Health Data</base>
-        <tran loc="es">Exportando datos de salud</tran>
+        <tran loc="es-419">Exportando datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1779,7 +1779,7 @@
       <Position>DISMISS</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1787,7 +1787,7 @@
       <Position>WEIGHT</Position>
       <TranslationSet>
         <base loc="en">Weight</base>
-        <tran loc="es">Peso</tran>
+        <tran loc="es-419">Peso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1795,7 +1795,7 @@
       <Position>SLEEP_TO_HEADER</Position>
       <TranslationSet>
         <base loc="en">IN BED UNTIL</base>
-        <tran loc="es">EN LA CAMA HASTA:</tran>
+        <tran loc="es-419">EN CAMA HASTA:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1803,7 +1803,7 @@
       <Position>CCD_NOT_SHARED_WITH_APP</Position>
       <TranslationSet>
         <base loc="en">Withheld From:</base>
-        <tran loc="es">No compartido con:</tran>
+        <tran loc="es-419">Oculto de:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1811,7 +1811,7 @@
       <Position>EXPORT_SUBJECT</Position>
       <TranslationSet>
         <base loc="en">Health Data Export</base>
-        <tran loc="es">Exportación de datos de salud</tran>
+        <tran loc="es-419">Exportar datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1819,7 +1819,7 @@
       <Position>SOURCES_LOCAL_DEVICE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Go to the Motion &amp; Fitness settings under Privacy in the Settings app to control fitness tracking on this iPod touch.</base>
-        <tran loc="es">Para gestionar el seguimiento deportivo que realiza este iPod touch, abre la app Ajustes, selecciona Privacidad y luego “Actividad física”.</tran>
+        <tran loc="es-419">Para definir el seguimiento de tu condición en este iPod touch, abre Configuración &gt; Privacidad &gt; "Condición y actividad física"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1827,7 +1827,7 @@
       <Position>DATA_COLLECTION_MESSAGE_SEED</Position>
       <TranslationSet>
         <base loc="en">Do you want to help Apple improve health and fitness features by sharing your activity, workout, and limited health-related data?  You can stop sharing any time in Settings.</base>
-        <tran loc="es">¿Quieres ayudar a Apple a mejorar las funciones de salud y forma física compartiendo tus datos de actividad, tus entrenos y otra información limitada sobre tu salud? Puedes dejar de compartir estos datos cuando quieras en Ajustes.</tran>
+        <tran loc="es-419">¿Quieres ayudar a Apple a mejorar las funciones de condición física y salud al compartirle tus datos de actividad, entrenamiento e información limitada relacionada con tu salud? Puedes cambiar esto en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1835,7 +1835,7 @@
       <Position>TIME_TO_FALL_ASLEEP_HEADER</Position>
       <TranslationSet>
         <base loc="en">TIME TO FALL ASLEEP</base>
-        <tran loc="es">TIEMPO PARA QUEDARTE DORMIDO</tran>
+        <tran loc="es-419">TIEMPO PARA CONCILIAR EL SUEÑO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1843,7 +1843,7 @@
       <Position>UV_INDEX</Position>
       <TranslationSet>
         <base loc="en">UV Index</base>
-        <tran loc="es">Índice UV</tran>
+        <tran loc="es-419">Índice de rayos UV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1851,7 +1851,7 @@
       <Position>TIME_ASLEEP_CONTEXT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Avg. Time Asleep</base>
-        <tran loc="es">Tiempo dormido medio</tran>
+        <tran loc="es-419">Tiempo de sueño prom.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1859,7 +1859,7 @@
       <Position>CDA_IMPORT_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Clinical Documents Import</base>
-        <tran loc="es">Importar documentos clínicos</tran>
+        <tran loc="es-419">Importar documentos clínicos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1867,7 +1867,7 @@
       <Position>EXPORT_DATA_FILE_XML</Position>
       <TranslationSet>
         <base loc="en">export</base>
-        <tran loc="es">exportación</tran>
+        <tran loc="es-419">exportar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1875,7 +1875,7 @@
       <Position>EXPORT_DATE_FILE_ZIP</Position>
       <TranslationSet>
         <base loc="en">export</base>
-        <tran loc="es">exportación</tran>
+        <tran loc="es-419">exportar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1883,7 +1883,7 @@
       <Position>DATE</Position>
       <TranslationSet>
         <base loc="en">Date</base>
-        <tran loc="es">Fecha</tran>
+        <tran loc="es-419">Fecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1891,7 +1891,7 @@
       <Position>EFFICIENCY_HEADER</Position>
       <TranslationSet>
         <base loc="en">EFFICIENCY</base>
-        <tran loc="es">EFICIENCIA</tran>
+        <tran loc="es-419">EFICIENCIA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1899,7 +1899,7 @@
       <Position>SLEEP_EFFICIENCY_HEADER</Position>
       <TranslationSet>
         <base loc="en">EFFICIENCY</base>
-        <tran loc="es">EFICIENCIA</tran>
+        <tran loc="es-419">EFICIENCIA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1907,7 +1907,7 @@
       <Position>TODAY</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1915,7 +1915,7 @@
       <Position>BACK</Position>
       <TranslationSet>
         <base loc="en">Back</base>
-        <tran loc="es">Atrás</tran>
+        <tran loc="es-419">Atrás</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1923,7 +1923,7 @@
       <Position>CDA_IMPORT_NO_VALID_DOCUMENTS</Position>
       <TranslationSet>
         <base loc="en">None of the import files are valid Clinical Documents.</base>
-        <tran loc="es">Ninguno de los archivos para importar es un documento clínico válido.</tran>
+        <tran loc="es-419">Ninguno de los archivos para importar son documentos clínicos con el formato correcto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1931,7 +1931,7 @@
       <Position>EXPORT_CANCELING_TITLE</Position>
       <TranslationSet>
         <base loc="en">Canceling Export…</base>
-        <tran loc="es">Cancelando exportación…</tran>
+        <tran loc="es-419">Cancelando exportación…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1939,7 +1939,7 @@
       <Position>MEDICAL_ID_CONSOLIDATION_ALERT_BODY</Position>
       <TranslationSet>
         <base loc="en">SOS and emergency contacts are now in your Medical ID in the Health app on iPhone. After you update your Apple Watch, all these contacts will be notified when you use Emergency SOS on iPhone or Apple Watch.</base>
-        <tran loc="es">Ahora, todos tus contactos de emergencia se encuentran en la pestaña “Datos médicos” de la app Salud del iPhone. Una vez actualizado el Apple Watch, si usas la función “Emergencia SOS” desde el iPhone o el Apple Watch, se enviará una notificación a todos tus contactos de emergencia.</tran>
+        <tran loc="es-419">Emergencia SOS y los contactos de emergencia ahora están en tu ficha médica en la app Salud del iPhone. Después de actualizar tu Apple Watch, estos contactos recibirán avisos cuando uses Emergencia SOS en tu iPhone o Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1947,7 +1947,7 @@
       <Position>MANUAL_ENTRY_UA_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%1@ %2@</base>
-        <tran loc="es">%1@ %2@</tran>
+        <tran loc="es-419">%2@ de %1@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1955,7 +1955,7 @@
       <Position>OUT_OF_RANGE_ALERT_CONFIRM</Position>
       <TranslationSet>
         <base loc="en">Confirm</base>
-        <tran loc="es">Confirmar</tran>
+        <tran loc="es-419">Confirmar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1963,7 +1963,7 @@
       <Position>DAILY_AVERAGE %@</Position>
       <TranslationSet>
         <base loc="en">Daily Average: %@</base>
-        <tran loc="es">Promedio diario: %@</tran>
+        <tran loc="es-419">Promedio diario: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1971,7 +1971,7 @@
       <Position>BIOLOGICAL_SEX_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1979,7 +1979,7 @@
       <Position>BIRTHDATE_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1987,7 +1987,7 @@
       <Position>BLOOD_TYPE_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1995,7 +1995,7 @@
       <Position>FIRST_NAME_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2003,7 +2003,7 @@
       <Position>FITZPATRICK_SKIN_TYPE_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2011,7 +2011,7 @@
       <Position>LAST_NAME_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2019,7 +2019,7 @@
       <Position>SHOW_ALL_DATA</Position>
       <TranslationSet>
         <base loc="en">Show All Data</base>
-        <tran loc="es">Mostrar todos los datos</tran>
+        <tran loc="es-419">Mostrar todos los datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2027,7 +2027,7 @@
       <Position>MEDICAL_ID_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">A Medical ID provides medical information about you that may be important in an emergency, like allergies and medical conditions.\nThe Medical ID can be accessed from the emergency dialer without unlocking your phone.</base>
-        <tran loc="es">Los datos médicos aportan información médica importante sobre ti en caso de una emergencia (por ejemplo, alergias o afecciones médicas).\nSe puede acceder a los datos médicos desde el marcador de emergencia sin desbloquear el teléfono.</tran>
+        <tran loc="es-419">Una ficha médica proporciona información de salud, como alergias o padecimientos médicos, que podría ser importante durante emergencias.\nSe puede acceder a la ficha médica mediante la marcación de emergencia sin necesidad de desbloquear el teléfono.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2035,7 +2035,7 @@
       <Position>FIRST_NAME</Position>
       <TranslationSet>
         <base loc="en">First Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2043,7 +2043,7 @@
       <Position>OUT_OF_RANGE_ALERT_ONE_ITEM_FORMAT_%@</Position>
       <TranslationSet>
         <base loc="en">You entered %@. Is this correct?</base>
-        <tran loc="es">Has introducido “%@”. ¿Es correcto?</tran>
+        <tran loc="es-419">Ingresaste %@. ¿Es correcto?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2051,7 +2051,7 @@
       <Position>BEDTIME_CONSISTENCY_EARLY</Position>
       <TranslationSet>
         <base loc="en">%@ early</base>
-        <tran loc="es">%@ antes</tran>
+        <tran loc="es-419">%@ más temprano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2059,7 +2059,7 @@
       <Position>fitzpatrick_skin_type_III</Position>
       <TranslationSet>
         <base loc="en">Type III</base>
-        <tran loc="es">Fototipo III</tran>
+        <tran loc="es-419">Tipo III</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2067,7 +2067,7 @@
       <Position>DATA_COLLECTION_DISABLE</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2075,7 +2075,7 @@
       <Position>GET_STARTED</Position>
       <TranslationSet>
         <base loc="en">Get Started</base>
-        <tran loc="es">Empezar</tran>
+        <tran loc="es-419">Empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2083,7 +2083,7 @@
       <Position>TODAY_NO_CONTENT_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">No data recorded for this day.</base>
-        <tran loc="es">No hay datos guardados de este día.</tran>
+        <tran loc="es-419">No se registraron datos de este día.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2091,7 +2091,7 @@
       <Position>TIME_ASLEEP_CONTEXT_BUTTON_TITLE_DAY_SCOPE</Position>
       <TranslationSet>
         <base loc="en">Time Asleep</base>
-        <tran loc="es">Tiempo dormido</tran>
+        <tran loc="es-419">Tiempo de sueño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2099,7 +2099,7 @@
       <Position>DEVICES_LIST_HEADER</Position>
       <TranslationSet>
         <base loc="en">Devices</base>
-        <tran loc="es">Dispositivos</tran>
+        <tran loc="es-419">Dispositivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2107,7 +2107,7 @@
       <Position>blood_type_b+</Position>
       <TranslationSet>
         <base loc="en">B+</base>
-        <tran loc="es">B+</tran>
+        <tran loc="es-419">B+</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2115,7 +2115,7 @@
       <Position>EXPORT_YES</Position>
       <TranslationSet>
         <base loc="en">Export</base>
-        <tran loc="es">Exportar</tran>
+        <tran loc="es-419">Exportar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2123,7 +2123,7 @@
       <Position>OUT_OF_RANGE_ALERT_DEFAULT_DURATION_ERROR_%@</Position>
       <TranslationSet>
         <base loc="en">You can enter up to %1$@ at a time.</base>
-        <tran loc="es">Puedes introducir hasta %1$@ cada vez.</tran>
+        <tran loc="es-419">Puedes ingresar hasta %1$@ a la vez.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2131,7 +2131,7 @@
       <Position>TIME_AWAKE_DURING_NIGHT_HEADER</Position>
       <TranslationSet>
         <base loc="en">TIME AWAKE DURING NIGHT</base>
-        <tran loc="es">TIEMPO DESPIERTO DURANTE LA NOCHE</tran>
+        <tran loc="es-419">VIGILIA DURANTE LA NOCHE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2139,7 +2139,7 @@
       <Position>SOURCES_LOCAL_DEVICE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Go to the Motion &amp; Fitness settings under Privacy in the Settings app to control fitness tracking on this iPhone.</base>
-        <tran loc="es">Para gestionar el seguimiento deportivo que realiza el iPhone, abre la app Ajustes, selecciona Privacidad y luego “Actividad física”.</tran>
+        <tran loc="es-419">Para definir el seguimiento de tu condición en este iPhone, abre Configuración &gt; Privacidad &gt; "Condición y actividad física"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2147,7 +2147,7 @@
       <Position>AUTO_SCALE</Position>
       <TranslationSet>
         <base loc="en">Auto Scale</base>
-        <tran loc="es">Escala automática</tran>
+        <tran loc="es-419">Escala automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2155,7 +2155,7 @@
       <Position>TIME</Position>
       <TranslationSet>
         <base loc="en">Time</base>
-        <tran loc="es">Hora</tran>
+        <tran loc="es-419">Tiempo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2163,7 +2163,7 @@
       <Position>EXPORT_DATA_CR_DIRECTORY</Position>
       <TranslationSet>
         <base loc="en">clinical-records</base>
-        <tran loc="es">clinical-records</tran>
+        <tran loc="es-419">clinical-records</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2171,7 +2171,7 @@
       <Position>BEDTIME_CONSISTENCY_HEADER</Position>
       <TranslationSet>
         <base loc="en">BEDTIME CONSISTENCY</base>
-        <tran loc="es">REGULARIDAD AL ACOSTARSE</tran>
+        <tran loc="es-419">CONSTANCIA PARA DORMIR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2179,7 +2179,7 @@
       <Position>WELCOME_TO_HEALTH_BODY_TEXT</Position>
       <TranslationSet>
         <base loc="en">Small steps become healthy habits when you see how they connect.</base>
-        <tran loc="es">Los pequeños cambios se convierten en hábitos saludables cuando los ves en conjunto.</tran>
+        <tran loc="es-419">Los pasos pequeños se vuelven hábitos saludables cuando ves cómo se relacionan.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2187,7 +2187,7 @@
       <Position>TODAY_RESTORING_FROM_CLOUD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Restoring from iCloud</base>
-        <tran loc="es">Restaurando de iCloud</tran>
+        <tran loc="es-419">Restaurando de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2195,7 +2195,7 @@
       <Position>MAX_LOWERCASE: </Position>
       <TranslationSet>
         <base loc="en">max: </base>
-        <tran loc="es">máx.: </tran>
+        <tran loc="es-419">máx.: </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2203,7 +2203,7 @@
       <Position>DESCRIPTION_HEADING</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2211,7 +2211,7 @@
       <Position>YES</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2219,7 +2219,7 @@
       <Position>MIN_LONG %@</Position>
       <TranslationSet>
         <base loc="en">Min: %@</base>
-        <tran loc="es">Mín.: %@</tran>
+        <tran loc="es-419">Mín.: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2228,7 +2228,7 @@
       <Position>INSULIN_DELIVERY_REASON_HELP_TEXT</Position>
       <TranslationSet>
         <base loc="en">Basal insulin refers to the insulin used to regulate blood glucose between meals including during sleep. Bolus insulin refers to the insulin used to regulate blood glucose at meals and/or to acutely address high blood glucose.</base>
-        <tran loc="es">La insulina basal es aquella que se utiliza para regular la glucosa en sangre entre comidas, incluidos los períodos de sueño. Por su parte, la insulina de bolo se utiliza para regular la glucosa en sangre durante las comidas o para corregir con precisión un elevado nivel de glucosa en sangre.</tran>
+        <tran loc="es-419">La insulina basal es aquella utilizada para regular el azúcar en la sangre entre las comidas incluyendo el tiempo de sueño. La insulina de bolo es aquella utilizada para regular el azúcar en la sangre durante la comida y/o para controlar altos índices de azúcar en la sangre.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2236,7 +2236,7 @@
       <Position>SHARE</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2244,7 +2244,7 @@
       <Position>ON</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2252,7 +2252,7 @@
       <Position>BEDTIME_CONSISTENCY_NONE</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocida</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2260,7 +2260,7 @@
       <Position>APPS_READ_ACCESS_HEADER</Position>
       <TranslationSet>
         <base loc="en">Apps Allowed to Read Data:</base>
-        <tran loc="es">Apps con permiso para leer datos:</tran>
+        <tran loc="es-419">Apps que pueden leer datos:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2268,7 +2268,7 @@
       <Position>MAX_ONLY</Position>
       <TranslationSet>
         <base loc="en">max</base>
-        <tran loc="es">máx.</tran>
+        <tran loc="es-419">máx.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2276,7 +2276,7 @@
       <Position>CCD_REPORT_VIEW</Position>
       <TranslationSet>
         <base loc="en">Standard Report</base>
-        <tran loc="es">Informe estándar</tran>
+        <tran loc="es-419">Reporte estándar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2284,7 +2284,7 @@
       <Position>DATE_RANGE %@ %@</Position>
       <TranslationSet>
         <base loc="en">%1$@ - %2$@</base>
-        <tran loc="es">%1$@-%2$@</tran>
+        <tran loc="es-419">%1$@ - %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2292,7 +2292,7 @@
       <Position>SHOW_ALL_DATA_MIN_MAX</Position>
       <TranslationSet>
         <base loc="en">%1$@ - %2$@</base>
-        <tran loc="es">%1$@-%2$@</tran>
+        <tran loc="es-419">%1$@ - %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2300,7 +2300,7 @@
       <Position>WHY_IMPORTANT_TEXT_MINDFULNESS</Position>
       <TranslationSet>
         <base loc="en">Quiet your mind. Relax your body. Be in the moment.</base>
-        <tran loc="es">Vacía la mente. Relaja el cuerpo. Vive el momento.</tran>
+        <tran loc="es-419">Vacía la mente. Relaja el cuerpo. Vive el momento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2308,7 +2308,7 @@
       <Position>SELECT_ALL</Position>
       <TranslationSet>
         <base loc="en">Select All</base>
-        <tran loc="es">Seleccionar todo</tran>
+        <tran loc="es-419">Seleccionar todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2316,7 +2316,7 @@
       <Position>WATCH_VIDEO</Position>
       <TranslationSet>
         <base loc="en">Watch the Overview Video</base>
-        <tran loc="es">Ver el vídeo introductorio</tran>
+        <tran loc="es-419">Ver el video informativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2324,7 +2324,7 @@
       <Position>HEALTH_DATA_CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Health Data Calendar</base>
-        <tran loc="es">Calendario de datos de salud</tran>
+        <tran loc="es-419">Calendario de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2332,7 +2332,7 @@
       <Position>LAST_ONLY</Position>
       <TranslationSet>
         <base loc="en">Most Recent</base>
-        <tran loc="es">Más reciente</tran>
+        <tran loc="es-419">Más recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2340,7 +2340,7 @@
       <Position>FAVORITES</Position>
       <TranslationSet>
         <base loc="en">Favorites</base>
-        <tran loc="es">Favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2348,7 +2348,7 @@
       <Position>ORGAN_DONATION_BODY</Position>
       <TranslationSet>
         <base loc="en">Organ and tissue donation provides a second chance at life for thousands of people.\n\nApple has partnered with Donate Life. Only they will see the information you submit.\n\nShould you wish to modify any details later, you can do so with your email log-in and Donate Life password.</base>
-        <tran loc="es">Las donaciones de órganos y tejidos ofrecen una segunda oportunidad a miles de personas.\n\nApple colabora con Donate Life. Solo ellos verán la información que envíes.\n\nSi deseas modificar tu información más adelante, lo puedes hacer con tu dirección de correo para iniciar sesión y tu contraseña de Donate Life.</tran>
+        <tran loc="es-419">La donación de órganos y tejidos brinda una segunda oportunidad de vivir a miles de personas.\n\nApple se asoció con Donate Life. Sólo ellos verán la información que envíes.\n\nSi quieres modificar la información después, puedes hacerlo al iniciar sesión con tu correo y tu contraseña de Donate Life.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2356,7 +2356,7 @@
       <Position>FEMALE</Position>
       <TranslationSet>
         <base loc="en">Female</base>
-        <tran loc="es">Mujer</tran>
+        <tran loc="es-419">Mujer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2364,7 +2364,7 @@
       <Position>blood_type_a+</Position>
       <TranslationSet>
         <base loc="en">A+</base>
-        <tran loc="es">A+</tran>
+        <tran loc="es-419">A+</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2372,7 +2372,7 @@
       <Position>UPDATE_HEALTH_DATA</Position>
       <TranslationSet>
         <base loc="en">Update Health Data</base>
-        <tran loc="es">Actualizar datos de salud</tran>
+        <tran loc="es-419">Actualizar datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2380,7 +2380,7 @@
       <Position>BED_TIME_HEADER</Position>
       <TranslationSet>
         <base loc="en">Bedtime</base>
-        <tran loc="es">Sueño</tran>
+        <tran loc="es-419">Hora de dormir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2388,7 +2388,7 @@
       <Position>SHARE_DATA_HEADER_CCD</Position>
       <TranslationSet>
         <base loc="en">Allow Clinical Documents Requests:</base>
-        <tran loc="es">Permitir solicitudes de documentos clínicos:</tran>
+        <tran loc="es-419">Permitir solicitudes de documentos clínicos:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2396,7 +2396,7 @@
       <Position>DATA_TYPE_SHARING_APPS_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Share %@ data with apps listed above. As apps request access to your Health data, they will be added to the list.</base>
-        <tran loc="es">Comparte los datos de %@ con las apps de la lista anterior. A medida que las apps soliciten permiso para actualizar tus datos de salud, se irán añadiendo a la lista.</tran>
+        <tran loc="es-419">Se comparten los datos de %@ con las apps de la lista anterior. Se agregarán a ella las apps que soliciten acceso a tus datos de Salud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2404,7 +2404,7 @@
       <Position>fitzpatrick_skin_type_VI</Position>
       <TranslationSet>
         <base loc="en">Type VI</base>
-        <tran loc="es">Fototipo VI</tran>
+        <tran loc="es-419">Tipo VI</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2412,7 +2412,7 @@
       <Position>APPS_LIST_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">As apps request permission to update your Health data, they will be added to the list.</base>
-        <tran loc="es">A medida que las apps soliciten permiso para actualizar tus datos de salud, se irán añadiendo a la lista.</tran>
+        <tran loc="es-419">Esta lista se actualizará conforme los estudios de investigación soliciten permiso para acceder a tus datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2420,7 +2420,7 @@
       <Position>HEIGHT</Position>
       <TranslationSet>
         <base loc="en">Height</base>
-        <tran loc="es">Altura</tran>
+        <tran loc="es-419">Estatura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2428,7 +2428,7 @@
       <Position>WAKE_TIME_HEADER</Position>
       <TranslationSet>
         <base loc="en">Wake Time</base>
-        <tran loc="es">Hora de despertarse</tran>
+        <tran loc="es-419">Tiempo de vigilia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2437,7 +2437,7 @@
       <Position>SELECTED</Position>
       <TranslationSet>
         <base loc="en">Selected</base>
-        <tran loc="es">Seleccionado</tran>
+        <tran loc="es-419">Selección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2445,7 +2445,7 @@
       <Position>CDA_IMPORT_PASSWORD_PROTECTED</Position>
       <TranslationSet>
         <base loc="en">Unable to import Clinical Documents because the archive is password protected or may be damaged.</base>
-        <tran loc="es">No es posible importar documentos clínicos porque el archivo está protegido con contraseña o dañado.</tran>
+        <tran loc="es-419">No se puede importar documentos clínicos porque un archivo está protegido o podría estar dañado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2453,7 +2453,7 @@
       <Position>EXPORT_DATA_DIRECTORY</Position>
       <TranslationSet>
         <base loc="en">apple_health_export</base>
-        <tran loc="es">apple_health_export</tran>
+        <tran loc="es-419">apple_health_export</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2461,7 +2461,7 @@
       <Position>DASHBOARD</Position>
       <TranslationSet>
         <base loc="en">Dashboard</base>
-        <tran loc="es">Tablero</tran>
+        <tran loc="es-419">Tablero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2469,7 +2469,7 @@
       <Position>INTERRUPTIONS_CONTEXT_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Avg. Interruptions</base>
-        <tran loc="es">Interrupciones medias</tran>
+        <tran loc="es-419">Interrupciones prom.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2477,7 +2477,7 @@
       <Position>CALENDAR</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2485,7 +2485,7 @@
       <Position>WELCOME_TO_HEALTH</Position>
       <TranslationSet>
         <base loc="en">Welcome to Health</base>
-        <tran loc="es">Bienvenido a Salud</tran>
+        <tran loc="es-419">Te damos la bienvenida a Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2493,7 +2493,7 @@
       <Position>DESELECT_ALL</Position>
       <TranslationSet>
         <base loc="en">Deselect All</base>
-        <tran loc="es">No seleccionar nada</tran>
+        <tran loc="es-419">Anular selección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2501,7 +2501,7 @@
       <Position>SEARCH</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2509,7 +2509,7 @@
       <Position>DASHBOARD_EMPTY_HELP</Position>
       <TranslationSet>
         <base loc="en">You can add dashboard items from Health Data.</base>
-        <tran loc="es">Puedes añadir ítems al tablero desde los datos de salud.</tran>
+        <tran loc="es-419">Puedes agregar elementos del tablero obtenidos de los datos de Salud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2517,7 +2517,7 @@
       <Position>HEALTH_DATA_LIST</Position>
       <TranslationSet>
         <base loc="en">Health Data List</base>
-        <tran loc="es">Lista de datos de salud</tran>
+        <tran loc="es-419">Lista de datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2525,7 +2525,7 @@
       <Position>blood_type_a-</Position>
       <TranslationSet>
         <base loc="en">A-</base>
-        <tran loc="es">A-</tran>
+        <tran loc="es-419">A-</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2533,7 +2533,7 @@
       <Position>DELETE_ALL_CONFIRMATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete all data points?</base>
-        <tran loc="es">¿Seguro que quieres eliminar todos los puntos de datos?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar todos los puntos de datos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2541,7 +2541,7 @@
       <Position>BEDTIME_CONSISTENCY_LATE</Position>
       <TranslationSet>
         <base loc="en">%@ late</base>
-        <tran loc="es">%@ tarde</tran>
+        <tran loc="es-419">%@ más tarde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2549,7 +2549,7 @@
       <Position>OPTIONAL</Position>
       <TranslationSet>
         <base loc="en">Optional</base>
-        <tran loc="es">Opcional</tran>
+        <tran loc="es-419">Opcional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2557,7 +2557,7 @@
       <Position>LAST_RECORDED %@</Position>
       <TranslationSet>
         <base loc="en">Last Recorded: %@</base>
-        <tran loc="es">Última vez: %@</tran>
+        <tran loc="es-419">Último registro: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2565,7 +2565,7 @@
       <Position>OUT_OF_RANGE_ALERT_MINDFUL_MINUTES</Position>
       <TranslationSet>
         <base loc="en">mindful minutes</base>
-        <tran loc="es">minutos de atención plena</tran>
+        <tran loc="es-419">minutos de conciencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2573,7 +2573,7 @@
       <Position>DATA_SOURCES_HEADER</Position>
       <TranslationSet>
         <base loc="en">Data Sources:</base>
-        <tran loc="es">Fuentes de datos:</tran>
+        <tran loc="es-419">Fuentes de datos:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2581,7 +2581,7 @@
       <Position>OTHER</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otro</tran>
+        <tran loc="es-419">Otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2589,7 +2589,7 @@
       <Position>BEDTIME_CONSISTENCY_INFERRED_HEADER</Position>
       <TranslationSet>
         <base loc="en">INFERRED BEDTIME CONSISTENCY</base>
-        <tran loc="es">REGULARIDAD ESTIMADA AL ACOSTARSE</tran>
+        <tran loc="es-419">CONSTANCIA PARA DORMIR INFERIDA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2597,7 +2597,7 @@
       <Position>CHANGE_UNITS</Position>
       <TranslationSet>
         <base loc="en">Change Units</base>
-        <tran loc="es">Cambiar unidades</tran>
+        <tran loc="es-419">Cambiar unidades</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2605,7 +2605,7 @@
       <Position>OFF</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2613,7 +2613,7 @@
       <Position>SOURCES_WATCH_UNPAIRED_IPOD</Position>
       <TranslationSet>
         <base loc="en">This Apple Watch is no longer paired with this iPod touch.</base>
-        <tran loc="es">Este Apple Watch ya no está enlazado con este iPod touch.</tran>
+        <tran loc="es-419">Este Apple Watch ya no está enlazado con este iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2621,7 +2621,7 @@
       <Position>DETAIL_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Report Details</base>
-        <tran loc="es">Detalles del informe</tran>
+        <tran loc="es-419">Detalles del reporte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2629,7 +2629,7 @@
       <Position>HEALTH_DATA</Position>
       <TranslationSet>
         <base loc="en">Health Data</base>
-        <tran loc="es">Datos de salud</tran>
+        <tran loc="es-419">Datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2637,7 +2637,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2645,7 +2645,7 @@
       <Position>SLEEP_ROOM_DESCRIPTION_PARAGRAPH_JOINT</Position>
       <TranslationSet>
         <base loc="en">\n\n</base>
-        <tran loc="es">\n\n</tran>
+        <tran loc="es-419">\n\n</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2653,7 +2653,7 @@
       <Position>THIS_YEAR</Position>
       <TranslationSet>
         <base loc="en">This Year</base>
-        <tran loc="es">Este año</tran>
+        <tran loc="es-419">Este año</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2661,7 +2661,7 @@
       <Position>ENDS</Position>
       <TranslationSet>
         <base loc="en">Ends</base>
-        <tran loc="es">Termina</tran>
+        <tran loc="es-419">Termina el</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2669,7 +2669,7 @@
       <Position>CDA_IMPORT_DOCUMENT_IMPORT</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2680,7 +2680,7 @@
       <Position>RESEARCH_STUDIES_LIST_HEADER</Position>
       <TranslationSet>
         <base loc="en">Research Studies</base>
-        <tran loc="es">Estudios de investigación</tran>
+        <tran loc="es-419">Estudios de investigación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2688,7 +2688,7 @@
       <Position>RESEARCH_STUDIES_LIST_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">As research studies request permission to read your data, they will be added to the list. You can review and manage all of the studies you are enrolled in by going to the Research app.</base>
-        <tran loc="es">Cuando los estudios de investigación soliciten permiso para leer tus datos, se añadirán a la lista. Puedes revisar y gestionar todos los estudios en los que participas en la app Investigación.</tran>
+        <tran loc="es-419">Esta lista se actualizará conforme los estudios de investigación soliciten permiso para acceder a tus datos. En la app Investigación puedes revisar y administrar todos los estudios a los que te inscribiste.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2702,7 +2702,7 @@
       <Position>DATA_TYPE_SHARING_RESEARCH_STUDIES_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">Share %@ data with the studies in Research listed above. As you authorize studies in the Research app they will be added to the list. You can review and manage all of the studies you are enrolled in by going to the Research app.</base>
-        <tran loc="es">Comparte los datos de %@ con los estudios de la app Investigación mencionados anteriormente. Cuando des tu autorización en la app, se añadirán a la lista. Puedes revisar y gestionar todos los estudios en los que participas en la app Investigación.</tran>
+        <tran loc="es-419">Comparte datos de %@ con los estudios de la lista Investigados. Esta lista se actualizará conforme otorgues acceso a estudios en la app Investigación, donde también puedes revisar y administrar todos los estudios a los que te inscribiste.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2710,7 +2710,7 @@
       <Position>RESEARCH_STUDIES_READ_ACCESS_HEADER</Position>
       <TranslationSet>
         <base loc="en">Research Studies Allowed to Read Data:</base>
-        <tran loc="es">Estudios de investigación con permiso para leer datos:</tran>
+        <tran loc="es-419">Estudios de investigación que pueden leer datos:</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2721,7 +2721,7 @@
       <Position>SHARING_DISABLED_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">This Apple Watch is no longer sharing its Health data with you.\n\nIn order to receive shared Health data from this watch you need to pair it with this device again.</base>
-        <tran loc="es">Este Apple Watch ya no está compartiendo sus datos de salud contigo.\n\nPara volver a recibirlos, debes volver a enlazar el reloj con este dispositivo.</tran>
+        <tran loc="es-419">Este Apple Watch ya no está compartiendo sus datos de Salud contigo.\n\nPara poder recibir datos de Salud compartidos de este reloj, necesitas volver a enlazarlo con este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2729,7 +2729,7 @@
       <Position>WHEELCHAIR_USE_DESCRIPTION_FOOTER_TINKER_%@</Position>
       <TranslationSet>
         <base loc="en">Wheelchair lets %@ track pushes instead of steps in Activity and record wheelchair workouts in the Workout app. Pushes are also recorded to Health.</base>
-        <tran loc="es">El ajuste “Silla de ruedas” permite a %@ monitorizar en Actividad los impulsos en lugar de los pasos y registra los entrenos de silla de ruedas en la app Entreno. Los impulsos también se registran en la app Salud.</tran>
+        <tran loc="es-419">El modo “Silla de ruedas” permite a %@ registrar los impulsos en lugar de los pasos en la app Actividad así como registrar entrenamientos en silla de ruedas con la app Entrenamiento. Además, los impulsos también se registran en Salud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2737,7 +2737,7 @@
       <Position>STOP_RECEIVING_SHARED_HEALTH_DATA_ALERT</Position>
       <TranslationSet>
         <base loc="en">Are you sure?\n\nTo share Health data in the future, you’ll have to unpair this Apple Watch and iPhone, and then pair them again.</base>
-        <tran loc="es">¿Seguro?\n\nEn el futuro, para compartir los datos de salud tendrás que desenlazar y volver a enlazar este Apple Watch y el iPhone.</tran>
+        <tran loc="es-419">¿Seguro?\n\nPara compartir los datos de Salud en el futuro, deberás desenlazar este Apple Watch y el iPhone y luego volver a enlazarlos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2745,7 +2745,7 @@
       <Position>STOP_RECEIVING_SHARED_HEALTH_DATA_%@</Position>
       <TranslationSet>
         <base loc="en">Stop Receiving %@’s Health Data</base>
-        <tran loc="es">Deja de recibir los datos de salud de %@</tran>
+        <tran loc="es-419">Dejar de recibir datos de Salud de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2753,7 +2753,7 @@
       <Position>STOP_RECEIVING_SHARED_HEALTH_DATA_DESCRIPTION_%@_%@_%@</Position>
       <TranslationSet>
         <base loc="en">This deletes any of %@’s data currently viewable in Health and turns off sharing of this data to this device. %@’s Health data can still be backed up to iCloud.\n\nIf you stop receiving data, you can no longer edit %@’s Medical ID and emergency contacts.</base>
-        <tran loc="es">Se borrarán los datos de %@ actualmente visibles en la app Salud y se desactivará la opción de compartir estos datos con este dispositivo. Aun así, todavía se podrá hacer una copia de seguridad en iCloud de los datos de salud de %@.\n\nAl dejar de recibir datos, ya no podrás editar los contactos de emergencia y los datos médicos de %@.</tran>
+        <tran loc="es-419">Este proceso borrará todos los datos de %@ disponibles actualmente en Salud, y desactivará la función de compartir estos datos con este dispositivo. Aún es posible respaldar los datos de Salud de %@ en iCloud.\n\nSi dejas de recibir estos datos, no podrás editar la ficha médica y contactos de emergencia de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2761,7 +2761,7 @@
       <Position>MEDICAL_ID_EXPLANATION_TINKER_%@</Position>
       <TranslationSet>
         <base loc="en">In an emergency, first responders can look at %@’s Medical ID to get life-saving information.</base>
-        <tran loc="es">En una emergencia, los servicios de socorro podrán acceder a los datos médicos de %@ para obtener información que le puede salvar la vida.</tran>
+        <tran loc="es-419">En caso de emergencia, quienes respondan primero pueden ver la ficha médica de %@ para obtener información que podría salvar tu vida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2769,7 +2769,7 @@
       <Position>VIEW_TINKER_HEALTH_DATA_IN_HEALTH_DESCRIPTION_%@</Position>
       <TranslationSet>
         <base loc="en">%@’s Health data is shared with your iPhone. You can view and delete data in the Health app.</base>
-        <tran loc="es">Los datos de salud de %@ se comparten con tu iPhone. Puedes consultarlos y borrarlos en la app Salud.</tran>
+        <tran loc="es-419">Los datos de Salud de %@ se comparten con tu iPhone. Puedes ver y eliminar datos en la app Salud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2783,7 +2783,7 @@
       <Position>VIEW_TINKER_HEALTH_DATA_IN_HEALTH_%@</Position>
       <TranslationSet>
         <base loc="en">View %@’s Health Data in Health…</base>
-        <tran loc="es">Consulta los datos de salud de %@ en la app Salud…</tran>
+        <tran loc="es-419">Ver datos de Salud de %@…</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2794,7 +2794,7 @@
       <Position>WDMedicalIdShortcutTitle</Position>
       <TranslationSet>
         <base loc="en">Medical ID</base>
-        <tran loc="es">Datos médicos</tran>
+        <tran loc="es-419">Ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2802,7 +2802,7 @@
       <Position>NSLocationWhenInUseUsageDescription</Position>
       <TranslationSet>
         <base loc="en">Your location is used to find hospitals and health networks near you.</base>
-        <tran loc="es">La ubicación se utiliza para buscar hospitales y centros de salud cercanos.</tran>
+        <tran loc="es-419">Se está utilizando tu ubicación para encontrar hospitales y redes de salud cerca de ti.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2810,7 +2810,7 @@
       <Position>WDTodayShortcutTitle</Position>
       <TranslationSet>
         <base loc="en">Today</base>
-        <tran loc="es">Hoy</tran>
+        <tran loc="es-419">Hoy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2819,7 +2819,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Legacy Health</base>
-        <tran loc="es">Salud (app antigua)</tran>
+        <tran loc="es-419">Salud (antigua)</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -2830,7 +2830,7 @@
       <Position>ECG_LEAD_NAME_I</Position>
       <TranslationSet>
         <base loc="en">Lead I</base>
-        <tran loc="es">Derivación I</tran>
+        <tran loc="es-419">Derivación I</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2838,7 +2838,7 @@
       <Position>ECG_SHARE_PDF_TITLE</Position>
       <TranslationSet>
         <base loc="en">Export a PDF for Your Doctor</base>
-        <tran loc="es">Exportar un PDF para tu médico</tran>
+        <tran loc="es-419">Exportar un archivo PDF para tu médico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2846,7 +2846,7 @@
       <Position>ALL_DATA_TITLE</Position>
       <TranslationSet>
         <base loc="en">All Data</base>
-        <tran loc="es">Todos los datos</tran>
+        <tran loc="es-419">Datos (todos)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2854,7 +2854,7 @@
       <Position>DELETE_ECG_SAMPLE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2862,7 +2862,7 @@
       <Position>ELECTROCARDIOGRAM_RECORDING_DISABLED_LEARN_MORE</Position>
       <TranslationSet>
         <base loc="en">Learn More…</base>
-        <tran loc="es">Más información…</tran>
+        <tran loc="es-419">Más información…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2870,7 +2870,7 @@
       <Position>ECG_CSV_DEVICE_VERSION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Device</base>
-        <tran loc="es">Dispositivo</tran>
+        <tran loc="es-419">Dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2878,7 +2878,7 @@
       <Position>ECG_CSV_RECORDING_DATE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Recorded Date</base>
-        <tran loc="es">Fecha de registro</tran>
+        <tran loc="es-419">Fecha de registro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2886,7 +2886,7 @@
       <Position>FAVORITES_SECTION_FOOTER_NOT_FAVORITED</Position>
       <TranslationSet>
         <base loc="en">Favorites appear in Summary.</base>
-        <tran loc="es">Los favoritos aparecen en Resumen.</tran>
+        <tran loc="es-419">Los Favoritos se mostrarán en el resumen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2894,7 +2894,7 @@
       <Position>ECG_CSV_NAME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2902,7 +2902,7 @@
       <Position>ECG_CSV_DOB_TITLE</Position>
       <TranslationSet>
         <base loc="en">Date of Birth</base>
-        <tran loc="es">Fecha de nacimiento</tran>
+        <tran loc="es-419">Fecha de nacimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2910,7 +2910,7 @@
       <Position>ALL_DATA_VIEW_CONTROLLER_TITLE</Position>
       <TranslationSet>
         <base loc="en">All Recorded Data</base>
-        <tran loc="es">Todos los datos</tran>
+        <tran loc="es-419">Todos los registros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2918,7 +2918,7 @@
       <Position>ECG_CSV_LEAD_NAME_TITLE</Position>
       <TranslationSet>
         <base loc="en">Lead</base>
-        <tran loc="es">Derivación</tran>
+        <tran loc="es-419">Derivación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2926,7 +2926,7 @@
       <Position>ABOUT_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">About Electrocardiograms</base>
-        <tran loc="es">Sobre Electrocardiogramas</tran>
+        <tran loc="es-419">Acerca de los electrocardiogramas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2934,7 +2934,7 @@
       <Position>INCONCLUSIVE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Inconclusive</base>
-        <tran loc="es">No concluyente</tran>
+        <tran loc="es-419">No concluyente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2942,7 +2942,7 @@
       <Position>FAVORITES_SECTION_FOOTER_FAVORITED</Position>
       <TranslationSet>
         <base loc="en">Electrocardiograms will appear as a Favorite in Summary.</base>
-        <tran loc="es">Electrocardiogramas aparecerá como favorito en Resumen.</tran>
+        <tran loc="es-419">Los electrocardiogramas se mostrará como un Favorito en el resumen.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2950,7 +2950,7 @@
       <Position>ELECTROCARDIOGRAM_SETUP_MODAL_TITLE</Position>
       <TranslationSet>
         <base loc="en">What’s New in Health</base>
-        <tran loc="es">Novedades de Salud</tran>
+        <tran loc="es-419">Novedades de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2958,7 +2958,7 @@
       <Position>ELECTROCARDIOGRAM_SETUP_BODY</Position>
       <TranslationSet>
         <base loc="en">The ECG app records your heartbeat using the Digital Crown of your Apple Watch. The app then checks the recording for atrial fibrillation, a form of irregular rhythm.</base>
-        <tran loc="es">La app ECG registra los latidos de tu corazón mediante la Digital Crown del Apple Watch y revisa después el registro en busca de signos de fibrilación auricular, una forma de arritmia.</tran>
+        <tran loc="es-419">La app ECG registra tu frecuencia cardiaca usando la Digital Crown de tu Apple Watch. La app revisa el registro en busca de fibrilación auricular, una forma de pulso irregular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2966,7 +2966,7 @@
       <Position>ELECTROCARDIOGRAM_SETUP_MODAL_BODY</Position>
       <TranslationSet>
         <base loc="en">The ECG app records your heartbeat using the Digital Crown of your Apple Watch. The app then checks the recording for atrial fibrillation, a form of irregular rhythm.</base>
-        <tran loc="es">La app ECG registra los latidos de tu corazón mediante la Digital Crown del Apple Watch y revisa después el registro en busca de signos de fibrilación auricular, una forma de arritmia.</tran>
+        <tran loc="es-419">La app ECG registra tu frecuencia cardiaca usando la Digital Crown de tu Apple Watch. La app revisa el registro en busca de fibrilación auricular, una forma de pulso irregular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2974,7 +2974,7 @@
       <Position>ECG_CSV_SYMPTOMS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Symptoms</base>
-        <tran loc="es">Síntomas</tran>
+        <tran loc="es-419">Síntomas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2982,7 +2982,7 @@
       <Position>ECG_IN_CASE_OF_EMERGENCY</Position>
       <TranslationSet>
         <base loc="en">If you believe you’re having a heart attack or a medical emergency, call emergency services.</base>
-        <tran loc="es">Si piensas que estás sufriendo un ataque al corazón u otra emergencia médica, llama a los servicios de socorro.</tran>
+        <tran loc="es-419">Si crees que estás sufriendo un ataque cardiaco o una emergencia médica, comunícate con los servicios de emergencia.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2990,7 +2990,7 @@
       <Position>DELETE_ECG_SAMPLE_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Delete Recording</base>
-        <tran loc="es">Eliminar registro</tran>
+        <tran loc="es-419">Eliminar registro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2998,7 +2998,7 @@
       <Position>MORE_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">More</base>
-        <tran loc="es">Más</tran>
+        <tran loc="es-419">Más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3013,7 +3013,7 @@
       <Position>DATA_COLLECTION_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Do you want to help Apple improve health and fitness features by sharing your activity, workout, and health-related data such as physical activity levels, approximate location, heart-related measurements, or ECG classifications?\nYour data does not include any personally identifiable information. You can stop sharing any time in Settings.</base>
-        <tran loc="es">¿Quieres ayudar a Apple a mejorar las funciones de salud y forma física compartiendo los datos de tu actividad, tus entrenos y otra información de carácter limitado relacionada con tu salud, como tu nivel de actividad física, tu ubicación aproximada, las mediciones relacionadas con el corazón o las clasificaciones de tus electrocardiogramas?\nEstos datos no incluyen ninguna información que pueda identificarte personalmente. Puedes dejar de compartir estos datos cuando quieras en Ajustes.</tran>
+        <tran loc="es-419">¿Quieres ayudar a Apple a mejorar las funciones de condición física y salud al compartirle tus datos de actividad, entrenamiento e información de salud relacionada (como tus niveles de actividad, ubicación aproximada, medidas relacionadas con tu salud o clasificaciones de ECG)?\nTus datos no incluyen ninguna información que te identifique personalmente. Puedes dejar de compartir en cualquier momento desde Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3021,7 +3021,7 @@
       <Position>PDF_FILE_NAME_PREFIX</Position>
       <TranslationSet>
         <base loc="en">ECG</base>
-        <tran loc="es">ECG</tran>
+        <tran loc="es-419">ECG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3029,7 +3029,7 @@
       <Position>ECG_CSV_UNIT_STRING</Position>
       <TranslationSet>
         <base loc="en">µV</base>
-        <tran loc="es">µV</tran>
+        <tran loc="es-419">µV</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3037,7 +3037,7 @@
       <Position>ELECTROCARDIOGRAM_SETUP_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Set Up ECG App</base>
-        <tran loc="es">Configurar la app ECG</tran>
+        <tran loc="es-419">Configurar la app ECG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3045,7 +3045,7 @@
       <Position>ELECTROCARDIOGRAM_SETUP_MODAL_ONBOARDING_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Set Up ECG App</base>
-        <tran loc="es">Configurar la app ECG</tran>
+        <tran loc="es-419">Configurar la app ECG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3053,7 +3053,7 @@
       <Position>ELECTROCARDIOGRAM_SETUP_MODAL_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">You Can Take an ECG on Apple Watch.</base>
-        <tran loc="es">Puedes hacer electrocardio\U00ADgra\U00ADmas con el Apple Watch.</tran>
+        <tran loc="es-419">Puedes registrar un electrocardiograma en el Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3061,7 +3061,7 @@
       <Position>ELECTROCARDIOGRAM_SETUP_TITLE</Position>
       <TranslationSet>
         <base loc="en">You Can Take an ECG on Apple Watch.</base>
-        <tran loc="es">Puedes hacer electrocardiogramas con el Apple Watch.</tran>
+        <tran loc="es-419">Puedes registrar un electrocardiograma en el Apple Watch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3069,7 +3069,7 @@
       <Position>PDF_TITLE</Position>
       <TranslationSet>
         <base loc="en">PDF</base>
-        <tran loc="es">PDF</tran>
+        <tran loc="es-419">PDF</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3077,7 +3077,7 @@
       <Position>ECG_CSV_UNIT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unit</base>
-        <tran loc="es">Unidad</tran>
+        <tran loc="es-419">Unidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3085,7 +3085,7 @@
       <Position>ELECTROCARDIOGRAM_SETUP_MODAL_DISMISS_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3093,7 +3093,7 @@
       <Position>ECG_CSV_CLASSIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Classification</base>
-        <tran loc="es">Clasificación</tran>
+        <tran loc="es-419">Clasificación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3101,7 +3101,7 @@
       <Position>ATRIAL_FIBRILLATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Atrial Fibrillation</base>
-        <tran loc="es">Fibrilación auricular</tran>
+        <tran loc="es-419">Fibrilación auricular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3109,7 +3109,7 @@
       <Position>OPTIONS_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Options</base>
-        <tran loc="es">Opciones</tran>
+        <tran loc="es-419">Opciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3117,7 +3117,7 @@
       <Position>ELECTROCARDIOGRAM_RECORDING_DISABLED_TITLE</Position>
       <TranslationSet>
         <base loc="en">The ECG app is no longer available</base>
-        <tran loc="es">La app ECG ya no está disponible</tran>
+        <tran loc="es-419">La app ECG ya no está disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3125,7 +3125,7 @@
       <Position>HIGH_LOW_HEART_RATE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Low and High Heart Rate</base>
-        <tran loc="es">Frecuencia cardiaca baja y alta</tran>
+        <tran loc="es-419">Frecuencia cardiaca alta o baja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3133,7 +3133,7 @@
       <Position>REGULATORY_PANE_TITLE</Position>
       <TranslationSet>
         <base loc="en">About</base>
-        <tran loc="es">Información</tran>
+        <tran loc="es-419">Información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3141,7 +3141,7 @@
       <Position>SINUS_RHYTHM_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sinus Rhythm</base>
-        <tran loc="es">Ritmo sinusal</tran>
+        <tran loc="es-419">Ritmo sinusal</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3149,7 +3149,7 @@
       <Position>EDUCATION_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Education</base>
-        <tran loc="es">Formación</tran>
+        <tran loc="es-419">Educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3157,7 +3157,7 @@
       <Position>DELETE_ECG_SAMPLE_ACTION_SHEET_TITLE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to delete this recording?</base>
-        <tran loc="es">¿Seguro que quieres eliminar este registro?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar este registro?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3165,7 +3165,7 @@
       <Position>ECG_DETAIL</Position>
       <TranslationSet>
         <base loc="en">ECG Detail</base>
-        <tran loc="es">Detalle del ECG</tran>
+        <tran loc="es-419">Datos del electrocardiograma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3173,7 +3173,7 @@
       <Position>ECG_CSV_FREQUENCY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Sample Rate</base>
-        <tran loc="es">Frecuencia de muestreo</tran>
+        <tran loc="es-419">Velocidad de muestra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3181,7 +3181,7 @@
       <Position>ECG_CSV_SOFTWARE_VERSION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Software Version</base>
-        <tran loc="es">Versión del software</tran>
+        <tran loc="es-419">Versión del software</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3198,7 +3198,7 @@
       <Position>APP_NAME</Position>
       <TranslationSet>
         <base loc="en">Cycle Tracking</base>
-        <tran loc="es">Control del Ciclo</tran>
+        <tran loc="es-419">Control de Ciclos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3209,7 +3209,7 @@
       <Position>ELECTROCARDIOGRAM_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Once ECG is set up, the app will appear on your Apple Watch and you’ll be able to take a recording to look for atrial fibrillation, a form of irregular heart rhythm.</base>
-        <tran loc="es">Una vez configurada la app ECG, aparecerá en el Apple Watch y podrás realizar un registro para buscar signos de fibrilación auricular, un tipo de arritmia.</tran>
+        <tran loc="es-419">Después de configurar ECG, la app se mostrará en tu Apple Watch y podrás realizar un registro en busca de indicios de fibrilación auricular, un tipo de pulso irregular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3217,7 +3217,7 @@
       <Position>ELECTROCARDIOGRAM_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">ECG</base>
-        <tran loc="es">ECG</tran>
+        <tran loc="es-419">ECG</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3225,7 +3225,7 @@
       <Position>ELECTROCARDIOGRAM_ONBOARDING_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Set Up the ECG App in Health</base>
-        <tran loc="es">Configurar la app ECG en Salud</tran>
+        <tran loc="es-419">Configurar la app ECG en Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3233,7 +3233,7 @@
       <Position>FEATURE_DISABLED_REMOTELY_CINNAMON</Position>
       <TranslationSet>
         <base loc="en">The ECG app is no longer available.</base>
-        <tran loc="es">La app ECG ya no está disponible.</tran>
+        <tran loc="es-419">La app ECG ya no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3247,7 +3247,7 @@
       <Position>HEART_AREA_DESCRIPTION_CINNAMON</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can help you look after your heart. You can record an ECG to look for atrial fibrillation (AFib). You can also get a notification if Apple Watch detects that your heart rate is high or low.</base>
-        <tran loc="es">El Apple Watch te puede ayudar a cuidar de tu corazón. Puedes grabar un ECG para buscar signos de fibrilación auricular (FA). También puedes recibir una notificación si el Apple Watch detecta que tu ritmo cardiaco es alto o bajo.</tran>
+        <tran loc="es-419">El Apple Watch puede ayudarte a cuidar de tu corazón. Puedes registrar un electrocardiograma para buscar indicios de fibrilación auricular. También puedes recibir una notificación cuando el Apple Watch detecte que tu frecuencia cardiaca es alta o baja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3255,7 +3255,7 @@
       <Position>ELECTROCARDIOGRAM_HEALTH_ROOM_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">View Recorded ECGs in Health</base>
-        <tran loc="es">Ver los ECG grabados en Salud</tran>
+        <tran loc="es-419">Ver los registrados en Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3263,7 +3263,7 @@
       <Position>ELECTROCARDIOGRAM_FOOTER_ONBOARDING_COMPLETED</Position>
       <TranslationSet>
         <base loc="en">Open the ECG app on your Apple Watch to take a recording and look for atrial fibrillation, a form of irregular heart rhythm.</base>
-        <tran loc="es">Abre la app ECG en el Apple Watch para realizar un registro y buscar signos de fibrilación auricular, un tipo de arritmia.</tran>
+        <tran loc="es-419">Abre la app ECG en tu Apple Watch para realizar un registro en busca de indicios de fibrilación auricular, un tipo de pulso irregular.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3274,7 +3274,7 @@
       <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_FOOTER_LINK</Position>
       <TranslationSet>
         <base loc="en">Learn more about Irregular Rhythm Notifications</base>
-        <tran loc="es">Más información sobre las notificaciones de ritmo irregular</tran>
+        <tran loc="es-419">Más información sobre las notificaciones de pulso irregular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3282,7 +3282,7 @@
       <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when Apple Watch identifies multiple heart rhythms that may be atrial fibrillation.</base>
-        <tran loc="es">Recibe una notificación cuando el Apple Watch identifique ritmos cardiacos que puedan ser de fibrilación auricular.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el Apple Watch identifique diversos pulsos que podrían indicar fibrilación auricular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3290,7 +3290,7 @@
       <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_SWITCH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Irregular Rhythm</base>
-        <tran loc="es">Ritmo irregular</tran>
+        <tran loc="es-419">Pulso irregular</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3298,7 +3298,7 @@
       <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_ONBOARDING_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Set Up Irregular Rhythm Notifications in Health</base>
-        <tran loc="es">Configurar las notificaciones de ritmo irregular en Salud</tran>
+        <tran loc="es-419">Configurar notificaciones de pulso irregular en Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3306,7 +3306,7 @@
       <Position>FEATURE_DISABLED_REMOTELY_ANTIMONY</Position>
       <TranslationSet>
         <base loc="en">Irregular rhythm notifications have been disabled.</base>
-        <tran loc="es">Las notificaciones de ritmo irregular están desactivadas.</tran>
+        <tran loc="es-419">Se desactivaron las notificaciones de pulso irregular.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3314,7 +3314,7 @@
       <Position>HEART_NOTIFICATION_ATRIAL_FIBRILLATION_NEEDS_GEOLOCATION_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Receive a notification when Apple Watch identifies multiple heart rhythms that may be atrial fibrillation. Irregular Rhythm Notifications may not be available in all regions.</base>
-        <tran loc="es">Recibe una notificación cuando el Apple Watch identifique ritmos cardiacos que puedan ser de fibrilación auricular. Es posible que las notificaciones de ritmo irregular no estén disponibles en todas las regiones.</tran>
+        <tran loc="es-419">Recibirás una notificación cuando el Apple Watch identifique diversos pulsos que pudieran indicar fibrilación auricular. Las notificaciones de pulso irregular podrían no estar disponibles en todas las regiones.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3328,7 +3328,7 @@
       <Position>HEART_AREA_DESCRIPTION_ANTIMONY</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can help you look after your heart. You can get a notification if Apple Watch identifies irregular heart rhythms that may be atrial fibrillation or if your heart rate is high or low.</base>
-        <tran loc="es">El Apple Watch te puede ayudar a cuidar de tu corazón. Puedes recibir una notificación si el Apple Watch identifica arritmias que puedan ser de fibrilación auricular o si tu ritmo cardiaco es alto o bajo.</tran>
+        <tran loc="es-419">El Apple Watch puede ayudarte a cuidar de tu corazón. Puedes recibir una notificación cuando se identifiquen pulsos irregulares que pudieran ser indicios de fibrilación auricular o cuando tu frecuencia cardiaca sea alta o baja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3336,7 +3336,7 @@
       <Position>HEART_AREA_DESCRIPTION_CINNAMON_ANTIMONY</Position>
       <TranslationSet>
         <base loc="en">Apple Watch can help you look after your heart. You can record an ECG to look for atrial fibrillation. You can also get a notification if Apple Watch identifies irregular heart rhythms that look like atrial fibrillation or if your heart rate is high or low.</base>
-        <tran loc="es">El Apple Watch te puede ayudar a cuidar de tu corazón. Puedes grabar un ECG para buscar signos de fibrilación auricular. También se te puede enviar una notificación si el Apple Watch detecta arritmias que parezcan ser de fibrilación auricular o si tu ritmo cardiaco es alto o bajo.</tran>
+        <tran loc="es-419">El Apple Watch puede ayudarte a cuidar de tu corazón. Puedes registrar un electrocardiograma para buscar indicios de fibrilación auricular. También puedes recibir una notificación cuando se identifiquen pulsos irregulares que pudieran ser indicios de fibrilación auricular o cuando tu frecuencia cardiaca sea alta o baja.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3347,7 +3347,7 @@
       <Position>DELETE_DATA</Position>
       <TranslationSet>
         <base loc="en">Delete Data</base>
-        <tran loc="es">Eliminar datos</tran>
+        <tran loc="es-419">Eliminar datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3355,7 +3355,7 @@
       <Position>DELETE_HEALTH_DATA_MESSAGE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This will permanently delete all Health and Activity data and reset Health settings on this iPhone.</base>
-        <tran loc="es">Se eliminarán definitivamente todos los datos de salud y actividad, y se restablecerán los ajustes de salud en este iPhone.</tran>
+        <tran loc="es-419">Esto eliminará de forma permanente todos los datos de Salud y Actividad, y restablecerá la configuración de Salud de este iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3363,7 +3363,7 @@
       <Position>DELETE_HEALTH_DATA_MESSAGE_IPOD</Position>
       <TranslationSet>
         <base loc="en">This will permanently delete all Health and Activity data and reset Health settings on this iPod touch.</base>
-        <tran loc="es">Se eliminarán definitivamente todos los datos de salud y actividad, y se restablecerán los ajustes de salud en este iPod touch.</tran>
+        <tran loc="es-419">Esto eliminará de forma permanente todos los datos de Salud y Actividad, y restablecerá la configuración de Salud de este iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3371,7 +3371,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3379,7 +3379,7 @@
       <Position>DELETE_HEALTH_DATA</Position>
       <TranslationSet>
         <base loc="en">Delete Health Data</base>
-        <tran loc="es">Eliminar datos de salud</tran>
+        <tran loc="es-419">Eliminar datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3393,7 +3393,7 @@
       <Position>DATA</Position>
       <TranslationSet>
         <base loc="en">Data</base>
-        <tran loc="es">Datos</tran>
+        <tran loc="es-419">Datos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3404,7 +3404,7 @@
       <Position>FEEDBACK_WHEELCHAIR_MORE_INFO_TITLE</Position>
       <TranslationSet>
         <base loc="en">Improve Wheelchair Mode</base>
-        <tran loc="es">Mejorar modo “Silla de ruedas”</tran>
+        <tran loc="es-419">Mejoras para silla de ruedas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3412,7 +3412,7 @@
       <Position>PUSH_COUNT</Position>
       <TranslationSet>
         <base loc="en">Push Count</base>
-        <tran loc="es">Número de impulsos</tran>
+        <tran loc="es-419">Conteo de impulsos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3420,7 +3420,7 @@
       <Position>DONE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3428,7 +3428,7 @@
       <Position>FEEDBACK_WHEELCHAIR_MORE_INFO_DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3436,7 +3436,7 @@
       <Position>WHEELCHAIR_USE</Position>
       <TranslationSet>
         <base loc="en">Wheelchair</base>
-        <tran loc="es">Silla de ruedas</tran>
+        <tran loc="es-419">S. de ruedas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3444,7 +3444,7 @@
       <Position>FEEDBACK_WHEELCHAIR_MORE_INFO</Position>
       <TranslationSet>
         <base loc="en">Learn More</base>
-        <tran loc="es">Más información</tran>
+        <tran loc="es-419">Más información</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3452,7 +3452,7 @@
       <Position>NOTIFICATION_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Notification Settings</base>
-        <tran loc="es">Ajustes de notificaciones</tran>
+        <tran loc="es-419">Configuración de notificaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3460,7 +3460,7 @@
       <Position>MEDICAL_ID</Position>
       <TranslationSet>
         <base loc="en">Medical ID</base>
-        <tran loc="es">Datos médicos</tran>
+        <tran loc="es-419">Ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3468,7 +3468,7 @@
       <Position>FEEDBACK_WHEELCHAIR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Help Improve Wheelchair Mode?</base>
-        <tran loc="es">¿Ayudar a mejorar el modo “Silla de ruedas”?</tran>
+        <tran loc="es-419">¿Ayudar al modo de mejoras para silla de ruedas?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3476,7 +3476,7 @@
       <Position>HEALTH_PROFILE</Position>
       <TranslationSet>
         <base loc="en">Health Profile</base>
-        <tran loc="es">Perfil de salud</tran>
+        <tran loc="es-419">Perfil de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3484,7 +3484,7 @@
       <Position>EDIT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3492,7 +3492,7 @@
       <Position>FEEDBACK_WHEELCHAIR_ALLOW</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3500,7 +3500,7 @@
       <Position>CANCEL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3508,7 +3508,7 @@
       <Position>WHEELCHAIR_NO</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3516,7 +3516,7 @@
       <Position>WHEELCHAIR_USE_DESCRIPTION_FOOTER</Position>
       <TranslationSet>
         <base loc="en">When the Wheelchair setting is on, your iPhone stops tracking steps. Apple Watch tracks pushes in the Activity app and in wheelchair workouts in the Workout app and records them to Health.</base>
-        <tran loc="es">Cuando el ajuste “Silla de ruedas” está activado, el iPhone deja de registrar pasos. El Apple Watch registra impulsos en la app Actividad y en los entrenos en silla de ruedas de la app Entreno. Los impulsos quedan guardados en la app Salud.</tran>
+        <tran loc="es-419">Cuando se activa la configuración de silla de ruedas, el iPhone deja de registrar los pasos. El Apple Watch registra los empujes en la app Actividad y los entrenamientos en silla de ruedas en la app Entrenamiento. Estos datos se registran en Salud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3524,7 +3524,7 @@
       <Position>MALE</Position>
       <TranslationSet>
         <base loc="en">Male</base>
-        <tran loc="es">Hombre</tran>
+        <tran loc="es-419">Hombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3532,7 +3532,7 @@
       <Position>WEIGHT</Position>
       <TranslationSet>
         <base loc="en">Weight</base>
-        <tran loc="es">Peso</tran>
+        <tran loc="es-419">Peso</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3540,7 +3540,7 @@
       <Position>FEEDBACK_WHEELCHAIR_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Do you want to help Apple improve health and fitness features by sending your wheelchair activity and workout data? You can change this later in Settings. </base>
-        <tran loc="es">¿Quieres ayudar a Apple a mejorar las funciones de salud y forma física enviando tus datos de actividad y tus entrenos en silla de ruedas? Puedes cambiar esta configuración en Ajustes cuando quieras. </tran>
+        <tran loc="es-419">¿Quieres ayudar a que Apple mejore las funciones de salud y condición física al enviar tu actividad en silla de ruedas y los datos de tus entrenamientos? Puedes modificar esto en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3548,7 +3548,7 @@
       <Position>LOADING</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3556,7 +3556,7 @@
       <Position>BIOLOGICAL_SEX_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3564,7 +3564,7 @@
       <Position>BIRTHDATE_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3572,7 +3572,7 @@
       <Position>HEIGHT_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3580,7 +3580,7 @@
       <Position>WEIGHT_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3588,7 +3588,7 @@
       <Position>WHEELCHAIR_NOT_SET</Position>
       <TranslationSet>
         <base loc="en">Not Set</base>
-        <tran loc="es">Sin definir</tran>
+        <tran loc="es-419">Sin definir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3596,7 +3596,7 @@
       <Position>FEEDBACK_WHEELCHAIR_DENY</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3604,7 +3604,7 @@
       <Position>MEDICAL_ID_EXPLANATION</Position>
       <TranslationSet>
         <base loc="en">In an emergency, first responders can look at your Medical ID to get life-saving information.</base>
-        <tran loc="es">En una emergencia, los servicios de socorro podrán acceder a tus datos médicos para obtener información que te puede salvar la vida.</tran>
+        <tran loc="es-419">En caso de emergencia, quienes respondan primero pueden ver tu ficha médica para obtener información que podría salvar tu vida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3612,7 +3612,7 @@
       <Position>BIOLOGICAL_SEX</Position>
       <TranslationSet>
         <base loc="en">Sex</base>
-        <tran loc="es">Sexo</tran>
+        <tran loc="es-419">Género</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3620,7 +3620,7 @@
       <Position>BIRTHDATE</Position>
       <TranslationSet>
         <base loc="en">Birthdate</base>
-        <tran loc="es">Fecha de nacimiento</tran>
+        <tran loc="es-419">Fecha de nacimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3628,7 +3628,7 @@
       <Position>WHEELCHAIR_YES</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3636,7 +3636,7 @@
       <Position>FEMALE</Position>
       <TranslationSet>
         <base loc="en">Female</base>
-        <tran loc="es">Mujer</tran>
+        <tran loc="es-419">Mujer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3644,7 +3644,7 @@
       <Position>HEIGHT</Position>
       <TranslationSet>
         <base loc="en">Height</base>
-        <tran loc="es">Altura</tran>
+        <tran loc="es-419">Estatura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3658,7 +3658,7 @@
       <Position>HEALTH_LABEL</Position>
       <TranslationSet>
         <base loc="en">Health</base>
-        <tran loc="es">Salud</tran>
+        <tran loc="es-419">Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3666,7 +3666,7 @@
       <Position>VIEW_PRIMARY_HEALTH_DATA_IN_HEALTH</Position>
       <TranslationSet>
         <base loc="en">View My Health Data</base>
-        <tran loc="es">Consultar mis datos de salud</tran>
+        <tran loc="es-419">Ver mis datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3674,7 +3674,7 @@
       <Position>OTHER</Position>
       <TranslationSet>
         <base loc="en">Other</base>
-        <tran loc="es">Otro</tran>
+        <tran loc="es-419">Otro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3682,7 +3682,7 @@
       <Position>HEALTH_DATA_SECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">Health Data</base>
-        <tran loc="es">Datos de salud</tran>
+        <tran loc="es-419">Datos de Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3690,7 +3690,7 @@
       <Position>FEEDBACK_WHEELCHAIR_MORE_INFO_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Improve Wheelchair Mode sends wheelchair workout and activity information from iPhone and Apple Watch to Apple in order to help Apple improve and understand the effectiveness of health and fitness features on Apple devices.  Your data will not be used for any other purpose, and does not include personally identifiable information.  This information includes wheelchair workout and activity data (such as roll hours, number of pushes, exercise minutes, and move ring completion percentage).\n\nBy enabling Improve Wheelchair Mode, you agree and consent to Apple’s and its subsidiaries’ and agents’ transmission, collection, maintenance, processing, and use of this information as described above.\n\nAt all times, information received by Apple will be treated in accordance with Apple’s Privacy Policy, which can be found at www.apple.com/privacy.</base>
-        <tran loc="es">“Mejorar el modo ‘Silla de ruedas’” envía a Apple información del iPhone y el Apple Watch acerca de tus entrenos y tu actividad en silla de ruedas para ayudar a Apple a mejorar y entender la efectividad de las funciones de salud y forma física de sus dispositivos. Tus datos no se usarán para ningún otro propósito, y no se incluyen datos que te identifican personalmente. Se incluyen datos de actividad y de entrenos en silla de ruedas (como las horas que te has dado impulso, el número de impulsos, los minutos de ejercicio y el porcentaje completado del anillo Movimiento).\n\nAl activar “Mejorar el modo ‘Silla de ruedas’”, aceptas y consientes la transmisión, obtención, mantenimiento, procesamiento y uso de esta información por parte de Apple, sus filiales y agentes tal como se ha descrito anteriormente.\n\nEn todo momento, la información que reciba Apple se tratará de acuerdo con lo establecido en la política de privacidad de Apple, que está disponible en www.apple.com/es/privacy.</tran>
+        <tran loc="es-419">El modo de mejoras para silla de ruedas envía información a Apple sobre el ejercicio y la actividad desde el iPhone y el Apple Watch para ayudarnos a mejorar y comprender la eficacia de las funciones de salud y condición física en los dispositivos. Tus datos no se utilizarán con otro propósito ni se incluirá información que pudiera identificarte. Esta información incluye entrenamientos en silla de ruedas y datos de actividad (como horas de impulsos, minutos de ejercicio y porcentaje de llenado de los círculos de Moverse).\n\nAl permitir el modo de mejoras para silla de ruedas, aceptas y otorgas tu consentimiento para que Apple, sus subsidiarias y agentes recopilen, transmitan, den mantenimiento, procesen y usen esta información según se describe anteriormente.\n\nEn todo momento, la información que Apple reciba se tratará de conformidad con la política de privacidad de Apple, la cual puedes consultar en www.apple.com/la/privacy.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3698,7 +3698,7 @@
       <Position>SET_UP_MEDICAL_ID</Position>
       <TranslationSet>
         <base loc="en">Set Up Medical ID</base>
-        <tran loc="es">Configurar datos médicos</tran>
+        <tran loc="es-419">Configurar ficha médica</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3709,7 +3709,7 @@
       <Position>TINKER_EMERGENCY_CONTACTS_TITLE_%@</Position>
       <TranslationSet>
         <base loc="en">%@’s Emergency Contacts</base>
-        <tran loc="es">Contactos de emergencia de %@</tran>
+        <tran loc="es-419">Contactos de emergencia de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3717,7 +3717,7 @@
       <Position>TINKER_MEDICAL_ID_DETAIL_%@_%@</Position>
       <TranslationSet>
         <base loc="en">Lorem: when %@ uses Emergency SOS, their Medical ID is displayed on Apple Watch for emergency responders. %@ can view their Medical ID anytime, just press and hold the side button and drag the Medical ID slider to the right.</base>
-        <tran loc="es">Lorem: cuando %@ use la opción “Emergencia SOS”, sus datos médicos se mostrarán en el Apple Watch para que los servicios de socorro puedan consultarlos. %@ puede mirar sus datos médicos en cualquier momento manteniendo pulsado el botón lateral y deslizando el botón “Datos médicos” hacia la derecha.</tran>
+        <tran loc="es-419">Lorem: cuando %@ use Emergencia SOS, su ficha médica se mostrará en el Apple Watch para que los servicios de emergencia puedan consultarla. %@ puede ver su ficha médica en cualquier momento al mantener presionado el botón lateral y arrastrar el regulador “Ficha médica” a la derecha.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3725,7 +3725,7 @@
       <Position>HEALTH_LEARN_MORE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Learn More About Family Sharing and Health</base>
-        <tran loc="es">Más información sobre “En familia” y Salud</tran>
+        <tran loc="es-419">Más sobre “Compartir en familia” y Salud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3741,7 +3741,7 @@
       <Position>TINKER_HEALTH_TITLE_%@</Position>
       <TranslationSet>
         <base loc="en">%@’s Health</base>
-        <tran loc="es">Salud de %@</tran>
+        <tran loc="es-419">Salud de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3749,7 +3749,7 @@
       <Position>TINKER_HEALTH_DETAIL_%@_%@</Position>
       <TranslationSet>
         <base loc="en">Lorem: You can view %@’s health data in your Health app. This data will be shared with you until %@ turns 18 or stops sharing with you.</base>
-        <tran loc="es">Lorem: Puedes consultar los datos de salud de %@ en la app Salud. Tendrás acceso a los datos hasta que %@ cumpla 18 años o hasta que deje de compartirlos contigo.</tran>
+        <tran loc="es-419">Lorem: puedes ver los datos de salud de %@ en tu app Salud. Estos datos se compartirán contigo hasta que %@ cumpla 18 de edad o cuando deje de compartirlos contigo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3757,7 +3757,7 @@
       <Position>HEALTH_SUGGESTED_BUTTON_CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3765,7 +3765,7 @@
       <Position>TINKER_EMERGENCY_CONTACTS_DETAIL_%@_%@</Position>
       <TranslationSet>
         <base loc="en">Lorem: The emergency contacts below will receive a message saying that %@ has called emergency services when she uses Emergency SOS. These messages include %@’s current location</base>
-        <tran loc="es">Lorem: Los siguientes contactos de emergencia recibirán un mensaje diciendo que %@ ha llamado a los servicios de socorro cuando use la opción “Emergencia SOS”. Estos mensajes incluirán la ubicación de %@</tran>
+        <tran loc="es-419">Lorem: cuando %@ use Emergencia SOS, los siguientes contactos de emergencia recibirán un mensaje indicando que llamó a los servicios de emergencia. Estos mensajes incluyen la ubicación actual de %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3773,7 +3773,7 @@
       <Position>TINKER_ADD_EMERGENCY_CONTACT</Position>
       <TranslationSet>
         <base loc="en">Add Emergency Contact</base>
-        <tran loc="es">Añadir contacto de emergencia</tran>
+        <tran loc="es-419">Agregar contacto de emergencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3781,7 +3781,7 @@
       <Position>TINKER_MEDICAL_ID_TITLE_%@</Position>
       <TranslationSet>
         <base loc="en">%@’s Medical ID</base>
-        <tran loc="es">Datos médicos de %@</tran>
+        <tran loc="es-419">Ficha médica de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3789,7 +3789,7 @@
       <Position>TINKER_MEDICAL_ID_SUGGESTED_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Set Up Medical ID</base>
-        <tran loc="es">Configurar datos médicos</tran>
+        <tran loc="es-419">Configurar ficha médica</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3797,7 +3797,7 @@
       <Position>TINKER_MEDICAL_ID_ALTERNATE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Set Up Later</base>
-        <tran loc="es">Configurar más tarde</tran>
+        <tran loc="es-419">Configurar más tarde</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3808,7 +3808,7 @@
       <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/totalDays:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d days</base>
-        <tran loc="es">%d día</tran>
+        <tran loc="es-419">%d días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3816,7 +3816,7 @@
       <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/totalDays:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d days</base>
-        <tran loc="es">%d días</tran>
+        <tran loc="es-419">%d días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3824,7 +3824,7 @@
       <Position>/SEXUAL_ACTIVITY_UNIT:dict/time:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">times</base>
-        <tran loc="es">veces</tran>
+        <tran loc="es-419">veces</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3832,7 +3832,7 @@
       <Position>/SEXUAL_ACTIVITY_UNIT:dict/time:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">time</base>
-        <tran loc="es">vez</tran>
+        <tran loc="es-419">vez</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3840,7 +3840,7 @@
       <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@day@ of %#@totalDays@</base>
-        <tran loc="es">%#@day@ de %#@totalDays@</tran>
+        <tran loc="es-419">%#@day@ de %#@totalDays@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3848,7 +3848,7 @@
       <Position>/SEXUAL_ACTIVITY_UNIT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@time@</base>
-        <tran loc="es">%#@time@</tran>
+        <tran loc="es-419">%#@time@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3856,7 +3856,7 @@
       <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/day:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d</base>
-        <tran loc="es">%d</tran>
+        <tran loc="es-419">%d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3864,7 +3864,7 @@
       <Position>/DAYS_EXCEEDING_GOAL %d %d:dict/day:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d</base>
-        <tran loc="es">%d</tran>
+        <tran loc="es-419">%d</tran>
       </TranslationSet>
     </TextItem>
   </File>

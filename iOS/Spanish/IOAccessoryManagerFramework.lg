@@ -8,7 +8,7 @@
       <Position>WETMSG_DIALOG_BODY_LEGACY</Position>
       <TranslationSet>
         <base loc="en">Liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry. Charging now may damage your iPhone.</base>
-        <tran loc="es">Se ha detectado líquido dentro del conector Lightning. Desconecta el iPhone para que el conector se seque. Si cargas el iPhone ahora, se podría dañar.</tran>
+        <tran loc="es-419">Se detectó líquido en el conector Lightning; desconéctalo para permitir que se seque. Si recargas tu iPhone ahora, podrías dañarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>WETMSG_DIALOG_BODY_REINSERTION</Position>
       <TranslationSet>
         <base loc="en">Liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry. Charging now may damage your iPhone.</base>
-        <tran loc="es">Se ha detectado líquido dentro del conector Lightning. Desconecta el iPhone para que el conector se seque. Si cargas el iPhone ahora, se podría dañar.</tran>
+        <tran loc="es-419">Se detectó líquido en el conector Lightning; desconéctalo para permitir que se seque. Si recargas tu iPhone ahora, podrías dañarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>WETMSG_DIALOG_NONCHARGING_BODY_INSERTION</Position>
       <TranslationSet>
         <base loc="en">Disconnect to allow the connector to dry. This may take several hours.</base>
-        <tran loc="es">Desconecta para permitir que el conector se seque. Puede que tarde varias horas.</tran>
+        <tran loc="es-419">Al desconectar, se permitirá que el conector se seque, lo cual podría tardar varias horas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>WETMSG_DIALOG_NONCHARGING_BODY_REINSERTION</Position>
       <TranslationSet>
         <base loc="en">Disconnect to allow the\nconnector to dry.</base>
-        <tran loc="es">Desconecta para permitir\nque el conector se seque.</tran>
+        <tran loc="es-419">Desconectar para permitir\nque el conector se seque.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>WETMSG_DIALOG_BODY_INSERTION</Position>
       <TranslationSet>
         <base loc="en">Liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry. This may take several hours.</base>
-        <tran loc="es">Se ha detectado líquido dentro del conector Lightning. Desconecta el dispositivo para que el conector se seque. Puede que tarde varias horas en secarse.</tran>
+        <tran loc="es-419">Se detectó líquido en el conector Lightning; desconéctalo para permitir que se seque, lo cual podría tomar varias horas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>WETMSG_DIALOG_NONCHARGING_HEADER</Position>
       <TranslationSet>
         <base loc="en">Liquid Detected in Lightning Connector</base>
-        <tran loc="es">Líquido detectado en el conector Lightning</tran>
+        <tran loc="es-419">Se detectó líquido en el conector Lightning</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>WETMSG_DIALOG_HEADER_LEGACY</Position>
       <TranslationSet>
         <base loc="en">Liquid Detected</base>
-        <tran loc="es">Líquido detectado</tran>
+        <tran loc="es-419">Líquido detectado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>WETMSG_DIALOG_HEADER</Position>
       <TranslationSet>
         <base loc="en">Charging Not Available</base>
-        <tran loc="es">No se puede cargar</tran>
+        <tran loc="es-419">No se puede recargar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -81,7 +81,7 @@
       <Position>WETMSG_DIALOG_BODY_LOCKSCREEN_LEGACY</Position>
       <TranslationSet>
         <base loc="en">Liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry. Charging now may damage your iPhone.</base>
-        <tran loc="es">Se ha detectado líquido dentro del conector Lightning. Desconecta el iPhone para que el conector se seque. Si cargas el iPhone ahora, se podría dañar.</tran>
+        <tran loc="es-419">Se detectó líquido en el conector Lightning; desconéctalo para permitir que se seque. Si recargas tu iPhone ahora, podrías dañarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>WETMSG_DIALOG_BODY_LOCKSCREEN</Position>
       <TranslationSet>
         <base loc="en">Charging is not available because liquid has been detected in the Lightning connector. Disconnect to allow the connector to dry.</base>
-        <tran loc="es">No se puede cargar porque se ha detectado líquido dentro del conector Lightning. Desconecta el dispositivo para que el conector se seque.</tran>
+        <tran loc="es-419">No se puede recargar porque se detectó líquido en el conector Lightning; desconéctalo para permitir que se seque.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>WETMSG_DIALOG_HEADER_LOCKSCREEN</Position>
       <TranslationSet>
         <base loc="en">LIQUID DETECTED</base>
-        <tran loc="es">LÍQUIDO DETECTADO</tran>
+        <tran loc="es-419">LÍQUIDO DETECTADO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>WETMSG_DIALOG_HEADER_LOCKSCREEN_LEGACY</Position>
       <TranslationSet>
         <base loc="en">LIQUID DETECTED</base>
-        <tran loc="es">LÍQUIDO DETECTADO</tran>
+        <tran loc="es-419">LÍQUIDO DETECTADO</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>WETMSG_BUTTON_RADAR</Position>
       <TranslationSet>
         <base loc="en">Radar</base>
-        <tran loc="es">Radar</tran>
+        <tran loc="es-419">Radar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>WETMSG_BUTTON_DISMISS</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>WETMSG_BUTTON_CLOSE</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>WETMSG_BUTTON_EMERGENCY_OVERRIDE</Position>
       <TranslationSet>
         <base loc="en">Emergency Override</base>
-        <tran loc="es">Carga de emergencia</tran>
+        <tran loc="es-419">Ignorar por emergencia</tran>
       </TranslationSet>
     </TextItem>
   </File>

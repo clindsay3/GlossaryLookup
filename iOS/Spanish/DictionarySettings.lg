@@ -8,7 +8,7 @@
       <Position>DICTIONARY_UNAVAILABLE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Dictionary Unavailable</base>
-        <tran loc="es">Diccionario no disponible</tran>
+        <tran loc="es-419">Diccionario no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>DICTIONARY_UNAVAILABLE_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Connect to the Internet and try again.</base>
-        <tran loc="es">Conéctate a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Conéctate a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>Dictionary</Position>
       <TranslationSet>
         <base loc="en">Dictionary</base>
-        <tran loc="es">Diccionario</tran>
+        <tran loc="es-419">Diccionario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>DICTIONARY_DOWNLOAD_FAILED_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The operation couldn’t be completed.</base>
-        <tran loc="es">No se ha podido completar la operación.</tran>
+        <tran loc="es-419">No se pudo completar la operación.</tran>
       </TranslationSet>
     </TextItem>
   </File>

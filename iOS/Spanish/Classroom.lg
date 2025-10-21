@@ -8,7 +8,7 @@
       <Position>The field %@ is invalid.</Position>
       <TranslationSet>
         <base loc="en">The field %@ is invalid.</base>
-        <tran loc="es">El campo %@ no es válido.</tran>
+        <tran loc="es-419">El campo %@ no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>“Always Allow” will allow any of your teachers to view your screen or AirPlay your iPad. This can be configured in Settings.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to view your screen or AirPlay your iPad. This can be configured in Settings.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán activar AirPlay en tu iPad y ver tu pantalla. Puedes configurarlo desde Ajustes.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores transmitan tu iPad usando AirPlay o vean tu pantalla. Puedes establecerlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Departments</Position>
       <TranslationSet>
         <base loc="en">Departments</base>
-        <tran loc="es">Departamentos</tran>
+        <tran loc="es-419">Departamentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>My Information</Position>
       <TranslationSet>
         <base loc="en">My Information</base>
-        <tran loc="es">Mi información</tran>
+        <tran loc="es-419">Mis datos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>%@ + %@</Position>
       <TranslationSet>
         <base loc="en">%1$@ + %2$@</base>
-        <tran loc="es">%1$@ + %2$@</tran>
+        <tran loc="es-419">%1$@ y %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Observed</Position>
       <TranslationSet>
         <base loc="en">Observed</base>
-        <tran loc="es">En observación</tran>
+        <tran loc="es-419">Observación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>TEACHER</Position>
       <TranslationSet>
         <base loc="en">TEACHER</base>
-        <tran loc="es">PROFESOR</tran>
+        <tran loc="es-419">PROFESOR</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Given Name</Position>
       <TranslationSet>
         <base loc="en">Given Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre de pila</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Take Photo</Position>
       <TranslationSet>
         <base loc="en">Take Photo</base>
-        <tran loc="es">Hacer foto</tran>
+        <tran loc="es-419">Tomar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>You will be asked the next time a teacher wants to lock your Mac.</Position>
       <TranslationSet>
         <base loc="en">You will be asked the next time a teacher wants to lock your Mac.</base>
-        <tran loc="es">Se te pedirá permiso cuando un profesor quiera bloquear tu Mac.</tran>
+        <tran loc="es-419">Se te preguntará la próxima vez que algún profesor quiera bloquear tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>What would you like to do with the existing classes on your iPad?</Position>
       <TranslationSet>
         <base loc="en">What would you like to do with the existing classes on your iPad?</base>
-        <tran loc="es">¿Qué quieres hacer con las clases existentes en el iPad?</tran>
+        <tran loc="es-419">¿Qué quieres hacer con las clases existentes en tu iPad?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>Purple</Position>
       <TranslationSet>
         <base loc="en">Purple</base>
-        <tran loc="es">Morado</tran>
+        <tran loc="es-419">Morado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -106,7 +106,7 @@
       <Position>Classes</Position>
       <TranslationSet>
         <base loc="en">Classes</base>
-        <tran loc="es">Clases</tran>
+        <tran loc="es-419">Clases</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -114,7 +114,7 @@
       <Position>Choose Photo</Position>
       <TranslationSet>
         <base loc="en">Choose Photo</base>
-        <tran loc="es">Seleccionar foto</tran>
+        <tran loc="es-419">Seleccionar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -122,7 +122,7 @@
       <Position>Phonetic Given Name</Position>
       <TranslationSet>
         <base loc="en">Phonetic Given Name</base>
-        <tran loc="es">Nombre (fonético)</tran>
+        <tran loc="es-419">Nombre (fonético)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -130,7 +130,7 @@
       <Position>Are you sure you want to request to remove “%@”?</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to request to remove “%@”?</base>
-        <tran loc="es">¿Seguro que quieres solicitar que se elimine “%@”?</tran>
+        <tran loc="es-419">¿Seguro que quieres solicitar eliminar "%@"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -138,7 +138,7 @@
       <Position>“%@” has expired and will be removed</Position>
       <TranslationSet>
         <base loc="en">“%@” has expired and will be removed</base>
-        <tran loc="es">“%@” ha caducado y se va a eliminar</tran>
+        <tran loc="es-419">"%@" venció y debe eliminarse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -146,7 +146,7 @@
       <Position>Locked</Position>
       <TranslationSet>
         <base loc="en">Locked</base>
-        <tran loc="es">Bloqueado</tran>
+        <tran loc="es-419">Bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -154,7 +154,7 @@
       <Position>%@ wants to view your screen.</Position>
       <TranslationSet>
         <base loc="en">%@ wants to view your screen.</base>
-        <tran loc="es">%@ quiere ver tu pantalla.</tran>
+        <tran loc="es-419">%@ quiere ver tu pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -162,7 +162,7 @@
       <Position>Your teacher wants to lock your Mac.</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to lock your Mac.</base>
-        <tran loc="es">El profesor quiere bloquear tu Mac.</tran>
+        <tran loc="es-419">Tu profesor quiere bloquear tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -170,7 +170,7 @@
       <Position>%@ wants to open a link on your Mac.</Position>
       <TranslationSet>
         <base loc="en">%@ wants to open a link on your Mac.</base>
-        <tran loc="es">%@ quiere abrir un enlace en tu Mac.</tran>
+        <tran loc="es-419">%@ quiere abrir un enlace en tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -178,7 +178,7 @@
       <Position>Books</Position>
       <TranslationSet>
         <base loc="en">Books</base>
-        <tran loc="es">Libros</tran>
+        <tran loc="es-419">Libros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -186,7 +186,7 @@
       <Position>Your student and %lu teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</Position>
       <TranslationSet>
         <base loc="en">Your student and %lu teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
-        <tran loc="es">Tus certificados de autorización de alumno y %lu de los certificados de autorización de profesor han caducado. Es posible que no puedas unirte a una o más clases. Ponte en contacto con tu administrador para obtener ayuda.</tran>
+        <tran loc="es-419">Tu certificado de autorización de estudiante y %lu de los de profesor están vencidos. Es posible que no puedas entrar a una o más clases. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -194,7 +194,7 @@
       <Position>Your teacher wants to open a link on your iPad</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to open a link on your iPad</base>
-        <tran loc="es">El profesor quiere abrir un enlace en tu iPad</tran>
+        <tran loc="es-419">Tu profesor quiere abrir un enlace en tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -202,7 +202,7 @@
       <Position>%@, viewing your screen</Position>
       <TranslationSet>
         <base loc="en">%@, viewing your screen</base>
-        <tran loc="es">%@, viendo tu pantalla</tran>
+        <tran loc="es-419">%@, viendo tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -211,7 +211,7 @@
       <Position>The teacher authorization certificate has expired. You will be unable to join any classes. Contact your administrator for assistance.</Position>
       <TranslationSet>
         <base loc="en">The teacher authorization certificate has expired. You will be unable to join any classes. Contact your administrator for assistance.</base>
-        <tran loc="es">El certificado de autorización de profesor ha caducado y no podrás unirte a ninguna clase. Ponte en contacto con el administrador para obtener ayuda.</tran>
+        <tran loc="es-419">El certificado de autorización de profesor está vencido. No podrás entrar a ninguna clase. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -220,7 +220,7 @@
       <Position>Your photo</Position>
       <TranslationSet>
         <base loc="en">Your photo</base>
-        <tran loc="es">Tu foto</tran>
+        <tran loc="es-419">Tu foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -228,7 +228,7 @@
       <Position>A user with same identifier “%@” already exists.</Position>
       <TranslationSet>
         <base loc="en">A user with same identifier “%@” already exists.</base>
-        <tran loc="es">Ya hay un usuario con el mismo identificador (“%@”).</tran>
+        <tran loc="es-419">Ya existe un usuario con el identificador "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -236,7 +236,7 @@
       <Position>“Always Allow” will allow any of your teachers to open links on your iPad. This can be configured in Settings.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to open links on your iPad. This can be configured in Settings.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán abrir enlaces en tu iPad. Puedes configurarlo desde Ajustes.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores abran enlaces en tu iPad. Puedes establecerlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -244,7 +244,7 @@
       <Position>Unable to add identity to keychain for certificate UUID: %@</Position>
       <TranslationSet>
         <base loc="en">Unable to add identity to keychain for certificate UUID: %@</base>
-        <tran loc="es">No se puede añadir la identidad al llavero para el UUID de certificado: %@</tran>
+        <tran loc="es-419">No se pudo agregar al llavero la identidad del certificado UUID: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -252,7 +252,7 @@
       <Position>You will be prompted to join the class before a teacher can control your iPad.</Position>
       <TranslationSet>
         <base loc="en">You will be prompted to join the class before a teacher can control your iPad.</base>
-        <tran loc="es">Se te pedirá que te unas a la clase para que el profesor pueda controlar tu iPad.</tran>
+        <tran loc="es-419">Se te solicitará unirte a la clase para que algún profesor pueda controlar tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -260,7 +260,7 @@
       <Position>Adding this class allows the teacher to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</Position>
       <TranslationSet>
         <base loc="en">Adding this class allows the teacher to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</base>
-        <tran loc="es">Al añadir esta clase, el profesor podrá acceder a tu Mac y controlarlo. Por ejemplo, podrá abrir apps, sitios web, capítulos y páginas.</tran>
+        <tran loc="es-419">Si agregas esta clase, permitirás al profesor acceder y controlar tu Mac —incluyendo abrir apps, sitios, capítulos y páginas— para ayudar con el aprendizaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -268,7 +268,7 @@
       <Position>Your screen is being remotely observed.</Position>
       <TranslationSet>
         <base loc="en">Your screen is being remotely observed.</base>
-        <tran loc="es">Un profesor está observando tu pantalla de forma remota.</tran>
+        <tran loc="es-419">Se está observando tu pantalla remotamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -276,7 +276,7 @@
       <Position>Classes will need to be joined before teachers can control your iPad.</Position>
       <TranslationSet>
         <base loc="en">Classes will need to be joined before teachers can control your iPad.</base>
-        <tran loc="es">Deberás unirte a las clases para que los profesores puedan controlar tu iPad.</tran>
+        <tran loc="es-419">Debes entrar a una clase para que los profesores puedan controlar tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -284,7 +284,7 @@
       <Position>Joining this class will allow %@ to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</Position>
       <TranslationSet>
         <base loc="en">Joining this class will allow %@ to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</base>
-        <tran loc="es">Al unirte a esta clase, %@ podrá acceder a tu Mac y controlarlo. Por ejemplo, podrá abrir apps, sitios web, capítulos y páginas.</tran>
+        <tran loc="es-419">Si te inscribes a clase, permitirás a %@ acceder y controlar tu Mac —incluyendo abrir apps, sitios, capítulos y páginas— para ayudar con el aprendizaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -292,7 +292,7 @@
       <Position>Join Classes</Position>
       <TranslationSet>
         <base loc="en">Join Classes</base>
-        <tran loc="es">Unirme a clases</tran>
+        <tran loc="es-419">Entrar a clases</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -300,7 +300,7 @@
       <Position>Expired Classes</Position>
       <TranslationSet>
         <base loc="en">Expired Classes</base>
-        <tran loc="es">Clases caducadas</tran>
+        <tran loc="es-419">Clases vencidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -308,7 +308,7 @@
       <Position>Teachers will be able to assist you by controlling your Mac, without prompting, when you are in their class.</Position>
       <TranslationSet>
         <base loc="en">Teachers will be able to assist you by controlling your Mac, without prompting, when you are in their class.</base>
-        <tran loc="es">Mientras estés en clase, el profesor podrá ayudarte controlando tu Mac sin avisar.</tran>
+        <tran loc="es-419">Los profesores podrán ayudarte al controlar tu Mac sin solicitártelo mientras estés en clase.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -316,7 +316,7 @@
       <Position>Lock Apps and Device</Position>
       <TranslationSet>
         <base loc="en">Lock Apps and Device</base>
-        <tran loc="es">Bloquear apps y el dispositivo</tran>
+        <tran loc="es-419">Bloquear apps y dispositivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -324,7 +324,7 @@
       <Position>%@ wants to view your screen</Position>
       <TranslationSet>
         <base loc="en">%@ wants to view your screen</base>
-        <tran loc="es">%@ quiere ver tu pantalla</tran>
+        <tran loc="es-419">%@ quiere ver tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -332,7 +332,7 @@
       <Position>AirPlay and View Screen:</Position>
       <TranslationSet>
         <base loc="en">AirPlay and View Screen:</base>
-        <tran loc="es">AirPlay y ver pantalla:</tran>
+        <tran loc="es-419">AirPlay y ver pantalla:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>Orange</Position>
       <TranslationSet>
         <base loc="en">Orange</base>
-        <tran loc="es">Naranja</tran>
+        <tran loc="es-419">Naranja</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>ALLOW TEACHER TO</Position>
       <TranslationSet>
         <base loc="en">ALLOW TEACHER TO</base>
-        <tran loc="es">PERMITIR AL PROFESOR</tran>
+        <tran loc="es-419">PERMITIR AL PROFESOR:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>Phonetic Family Name</Position>
       <TranslationSet>
         <base loc="en">Phonetic Family Name</base>
-        <tran loc="es">Apellidos (fonéticos)</tran>
+        <tran loc="es-419">Apellidos (fonético)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>Teacher’s avatar with badge indicating they are observing your screen</Position>
       <TranslationSet>
         <base loc="en">Teacher’s avatar with badge indicating they are observing your screen</base>
-        <tran loc="es">Avatar del profesor con un indicador que señala que está observando tu pantalla</tran>
+        <tran loc="es-419">Avatar del profesor con un indicador que muestra que está observando tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>%@ wants to lock your Mac.</Position>
       <TranslationSet>
         <base loc="en">%@ wants to lock your Mac.</base>
-        <tran loc="es">%@ quiere bloquear tu Mac.</tran>
+        <tran loc="es-419">%@ quiere bloquear tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>A group with beacon ID %@ already exists.</Position>
       <TranslationSet>
         <base loc="en">A group with beacon ID %@ already exists.</base>
-        <tran loc="es">Ya hay un grupo con el ID de iBeacon %@.</tran>
+        <tran loc="es-419">Ya existe un grupo con el ID de señal %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>Join</Position>
       <TranslationSet>
         <base loc="en">Join</base>
-        <tran loc="es">Unirme</tran>
+        <tran loc="es-419">Entrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>The required field %@ is missing.</Position>
       <TranslationSet>
         <base loc="en">The required field %@ is missing.</base>
-        <tran loc="es">Falta el campo obligatorio %@.</tran>
+        <tran loc="es-419">Falta el campo obligatorio %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>Lock Mac:</Position>
       <TranslationSet>
         <base loc="en">Lock Mac:</base>
-        <tran loc="es">Bloquear Mac:</tran>
+        <tran loc="es-419">Bloquear Mac:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +413,7 @@
       <Position>Request to Remove This Class</Position>
       <TranslationSet>
         <base loc="en">Request to Remove This Class</base>
-        <tran loc="es">Solicitar la eliminación de esta clase</tran>
+        <tran loc="es-419">Solicitud para eliminar esta clase</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +421,7 @@
       <Position>Geography</Position>
       <TranslationSet>
         <base loc="en">Geography</base>
-        <tran loc="es">Geografía</tran>
+        <tran loc="es-419">Geografía</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>AirPlay and View Screen</Position>
       <TranslationSet>
         <base loc="en">AirPlay and View Screen</base>
-        <tran loc="es">Activar AirPlay y ver la pantalla</tran>
+        <tran loc="es-419">AirPlay y ver pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@
       <Position>Ask</Position>
       <TranslationSet>
         <base loc="en">Ask</base>
-        <tran loc="es">Preguntar</tran>
+        <tran loc="es-419">Preguntar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +447,7 @@
       <Position>No Classes</Position>
       <TranslationSet>
         <base loc="en">No Classes</base>
-        <tran loc="es">No hay clases</tran>
+        <tran loc="es-419">Sin clases</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +455,7 @@
       <Position>New Class Invitations</Position>
       <TranslationSet>
         <base loc="en">New Class Invitations</base>
-        <tran loc="es">Invitaciones a nuevas clases</tran>
+        <tran loc="es-419">Nuevas invitaciones a una clase</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +463,7 @@
       <Position>%@ wants to AirPlay your Mac.</Position>
       <TranslationSet>
         <base loc="en">%@ wants to AirPlay your Mac.</base>
-        <tran loc="es">%@ quiere activar AirPlay en tu Mac.</tran>
+        <tran loc="es-419">%@ quiere transmitir tu Mac con AirPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +471,7 @@
       <Position>The code that was entered is invalid. Verify the code is correct and try again.</Position>
       <TranslationSet>
         <base loc="en">The code that was entered is invalid. Verify the code is correct and try again.</base>
-        <tran loc="es">El código introducido no es válido. Comprueba que sea correcto y vuelve a intentarlo.</tran>
+        <tran loc="es-419">El código que se ingresó no es válido. Asegúrate de que sea correcto y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>An Internet connection is required to request to remove this class.</Position>
       <TranslationSet>
         <base loc="en">An Internet connection is required to request to remove this class.</base>
-        <tran loc="es">Para solicitar la eliminación de esta clase, se requiere conexión a internet.</tran>
+        <tran loc="es-419">Se requiere de una conexión a Internet para solicitar eliminar esta clase.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>“Always Allow” will allow any of your teachers to open apps on your Mac. This can be configured in System Preferences.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to open apps on your Mac. This can be configured in System Preferences.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán abrir apps en tu Mac. Puedes configurarlo desde Preferencias del Sistema.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores abran apps en tu Mac. Puedes establecerlo en Preferencias del Sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>Red</Position>
       <TranslationSet>
         <base loc="en">Red</base>
-        <tran loc="es">Rojo</tran>
+        <tran loc="es-419">Rojo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@
       <Position>This iPad has an Education Configuration Profile installed but is not supervised. The Education Configuration Profile can only be used on a supervised iPad.</Position>
       <TranslationSet>
         <base loc="en">This iPad has an Education Configuration Profile installed but is not supervised. The Education Configuration Profile can only be used on a supervised iPad.</base>
-        <tran loc="es">Este iPad tiene instalado un perfil de configuración para educación, pero no está supervisado. Los perfiles de configuración para educación solo se pueden usar en iPad supervisados.</tran>
+        <tran loc="es-419">Se instaló un perfil de configuración para educación, pero no está supervisado. El perfil sólo se puede usar en un iPad supervisado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@
       <Position>Merge</Position>
       <TranslationSet>
         <base loc="en">Merge</base>
-        <tran loc="es">Fusionar</tran>
+        <tran loc="es-419">Asociar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>Add</Position>
       <TranslationSet>
         <base loc="en">Add</base>
-        <tran loc="es">Añadir</tran>
+        <tran loc="es-419">Agregar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>Certificate not found for certificate UUID: %@</Position>
       <TranslationSet>
         <base loc="en">Certificate not found for certificate UUID: %@</base>
-        <tran loc="es">Certificado no encontrado para el UUID de certificado: %@</tran>
+        <tran loc="es-419">No se encontró la certificación del certificado UUID: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>Pink</Position>
       <TranslationSet>
         <base loc="en">Pink</base>
-        <tran loc="es">Rosa</tran>
+        <tran loc="es-419">Rosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@
       <Position>Aqua</Position>
       <TranslationSet>
         <base loc="en">Aqua</base>
-        <tran loc="es">Aguamarina</tran>
+        <tran loc="es-419">Aqua</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>Teacher Authorization Expired</Position>
       <TranslationSet>
         <base loc="en">Teacher Authorization Expired</base>
-        <tran loc="es">Autorización de profesor caducada</tran>
+        <tran loc="es-419">La autorización de profesor está vencida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -569,7 +569,7 @@
       <Position>Last Name</Position>
       <TranslationSet>
         <base loc="en">Last Name</base>
-        <tran loc="es">Apellidos</tran>
+        <tran loc="es-419">Apellidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -577,7 +577,7 @@
       <Position>NEW CLASS INVITATION</Position>
       <TranslationSet>
         <base loc="en">NEW CLASS INVITATION</base>
-        <tran loc="es">INVITACIÓN A UNA NUEVA CLASE</tran>
+        <tran loc="es-419">NUEVA INVITACIÓN A UNA CLASE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -585,7 +585,7 @@
       <Position>Groups</Position>
       <TranslationSet>
         <base loc="en">Groups</base>
-        <tran loc="es">Grupos</tran>
+        <tran loc="es-419">Grupos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -593,7 +593,7 @@
       <Position>Edit your photo</Position>
       <TranslationSet>
         <base loc="en">Edit your photo</base>
-        <tran loc="es">Editar tu foto</tran>
+        <tran loc="es-419">Editar tu foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -601,7 +601,7 @@
       <Position>Your teacher wants to open an app on your iPad</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to open an app on your iPad</base>
-        <tran loc="es">El profesor quiere abrir una app en tu iPad</tran>
+        <tran loc="es-419">Tu profesor quiere abrir una app en tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>Sync classes using iCloud</Position>
       <TranslationSet>
         <base loc="en">Sync classes using iCloud</base>
-        <tran loc="es">Sincronizar las clases mediante iCloud</tran>
+        <tran loc="es-419">Sincronizar clases mediante iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>MY INFORMATION</Position>
       <TranslationSet>
         <base loc="en">MY INFORMATION</base>
-        <tran loc="es">MI INFORMACIÓN</tran>
+        <tran loc="es-419">MIS DATOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@
       <Position>Use Name &amp; Photo from My Card</Position>
       <TranslationSet>
         <base loc="en">Use Name &amp; Photo from My Card</base>
-        <tran loc="es">Usar el nombre y la foto de mi tarjeta</tran>
+        <tran loc="es-419">Usar el nombre y la foto de mi tarjeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -634,7 +634,7 @@
       <Position>Student Authorization Expired</Position>
       <TranslationSet>
         <base loc="en">Student Authorization Expired</base>
-        <tran loc="es">Autorización de estudiante caducada</tran>
+        <tran loc="es-419">La autorización de estudiante está vencida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -642,7 +642,7 @@
       <Position>Your teacher wants to AirPlay your iPad</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to AirPlay your iPad</base>
-        <tran loc="es">El profesor quiere activar AirPlay en tu iPad</tran>
+        <tran loc="es-419">Tu profesor quiere enlazarse por AirPlay con tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -650,7 +650,7 @@
       <Position>%@ wants to open an app on your Mac.</Position>
       <TranslationSet>
         <base loc="en">%@ wants to open an app on your Mac.</base>
-        <tran loc="es">%@ quiere abrir una app en tu Mac.</tran>
+        <tran loc="es-419">%@ quiere abrir una app en tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -658,7 +658,7 @@
       <Position>“Always Allow” will allow any of your teachers to lock your iPad. This can be configured in Settings.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to lock your iPad. This can be configured in Settings.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán bloquear tu iPad. Puedes configurarlo desde Ajustes.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores bloqueen tu iPad. Puedes establecerlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -666,7 +666,7 @@
       <Position>Classroom allows teachers to access and control your iPad, including opening apps and navigating to websites, chapters, and pages.</Position>
       <TranslationSet>
         <base loc="en">Classroom allows teachers to access and control your iPad, including opening apps and navigating to websites, chapters, and pages.</base>
-        <tran loc="es">Aula permite a los profesores acceder a tu iPad y controlarlo. Por ejemplo, podrán abrir apps, sitios web, capítulos y páginas.</tran>
+        <tran loc="es-419">Aula permite a profesores acceder y controlar tu iPad, incluyendo abrir apps, sitios, capítulos y páginas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -674,7 +674,7 @@
       <Position>Allow</Position>
       <TranslationSet>
         <base loc="en">Allow</base>
-        <tran loc="es">Permitir</tran>
+        <tran loc="es-419">Permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -683,7 +683,7 @@
       <Position>Error</Position>
       <TranslationSet>
         <base loc="en">Error</base>
-        <tran loc="es">Error</tran>
+        <tran loc="es-419">Error</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -698,7 +698,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -706,7 +706,7 @@
       <Position>Green</Position>
       <TranslationSet>
         <base loc="en">Green</base>
-        <tran loc="es">Verde</tran>
+        <tran loc="es-419">Verde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -714,7 +714,7 @@
       <Position>Internet Connection Required</Position>
       <TranslationSet>
         <base loc="en">Internet Connection Required</base>
-        <tran loc="es">Necesitas una conexión a internet</tran>
+        <tran loc="es-419">Se requiere conexión a Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -722,7 +722,7 @@
       <Position>Users</Position>
       <TranslationSet>
         <base loc="en">Users</base>
-        <tran loc="es">Usuarios</tran>
+        <tran loc="es-419">Usuarios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -730,7 +730,7 @@
       <Position>Your teacher wants to view your screen</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to view your screen</base>
-        <tran loc="es">El profesor quiere ver tu pantalla</tran>
+        <tran loc="es-419">Tu profesor quiere ver tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -738,7 +738,7 @@
       <Position>Failed To Enroll</Position>
       <TranslationSet>
         <base loc="en">Failed To Enroll</base>
-        <tran loc="es">Error de inscripción</tran>
+        <tran loc="es-419">Error al inscribirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -746,7 +746,7 @@
       <Position>“Always Allow” will allow any of your teachers to lock your Mac. This can be configured in System Preferences.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to lock your Mac. This can be configured in System Preferences.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán bloquear tu Mac. Puedes configurarlo desde Preferencias del Sistema.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores bloqueen tu Mac. Puedes establecerlo en Preferencias del Sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -754,7 +754,7 @@
       <Position>Only one EDU profile can be installed at a time.</Position>
       <TranslationSet>
         <base loc="en">Only one EDU profile can be installed at a time.</base>
-        <tran loc="es">Solo se puede instalar un perfil EDU a la vez.</tran>
+        <tran loc="es-419">Sólo se puede instalar una perfil EDU a la vez.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -762,7 +762,7 @@
       <Position>This action cannot be undone.</Position>
       <TranslationSet>
         <base loc="en">This action cannot be undone.</base>
-        <tran loc="es">Esta operación no puede deshacerse.</tran>
+        <tran loc="es-419">Esta operación no puede deshacerse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +770,7 @@
       <Position>%@, a teacher is viewing your screen</Position>
       <TranslationSet>
         <base loc="en">%@, a teacher is viewing your screen</base>
-        <tran loc="es">%@, un profesor está viendo tu pantalla</tran>
+        <tran loc="es-419">%@, uno de los profesores, está viendo tu pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +778,7 @@
       <Position>Join %@?</Position>
       <TranslationSet>
         <base loc="en">Join %@?</base>
-        <tran loc="es">¿Unirte a “%@”?</tran>
+        <tran loc="es-419">¿Entrar a %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +786,7 @@
       <Position>The field %@ is not unique.</Position>
       <TranslationSet>
         <base loc="en">The field %@ is not unique.</base>
-        <tran loc="es">El campo %@ no es único.</tran>
+        <tran loc="es-419">El campo %@ no es único.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +794,7 @@
       <Position>Two Factor Authentication Required</Position>
       <TranslationSet>
         <base loc="en">Two Factor Authentication Required</base>
-        <tran loc="es">Autenticación de doble factor obligatoria</tran>
+        <tran loc="es-419">Autenticación de dos factores obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +802,7 @@
       <Position>Reading</Position>
       <TranslationSet>
         <base loc="en">Reading</base>
-        <tran loc="es">Lectura</tran>
+        <tran loc="es-419">Leyendo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +810,7 @@
       <Position>Teacher rejected request to join course</Position>
       <TranslationSet>
         <base loc="en">Teacher rejected request to join course</base>
-        <tran loc="es">El profesor ha rechazado tu solicitud de unirte al curso</tran>
+        <tran loc="es-419">El profesor rechazó tu solicitud para entrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +818,7 @@
       <Position>Delete Photo</Position>
       <TranslationSet>
         <base loc="en">Delete Photo</base>
-        <tran loc="es">Eliminar foto</tran>
+        <tran loc="es-419">Eliminar foto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +826,7 @@
       <Position>Deny</Position>
       <TranslationSet>
         <base loc="en">Deny</base>
-        <tran loc="es">Denegar</tran>
+        <tran loc="es-419">Denegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -834,7 +834,7 @@
       <Position>Pincode</Position>
       <TranslationSet>
         <base loc="en">Pincode</base>
-        <tran loc="es">Código PIN</tran>
+        <tran loc="es-419">Código PIN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -842,7 +842,7 @@
       <Position>Unnamed</Position>
       <TranslationSet>
         <base loc="en">Unnamed</base>
-        <tran loc="es">Sin nombre</tran>
+        <tran loc="es-419">Sin nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -850,7 +850,7 @@
       <Position>“%@” has expired and will be removed.</Position>
       <TranslationSet>
         <base loc="en">“%@” has expired and will be removed.</base>
-        <tran loc="es">“%@” ha caducado y se va a eliminar.</tran>
+        <tran loc="es-419">"%@" venció y debe eliminarse.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +858,7 @@
       <Position>An error has occurred.</Position>
       <TranslationSet>
         <base loc="en">An error has occurred.</base>
-        <tran loc="es">Se ha producido un error.</tran>
+        <tran loc="es-419">Ocurrió un error.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +866,7 @@
       <Position>Automatically upload your classes to iCloud to join them from all your iPad devices.</Position>
       <TranslationSet>
         <base loc="en">Automatically upload your classes to iCloud to join them from all your iPad devices.</base>
-        <tran loc="es">Carga automáticamente tus clases en iCloud para unirte a ellas desde todos tus iPad.</tran>
+        <tran loc="es-419">Carga automáticamente tus clases en iCloud para entrar a ellas desde cualquier iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -874,7 +874,7 @@
       <Position>Your student and teacher authorization certificates have expired. You will be unable to join any classes. Contact your administrator for assistance.</Position>
       <TranslationSet>
         <base loc="en">Your student and teacher authorization certificates have expired. You will be unable to join any classes. Contact your administrator for assistance.</base>
-        <tran loc="es">Tus certificados de autorización de profesor y alumno han caducado. No podrás unirte a ninguna clase. Ponte en contacto con tu administrador para obtener ayuda.</tran>
+        <tran loc="es-419">Tu certificado de autorización de estudiante y el de profesor están vencidos. No podrás entrar a ninguna clase. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -882,7 +882,7 @@
       <Position>Your teacher will receive a notification that you want to leave this class.</Position>
       <TranslationSet>
         <base loc="en">Your teacher will receive a notification that you want to leave this class.</base>
-        <tran loc="es">Se notificará a tu profesor que quieres dejar esta clase.</tran>
+        <tran loc="es-419">Tu profesor recibirá una notificación de que quieres salirte de la clase.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -890,7 +890,7 @@
       <Position>All teacher authorization certificates have expired. You will be unable to join any classes. Contact your administrator for assistance.</Position>
       <TranslationSet>
         <base loc="en">All teacher authorization certificates have expired. You will be unable to join any classes. Contact your administrator for assistance.</base>
-        <tran loc="es">Todos los certificados de autorización de profesor han caducado. No podrás unirte a ninguna clase. Ponte en contacto con tu administrador para obtener ayuda.</tran>
+        <tran loc="es-419">Todos los certificados de autorización de profesor están vencidos. No podrás entrar a ninguna clase. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -898,7 +898,7 @@
       <Position>Are you sure you want to remove this class?</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to remove this class?</base>
-        <tran loc="es">¿Seguro que quieres eliminar esta clase?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar esta clase?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -906,7 +906,7 @@
       <Position>Waiting For Teacher…</Position>
       <TranslationSet>
         <base loc="en">Waiting For Teacher…</base>
-        <tran loc="es">Esperando al profesor…</tran>
+        <tran loc="es-419">Esperando al profesor…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -914,7 +914,7 @@
       <Position>Managed</Position>
       <TranslationSet>
         <base loc="en">Managed</base>
-        <tran loc="es">Gestionado</tran>
+        <tran loc="es-419">Administrada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -922,7 +922,7 @@
       <Position>Remove Class…</Position>
       <TranslationSet>
         <base loc="en">Remove Class…</base>
-        <tran loc="es">Eliminar clase…</tran>
+        <tran loc="es-419">Eliminar clase…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -930,7 +930,7 @@
       <Position>Teachers are allowed to lock your Mac.</Position>
       <TranslationSet>
         <base loc="en">Teachers are allowed to lock your Mac.</base>
-        <tran loc="es">Los profesores pueden bloquear tu Mac.</tran>
+        <tran loc="es-419">Los profesores pueden bloquear tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -939,7 +939,7 @@
       <Position>Teachers can never AirPlay or view your screen.</Position>
       <TranslationSet>
         <base loc="en">Teachers can never AirPlay or view your screen.</base>
-        <tran loc="es">Los profesores no pueden activar AirPlay ni ver tu pantalla.</tran>
+        <tran loc="es-419">Los profesores nunca pueden ver tu pantalla o transmitir con AirPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -947,7 +947,7 @@
       <Position>Math</Position>
       <TranslationSet>
         <base loc="en">Math</base>
-        <tran loc="es">Matemáticas</tran>
+        <tran loc="es-419">Matemáticas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -955,7 +955,7 @@
       <Position>Existing Classes</Position>
       <TranslationSet>
         <base loc="en">Existing Classes</base>
-        <tran loc="es">Clases existentes</tran>
+        <tran loc="es-419">Clases existentes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -963,7 +963,7 @@
       <Position>Teachers are allowed to lock your iPad.</Position>
       <TranslationSet>
         <base loc="en">Teachers are allowed to lock your iPad.</base>
-        <tran loc="es">Los profesores pueden bloquear tu iPad.</tran>
+        <tran loc="es-419">Los profesores pueden bloquear tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -971,7 +971,7 @@
       <Position>Your teacher will be notified.</Position>
       <TranslationSet>
         <base loc="en">Your teacher will be notified.</base>
-        <tran loc="es">Tu profesor recibirá una notificación.</tran>
+        <tran loc="es-419">Se notificará a tu profesor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -979,7 +979,7 @@
       <Position>Teachers can never lock your iPad.</Position>
       <TranslationSet>
         <base loc="en">Teachers can never lock your iPad.</base>
-        <tran loc="es">Los profesores no pueden bloquear tu iPad.</tran>
+        <tran loc="es-419">Los profesores nunca pueden bloquear tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -989,7 +989,7 @@
       <Position>Remove</Position>
       <TranslationSet>
         <base loc="en">Remove</base>
-        <tran loc="es">Eliminar</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -997,7 +997,7 @@
       <Position>Your teacher wants to view your screen.</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to view your screen.</base>
-        <tran loc="es">El profesor quiere ver tu pantalla.</tran>
+        <tran loc="es-419">Tu profesor quiere ver tu pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1006,7 +1006,7 @@
       <Position>Waiting for approval…</Position>
       <TranslationSet>
         <base loc="en">Waiting for approval…</base>
-        <tran loc="es">Esperando aprobación…</tran>
+        <tran loc="es-419">Esperando aprobación…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1015,7 +1015,7 @@
       <Position>Add Class</Position>
       <TranslationSet>
         <base loc="en">Add Class</base>
-        <tran loc="es">Añadir clase</tran>
+        <tran loc="es-419">Agregar clase</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1023,7 +1023,7 @@
       <Position>Enable two factor authentication and then try again.</Position>
       <TranslationSet>
         <base loc="en">Enable two factor authentication and then try again.</base>
-        <tran loc="es">Activa la autenticación de doble factor e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Activa la autenticación de dos factores y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1031,7 +1031,7 @@
       <Position>Device Groups</Position>
       <TranslationSet>
         <base loc="en">Device Groups</base>
-        <tran loc="es">Grupos de dispositivos</tran>
+        <tran loc="es-419">Grupos de dispositivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1040,7 +1040,7 @@
       <Position>You will be asked the next time a teacher wants to AirPlay or view your screen.</Position>
       <TranslationSet>
         <base loc="en">You will be asked the next time a teacher wants to AirPlay or view your screen.</base>
-        <tran loc="es">Se te pedirá permiso cuando un profesor quiera activar AirPlay o ver tu pantalla.</tran>
+        <tran loc="es-419">Se te preguntará la próxima vez que algún profesor quiera ver tu pantalla o usar AirPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1049,7 +1049,7 @@
       <Position>Enter the code provided by the teacher to add this class:</Position>
       <TranslationSet>
         <base loc="en">Enter the code provided by the teacher to add this class:</base>
-        <tran loc="es">Para añadir esta clase, introduce el código que te ha proporcionado el profesor:</tran>
+        <tran loc="es-419">Para agregar esta clase, ingresa el código indicado por el profesor:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1057,7 +1057,7 @@
       <Position>Your student and one of the teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</Position>
       <TranslationSet>
         <base loc="en">Your student and one of the teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
-        <tran loc="es">Tu certificado de autorización de estudiante y uno de los certificados de autorización de profesor han caducado y es posible que no puedas unirte a una o varias clases. Ponte en contacto con el administrador para obtener ayuda.</tran>
+        <tran loc="es-419">Tu certificado de autorización de estudiante y uno de los de profesor están vencidos. Es posible que no puedas entrar a una o más clases. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1065,7 +1065,7 @@
       <Position>Not Now</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1073,7 +1073,7 @@
       <Position>“Always Allow” will allow any of your teachers to AirPlay your iPad or view your screen. This can be configured in Settings.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to AirPlay your iPad or view your screen. This can be configured in Settings.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán activar AirPlay en tu iPad y ver tu pantalla. Puedes configurarlo desde Ajustes.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores transmitan tu iPad usando AirPlay o vean tu pantalla. Puedes establecerlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1082,7 +1082,7 @@
       <Position>Confirm</Position>
       <TranslationSet>
         <base loc="en">Confirm</base>
-        <tran loc="es">Confirmar</tran>
+        <tran loc="es-419">Confirmar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1090,7 +1090,7 @@
       <Position>%@ wants to open a link on your iPad</Position>
       <TranslationSet>
         <base loc="en">%@ wants to open a link on your iPad</base>
-        <tran loc="es">%@ quiere abrir un enlace en tu iPad</tran>
+        <tran loc="es-419">%@ quiere abrir un enlace en tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1098,7 +1098,7 @@
       <Position>Classroom allows teachers to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</Position>
       <TranslationSet>
         <base loc="en">Classroom allows teachers to access and control your Mac, including opening apps and navigating to websites, chapters, and pages.</base>
-        <tran loc="es">Aula permite a los profesores acceder a tu Mac y controlarlo. Por ejemplo, podrán abrir apps, sitios web, capítulos y páginas.</tran>
+        <tran loc="es-419">Aula permite a profesores acceder y controlar tu Mac, incluyendo abrir apps, sitios, capítulos y páginas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1106,7 +1106,7 @@
       <Position>Your teacher wants to lock your iPad</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to lock your iPad</base>
-        <tran loc="es">El profesor quiere bloquear tu iPad</tran>
+        <tran loc="es-419">Tu profesor quiere bloquear tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1114,7 +1114,7 @@
       <Position>Unable to add identity to group (%@) for certificate UUID: %@</Position>
       <TranslationSet>
         <base loc="en">Unable to add identity to group (%1$@) for certificate UUID: %2$@</base>
-        <tran loc="es">No se puede añadir la identidad al grupo (%1$@) para el UUID de certificado: %2$@</tran>
+        <tran loc="es-419">No se pudo agregar la identidad al grupo (%1$@) del certificado UUID: %2$@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1122,7 +1122,7 @@
       <Position>Your teacher wants to open a link on your Mac.</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to open a link on your Mac.</base>
-        <tran loc="es">El profesor quiere abrir un enlace en tu Mac.</tran>
+        <tran loc="es-419">Tu profesor quiere abrir un enlace en tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1130,7 +1130,7 @@
       <Position>Permissions</Position>
       <TranslationSet>
         <base loc="en">Permissions</base>
-        <tran loc="es">Permisos</tran>
+        <tran loc="es-419">Permisos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1138,7 +1138,7 @@
       <Position>First Name</Position>
       <TranslationSet>
         <base loc="en">First Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1146,7 +1146,7 @@
       <Position>“Always Allow” will allow any of your teachers to open links on your Mac. This can be configured in System Preferences.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to open links on your Mac. This can be configured in System Preferences.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán abrir enlaces en tu Mac. Puedes configurarlo desde Preferencias del Sistema.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores abran enlaces en tu Mac. Puedes establecerlo en Preferencias del Sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1154,7 +1154,7 @@
       <Position>Language</Position>
       <TranslationSet>
         <base loc="en">Language</base>
-        <tran loc="es">Idioma</tran>
+        <tran loc="es-419">Idioma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1162,7 +1162,7 @@
       <Position>Internet connection required</Position>
       <TranslationSet>
         <base loc="en">Internet connection required</base>
-        <tran loc="es">Necesitas una conexión a internet</tran>
+        <tran loc="es-419">Se requiere conexión a Internet</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1170,7 +1170,7 @@
       <Position>Untitled</Position>
       <TranslationSet>
         <base loc="en">Untitled</base>
-        <tran loc="es">Sin título</tran>
+        <tran loc="es-419">Sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1178,7 +1178,7 @@
       <Position>“Always Allow” will allow any of your teachers to AirPlay your Mac or view your screen. This can be configured in System Preferences.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to AirPlay your Mac or view your screen. This can be configured in System Preferences.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán activar AirPlay en tu Mac y ver tu pantalla. Puedes configurarlo desde Preferencias del Sistema.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores transmitan tu Mac usando AirPlay o vean tu pantalla. Puedes establecerlo en Preferencias del Sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1186,7 +1186,7 @@
       <Position>You will be asked the next time a teacher wants to lock your iPad.</Position>
       <TranslationSet>
         <base loc="en">You will be asked the next time a teacher wants to lock your iPad.</base>
-        <tran loc="es">Se te pedirá permiso cuando un profesor quiera bloquear tu iPad.</tran>
+        <tran loc="es-419">Se te preguntará la próxima vez que algún profesor quiera bloquear tu iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1194,7 +1194,7 @@
       <Position>Teachers can never lock your Mac.</Position>
       <TranslationSet>
         <base loc="en">Teachers can never lock your Mac.</base>
-        <tran loc="es">Los profesores no pueden bloquear tu Mac.</tran>
+        <tran loc="es-419">Los profesores nunca pueden bloquear tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1202,7 +1202,7 @@
       <Position>You will be prompted to join the class before a teacher can control your Mac.</Position>
       <TranslationSet>
         <base loc="en">You will be prompted to join the class before a teacher can control your Mac.</base>
-        <tran loc="es">Se te pedirá que te unas a la clase para que el profesor pueda controlar tu Mac.</tran>
+        <tran loc="es-419">Se te solicitará unirte a la clase para que algún profesor pueda controlar tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1211,7 +1211,7 @@
       <Position>Always</Position>
       <TranslationSet>
         <base loc="en">Always</base>
-        <tran loc="es">Siempre</tran>
+        <tran loc="es-419">Siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1219,7 +1219,7 @@
       <Position>Writing</Position>
       <TranslationSet>
         <base loc="en">Writing</base>
-        <tran loc="es">Redacción</tran>
+        <tran loc="es-419">Escritura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1227,7 +1227,7 @@
       <Position>Adding this class allows the teacher to access and control your iPad, including opening apps and navigating to websites, chapters, and pages.</Position>
       <TranslationSet>
         <base loc="en">Adding this class allows the teacher to access and control your iPad, including opening apps and navigating to websites, chapters, and pages.</base>
-        <tran loc="es">Al añadir esta clase, el profesor podrá acceder a tu iPad y controlarlo. Por ejemplo, podrá abrir apps, sitios web, capítulos y páginas.</tran>
+        <tran loc="es-419">Si agregas esta clase, permitirás al profesor acceder y controlar tu iPad —incluyendo abrir apps, sitios, capítulos y páginas— para ayudar con el aprendizaje.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1235,7 +1235,7 @@
       <Position>Gray</Position>
       <TranslationSet>
         <base loc="en">Gray</base>
-        <tran loc="es">Gris</tran>
+        <tran loc="es-419">Gris</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1243,7 +1243,7 @@
       <Position>, </Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1251,7 +1251,7 @@
       <Position>Phonetic First Name</Position>
       <TranslationSet>
         <base loc="en">Phonetic First Name</base>
-        <tran loc="es">Nombre (fonético)</tran>
+        <tran loc="es-419">Nombre (fonético)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1259,7 +1259,7 @@
       <Position>Invalid configuration</Position>
       <TranslationSet>
         <base loc="en">Invalid configuration</base>
-        <tran loc="es">Configuración no válida</tran>
+        <tran loc="es-419">Configuración no válida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1268,7 +1268,7 @@
       <Position>Teachers are allowed to AirPlay and view your screen.</Position>
       <TranslationSet>
         <base loc="en">Teachers are allowed to AirPlay and view your screen.</base>
-        <tran loc="es">Los profesores pueden activar AirPlay y ver tu pantalla.</tran>
+        <tran loc="es-419">Los profesores pueden ver tu pantalla y transmitir con AirPlay.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1276,7 +1276,7 @@
       <Position>Cancel Request to Remove This Class</Position>
       <TranslationSet>
         <base loc="en">Cancel Request to Remove This Class</base>
-        <tran loc="es">Cancelar la solicitud de eliminar esta clase</tran>
+        <tran loc="es-419">Cancelar solicitud para eliminar esta clase</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1284,7 +1284,7 @@
       <Position>Identity not found for certificate UUID: %@</Position>
       <TranslationSet>
         <base loc="en">Identity not found for certificate UUID: %@</base>
-        <tran loc="es">Identidad no encontrada para el UUID de certificado: %@</tran>
+        <tran loc="es-419">No se encontró la identidad del certificado UUID: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1292,7 +1292,7 @@
       <Position>Web Clip</Position>
       <TranslationSet>
         <base loc="en">Web Clip</base>
-        <tran loc="es">Clip web</tran>
+        <tran loc="es-419">Web Clip</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1300,7 +1300,7 @@
       <Position>History</Position>
       <TranslationSet>
         <base loc="en">History</base>
-        <tran loc="es">Historia</tran>
+        <tran loc="es-419">Historia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1308,7 +1308,7 @@
       <Position>Classes that have not been joined for more than a year are automatically removed.</Position>
       <TranslationSet>
         <base loc="en">Classes that have not been joined for more than a year are automatically removed.</base>
-        <tran loc="es">Las clases a las que no se ha unido nadie en más de un año se eliminan automáticamente.</tran>
+        <tran loc="es-419">Las clases a las que no se ha entrado por más de un año, se darán de baja automáticamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1317,7 +1317,7 @@
       <Position>Manually</Position>
       <TranslationSet>
         <base loc="en">Manually</base>
-        <tran loc="es">Manualmente</tran>
+        <tran loc="es-419">Manual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1326,7 +1326,7 @@
       <Position>Never</Position>
       <TranslationSet>
         <base loc="en">Never</base>
-        <tran loc="es">Nunca</tran>
+        <tran loc="es-419">Nunca</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1334,7 +1334,7 @@
       <Position>Failed to Enroll</Position>
       <TranslationSet>
         <base loc="en">Failed to Enroll</base>
-        <tran loc="es">Error de inscripción</tran>
+        <tran loc="es-419">Error al inscribirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1342,7 +1342,7 @@
       <Position>%@ wants to lock your iPad</Position>
       <TranslationSet>
         <base loc="en">%@ wants to lock your iPad</base>
-        <tran loc="es">%@ quiere bloquear tu iPad</tran>
+        <tran loc="es-419">%@ quiere bloquear tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1350,7 +1350,7 @@
       <Position>Installing EDU profiles using the device channel is unsupported.</Position>
       <TranslationSet>
         <base loc="en">Installing EDU profiles using the device channel is unsupported.</base>
-        <tran loc="es">No se pueden instalar perfiles EDU utilizando el canal de dispositivos.</tran>
+        <tran loc="es-419">No se permite instalar perfiles EDU mediante el canal de dispositivos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1359,7 +1359,7 @@
       <Position>An Internet connection is required to display the number of days remaining before this class will be automatically removed.</Position>
       <TranslationSet>
         <base loc="en">An Internet connection is required to display the number of days remaining before this class will be automatically removed.</base>
-        <tran loc="es">Para que se muestren los días que faltan para que esta clase se elimine automáticamente, se requiere conexión a internet.</tran>
+        <tran loc="es-419">Se requiere una conexión a Internet para mostrar el número de días restantes para que se elimine automáticamente esta clase.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1367,7 +1367,7 @@
       <Position>An unknown error has occurred.</Position>
       <TranslationSet>
         <base loc="en">An unknown error has occurred.</base>
-        <tran loc="es">Se ha producido un error desconocido.</tran>
+        <tran loc="es-419">Ocurrió un error desconocido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1375,7 +1375,7 @@
       <Position>Add %@</Position>
       <TranslationSet>
         <base loc="en">Add %@</base>
-        <tran loc="es">Añadir %@</tran>
+        <tran loc="es-419">Agregar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1383,7 +1383,7 @@
       <Position>Teachers will be able to assist you by controlling your iPad, without prompting, when you are in their class.</Position>
       <TranslationSet>
         <base loc="en">Teachers will be able to assist you by controlling your iPad, without prompting, when you are in their class.</base>
-        <tran loc="es">Mientras estés en clase, el profesor podrá ayudarte controlando tu iPad sin avisar.</tran>
+        <tran loc="es-419">Los profesores podrán ayudarte al controlar tu iPad sin solicitártelo mientras estés en clase.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1391,7 +1391,7 @@
       <Position>%@ wants to AirPlay your iPad</Position>
       <TranslationSet>
         <base loc="en">%@ wants to AirPlay your iPad</base>
-        <tran loc="es">%@ quiere activar AirPlay en tu iPad</tran>
+        <tran loc="es-419">%@ quiere transmitir tu iPad con AirPlay</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1399,7 +1399,7 @@
       <Position>Enrolling in this class allows %@ to manage this device while you are attending class. Enter the pincode to enroll in this class:</Position>
       <TranslationSet>
         <base loc="en">Enrolling in this class allows %@ to manage this device while you are attending class. Enter the pincode to enroll in this class:</base>
-        <tran loc="es">Después de inscribirte a esta clase, %@ podrá gestionar este dispositivo mientras estés en clase. Para inscribirte, introduce el código PIN:</tran>
+        <tran loc="es-419">Inscribirse en esta clase permitirá que %@ administre este dispositivo mientras estés en clase. Ingresa el código PIN para inscribirte:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1407,7 +1407,7 @@
       <Position>Favorites</Position>
       <TranslationSet>
         <base loc="en">Favorites</base>
-        <tran loc="es">Favoritos</tran>
+        <tran loc="es-419">Favoritos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1415,7 +1415,7 @@
       <Position>Code</Position>
       <TranslationSet>
         <base loc="en">Code</base>
-        <tran loc="es">Código</tran>
+        <tran loc="es-419">Código</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1423,7 +1423,7 @@
       <Position>Are you sure you want to request to remove this class?</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to request to remove this class?</base>
-        <tran loc="es">¿Seguro que quieres solicitar que se elimine esta clase?</tran>
+        <tran loc="es-419">¿Seguro que quieres solicitar eliminar esta clase?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1431,7 +1431,7 @@
       <Position>One of the teacher authorization certificates has expired. You may not be able to join one or more classes. Contact your administrator for assistance.</Position>
       <TranslationSet>
         <base loc="en">One of the teacher authorization certificates has expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
-        <tran loc="es">Uno de los certificados de autorización de profesor ha caducado y es posible que no puedas unirte a una o varias clases. Ponte en contacto con el administrador para obtener ayuda.</tran>
+        <tran loc="es-419">Un certificado de autorización de profesor está vencido. Es posible que no puedas entrar a una o más clases. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1439,7 +1439,7 @@
       <Position>Phonetic Last Name</Position>
       <TranslationSet>
         <base loc="en">Phonetic Last Name</base>
-        <tran loc="es">Apellidos (fonéticos)</tran>
+        <tran loc="es-419">Apellidos (fonético)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1447,7 +1447,7 @@
       <Position>Arts</Position>
       <TranslationSet>
         <base loc="en">Arts</base>
-        <tran loc="es">Letras</tran>
+        <tran loc="es-419">Artes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>Request</Position>
       <TranslationSet>
         <base loc="en">Request</base>
-        <tran loc="es">Solicitar</tran>
+        <tran loc="es-419">Solicitar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1465,7 +1465,7 @@
       <Position>Automatically</Position>
       <TranslationSet>
         <base loc="en">Automatically</base>
-        <tran loc="es">Automáticamente</tran>
+        <tran loc="es-419">Automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1473,7 +1473,7 @@
       <Position>%lu teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</Position>
       <TranslationSet>
         <base loc="en">%lu teacher authorization certificates have expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
-        <tran loc="es">%lu certificados de autorización de profesor han caducado. Es posible que no puedas unirte a una o más clases. Ponte en contacto con tu administrador para obtener ayuda.</tran>
+        <tran loc="es-419">%lu certificados de autorización de profesor están vencidos. Es posible que no puedas entrar a una o más clases. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1481,7 +1481,7 @@
       <Position>“Always Allow” will allow any of your teachers to view your screen or AirPlay your Mac. This can be configured in System Preferences.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to view your screen or AirPlay your Mac. This can be configured in System Preferences.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán activar AirPlay en tu Mac y ver tu pantalla. Puedes configurarlo desde Preferencias del Sistema.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores transmitan tu Mac usando AirPlay o vean tu pantalla. Puedes establecerlo en Preferencias del Sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1489,7 +1489,7 @@
       <Position>Classes that have not been joined for more than a year will be automatically removed.</Position>
       <TranslationSet>
         <base loc="en">Classes that have not been joined for more than a year will be automatically removed.</base>
-        <tran loc="es">Las clases a las que no se ha unido nadie en más de un año se eliminarán automáticamente.</tran>
+        <tran loc="es-419">Las clases a las que no se ha entrado por más de un año se darán de baja automáticamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1497,7 +1497,7 @@
       <Position>Do you want to join the class “%@”?</Position>
       <TranslationSet>
         <base loc="en">Do you want to join the class “%@”?</base>
-        <tran loc="es">¿Quieres unirte a la clase “%@”?</tran>
+        <tran loc="es-419">¿Quieres entrar a la clase de “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1505,7 +1505,7 @@
       <Position>NEW CLASS INVITATIONS</Position>
       <TranslationSet>
         <base loc="en">NEW CLASS INVITATIONS</base>
-        <tran loc="es">INVITACIONES A NUEVAS CLASES</tran>
+        <tran loc="es-419">NUEVAS INVITACIONES A UNA CLASE</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1513,7 +1513,7 @@
       <Position>Teacher’s avatar</Position>
       <TranslationSet>
         <base loc="en">Teacher’s avatar</base>
-        <tran loc="es">Avatar del profesor</tran>
+        <tran loc="es-419">Avatar del profesor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1521,7 +1521,7 @@
       <Position>Remove This Class</Position>
       <TranslationSet>
         <base loc="en">Remove This Class</base>
-        <tran loc="es">Eliminar esta clase</tran>
+        <tran loc="es-419">Eliminar esta clase</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1530,7 +1530,7 @@
       <Position>Teacher</Position>
       <TranslationSet>
         <base loc="en">Teacher</base>
-        <tran loc="es">Profesor</tran>
+        <tran loc="es-419">Profesor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1538,7 +1538,7 @@
       <Position>Your teacher wants to open an app on your Mac.</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to open an app on your Mac.</base>
-        <tran loc="es">El profesor quiere abrir una app en tu Mac.</tran>
+        <tran loc="es-419">Tu profesor quiere abrir una app en tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1546,7 +1546,7 @@
       <Position>Enroll in %@</Position>
       <TranslationSet>
         <base loc="en">Enroll in %@</base>
-        <tran loc="es">Inscripción a “%@”</tran>
+        <tran loc="es-419">Inscribirse a %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1554,7 +1554,7 @@
       <Position>%@ wants to open an app on your iPad</Position>
       <TranslationSet>
         <base loc="en">%@ wants to open an app on your iPad</base>
-        <tran loc="es">%@ quiere abrir una app en tu iPad</tran>
+        <tran loc="es-419">%@ quiere abrir una app en tu iPad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1562,7 +1562,7 @@
       <Position>Your teacher wants to AirPlay your Mac.</Position>
       <TranslationSet>
         <base loc="en">Your teacher wants to AirPlay your Mac.</base>
-        <tran loc="es">El profesor quiere activar AirPlay en tu Mac.</tran>
+        <tran loc="es-419">Tu profesor quiere enlazarse por AirPlay con tu Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1570,7 +1570,7 @@
       <Position>Enroll</Position>
       <TranslationSet>
         <base loc="en">Enroll</base>
-        <tran loc="es">Inscribirme</tran>
+        <tran loc="es-419">Inscribirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1578,7 +1578,7 @@
       <Position>Avatar</Position>
       <TranslationSet>
         <base loc="en">Avatar</base>
-        <tran loc="es">Avatar</tran>
+        <tran loc="es-419">Avatar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1586,7 +1586,7 @@
       <Position>Science</Position>
       <TranslationSet>
         <base loc="en">Science</base>
-        <tran loc="es">Ciencias</tran>
+        <tran loc="es-419">Ciencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1594,7 +1594,7 @@
       <Position>“Always Allow” will allow any of your teachers to open apps on your iPad. This can be configured in Settings.</Position>
       <TranslationSet>
         <base loc="en">“Always Allow” will allow any of your teachers to open apps on your iPad. This can be configured in Settings.</base>
-        <tran loc="es">Con la opción “Permitir siempre”, los profesores podrán abrir apps en tu iPad. Puedes configurarlo desde Ajustes.</tran>
+        <tran loc="es-419">“Permitir siempre” permitirá que los profesores abran apps en tu iPad. Puedes establecerlo en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1603,7 +1603,7 @@
       <Position>Your student authorization certificate has expired. You will be unable to join any classes. Contact your administrator for assistance.</Position>
       <TranslationSet>
         <base loc="en">Your student authorization certificate has expired. You will be unable to join any classes. Contact your administrator for assistance.</base>
-        <tran loc="es">Tu certificado de autorización de estudiante ha caducado y no podrás unirte a ninguna clase. Ponte en contacto con el administrador para obtener ayuda.</tran>
+        <tran loc="es-419">Tu certificado de autorización de estudiante está vencido. No podrás entrar a ninguna clase. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1611,7 +1611,7 @@
       <Position>A device group with the name “%@” already exists.</Position>
       <TranslationSet>
         <base loc="en">A device group with the name “%@” already exists.</base>
-        <tran loc="es">Ya existe un grupo de dispositivos con el nombre “%@”.</tran>
+        <tran loc="es-419">Ya existe un grupo de dispositivos con el nombre "%@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1619,7 +1619,7 @@
       <Position>The following courses have expired: %@.</Position>
       <TranslationSet>
         <base loc="en">The following courses have expired: %@.</base>
-        <tran loc="es">Los siguientes cursos han caducado: %@.</tran>
+        <tran loc="es-419">Los siguientes cursos están vencidos: %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1627,7 +1627,7 @@
       <Position>Are you sure you want to remove “%@”?</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to remove “%@”?</base>
-        <tran loc="es">¿Seguro que quieres eliminar “%@”?</tran>
+        <tran loc="es-419">¿Seguro que quieres eliminar “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1635,7 +1635,7 @@
       <Position>Teachers will be able to control your iPad, without prompting, when you are in their class.</Position>
       <TranslationSet>
         <base loc="en">Teachers will be able to control your iPad, without prompting, when you are in their class.</base>
-        <tran loc="es">Mientras estés en clase, el profesor podrá controlar tu iPad sin avisar.</tran>
+        <tran loc="es-419">Los profesores podrán controlar tu iPad sin solicitártelo mientras estés en clase.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1643,7 +1643,7 @@
       <Position>Join Classes:</Position>
       <TranslationSet>
         <base loc="en">Join Classes:</base>
-        <tran loc="es">Unirme a clases:</tran>
+        <tran loc="es-419">Entrar a clases:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1651,7 +1651,7 @@
       <Position>Always Allow</Position>
       <TranslationSet>
         <base loc="en">Always Allow</base>
-        <tran loc="es">Permitir siempre</tran>
+        <tran loc="es-419">Permitir siempre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1659,7 +1659,7 @@
       <Position>The version of iOS on this iPad is not supported by the version of Classroom app on the teacher’s iPad</Position>
       <TranslationSet>
         <base loc="en">The version of iOS on this iPad is not supported by the version of Classroom app on the teacher’s iPad</base>
-        <tran loc="es">La versión de iOS en este iPad es incompatible con la versión de la app Aula en el iPad del profesor</tran>
+        <tran loc="es-419">La versión de la app Aula para iOS de este iPad no es compatible con la versión del iPad del profesor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1667,7 +1667,7 @@
       <Position>Blue</Position>
       <TranslationSet>
         <base loc="en">Blue</base>
-        <tran loc="es">Azul</tran>
+        <tran loc="es-419">Azul</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1675,7 +1675,7 @@
       <Position>Family Name</Position>
       <TranslationSet>
         <base loc="en">Family Name</base>
-        <tran loc="es">Apellidos</tran>
+        <tran loc="es-419">Apellido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1683,7 +1683,7 @@
       <Position>No Class Selected</Position>
       <TranslationSet>
         <base loc="en">No Class Selected</base>
-        <tran loc="es">No hay ninguna clase seleccionada</tran>
+        <tran loc="es-419">Sin clases seleccionadas</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1694,7 +1694,7 @@
       <Position>/%d teachers:dict/teacher_count:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d teacher</base>
-        <tran loc="es">%d profesor</tran>
+        <tran loc="es-419">%d profesor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1702,7 +1702,7 @@
       <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/num_days_remaining:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Class will be removed in %ld day if teacher doesn’t respond.</base>
-        <tran loc="es">Si tu profesor no responde, la clase se eliminará dentro de %ld día.</tran>
+        <tran loc="es-419">La clase se eliminará automáticamente en %ld día si el profesor no responde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1710,7 +1710,7 @@
       <Position>/%d teachers:dict/teacher_count:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d teachers</base>
-        <tran loc="es">%d profesores</tran>
+        <tran loc="es-419">%d profesores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1718,7 +1718,7 @@
       <Position>/%d others:dict/instructor_count:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d others</base>
-        <tran loc="es">%d más</tran>
+        <tran loc="es-419">%d más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1726,7 +1726,7 @@
       <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@PayloadType@</base>
-        <tran loc="es">%#@PayloadType@</tran>
+        <tran loc="es-419">%#@PayloadType@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1734,7 +1734,7 @@
       <Position>/CPPayloadCountStringsDictKey_CountLast:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@PayloadType@</base>
-        <tran loc="es">%#@PayloadType@</tran>
+        <tran loc="es-419">%#@PayloadType@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1742,7 +1742,7 @@
       <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@PayloadType@</base>
-        <tran loc="es">%#@PayloadType@</tran>
+        <tran loc="es-419">%#@PayloadType@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1750,7 +1750,7 @@
       <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">(%lu) Education Configurations</base>
-        <tran loc="es">(%lu) Configuraciones para educación</tran>
+        <tran loc="es-419">Configuraciones de educación (%lu)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1758,7 +1758,7 @@
       <Position>/%d teachers:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@teacher_count@</base>
-        <tran loc="es">%#@teacher_count@</tran>
+        <tran loc="es-419">%#@teacher_count@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1766,7 +1766,7 @@
       <Position>/CPPayloadCountStringsDictKey_CountFirst:dict/PayloadType:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Education Configuration</base>
-        <tran loc="es">Configuración para educación</tran>
+        <tran loc="es-419">Configuración de educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1774,7 +1774,7 @@
       <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Education Configuration</base>
-        <tran loc="es">Configuración para educación</tran>
+        <tran loc="es-419">Configuración de educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1782,7 +1782,7 @@
       <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Education Configuration</base>
-        <tran loc="es">Configuración para educación</tran>
+        <tran loc="es-419">Configuración de educación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1790,7 +1790,7 @@
       <Position>/%d others:dict/instructor_count:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%d other</base>
-        <tran loc="es">%d más</tran>
+        <tran loc="es-419">%d más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1798,7 +1798,7 @@
       <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/num_days_remaining:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Class will be removed in %ld days if teacher doesn’t respond.</base>
-        <tran loc="es">Si tu profesor no responde, la clase se eliminará dentro de %ld días.</tran>
+        <tran loc="es-419">La clase se eliminará automáticamente en %ld días si el profesor no responde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1806,7 +1806,7 @@
       <Position>/%d others:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@instructor_count@</base>
-        <tran loc="es">%#@instructor_count@</tran>
+        <tran loc="es-419">%#@instructor_count@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1814,7 +1814,7 @@
       <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/expired_classes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">One of the teacher authorization certificates is expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
-        <tran loc="es">Uno de los certificados de autorización de profesor está caducado y es posible que no puedas unirte a una o varias clases. Ponte en contacto con el administrador para obtener ayuda.</tran>
+        <tran loc="es-419">Un certificado de autorización de profesor está vencido. Es posible que no puedas inscribirte en una o más clases. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1822,7 +1822,7 @@
       <Position>/%lu classes have expired and will be removed.:dict/expired_classes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu classes have expired and will be removed.</base>
-        <tran loc="es">Han caducado %lu clases y se van a eliminar.</tran>
+        <tran loc="es-419">%lu clases están vencidas y se darán de baja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1830,7 +1830,7 @@
       <Position>/Class will be removed in %ld days if teacher doesn’t respond.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@num_days_remaining@</base>
-        <tran loc="es">%#@num_days_remaining@</tran>
+        <tran loc="es-419">%#@num_days_remaining@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1838,7 +1838,7 @@
       <Position>/%lu classes have expired and will be removed.:dict/expired_classes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu class has expired and will be removed.</base>
-        <tran loc="es">Ha caducado %lu clase y se va a eliminar.</tran>
+        <tran loc="es-419">%lu clase está vencida y se dará de baja.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1846,7 +1846,7 @@
       <Position>/%lu classes have expired and will be removed.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@expired_classes@</base>
-        <tran loc="es">%#@expired_classes@</tran>
+        <tran loc="es-419">%#@expired_classes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1854,7 +1854,7 @@
       <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@expired_classes@</base>
-        <tran loc="es">%#@expired_classes@</tran>
+        <tran loc="es-419">%#@expired_classes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1862,7 +1862,7 @@
       <Position>/CPPayloadCountStringsDictKey_CountLast:dict/PayloadType:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Education Configurations (%lu)</base>
-        <tran loc="es">Configuraciones para educación (%lu)</tran>
+        <tran loc="es-419">Configuraciones de educación (%lu)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1870,7 +1870,7 @@
       <Position>/CPPayloadCountStringsDictKey_SingularOnly:dict/PayloadType:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Education Configurations (%lu)</base>
-        <tran loc="es">Configuraciones para educación (%lu)</tran>
+        <tran loc="es-419">Configuraciones de educación (%lu)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1878,7 +1878,7 @@
       <Position>/%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.:dict/expired_classes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%lu teacher authorization certificates are expired. You may not be able to join one or more classes. Contact your administrator for assistance.</base>
-        <tran loc="es">%lu certificados de autorización de profesor están caducados. Es posible que no puedas unirte a una o más clases. Ponte en contacto con tu administrador para obtener ayuda.</tran>
+        <tran loc="es-419">%lu certificados de autorización de profesor están vencidos. Es posible que no puedas inscribirte en una o más clases. Comunícate con tu administrador para obtener ayuda.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1889,7 +1889,7 @@
       <Position>Teachers</Position>
       <TranslationSet>
         <base loc="en">Teachers</base>
-        <tran loc="es">Profesores</tran>
+        <tran loc="es-419">Profesores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1897,7 +1897,7 @@
       <Position>TEACHERS</Position>
       <TranslationSet>
         <base loc="en">TEACHERS</base>
-        <tran loc="es">PROFESORES</tran>
+        <tran loc="es-419">PROFESORES</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>THERMAL_ALERT_STRING_IPAD</Position>
       <TranslationSet>
         <base loc="en">iPad needs to cool down\nbefore you can use it.</base>
-        <tran loc="es">La temperatura del iPad debe\ndisminuir antes de que puedas usarlo.</tran>
+        <tran loc="es-419">El iPad necesita enfriarse\npara poder usarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>OTHER_NETWORK_TITLE</Position>
       <TranslationSet>
         <base loc="en">Other Network</base>
-        <tran loc="es">Otra red</tran>
+        <tran loc="es-419">Otra red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>NO_NETWORK_CONNECTION_MESSAGE_WLAN</Position>
       <TranslationSet>
         <base loc="en">The WLAN network you selected is not providing an Internet connection. Change your settings or choose a different network.</base>
-        <tran loc="es">La red WLAN seleccionada no proporciona conexión a internet. Modifica los ajustes o selecciona otra red.</tran>
+        <tran loc="es-419">La red WLAN seleccionada no proporciona conexión a Internet. Modifica la configuración o selecciona otra red.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>START_DIAGNOSTICS</Position>
       <TranslationSet>
         <base loc="en">Start Diagnostics</base>
-        <tran loc="es">Iniciar diagnóstico</tran>
+        <tran loc="es-419">Iniciar el diagnóstico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>NO_NETWORK_CONNECTION_TITLE</Position>
       <TranslationSet>
         <base loc="en">No Network Connection</base>
-        <tran loc="es">No hay conexión de red</tran>
+        <tran loc="es-419">No hay conexión de red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>OTHER_NETWORK_NAME</Position>
       <TranslationSet>
         <base loc="en">Name</base>
-        <tran loc="es">Nombre</tran>
+        <tran loc="es-419">Nombre</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>THERMAL_ALERT_STRING_IPOD</Position>
       <TranslationSet>
         <base loc="en">iPod needs to cool down\nbefore you can use it.</base>
-        <tran loc="es">La temperatura del iPod debe\ndisminuir antes de que puedas usarlo.</tran>
+        <tran loc="es-419">El iPod necesita enfriarse\npara poder usarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>ENCRYPTED_NETWORK_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Enter the password for “%@”</base>
-        <tran loc="es">Introduce la contraseña de “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>WPA</Position>
       <TranslationSet>
         <base loc="en">WPA</base>
-        <tran loc="es">WPA</tran>
+        <tran loc="es-419">WPA</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>EMERGENCY_CALL</Position>
       <TranslationSet>
         <base loc="en">Emergency Call</base>
-        <tran loc="es">Llamada SOS</tran>
+        <tran loc="es-419">Llamada SOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>FAILED_NETWORK_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Failed to join “%@”</base>
-        <tran loc="es">Error al conectarse a “%@”</tran>
+        <tran loc="es-419">No se pudo acceder a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>OTHER_NETWORK_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Enter network information</base>
-        <tran loc="es">Introduce la información de red</tran>
+        <tran loc="es-419">Ingresa la información de red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>SHUT_DOWN</Position>
       <TranslationSet>
         <base loc="en">Shut Down</base>
-        <tran loc="es">Apagar</tran>
+        <tran loc="es-419">Apagar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>JOIN</Position>
       <TranslationSet>
         <base loc="en">Join</base>
-        <tran loc="es">Conectarse</tran>
+        <tran loc="es-419">Entrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>EXIT_DIAGNOSTICS</Position>
       <TranslationSet>
         <base loc="en">Exit Diagnostics</base>
-        <tran loc="es">Salir del diagnóstico</tran>
+        <tran loc="es-419">Salir del diagnóstico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>CHOOSE_WIFI_HEADER</Position>
       <TranslationSet>
         <base loc="en">Choose a Wi\U2011Fi\nNetwork</base>
-        <tran loc="es">Selecciona\nuna red Wi\U2011Fi</tran>
+        <tran loc="es-419">Selecciona una red\nWi\U2011Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>SECURITY</Position>
       <TranslationSet>
         <base loc="en">Security</base>
-        <tran loc="es">Seguridad</tran>
+        <tran loc="es-419">Seguridad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>OTHER_NETWORK_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Network Name</base>
-        <tran loc="es">Nombre de la red</tran>
+        <tran loc="es-419">Nombre de la red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>DIAGNOSTICS_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Diagnostics allow Apple to identify potential hardware and software issues with this device.</base>
-        <tran loc="es">El diagnóstico permite a Apple identificar problemas potenciales de hardware y software en este dispositivo.</tran>
+        <tran loc="es-419">El diagnóstico le permite a Apple identificar problemas potenciales de hardware y software con este dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>ENCRYPTED_NETWORK_TITLE</Position>
       <TranslationSet>
         <base loc="en">Enter Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Ingresar contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>DISMISS</Position>
       <TranslationSet>
         <base loc="en">Dismiss</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>WIFI_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Wi\U2011Fi Settings</base>
-        <tran loc="es">Ajustes de Wi\U2011Fi</tran>
+        <tran loc="es-419">Configuración de Wi\U2011Fi</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>NONE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>NO_NETWORK_CONNECTION_MESSAGE_WIFI</Position>
       <TranslationSet>
         <base loc="en">The Wi\U2011Fi network you selected is not providing an Internet connection. Change your settings or choose a different network.</base>
-        <tran loc="es">La red Wi\U2011Fi seleccionada no proporciona conexión a internet. Modifica los ajustes o selecciona otra red.</tran>
+        <tran loc="es-419">La red Wi\U2011Fi seleccionada no provee conexión a Internet. Modifica la configuración o selecciona otra red.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>WEP</Position>
       <TranslationSet>
         <base loc="en">WEP</base>
-        <tran loc="es">WEP</tran>
+        <tran loc="es-419">WEP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>WLAN_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">WLAN Settings</base>
-        <tran loc="es">Ajustes de WLAN</tran>
+        <tran loc="es-419">Configuración de WLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>TEMPERATURE</Position>
       <TranslationSet>
         <base loc="en">Temperature</base>
-        <tran loc="es">Temperatura</tran>
+        <tran loc="es-419">Temperatura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>WPA_ENTERPRISE</Position>
       <TranslationSet>
         <base loc="en">WPA Enterprise</base>
-        <tran loc="es">WPA Empresa</tran>
+        <tran loc="es-419">WPA empresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>JOINING_NETWORK_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Joining “%@”…</base>
-        <tran loc="es">Conectándose a “%@”…</tran>
+        <tran loc="es-419">Ingresando a “%@”…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>JOINED_NETWORK_PROMPT</Position>
       <TranslationSet>
         <base loc="en">Joined network “%@”</base>
-        <tran loc="es">Conectado a la red “%@”</tran>
+        <tran loc="es-419">Se ingresó a la red “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>DIAGNOSTICS</Position>
       <TranslationSet>
         <base loc="en">Diagnostics</base>
-        <tran loc="es">Diagnóstico</tran>
+        <tran loc="es-419">Diagnóstico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>COULD_NOT_FIND_NETWORK_TITLE</Position>
       <TranslationSet>
         <base loc="en">Could not find the network “%@”</base>
-        <tran loc="es">No se ha podido encontrar la red “%@”</tran>
+        <tran loc="es-419">No se encontró la red “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>WPA2</Position>
       <TranslationSet>
         <base loc="en">WPA2</base>
-        <tran loc="es">WPA2</tran>
+        <tran loc="es-419">WPA2</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>SERIAL_NUMBER</Position>
       <TranslationSet>
         <base loc="en">Serial\U00a0Number</base>
-        <tran loc="es">Número\U00a0de serie</tran>
+        <tran loc="es-419">Número\U00a0de\U00a0serie</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>INCORRECT_PASSWORD_TITLE</Position>
       <TranslationSet>
         <base loc="en">Incorrect password for “%@”</base>
-        <tran loc="es">Contraseña incorrecta para “%@”</tran>
+        <tran loc="es-419">Contraseña incorrecta de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>UNABLE_TO_JOIN_NETWORK_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to join the network\n“%@”</base>
-        <tran loc="es">No ha sido posible conectarse a la red\n“%@”</tran>
+        <tran loc="es-419">No se pudo conectar a la red\n“%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>CHOOSE_WLAN_HEADER</Position>
       <TranslationSet>
         <base loc="en">Choose a WLAN\nNetwork</base>
-        <tran loc="es">Selecciona\nuna red WLAN</tran>
+        <tran loc="es-419">Selecciona una red\nWLAN</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>THERMAL_ALERT_STRING_IPHONE</Position>
       <TranslationSet>
         <base loc="en">iPhone needs to cool down\nbefore you can use it.</base>
-        <tran loc="es">La temperatura del iPhone debe\ndisminuir antes de que puedas usarlo.</tran>
+        <tran loc="es-419">El iPhone necesita enfriarse\npara poder usarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>ARE_YOU_SURE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to exit Diagnostics?</base>
-        <tran loc="es">¿Seguro que quieres salir del diagnóstico?</tran>
+        <tran loc="es-419">¿Seguro que quieres salir del diagnóstico?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>WPA2_ENTERPRISE</Position>
       <TranslationSet>
         <base loc="en">WPA2 Enterprise</base>
-        <tran loc="es">WPA2 Empresa</tran>
+        <tran loc="es-419">WPA2 empresa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>CHOOSE_OTHER_FOOTER</Position>
       <TranslationSet>
         <base loc="en">Choose Another Network</base>
-        <tran loc="es">Seleccionar otra red</tran>
+        <tran loc="es-419">Selecciona otra red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>TRY_AGAIN_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>UNABLE_TO_JOIN_TITLE</Position>
       <TranslationSet>
         <base loc="en">Unable to join “%@”</base>
-        <tran loc="es">Imposible conectarse a “%@”</tran>
+        <tran loc="es-419">No se pudo ingresar a “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
   </File>

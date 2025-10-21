@@ -8,7 +8,7 @@
       <Position>APP_STORE_SELECTION_ALERT_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. Choose an app to open it, and download it from the App Store.\n\nChoose an app:</base>
-        <tran loc="es">%1$@ ha compartido esto. Elige una app para abrirlo y descárgala de App Store.\n\nElige una app:</tran>
+        <tran loc="es-419">%1$@ compartió esto. Selecciona una app para abrirlo y descárgala desde App Store.\n\nSelecciona una app:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>APP_SELECTION_ALERT_UNTITLED_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Open this item?</base>
-        <tran loc="es">¿Abrir este ítem?</tran>
+        <tran loc="es-419">¿Abrir este elemento?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>GENERIC_ERROR_TITLE_MAC_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">Este documento no se puede abrir por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>GENERIC_ERROR_TITLE_MAC_pages</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">Este documento no se puede abrir por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +41,7 @@
       <Position>INVALID_LINK_TITLE_IOS</Position>
       <TranslationSet>
         <base loc="en">Invalid Link</base>
-        <tran loc="es">Enlace no válido</tran>
+        <tran loc="es-419">Enlace no válido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -49,7 +49,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_Generic</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_com.apple.Notes</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privada.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_com.apple.Notes_com.apple.notes.folder</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_com.apple.iWork.Keynote</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privada.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_com.apple.iWork.Numbers</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_com.apple.iWork.Pages</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_photos</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privada.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>VETTING_ALERT_TITLE_IOS_reminders</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is Private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_IOS_photos</Position>
       <TranslationSet>
         <base loc="en">Sorry, these photos can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Estas fotos no se pueden abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir estas fotos por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>APP_SELECTION_ALERT_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Open “%1$@”?</base>
-        <tran loc="es">¿Abrir “%1$@”?</tran>
+        <tran loc="es-419">¿Abrir "%1$@"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>DEVICE_OFFLINE_BODY_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>DEVICE_OFFLINE_BODY_IOS_pages</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>GO_TO_SETTINGS_IOS</Position>
       <TranslationSet>
         <base loc="en">Go to Settings</base>
-        <tran loc="es">Ir a Ajustes</tran>
+        <tran loc="es-419">Ir a Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>DEVICE_OFFLINE_TITLE_IOS_notes</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Note</base>
-        <tran loc="es">No se puede abrir la nota</tran>
+        <tran loc="es-419">No se puede abrir la nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>GENERIC_ERROR_TITLE_IOS_notes</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Note</base>
-        <tran loc="es">No se puede abrir la nota</tran>
+        <tran loc="es-419">No se puede abrir la nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>SERVER_ERROR_TITLE_IOS_notes</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Note</base>
-        <tran loc="es">No se puede abrir la nota</tran>
+        <tran loc="es-419">No se puede abrir la nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_Generic</Position>
       <TranslationSet>
         <base loc="en">This was shared. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">Esto se ha compartido. Verifica que puedes abrirlo.</tran>
+        <tran loc="es-419">Se compartió esto. Verifica que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>GET_APP_BODY_IOS_IPAD</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. Visit the App Store to see if “%2$@” is available for iPad.</base>
-        <tran loc="es">%1$@ ha compartido esto. Visita App Store para ver si %2$@ está disponible para iPad.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Visita App Store para ver si “%2$@” está disponible para iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_com.apple.Notes</Position>
       <TranslationSet>
         <base loc="en">This note was shared. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">Esta nota se ha compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirla.</tran>
+        <tran loc="es-419">Se compartió esta nota. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>ENABLE_IN_ICLOUD_BODY_UNKNOWN_USER_share</Position>
       <TranslationSet>
         <base loc="en">You need to turn on iCloud for “%1$@” before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes activar iCloud para %1$@.</tran>
+        <tran loc="es-419">Para abrir esto, activa iCloud para “%1$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>SHARING_ACCEPT_MULTI_APP_BODY</Position>
       <TranslationSet>
         <base loc="en">Open item in…</base>
-        <tran loc="es">Abrir ítem en…</tran>
+        <tran loc="es-419">Abrir elemento en…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>DEVICE_OFFLINE_BODY_IOS_reminders</Position>
       <TranslationSet>
         <base loc="en">These reminders can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Estos recordatorios no se pueden abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir estos recordatorios por ahora. Verifica la conexión a Internet e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>ENABLE_IN_ICLOUD_BODY_UNKNOWN_USER_notes</Position>
       <TranslationSet>
         <base loc="en">You need to turn on iCloud for Notes before you can open this note.</base>
-        <tran loc="es">Para poder abrir esta nota, debes activar iCloud para Notas.</tran>
+        <tran loc="es-419">Para abrir esta nota, activa iCloud para Notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>APP_STORE_FAILURE_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">“%1$@” couldn’t be opened.</base>
-        <tran loc="es">%1$@ no se ha podido abrir.</tran>
+        <tran loc="es-419">No se pudo abrir “%1$@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>ACCOUNT_SELECTION_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Choose Account</base>
-        <tran loc="es">Seleccionar cuenta</tran>
+        <tran loc="es-419">Seleccionar cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>PREVIEW_BUTTON_IOS_keynote</Position>
       <TranslationSet>
         <base loc="en">Preview Presentation</base>
-        <tran loc="es">Previsualizar presentación</tran>
+        <tran loc="es-419">Previsualizar presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>APP_STORE_UPDATE_APP_FAILURE_STORE_NOT_AVAILABLE_BODY</Position>
       <TranslationSet>
         <base loc="en">You need a newer version of %1$@ to open this, but the App Store couldn’t be opened because of a problem with the server or network. If you’re not sure which version to use, check with the owner.</base>
-        <tran loc="es">Necesitas una versión más reciente de %1$@ para abrir esto, pero App Store no se ha podido abrir por un problema con el servidor o la red. Si no sabes qué versión debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">Necesitarás una nueva versión de %1$@ para abrir esto, pero no se puede abrir App Store debido a un problema con el servidor o la red. Si no sabes cuál versión usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>ENABLE_IN_ICLOUD_TITLE_IOS</Position>
       <TranslationSet>
         <base loc="en">Turn On iCloud</base>
-        <tran loc="es">Activa iCloud</tran>
+        <tran loc="es-419">Activar iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>VETTING_ALERT_BODY_photos</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared these photos. Please verify that you’re allowed to open them.</base>
-        <tran loc="es">%1$@ ha compartido estas fotos. Verifica que puedes abrirlas.</tran>
+        <tran loc="es-419">%1$@ compartió estas fotos. Verifica que tienes autorización para abrirlas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>GENERIC_ERROR_TITLE_MAC_share</Position>
       <TranslationSet>
         <base loc="en">Sorry, this can’t be opened right now.</base>
-        <tran loc="es">Esto no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">Esto no se puede abrir por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -297,7 +297,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_com.apple.iWork.Keynote</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this presentation. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esta presentación. Te enviaremos un mensaje de correo para verificar que puedes abrirla.</tran>
+        <tran loc="es-419">%1$@ compartió esta presentación. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -305,7 +305,7 @@
       <Position>SERVER_ERROR_BODY_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -313,7 +313,7 @@
       <Position>SERVER_ERROR_BODY_IOS_pages</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -321,7 +321,7 @@
       <Position>ENABLE_IN_ICLOUD_BODY_UNKNOWN_USER_reminders</Position>
       <TranslationSet>
         <base loc="en">You need to turn on iCloud for Reminders before you can open these reminders.</base>
-        <tran loc="es">Para poder abrir estos recordatorios, debes activar iCloud para Recordatorios.</tran>
+        <tran loc="es-419">Para abrir estos recordatorios, activa iCloud para Recordatorios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -329,7 +329,7 @@
       <Position>SHARING_ACCEPT_TITLE_UNKNOWN_USER</Position>
       <TranslationSet>
         <base loc="en">An unknown user shared an item.</base>
-        <tran loc="es">Un usuario desconocido ha compartido un ítem.</tran>
+        <tran loc="es-419">Un usuario desconocido compartió un elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -337,7 +337,7 @@
       <Position>DEVICE_OFFLINE_BODY_IOS_notes</Position>
       <TranslationSet>
         <base loc="en">This note can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Esta nota no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir esta nota por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -345,7 +345,7 @@
       <Position>DEVICE_OFFLINE_BODY_IOS_numbers</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -353,7 +353,7 @@
       <Position>ACCOUNT_UPGRADE_GO_TO_NOTES</Position>
       <TranslationSet>
         <base loc="en">Go to Notes</base>
-        <tran loc="es">Ir a Notas</tran>
+        <tran loc="es-419">Ir a notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -361,7 +361,7 @@
       <Position>SERVER_ERROR_BODY_IOS_keynote</Position>
       <TranslationSet>
         <base loc="en">This presentation can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -369,7 +369,7 @@
       <Position>GENERIC_ERROR_TITLE_MAC_numbers</Position>
       <TranslationSet>
         <base loc="en">Sorry, this spreadsheet can’t be opened right now.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -377,7 +377,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_OFFLINE_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this isn’t installed on your Mac, and the App Store couldn’t be opened because you’re offline. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no está instalada en el Mac y no se ha podido abrir App Store porque no tienes conexión. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">La app para abrir esto no está instalada en tu Mac y no se puede abrir App Store porque no hay conexión. Si no sabes cuál app usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -385,7 +385,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_com.apple.iWork.Numbers</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet was shared. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">Esta hoja de cálculo se ha compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirla.</tran>
+        <tran loc="es-419">Se compartió esta hoja de cálculo. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -393,7 +393,7 @@
       <Position>APP_STORE_SELECTION_ALERT_UNTITLED_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Install an app to open this.</base>
-        <tran loc="es">Instala una app para abrir esto.</tran>
+        <tran loc="es-419">Instala una app para abrir esto.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -401,7 +401,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_IOS_reminders</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open these shared reminders.</base>
-        <tran loc="es">Para poder abrir estos recordatorios compartidos, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir estos recordatorios compartidos, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -409,7 +409,7 @@
       <Position>GO_TO_SETTINGS_MAC</Position>
       <TranslationSet>
         <base loc="en">System Preferences</base>
-        <tran loc="es">Preferencias del Sistema</tran>
+        <tran loc="es-419">Preferencias del sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -417,7 +417,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_reminders</Position>
       <TranslationSet>
         <base loc="en">These reminders were shared. Please verify that you’re allowed to open them.</base>
-        <tran loc="es">Estos recordatorios se han compartido. Verifica que puedes abrirlas.</tran>
+        <tran loc="es-419">Estos recordatorios se comparten. Verifica que tienes autorización para abrirlos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -425,7 +425,7 @@
       <Position>GET_APP_BODY_IOS_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. Visit the App Store to see if “%2$@” is available for iPod touch.</base>
-        <tran loc="es">%1$@ ha compartido esto. Visita App Store para ver si %2$@ está disponible para iPod touch.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Visita App Store para ver si “%2$@” está disponible para iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -433,7 +433,7 @@
       <Position>VETTING_ALERT_BODY_com.apple.iWork.Keynote</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this presentation. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esta presentación. Verifica que puedes abrirla.</tran>
+        <tran loc="es-419">%1$@ compartió esta presentación. Verifica que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -441,7 +441,7 @@
       <Position>DISCOVERABILITY_BODY</Position>
       <TranslationSet>
         <base loc="en">People who know your email address will be able to see that you use this app.</base>
-        <tran loc="es">Las personas que conozcan tu dirección de correo podrán ver que utilizas esta app.</tran>
+        <tran loc="es-419">Las personas que conocen tu dirección de correo electrónico podrán ver que usas esta app.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -449,7 +449,7 @@
       <Position>GET_APP_BODY_UNKNOWN_USER_MAC</Position>
       <TranslationSet>
         <base loc="en">This was shared. Visit the App Store to see if “%1$@” is available for Mac.</base>
-        <tran loc="es">Esto se ha compartido. Visita App Store para ver si %1$@ está disponible para Mac.</tran>
+        <tran loc="es-419">Esto se comparte. Visita App Store para ver si “%1$@” está disponible para Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -457,7 +457,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -465,7 +465,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_IOS_reminders</Position>
       <TranslationSet>
         <base loc="en">Sorry, these reminders can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Estos recordatorios no se pueden abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir estos recordatorios por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -473,7 +473,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_STORE_NOT_AVAILABLE_BODY_IOS_IPAD</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this isn’t installed on your iPad, and the App Store couldn’t be opened because of a problem with the server or network. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no está instalada en el iPad y no se ha podido abrir App Store por un problema con el servidor o la red. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">La app para abrir esto no está instalada en tu iPad y no se puede abrir App Store debido a un problema con el servidor o la red. Si no sabes cuál app usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -481,7 +481,7 @@
       <Position>UPDATE_APP_BODY_UNKNOWN_USER_IOS</Position>
       <TranslationSet>
         <base loc="en">This was shared. To open it, you’ll need the latest version of “%1$@”.</base>
-        <tran loc="es">Esto se ha compartido. Para abrirlo, necesitas la versión más reciente de %1$@.</tran>
+        <tran loc="es-419">Esto se compartió. Para abrirlo, necesitas la versión más reciente de “%1$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -489,7 +489,7 @@
       <Position>UPDATE_APP_BODY_UNKNOWN_USER_MAC</Position>
       <TranslationSet>
         <base loc="en">This was shared. To open it, you’ll need the latest version of “%1$@”.</base>
-        <tran loc="es">Esto se ha compartido. Para abrirlo, necesitas la versión más reciente de %1$@.</tran>
+        <tran loc="es-419">Esto se compartió. Para abrirlo, necesitas la versión más reciente de “%1$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -497,7 +497,7 @@
       <Position>ACCOUNT_SELECTION_ALERT_BODY</Position>
       <TranslationSet>
         <base loc="en">Choose which account you would like to open this item with:</base>
-        <tran loc="es">Selecciona la cuenta con la que quieres abrir este ítem con:</tran>
+        <tran loc="es-419">Elige la cuenta con cuál cuenta quisieras abrir este elemento:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -505,7 +505,7 @@
       <Position>GET_APP_BODY_UNKNOWN_USER_IOS_IPHONE</Position>
       <TranslationSet>
         <base loc="en">This was shared. Visit the App Store to see if “%1$@” is available for iPhone.</base>
-        <tran loc="es">Esto se ha compartido. Visita App Store para ver si %1$@ está disponible para iPhone.</tran>
+        <tran loc="es-419">Esto se comparte. Visita App Store para ver si “%1$@” está disponible para iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -513,7 +513,7 @@
       <Position>SHARE_ACCEPTANCE_PROGRESS_HEADER</Position>
       <TranslationSet>
         <base loc="en">Retrieving…</base>
-        <tran loc="es">Recuperando…</tran>
+        <tran loc="es-419">Obteniendo…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -521,7 +521,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -529,7 +529,7 @@
       <Position>SHARE_ACCEPTANCE_PROGRESS_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -537,7 +537,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_STORE_NOT_AVAILABLE_BODY_IOS_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this isn’t installed on your iPod touch, and the App Store couldn’t be opened because of a problem with the server or network. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no está instalada en el iPod touch y no se ha podido abrir App Store por un problema con el servidor o la red. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">La app para abrir esto no está instalada en tu iPod touch y no se puede abrir App Store debido a un problema con el servidor o la red. Si no sabes cuál app usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -545,7 +545,7 @@
       <Position>PREVIEW_BUTTON_IOS_numbers</Position>
       <TranslationSet>
         <base loc="en">Preview Spreadsheet</base>
-        <tran loc="es">Previsualizar hoja de cálculo</tran>
+        <tran loc="es-419">Previsualizar hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -553,7 +553,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_STORE_NOT_AVAILABLE_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this isn’t installed on your Mac, and the App Store couldn’t be opened because of a problem with the server or network. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no está instalada en el Mac y no se ha podido abrir App Store por un problema con el servidor o la red. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">La app para abrir esto no está instalada en tu Mac y no se puede abrir App Store debido a un problema con el servidor o la red. Si no sabes cuál app usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -561,7 +561,7 @@
       <Position>ALTERNATE_DISCOVERABILITY_BODY</Position>
       <TranslationSet>
         <base loc="en">You can change these permissions in Settings.</base>
-        <tran loc="es">Puedes cambiar estos permisos desde Ajustes.</tran>
+        <tran loc="es-419">Puedes cambiar los permisos desde Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -572,7 +572,7 @@
       <Position>ACCOUNT_UPGRADE_TITLE_NOTES_IOS</Position>
       <TranslationSet>
         <base loc="en">Upgrade Your Notes</base>
-        <tran loc="es">Actualizar tus notas</tran>
+        <tran loc="es-419">Actualizar tus notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -580,7 +580,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_photos</Position>
       <TranslationSet>
         <base loc="en">These photos were shared. Please verify that you’re allowed to open them.</base>
-        <tran loc="es">Estas fotos se han compartido. Verifica que puedes abrirlas.</tran>
+        <tran loc="es-419">Estas fotos se comparten. Verifica que tienes autorización para abrirlas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -588,7 +588,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_com.apple.iWork.Pages</Position>
       <TranslationSet>
         <base loc="en">This document was shared. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">Este documento se ha compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirlo.</tran>
+        <tran loc="es-419">Se compartió este documento. Te enviaremos un correo para verificar que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -596,7 +596,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">This document was shared. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">Este documento se ha compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirlo.</tran>
+        <tran loc="es-419">Se compartió este documento. Te enviaremos un correo para verificar que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -604,7 +604,7 @@
       <Position>CONTINUE</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -612,7 +612,7 @@
       <Position>VETTING_ALERT_BODY_com.apple.iWork.Numbers</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this spreadsheet. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esta hoja de cálculo. Verifica que puedes abrirla.</tran>
+        <tran loc="es-419">%1$@ compartió esta hoja de cálculo. Verifica que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -620,7 +620,7 @@
       <Position>DEVICE_OFFLINE_TITLE_IOS_reminders</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Reminders</base>
-        <tran loc="es">No se puede abrir Recordatorios</tran>
+        <tran loc="es-419">No se puede abrir Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -628,7 +628,7 @@
       <Position>GENERIC_ERROR_TITLE_IOS_reminders</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Reminders</base>
-        <tran loc="es">No se puede abrir Recordatorios</tran>
+        <tran loc="es-419">No se puede abrir Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -636,7 +636,7 @@
       <Position>SERVER_ERROR_TITLE_IOS_reminders</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Reminders</base>
-        <tran loc="es">No se puede abrir Recordatorios</tran>
+        <tran loc="es-419">No se puede abrir Recordatorios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -644,7 +644,7 @@
       <Position>DEVICE_OFFLINE_TITLE_MAC_photos</Position>
       <TranslationSet>
         <base loc="en">These photos can’t be opened right now.</base>
-        <tran loc="es">Estas fotos no se pueden abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir estas fotos por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -652,7 +652,7 @@
       <Position>SERVER_ERROR_TITLE_MAC_photos</Position>
       <TranslationSet>
         <base loc="en">These photos can’t be opened right now.</base>
-        <tran loc="es">Estas fotos no se pueden abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir estas fotos por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -660,7 +660,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Este documento no se puede abrir por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -668,7 +668,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_IOS_pages</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Este documento no se puede abrir por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -676,7 +676,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_com.apple.iWork.Keynote</Position>
       <TranslationSet>
         <base loc="en">This presentation was shared. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">Esta presentación se ha compartido. Verifica que puedes abrirla.</tran>
+        <tran loc="es-419">Se compartió esta presentación. Verifica que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -684,7 +684,7 @@
       <Position>GET_APP_BODY_UNKNOWN_USER_IOS_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">This was shared. Visit the App Store to see if “%1$@” is available for iPod touch.</base>
-        <tran loc="es">Esto se ha compartido. Visita App Store para ver si %1$@ está disponible para iPod touch.</tran>
+        <tran loc="es-419">Esto se comparte. Visita App Store para ver si “%1$@” está disponible para iPod touch.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -692,7 +692,7 @@
       <Position>SERVER_ERROR_BODY_IOS_notes</Position>
       <TranslationSet>
         <base loc="en">This note can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Esta nota no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta nota por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -700,7 +700,7 @@
       <Position>DEVICE_OFFLINE_TITLE_IOS_share</Position>
       <TranslationSet>
         <base loc="en">Can’t Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -708,7 +708,7 @@
       <Position>GENERIC_ERROR_TITLE_IOS_share</Position>
       <TranslationSet>
         <base loc="en">Can’t Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -716,7 +716,7 @@
       <Position>SERVER_ERROR_TITLE_IOS_share</Position>
       <TranslationSet>
         <base loc="en">Can’t Open</base>
-        <tran loc="es">No se puede abrir</tran>
+        <tran loc="es-419">No se puede abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -724,7 +724,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_IOS_numbers</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared spreadsheet.</base>
-        <tran loc="es">Para poder abrir esta hoja de cálculo compartida, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esta hoja de cálculo compartida, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -732,7 +732,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -740,7 +740,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_IOS_share</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -748,7 +748,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_MAC_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -756,7 +756,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_MAC_keynote</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -764,7 +764,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_MAC_notes</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -772,7 +772,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_MAC_numbers</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -780,7 +780,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_MAC_pages</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -788,7 +788,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_MAC_reminders</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -796,7 +796,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_MAC_share</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esto, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -804,7 +804,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_com.apple.iWork.Pages</Position>
       <TranslationSet>
         <base loc="en">This document was shared. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">Este documento se ha compartido. Verifica que puedes abrirlo.</tran>
+        <tran loc="es-419">Se compartió este documento. Verifica que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -812,7 +812,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">This document was shared. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">Este documento se ha compartido. Verifica que puedes abrirlo.</tran>
+        <tran loc="es-419">Se compartió este documento. Verifica que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -820,7 +820,7 @@
       <Position>DEVICE_OFFLINE_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">Check your Internet connection, then try again.</base>
-        <tran loc="es">Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -828,7 +828,7 @@
       <Position>INVALID_LINK_BODY_IOS</Position>
       <TranslationSet>
         <base loc="en">This link doesn’t seem to be working. Check the link, then try again.</base>
-        <tran loc="es">Parece que este enlace no funciona. Comprueba el enlace y vuelve a intentarlo.</tran>
+        <tran loc="es-419">Parece que este enlace no funciona. Compruébalo y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -836,7 +836,7 @@
       <Position>SHARING_ACCEPT_SINGLE_APP_BODY</Position>
       <TranslationSet>
         <base loc="en">Would you like to open this item in %@?</base>
-        <tran loc="es">¿Quieres abrir este ítem en %@?</tran>
+        <tran loc="es-419">¿Quieres abrir este artículo con %@?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -844,7 +844,7 @@
       <Position>APP_STORE_SELECTION_ALERT_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Install an app to open “%1$@”.</base>
-        <tran loc="es">Instala una app para abrir “%1$@”.</tran>
+        <tran loc="es-419">Instala una app para abrir “%1$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -852,7 +852,7 @@
       <Position>DEVICE_OFFLINE_TITLE_IOS_keynote</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Presentation</base>
-        <tran loc="es">No se puede abrir la presentación</tran>
+        <tran loc="es-419">No se puede abrir la presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -860,7 +860,7 @@
       <Position>GENERIC_ERROR_TITLE_IOS_keynote</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Presentation</base>
-        <tran loc="es">No se puede abrir la presentación</tran>
+        <tran loc="es-419">No se puede abrir la presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -868,7 +868,7 @@
       <Position>SERVER_ERROR_TITLE_IOS_keynote</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Presentation</base>
-        <tran loc="es">No se puede abrir la presentación</tran>
+        <tran loc="es-419">No se puede abrir la presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -876,7 +876,7 @@
       <Position>VETTING_PASSWORD_DIALOG_TITLE_IOS</Position>
       <TranslationSet>
         <base loc="en">Enter Apple ID Password</base>
-        <tran loc="es">Introduce la contraseña del ID de Apple</tran>
+        <tran loc="es-419">Ingresa la contraseña del Apple ID</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -884,7 +884,7 @@
       <Position>DEVICE_OFFLINE_TITLE_MAC_reminders</Position>
       <TranslationSet>
         <base loc="en">These reminders can’t be opened right now.</base>
-        <tran loc="es">Estos recordatorios no se pueden abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir estos recordatorios por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -892,7 +892,7 @@
       <Position>SERVER_ERROR_TITLE_MAC_reminders</Position>
       <TranslationSet>
         <base loc="en">These reminders can’t be opened right now.</base>
-        <tran loc="es">Estos recordatorios no se pueden abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir estos recordatorios por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -900,7 +900,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_OFFLINE_BODY_IOS_IPAD</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this isn’t installed on your iPad, and the App Store couldn’t be opened because you’re offline. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no está instalada en el iPad y no se ha podido abrir App Store porque no tienes conexión a internet. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">La app para abrir esto no está instalada en tu iPad y no se puede abrir App Store porque no hay conexión. Si no sabes cuál app usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -908,7 +908,7 @@
       <Position>ENABLE_IN_ICLOUD_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Turn on iCloud.</base>
-        <tran loc="es">Activa iCloud.</tran>
+        <tran loc="es-419">Activar iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -916,7 +916,7 @@
       <Position>INVALID_LINK_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">Check the link, then try again.</base>
-        <tran loc="es">Comprueba el enlace y vuelve a intentarlo.</tran>
+        <tran loc="es-419">Comprueba el enlace y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -924,7 +924,7 @@
       <Position>SERVER_ERROR_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -932,7 +932,7 @@
       <Position>APP_STORE_FAILURE_TITLE_IOS</Position>
       <TranslationSet>
         <base loc="en">Couldn’t Open “%1$@”</base>
-        <tran loc="es">No se ha podido abrir “%1$@”</tran>
+        <tran loc="es-419">No se pudo abrir “%1$@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -940,7 +940,7 @@
       <Position>VETTING_ALERT_BODY_com.apple.Notes_com.apple.notes.folder</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this folder. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esta carpeta. Verifica que puedes abrirla.</tran>
+        <tran loc="es-419">%1$@ compartió esta carpeta. Verifica que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -948,7 +948,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_IOS_keynote</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared presentation.</base>
-        <tran loc="es">Para poder abrir esta presentación compartida, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esta presentación compartida, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -956,7 +956,7 @@
       <Position>GENERIC_ERROR_TITLE_MAC_photos</Position>
       <TranslationSet>
         <base loc="en">Sorry, these photos can’t be opened right now.</base>
-        <tran loc="es">Estas fotos no se pueden abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir estas fotos por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -964,7 +964,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_IOS_pages</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared document.</base>
-        <tran loc="es">Para poder abrir este documento compartido, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir este documento compartido, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -972,7 +972,7 @@
       <Position>DEVICE_OFFLINE_TITLE_IOS_numbers</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Spreadsheet</base>
-        <tran loc="es">No se puede abrir la hoja de cálculo</tran>
+        <tran loc="es-419">No se puede abrir la hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -980,7 +980,7 @@
       <Position>GENERIC_ERROR_TITLE_IOS_numbers</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Spreadsheet</base>
-        <tran loc="es">No se puede abrir la hoja de cálculo</tran>
+        <tran loc="es-419">No se puede abrir la hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -988,7 +988,7 @@
       <Position>SERVER_ERROR_TITLE_IOS_numbers</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Spreadsheet</base>
-        <tran loc="es">No se puede abrir la hoja de cálculo</tran>
+        <tran loc="es-419">No se puede abrir la hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -996,7 +996,7 @@
       <Position>ACCOUNT_UPGRADE_TITLE_NOTES_MAC</Position>
       <TranslationSet>
         <base loc="en">It’s time to upgrade your notes!</base>
-        <tran loc="es">¡Ya es hora de actualizar tus notas!</tran>
+        <tran loc="es-419">Es momento de actualizar tus notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1004,7 +1004,7 @@
       <Position>SERVER_ERROR_BODY_IOS_reminders</Position>
       <TranslationSet>
         <base loc="en">These reminders can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Estos recordatorios no se pueden abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir estos recordatorios por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1012,7 +1012,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_Generic</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esto. Te enviaremos un mensaje de correo para verificar que puedes abrirlo.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Te enviaremos un correo para verificar que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1020,7 +1020,7 @@
       <Position>DEVICE_OFFLINE_TITLE_MAC_numbers</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet can’t be opened right now.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1028,7 +1028,7 @@
       <Position>SERVER_ERROR_TITLE_MAC_numbers</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet can’t be opened right now.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1036,7 +1036,7 @@
       <Position>SIGN_IN_TO_ICLOUD_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Sign in to iCloud.</base>
-        <tran loc="es">Inicia sesión en iCloud.</tran>
+        <tran loc="es-419">Iniciar sesión en iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1044,7 +1044,7 @@
       <Position>ENABLE_IN_ICLOUD_BODY_noapp</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. You need to turn on iCloud before you can open it.</base>
-        <tran loc="es">%1$@ ha compartido esto. Para abrirlo es necesario activar iCloud.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Para abrirlo, activa iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1052,7 +1052,7 @@
       <Position>DEVICE_OFFLINE_TITLE_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1060,7 +1060,7 @@
       <Position>DEVICE_OFFLINE_TITLE_IOS_pages</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1068,7 +1068,7 @@
       <Position>GENERIC_ERROR_TITLE_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1076,7 +1076,7 @@
       <Position>GENERIC_ERROR_TITLE_IOS_pages</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1084,7 +1084,7 @@
       <Position>SERVER_ERROR_TITLE_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1093,7 +1093,7 @@
       <Position>SERVER_ERROR_TITLE_IOS_pages</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1101,7 +1101,7 @@
       <Position>ENABLE_IN_ICLOUD_BODY_share</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. You need to turn on iCloud for “%2$@” before you can open it.</base>
-        <tran loc="es">%1$@ ha compartido esto. Para abrirlo es necesario activar iCloud para %2$@.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Para abrirlo, activa iCloud para "%2$@".</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1109,7 +1109,7 @@
       <Position>GET_APP_BODY_UNKNOWN_USER_IOS_IPAD</Position>
       <TranslationSet>
         <base loc="en">This was shared. Visit the App Store to see if “%1$@” is available for iPad.</base>
-        <tran loc="es">Esto se ha compartido. Visita App Store para ver si %1$@ está disponible para iPad.</tran>
+        <tran loc="es-419">Esto se comparte. Visita App Store para ver si “%1$@” está disponible para iPad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1117,7 +1117,7 @@
       <Position>GET_APP_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. Visit the App Store to see if “%2$@” is available for Mac.</base>
-        <tran loc="es">%1$@ ha compartido esto. Visita App Store para ver si %2$@ está disponible para Mac.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Visita App Store para ver si “%2$@” está disponible para Mac.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1125,7 +1125,7 @@
       <Position>VETTING_PASSWORD_DIALOG_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Enter your Apple ID password.</base>
-        <tran loc="es">Introduce la contraseña de tu ID de Apple.</tran>
+        <tran loc="es-419">Ingresa la contraseña de tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1133,7 +1133,7 @@
       <Position>DEVICE_OFFLINE_TITLE_IOS_photos</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Shared Photos</base>
-        <tran loc="es">No se puede abrir las fotos compartidas</tran>
+        <tran loc="es-419">No se puede abrir fotos compartidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1141,7 +1141,7 @@
       <Position>GENERIC_ERROR_TITLE_IOS_photos</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Shared Photos</base>
-        <tran loc="es">No se puede abrir las fotos compartidas</tran>
+        <tran loc="es-419">No se puede abrir fotos compartidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1149,7 +1149,7 @@
       <Position>SERVER_ERROR_TITLE_IOS_photos</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Shared Photos</base>
-        <tran loc="es">No se puede abrir las fotos compartidas</tran>
+        <tran loc="es-419">No se puede abrir fotos compartidas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1157,7 +1157,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_APP_NOT_AVAILABLE_BODY</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this couldn’t be found in the App Store. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no se encuentra en App Store. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">No se encontró la app en App Store para abrir esto. Si no sabes cuál usar, consulta con el propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1165,7 +1165,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_IOS_notes</Position>
       <TranslationSet>
         <base loc="en">Sorry, this note can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Esta nota no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta nota por ahora. Intenta después.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1173,7 +1173,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_com.apple.iWork.Keynote</Position>
       <TranslationSet>
         <base loc="en">This presentation was shared. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">Esta presentación se ha compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirla.</tran>
+        <tran loc="es-419">Se compartió esta presentación. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1181,7 +1181,7 @@
       <Position>NOT_NOW</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1189,7 +1189,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_IOS_share</Position>
       <TranslationSet>
         <base loc="en">Sorry, this can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Esto no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Esto no se puede abrir por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1197,7 +1197,7 @@
       <Position>VERIFY</Position>
       <TranslationSet>
         <base loc="en">Verify</base>
-        <tran loc="es">Verificar</tran>
+        <tran loc="es-419">Verificar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1205,7 +1205,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_com.apple.Notes_com.apple.notes.folder</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this folder. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esta carpeta. Te enviaremos un mensaje de correo para verificar que puedes abrirla.</tran>
+        <tran loc="es-419">%1$@ compartió esta carpeta. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1213,7 +1213,7 @@
       <Position>SERVER_ERROR_BODY_IOS_numbers</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir este hoja de cálculo por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1221,7 +1221,7 @@
       <Position>UPDATE_APP_TITLE_IOS</Position>
       <TranslationSet>
         <base loc="en">Update “%1$@”</base>
-        <tran loc="es">Actualizar %1$@</tran>
+        <tran loc="es-419">Actualizar “%1$@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1229,7 +1229,7 @@
       <Position>UPDATE_APP_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Update “%1$@”</base>
-        <tran loc="es">Actualizar %1$@</tran>
+        <tran loc="es-419">Actualizar “%1$@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1237,7 +1237,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_photos</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared these photos. We’ll send you an email to verify that you’re allowed to open them.</base>
-        <tran loc="es">%1$@ ha compartido estas fotos. Te enviaremos un mensaje de correo para verificar que puedes abrirlas.</tran>
+        <tran loc="es-419">%1$@ compartió estas fotos. Te enviaremos un correo para verificar que tienes autorización para abrirlas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1245,7 +1245,7 @@
       <Position>GET_APP_BODY_IOS_IPHONE</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. Visit the App Store to see if “%2$@” is available for iPhone.</base>
-        <tran loc="es">%1$@ ha compartido esto. Visita App Store para ver si %2$@ está disponible para iPhone.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Visita App Store para ver si “%2$@” está disponible para iPhone.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1253,7 +1253,7 @@
       <Position>ACCOUNT_UPGRADE_BODY_NOTES</Position>
       <TranslationSet>
         <base loc="en">To open shared notes, you’ll need to go to Notes and upgrade your iCloud account.</base>
-        <tran loc="es">Para abrir notas compartidas, ve a Notas y actualiza tu cuenta de iCloud.</tran>
+        <tran loc="es-419">Para abrir notas compartidas, tienes que abrir Notas y actualizar tu cuenta de iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1261,7 +1261,7 @@
       <Position>ALTERNATE_DISCOVERABILITY_TITLE</Position>
       <TranslationSet>
         <base loc="en">People using “%1$@” can look you up by email.</base>
-        <tran loc="es">Las personas que usan %1$@ pueden buscarte por tu dirección de correo.</tran>
+        <tran loc="es-419">Las personas que usan “%1$@” te pueden buscar por correo electrónico.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1269,7 +1269,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_com.apple.Notes</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this note. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esta nota. Te enviaremos un mensaje de correo para verificar que puedes abrirla.</tran>
+        <tran loc="es-419">%1$@ compartió esta nota. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1277,7 +1277,7 @@
       <Position>DONT_ALLOW</Position>
       <TranslationSet>
         <base loc="en">Don’t Allow</base>
-        <tran loc="es">No permitir</tran>
+        <tran loc="es-419">No permitir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1285,7 +1285,7 @@
       <Position>GENERIC_ERROR_TITLE_MAC_notes</Position>
       <TranslationSet>
         <base loc="en">Sorry, this note can’t be opened right now.</base>
-        <tran loc="es">Esta nota no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">Esta nota no se puede abrir por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1293,7 +1293,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_com.apple.iWork.Pages</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this document. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido este documento. Te enviaremos un mensaje de correo para verificar que puedes abrirlo.</tran>
+        <tran loc="es-419">%1$@ compartió este documento. Te enviaremos un correo para verificar que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1301,7 +1301,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this document. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido este documento. Te enviaremos un mensaje de correo para verificar que puedes abrirlo.</tran>
+        <tran loc="es-419">%1$@ compartió este documento. Te enviaremos un correo para verificar que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1309,7 +1309,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_IOS_numbers</Position>
       <TranslationSet>
         <base loc="en">Sorry, this spreadsheet can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1317,7 +1317,7 @@
       <Position>DEVICE_OFFLINE_BODY_IOS_share</Position>
       <TranslationSet>
         <base loc="en">This can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">No se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir esto por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1325,7 +1325,7 @@
       <Position>DEVICE_OFFLINE_TITLE_MAC_keynote</Position>
       <TranslationSet>
         <base loc="en">This presentation can’t be opened right now.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1333,7 +1333,7 @@
       <Position>SERVER_ERROR_TITLE_MAC_keynote</Position>
       <TranslationSet>
         <base loc="en">This presentation can’t be opened right now.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1341,7 +1341,7 @@
       <Position>ENABLE_IN_ICLOUD_BODY_UNKNOWN_USER_noapp</Position>
       <TranslationSet>
         <base loc="en">You need to turn on iCloud before you can open this.</base>
-        <tran loc="es">Para poder abrir esto, debes activar iCloud.</tran>
+        <tran loc="es-419">Para abrir esto, activa iCloud.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1349,7 +1349,7 @@
       <Position>DEVICE_OFFLINE_TITLE_MAC_notes</Position>
       <TranslationSet>
         <base loc="en">This note can’t be opened right now.</base>
-        <tran loc="es">Esta nota no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta nota por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1357,7 +1357,7 @@
       <Position>SERVER_ERROR_TITLE_MAC_notes</Position>
       <TranslationSet>
         <base loc="en">This note can’t be opened right now.</base>
-        <tran loc="es">Esta nota no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta nota por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1365,7 +1365,7 @@
       <Position>GENERIC_ERROR_TITLE_MAC_reminders</Position>
       <TranslationSet>
         <base loc="en">Sorry, these reminders can’t be opened right now.</base>
-        <tran loc="es">Estos recordatorios no se pueden abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir estos recordatorios por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1373,7 +1373,7 @@
       <Position>SHARING_ACCEPT_TITLE</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared an item.</base>
-        <tran loc="es">%1$@ ha compartido un ítem.</tran>
+        <tran loc="es-419">%1$@ compartió un elemento.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1381,7 +1381,7 @@
       <Position>APP_STORE_UPDATE_APP_FAILURE_OFFLINE_BODY</Position>
       <TranslationSet>
         <base loc="en">You need a newer version of %1$@ to open this, but the App Store couldn’t be opened because you’re offline. If you’re not sure which version to use, check with the owner.</base>
-        <tran loc="es">Necesitas una versión más reciente de %1$@ para abrir esto, pero App Store no se ha podido abrir porque no tienes conexión. Si no sabes qué versión debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">Necesitarás una nueva versión de %1$@ para abrir esto, pero no se puede abrir App Store porque no hay conexión. Si no sabes cuál versión usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1389,7 +1389,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_com.apple.Notes_com.apple.notes.folder</Position>
       <TranslationSet>
         <base loc="en">This folder was shared. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">Esta carpeta se ha compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirla.</tran>
+        <tran loc="es-419">Se compartió esta carpeta. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1397,7 +1397,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_com.apple.iWork.Numbers</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this spreadsheet. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esta hoja de cálculo. Te enviaremos un mensaje de correo para verificar que puedes abrirla.</tran>
+        <tran loc="es-419">%1$@ compartió esta hoja de cálculo. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1405,7 +1405,7 @@
       <Position>GET_APP_TITLE_IOS</Position>
       <TranslationSet>
         <base loc="en">Get “%1$@”</base>
-        <tran loc="es">Obtener %1$@</tran>
+        <tran loc="es-419">Obtener "%1$@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1413,7 +1413,7 @@
       <Position>GET_APP_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">Get “%1$@”</base>
-        <tran loc="es">Obtener %1$@</tran>
+        <tran loc="es-419">Obtener "%1$@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1421,7 +1421,7 @@
       <Position>APP_SELECTION_ALERT_UNKNOWN_USER_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">This was shared. You will join as %2$@ (%3$@). Choose an app to open this:</base>
-        <tran loc="es">Esto se ha compartido. Accederás como “%2$@” (%3$@). Elige una app para abrirlo:</tran>
+        <tran loc="es-419">Esto se compartió. Ingresarás como %2$@ (%3$@). Elige una app para abrir esto:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1429,7 +1429,7 @@
       <Position>INVALID_LINK_TITLE_MAC</Position>
       <TranslationSet>
         <base loc="en">This link doesn’t seem to be working.</base>
-        <tran loc="es">Parece que este enlace no funciona.</tran>
+        <tran loc="es-419">Parece que este enlace no funciona.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1437,7 +1437,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_com.apple.Notes_com.apple.notes.folder</Position>
       <TranslationSet>
         <base loc="en">This folder was shared. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">Esta carpeta se ha compartido. Verifica que puedes abrirla.</tran>
+        <tran loc="es-419">Se compartió esta carpeta. Verifica que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1445,7 +1445,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_Generic</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1453,7 +1453,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_com.apple.Notes</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privada.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1461,7 +1461,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_com.apple.Notes_com.apple.notes.folder</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1469,7 +1469,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_com.apple.iWork.Keynote</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privada.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1477,7 +1477,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_com.apple.iWork.Numbers</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1485,7 +1485,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_com.apple.iWork.Pages</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1493,7 +1493,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1501,7 +1501,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_photos</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privada.</tran>
+        <tran loc="es-419">“%1$@” es privada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1509,7 +1509,7 @@
       <Position>VETTING_ALERT_TITLE_MAC_reminders</Position>
       <TranslationSet>
         <base loc="en">“%1$@” is private.</base>
-        <tran loc="es">“%1$@” es privado.</tran>
+        <tran loc="es-419">“%1$@” es privado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1517,7 +1517,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_OFFLINE_BODY_IOS_IPHONE</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this isn’t installed on your iPhone, and the App Store couldn’t be opened because you’re offline. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no está instalada en el iPhone y no se ha podido abrir App Store porque no tienes conexión a internet. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">La app para abrir esto no está instalada en tu iPhone y no se puede abrir App Store porque no hay conexión. Si no sabes cuál app usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1525,7 +1525,7 @@
       <Position>DEVICE_OFFLINE_BODY_IOS_keynote</Position>
       <TranslationSet>
         <base loc="en">This presentation can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1533,7 +1533,7 @@
       <Position>ENABLE_IN_ICLOUD_BODY_reminders</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared these reminders. You need to turn on iCloud for Reminders before you can open them.</base>
-        <tran loc="es">%1$@ ha compartido estos recordatorios. Para poder abrirlos, debes activar iCloud para Recordatorios.</tran>
+        <tran loc="es-419">%1$@ compartió estos recordatorios. Para abrirlos, activa iCloud para Recordatorios.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1541,7 +1541,7 @@
       <Position>DEVICE_OFFLINE_BODY_IOS_photos</Position>
       <TranslationSet>
         <base loc="en">These photos can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Estas fotos no se pueden abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir estas fotos por ahora. Revisa tu conexión a Internet e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1549,7 +1549,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_reminders</Position>
       <TranslationSet>
         <base loc="en">These reminders were shared. We’ll send you an email to verify that you’re allowed to open them.</base>
-        <tran loc="es">Estos recordatorios se han compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirlos.</tran>
+        <tran loc="es-419">Estos recordatorios se comparten. Te enviaremos un correo para verificar que tienes autorización para abrirlos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1557,7 +1557,7 @@
       <Position>VETTING_ALERT_BODY_com.apple.iWork.Pages</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this document. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido este documento. Verifica que puedes abrirlo.</tran>
+        <tran loc="es-419">%1$@ compartió este documento. Verifica que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1565,7 +1565,7 @@
       <Position>VETTING_ALERT_BODY_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this document. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido este documento. Verifica que puedes abrirlo.</tran>
+        <tran loc="es-419">%1$@ compartió este documento. Verifica que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1573,7 +1573,7 @@
       <Position>APP_STORE_UPDATE_APP_FAILURE_APP_NOT_AVAILABLE_BODY</Position>
       <TranslationSet>
         <base loc="en">You need a newer version of %1$@ to open this, but the required version couldn’t be found in the App Store. If you’re not sure which version to use, check with the owner.</base>
-        <tran loc="es">Necesitas una versión más reciente de %1$@ para abrir esto, pero la versión necesaria no se encuentra en App Store. Si no sabes qué versión debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">Necesitarás una nueva versión de %1$@ para abrir esto, pero no se encontró en App Store la versión requerida. Si no sabes cuál versión usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1581,7 +1581,7 @@
       <Position>APP_SELECTION_ALERT_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. You will join as %2$@ (%3$@). Choose an app to open this:</base>
-        <tran loc="es">%1$@ ha compartido esto. Accederás como “%2$@” (%3$@). Elige una app para abrirlo:</tran>
+        <tran loc="es-419">%1$@ compartió esto. Ingresarás como %2$@ (%3$@). Elige una app para abrir esto:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1589,7 +1589,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_Generic</Position>
       <TranslationSet>
         <base loc="en">This was shared. We’ll send you an email to verify that you’re allowed to open it.</base>
-        <tran loc="es">Esto se ha compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirlo.</tran>
+        <tran loc="es-419">Se compartió esta nota. Te enviaremos un correo para verificar que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1597,7 +1597,7 @@
       <Position>VETTING_ALERT_BODY_Generic</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esto. Verifica que puedes abrirlo.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Verifica que tienes autorización para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1605,7 +1605,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_OFFLINE_BODY_IOS_IPOD_TOUCH</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this isn’t installed on your iPod touch, and the App Store couldn’t be opened because you’re offline. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no está instalada en el iPod touch y no se ha podido abrir App Store porque no tienes conexión a internet. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">La app para abrir esto no está instalada en tu iPod touch y no se puede abrir App Store porque no hay conexión. Si no sabes cuál app usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1613,7 +1613,7 @@
       <Position>SIGN_IN_TO_ICLOUD_BODY_IOS_notes</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared note.</base>
-        <tran loc="es">Para poder abrir esta nota compartida, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esta nota compartida, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1621,7 @@
       <Position>DEVICE_OFFLINE_TITLE_MAC_share</Position>
       <TranslationSet>
         <base loc="en">This can’t be opened right now.</base>
-        <tran loc="es">Esto no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esto por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1629,7 @@
       <Position>SERVER_ERROR_TITLE_MAC_share</Position>
       <TranslationSet>
         <base loc="en">This can’t be opened right now.</base>
-        <tran loc="es">Esto no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esto por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1637,7 @@
       <Position>UPDATE_APP_BODY_IOS</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. To open it, you’ll need the latest version of “%2$@”.</base>
-        <tran loc="es">%1$@ ha compartido esto. Para abrirlo, necesitas la versión más reciente de %2$@.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Para abrirlo, necesitas la versión más reciente de “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1645,7 @@
       <Position>UPDATE_APP_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this. To open it, you’ll need the latest version of “%2$@”.</base>
-        <tran loc="es">%1$@ ha compartido esto. Para abrirlo, necesitas la versión más reciente de %2$@.</tran>
+        <tran loc="es-419">%1$@ compartió esto. Para abrirlo, necesitas la versión más reciente de “%2$@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1653,7 @@
       <Position>SIGN_IN_TO_ICLOUD_TITLE_IOS</Position>
       <TranslationSet>
         <base loc="en">Sign In to iCloud</base>
-        <tran loc="es">Inicia sesión en iCloud</tran>
+        <tran loc="es-419">Iniciar sesión en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1661,7 +1661,7 @@
       <Position>ENABLE_IN_ICLOUD_BODY_notes</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this note. You need to turn on iCloud for Notes before you can open it.</base>
-        <tran loc="es">%1$@ ha compartido esta nota. Para abrirla es necesario activar iCloud para Notas.</tran>
+        <tran loc="es-419">%1$@ compartió esta nota. Para abrirla, activa iCloud para Notas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1669,7 +1669,7 @@
       <Position>SERVER_ERROR_BODY_IOS_share</Position>
       <TranslationSet>
         <base loc="en">This can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Esto no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esto por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1677,7 +1677,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_UNKNOWN_USER_photos</Position>
       <TranslationSet>
         <base loc="en">These photos were shared. We’ll send you an email to verify that you’re allowed to open them.</base>
-        <tran loc="es">Estas fotos se han compartido. Te enviaremos un mensaje de correo para verificar que puedes abrirlas.</tran>
+        <tran loc="es-419">Estas fotos se comparten. Te enviaremos un correo para verificar que tienes autorización para abrirlas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1685,7 +1685,7 @@
       <Position>VETTING_ALERT_BODY_com.apple.Notes</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared this note. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">%1$@ ha compartido esta nota. Verifica que puedes abrirla.</tran>
+        <tran loc="es-419">%1$@ compartió esta nota. Verifica que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1693,7 +1693,7 @@
       <Position>SEND_EMAIL_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Send Email</base>
-        <tran loc="es">Enviar mensaje de correo</tran>
+        <tran loc="es-419">Enviar correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1701,7 +1701,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_com.apple.iWork.Numbers</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet was shared. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">Esta hoja de cálculo se ha compartido. Verifica que puedes abrirla.</tran>
+        <tran loc="es-419">Se compartió esta hoja de cálculo. Verifica que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1709,7 +1709,7 @@
       <Position>VETTING_ALERT_BODY_reminders</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared these reminders. Please verify that you’re allowed to open them.</base>
-        <tran loc="es">%1$@ ha compartido estos recordatorios. Verifica que puedes abrirlas.</tran>
+        <tran loc="es-419">%1$@ compartió estos recordatorios. Verifica que tienes autorización para abrirlos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1717,7 +1717,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_MAC</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1725,7 +1725,7 @@
       <Position>DEVICE_OFFLINE_TITLE_MAC_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1733,7 +1733,7 @@
       <Position>DEVICE_OFFLINE_TITLE_MAC_pages</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1741,7 +1741,7 @@
       <Position>SERVER_ERROR_TITLE_MAC_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1749,7 +1749,7 @@
       <Position>SERVER_ERROR_TITLE_MAC_pages</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1757,7 +1757,7 @@
       <Position>PREVIEW_BUTTON_IOS_iclouddrive</Position>
       <TranslationSet>
         <base loc="en">Preview Document</base>
-        <tran loc="es">Previsualizar documento</tran>
+        <tran loc="es-419">Previsualizar documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1765,7 +1765,7 @@
       <Position>PREVIEW_BUTTON_IOS_pages</Position>
       <TranslationSet>
         <base loc="en">Preview Document</base>
-        <tran loc="es">Previsualizar documento</tran>
+        <tran loc="es-419">Previsualizar documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1773,7 +1773,7 @@
       <Position>VETTING_ALERT_SINGLE_MATCH_BODY_reminders</Position>
       <TranslationSet>
         <base loc="en">%1$@ shared these reminders. We’ll send you an email to verify that you’re allowed to open them.</base>
-        <tran loc="es">%1$@ ha compartido estos recordatorios. Te enviaremos un mensaje de correo para verificar que puedes abrirlos.</tran>
+        <tran loc="es-419">%1$@ compartió estos recordatorios. Te enviaremos un correo para verificar que tienes autorización para abrirlos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1782,7 +1782,7 @@
       <Position>DISCOVERABILITY_TITLE</Position>
       <TranslationSet>
         <base loc="en">Allow people using “%1$@” to look you up by email?</base>
-        <tran loc="es">¿Quieres permitir que las personas que usen %1$@ te busquen por tu dirección de correo?</tran>
+        <tran loc="es-419">¿Permitir que las personas que usen “%1$@” te busquen por correo electrónico?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1790,7 +1790,7 @@
       <Position>APP_STORE_GET_APP_FAILURE_STORE_NOT_AVAILABLE_BODY_IOS_IPHONE</Position>
       <TranslationSet>
         <base loc="en">The app you need to open this isn’t installed on your iPhone, and the App Store couldn’t be opened because of a problem with the server or network. If you’re not sure which app to use, check with the owner.</base>
-        <tran loc="es">La app que necesitas para abrir esto no está instalada en el iPhone y no se ha podido abrir App Store por un problema con el servidor o la red. Si no sabes qué app debes usar, consulta al propietario.</tran>
+        <tran loc="es-419">La app para abrir esto no está instalada en tu iPhone y no se puede abrir App Store debido a un problema con el servidor o la red. Si no sabes cuál app usar, consulta al propietario.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1798,7 +1798,7 @@
       <Position>APP_STORE_SELECTION_ALERT_UNKNOWN_USER_BODY_MAC</Position>
       <TranslationSet>
         <base loc="en">This was shared. Choose an app to open it, and download it from the App Store.\n\nChoose an app:</base>
-        <tran loc="es">Esto se ha compartido. Elige una app para abrirlo y descárgala de App Store.\n\nElige una app:</tran>
+        <tran loc="es-419">Esto se comparte. Selecciona una app para abrirlo y descárgala desde App Store.\n\nSelecciona una app:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1806,7 +1806,7 @@
       <Position>APP_STORE_SELECTION_ALERT_OPEN_BUTTON_MAC</Position>
       <TranslationSet>
         <base loc="en">Go to App Store</base>
-        <tran loc="es">Ir a App Store</tran>
+        <tran loc="es-419">Ir a App Store</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1814,7 +1814,7 @@
       <Position>GO_TO_APP_STORE</Position>
       <TranslationSet>
         <base loc="en">Go to App Store</base>
-        <tran loc="es">Ir a App Store</tran>
+        <tran loc="es-419">Ir a App Store</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1822,7 +1822,7 @@
       <Position>GENERIC_ERROR_TITLE_MAC_keynote</Position>
       <TranslationSet>
         <base loc="en">Sorry, this presentation can’t be opened right now.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1830,7 +1830,7 @@
       <Position>VETTING_PASSWORD_DIALOG</Position>
       <TranslationSet>
         <base loc="en">Enter your password to add “%@” to your Apple ID and use it for sharing.</base>
-        <tran loc="es">Introduce la contraseña para añadir “%@” a tu ID de Apple y usarla para compartir.</tran>
+        <tran loc="es-419">Ingresa tu contraseña para agregar "%@" a tu Apple ID y úsala para compartir.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1838,7 +1838,7 @@
       <Position>APP_SELECTION_ALERT_OPEN_BUTTON_MAC</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1846,7 +1846,7 @@
       <Position>OPEN</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1854,7 +1854,7 @@
       <Position>VETTING_ALERT_BODY_UNKNOWN_USER_com.apple.Notes</Position>
       <TranslationSet>
         <base loc="en">This note was shared. Please verify that you’re allowed to open it.</base>
-        <tran loc="es">Esta nota se ha compartido. Verifica que puedes abrirla.</tran>
+        <tran loc="es-419">Se compartió esta nota. Verifica que tienes autorización para abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1862,7 +1862,7 @@
       <Position>GENERIC_ERROR_BODY_TRY_AGAIN_IOS_keynote</Position>
       <TranslationSet>
         <base loc="en">Sorry, this presentation can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1870,7 +1870,7 @@
       <Position>SERVER_ERROR_BODY_IOS_photos</Position>
       <TranslationSet>
         <base loc="en">These photos can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Estas fotos no se pueden abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir estas fotos por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
   </File>

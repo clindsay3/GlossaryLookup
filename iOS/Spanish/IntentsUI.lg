@@ -8,7 +8,7 @@
       <Position>Added to Siri with phrase: %@</Position>
       <TranslationSet>
         <base loc="en">Added to Siri with phrase: %@</base>
-        <tran loc="es">Añadido a Siri con la frase: %@</tran>
+        <tran loc="es-419">Se agregó a Siri con la frase: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -23,7 +23,7 @@
       <Position>Add to Siri</Position>
       <TranslationSet>
         <base loc="en">Add to Siri</base>
-        <tran loc="es">Añadir a Siri</tran>
+        <tran loc="es-419">Agregar a Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -31,7 +31,7 @@
       <Position>Added to Siri</Position>
       <TranslationSet>
         <base loc="en">Added to Siri</base>
-        <tran loc="es">Añadido a Siri</tran>
+        <tran loc="es-419">Se agregó a Siri</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -39,7 +39,7 @@
       <Position>“%@”</Position>
       <TranslationSet>
         <base loc="en">“%@”</base>
-        <tran loc="es">“%@”</tran>
+        <tran loc="es-419">“%@”</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>jD5-cF-gbh.text</Position>
       <TranslationSet>
         <base loc="en">Friend Request Card</base>
-        <tran loc="es">Tarjeta de la solicitud de amistad</tran>
+        <tran loc="es-419">Tarjeta de solicitud de amistad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>AuH-eA-5lR.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>AuH-eA-5lR.disabledTitle</Position>
       <TranslationSet>
         <base loc="en">Accepted</base>
-        <tran loc="es">Aceptado</tran>
+        <tran loc="es-419">Aceptada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>0Zf-Ty-N0W.text</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>EQs-gc-Kls.text</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>RIR-eC-9PK.text</Position>
       <TranslationSet>
         <base loc="en">Title</base>
-        <tran loc="es">Título</tran>
+        <tran loc="es-419">Título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>LUc-89-4ip.normalTitle</Position>
       <TranslationSet>
         <base loc="en"> </base>
-        <tran loc="es"> </tran>
+        <tran loc="es-419"> </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>Vf7-IA-vfC.normalTitle</Position>
       <TranslationSet>
         <base loc="en"> </base>
-        <tran loc="es"> </tran>
+        <tran loc="es-419"> </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>pAh-0d-lcJ.normalTitle</Position>
       <TranslationSet>
         <base loc="en"> </base>
-        <tran loc="es"> </tran>
+        <tran loc="es-419"> </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>RDF-GF-FKc.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Action Button</base>
-        <tran loc="es">Botón Acción</tran>
+        <tran loc="es-419">Botón de acción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>yHW-HY-qnr.text</Position>
       <TranslationSet>
         <base loc="en">Description Label</base>
-        <tran loc="es">Etiqueta “Descripción”</tran>
+        <tran loc="es-419">Etiqueta de descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>zLT-ua-lsY.text</Position>
       <TranslationSet>
         <base loc="en">Wants to be your Friend</base>
-        <tran loc="es">Quiere ser tu amigo</tran>
+        <tran loc="es-419">Quiere agregarte como amigo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>u1R-SX-BuG.text</Position>
       <TranslationSet>
         <base loc="en">vs</base>
-        <tran loc="es">contra</tran>
+        <tran loc="es-419">vs.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Bfa-pk-sy8.text</Position>
       <TranslationSet>
         <base loc="en">subtitle</base>
-        <tran loc="es">subtítulo</tran>
+        <tran loc="es-419">subtítulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>H8S-XA-iQz.text</Position>
       <TranslationSet>
         <base loc="en">subtitle</base>
-        <tran loc="es">subtítulo</tran>
+        <tran loc="es-419">subtítulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>kZV-fl-S87.text</Position>
       <TranslationSet>
         <base loc="en">subtitle</base>
-        <tran loc="es">subtítulo</tran>
+        <tran loc="es-419">subtítulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>5Nt-dL-O6C.text</Position>
       <TranslationSet>
         <base loc="en">Game Center</base>
-        <tran loc="es">Game Center</tran>
+        <tran loc="es-419">Game Center</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>bcA-H7-0O1.text</Position>
       <TranslationSet>
         <base loc="en">Game Center</base>
-        <tran loc="es">Game Center</tran>
+        <tran loc="es-419">Game Center</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>HmW-j7-6mI.normalTitle</Position>
       <TranslationSet>
         <base loc="en">Compare</base>
-        <tran loc="es">Comparar</tran>
+        <tran loc="es-419">Comparar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>Acv-1j-ukf.text</Position>
       <TranslationSet>
         <base loc="en">Items</base>
-        <tran loc="es">Ítems</tran>
+        <tran loc="es-419">Elementos</tran>
       </TranslationSet>
     </TextItem>
   </File>

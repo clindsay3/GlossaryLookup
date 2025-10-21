@@ -8,7 +8,7 @@
       <Position>4dKeyM</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Smart Invert?</base>
-        <tran loc="es">¿Cómo quieres configurar “Inversión inteligente”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Invertir (inteligente)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>YZIOjV</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Smart Invert?</base>
-        <tran loc="es">¿Cómo quieres configurar “Inversión inteligente”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Invertir (inteligente)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>jtADOt</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Smart Invert?</base>
-        <tran loc="es">¿Cómo quieres configurar “Inversión inteligente”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Invertir (inteligente)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>fsX8WY</Position>
       <TranslationSet>
         <base loc="en">Do you want Zoom on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar el Zoom?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar Zoom?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>xHlr2O</Position>
       <TranslationSet>
         <base loc="en">Do you want Zoom on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar el Zoom?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar Zoom?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>2ZZqBS</Position>
       <TranslationSet>
         <base loc="en">Voice Control allows you to use your voice to control your iOS device.</base>
-        <tran loc="es">La opción “Control por voz” te permite controlar el dispositivo iOS con la voz.</tran>
+        <tran loc="es-419">"Control por voz" te permite usar tu voz para controlar tu dispositivo iOS.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>rUdmp6</Position>
       <TranslationSet>
         <base loc="en">Reverses the colors of the display</base>
-        <tran loc="es">Invierte los colores de la pantalla</tran>
+        <tran loc="es-419">Invierte los colores de la pantalla</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>uzWyVh-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Audio Descriptions off</base>
-        <tran loc="es">Desactivar Audiodescripción</tran>
+        <tran loc="es-419">Desactivar descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>lYVVJH</Position>
       <TranslationSet>
         <base loc="en">${operation} Increase Contrast ${state}</base>
-        <tran loc="es">${state} “Aumentar contraste”</tran>
+        <tran loc="es-419">${operation}: ${state} aumentar el contraste</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>QRKm08</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Reduce Motion?</base>
-        <tran loc="es">¿Cómo quieres configurar “Reducir movimiento”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Reducir movimiento”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>XnviII</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Reduce Motion?</base>
-        <tran loc="es">¿Cómo quieres configurar “Reducir movimiento”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Reducir movimiento”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>tqXIHY</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Reduce Motion?</base>
-        <tran loc="es">¿Cómo quieres configurar “Reducir movimiento”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Reducir movimiento”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>QZ8Lpp-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Reduce Transparency on</base>
-        <tran loc="es">Activar “Reducir transparencia”</tran>
+        <tran loc="es-419">Activar reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>DJJLlz</Position>
       <TranslationSet>
         <base loc="en">How would you like to set White Point?</base>
-        <tran loc="es">¿Cómo quieres configurar “Punto blanco”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Punto blanco”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>RuaETV</Position>
       <TranslationSet>
         <base loc="en">How would you like to set White Point?</base>
-        <tran loc="es">¿Cómo quieres configurar “Punto blanco”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Punto blanco”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>SlgRH3</Position>
       <TranslationSet>
         <base loc="en">How would you like to set White Point?</base>
-        <tran loc="es">¿Cómo quieres configurar “Punto blanco”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Punto blanco”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>ZyHyHQ-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Switch Control off</base>
-        <tran loc="es">Desactivar “Control por botón”</tran>
+        <tran loc="es-419">Desactivar control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>5fHbZI</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>6cm04m</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>NpDkjR</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>QpvvNT</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>SkppGE</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>dkvBKT</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>e5hJoM</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>hbK5c4</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>ijNnhI</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>is0wmd</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>kFTTVD</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>l2WpZr</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>lgO4SP</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>pqSAOL</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>vi0UjT</Position>
       <TranslationSet>
         <base loc="en">What would you like to do?</base>
-        <tran loc="es">¿Qué quieres hacer?</tran>
+        <tran loc="es-419">¿Qué quieres hacer?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>rlMaMo-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle LED Flash</base>
-        <tran loc="es">Activar/desactivar “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">Activar o desactivar luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>ZyHyHQ-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Switch Control on</base>
-        <tran loc="es">Activar “Control por botón”</tran>
+        <tran loc="es-419">Activar Control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>j2otS3-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Classic Invert on</base>
-        <tran loc="es">Activar “Inversión clásica”</tran>
+        <tran loc="es-419">Activar invertir (clásico)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>VgGstN</Position>
       <TranslationSet>
         <base loc="en">${operation} Zoom ${state}</base>
-        <tran loc="es">${state} Zoom</tran>
+        <tran loc="es-419">${operation}: ${state} zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>qatja8</Position>
       <TranslationSet>
         <base loc="en">Speak Screen allows you to hear the content of the screen.</base>
-        <tran loc="es">La opción “Leer pantalla” te permite oír el contenido en pantalla.</tran>
+        <tran loc="es-419">"Leer pantalla en voz alta" te permite escuchar el contenido de la pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>QZ8Lpp-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Reduce Transparency off</base>
-        <tran loc="es">Desactivar “Reducir transparencia”</tran>
+        <tran loc="es-419">Desactivar reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>VYQaKo-WMlaBI</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘extra extra extra large’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘XXXL’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "extra extra extra grande"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>0WE55q</Position>
       <TranslationSet>
         <base loc="en">${operation} Switch Control </base>
-        <tran loc="es">${operation} “Control por botón” </tran>
+        <tran loc="es-419">${operation} control por botón </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>VYQaKo-P2GlaO</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘extra small’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘extrapequeño’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "extra pequeño"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>8Y6UL2</Position>
       <TranslationSet>
         <base loc="en">VoiceOver speaks items on the screen.</base>
-        <tran loc="es">La opción VoiceOver lee en voz alta los ítems en pantalla.</tran>
+        <tran loc="es-419">VoiceOver dice en voz alta los elementos de la pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>Z6gSLg</Position>
       <TranslationSet>
         <base loc="en">Set LED Flash</base>
-        <tran loc="es">Definir “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">Configurar luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>jyzj5G-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn VoiceOver off</base>
-        <tran loc="es">Desactivar VoiceOver</tran>
+        <tran loc="es-419">Desactivar VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>IRQ1g8-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn White Point on</base>
-        <tran loc="es">Activar “Punto blanco”</tran>
+        <tran loc="es-419">Activar el punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>kiUjjV</Position>
       <TranslationSet>
         <base loc="en">Do you want VoiceOver on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “VoiceOver”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar VoiceOver?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>tGupOD</Position>
       <TranslationSet>
         <base loc="en">Do you want VoiceOver on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “VoiceOver”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar VoiceOver?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>N8Wust</Position>
       <TranslationSet>
         <base loc="en">Do you want AssistiveTouch on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar AssistiveTouch?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar AssistiveTouch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>Y2DUjY</Position>
       <TranslationSet>
         <base loc="en">Do you want AssistiveTouch on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar AssistiveTouch?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar AssistiveTouch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>1ohIjn-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>DYzwSX-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>Fr77Y6-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>GAreBi-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>HwIkWX-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>QGVDSK-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>QbvNft-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>YIIjgy-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>cxTfk2-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>eEm0zb-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>hTjKTa-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>iVC751-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>jdEVh1-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>ugYT29-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>ypV8xE-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Toggle’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activar o desactivar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar y activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>snV4tM-ZxsRU3</Position>
       <TranslationSet>
         <base loc="en">Set text size to default</base>
-        <tran loc="es">Ajustar el tamaño del texto a por omisión</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como predeterminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>gi859e</Position>
       <TranslationSet>
         <base loc="en">AssistiveTouch allows you to use your iPhone if you have difficulty touching the screen or if you require an adaptive accessory.</base>
-        <tran loc="es">AssistiveTouch te ayuda a usar el iPhone si tienes dificultades para tocar la pantalla o necesitas un accesorio de adaptación.</tran>
+        <tran loc="es-419">AssistiveTouch te ayuda a usar el iPhone si tienes dificultades para tocar la pantalla o necesitas un accesorio de adaptación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>1ohIjn-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>DYzwSX-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>Fr77Y6-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>GAreBi-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>HwIkWX-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>QGVDSK-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>QbvNft-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>YIIjgy-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>cxTfk2-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>eEm0zb-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>hTjKTa-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>iVC751-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>jdEVh1-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>ugYT29-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>ypV8xE-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Turn’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘ajustar’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “girar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>oypmr1-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Mono Audio on</base>
-        <tran loc="es">Activar “Audio mono”</tran>
+        <tran loc="es-419">Activar audio mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>Ar2sch</Position>
       <TranslationSet>
         <base loc="en">${operation} Audio Descriptions</base>
-        <tran loc="es">${operation} Audiodescripción</tran>
+        <tran loc="es-419">${operation} descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>Z2g7Nm-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Zoom on</base>
-        <tran loc="es">Activar Zoom</tran>
+        <tran loc="es-419">Activar zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>tSp6G2-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Smart Invert off</base>
-        <tran loc="es">Desactivar “Inversión inteligente”</tran>
+        <tran loc="es-419">Desactivar invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>oypmr1-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Mono Audio off</base>
-        <tran loc="es">Desactivar “Audio mono”</tran>
+        <tran loc="es-419">Desactivar audio mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>lYVVJH-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Increase Contrast on</base>
-        <tran loc="es">Activar “Aumentar contraste”</tran>
+        <tran loc="es-419">Activar “Aumentar contraste”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>VYQaKo-Qkjwnn</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘accessibility extra large’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘accesibilidad extragrande’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "extra grande para accesibilidad"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>LfuZdx</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Voice Control?</base>
-        <tran loc="es">¿Cómo quieres configurar “Control por voz”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Control por voz”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>cJq5I6</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Voice Control?</base>
-        <tran loc="es">¿Cómo quieres configurar “Control por voz”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Control por voz”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>sU3f27</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Voice Control?</base>
-        <tran loc="es">¿Cómo quieres configurar “Control por voz”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Control por voz”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>p1xGeD-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle AssistiveTouch on</base>
-        <tran loc="es">Activar AssistiveTouch</tran>
+        <tran loc="es-419">Activar AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>uzWyVh</Position>
       <TranslationSet>
         <base loc="en">${operation} Audio Descriptions ${state}</base>
-        <tran loc="es">${state} Audiodescripción</tran>
+        <tran loc="es-419">${operation}: ${state} descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>1zmAx3</Position>
       <TranslationSet>
         <base loc="en">How would you like to set VoiceOver?</base>
-        <tran loc="es">¿Cómo quieres configurar “VoiceOver”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar VoiceOver?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>AMmSqR</Position>
       <TranslationSet>
         <base loc="en">How would you like to set VoiceOver?</base>
-        <tran loc="es">¿Cómo quieres configurar “VoiceOver”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar VoiceOver?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>NGv6ab</Position>
       <TranslationSet>
         <base loc="en">How would you like to set VoiceOver?</base>
-        <tran loc="es">¿Cómo quieres configurar “VoiceOver”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar VoiceOver?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>cuw0Pt</Position>
       <TranslationSet>
         <base loc="en">${operation} Smart Invert</base>
-        <tran loc="es">${operation} “Inversión inteligente”</tran>
+        <tran loc="es-419">${operation} invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>p1xGeD-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn AssistiveTouch off</base>
-        <tran loc="es">Desactivar AssistiveTouch</tran>
+        <tran loc="es-419">Desactivar AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>9aphXU-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>EAXhxg-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>L996lx-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>TdPq5Z-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>Unjmo9-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>VFmJCf-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>ZQzasK-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>ZToYab-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>jqselX-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>lMBBkO-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>mb47zV-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>rxC3HY-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>uIw4Va-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>v0Acqm-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>xTSWSF-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘on’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘activada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “activar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>3YHVis</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Classic Invert?</base>
-        <tran loc="es">¿Cómo quieres configurar “Inversión clásica”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Invertir (clásico)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>5FnXOo</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Classic Invert?</base>
-        <tran loc="es">¿Cómo quieres configurar “Inversión clásica”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Invertir (clásico)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +928,7 @@
       <Position>7QRizL</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Classic Invert?</base>
-        <tran loc="es">¿Cómo quieres configurar “Inversión clásica”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Invertir (clásico)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +936,7 @@
       <Position>z4SNXL</Position>
       <TranslationSet>
         <base loc="en">${operation} AssistiveTouch ${state}</base>
-        <tran loc="es">${state} AssistiveTouch</tran>
+        <tran loc="es-419">${operation}: ${state} AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +944,7 @@
       <Position>rlMaMo-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn LED Flash</base>
-        <tran loc="es">Ajustar “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">Activar o desactivar luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +952,7 @@
       <Position>QZ8Lpp-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Reduce Transparency on</base>
-        <tran loc="es">Activar “Reducir transparencia”</tran>
+        <tran loc="es-419">Activar reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +960,7 @@
       <Position>j2otS3-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Classic Invert off</base>
-        <tran loc="es">Desactivar “Inversión clásica”</tran>
+        <tran loc="es-419">Desactivar invertir (clásico)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -968,7 +968,7 @@
       <Position>uzWyVh-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Audio Descriptions off</base>
-        <tran loc="es">Desactivar Audiodescripción</tran>
+        <tran loc="es-419">Desactivar descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -976,7 +976,7 @@
       <Position>HxPsqX</Position>
       <TranslationSet>
         <base loc="en">Do you want Classic Invert on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Inversión clásica”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Invertir (clásico)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -984,7 +984,7 @@
       <Position>sIWTPy</Position>
       <TranslationSet>
         <base loc="en">Do you want Classic Invert on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Inversión clásica”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Invertir (clásico)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -992,7 +992,7 @@
       <Position>Z4T9oq-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Closed Captions+SDH</base>
-        <tran loc="es">Ajustar “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">Activar o desactivar subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1000,7 +1000,7 @@
       <Position>p23Gfk</Position>
       <TranslationSet>
         <base loc="en">Set Closed Captions+SDH</base>
-        <tran loc="es">Definir “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">Configurar subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1008,7 +1008,7 @@
       <Position>LDhCci</Position>
       <TranslationSet>
         <base loc="en">White point reduces the intensity of bright colors.</base>
-        <tran loc="es">La opción “Punto blanco” reduce la intensidad de los colores vivos.</tran>
+        <tran loc="es-419">El punto blanco reduce la intensidad de los colores brillantes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1016,7 +1016,7 @@
       <Position>h5344R-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Voice Control on</base>
-        <tran loc="es">Activar “Control por voz”</tran>
+        <tran loc="es-419">Activar control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1024,7 +1024,7 @@
       <Position>lYVVJH-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Increase Contrast off</base>
-        <tran loc="es">Desactivar “Aumentar contraste”</tran>
+        <tran loc="es-419">Desactivar “Aumentar contraste”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1032,7 +1032,7 @@
       <Position>5OCR4q-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Reduce Motion on</base>
-        <tran loc="es">Activar “Reducir movimiento”</tran>
+        <tran loc="es-419">Activar reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1040,7 +1040,7 @@
       <Position>YLoRyU</Position>
       <TranslationSet>
         <base loc="en">extra large</base>
-        <tran loc="es">extragrande</tran>
+        <tran loc="es-419">extra grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1048,7 +1048,7 @@
       <Position>snV4tM-C1HEKU</Position>
       <TranslationSet>
         <base loc="en">Set text size to extra extra large</base>
-        <tran loc="es">Ajustar el tamaño del texto a XXL</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como extra extra grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1056,7 +1056,7 @@
       <Position>snV4tM-rm6dEW</Position>
       <TranslationSet>
         <base loc="en">Set text size to medium</base>
-        <tran loc="es">Ajustar el tamaño del texto a mediano</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como mediano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1064,7 +1064,7 @@
       <Position>opIV1F-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle VoiceOver</base>
-        <tran loc="es">Activar/desactivar VoiceOver</tran>
+        <tran loc="es-419">Activar o desactivar VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1072,7 +1072,7 @@
       <Position>fgyFOn</Position>
       <TranslationSet>
         <base loc="en">Set Switch Control</base>
-        <tran loc="es">Definir “Control por botón”</tran>
+        <tran loc="es-419">Configurar Control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1080,7 +1080,7 @@
       <Position>dUEsF4</Position>
       <TranslationSet>
         <base loc="en">${operation} Increase Contrast</base>
-        <tran loc="es">${operation} “Aumentar contraste”</tran>
+        <tran loc="es-419">${operation} aumentar el contraste</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1088,7 @@
       <Position>oypmr1-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Mono Audio on</base>
-        <tran loc="es">Activar “Audio mono”</tran>
+        <tran loc="es-419">Activar audio mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1096,7 @@
       <Position>u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn</base>
-        <tran loc="es">Ajustar</tran>
+        <tran loc="es-419">Turno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1104,7 @@
       <Position>UYEyQd-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Classic Invert </base>
-        <tran loc="es">Activar/desactivar “Inversión clásica” </tran>
+        <tran loc="es-419">Activar o desactivar invertir (clásico) </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1112,7 @@
       <Position>7469xU</Position>
       <TranslationSet>
         <base loc="en">Set VoiceOver</base>
-        <tran loc="es">Definir VoiceOver</tran>
+        <tran loc="es-419">Configurar VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1120,7 @@
       <Position>Z2g7Nm-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Zoom on</base>
-        <tran loc="es">Activar Zoom</tran>
+        <tran loc="es-419">Activar Zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1128,7 @@
       <Position>p1xGeD-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle AssistiveTouch off</base>
-        <tran loc="es">Desactivar AssistiveTouch</tran>
+        <tran loc="es-419">Desactivar AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1136,7 @@
       <Position>snV4tM-J1exBO</Position>
       <TranslationSet>
         <base loc="en">Set text size to Unknown</base>
-        <tran loc="es">Ajustar el tamaño del texto a Desconocido</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1144,7 @@
       <Position>mfgmAa-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Zoom</base>
-        <tran loc="es">Activar/desactivar Zoom</tran>
+        <tran loc="es-419">Activar o desactivar Zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1152,7 @@
       <Position>HZqFMG</Position>
       <TranslationSet>
         <base loc="en">Set White Point</base>
-        <tran loc="es">Definir “Punto blanco”</tran>
+        <tran loc="es-419">Configurar punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1160,7 @@
       <Position>dUEsF4-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Increase Contrast</base>
-        <tran loc="es">Activar/desactivar “Aumentar contraste”</tran>
+        <tran loc="es-419">Activar o desactivar aumentar el contraste</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1168,7 @@
       <Position>rm6dEW</Position>
       <TranslationSet>
         <base loc="en">medium</base>
-        <tran loc="es">mediano</tran>
+        <tran loc="es-419">mediano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1176,7 @@
       <Position>VYQaKo-Vlrxn5</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘small’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘pequeño’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “pequeño”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1184,7 @@
       <Position>BZmW2T</Position>
       <TranslationSet>
         <base loc="en">Do you want Switch Control on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Control por botón”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Control por botón”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1192,7 +1192,7 @@
       <Position>Ssz6iO</Position>
       <TranslationSet>
         <base loc="en">Do you want Switch Control on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Control por botón”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Control por botón”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1200,7 @@
       <Position>j2otS3-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Classic Invert off</base>
-        <tran loc="es">Desactivar “Inversión clásica”</tran>
+        <tran loc="es-419">Desactivar invertir (clásico)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1208,7 @@
       <Position>jyzj5G-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle VoiceOver on</base>
-        <tran loc="es">Activar VoiceOver</tran>
+        <tran loc="es-419">Activar VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1216,7 @@
       <Position>8c08ig</Position>
       <TranslationSet>
         <base loc="en">Open Magnifier</base>
-        <tran loc="es">Abrir la lupa</tran>
+        <tran loc="es-419">Abrir la lupa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1224,7 @@
       <Position>HI1NZN</Position>
       <TranslationSet>
         <base loc="en">Open Magnifier</base>
-        <tran loc="es">Abrir la lupa</tran>
+        <tran loc="es-419">Abrir la lupa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1232,7 @@
       <Position>vkBgss</Position>
       <TranslationSet>
         <base loc="en">Open Magnifier</base>
-        <tran loc="es">Abrir la lupa</tran>
+        <tran loc="es-419">Abrir la lupa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1240,7 @@
       <Position>oypmr1</Position>
       <TranslationSet>
         <base loc="en">${operation} Mono Audio ${state}</base>
-        <tran loc="es">${state} “Audio mono”</tran>
+        <tran loc="es-419">${operation}: ${state} Audio mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@
       <Position>jyzj5G-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn VoiceOver on</base>
-        <tran loc="es">Activar VoiceOver</tran>
+        <tran loc="es-419">Activar VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@
       <Position>snV4tM-LmC9s6</Position>
       <TranslationSet>
         <base loc="en">Set text size to accessibility extra extra extra large</base>
-        <tran loc="es">Ajustar el tamaño del texto a accesibilidad XXXL</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como extra extra extra grande para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@
       <Position>snV4tM-WMlaBI</Position>
       <TranslationSet>
         <base loc="en">Set text size to extra extra extra large</base>
-        <tran loc="es">Ajustar el tamaño del texto a XXXL</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como extra extra extra grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@
       <Position>snV4tM-YLoRyU</Position>
       <TranslationSet>
         <base loc="en">Set text size to extra large</base>
-        <tran loc="es">Ajustar el tamaño del texto a extragrande</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como extra grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@
       <Position>85osl3</Position>
       <TranslationSet>
         <base loc="en">${operation} Closed Captions+SDH ${state}</base>
-        <tran loc="es">${state} “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">${operation}: ${state} subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@
       <Position>dgd5A1</Position>
       <TranslationSet>
         <base loc="en">Start Speak Screen </base>
-        <tran loc="es">Iniciar “Leer pantalla” </tran>
+        <tran loc="es-419">Iniciar "leer pantalla en voz alta" </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@
       <Position>QZ8Lpp-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Reduce Transparency off</base>
-        <tran loc="es">Desactivar “Reducir transparencia”</tran>
+        <tran loc="es-419">Desactivar reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@
       <Position>VYQaKo-rm6dEW</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘medium’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘mediano’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "mediano"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@
       <Position>Z9U3fE</Position>
       <TranslationSet>
         <base loc="en">Switch Control highlights items on the screen to control through an adaptive accessory.</base>
-        <tran loc="es">La opción “Control por botón” resalta los ítems en la pantalla para poder controlarlos a través de un accesorio de adaptación.</tran>
+        <tran loc="es-419">"Control por botón" destaca elementos en la pantalla para controlarlos mediante un adaptador.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>ZyHyHQ-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Switch Control off</base>
-        <tran loc="es">Desactivar “Control por botón”</tran>
+        <tran loc="es-419">Desactivar Control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>jyzj5G-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle VoiceOver off</base>
-        <tran loc="es">Desactivar VoiceOver</tran>
+        <tran loc="es-419">Desactivar VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>mSGIzO</Position>
       <TranslationSet>
         <base loc="en">Set Text Size</base>
-        <tran loc="es">Ajustar el tamaño del texto</tran>
+        <tran loc="es-419">Configurar el tamaño de letra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>snV4tM-Qkjwnn</Position>
       <TranslationSet>
         <base loc="en">Set text size to accessibility extra large</base>
-        <tran loc="es">Ajustar el tamaño del texto a accesibilidad extragrande</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como extra grande para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>4HHdqj</Position>
       <TranslationSet>
         <base loc="en">Customize your text size with extended accessibility sizes.</base>
-        <tran loc="es">Personaliza el texto con tamaños más grandes.</tran>
+        <tran loc="es-419">Personaliza el tamaño del texto con tamaños amplios de accesibilidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>uzWyVh-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Audio Descriptions on</base>
-        <tran loc="es">Activar Audiodescripción</tran>
+        <tran loc="es-419">Activar descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>3Fb96s-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@
       <Position>9tjhVg-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@
       <Position>GYWBwo-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1392,7 @@
       <Position>Jg6P8X-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1400,7 @@
       <Position>PZfUdw-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1408,7 @@
       <Position>Q0qCpE-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1416,7 @@
       <Position>ToTKQk-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1424,7 @@
       <Position>fzuTv4-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@
       <Position>uucueI-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@
       <Position>VYQaKo-8uUCnb</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘accessibility medium’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘accesibilidad mediano’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "mediano para accesibilidad"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@
       <Position>rJYelu</Position>
       <TranslationSet>
         <base loc="en">Set AssistiveTouch</base>
-        <tran loc="es">Definir AssistiveTouch</tran>
+        <tran loc="es-419">Configurar AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@
       <Position>UYEyQd-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Classic Invert </base>
-        <tran loc="es">Ajustar “Inversión clásica” </tran>
+        <tran loc="es-419">Activar o desactivar invertir (clásico) </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@
       <Position>47NryX</Position>
       <TranslationSet>
         <base loc="en">Set Classic Invert</base>
-        <tran loc="es">Definir “Inversión clásica”</tran>
+        <tran loc="es-419">Configurar invertir (clásico)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@
       <Position>9e2X1f-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Reduce Transparency</base>
-        <tran loc="es">Ajustar “Reducir transparencia”</tran>
+        <tran loc="es-419">Activar reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@
       <Position>snV4tM-8uUCnb</Position>
       <TranslationSet>
         <base loc="en">Set text size to accessibility medium</base>
-        <tran loc="es">Ajustar el tamaño del texto a accesibilidad mediano</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como mediano para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@
       <Position>W6LPGJ</Position>
       <TranslationSet>
         <base loc="en">Set Reduce Transparency</base>
-        <tran loc="es">Definir “Reducir transparencia”</tran>
+        <tran loc="es-419">Configurar reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@
       <Position>5OCR4q-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Reduce Motion off</base>
-        <tran loc="es">Desactivar “Reducir movimiento”</tran>
+        <tran loc="es-419">Desactivar reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@
       <Position>h5344R-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Voice Control off</base>
-        <tran loc="es">Desactivar “Control por voz”</tran>
+        <tran loc="es-419">Desactivar Control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@
       <Position>8KSdUA-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn AssistiveTouch</base>
-        <tran loc="es">Ajustar AssistiveTouch</tran>
+        <tran loc="es-419">Activar o desactivar AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1520,7 @@
       <Position>opIV1F-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn VoiceOver</base>
-        <tran loc="es">Ajustar VoiceOver</tran>
+        <tran loc="es-419">Activar o desactivar VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@
       <Position>DjoHEM-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle White Point</base>
-        <tran loc="es">Activar/desactivar “Punto blanco”</tran>
+        <tran loc="es-419">Activar o desactivar el punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@
       <Position>OT2maq</Position>
       <TranslationSet>
         <base loc="en">Zoom magnifies the entire screen.</base>
-        <tran loc="es">La opción Zoom amplía toda la pantalla.</tran>
+        <tran loc="es-419">El zoom amplía toda la pantalla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@
       <Position>aWmU4t</Position>
       <TranslationSet>
         <base loc="en">Reverses the colors of the display except for images, media and some apps that use dark color styles.</base>
-        <tran loc="es">Invierte los colores de la pantalla, salvo las imágenes, el contenido multimedia y algunas apps que utilizan estilos de colores oscuros.</tran>
+        <tran loc="es-419">Invierte los colores de la pantalla, excepto las imágenes, el contenido multimedia y algunas apps que usen estilos obscuros.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@
       <Position>zoQSFy</Position>
       <TranslationSet>
         <base loc="en">Do you want Voice Control on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Control por voz”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Control por voz”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@
       <Position>b3doao</Position>
       <TranslationSet>
         <base loc="en">${operation} AssistiveTouch</base>
-        <tran loc="es">${operation} AssistiveTouch</tran>
+        <tran loc="es-419">${operation} AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@
       <Position>k7SZNO</Position>
       <TranslationSet>
         <base loc="en">Do you want Reduce Motion on or off? </base>
-        <tran loc="es">¿Quieres activar o desactivar “Reducir movimiento”? </tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Reducir movimiento”? </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@
       <Position>pqD3s6</Position>
       <TranslationSet>
         <base loc="en">Do you want Reduce Motion on or off? </base>
-        <tran loc="es">¿Quieres activar o desactivar “Reducir movimiento”? </tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Reducir movimiento”? </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@
       <Position>0iPrbO</Position>
       <TranslationSet>
         <base loc="en">Magnifier lets you to use your device's camera to magnify your surroundings.</base>
-        <tran loc="es">La opción “Lupa” te permite usar la cámara de tu dispositivo para ver lo que te rodea ampliado.</tran>
+        <tran loc="es-419">La lupa te permite usar la cámara de tu dispositivo para magnificar tu entorno.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@
       <Position>ZxsRU3</Position>
       <TranslationSet>
         <base loc="en">default</base>
-        <tran loc="es">por omisión</tran>
+        <tran loc="es-419">predeterminado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@
       <Position>IRQ1g8-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle White Point off</base>
-        <tran loc="es">Desactivar “Punto blanco”</tran>
+        <tran loc="es-419">Desactivar el punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1608,7 @@
       <Position>I28rWA-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Switch Control </base>
-        <tran loc="es">Activar/desactivar “Control por botón” </tran>
+        <tran loc="es-419">Activar o desactivar Control por botón </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1616,7 +1616,7 @@
       <Position>ITVRFL</Position>
       <TranslationSet>
         <base loc="en">Start Guided Access </base>
-        <tran loc="es">Iniciar el acceso guiado </tran>
+        <tran loc="es-419">Configurar Acceso Guiado </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1624,7 +1624,7 @@
       <Position>W5Y5z0</Position>
       <TranslationSet>
         <base loc="en">Start Guided Access </base>
-        <tran loc="es">Iniciar el acceso guiado </tran>
+        <tran loc="es-419">Configurar Acceso Guiado </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1632,7 +1632,7 @@
       <Position>D59mdM-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Mono Audio </base>
-        <tran loc="es">Ajustar “Audio mono” </tran>
+        <tran loc="es-419">Activar o desactivar audio mono </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1640,7 +1640,7 @@
       <Position>DjoHEM</Position>
       <TranslationSet>
         <base loc="en">${operation} White Point</base>
-        <tran loc="es">${operation} “Punto blanco”</tran>
+        <tran loc="es-419">${operation} punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1648,7 +1648,7 @@
       <Position>P2GlaO</Position>
       <TranslationSet>
         <base loc="en">extra small</base>
-        <tran loc="es">extrapequeño</tran>
+        <tran loc="es-419">extra pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1656,7 +1656,7 @@
       <Position>IRQ1g8-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle White Point on</base>
-        <tran loc="es">Activar “Punto blanco”</tran>
+        <tran loc="es-419">Activar el punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1664,7 +1664,7 @@
       <Position>vN2Y3N</Position>
       <TranslationSet>
         <base loc="en">Use closed captions for the deaf and hard of hearing.</base>
-        <tran loc="es">Usa subtítulos opcionales para personas con problemas de audición.</tran>
+        <tran loc="es-419">Usar los subtítulos opcionales o auxiliares para la sordera.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1672,7 +1672,7 @@
       <Position>VYQaKo-GPl0Qq</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘accessibility extra extra large’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘accesibilidad XXL’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "extra grande para accesibilidad"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1680,7 +1680,7 @@
       <Position>cw0qRK</Position>
       <TranslationSet>
         <base loc="en">${operation} Voice Control</base>
-        <tran loc="es">${operation} “Control por voz”</tran>
+        <tran loc="es-419">${operation} control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1688,7 +1688,7 @@
       <Position>oAkbwF-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Smart Invert</base>
-        <tran loc="es">Activar/desactivar “Inversión inteligente”</tran>
+        <tran loc="es-419">Activar o desactivar invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1696,7 +1696,7 @@
       <Position>rMC2FH</Position>
       <TranslationSet>
         <base loc="en">accessibility large</base>
-        <tran loc="es">accesibilidad grande</tran>
+        <tran loc="es-419">grande para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1704,7 +1704,7 @@
       <Position>Qkjwnn</Position>
       <TranslationSet>
         <base loc="en">accessibility extra large</base>
-        <tran loc="es">accesibilidad extragrande</tran>
+        <tran loc="es-419">extra grande para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1712,7 +1712,7 @@
       <Position>IRQ1g8</Position>
       <TranslationSet>
         <base loc="en">${operation} White Point ${state}</base>
-        <tran loc="es">${state} “Punto blanco”</tran>
+        <tran loc="es-419">${operation}: ${state} punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1720,7 +1720,7 @@
       <Position>5OCR4q-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Reduce Motion on</base>
-        <tran loc="es">Activar “Reducir movimiento”</tran>
+        <tran loc="es-419">Activar reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1728,7 +1728,7 @@
       <Position>3Fb96s-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1736,7 +1736,7 @@
       <Position>9tjhVg-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1744,7 +1744,7 @@
       <Position>GYWBwo-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1752,7 +1752,7 @@
       <Position>Jg6P8X-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1760,7 +1760,7 @@
       <Position>PZfUdw-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1768,7 +1768,7 @@
       <Position>Q0qCpE-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1776,7 +1776,7 @@
       <Position>ToTKQk-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1784,7 +1784,7 @@
       <Position>fzuTv4-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1792,7 +1792,7 @@
       <Position>uucueI-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">Activar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1800,7 +1800,7 @@
       <Position>FZ7uMz</Position>
       <TranslationSet>
         <base loc="en">Guided Access keeps your iOS device in a single app. Set up Guided Access in Settings</base>
-        <tran loc="es">La opción “Acceso guiado” mantiene tu dispositivo iOS en una sola app. Configura “Acceso guiado” en Ajustes</tran>
+        <tran loc="es-419">Acceso Guiado mantiene tu dispositivo iOS en una sola app y lo puedes administrar en Configuración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1808,7 +1808,7 @@
       <Position>kAH2cN</Position>
       <TranslationSet>
         <base loc="en">${operation} LED Flash ${state}</base>
-        <tran loc="es">${state} “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">${operation}: ${state} luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1816,7 +1816,7 @@
       <Position>5OCR4q</Position>
       <TranslationSet>
         <base loc="en">${operation} Reduce Motion ${state}</base>
-        <tran loc="es">${state} “Reducir movimiento”</tran>
+        <tran loc="es-419">${operation}: ${state} reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1824,7 +1824,7 @@
       <Position>h5344R-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Voice Control on</base>
-        <tran loc="es">Activar “Control por voz”</tran>
+        <tran loc="es-419">Activar Control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1832,7 +1832,7 @@
       <Position>7PSrfn</Position>
       <TranslationSet>
         <base loc="en">For what text size?</base>
-        <tran loc="es">¿Para qué tamaño de texto?</tran>
+        <tran loc="es-419">¿Para qué tamaño de texto?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1840,7 +1840,7 @@
       <Position>X245cS</Position>
       <TranslationSet>
         <base loc="en">For what text size?</base>
-        <tran loc="es">¿Para qué tamaño de texto?</tran>
+        <tran loc="es-419">¿Para qué tamaño de texto?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1848,7 +1848,7 @@
       <Position>dUEsF4-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Increase Contrast</base>
-        <tran loc="es">Ajustar “Aumentar contraste”</tran>
+        <tran loc="es-419">Activar o desactivar aumentar el contraste</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1856,7 +1856,7 @@
       <Position>85osl3-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Closed Captions+SDH on</base>
-        <tran loc="es">Activar “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">Activar subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1864,7 +1864,7 @@
       <Position>ZgTAZK</Position>
       <TranslationSet>
         <base loc="en">Set Zoom</base>
-        <tran loc="es">Definir Zoom</tran>
+        <tran loc="es-419">Configurar zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1872,7 +1872,7 @@
       <Position>Jp22pd</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Reduce Transparency?</base>
-        <tran loc="es">¿Cómo quieres configurar “Reducir transparencia”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Reducir transparencia”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1880,7 +1880,7 @@
       <Position>SXVK65</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Reduce Transparency?</base>
-        <tran loc="es">¿Cómo quieres configurar “Reducir transparencia”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Reducir transparencia”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1888,7 +1888,7 @@
       <Position>apb7iO</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Reduce Transparency?</base>
-        <tran loc="es">¿Cómo quieres configurar “Reducir transparencia”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Reducir transparencia”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1896,7 +1896,7 @@
       <Position>R7bZVA</Position>
       <TranslationSet>
         <base loc="en">How would you like to set AssistiveTouch?</base>
-        <tran loc="es">¿Cómo quieres configurar AssistiveTouch?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar AssistiveTouch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1904,7 +1904,7 @@
       <Position>vtoF07</Position>
       <TranslationSet>
         <base loc="en">How would you like to set AssistiveTouch?</base>
-        <tran loc="es">¿Cómo quieres configurar AssistiveTouch?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar AssistiveTouch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1912,7 +1912,7 @@
       <Position>zpGmVg</Position>
       <TranslationSet>
         <base loc="en">How would you like to set AssistiveTouch?</base>
-        <tran loc="es">¿Cómo quieres configurar AssistiveTouch?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar AssistiveTouch?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1920,7 +1920,7 @@
       <Position>d9woGZ</Position>
       <TranslationSet>
         <base loc="en">Set Mono Audio</base>
-        <tran loc="es">Definir “Audio mono”</tran>
+        <tran loc="es-419">Usar audio mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1928,7 +1928,7 @@
       <Position>snV4tM-P2GlaO</Position>
       <TranslationSet>
         <base loc="en">Set text size to extra small</base>
-        <tran loc="es">Ajustar el tamaño del texto a extrapequeño</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como extra pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1936,7 +1936,7 @@
       <Position>85osl3-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Closed Captions+SDH on</base>
-        <tran loc="es">Activar “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">Activar subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1944,7 +1944,7 @@
       <Position>5AxEm8</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1952,7 +1952,7 @@
       <Position>83Uy9t</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1960,7 +1960,7 @@
       <Position>8S2ZNl</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1968,7 +1968,7 @@
       <Position>9E0Seg</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1976,7 +1976,7 @@
       <Position>9MbkhO</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1984,7 +1984,7 @@
       <Position>ADM0P6</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1992,7 +1992,7 @@
       <Position>BJgV20</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2000,7 +2000,7 @@
       <Position>CJLzkX</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2008,7 +2008,7 @@
       <Position>HmCUu3</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2016,7 +2016,7 @@
       <Position>MSYPZG</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2024,7 +2024,7 @@
       <Position>QIJEeQ</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2032,7 +2032,7 @@
       <Position>QdkExc</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2040,7 +2040,7 @@
       <Position>RdFSwl</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2048,7 +2048,7 @@
       <Position>S7sOnE</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2056,7 +2056,7 @@
       <Position>U97GX5</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2064,7 +2064,7 @@
       <Position>YuXlSs</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2072,7 +2072,7 @@
       <Position>a9UMPY</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2080,7 +2080,7 @@
       <Position>d9Z5sP</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2088,7 +2088,7 @@
       <Position>dkF8SY</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2096,7 +2096,7 @@
       <Position>ilPVMR</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2104,7 +2104,7 @@
       <Position>l4DfPF</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2112,7 +2112,7 @@
       <Position>lj1eeK</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2120,7 +2120,7 @@
       <Position>mOFyF9</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2128,7 +2128,7 @@
       <Position>qhHIUn</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2136,7 +2136,7 @@
       <Position>rc8BGo</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2144,7 +2144,7 @@
       <Position>reryMX</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2152,7 +2152,7 @@
       <Position>tiIgWZ</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2160,7 +2160,7 @@
       <Position>vCw25b</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2168,7 +2168,7 @@
       <Position>xYKMXR</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2176,7 +2176,7 @@
       <Position>zicMwm</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2184,7 +2184,7 @@
       <Position>znGGk2</Position>
       <TranslationSet>
         <base loc="en">State</base>
-        <tran loc="es">Región</tran>
+        <tran loc="es-419">Estado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2192,7 +2192,7 @@
       <Position>BDuT3z</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Audio Descriptions?</base>
-        <tran loc="es">¿Cómo quieres configurar Audiodescripción?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Descripciones de audio”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2200,7 +2200,7 @@
       <Position>axtBfE</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Audio Descriptions?</base>
-        <tran loc="es">¿Cómo quieres configurar Audiodescripción?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Descripciones de audio”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2208,7 +2208,7 @@
       <Position>gLs1FZ</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Audio Descriptions?</base>
-        <tran loc="es">¿Cómo quieres configurar Audiodescripción?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Descripciones de audio”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2216,7 +2216,7 @@
       <Position>VYQaKo-J1exBO</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘Unknown’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘Desconocido’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desconocido”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2224,7 +2224,7 @@
       <Position>C1HEKU</Position>
       <TranslationSet>
         <base loc="en">extra extra large</base>
-        <tran loc="es">XXL</tran>
+        <tran loc="es-419">extra extra grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2232,7 +2232,7 @@
       <Position>FFc1nK</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Closed Captions+SDH?</base>
-        <tran loc="es">¿Cómo quieres configurar “Subtítulos opcionales y SDH”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Subtítulos opcionales y auxiliares para la sordera”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2240,7 +2240,7 @@
       <Position>jyL0hw</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Closed Captions+SDH?</base>
-        <tran loc="es">¿Cómo quieres configurar “Subtítulos opcionales y SDH”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Subtítulos opcionales y auxiliares para la sordera”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2248,7 +2248,7 @@
       <Position>miPvVP</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Closed Captions+SDH?</base>
-        <tran loc="es">¿Cómo quieres configurar “Subtítulos opcionales y SDH”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Subtítulos opcionales y auxiliares para la sordera”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2256,7 +2256,7 @@
       <Position>Ct8EA3-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Reduce Motion</base>
-        <tran loc="es">Activar/desactivar “Reducir movimiento”</tran>
+        <tran loc="es-419">Activar o desactivar reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2264,7 +2264,7 @@
       <Position>3lejSW</Position>
       <TranslationSet>
         <base loc="en">Text Size</base>
-        <tran loc="es">Tamaño del texto</tran>
+        <tran loc="es-419">Tamaño del texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2272,7 +2272,7 @@
       <Position>9uT71k</Position>
       <TranslationSet>
         <base loc="en">Text Size</base>
-        <tran loc="es">Tamaño del texto</tran>
+        <tran loc="es-419">Tamaño del texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2280,7 +2280,7 @@
       <Position>5B7iO8</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Mono Audio?</base>
-        <tran loc="es">¿Cómo quieres configurar “Audio mono”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Audio mono”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2288,7 +2288,7 @@
       <Position>bpJmei</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Mono Audio?</base>
-        <tran loc="es">¿Cómo quieres configurar “Audio mono”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Audio mono”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2296,7 +2296,7 @@
       <Position>pP9c5V</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Mono Audio?</base>
-        <tran loc="es">¿Cómo quieres configurar “Audio mono”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Audio mono”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2304,7 +2304,7 @@
       <Position>Z2g7Nm-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Zoom off</base>
-        <tran loc="es">Desactivar Zoom</tran>
+        <tran loc="es-419">Desactivar zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2312,7 +2312,7 @@
       <Position>85osl3-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Closed Captions+SDH off</base>
-        <tran loc="es">Desactivar “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">Desactivar subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2320,7 +2320,7 @@
       <Position>IRQ1g8-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn White Point off</base>
-        <tran loc="es">Desactivar “Punto blanco”</tran>
+        <tran loc="es-419">Desactivar el punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2328,7 +2328,7 @@
       <Position>6BQhFC</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Zoom?</base>
-        <tran loc="es">¿Cómo quieres configurar el Zoom?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar Zoom?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2336,7 +2336,7 @@
       <Position>GA1B2W</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Zoom?</base>
-        <tran loc="es">¿Cómo quieres configurar el Zoom?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar Zoom?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2344,7 +2344,7 @@
       <Position>eylXal</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Zoom?</base>
-        <tran loc="es">¿Cómo quieres configurar el Zoom?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar Zoom?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2352,7 +2352,7 @@
       <Position>I28rWA-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Switch Control </base>
-        <tran loc="es">Ajustar “Control por botón” </tran>
+        <tran loc="es-419">Activar control por botón </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2360,7 +2360,7 @@
       <Position>yC359s</Position>
       <TranslationSet>
         <base loc="en">Do you want Voice Control  on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Control por voz”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Control por voz”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2368,7 +2368,7 @@
       <Position>kAH2cN-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle LED Flash off</base>
-        <tran loc="es">Desactivar “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">Desactivar luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2376,7 +2376,7 @@
       <Position>VYQaKo-LmC9s6</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘accessibility extra extra extra large’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘accesibilidad XXXL’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "extra extra extra grande para accesibilidad"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2384,7 +2384,7 @@
       <Position>lHyd26</Position>
       <TranslationSet>
         <base loc="en">Reduce the motion of the user interface, including the parallax effect of icons.</base>
-        <tran loc="es">Reduce el movimiento de la interfaz de usuario, incluido el efecto de paralaje de los iconos.</tran>
+        <tran loc="es-419">Reduce el movimiento de la interfaz del usuario, incluyendo el efecto de paralaje de los íconos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2392,7 +2392,7 @@
       <Position>mfgmAa-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Zoom</base>
-        <tran loc="es">Ajustar Zoom</tran>
+        <tran loc="es-419">Activar o desactivar zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2400,7 +2400,7 @@
       <Position>a7y97G</Position>
       <TranslationSet>
         <base loc="en">${operation} Smart Invert ${state}</base>
-        <tran loc="es">${state} “Inversión inteligente”</tran>
+        <tran loc="es-419">${operation}: ${state} invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2408,7 +2408,7 @@
       <Position>oAkbwF-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Smart Invert</base>
-        <tran loc="es">Ajustar “Inversión inteligente”</tran>
+        <tran loc="es-419">Activar o desactivar invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2416,7 +2416,7 @@
       <Position>Ar2sch-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Audio Descriptions</base>
-        <tran loc="es">Ajustar Audiodescripción</tran>
+        <tran loc="es-419">Activar o desactivar descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2424,7 +2424,7 @@
       <Position>1bPUA2</Position>
       <TranslationSet>
         <base loc="en">Set Voice Control</base>
-        <tran loc="es">Definir “Control por voz”</tran>
+        <tran loc="es-419">Configurar Control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2432,7 +2432,7 @@
       <Position>oypmr1-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Mono Audio off</base>
-        <tran loc="es">Desactivar “Audio mono”</tran>
+        <tran loc="es-419">Desactivar audio mono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2440,7 +2440,7 @@
       <Position>h5344R-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Voice Control off</base>
-        <tran loc="es">Desactivar “Control por voz”</tran>
+        <tran loc="es-419">Desactivar control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2448,7 +2448,7 @@
       <Position>GPl0Qq</Position>
       <TranslationSet>
         <base loc="en">accessibility extra extra large</base>
-        <tran loc="es">accesibilidad XXL</tran>
+        <tran loc="es-419">extra grande para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2456,7 +2456,7 @@
       <Position>Rk46BO</Position>
       <TranslationSet>
         <base loc="en">Do you want Audio Descriptions on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar Audiodescripción?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Descripciones de audio”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2464,7 +2464,7 @@
       <Position>qlSbFz</Position>
       <TranslationSet>
         <base loc="en">Do you want Audio Descriptions on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar Audiodescripción?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Descripciones de audio”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2472,7 +2472,7 @@
       <Position>UMIpLZ</Position>
       <TranslationSet>
         <base loc="en">Set text size to ${textSize}</base>
-        <tran loc="es">Definir el tamaño del texto a ${textSize}</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como ${textSize}</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2480,7 +2480,7 @@
       <Position>63IVgy</Position>
       <TranslationSet>
         <base loc="en">Do you want LED Flash on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Avisos LED intermitentes”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Luz de LED”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2488,7 +2488,7 @@
       <Position>pcF9AT</Position>
       <TranslationSet>
         <base loc="en">Do you want LED Flash on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Avisos LED intermitentes”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Luz de LED”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2496,7 +2496,7 @@
       <Position>VYQaKo-C1HEKU</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘extra extra large’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘XXL’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "extra extra grande"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2504,7 +2504,7 @@
       <Position>HDP7um</Position>
       <TranslationSet>
         <base loc="en">${operation} Voice Control ${state}</base>
-        <tran loc="es">${state} “Control por voz”</tran>
+        <tran loc="es-419">${operation}: ${state} control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2512,7 +2512,7 @@
       <Position>LmC9s6</Position>
       <TranslationSet>
         <base loc="en">accessibility extra extra extra large</base>
-        <tran loc="es">accesibilidad XXXL</tran>
+        <tran loc="es-419">extra extra extra grande para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2520,7 +2520,7 @@
       <Position>5OCR4q-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Reduce Motion off</base>
-        <tran loc="es">Desactivar “Reducir movimiento”</tran>
+        <tran loc="es-419">Desactivar reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2528,7 +2528,7 @@
       <Position>OuPOSB</Position>
       <TranslationSet>
         <base loc="en">Do you want Increase Contrast on or off? </base>
-        <tran loc="es">¿Quieres activar o desactivar “Aumentar contraste”? </tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Aumentar contraste”? </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2536,7 +2536,7 @@
       <Position>kwySvq</Position>
       <TranslationSet>
         <base loc="en">Do you want Increase Contrast on or off? </base>
-        <tran loc="es">¿Quieres activar o desactivar “Aumentar contraste”? </tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Aumentar contraste”? </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2544,7 +2544,7 @@
       <Position>P1xfz1</Position>
       <TranslationSet>
         <base loc="en">${operation} VoiceOver</base>
-        <tran loc="es">${operation} VoiceOver</tran>
+        <tran loc="es-419">${operation} VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2552,7 +2552,7 @@
       <Position>kAH2cN-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn LED Flash off</base>
-        <tran loc="es">Desactivar “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">Desactivar luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2560,7 +2560,7 @@
       <Position>tSp6G2-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Smart Invert on</base>
-        <tran loc="es">Activar “Inversión inteligente”</tran>
+        <tran loc="es-419">Activar invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2568,7 +2568,7 @@
       <Position>lYVVJH-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Increase Contrast on</base>
-        <tran loc="es">Activar “Aumentar contraste”</tran>
+        <tran loc="es-419">Activar “Aumentar contraste”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2576,7 +2576,7 @@
       <Position>Z2g7Nm-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Zoom off</base>
-        <tran loc="es">Desactivar Zoom</tran>
+        <tran loc="es-419">Desactivar Zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2584,7 +2584,7 @@
       <Position>Vlrxn5</Position>
       <TranslationSet>
         <base loc="en">small</base>
-        <tran loc="es">pequeño</tran>
+        <tran loc="es-419">pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2592,7 +2592,7 @@
       <Position>J1exBO</Position>
       <TranslationSet>
         <base loc="en">Unknown</base>
-        <tran loc="es">Desconocido</tran>
+        <tran loc="es-419">Desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2600,7 +2600,7 @@
       <Position>y9mi4Y</Position>
       <TranslationSet>
         <base loc="en">Start Guided Access</base>
-        <tran loc="es">Iniciar el acceso guiado</tran>
+        <tran loc="es-419">Iniciar Acceso Guiado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2608,7 +2608,7 @@
       <Position>D59mdM</Position>
       <TranslationSet>
         <base loc="en">${operation} Mono Audio </base>
-        <tran loc="es">${operation} “Audio mono” </tran>
+        <tran loc="es-419">${operation} Audio mono </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2616,7 +2616,7 @@
       <Position>DjoHEM-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn White Point</base>
-        <tran loc="es">Ajustar “Punto blanco”</tran>
+        <tran loc="es-419">Activar o desactivar el punto blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2624,7 +2624,7 @@
       <Position>UYEyQd</Position>
       <TranslationSet>
         <base loc="en">${operation} Classic Invert </base>
-        <tran loc="es">${operation} “Inversión clásica” </tran>
+        <tran loc="es-419">${operation} invertir (clásico) </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2632,7 +2632,7 @@
       <Position>ZyHyHQ-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Switch Control on</base>
-        <tran loc="es">Activar “Control por botón”</tran>
+        <tran loc="es-419">Activar control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2640,7 +2640,7 @@
       <Position>j2otS3-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Classic Invert on</base>
-        <tran loc="es">Activar “Inversión clásica”</tran>
+        <tran loc="es-419">Activar invertir (clásico)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2648,7 +2648,7 @@
       <Position>AD6r6J</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Increase Contrast?</base>
-        <tran loc="es">¿Cómo quieres configurar “Aumentar contraste”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Aumentar contraste”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2656,7 +2656,7 @@
       <Position>XTCmll</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Increase Contrast?</base>
-        <tran loc="es">¿Cómo quieres configurar “Aumentar contraste”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Aumentar contraste”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2664,7 +2664,7 @@
       <Position>lC3vqe</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Increase Contrast?</base>
-        <tran loc="es">¿Cómo quieres configurar “Aumentar contraste”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Aumentar contraste”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2672,7 +2672,7 @@
       <Position>QZ8Lpp</Position>
       <TranslationSet>
         <base loc="en">${operation} Reduce Transparency ${state}</base>
-        <tran loc="es">${state} “Reducir transparencia”</tran>
+        <tran loc="es-419">${operation}: ${state} reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2680,7 +2680,7 @@
       <Position>6sPssG</Position>
       <TranslationSet>
         <base loc="en">Mono Audio enables the left and right speakers to play the same content.</base>
-        <tran loc="es">La opción “Audio mono” permite reproducir el mismo contenido en los altavoces izquierdo y derecho.</tran>
+        <tran loc="es-419">El audio mono reproducirá el mismo contenido en ambas bocinas.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2688,7 +2688,7 @@
       <Position>nFtu0o</Position>
       <TranslationSet>
         <base loc="en">Increase color contrast between app foreground and background colors</base>
-        <tran loc="es">Aumenta el contraste entre los colores del primer plano y los del fondo de la app</tran>
+        <tran loc="es-419">Aumenta el contraste entre los colores del primer y segundo planos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2696,7 +2696,7 @@
       <Position>snV4tM-GPl0Qq</Position>
       <TranslationSet>
         <base loc="en">Set text size to accessibility extra extra large</base>
-        <tran loc="es">Ajustar el tamaño del texto a accesibilidad XXL</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como extra extra grande para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2704,7 +2704,7 @@
       <Position>D59mdM-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Mono Audio </base>
-        <tran loc="es">Activar/desactivar “Audio mono” </tran>
+        <tran loc="es-419">Activar o desactivar audio mono </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2712,7 +2712,7 @@
       <Position>RtgXTY</Position>
       <TranslationSet>
         <base loc="en">on</base>
-        <tran loc="es">Activar</tran>
+        <tran loc="es-419">sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2720,7 +2720,7 @@
       <Position>9e2X1f-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Reduce Transparency</base>
-        <tran loc="es">Activar/desactivar “Reducir transparencia”</tran>
+        <tran loc="es-419">Activar o desactivar reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2728,7 +2728,7 @@
       <Position>8uUCnb</Position>
       <TranslationSet>
         <base loc="en">accessibility medium</base>
-        <tran loc="es">accesibilidad mediano</tran>
+        <tran loc="es-419">mediano para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2736,7 +2736,7 @@
       <Position>Ct8EA3</Position>
       <TranslationSet>
         <base loc="en">${operation} Reduce Motion</base>
-        <tran loc="es">${operation} “Reducir movimiento”</tran>
+        <tran loc="es-419">${operation} reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2744,7 +2744,7 @@
       <Position>m8GMNm</Position>
       <TranslationSet>
         <base loc="en">LED flashes for alerts.</base>
-        <tran loc="es">Avisos LED intermitentes.</tran>
+        <tran loc="es-419">Se alertará mediante luz de LED.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2752,7 +2752,7 @@
       <Position>7RadwD</Position>
       <TranslationSet>
         <base loc="en">Do you want Closed Captions+SDH on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Subtítulos opcionales y SDH”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Subtítulos opcionales y auxiliares para la sordera”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2760,7 +2760,7 @@
       <Position>AsRKSv</Position>
       <TranslationSet>
         <base loc="en">Do you want Closed Captions+SDH on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Subtítulos opcionales y SDH”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Subtítulos opcionales y auxiliares para la sordera”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2768,7 +2768,7 @@
       <Position>DoJeMT</Position>
       <TranslationSet>
         <base loc="en">Do you want White Point on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Punto blanco”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Punto blanco”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2776,7 +2776,7 @@
       <Position>hHXbef</Position>
       <TranslationSet>
         <base loc="en">Do you want White Point on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Punto blanco”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Punto blanco”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2784,7 +2784,7 @@
       <Position>dhAhX6</Position>
       <TranslationSet>
         <base loc="en">Do you want Mono Audio on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Audio mono”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Audio mono”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2792,7 +2792,7 @@
       <Position>oThkqh</Position>
       <TranslationSet>
         <base loc="en">Do you want Mono Audio on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Audio mono”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Audio mono”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2800,7 +2800,7 @@
       <Position>kYajYn</Position>
       <TranslationSet>
         <base loc="en">${operation} Switch Control ${state}</base>
-        <tran loc="es">${state} “Control por botón”</tran>
+        <tran loc="es-419">${operation}: ${state} control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2808,7 +2808,7 @@
       <Position>uzWyVh-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle Audio Descriptions on</base>
-        <tran loc="es">Activar Audiodescripción</tran>
+        <tran loc="es-419">Activar descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2816,7 +2816,7 @@
       <Position>9e2X1f</Position>
       <TranslationSet>
         <base loc="en">${operation} Reduce Transparency</base>
-        <tran loc="es">${operation} “Reducir transparencia”</tran>
+        <tran loc="es-419">${operation} reducir transparencia</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2824,7 +2824,7 @@
       <Position>Ar2sch-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Audio Descriptions</base>
-        <tran loc="es">Activar/desactivar Audiodescripción</tran>
+        <tran loc="es-419">Activar o desactivar descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2832,7 +2832,7 @@
       <Position>9aphXU-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2840,7 +2840,7 @@
       <Position>EAXhxg-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2848,7 +2848,7 @@
       <Position>L996lx-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2856,7 +2856,7 @@
       <Position>TdPq5Z-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2864,7 +2864,7 @@
       <Position>Unjmo9-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2872,7 +2872,7 @@
       <Position>VFmJCf-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2880,7 +2880,7 @@
       <Position>ZQzasK-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2888,7 +2888,7 @@
       <Position>ZToYab-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2896,7 +2896,7 @@
       <Position>jqselX-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2904,7 +2904,7 @@
       <Position>lMBBkO-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2912,7 +2912,7 @@
       <Position>mb47zV-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2920,7 +2920,7 @@
       <Position>rxC3HY-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2928,7 +2928,7 @@
       <Position>uIw4Va-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2936,7 +2936,7 @@
       <Position>v0Acqm-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2944,7 +2944,7 @@
       <Position>xTSWSF-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘off’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘desactivada’?</tran>
+        <tran loc="es-419">Sólo para confirmar, ¿quieres “desactivar”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2952,7 +2952,7 @@
       <Position>Ct8EA3-u5afjR</Position>
       <TranslationSet>
         <base loc="en">Turn Reduce Motion</base>
-        <tran loc="es">Ajustar “Reducir movimiento”</tran>
+        <tran loc="es-419">Activar reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2960,7 +2960,7 @@
       <Position>kAH2cN-TamFnH-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Toggle LED Flash on</base>
-        <tran loc="es">Activar “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">Activar luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2968,7 +2968,7 @@
       <Position>qunxXW</Position>
       <TranslationSet>
         <base loc="en">Set Smart Invert</base>
-        <tran loc="es">Definir “Inversión inteligente”</tran>
+        <tran loc="es-419">Configurar invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2976,7 +2976,7 @@
       <Position>VYQaKo-ZxsRU3</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘default’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘por omisión’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "predeterminada"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2984,7 +2984,7 @@
       <Position>j2otS3</Position>
       <TranslationSet>
         <base loc="en">${operation} Classic Invert ${state}</base>
-        <tran loc="es">${state} “Inversión clásica”</tran>
+        <tran loc="es-419">${operation}: ${state} invertir (clásico)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -2992,7 +2992,7 @@
       <Position>TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle</base>
-        <tran loc="es">Activar o desactivar</tran>
+        <tran loc="es-419">Activar/desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3000,7 +3000,7 @@
       <Position>L9uFtB</Position>
       <TranslationSet>
         <base loc="en">Set Audio Descriptions</base>
-        <tran loc="es">Definir Audiodescripción</tran>
+        <tran loc="es-419">Configurar descripciones de audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3008,7 +3008,7 @@
       <Position>85osl3-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Closed Captions+SDH off</base>
-        <tran loc="es">Desactivar “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">Desactivar subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3016,7 +3016,7 @@
       <Position>VYQaKo-YLoRyU</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘extra large’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘extragrande’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "extra grande"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3024,7 +3024,7 @@
       <Position>73JNxx</Position>
       <TranslationSet>
         <base loc="en">${operation} Zoom</base>
-        <tran loc="es">${operation} Zoom</tran>
+        <tran loc="es-419">${operation} zoom</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3032,7 +3032,7 @@
       <Position>WMlaBI</Position>
       <TranslationSet>
         <base loc="en">extra extra extra large</base>
-        <tran loc="es">XXXL</tran>
+        <tran loc="es-419">extra extra extra grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3040,7 +3040,7 @@
       <Position>kAH2cN-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn LED Flash on</base>
-        <tran loc="es">Activar “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">Activar luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3048,7 +3048,7 @@
       <Position>snV4tM-Vlrxn5</Position>
       <TranslationSet>
         <base loc="en">Set text size to small</base>
-        <tran loc="es">Ajustar el tamaño del texto a pequeño</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como pequeño</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3056,7 +3056,7 @@
       <Position>Ka6zil</Position>
       <TranslationSet>
         <base loc="en">${operation} VoiceOver ${state}</base>
-        <tran loc="es">${state} VoiceOver</tran>
+        <tran loc="es-419">${operation}: ${state} VoiceOver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3064,7 +3064,7 @@
       <Position>tSp6G2-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn Smart Invert on</base>
-        <tran loc="es">Activar “Inversión inteligente”</tran>
+        <tran loc="es-419">Activar invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3072,7 +3072,7 @@
       <Position>42JfW1</Position>
       <TranslationSet>
         <base loc="en">off</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3080,7 +3080,7 @@
       <Position>7hXF6A</Position>
       <TranslationSet>
         <base loc="en">Set Increase Contrast</base>
-        <tran loc="es">Ajustar aumento de contraste</tran>
+        <tran loc="es-419">Configurar aumentar el contraste</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3088,7 +3088,7 @@
       <Position>uLLBcU</Position>
       <TranslationSet>
         <base loc="en">Set Reduce Motion</base>
-        <tran loc="es">Definir “Reducir movimiento”</tran>
+        <tran loc="es-419">Configurar reducir movimiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3096,7 +3096,7 @@
       <Position>Z4T9oq</Position>
       <TranslationSet>
         <base loc="en">${operation} Closed Captions+SDH</base>
-        <tran loc="es">${operation} “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">${state} subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3104,7 +3104,7 @@
       <Position>lYVVJH-TamFnH-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Toggle Increase Contrast off</base>
-        <tran loc="es">Desactivar “Aumentar contraste”</tran>
+        <tran loc="es-419">Desactivar “Aumentar contraste”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3112,7 +3112,7 @@
       <Position>00COlG</Position>
       <TranslationSet>
         <base loc="en">Start Speak Screen</base>
-        <tran loc="es">Iniciar “Leer pantalla”</tran>
+        <tran loc="es-419">Iniciar "leer pantalla en voz alta"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3120,7 +3120,7 @@
       <Position>FoYPjA</Position>
       <TranslationSet>
         <base loc="en">Start Speak Screen</base>
-        <tran loc="es">Iniciar “Leer pantalla”</tran>
+        <tran loc="es-419">Iniciar "leer pantalla en voz alta"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3128,7 +3128,7 @@
       <Position>4WItJ5</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3136,7 +3136,7 @@
       <Position>8PmOxY</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3144,7 +3144,7 @@
       <Position>F4hAvd</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3152,7 +3152,7 @@
       <Position>FUJUQz</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3160,7 +3160,7 @@
       <Position>HNEl1C</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3168,7 +3168,7 @@
       <Position>HllY9e</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3176,7 +3176,7 @@
       <Position>KYPW76</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3184,7 +3184,7 @@
       <Position>Md7GqK</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3192,7 +3192,7 @@
       <Position>ORMsUx</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3200,7 +3200,7 @@
       <Position>TAEXvE</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3208,7 +3208,7 @@
       <Position>YEVNOU</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3216,7 +3216,7 @@
       <Position>cpDrvE</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3224,7 +3224,7 @@
       <Position>g4CBvw</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3232,7 +3232,7 @@
       <Position>nJFeID</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3240,7 +3240,7 @@
       <Position>vRhh37</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3248,7 +3248,7 @@
       <Position>zw48Yg</Position>
       <TranslationSet>
         <base loc="en">Operation</base>
-        <tran loc="es">Operación</tran>
+        <tran loc="es-419">Operación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3256,7 +3256,7 @@
       <Position>8KSdUA-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle AssistiveTouch</base>
-        <tran loc="es">Activar/desactivar AssistiveTouch</tran>
+        <tran loc="es-419">Activar o desactivar AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3264,7 +3264,7 @@
       <Position>p1xGeD-u5afjR-RtgXTY</Position>
       <TranslationSet>
         <base loc="en">Turn AssistiveTouch on</base>
-        <tran loc="es">Activar AssistiveTouch</tran>
+        <tran loc="es-419">Activar AssistiveTouch</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3272,7 +3272,7 @@
       <Position>6mqb9I</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Switch Control?</base>
-        <tran loc="es">¿Cómo quieres configurar “Control por botón”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Control por botón”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3280,7 +3280,7 @@
       <Position>KRr48W</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Switch Control?</base>
-        <tran loc="es">¿Cómo quieres configurar “Control por botón”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Control por botón”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3288,7 +3288,7 @@
       <Position>sSfXxf</Position>
       <TranslationSet>
         <base loc="en">How would you like to set Switch Control?</base>
-        <tran loc="es">¿Cómo quieres configurar “Control por botón”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Control por botón”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3296,7 +3296,7 @@
       <Position>Z4T9oq-TamFnH</Position>
       <TranslationSet>
         <base loc="en">Toggle Closed Captions+SDH</base>
-        <tran loc="es">Activar/desactivar “Subtítulos opcionales y SDH”</tran>
+        <tran loc="es-419">Activar o desactivar subtítulos opcionales y auxiliares para la sordera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3304,7 +3304,7 @@
       <Position>KKvEV5</Position>
       <TranslationSet>
         <base loc="en">How would you like to set LED Flash?</base>
-        <tran loc="es">¿Cómo quieres configurar “Avisos LED intermitentes”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Luz de LED”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3312,7 +3312,7 @@
       <Position>YXs4IG</Position>
       <TranslationSet>
         <base loc="en">How would you like to set LED Flash?</base>
-        <tran loc="es">¿Cómo quieres configurar “Avisos LED intermitentes”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Luz de LED”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3320,7 +3320,7 @@
       <Position>dQ2Pxx</Position>
       <TranslationSet>
         <base loc="en">How would you like to set LED Flash?</base>
-        <tran loc="es">¿Cómo quieres configurar “Avisos LED intermitentes”?</tran>
+        <tran loc="es-419">¿Cómo quieres configurar “Luz de LED”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3328,7 +3328,7 @@
       <Position>piFyB1</Position>
       <TranslationSet>
         <base loc="en">Improve contrast by reducing transparency and blurs on some backgrounds to increase legibility.</base>
-        <tran loc="es">Mejora el contraste reduciendo la transparencia y el desenfoque de algunos fondos para aumentar la legibilidad.</tran>
+        <tran loc="es-419">Aumentar el contraste al reducir la transparencia y el difuminado en el fondo para mejorar la legibilidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3336,7 +3336,7 @@
       <Position>VYQaKo-rMC2FH</Position>
       <TranslationSet>
         <base loc="en">Just to confirm, you wanted ‘accessibility large’?</base>
-        <tran loc="es">Para confirmar, ¿quieres ‘accesibilidad grande’?</tran>
+        <tran loc="es-419">Sólo por confirmar, ¿quieres "grande para accesibilidad"?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3344,7 +3344,7 @@
       <Position>snV4tM-rMC2FH</Position>
       <TranslationSet>
         <base loc="en">Set text size to accessibility large</base>
-        <tran loc="es">Ajustar el tamaño del texto a accesibilidad grande</tran>
+        <tran loc="es-419">Configurar el tamaño del texto como grande para accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3352,7 +3352,7 @@
       <Position>tSp6G2-u5afjR-42JfW1</Position>
       <TranslationSet>
         <base loc="en">Turn Smart Invert off</base>
-        <tran loc="es">Desactivar “Inversión inteligente”</tran>
+        <tran loc="es-419">Desactivar invertir (inteligente)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3360,7 +3360,7 @@
       <Position>N7WPc0</Position>
       <TranslationSet>
         <base loc="en">Do you want Reduce Transparency on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Reducir transparencia”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Reducir transparencia”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3368,7 +3368,7 @@
       <Position>h8f0Gh</Position>
       <TranslationSet>
         <base loc="en">Do you want Reduce Transparency on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Reducir transparencia”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Reducir transparencia”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3376,7 +3376,7 @@
       <Position>rlMaMo</Position>
       <TranslationSet>
         <base loc="en">${operation} LED Flash</base>
-        <tran loc="es">${operation} “Avisos LED intermitentes”</tran>
+        <tran loc="es-419">${operation} luz de LED</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3384,7 +3384,7 @@
       <Position>PB2W2i</Position>
       <TranslationSet>
         <base loc="en">Do you want Smart Invert on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Inversión inteligente”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Invertir (inteligente)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3392,7 +3392,7 @@
       <Position>uinp1p</Position>
       <TranslationSet>
         <base loc="en">Do you want Smart Invert on or off?</base>
-        <tran loc="es">¿Quieres activar o desactivar “Inversión inteligente”?</tran>
+        <tran loc="es-419">¿Quieres activar o desactivar “Invertir (inteligente)”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3400,7 +3400,7 @@
       <Position>DWtPf2</Position>
       <TranslationSet>
         <base loc="en">Automatically play audio descriptions.</base>
-        <tran loc="es">Reproducir automáticamente la audiodescripción.</tran>
+        <tran loc="es-419">Reproducir descripciones de audio automáticamente.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3417,7 +3417,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Hearing</base>
-        <tran loc="es">Audición</tran>
+        <tran loc="es-419">Audición</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -3428,7 +3428,7 @@
       <Position>TITLE_CELL_SUBTITLE_IPOD</Position>
       <TranslationSet>
         <base loc="en">Opt in to one or more of these features to customize your iPod for optimal use.</base>
-        <tran loc="es">Activa una o varias de estas funciones para optimizar el iPod.</tran>
+        <tran loc="es-419">Opta por una o más de estas funciones para personalizar tu iPod y usarlo de manera óptima.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3442,7 +3442,7 @@
       <Position>AX_SETTINGS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Accessibility Settings</base>
-        <tran loc="es">Ajustes de accesibilidad</tran>
+        <tran loc="es-419">Configuración de accesibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3450,7 +3450,7 @@
       <Position>TITLE_CELL_SUBTITLE_IPAD</Position>
       <TranslationSet>
         <base loc="en">Opt in to one or more of these features to customize your iPad for optimal use.</base>
-        <tran loc="es">Activa una o varias de estas funciones para optimizar el iPad.</tran>
+        <tran loc="es-419">Opta por una o más de estas funciones para personalizar tu iPad y usarlo de manera óptima.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3458,7 +3458,7 @@
       <Position>COMMAND_AND_CONTROL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Voice Control</base>
-        <tran loc="es">Control por voz</tran>
+        <tran loc="es-419">Control por voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3466,7 +3466,7 @@
       <Position>SWITCH_CONTROL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Switch Control</base>
-        <tran loc="es">Control por botón</tran>
+        <tran loc="es-419">Control por botón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3474,7 +3474,7 @@
       <Position>TITLE_CELL_SUBTITLE_IPHONE</Position>
       <TranslationSet>
         <base loc="en">Opt in to one or more of these features to customize your iPhone for optimal use.</base>
-        <tran loc="es">Activa una o varias de estas funciones para optimizar el iPhone.</tran>
+        <tran loc="es-419">Opta por una o más de estas funciones para personalizar tu iPhone y usarlo de manera óptima.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -3482,7 +3482,7 @@
       <Position>TITLE_CELL_TITLE</Position>
       <TranslationSet>
         <base loc="en">Accessibility Options</base>
-        <tran loc="es">Opciones de accesibilidad</tran>
+        <tran loc="es-419">Opciones de accesibilidad</tran>
       </TranslationSet>
     </TextItem>
   </File>

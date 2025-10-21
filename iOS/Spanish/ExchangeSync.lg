@@ -8,7 +8,7 @@
       <Position>AUTH_NEEDED_SPECIFIC_ALERT_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Calendar “%@” at %@ requires authentication</base>
-        <tran loc="es">El calendario “%@” de %@ requiere autenticación</tran>
+        <tran loc="es-419">El calendario “%@” de %@ requiere autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -17,7 +17,7 @@
       <Position>WHITE</Position>
       <TranslationSet>
         <base loc="en">White</base>
-        <tran loc="es">Blanco</tran>
+        <tran loc="es-419">Blanco</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -25,7 +25,7 @@
       <Position>MEETING_RESPONSE_DECLINED</Position>
       <TranslationSet>
         <base loc="en">Declined:</base>
-        <tran loc="es">Rechazada:</tran>
+        <tran loc="es-419">Declinada:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -33,7 +33,7 @@
       <Position>HOLIDAY_CALENDAR_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Holiday Calendar</base>
-        <tran loc="es">Calendario de festivos</tran>
+        <tran loc="es-419">Días festivos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -41,7 +41,7 @@
       <Position>SUBSCRIBE</Position>
       <TranslationSet>
         <base loc="en">Subscribe</base>
-        <tran loc="es">Suscribirse</tran>
+        <tran loc="es-419">Suscribirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -49,7 +49,7 @@
       <Position>INVALID_ALERT_MESSAGE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Could not subscribe to the calendar “%@” from “%@”.</base>
-        <tran loc="es">No se ha podido suscribir al calendario “%@” de “%@”.</tran>
+        <tran loc="es-419">No se pudo suscribir al calendario “%@” de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>ELLIPSIS</Position>
       <TranslationSet>
         <base loc="en">…</base>
-        <tran loc="es">…</tran>
+        <tran loc="es-419">…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>SERVER_CERTIFICATE_UNVERIFIED_WITH_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">The certificate from “%@” for account “%@” could not be verified.</base>
-        <tran loc="es">Imposible verificar el certificado de “%@” para la cuenta “%@”.</tran>
+        <tran loc="es-419">Imposible verificar el certificado de “%@” para la cuenta “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>MEETING_RESPONSE_TENTATIVE</Position>
       <TranslationSet>
         <base loc="en">Tentative:</base>
-        <tran loc="es">Por confirmar:</tran>
+        <tran loc="es-419">Por confirmar:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>SERVER_CERTIFICATE_UNVERIFIED</Position>
       <TranslationSet>
         <base loc="en">The certificate from “%@” could not be verified.</base>
-        <tran loc="es">Imposible verificar el certificado de “%@”.</tran>
+        <tran loc="es-419">Imposible verificar el certificado de “%@”.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>SERVER_CERTIFICATE_ACCEPT</Position>
       <TranslationSet>
         <base loc="en">Accept</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Aceptar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>SERVER_CERTIFICATE_UNVERIFIED_AUTODISCOVERY</Position>
       <TranslationSet>
         <base loc="en">While automatically discovering account settings, the certificate from “%@” could not be verified.</base>
-        <tran loc="es">Imposible verificar el certificado de “%@” al obtener los ajustes de la cuenta de forma automática.</tran>
+        <tran loc="es-419">Imposible verificar el certificado de “%@” al obtener la configuración de la cuenta de forma automática.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>WHERE_TO_ALERT_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">The Calendar “%@” has been added</base>
-        <tran loc="es">El calendario “%@” se ha añadido</tran>
+        <tran loc="es-419">El calendario “%@” se agregó</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>INVALID_CLIENT_CERTIFICATE_HEADER</Position>
       <TranslationSet>
         <base loc="en">Cannot Authenticate</base>
-        <tran loc="es">No se puede autenticar</tran>
+        <tran loc="es-419">No se puede autenticar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>DA_POLICY_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Policy Requirement</base>
-        <tran loc="es">Requisito de la política</tran>
+        <tran loc="es-419">Requisito de la política</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>MISSING_PASSWORD_HEADER</Position>
       <TranslationSet>
         <base loc="en">Password Required</base>
-        <tran loc="es">Contraseña obligatoria</tran>
+        <tran loc="es-419">Contraseña obligatoria</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>DONE</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>INVALID_PASSWORD_BODY_CARDDAV</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the CardDAV account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta CardDAV “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de CardDAV de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_LDAP</Position>
       <TranslationSet>
         <base loc="en">An identical LDAP account already exists.</base>
-        <tran loc="es">Ya existe una cuenta LDAP idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta LDAP idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>INVALID_PASSWORD_BODY_SUBCAL</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the Subscribed Calendar “%@”</base>
-        <tran loc="es">Introduce la contraseña del calendario suscrito “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña del calendario suscrito “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>INVALID_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Subscribe</base>
-        <tran loc="es">Imposible suscribirse</tran>
+        <tran loc="es-419">Imposible suscribirse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>SERVER_CERTIFICATE_ERROR_ALERT_HEADER</Position>
       <TranslationSet>
         <base loc="en">Unable to Verify Certificate</base>
-        <tran loc="es">Imposible verificar el certificado</tran>
+        <tran loc="es-419">Imposible verificar el certificado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>INVALID_PASSWORD_BODY_HOTMAIL</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the Outlook account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta Outlook “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de Outlook de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -193,7 +193,7 @@
       <Position>MEETING_RESPONSE_FAILURE_TITLE</Position>
       <TranslationSet>
         <base loc="en">Calendar Invitation</base>
-        <tran loc="es">Invitación del calendario</tran>
+        <tran loc="es-419">Invitación del calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -201,7 +201,7 @@
       <Position>MEETING_RESPONSE_ACCEPTED</Position>
       <TranslationSet>
         <base loc="en">Accepted:</base>
-        <tran loc="es">Aceptada:</tran>
+        <tran loc="es-419">Aceptada:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -209,7 +209,7 @@
       <Position>INVALID_CLIENT_CERTIFICATE_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -217,7 +217,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -225,7 +225,7 @@
       <Position>PASSWORD_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -233,7 +233,7 @@
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_CARDDAV</Position>
       <TranslationSet>
         <base loc="en">An identical CardDAV account already exists.</base>
-        <tran loc="es">Ya existe una cuenta CardDAV idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta CardDAV idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>MEETING_RESPONSE_FAILURE_BODY</Position>
       <TranslationSet>
         <base loc="en">Your response to the invitation cannot be sent.</base>
-        <tran loc="es">No se puede enviar tu respuesta a la invitación.</tran>
+        <tran loc="es-419">No se puede enviar tu respuesta a la invitación.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>PASSWORD_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>SERVER_CERTIFICATE_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>AUTH_NEEDED_ALERT_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Calendar at %@ requires authentication</base>
-        <tran loc="es">El calendario de %@ requiere autenticación</tran>
+        <tran loc="es-419">El calendario de %@ requiere autenticación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -281,7 +281,7 @@
       <Position>BLACK</Position>
       <TranslationSet>
         <base loc="en">Black</base>
-        <tran loc="es">Negro</tran>
+        <tran loc="es-419">Negro</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -289,7 +289,7 @@
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Cannot Create Account</base>
-        <tran loc="es">Imposible crear cuenta</tran>
+        <tran loc="es-419">Imposible crear cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DA_POLICY_COMPLIANCE_WARNING</Position>
       <TranslationSet>
         <base loc="en">The account “%@” cannot receive new data until a new passcode is set.</base>
-        <tran loc="es">La cuenta “%@” no podrá recibir datos hasta que se defina un nuevo código.</tran>
+        <tran loc="es-419">La cuenta “%@” no podrá recibir datos hasta que se defina un nuevo código.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -311,7 +311,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>VALIDATED_ALERT_TITLE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Subscribe to the calendar “%@”?</base>
-        <tran loc="es">¿Quieres suscribirte al calendario “%@”?</tran>
+        <tran loc="es-419">¿Quieres suscribirte al calendario “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -319,7 +319,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>VIEW_EVENTS</Position>
       <TranslationSet>
         <base loc="en">View Events</base>
-        <tran loc="es">Ver eventos</tran>
+        <tran loc="es-419">Ver eventos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -327,7 +327,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EDIT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Edit Settings</base>
-        <tran loc="es">Editar ajustes</tran>
+        <tran loc="es-419">Editar configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -335,7 +335,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_BODY_EXCHANGE</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the Exchange account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta Exchange “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de Exchange de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -343,7 +343,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>AUTOGENERATED_MAIN_TASKS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Tasks</base>
-        <tran loc="es">Tareas</tran>
+        <tran loc="es-419">Tareas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -351,7 +351,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_BODY_LDAP</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the LDAP account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta LDAP “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de LDAP de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -359,7 +359,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_HEADER</Position>
       <TranslationSet>
         <base loc="en">Password Incorrect</base>
-        <tran loc="es">Contraseña incorrecta</tran>
+        <tran loc="es-419">Contraseña incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -367,7 +367,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_BODY_CALDAV</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the CalDAV account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta CalDAV “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de CalDAV de “%@”</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -375,7 +375,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DA_POLICY_FAILURE_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Disable</base>
-        <tran loc="es">Desactivar</tran>
+        <tran loc="es-419">Desactivar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -383,7 +383,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -391,7 +391,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_HOTMAIL</Position>
       <TranslationSet>
         <base loc="en">An identical Outlook account already exists.</base>
-        <tran loc="es">Ya existe una cuenta Outlook idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta de Outlook idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -399,7 +399,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>MEETING_RESPONSE_REPLY</Position>
       <TranslationSet>
         <base loc="en">RE:</base>
-        <tran loc="es">RE:</tran>
+        <tran loc="es-419">RE:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -407,7 +407,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_EXCHANGE</Position>
       <TranslationSet>
         <base loc="en">An identical Exchange account already exists.</base>
-        <tran loc="es">Ya existe una cuenta Exchange idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta Exchange idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -415,7 +415,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>AUTOGENERATED_MAIN_NOTES_TITLE</Position>
       <TranslationSet>
         <base loc="en">Notes</base>
-        <tran loc="es">Notas</tran>
+        <tran loc="es-419">Notas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -423,7 +423,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_USERNAME_PLACEHOLDER</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -431,7 +431,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>AUTOGENERATED_MAIN_EVENT_CALENDAR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Calendar</base>
-        <tran loc="es">Calendario</tran>
+        <tran loc="es-419">Calendario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -439,7 +439,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_SUBCAL</Position>
       <TranslationSet>
         <base loc="en">An identical Subscribed Calendar account already exists.</base>
-        <tran loc="es">Ya existe una cuenta de calendario suscrito idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta de calendario suscrito idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -447,7 +447,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>AUTOGENERATED_MAIN_CONTACTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Contacts</base>
-        <tran loc="es">Contactos</tran>
+        <tran loc="es-419">Contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -455,7 +455,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_UNIQUE_CONSTRAINT_FAILED_BODY_FORMAT_CALDAV</Position>
       <TranslationSet>
         <base loc="en">An identical CalDAV account already exists.</base>
-        <tran loc="es">Ya existe una cuenta CalDAV idéntica.</tran>
+        <tran loc="es-419">Ya existe una cuenta CalDAV idéntica.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -463,7 +463,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_CLIENT_CERTIFICATE_BODY</Position>
       <TranslationSet>
         <base loc="en">Cannot authenticate to the server “%@” because the certificate is not valid.</base>
-        <tran loc="es">El servidor “%@” no puede autenticar este usuario porque el certificado no es válido.</tran>
+        <tran loc="es-419">El servidor “%@” no puede autenticar este usuario porque el certificado no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -471,7 +471,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_PASSWORD_BODY_GENERIC</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the account “%@”</base>
-        <tran loc="es">Introduce la contraseña de la cuenta “%@”</tran>
+        <tran loc="es-419">Ingresa la contraseña de “%@”</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -482,7 +482,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_MESSAGE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Use a custom away message for mail received from addresses external to your organization.</base>
-        <tran loc="es">Personaliza un mensaje de no disponibilidad para los correos recibidos de direcciones externas a tu organización.</tran>
+        <tran loc="es-419">Responder correos de direcciones ajenas a tu organización con un mensaje personalizado de no disponibilidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -490,7 +490,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_EMAIL_ADDRESS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Invalid Email Address</base>
-        <tran loc="es">Dirección de correo no válida</tran>
+        <tran loc="es-419">Dirección de correo no válida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -498,7 +498,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ALLOW_MODERN_AUTHENTICATION_ALERT_BODY</Position>
       <TranslationSet>
         <base loc="en">Your email address will be sent to Microsoft to discover your Exchange account information.</base>
-        <tran loc="es">Se enviará tu dirección de correo a Microsoft para obtener la información de tu cuenta Exchange.</tran>
+        <tran loc="es-419">Se enviará tu dirección de correo electrónico a Microsoft para encontrar la información de tu cuenta de Exchange.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -506,7 +506,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL</Position>
       <TranslationSet>
         <base loc="en">Outlook</base>
-        <tran loc="es">Outlook</tran>
+        <tran loc="es-419">Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -514,7 +514,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NEW_HOTMAIL_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Outlook</base>
-        <tran loc="es">Outlook</tran>
+        <tran loc="es-419">Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -522,7 +522,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_NOT_AUTHENTICATED</Position>
       <TranslationSet>
         <base loc="en">Account not authenticated</base>
-        <tran loc="es">Cuenta no autenticada</tran>
+        <tran loc="es-419">Cuenta sin autenticar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -530,7 +530,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>MAIL_PAST_DAYS_STRING</Position>
       <TranslationSet>
         <base loc="en">Mail Days to Sync</base>
-        <tran loc="es">Días sincronizados</tran>
+        <tran loc="es-419">Días sincronizados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -538,7 +538,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_AUTO_REPLY</Position>
       <TranslationSet>
         <base loc="en">Automatic Reply</base>
-        <tran loc="es">Respuesta automática</tran>
+        <tran loc="es-419">Respuesta automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -546,7 +546,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_STATE</Position>
       <TranslationSet>
         <base loc="en">Automatic Reply</base>
-        <tran loc="es">Respuesta automática</tran>
+        <tran loc="es-419">Respuesta automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -554,7 +554,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>PROFILE_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">These settings are installed by the profile “%@”</base>
-        <tran loc="es">Estos ajustes se instalan con el perfil “%@”</tran>
+        <tran loc="es-419">El perfil “%@” instaló esta configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -562,7 +562,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>2_WEEKS</Position>
       <TranslationSet>
         <base loc="en">2 Weeks</base>
-        <tran loc="es">2 semanas</tran>
+        <tran loc="es-419">2 semanas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -570,7 +570,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SIGN_IN</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -578,7 +578,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_DEFAULT_AUTO_REPLY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">I am away from my mail until %@.</base>
-        <tran loc="es">Estoy fuera. Volveré a ver mi correo el %@.</tran>
+        <tran loc="es-419">No tendré acceso a mi correo sino hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -586,7 +586,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>3_DAYS</Position>
       <TranslationSet>
         <base loc="en">3 Days</base>
-        <tran loc="es">3 días</tran>
+        <tran loc="es-419">3 días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -594,7 +594,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>MANUAL_ACCOUNT_SETUP</Position>
       <TranslationSet>
         <base loc="en">Configure Manually</base>
-        <tran loc="es">Configurar manualmente</tran>
+        <tran loc="es-419">Configurar manualmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -602,7 +602,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXAMPLE_HOST</Position>
       <TranslationSet>
         <base loc="en">server.example.com</base>
-        <tran loc="es">server.example.com</tran>
+        <tran loc="es-419">servidor.example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -610,7 +610,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -618,7 +618,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>1_WEEK</Position>
       <TranslationSet>
         <base loc="en">1 Week</base>
-        <tran loc="es">1 semana</tran>
+        <tran loc="es-419">1 semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -626,7 +626,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_END_DATE</Position>
       <TranslationSet>
         <base loc="en">End Date</base>
-        <tran loc="es">Fecha de fin</tran>
+        <tran loc="es-419">Fecha de fin</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -634,7 +634,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>1_DAY</Position>
       <TranslationSet>
         <base loc="en">1 Day</base>
-        <tran loc="es">1 día</tran>
+        <tran loc="es-419">1 día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -642,7 +642,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXCHANGE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">My Exchange Account</base>
-        <tran loc="es">Mi cuenta Exchange</tran>
+        <tran loc="es-419">Mi cuenta Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -650,7 +650,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DONT_SYNC</Position>
       <TranslationSet>
         <base loc="en">Don’t Sync</base>
-        <tran loc="es">No sincronizar</tran>
+        <tran loc="es-419">No sincronizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -658,7 +658,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -666,7 +666,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NO_LIMIT</Position>
       <TranslationSet>
         <base loc="en">No Limit</base>
-        <tran loc="es">Sin límite</tran>
+        <tran loc="es-419">Sin límite</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -674,7 +674,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXAMPLE_EMAIL</Position>
       <TranslationSet>
         <base loc="en">email@example.com</base>
-        <tran loc="es">correo@example.com</tran>
+        <tran loc="es-419">correo@example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -682,7 +682,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -690,7 +690,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -698,7 +698,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SYNC</Position>
       <TranslationSet>
         <base loc="en">Sync</base>
-        <tran loc="es">Sincronizar</tran>
+        <tran loc="es-419">Sincronizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -706,7 +706,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_SETUP_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -714,7 +714,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -722,7 +722,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DEVICE_WARNING_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Adding an Exchange account will allow the Exchange administrator to remotely manage your device. The administrator can add/remove restrictions and remotely erase your device.</base>
-        <tran loc="es">Al añadir una cuenta Exchange, el administrador podrá gestionar tu dispositivo, añadir y eliminar restricciones, y borrar los datos del dispositivo de forma remota.</tran>
+        <tran loc="es-419">Agregar una cuenta de Exchange permitirá al administrador de Exchange controlar remotamente tu dispositivo. El administrador puede agregar o quitar restricciones y borrar remotamente tu dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -730,7 +730,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account may not be able to send or receive emails. Are you sure you want to continue?</base>
-        <tran loc="es">Es posible que esta cuenta no pueda enviar o recibir correo electrónico. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Es posible que esta cuenta no pueda enviar o recibir correo electrónico. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -738,7 +738,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -746,7 +746,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>REQUIRED_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -754,7 +754,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Outlook Account</base>
-        <tran loc="es">Cuenta Outlook</tran>
+        <tran loc="es-419">Cuenta Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -762,7 +762,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXCHANGE_HOST</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +770,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_CONTACTS_ONLY</Position>
       <TranslationSet>
         <base loc="en">Contacts Only</base>
-        <tran loc="es">Solo contactos</tran>
+        <tran loc="es-419">Sólo contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +778,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXCHANGE</Position>
       <TranslationSet>
         <base loc="en">Exchange</base>
-        <tran loc="es">Exchange</tran>
+        <tran loc="es-419">Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +786,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NEW_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Exchange</base>
-        <tran loc="es">Mercado</tran>
+        <tran loc="es-419">Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +794,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_NO_END_DATE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +802,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EMAIL</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +810,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DEVICE_ID_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Exchange Device ID</base>
-        <tran loc="es">ID del dispositivo para Exchange</tran>
+        <tran loc="es-419">ID de dispositivo Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +818,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_INTERNAL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Away Message</base>
-        <tran loc="es">Mensaje de no disponibilidad</tran>
+        <tran loc="es-419">Mensaje de no disponibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +826,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_LOADING_STATE</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -834,7 +834,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_EMAIL_ADDRESS_BODY</Position>
       <TranslationSet>
         <base loc="en">Enter a valid email address for this account.</base>
-        <tran loc="es">Introduce una dirección de correo válida para esta cuenta.</tran>
+        <tran loc="es-419">Ingresa una dirección de correo válida para esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -842,7 +842,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DIAGS_VISIBLE</Position>
       <TranslationSet>
         <base loc="en">Diagnostics</base>
-        <tran loc="es">Diagnóstico</tran>
+        <tran loc="es-419">Diagnóstico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -850,7 +850,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">External Away Message</base>
-        <tran loc="es">Mensaje de no disponibilidad externo</tran>
+        <tran loc="es-419">Mensaje externo de no disponibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +858,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>1_MONTH</Position>
       <TranslationSet>
         <base loc="en">1 Month</base>
-        <tran loc="es">1 mes</tran>
+        <tran loc="es-419">1 mes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +866,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">My Outlook Account</base>
-        <tran loc="es">Mi cuenta Outlook</tran>
+        <tran loc="es-419">Mi cuenta Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -874,7 +874,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -882,7 +882,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_MESSAGE_AUDIENCE</Position>
       <TranslationSet>
         <base loc="en">Respond to Mail from</base>
-        <tran loc="es">Responder al correo desde</tran>
+        <tran loc="es-419">Responder correo de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -890,7 +890,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -898,7 +898,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_ON_STATE</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -906,7 +906,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXCHANGE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Exchange Account</base>
-        <tran loc="es">Cuenta Exchange</tran>
+        <tran loc="es-419">Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -914,7 +914,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_VERIFICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Unable to verify account information.</base>
-        <tran loc="es">Imposible verificar la información de la cuenta.</tran>
+        <tran loc="es-419">Imposible verificar la información de la cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -922,7 +922,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_EVERYONE</Position>
       <TranslationSet>
         <base loc="en">Everyone</base>
-        <tran loc="es">Todo el mundo</tran>
+        <tran loc="es-419">Todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -930,7 +930,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">External Accounts</base>
-        <tran loc="es">Cuentas externas</tran>
+        <tran loc="es-419">Cuentas externas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -938,7 +938,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -946,7 +946,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OPTIONAL</Position>
       <TranslationSet>
         <base loc="en">Optional</base>
-        <tran loc="es">Opcional</tran>
+        <tran loc="es-419">Opcional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -954,7 +954,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DOMAIN</Position>
       <TranslationSet>
         <base loc="en">Domain</base>
-        <tran loc="es">Dominio</tran>
+        <tran loc="es-419">Dominio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -962,7 +962,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>REENTER_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Re-enter Password</base>
-        <tran loc="es">Repetir contraseña</tran>
+        <tran loc="es-419">Reingresa la contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -970,7 +970,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_DEFAULT_AUTO_REPLY_MESSAGE_WITHOUT_DATE</Position>
       <TranslationSet>
         <base loc="en">I am away from my mail.</base>
-        <tran loc="es">Estoy fuera y no veré mi correo.</tran>
+        <tran loc="es-419">No cuento con acceso a mi correo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -978,7 +978,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_OFF_STATE</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -986,7 +986,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -994,7 +994,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ALLOW_MODERN_AUTHENTICATION</Position>
       <TranslationSet>
         <base loc="en">Sign in to your “%@” Exchange account using Microsoft?</base>
-        <tran loc="es">¿Quieres iniciar sesión en la cuenta Exchange “%@” utilizando Microsoft?</tran>
+        <tran loc="es-419">¿Iniciar sesión en tu cuenta “%@” de Exchange con Microsoft?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1002,7 +1002,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_SETUP_SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1010,7 +1010,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1021,7 +1021,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NEW_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Outlook</base>
-        <tran loc="es">Outlook</tran>
+        <tran loc="es-419">Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1029,7 +1029,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1037,7 +1037,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EMAIL</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1045,7 +1045,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXAMPLE_HOTMAIL_EMAIL</Position>
       <TranslationSet>
         <base loc="en">email@outlook.com</base>
-        <tran loc="es">correo@outlook.com</tran>
+        <tran loc="es-419">email@outlook.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1053,7 +1053,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">My Outlook Account</base>
-        <tran loc="es">Mi cuenta Outlook</tran>
+        <tran loc="es-419">Mi cuenta Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1061,7 +1061,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1069,7 +1069,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1080,7 +1080,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_MESSAGE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Use a custom away message for mail received from addresses external to your organization.</base>
-        <tran loc="es">Personaliza un mensaje de no disponibilidad para los correos recibidos de direcciones externas a tu organización.</tran>
+        <tran loc="es-419">Responder correos de direcciones ajenas a tu organización con un mensaje personalizado de no disponibilidad.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1088,7 +1088,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_EMAIL_ADDRESS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Invalid Email Address</base>
-        <tran loc="es">Dirección de correo inválida</tran>
+        <tran loc="es-419">Dirección de correo inválida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1096,7 +1096,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ALLOW_MODERN_AUTHENTICATION_ALERT_BODY</Position>
       <TranslationSet>
         <base loc="en">Your email address will be sent to Microsoft to discover your Exchange account information.</base>
-        <tran loc="es">Se enviará tu dirección de correo a Microsoft para obtener la información de tu cuenta Exchange.</tran>
+        <tran loc="es-419">Se enviará tu dirección de correo electrónico a Microsoft para encontrar la información de tu cuenta de Exchange.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1104,7 +1104,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL</Position>
       <TranslationSet>
         <base loc="en">Outlook</base>
-        <tran loc="es">Outlook</tran>
+        <tran loc="es-419">Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1112,7 +1112,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NEW_HOTMAIL_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Outlook</base>
-        <tran loc="es">Outlook</tran>
+        <tran loc="es-419">Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1120,7 +1120,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_NOT_AUTHENTICATED</Position>
       <TranslationSet>
         <base loc="en">Account not authenticated</base>
-        <tran loc="es">Cuenta no autenticada</tran>
+        <tran loc="es-419">Cuenta sin autenticar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1128,7 +1128,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>MAIL_PAST_DAYS_STRING</Position>
       <TranslationSet>
         <base loc="en">Mail Days to Sync</base>
-        <tran loc="es">Días de correo sincronizado</tran>
+        <tran loc="es-419">Días de correo sincronizado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1136,7 +1136,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_AUTO_REPLY</Position>
       <TranslationSet>
         <base loc="en">Automatic Reply</base>
-        <tran loc="es">Respuesta automática</tran>
+        <tran loc="es-419">Respuesta automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1144,7 +1144,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_STATE</Position>
       <TranslationSet>
         <base loc="en">Automatic Reply</base>
-        <tran loc="es">Respuesta automática</tran>
+        <tran loc="es-419">Respuesta automática</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1152,7 +1152,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>PROFILE_ACCOUNT_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">These settings are installed by the profile “%@”</base>
-        <tran loc="es">Estos ajustes se instalan con el perfil “%@”</tran>
+        <tran loc="es-419">El perfil “%@” instaló esta configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1160,7 +1160,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>2_WEEKS</Position>
       <TranslationSet>
         <base loc="en">2 Weeks</base>
-        <tran loc="es">2 semanas</tran>
+        <tran loc="es-419">2 semanas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1168,7 +1168,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SIGN_IN</Position>
       <TranslationSet>
         <base loc="en">Sign In</base>
-        <tran loc="es">Iniciar sesión</tran>
+        <tran loc="es-419">Iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1176,7 +1176,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_DEFAULT_AUTO_REPLY_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">I am away from my mail until %@.</base>
-        <tran loc="es">Estoy fuera. Volveré a ver mi correo el %@.</tran>
+        <tran loc="es-419">No tendré acceso a mi correo sino hasta %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1184,7 +1184,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>3_DAYS</Position>
       <TranslationSet>
         <base loc="en">3 Days</base>
-        <tran loc="es">3 días</tran>
+        <tran loc="es-419">3 días</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1192,7 +1192,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>MANUAL_ACCOUNT_SETUP</Position>
       <TranslationSet>
         <base loc="en">Configure Manually</base>
-        <tran loc="es">Configurar manualmente</tran>
+        <tran loc="es-419">Configurar manualmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1200,7 +1200,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXAMPLE_HOST</Position>
       <TranslationSet>
         <base loc="en">server.example.com</base>
-        <tran loc="es">server.example.com</tran>
+        <tran loc="es-419">servidor.example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1208,7 +1208,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Account</base>
-        <tran loc="es">Cuenta</tran>
+        <tran loc="es-419">Cuenta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1216,7 +1216,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>1_WEEK</Position>
       <TranslationSet>
         <base loc="en">1 Week</base>
-        <tran loc="es">1 semana</tran>
+        <tran loc="es-419">1 semana</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1224,7 +1224,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_END_DATE</Position>
       <TranslationSet>
         <base loc="en">End Date</base>
-        <tran loc="es">Fecha de fin</tran>
+        <tran loc="es-419">Fecha de fin</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1232,7 +1232,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>1_DAY</Position>
       <TranslationSet>
         <base loc="en">1 Day</base>
-        <tran loc="es">1 día</tran>
+        <tran loc="es-419">1 día</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1240,7 +1240,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXCHANGE_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">My Exchange Account</base>
-        <tran loc="es">Mi cuenta Exchange</tran>
+        <tran loc="es-419">Mi cuenta Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1248,7 +1248,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DONT_SYNC</Position>
       <TranslationSet>
         <base loc="en">Don’t Sync</base>
-        <tran loc="es">No sincronizar</tran>
+        <tran loc="es-419">No sincronizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1256,7 +1256,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1264,7 +1264,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NO_LIMIT</Position>
       <TranslationSet>
         <base loc="en">No Limit</base>
-        <tran loc="es">Sin límite</tran>
+        <tran loc="es-419">Sin límite</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1272,7 +1272,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXAMPLE_EMAIL</Position>
       <TranslationSet>
         <base loc="en">email@example.com</base>
-        <tran loc="es">correo@example.com</tran>
+        <tran loc="es-419">correo@example.com</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1280,7 +1280,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EDIT</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1288,7 +1288,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1296,7 +1296,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SYNC</Position>
       <TranslationSet>
         <base loc="en">Sync</base>
-        <tran loc="es">Sincronizar</tran>
+        <tran loc="es-419">Sincronizar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1304,7 +1304,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_SETUP_CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DEVICE_WARNING_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Adding an Exchange account will allow the Exchange administrator to remotely manage your device. The administrator can add/remove restrictions and remotely erase your device.</base>
-        <tran loc="es">Al añadir una cuenta Exchange, el administrador podrá gestionar tu dispositivo, añadir y eliminar restricciones, y borrar los datos del dispositivo de forma remota.</tran>
+        <tran loc="es-419">Agregar una cuenta de Exchange permitirá al administrador de Exchange controlar remotamente tu dispositivo. El administrador puede agregar o quitar restricciones y borrar remotamente tu dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>CONFIRM_SAVE_ACCOUNT_ANYWAYS_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">This account may not be able to send or receive emails. Are you sure you want to continue?</base>
-        <tran loc="es">Es posible que esta cuenta no pueda enviar o recibir correo electrónico. ¿Seguro que quieres continuar?</tran>
+        <tran loc="es-419">Es posible que esta cuenta no pueda enviar o recibir correo electrónico. ¿Seguro que quieres continuar?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>REQUIRED</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>REQUIRED_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Required</base>
-        <tran loc="es">Obligatorio</tran>
+        <tran loc="es-419">Obligatorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Outlook Account</base>
-        <tran loc="es">Cuenta Outlook</tran>
+        <tran loc="es-419">Cuenta Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXCHANGE_HOST</Position>
       <TranslationSet>
         <base loc="en">Server</base>
-        <tran loc="es">Servidor</tran>
+        <tran loc="es-419">Servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_CONTACTS_ONLY</Position>
       <TranslationSet>
         <base loc="en">Contacts Only</base>
-        <tran loc="es">Solo contactos</tran>
+        <tran loc="es-419">Sólo contactos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXCHANGE</Position>
       <TranslationSet>
         <base loc="en">Exchange</base>
-        <tran loc="es">Exchange</tran>
+        <tran loc="es-419">Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NEW_ACCOUNT_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Exchange</base>
-        <tran loc="es">Mercado</tran>
+        <tran loc="es-419">Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1392,7 +1392,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_NO_END_DATE</Position>
       <TranslationSet>
         <base loc="en">None</base>
-        <tran loc="es">Ninguno</tran>
+        <tran loc="es-419">Ninguna</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1400,7 +1400,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EMAIL</Position>
       <TranslationSet>
         <base loc="en">Email</base>
-        <tran loc="es">Correo</tran>
+        <tran loc="es-419">Correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1408,7 +1408,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DEVICE_ID_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Exchange Device ID</base>
-        <tran loc="es">ID del dispositivo para Exchange</tran>
+        <tran loc="es-419">ID de dispositivo Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1416,7 +1416,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_INTERNAL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Away Message</base>
-        <tran loc="es">Mensaje de no disponibilidad</tran>
+        <tran loc="es-419">Mensaje de no disponibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1424,7 +1424,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_LOADING_STATE</Position>
       <TranslationSet>
         <base loc="en">Loading…</base>
-        <tran loc="es">Cargando…</tran>
+        <tran loc="es-419">Cargando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1432,7 +1432,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>INVALID_EMAIL_ADDRESS_BODY</Position>
       <TranslationSet>
         <base loc="en">Enter a valid email address for this account.</base>
-        <tran loc="es">Introduce una dirección de correo válida para esta cuenta.</tran>
+        <tran loc="es-419">Ingresa una dirección de correo válida para esta cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1440,7 +1440,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DIAGS_VISIBLE</Position>
       <TranslationSet>
         <base loc="en">Diagnostics</base>
-        <tran loc="es">Diagnóstico</tran>
+        <tran loc="es-419">Diagnóstico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1448,7 +1448,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">External Away Message</base>
-        <tran loc="es">Mensaje de no disponibilidad externo</tran>
+        <tran loc="es-419">Mensaje externo de no disponibilidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1456,7 +1456,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>1_MONTH</Position>
       <TranslationSet>
         <base loc="en">1 Month</base>
-        <tran loc="es">1 mes</tran>
+        <tran loc="es-419">1 mes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1464,7 +1464,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">My Outlook Account</base>
-        <tran loc="es">Mi cuenta Outlook</tran>
+        <tran loc="es-419">Mi cuenta Outlook</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1472,7 +1472,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">Description</base>
-        <tran loc="es">Descripción</tran>
+        <tran loc="es-419">Descripción</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1480,7 +1480,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_MESSAGE_AUDIENCE</Position>
       <TranslationSet>
         <base loc="en">Respond to Mail from</base>
-        <tran loc="es">Responder al correo desde</tran>
+        <tran loc="es-419">Responder correo de</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1488,7 +1488,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1496,7 +1496,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_ON_STATE</Position>
       <TranslationSet>
         <base loc="en">On</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Activado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1504,7 +1504,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>EXCHANGE_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">Exchange Account</base>
-        <tran loc="es">Cuenta Exchange</tran>
+        <tran loc="es-419">Exchange</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1512,7 +1512,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_VERIFICATION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Unable to verify account information.</base>
-        <tran loc="es">Imposible verificar la información de la cuenta.</tran>
+        <tran loc="es-419">Imposible verificar la información de la cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1520,7 +1520,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_EVERYONE</Position>
       <TranslationSet>
         <base loc="en">Everyone</base>
-        <tran loc="es">Todo el mundo</tran>
+        <tran loc="es-419">Todos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1528,7 +1528,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_EXTERNAL_ACCOUNT</Position>
       <TranslationSet>
         <base loc="en">External Accounts</base>
-        <tran loc="es">Cuentas externas</tran>
+        <tran loc="es-419">Cuentas externas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1536,7 +1536,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>USERNAME</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1544,7 +1544,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OPTIONAL</Position>
       <TranslationSet>
         <base loc="en">Optional</base>
-        <tran loc="es">Opcional</tran>
+        <tran loc="es-419">Opcional</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1552,7 +1552,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DOMAIN</Position>
       <TranslationSet>
         <base loc="en">Domain</base>
-        <tran loc="es">Dominio</tran>
+        <tran loc="es-419">Dominio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1560,7 +1560,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>REENTER_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Re-enter Password</base>
-        <tran loc="es">Repetir contraseña</tran>
+        <tran loc="es-419">Reingresa la contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1568,7 +1568,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_DEFAULT_AUTO_REPLY_MESSAGE_WITHOUT_DATE</Position>
       <TranslationSet>
         <base loc="en">I am away from my mail.</base>
-        <tran loc="es">Estoy fuera y no veré mi correo.</tran>
+        <tran loc="es-419">No cuento con acceso a mi correo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1576,7 +1576,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>OOF_OFF_STATE</Position>
       <TranslationSet>
         <base loc="en">Off</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">Desactivado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1584,7 +1584,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NEXT</Position>
       <TranslationSet>
         <base loc="en">Next</base>
-        <tran loc="es">Siguiente</tran>
+        <tran loc="es-419">Siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1592,7 +1592,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ALLOW_MODERN_AUTHENTICATION</Position>
       <TranslationSet>
         <base loc="en">Sign in to your “%@” Exchange account using Microsoft?</base>
-        <tran loc="es">¿Quieres iniciar sesión en la cuenta Exchange “%@” utilizando Microsoft?</tran>
+        <tran loc="es-419">¿Iniciar sesión en tu cuenta “%@” de Exchange con Microsoft?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1600,7 +1600,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ACCOUNT_SETUP_SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1608,7 +1608,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SAVE</Position>
       <TranslationSet>
         <base loc="en">Save</base>
-        <tran loc="es">Guardar</tran>
+        <tran loc="es-419">Guardar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1619,7 +1619,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>MAILBOX_BEHAVIORS</Position>
       <TranslationSet>
         <base loc="en">Mailbox Behaviors</base>
-        <tran loc="es">Buzones</tran>
+        <tran loc="es-419">Buzones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1627,7 +1627,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ADVANCED_SETTINGS</Position>
       <TranslationSet>
         <base loc="en">Advanced Settings</base>
-        <tran loc="es">Ajustes avanzados</tran>
+        <tran loc="es-419">Configuración avanzada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1635,7 +1635,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>PROFILE_EXPLANATION_FORMAT</Position>
       <TranslationSet>
         <base loc="en">These settings are installed by the profile “%@”</base>
-        <tran loc="es">Estos ajustes se instalan con el perfil “%@”</tran>
+        <tran loc="es-419">El perfil “%@” instaló esta configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1643,7 +1643,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ENABLE_SMIME_ENCRYPTION</Position>
       <TranslationSet>
         <base loc="en">Encrypt by Default</base>
-        <tran loc="es">Encriptar por omisión</tran>
+        <tran loc="es-419">Encriptado predeterminadamente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1651,7 +1651,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SMIME</Position>
       <TranslationSet>
         <base loc="en">S/MIME</base>
-        <tran loc="es">S⁠/⁠MIME</tran>
+        <tran loc="es-419">S/MIME</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1659,7 +1659,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>USE_SSL</Position>
       <TranslationSet>
         <base loc="en">Use SSL</base>
-        <tran loc="es">Usar SSL</tran>
+        <tran loc="es-419">Usar SSL</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1667,7 +1667,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SMIME_CERT_GROUP_NAME</Position>
       <TranslationSet>
         <base loc="en">Certificates</base>
-        <tran loc="es">Certificados</tran>
+        <tran loc="es-419">Certificados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1675,7 +1675,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>MOVE_DISCARDED_MESSAGES_INTO</Position>
       <TranslationSet>
         <base loc="en">Move Discarded Messages Into:</base>
-        <tran loc="es">Trasladar mensajes descartados a:</tran>
+        <tran loc="es-419">Mover mensajes descartados a:</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1683,7 +1683,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>NO</Position>
       <TranslationSet>
         <base loc="en">No</base>
-        <tran loc="es">No</tran>
+        <tran loc="es-419">No</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1691,7 +1691,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ENABLE_SMIME_SIGNING</Position>
       <TranslationSet>
         <base loc="en">Sign</base>
-        <tran loc="es">Firma</tran>
+        <tran loc="es-419">Firmar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1699,7 +1699,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ARCHIVE_MAILBOX</Position>
       <TranslationSet>
         <base loc="en">Archive Mailbox</base>
-        <tran loc="es">Buzón Archivado</tran>
+        <tran loc="es-419">Buzón Archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1707,7 +1707,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DELETED_MAILBOX</Position>
       <TranslationSet>
         <base loc="en">Deleted Mailbox</base>
-        <tran loc="es">Buzón Papelera</tran>
+        <tran loc="es-419">Basurero</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1715,7 +1715,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>YES</Position>
       <TranslationSet>
         <base loc="en">Yes</base>
-        <tran loc="es">Sí</tran>
+        <tran loc="es-419">Sí</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1723,7 +1723,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DRAFTS_TITLE</Position>
       <TranslationSet>
         <base loc="en">Drafts</base>
-        <tran loc="es">Borradores</tran>
+        <tran loc="es-419">Borradores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1731,7 +1731,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>DRAFTS_USE_SERVER</Position>
       <TranslationSet>
         <base loc="en">Store Drafts on Server</base>
-        <tran loc="es">Guardar borradores en el servidor</tran>
+        <tran loc="es-419">Guardar borradores en el servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1739,7 +1739,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>ADVANCED</Position>
       <TranslationSet>
         <base loc="en">Advanced</base>
-        <tran loc="es">Avanzado</tran>
+        <tran loc="es-419">Avanzado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1750,7 +1750,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SIGN_IN_ERROR_MESSAGE_NO_CONNECTION</Position>
       <TranslationSet>
         <base loc="en">There is no connection to the Internet.</base>
-        <tran loc="es">No hay conexión a internet.</tran>
+        <tran loc="es-419">No hay conexión a Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1758,7 +1758,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL_EMAIL_MISMATCH_TITLE</Position>
       <TranslationSet>
         <base loc="en">Email Address Mismatch</base>
-        <tran loc="es">Error en la dirección de correo electrónico</tran>
+        <tran loc="es-419">Error en la dirección de correo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1766,7 +1766,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL_EMAIL_MISMATCH_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1774,7 +1774,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SIGN_IN_ERROR_OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1782,7 +1782,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>HOTMAIL_EMAIL_MISMATCH_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The email address you entered does not match your account.</base>
-        <tran loc="es">La dirección de correo electrónico introducida no coincide con la de la cuenta.</tran>
+        <tran loc="es-419">La dirección de correo que ingresaste no coincide con tu cuenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1790,7 +1790,7 @@ The account “MyExchangeAccount” can't do something until you set a passcode
       <Position>SIGN_IN_ERROR_TITLE</Position>
       <TranslationSet>
         <base loc="en">Error Signing In</base>
-        <tran loc="es">Error al iniciar sesión</tran>
+        <tran loc="es-419">Error al iniciar sesión</tran>
       </TranslationSet>
     </TextItem>
   </File>

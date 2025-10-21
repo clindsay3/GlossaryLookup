@@ -8,7 +8,7 @@
       <Position>Delete_Highlight_Delete</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">eliminación</tran>
+        <tran loc="es-419">eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Highlight_Style_Purple</Position>
       <TranslationSet>
         <base loc="en">Purple</base>
-        <tran loc="es">Morado</tran>
+        <tran loc="es-419">Morado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Selection_Menu_Delete_Highlight</Position>
       <TranslationSet>
         <base loc="en">Remove Highlight</base>
-        <tran loc="es">Eliminar resaltado</tran>
+        <tran loc="es-419">Quitar lo resaltado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Highlight_Style_Pink</Position>
       <TranslationSet>
         <base loc="en">Pink</base>
-        <tran loc="es">Rosa</tran>
+        <tran loc="es-419">Rosa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Selection_Menu_More</Position>
       <TranslationSet>
         <base loc="en">More</base>
-        <tran loc="es">Más</tran>
+        <tran loc="es-419">Más</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Delete_Highlight_Message</Position>
       <TranslationSet>
         <base loc="en">The associated note will also be deleted.</base>
-        <tran loc="es">La nota asociada también se eliminará.</tran>
+        <tran loc="es-419">La nota asociada también se eliminará.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -57,7 +57,7 @@
       <Position>Delete_Highlight_Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -65,7 +65,7 @@
       <Position>Highlight_Style_Green</Position>
       <TranslationSet>
         <base loc="en">Green</base>
-        <tran loc="es">Verde</tran>
+        <tran loc="es-419">Verde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -73,7 +73,7 @@
       <Position>Delete_Highlight_Title</Position>
       <TranslationSet>
         <base loc="en">Delete Highlight</base>
-        <tran loc="es">Eliminar resaltado</tran>
+        <tran loc="es-419">Eliminar resaltado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -81,7 +81,7 @@
       <Position>Highlight_Style_Yellow</Position>
       <TranslationSet>
         <base loc="en">Yellow</base>
-        <tran loc="es">Amarillo</tran>
+        <tran loc="es-419">Amarillo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -89,7 +89,7 @@
       <Position>Selection_Menu_Share</Position>
       <TranslationSet>
         <base loc="en">Share</base>
-        <tran loc="es">Compartir</tran>
+        <tran loc="es-419">Compartir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -97,7 +97,7 @@
       <Position>Highlight_Style_Underline</Position>
       <TranslationSet>
         <base loc="en">Underline</base>
-        <tran loc="es">Subrayado</tran>
+        <tran loc="es-419">Subrayar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -105,7 +105,7 @@
       <Position>Selection_Menu_Annotate</Position>
       <TranslationSet>
         <base loc="en">Note</base>
-        <tran loc="es">Nota</tran>
+        <tran loc="es-419">Nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -113,7 +113,7 @@
       <Position>Highlight_Style_Blue</Position>
       <TranslationSet>
         <base loc="en">Blue</base>
-        <tran loc="es">Azul</tran>
+        <tran loc="es-419">Azul</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>Selection_Menu_Colors</Position>
       <TranslationSet>
         <base loc="en">Colors…</base>
-        <tran loc="es">Colores…</tran>
+        <tran loc="es-419">Colores…</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -132,7 +132,7 @@
       <Position>Draw a Signature</Position>
       <TranslationSet>
         <base loc="en">Draw a Signature</base>
-        <tran loc="es">Dibujar firma</tran>
+        <tran loc="es-419">Firma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -140,7 +140,7 @@
       <Position>Signature</Position>
       <TranslationSet>
         <base loc="en">Signature</base>
-        <tran loc="es">Firma</tran>
+        <tran loc="es-419">Firma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -148,7 +148,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -156,7 +156,7 @@
       <Position>Undo All</Position>
       <TranslationSet>
         <base loc="en">Undo All</base>
-        <tran loc="es">Deshacer todo</tran>
+        <tran loc="es-419">Deshacer todo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -164,7 +164,7 @@
       <Position>Undo</Position>
       <TranslationSet>
         <base loc="en">Undo</base>
-        <tran loc="es">Deshacer</tran>
+        <tran loc="es-419">Deshacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -172,7 +172,7 @@
       <Position>Magnifier</Position>
       <TranslationSet>
         <base loc="en">Magnifier</base>
-        <tran loc="es">Lupa</tran>
+        <tran loc="es-419">Lupa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -180,7 +180,7 @@
       <Position>Text</Position>
       <TranslationSet>
         <base loc="en">Text</base>
-        <tran loc="es">Texto</tran>
+        <tran loc="es-419">Texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -189,7 +189,7 @@
       <Position>Add or Remove Signature</Position>
       <TranslationSet>
         <base loc="en">Add or Remove Signature</base>
-        <tran loc="es">Añadir o eliminar firma</tran>
+        <tran loc="es-419">Agregar o eliminar firma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -197,7 +197,7 @@
       <Position>Opacity</Position>
       <TranslationSet>
         <base loc="en">Opacity</base>
-        <tran loc="es">Opacidad</tran>
+        <tran loc="es-419">Opacidad</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -205,7 +205,7 @@
       <Position>Placeholder</Position>
       <TranslationSet>
         <base loc="en">Placeholder</base>
-        <tran loc="es">Marcador de posición</tran>
+        <tran loc="es-419">Marcador de posición</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -216,7 +216,7 @@
       <Position>Text Style</Position>
       <TranslationSet>
         <base loc="en">Text Style</base>
-        <tran loc="es">Estilo de texto</tran>
+        <tran loc="es-419">Estilo de texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Rotate Right</Position>
       <TranslationSet>
         <base loc="en">Rotate Right</base>
-        <tran loc="es">Girar a la derecha</tran>
+        <tran loc="es-419">Girar a la derecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>Sketch</Position>
       <TranslationSet>
         <base loc="en">Sketch</base>
-        <tran loc="es">Dibujo</tran>
+        <tran loc="es-419">Bosquejo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -241,7 +241,7 @@
       <Position>Border Color</Position>
       <TranslationSet>
         <base loc="en">Border Color</base>
-        <tran loc="es">color del borde</tran>
+        <tran loc="es-419">Color del borde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -249,7 +249,7 @@
       <Position>Crop</Position>
       <TranslationSet>
         <base loc="en">Crop</base>
-        <tran loc="es">Recortar</tran>
+        <tran loc="es-419">Recorte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -257,7 +257,7 @@
       <Position>Highlight Selection</Position>
       <TranslationSet>
         <base loc="en">Highlight Selection</base>
-        <tran loc="es">Resaltar selección</tran>
+        <tran loc="es-419">Resaltar selección</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -265,7 +265,7 @@
       <Position>Shape Style</Position>
       <TranslationSet>
         <base loc="en">Shape Style</base>
-        <tran loc="es">Estilo de figura</tran>
+        <tran loc="es-419">Estilo de figura</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -273,7 +273,7 @@
       <Position>Sign</Position>
       <TranslationSet>
         <base loc="en">Sign</base>
-        <tran loc="es">Firmar</tran>
+        <tran loc="es-419">Firmar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -282,7 +282,7 @@
       <Position>Draw</Position>
       <TranslationSet>
         <base loc="en">Draw</base>
-        <tran loc="es">Dibujo</tran>
+        <tran loc="es-419">Dibujar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -290,7 +290,7 @@
       <Position>Shapes</Position>
       <TranslationSet>
         <base loc="en">Shapes</base>
-        <tran loc="es">Figuras</tran>
+        <tran loc="es-419">Figuras</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -298,7 +298,7 @@
       <Position>Text</Position>
       <TranslationSet>
         <base loc="en">Text</base>
-        <tran loc="es">Texto</tran>
+        <tran loc="es-419">Texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -306,7 +306,7 @@
       <Position>Note</Position>
       <TranslationSet>
         <base loc="en">Note</base>
-        <tran loc="es">Nota</tran>
+        <tran loc="es-419">Nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -314,7 +314,7 @@
       <Position>Rotate Left</Position>
       <TranslationSet>
         <base loc="en">Rotate Left</base>
-        <tran loc="es">Girar a la izquierda</tran>
+        <tran loc="es-419">Girar a la izquierda</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -322,7 +322,7 @@
       <Position>Fill Color</Position>
       <TranslationSet>
         <base loc="en">Fill Color</base>
-        <tran loc="es">color de relleno</tran>
+        <tran loc="es-419">Color de relleno</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -333,7 +333,7 @@
       <Position>Triangle Shape</Position>
       <TranslationSet>
         <base loc="en">Triangle Shape</base>
-        <tran loc="es">forma de triángulo</tran>
+        <tran loc="es-419">Triangle Shape</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -341,7 +341,7 @@
       <Position>Border Dashed</Position>
       <TranslationSet>
         <base loc="en">Border Dashed</base>
-        <tran loc="es">borde discontinuo</tran>
+        <tran loc="es-419">borde discontinuo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -349,7 +349,7 @@
       <Position>Dashed</Position>
       <TranslationSet>
         <base loc="en">Dashed</base>
-        <tran loc="es">con guion</tran>
+        <tran loc="es-419">con guión</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -357,7 +357,7 @@
       <Position>Line Style</Position>
       <TranslationSet>
         <base loc="en">Line Style</base>
-        <tran loc="es">estilo de línea</tran>
+        <tran loc="es-419">estilo de línea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -365,7 +365,7 @@
       <Position>LOUPE_ANNOTATION_NAME</Position>
       <TranslationSet>
         <base loc="en">Loupe</base>
-        <tran loc="es">Lupa</tran>
+        <tran loc="es-419">Lupa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -373,7 +373,7 @@
       <Position>Popup</Position>
       <TranslationSet>
         <base loc="en">Popup</base>
-        <tran loc="es">Menú desplegable</tran>
+        <tran loc="es-419">Menú emergente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -381,7 +381,7 @@
       <Position>Oval</Position>
       <TranslationSet>
         <base loc="en">Oval</base>
-        <tran loc="es">Óvalo</tran>
+        <tran loc="es-419">Óvalo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -389,7 +389,7 @@
       <Position>Range</Position>
       <TranslationSet>
         <base loc="en">Range</base>
-        <tran loc="es">intervalo</tran>
+        <tran loc="es-419">Intervalo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -397,7 +397,7 @@
       <Position>DummyString</Position>
       <TranslationSet>
         <base loc="en">DummyString</base>
-        <tran loc="es">DummyString</tran>
+        <tran loc="es-419">DummyString</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -405,7 +405,7 @@
       <Position>Mid Point</Position>
       <TranslationSet>
         <base loc="en">Mid Point</base>
-        <tran loc="es">punto intermedio</tran>
+        <tran loc="es-419">punto intermedio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -413,7 +413,7 @@
       <Position>Heart</Position>
       <TranslationSet>
         <base loc="en">Heart</base>
-        <tran loc="es">Corazón</tran>
+        <tran loc="es-419">Corazón</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -421,7 +421,7 @@
       <Position>Text Box</Position>
       <TranslationSet>
         <base loc="en">Text Box</base>
-        <tran loc="es">Cuadro de texto</tran>
+        <tran loc="es-419">Cuadro de texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -429,7 +429,7 @@
       <Position>Hidden</Position>
       <TranslationSet>
         <base loc="en">Hidden</base>
-        <tran loc="es">Oculto</tran>
+        <tran loc="es-419">Oculto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -437,7 +437,7 @@
       <Position>Style</Position>
       <TranslationSet>
         <base loc="en">Style</base>
-        <tran loc="es">estilo</tran>
+        <tran loc="es-419">Estilo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -445,7 +445,7 @@
       <Position>Thought Bubble</Position>
       <TranslationSet>
         <base loc="en">Thought Bubble</base>
-        <tran loc="es">Bocadillo de pensamiento</tran>
+        <tran loc="es-419">Globo de pensamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -453,7 +453,7 @@
       <Position>Start Point</Position>
       <TranslationSet>
         <base loc="en">Start Point</base>
-        <tran loc="es">punto inicial</tran>
+        <tran loc="es-419">punto inicial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -461,7 +461,7 @@
       <Position>End Point</Position>
       <TranslationSet>
         <base loc="en">End Point</base>
-        <tran loc="es">punto final</tran>
+        <tran loc="es-419">punto final</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -469,7 +469,7 @@
       <Position>IMAGE_ANNOTATION_NAME</Position>
       <TranslationSet>
         <base loc="en">Image</base>
-        <tran loc="es">Imagen</tran>
+        <tran loc="es-419">Imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -477,7 +477,7 @@
       <Position>Image</Position>
       <TranslationSet>
         <base loc="en">Image</base>
-        <tran loc="es">imagen</tran>
+        <tran loc="es-419">imagen</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -485,7 +485,7 @@
       <Position>Line Width</Position>
       <TranslationSet>
         <base loc="en">Line Width</base>
-        <tran loc="es">ancho de línea</tran>
+        <tran loc="es-419">ancho de línea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -493,7 +493,7 @@
       <Position>Border Color</Position>
       <TranslationSet>
         <base loc="en">Border Color</base>
-        <tran loc="es">color del borde</tran>
+        <tran loc="es-419">color del borde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -501,7 +501,7 @@
       <Position>Crop</Position>
       <TranslationSet>
         <base loc="en">Crop</base>
-        <tran loc="es">Recorte</tran>
+        <tran loc="es-419">Recorte</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -509,7 +509,7 @@
       <Position>Bounds</Position>
       <TranslationSet>
         <base loc="en">Bounds</base>
-        <tran loc="es">límites</tran>
+        <tran loc="es-419">límites</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -517,7 +517,7 @@
       <Position>Color</Position>
       <TranslationSet>
         <base loc="en">Color</base>
-        <tran loc="es">color</tran>
+        <tran loc="es-419">color</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -525,7 +525,7 @@
       <Position>Arrow</Position>
       <TranslationSet>
         <base loc="en">Arrow</base>
-        <tran loc="es">Flecha</tran>
+        <tran loc="es-419">Flecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -533,7 +533,7 @@
       <Position>Mask Color</Position>
       <TranslationSet>
         <base loc="en">Mask Color</base>
-        <tran loc="es">color de máscara</tran>
+        <tran loc="es-419">color de máscara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -541,7 +541,7 @@
       <Position>Signature</Position>
       <TranslationSet>
         <base loc="en">Signature</base>
-        <tran loc="es">Firma</tran>
+        <tran loc="es-419">Firma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -549,7 +549,7 @@
       <Position>Number of Sides</Position>
       <TranslationSet>
         <base loc="en">Number of Sides</base>
-        <tran loc="es">número de lados</tran>
+        <tran loc="es-419">número de lados</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -557,7 +557,7 @@
       <Position>Polygon</Position>
       <TranslationSet>
         <base loc="en">Polygon</base>
-        <tran loc="es">Polígono</tran>
+        <tran loc="es-419">Polígono</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -565,7 +565,7 @@
       <Position>Brush Style</Position>
       <TranslationSet>
         <base loc="en">Brush Style</base>
-        <tran loc="es">estilo de pincel</tran>
+        <tran loc="es-419">estilo de pincel</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -573,7 +573,7 @@
       <Position>Thought Bubble Tail</Position>
       <TranslationSet>
         <base loc="en">Thought Bubble Tail</base>
-        <tran loc="es">vértice de bocadillo de pensamiento</tran>
+        <tran loc="es-419">Cola de globo de pensamiento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -581,7 +581,7 @@
       <Position>Remove %@</Position>
       <TranslationSet>
         <base loc="en">Remove %@</base>
-        <tran loc="es">Eliminar %@</tran>
+        <tran loc="es-419">Eliminar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -589,7 +589,7 @@
       <Position>Signature Shape</Position>
       <TranslationSet>
         <base loc="en">Signature Shape</base>
-        <tran loc="es">forma de la firma</tran>
+        <tran loc="es-419">forma de la firma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -597,7 +597,7 @@
       <Position>Arrow Shape</Position>
       <TranslationSet>
         <base loc="en">Arrow Shape</base>
-        <tran loc="es">forma de flecha</tran>
+        <tran loc="es-419">forma de flecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -605,7 +605,7 @@
       <Position>Star</Position>
       <TranslationSet>
         <base loc="en">Star</base>
-        <tran loc="es">Estrella</tran>
+        <tran loc="es-419">Estrella</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -613,7 +613,7 @@
       <Position>Add Annotations</Position>
       <TranslationSet>
         <base loc="en">Add Annotations</base>
-        <tran loc="es">adición de anotaciones</tran>
+        <tran loc="es-419">agregar anotaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -621,7 +621,7 @@
       <Position>Arrow Line</Position>
       <TranslationSet>
         <base loc="en">Arrow Line</base>
-        <tran loc="es">Línea de flecha</tran>
+        <tran loc="es-419">Línea de flecha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -629,7 +629,7 @@
       <Position>Line</Position>
       <TranslationSet>
         <base loc="en">Line</base>
-        <tran loc="es">Línea</tran>
+        <tran loc="es-419">Línea</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -637,7 +637,7 @@
       <Position>Remove Annotations</Position>
       <TranslationSet>
         <base loc="en">Remove Annotations</base>
-        <tran loc="es">eliminación de anotaciones</tran>
+        <tran loc="es-419">eliminar anotaciones</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -645,7 +645,7 @@
       <Position>Change of Annotation Properties</Position>
       <TranslationSet>
         <base loc="en">Change of Annotation Properties</base>
-        <tran loc="es">Cambio de las propiedades de anotación</tran>
+        <tran loc="es-419">Cambio de las propiedades de anotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -653,7 +653,7 @@
       <Position>Magnification</Position>
       <TranslationSet>
         <base loc="en">Magnification</base>
-        <tran loc="es">ampliación</tran>
+        <tran loc="es-419">ampliación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -661,7 +661,7 @@
       <Position>Doodle Shape</Position>
       <TranslationSet>
         <base loc="en">Doodle Shape</base>
-        <tran loc="es">forma de garabato</tran>
+        <tran loc="es-419">forma de garabato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -669,7 +669,7 @@
       <Position>Shadow</Position>
       <TranslationSet>
         <base loc="en">Shadow</base>
-        <tran loc="es">sombra</tran>
+        <tran loc="es-419">sombra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -677,7 +677,7 @@
       <Position>Signature Color</Position>
       <TranslationSet>
         <base loc="en">Signature Color</base>
-        <tran loc="es">color de la firma</tran>
+        <tran loc="es-419">color de la firma</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -685,7 +685,7 @@
       <Position>Mask Bounds</Position>
       <TranslationSet>
         <base loc="en">Mask Bounds</base>
-        <tran loc="es">límites de máscara</tran>
+        <tran loc="es-419">límites de máscara</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -693,7 +693,7 @@
       <Position>Speech Bubble</Position>
       <TranslationSet>
         <base loc="en">Speech Bubble</base>
-        <tran loc="es">Bocadillo de habla</tran>
+        <tran loc="es-419">Burbuja de diálogo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -701,7 +701,7 @@
       <Position>Highlight</Position>
       <TranslationSet>
         <base loc="en">Highlight</base>
-        <tran loc="es">Resaltar</tran>
+        <tran loc="es-419">Resaltar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -709,7 +709,7 @@
       <Position>Doodle</Position>
       <TranslationSet>
         <base loc="en">Doodle</base>
-        <tran loc="es">Garabato</tran>
+        <tran loc="es-419">Garabato</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -717,7 +717,7 @@
       <Position>Triangle</Position>
       <TranslationSet>
         <base loc="en">Triangle</base>
-        <tran loc="es">Triángulo</tran>
+        <tran loc="es-419">Triangle</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -725,7 +725,7 @@
       <Position>Border Line Width</Position>
       <TranslationSet>
         <base loc="en">Border Line Width</base>
-        <tran loc="es">anchura de la línea del borde</tran>
+        <tran loc="es-419">ancho de la línea del borde</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -733,7 +733,7 @@
       <Position>Cropped Area</Position>
       <TranslationSet>
         <base loc="en">Cropped Area</base>
-        <tran loc="es">área recortada</tran>
+        <tran loc="es-419">área recortada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -741,7 +741,7 @@
       <Position>DEFAULT_TEXT_CONTENTS</Position>
       <TranslationSet>
         <base loc="en">Text</base>
-        <tran loc="es">texto</tran>
+        <tran loc="es-419">texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -749,7 +749,7 @@
       <Position>Text</Position>
       <TranslationSet>
         <base loc="en">Text</base>
-        <tran loc="es">texto</tran>
+        <tran loc="es-419">texto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -758,7 +758,7 @@
       <Position>Add %@</Position>
       <TranslationSet>
         <base loc="en">Add %@</base>
-        <tran loc="es">Añadir %@</tran>
+        <tran loc="es-419">Agregar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -767,7 +767,7 @@
       <Position>Note</Position>
       <TranslationSet>
         <base loc="en">Note</base>
-        <tran loc="es">Nota</tran>
+        <tran loc="es-419">Nota</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -775,7 +775,7 @@
       <Position>Speech Bubble Tail</Position>
       <TranslationSet>
         <base loc="en">Speech Bubble Tail</base>
-        <tran loc="es">vértice del bocadillo de habla</tran>
+        <tran loc="es-419">cola del globo de diálogo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -783,7 +783,7 @@
       <Position>Corner Radius</Position>
       <TranslationSet>
         <base loc="en">Corner Radius</base>
-        <tran loc="es">radio de la esquina</tran>
+        <tran loc="es-419">radio de la esquina</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -791,7 +791,7 @@
       <Position>Change of %@</Position>
       <TranslationSet>
         <base loc="en">Change of %@</base>
-        <tran loc="es">cambio de %@</tran>
+        <tran loc="es-419">Cambio de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>Drawing</Position>
       <TranslationSet>
         <base loc="en">Drawing</base>
-        <tran loc="es">Dibujo</tran>
+        <tran loc="es-419">Dibujo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>Number of Points</Position>
       <TranslationSet>
         <base loc="en">Number of Points</base>
-        <tran loc="es">número de puntos</tran>
+        <tran loc="es-419">número de puntos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>Contents</Position>
       <TranslationSet>
         <base loc="en">Contents</base>
-        <tran loc="es">contenido</tran>
+        <tran loc="es-419">Contenidos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>Fill Color</Position>
       <TranslationSet>
         <base loc="en">Fill Color</base>
-        <tran loc="es">color de relleno</tran>
+        <tran loc="es-419">color de relleno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>Rectangle</Position>
       <TranslationSet>
         <base loc="en">Rectangle</base>
-        <tran loc="es">Rectángulo</tran>
+        <tran loc="es-419">Rectángulo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>Rotation</Position>
       <TranslationSet>
         <base loc="en">Rotation</base>
-        <tran loc="es">rotación</tran>
+        <tran loc="es-419">Rotación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>Inner Radius</Position>
       <TranslationSet>
         <base loc="en">Inner Radius</base>
-        <tran loc="es">radio interno</tran>
+        <tran loc="es-419">radio interno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>Mask</Position>
       <TranslationSet>
         <base loc="en">Mask</base>
-        <tran loc="es">Máscara</tran>
+        <tran loc="es-419">Máscara</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -867,7 +867,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Markup</base>
-        <tran loc="es">Marcación</tran>
+        <tran loc="es-419">Marcado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -875,7 +875,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Markup</base>
-        <tran loc="es">Marcación</tran>
+        <tran loc="es-419">Marcado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -887,7 +887,7 @@
       <Position>Signatures for AnnotationKit (shared by e.g. Markup &amp; Preview). Deletion will remove all signatures from the list.</Position>
       <TranslationSet>
         <base loc="en">Signatures for AnnotationKit (shared by e.g. Markup &amp; Preview). Deletion will remove all signatures from the list.</base>
-        <tran loc="es">Firmas de AnnotationKit (compartidas, por ejemplo, por Marcación y Vista Previa). Si las borras, se eliminarán todas las firmas de la lista.</tran>
+        <tran loc="es-419">Firmas de AnnotationKit (compartidas, por Marcado y Previsualización, por ejemplo). Si las borras, se eliminarán todas las firmas de la lista.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -899,7 +899,7 @@
       <Position>Delete</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">eliminación</tran>
+        <tran loc="es-419">Eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -907,7 +907,7 @@
       <Position>Your last %@ handwritten messages appear here in Recents.</Position>
       <TranslationSet>
         <base loc="en">Your last %@ handwritten messages appear here in Recents.</base>
-        <tran loc="es">Tus últimos %@ mensajes escritos a mano aparecen aquí, en Recientes.</tran>
+        <tran loc="es-419">Aquí en Recientes se mostrarán tus últimos %@ mensajes manuscritos.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -919,7 +919,7 @@
       <Position>Clear</Position>
       <TranslationSet>
         <base loc="en">Clear</base>
-        <tran loc="es">Borrar</tran>
+        <tran loc="es-419">Borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -927,7 +927,7 @@
       <Position>Sign your name using your finger.</Position>
       <TranslationSet>
         <base loc="en">Sign your name using your finger.</base>
-        <tran loc="es">Haz tu firma con el dedo.</tran>
+        <tran loc="es-419">Firma usando tu dedo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -935,7 +935,7 @@
       <Position>New Signature</Position>
       <TranslationSet>
         <base loc="en">New Signature</base>
-        <tran loc="es">Nueva firma</tran>
+        <tran loc="es-419">Nueva firma</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -946,7 +946,7 @@
       <Position>Delete</Position>
       <TranslationSet>
         <base loc="en">Delete</base>
-        <tran loc="es">eliminación</tran>
+        <tran loc="es-419">eliminar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -954,7 +954,7 @@
       <Position>Duplicate</Position>
       <TranslationSet>
         <base loc="en">Duplicate</base>
-        <tran loc="es">Duplicar</tran>
+        <tran loc="es-419">Duplicado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -962,7 +962,7 @@
       <Position>STRING_DUPLICATE_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Duplicate</base>
-        <tran loc="es">Duplicar</tran>
+        <tran loc="es-419">Duplicar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -970,7 +970,7 @@
       <Position>STRING_EDIT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Edit</base>
-        <tran loc="es">Editar</tran>
+        <tran loc="es-419">Editar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -978,7 +978,7 @@
       <Position>Paste</Position>
       <TranslationSet>
         <base loc="en">Paste</base>
-        <tran loc="es">pegado</tran>
+        <tran loc="es-419">pegar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -987,7 +987,7 @@
       <Position>Cut</Position>
       <TranslationSet>
         <base loc="en">Cut</base>
-        <tran loc="es">corte</tran>
+        <tran loc="es-419">cortar</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -998,7 +998,7 @@
       <Position>Recents</Position>
       <TranslationSet>
         <base loc="en">Recents</base>
-        <tran loc="es">Recientes</tran>
+        <tran loc="es-419">Recientes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1006,7 +1006,7 @@
       <Position>Keyboard</Position>
       <TranslationSet>
         <base loc="en">Keyboard</base>
-        <tran loc="es">Teclado</tran>
+        <tran loc="es-419">Teclado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1014,7 +1014,7 @@
       <Position>Done</Position>
       <TranslationSet>
         <base loc="en">Done</base>
-        <tran loc="es">Aceptar</tran>
+        <tran loc="es-419">Listo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1023,7 +1023,7 @@
       <Position>Clear</Position>
       <TranslationSet>
         <base loc="en">Clear</base>
-        <tran loc="es">Borrar</tran>
+        <tran loc="es-419">Borrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1031,7 +1031,7 @@
       <Position>Swipe with two fingers to go back.</Position>
       <TranslationSet>
         <base loc="en">Swipe with two fingers to go back.</base>
-        <tran loc="es">Desliza con dos dedos para retroceder.</tran>
+        <tran loc="es-419">Desliza con dos dedos para regresar.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1039,7 +1039,7 @@
       <Position>Previous page</Position>
       <TranslationSet>
         <base loc="en">Previous page</base>
-        <tran loc="es">Página anterior</tran>
+        <tran loc="es-419">Página anterior</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1047,7 +1047,7 @@
       <Position>Next page</Position>
       <TranslationSet>
         <base loc="en">Next page</base>
-        <tran loc="es">Página siguiente</tran>
+        <tran loc="es-419">Página siguiente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1055,7 +1055,7 @@
       <Position>Undo</Position>
       <TranslationSet>
         <base loc="en">Undo</base>
-        <tran loc="es">Deshacer</tran>
+        <tran loc="es-419">Deshacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1063,7 +1063,7 @@
       <Position>Rotate to begin writing</Position>
       <TranslationSet>
         <base loc="en">Rotate to begin writing</base>
-        <tran loc="es">Gira para empezar a escribir</tran>
+        <tran loc="es-419">Gira para comenzar a escribir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1071,7 +1071,7 @@
       <Position>Input method</Position>
       <TranslationSet>
         <base loc="en">Input method</base>
-        <tran loc="es">Método de entrada</tran>
+        <tran loc="es-419">Método de entrada</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1083,7 +1083,7 @@
       <Position>Text</Position>
       <TranslationSet>
         <base loc="en">Text</base>
-        <tran loc="es">Texto</tran>
+        <tran loc="es-419">Texto</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1094,7 +1094,7 @@
       <Position>Highlight</Position>
       <TranslationSet>
         <base loc="en">Highlight</base>
-        <tran loc="es">Resaltar</tran>
+        <tran loc="es-419">Resaltar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1103,7 +1103,7 @@
       <Position>%d of %d</Position>
       <TranslationSet>
         <base loc="en">%1$d of %2$d</base>
-        <tran loc="es">%1$d de %2$d</tran>
+        <tran loc="es-419">%1$d de %2$d</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1114,7 +1114,7 @@
       <Position>Multiple Fonts</Position>
       <TranslationSet>
         <base loc="en">Multiple Fonts</base>
-        <tran loc="es">Varios tipos de letra</tran>
+        <tran loc="es-419">Varios tipos de letra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1123,7 +1123,7 @@
       <Position>%@ pt</Position>
       <TranslationSet>
         <base loc="en">%@ pt</base>
-        <tran loc="es">%@ pt</tran>
+        <tran loc="es-419">%@ pt.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1131,7 +1131,7 @@
       <Position>Font</Position>
       <TranslationSet>
         <base loc="en">Font</base>
-        <tran loc="es">Tipo de letra</tran>
+        <tran loc="es-419">Tipo de letra</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1139,7 +1139,7 @@
       <Position>Size</Position>
       <TranslationSet>
         <base loc="en">Size</base>
-        <tran loc="es">Tamaño</tran>
+        <tran loc="es-419">Tamaño</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1151,7 +1151,7 @@
       <Position>Used for the encryption of image edit state metadata for the Markup service. Deletion will make it impossible for Markup to modify annotations that were previously placed on an image using Markup.</Position>
       <TranslationSet>
         <base loc="en">Used for the encryption of image edit state metadata for the Markup service. Deletion will make it impossible for Markup to modify annotations that were previously placed on an image using Markup.</base>
-        <tran loc="es">Se utiliza para la encriptación de los metadatos del estado de edición de las imágenes para el servicio de marcación. Si se elimina, el servicio de marcación no podrá modificar las anotaciones que se hayan añadido previamente a una imagen mediante este servicio.</tran>
+        <tran loc="es-419">Se usa para encriptar el estado de metadatos de la edición de imagen para el servicio de Marcado. Si se elimina, Marcado pueda modificar las anotaciones colocadas previamente en una imagen usando esa misma función.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1163,7 +1163,7 @@
       <Position>Duplicate</Position>
       <TranslationSet>
         <base loc="en">Duplicate</base>
-        <tran loc="es">Duplicar</tran>
+        <tran loc="es-419">Duplicate</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1175,7 +1175,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1183,7 +1183,7 @@
       <Position>Undo</Position>
       <TranslationSet>
         <base loc="en">Undo</base>
-        <tran loc="es">Deshacer</tran>
+        <tran loc="es-419">Deshacer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1191,7 +1191,7 @@
       <Position>Discard Changes</Position>
       <TranslationSet>
         <base loc="en">Discard Changes</base>
-        <tran loc="es">No guardar cambios</tran>
+        <tran loc="es-419">No guardar cambios</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1199,7 +1199,7 @@
       <Position>Redo</Position>
       <TranslationSet>
         <base loc="en">Redo</base>
-        <tran loc="es">Rehacer</tran>
+        <tran loc="es-419">Rehacer</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1210,7 +1210,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Markup</base>
-        <tran loc="es">Marcación</tran>
+        <tran loc="es-419">Marcado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1218,7 +1218,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">Markup</base>
-        <tran loc="es">Marcación</tran>
+        <tran loc="es-419">Marcado</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -1230,7 +1230,7 @@
       <Position>Signatures</Position>
       <TranslationSet>
         <base loc="en">Signatures</base>
-        <tran loc="es">Firmas</tran>
+        <tran loc="es-419">Firmas</tran>
       </TranslationSet>
     </TextItem>
   </File>

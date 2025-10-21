@@ -8,7 +8,7 @@
       <Position>redirected</Position>
       <TranslationSet>
         <base loc="en">redirected</base>
-        <tran loc="es">redirigido</tran>
+        <tran loc="es-419">redirigido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Enter the password for the HTTP proxy %@:%d in Settings.%@</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the HTTP proxy %@:%d in Settings.%@</base>
-        <tran loc="es">Introduce la contraseña del proxy HTTP %@:%d en Ajustes.%@</tran>
+        <tran loc="es-419">Ingresa la contraseña del proxy HTTP %@:%d en Configuración.%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>non-authoritative information</Position>
       <TranslationSet>
         <base loc="en">non-authoritative information</base>
-        <tran loc="es">información no autorizada</tran>
+        <tran loc="es-419">información no autorizada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Err-1102</Position>
       <TranslationSet>
         <base loc="en">You do not have permission to access the requested resource.</base>
-        <tran loc="es">No estás autorizado a acceder al recurso solicitado.</tran>
+        <tran loc="es-419">No estás autorizado a acceder al recurso solicitado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Err-3002</Position>
       <TranslationSet>
         <base loc="en">Failure occurred while closing file</base>
-        <tran loc="es">Error al cerrar el archivo</tran>
+        <tran loc="es-419">Error al cerrar el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>switching protocols</Position>
       <TranslationSet>
         <base loc="en">switching protocols</base>
-        <tran loc="es">protocolos de intercambio</tran>
+        <tran loc="es-419">protocolos de intercambio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>Err-1018</Position>
       <TranslationSet>
         <base loc="en">International roaming is currently off.</base>
-        <tran loc="es">La itinerancia de datos internacional está desactivada.</tran>
+        <tran loc="es-419">El roaming internacional está desactivado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>no error</Position>
       <TranslationSet>
         <base loc="en">no error</base>
-        <tran loc="es">sin errores</tran>
+        <tran loc="es-419">sin errores</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>reset content</Position>
       <TranslationSet>
         <base loc="en">reset content</base>
-        <tran loc="es">restablecer contenido</tran>
+        <tran loc="es-419">restablecer contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>service unavailable</Position>
       <TranslationSet>
         <base loc="en">service unavailable</base>
-        <tran loc="es">servicio no disponible</tran>
+        <tran loc="es-419">servicio no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>Err-1205</Position>
       <TranslationSet>
         <base loc="en">The server did not accept the certificate.</base>
-        <tran loc="es">El servidor no ha aceptado el certificado.</tran>
+        <tran loc="es-419">El servidor no aceptó el certificado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>CONNECTION_INDETERMINATE</Position>
       <TranslationSet>
         <base loc="en">This computer’s Internet connection may be offline.</base>
-        <tran loc="es">La conexión a internet del ordenador puede estar desactivada.</tran>
+        <tran loc="es-419">La conexión a Internet de la computadora puede estar desactivada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>method not allowed</Position>
       <TranslationSet>
         <base loc="en">method not allowed</base>
-        <tran loc="es">método no permitido</tran>
+        <tran loc="es-419">método no permitido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -112,7 +112,7 @@
       <Position>Enter the password for the %@ proxy %@:%d%@</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the %@ proxy %@:%d%@</base>
-        <tran loc="es">Introduce la contraseña del proxy %@ %@:%d%@</tran>
+        <tran loc="es-419">Ingresa la contraseña del proxy %@ %@:%d%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -120,7 +120,7 @@
       <Position>Err-1203</Position>
       <TranslationSet>
         <base loc="en">The certificate for this server was signed by an unknown certifying authority.</base>
-        <tran loc="es">El certificado de este servidor ha sido firmado por una autoridad de certificación desconocida.</tran>
+        <tran loc="es-419">El certificado de este servidor fue firmado por una autoridad de certificación desconocida.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -128,7 +128,7 @@
       <Position>bad gateway</Position>
       <TranslationSet>
         <base loc="en">bad gateway</base>
-        <tran loc="es">puerta de enlace incorrecta</tran>
+        <tran loc="es-419">“Gateway” incorrecto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -136,7 +136,7 @@
       <Position>precondition failed</Position>
       <TranslationSet>
         <base loc="en">precondition failed</base>
-        <tran loc="es">ha fallado la condición previa</tran>
+        <tran loc="es-419">falló la condición previa</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -144,7 +144,7 @@
       <Position>Err-1014</Position>
       <TranslationSet>
         <base loc="en">zero byte resource</base>
-        <tran loc="es">recurso de cero bytes</tran>
+        <tran loc="es-419">recurso de cero bytes</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -152,7 +152,7 @@
       <Position>Err-1021</Position>
       <TranslationSet>
         <base loc="en">request body stream exhausted</base>
-        <tran loc="es">secuencia del cuerpo de la solicitud agotada</tran>
+        <tran loc="es-419">secuencia del cuerpo de la solicitud agotada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -160,7 +160,7 @@
       <Position>no content</Position>
       <TranslationSet>
         <base loc="en">no content</base>
-        <tran loc="es">sin contenido</tran>
+        <tran loc="es-419">sin contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -168,7 +168,7 @@
       <Position>Err-1017</Position>
       <TranslationSet>
         <base loc="en">cannot parse response</base>
-        <tran loc="es">no se puede analizar la respuesta</tran>
+        <tran loc="es-419">no se puede analizar la respuesta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -176,7 +176,7 @@
       <Position>Err-1204</Position>
       <TranslationSet>
         <base loc="en">The certificate for this server is not yet valid.</base>
-        <tran loc="es">El certificado de este servidor aún no es válido.</tran>
+        <tran loc="es-419">El certificado de este servidor aún no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -184,7 +184,7 @@
       <Position>Err-1002</Position>
       <TranslationSet>
         <base loc="en">unsupported URL</base>
-        <tran loc="es">URL incompatible</tran>
+        <tran loc="es-419">URL incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -192,7 +192,7 @@
       <Position>proxy authentication required</Position>
       <TranslationSet>
         <base loc="en">proxy authentication required</base>
-        <tran loc="es">autenticación de proxy requerida</tran>
+        <tran loc="es-419">autenticación de proxy requerida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -200,7 +200,7 @@
       <Position>requested range not satisfiable</Position>
       <TranslationSet>
         <base loc="en">requested range not satisfiable</base>
-        <tran loc="es">el intervalo solicitado no puede obtenerse</tran>
+        <tran loc="es-419">el rango solicitado no puede obtenerse</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -208,7 +208,7 @@
       <Position>not found</Position>
       <TranslationSet>
         <base loc="en">not found</base>
-        <tran loc="es">no encontrado</tran>
+        <tran loc="es-419">no encontrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -216,7 +216,7 @@
       <Position>Err-1103</Position>
       <TranslationSet>
         <base loc="en">resource exceeds maximum size</base>
-        <tran loc="es">el recurso supera el tamaño máximo</tran>
+        <tran loc="es-419">el recurso supera el tamaño máximo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -224,7 +224,7 @@
       <Position>Err-3005</Position>
       <TranslationSet>
         <base loc="en">Cannot move file</base>
-        <tran loc="es">No se puede mover el archivo</tran>
+        <tran loc="es-419">No se puede mover el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -232,7 +232,7 @@
       <Position>Err-1020</Position>
       <TranslationSet>
         <base loc="en">A data connection is not currently allowed.</base>
-        <tran loc="es">En estos momentos no puede establecerse una conexión de datos.</tran>
+        <tran loc="es-419">En este momento no se puede establecer una conexión de datos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -240,7 +240,7 @@
       <Position>Err-1003</Position>
       <TranslationSet>
         <base loc="en">A server with the specified hostname could not be found.</base>
-        <tran loc="es">No se ha encontrado ningún servidor con el nombre de host especificado.</tran>
+        <tran loc="es-419">No se encontró ningún servidor con el nombre de host especificado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -248,7 +248,7 @@
       <Position>System Preferences</Position>
       <TranslationSet>
         <base loc="en">System Preferences</base>
-        <tran loc="es">Preferencias del Sistema</tran>
+        <tran loc="es-419">Preferencias del Sistema</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -256,7 +256,7 @@
       <Position>Err-1000</Position>
       <TranslationSet>
         <base loc="en">bad URL</base>
-        <tran loc="es">URL no válida</tran>
+        <tran loc="es-419">URL no válida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -264,7 +264,7 @@
       <Position>NAMESERVER_DOWN</Position>
       <TranslationSet>
         <base loc="en">This computer’s DNS server is not responding.</base>
-        <tran loc="es">El servidor DNS de este ordenador no responde.</tran>
+        <tran loc="es-419">El servidor DNS de esta computadora no responde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -272,7 +272,7 @@
       <Position>no longer exists</Position>
       <TranslationSet>
         <base loc="en">no longer exists</base>
-        <tran loc="es">ya no existe</tran>
+        <tran loc="es-419">ya no existe</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -280,7 +280,7 @@
       <Position>Err-1200</Position>
       <TranslationSet>
         <base loc="en">An SSL error has occurred and a secure connection to the server cannot be made.</base>
-        <tran loc="es">Se ha producido un error de SSL y no puede establecerse una conexión segura con el servidor.</tran>
+        <tran loc="es-419">Se presentó un error de SSL y no puede establecerse una conexión segura con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -288,7 +288,7 @@
       <Position>unauthorized</Position>
       <TranslationSet>
         <base loc="en">unauthorized</base>
-        <tran loc="es">sin autorización</tran>
+        <tran loc="es-419">sin autorización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -296,7 +296,7 @@
       <Position>unsupported media type</Position>
       <TranslationSet>
         <base loc="en">unsupported media type</base>
-        <tran loc="es">tipo de contenido incompatible</tran>
+        <tran loc="es-419">tipo de contenido incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -304,7 +304,7 @@
       <Position>Err-1204.w</Position>
       <TranslationSet>
         <base loc="en">The certificate for this server is not yet valid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
-        <tran loc="es">El certificado de este servidor aún no es válido. Es posible que el servidor al que intentas conectarte simule ser “%@”, lo que podría poner en peligro tu información confidencial.</tran>
+        <tran loc="es-419">El certificado de este servidor aún no es válido. Es posible que el servidor al que intentas conectarte simule ser “%@”, lo que podría poner en peligro tu información confidencial.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -312,7 +312,7 @@
       <Position>client error</Position>
       <TranslationSet>
         <base loc="en">client error</base>
-        <tran loc="es">error de cliente</tran>
+        <tran loc="es-419">error de cliente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -320,7 +320,7 @@
       <Position>Err-1001</Position>
       <TranslationSet>
         <base loc="en">The request timed out.</base>
-        <tran loc="es">Se ha agotado el tiempo de espera.</tran>
+        <tran loc="es-419">Se agotó el tiempo de espera.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -328,7 +328,7 @@
       <Position>Err-1202.w</Position>
       <TranslationSet>
         <base loc="en">The certificate for this server is invalid. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
-        <tran loc="es">El certificado de este servidor no es válido. Es posible que el servidor al que intentas conectarte simule ser “%@”, lo que podría poner en peligro tu información confidencial.</tran>
+        <tran loc="es-419">El certificado de este servidor no es válido. Es posible que el servidor al que intentas conectarte simule ser “%@”, lo que podría poner en peligro tu información confidencial.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -336,7 +336,7 @@
       <Position>CONNECTION_UP</Position>
       <TranslationSet>
         <base loc="en">This computer’s Internet connection appears to be online.</base>
-        <tran loc="es">La conexión a internet del ordenador parece estar activada.</tran>
+        <tran loc="es-419">La conexión a Internet de la computadora parece estar activada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -344,7 +344,7 @@
       <Position>SERVER_UP</Position>
       <TranslationSet>
         <base loc="en">This computer’s Internet connection appears to be online.</base>
-        <tran loc="es">La conexión a internet del ordenador parece estar activada.</tran>
+        <tran loc="es-419">La conexión a Internet de la computadora parece estar activada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -352,7 +352,7 @@
       <Position>length required</Position>
       <TranslationSet>
         <base loc="en">length required</base>
-        <tran loc="es">longitud requerida</tran>
+        <tran loc="es-419">longitud requerida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -360,7 +360,7 @@
       <Position>see other</Position>
       <TranslationSet>
         <base loc="en">see other</base>
-        <tran loc="es">ver otros</tran>
+        <tran loc="es-419">ver otros</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -368,7 +368,7 @@
       <Position>Err-3000</Position>
       <TranslationSet>
         <base loc="en">Cannot create file</base>
-        <tran loc="es">No se puede crear el archivo</tran>
+        <tran loc="es-419">No se puede crear el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -376,7 +376,7 @@
       <Position>NAMELOOKUP_FAILED</Position>
       <TranslationSet>
         <base loc="en">The DNS server could not find the server name.</base>
-        <tran loc="es">El servidor DNS no ha podido encontrar el nombre del servidor.</tran>
+        <tran loc="es-419">El servidor DNS no pudo encontrar el nombre del servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -384,7 +384,7 @@
       <Position>Err-2000</Position>
       <TranslationSet>
         <base loc="en">can’t load from network</base>
-        <tran loc="es">no se puede cargar desde la red</tran>
+        <tran loc="es-419">no se puede cargar desde la red</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -392,7 +392,7 @@
       <Position>Err-3006</Position>
       <TranslationSet>
         <base loc="en">Download decoding failed</base>
-        <tran loc="es">Error en la descodificación de la descarga</tran>
+        <tran loc="es-419">Error en la decodificación de la descarga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -400,7 +400,7 @@
       <Position>Err-3007</Position>
       <TranslationSet>
         <base loc="en">Download decoding failed</base>
-        <tran loc="es">Error en la descodificación de la descarga</tran>
+        <tran loc="es-419">Error en la decodificación de la descarga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -408,7 +408,7 @@
       <Position>Cancel</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -416,7 +416,7 @@
       <Position>Please check your proxy settings. For help with this problem, contact your system administrator.</Position>
       <TranslationSet>
         <base loc="en">Please check your proxy settings. For help with this problem, contact your system administrator.</base>
-        <tran loc="es">Comprueba tus ajustes de proxy. Si necesitas ayuda, ponte en contacto con el administrador del sistema.</tran>
+        <tran loc="es-419">Verifica tu configuración de proxy. Si necesitas ayuda, ponte en contacto con el administrador del sistema.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -424,7 +424,7 @@
       <Position>conflict</Position>
       <TranslationSet>
         <base loc="en">conflict</base>
-        <tran loc="es">conflicto</tran>
+        <tran loc="es-419">conflicto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -432,7 +432,7 @@
       <Position>Err-3003</Position>
       <TranslationSet>
         <base loc="en">Cannot write file</base>
-        <tran loc="es">No se puede escribir en el archivo</tran>
+        <tran loc="es-419">No se puede escribir en el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -440,7 +440,7 @@
       <Position>needs proxy</Position>
       <TranslationSet>
         <base loc="en">needs proxy</base>
-        <tran loc="es">proxy necesario</tran>
+        <tran loc="es-419">proxy necesario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -448,7 +448,7 @@
       <Position>Err-1016</Position>
       <TranslationSet>
         <base loc="en">cannot decode content data</base>
-        <tran loc="es">no se pueden descodificar los datos de contenido</tran>
+        <tran loc="es-419">no se pueden decodificar los datos de contenido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -456,7 +456,7 @@
       <Position>Proxy Authentication</Position>
       <TranslationSet>
         <base loc="en">Proxy Authentication</base>
-        <tran loc="es">Autenticación de proxy</tran>
+        <tran loc="es-419">Autenticación de proxy</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -464,7 +464,7 @@
       <Position>Err-1006</Position>
       <TranslationSet>
         <base loc="en">DNS lookup error</base>
-        <tran loc="es">error de búsqueda de DNS</tran>
+        <tran loc="es-419">error de búsqueda de DNS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -472,7 +472,7 @@
       <Position>Err-1011</Position>
       <TranslationSet>
         <base loc="en">There was a bad response from the server.</base>
-        <tran loc="es">Se ha recibido una respuesta incorrecta del servidor.</tran>
+        <tran loc="es-419">Se recibió una respuesta incorrecta del servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -480,7 +480,7 @@
       <Position>Err-1205.w</Position>
       <TranslationSet>
         <base loc="en">The server “%@” did not accept the certificate.</base>
-        <tran loc="es">El servidor “%@” no ha aceptado el certificado.</tran>
+        <tran loc="es-419">El servidor “%@” no aceptó el certificado.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -488,7 +488,7 @@
       <Position>Err-996</Position>
       <TranslationSet>
         <base loc="en">Could not communicate with background transfer service</base>
-        <tran loc="es">No se ha podido establecer comunicación con el servicio de transferencia en segundo plano</tran>
+        <tran loc="es-419">Falló la comunicación con el servicio de transferencia en segundo plano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -496,7 +496,7 @@
       <Position>found</Position>
       <TranslationSet>
         <base loc="en">found</base>
-        <tran loc="es">encontrado</tran>
+        <tran loc="es-419">encontrado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -504,7 +504,7 @@
       <Position>Err-3004</Position>
       <TranslationSet>
         <base loc="en">Cannot remove file</base>
-        <tran loc="es">No se puede eliminar el archivo</tran>
+        <tran loc="es-419">No se puede eliminar el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -512,7 +512,7 @@
       <Position>Err-1206</Position>
       <TranslationSet>
         <base loc="en">The server requires a client certificate.</base>
-        <tran loc="es">El servidor requiere un certificado de cliente.</tran>
+        <tran loc="es-419">El servidor requiere un certificado de cliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -520,7 +520,7 @@
       <Position>Err-999</Position>
       <TranslationSet>
         <base loc="en">cancelled</base>
-        <tran loc="es">cancelado</tran>
+        <tran loc="es-419">cancelado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -528,7 +528,7 @@
       <Position>partial content</Position>
       <TranslationSet>
         <base loc="en">partial content</base>
-        <tran loc="es">contenido parcial</tran>
+        <tran loc="es-419">contenido parcial</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -536,7 +536,7 @@
       <Position>Err-1005</Position>
       <TranslationSet>
         <base loc="en">The network connection was lost.</base>
-        <tran loc="es">La conexión de red se ha perdido.</tran>
+        <tran loc="es-419">La conexión de red se perdió.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -544,7 +544,7 @@
       <Position>server error</Position>
       <TranslationSet>
         <base loc="en">server error</base>
-        <tran loc="es">error del servidor</tran>
+        <tran loc="es-419">error del servidor</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -552,7 +552,7 @@
       <Position>KEYCHAIN_WEB_FORM_PASSWORD</Position>
       <TranslationSet>
         <base loc="en">Web form password</base>
-        <tran loc="es">Contraseña del formulario web</tran>
+        <tran loc="es-419">Contraseña del formulario web</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -560,7 +560,7 @@
       <Position>Err-1010</Position>
       <TranslationSet>
         <base loc="en">redirected to nowhere</base>
-        <tran loc="es">redirigido a ninguna página</tran>
+        <tran loc="es-419">redirigido a ninguna página</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -568,7 +568,7 @@
       <Position>gateway timed out</Position>
       <TranslationSet>
         <base loc="en">gateway timed out</base>
-        <tran loc="es">Tiempo de conexión a “gateway” excedido</tran>
+        <tran loc="es-419">Tiempo de conexión a “gateway” excedido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -576,7 +576,7 @@
       <Position>Err-998</Position>
       <TranslationSet>
         <base loc="en">unknown error</base>
-        <tran loc="es">error desconocido</tran>
+        <tran loc="es-419">error desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -584,7 +584,7 @@
       <Position>forbidden</Position>
       <TranslationSet>
         <base loc="en">forbidden</base>
-        <tran loc="es">prohibido</tran>
+        <tran loc="es-419">prohibido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -592,7 +592,7 @@
       <Position>Err-1201</Position>
       <TranslationSet>
         <base loc="en">The certificate for this server has expired.</base>
-        <tran loc="es">El certificado de este servidor ha caducado.</tran>
+        <tran loc="es-419">El certificado de este servidor está vencido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>Err-1100</Position>
       <TranslationSet>
         <base loc="en">The requested URL was not found on this server.</base>
-        <tran loc="es">No se ha encontrado la URL solicitada en este servidor.</tran>
+        <tran loc="es-419">No se encontró la URL solicitada en este servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -608,7 +608,7 @@
       <Position>Err-1201.w</Position>
       <TranslationSet>
         <base loc="en">The certificate for this server has expired. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
-        <tran loc="es">El certificado de este servidor ha caducado. Es posible que el servidor al que intentas conectarte simule ser “%@”, lo que podría poner en peligro tu información confidencial.</tran>
+        <tran loc="es-419">El certificado de este servidor está vencido. Es posible que el servidor al que intentas conectarte simule ser “%@”, lo que podría poner en peligro tu información confidencial.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -616,7 +616,7 @@
       <Position>Not Now</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -624,7 +624,7 @@
       <Position>moved permanently</Position>
       <TranslationSet>
         <base loc="en">moved permanently</base>
-        <tran loc="es">se ha desplazado de forma permanente</tran>
+        <tran loc="es-419">se desplazó de forma permanente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -632,7 +632,7 @@
       <Position>request timed out</Position>
       <TranslationSet>
         <base loc="en">request timed out</base>
-        <tran loc="es">tiempo de espera de la petición agotado</tran>
+        <tran loc="es-419">tiempo de espera de la solicitud agotado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -640,7 +640,7 @@
       <Position>payment required</Position>
       <TranslationSet>
         <base loc="en">payment required</base>
-        <tran loc="es">pago requerido</tran>
+        <tran loc="es-419">pago requerido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -648,7 +648,7 @@
       <Position>Err-1007</Position>
       <TranslationSet>
         <base loc="en">too many HTTP redirects</base>
-        <tran loc="es">demasiados redireccionamientos HTTP</tran>
+        <tran loc="es-419">demasiados redireccionamientos HTTP</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -656,7 +656,7 @@
       <Position>Err-1009</Position>
       <TranslationSet>
         <base loc="en">The Internet connection appears to be offline.</base>
-        <tran loc="es">La conexión a internet parece estar desactivada.</tran>
+        <tran loc="es-419">La conexión a Internet parece estar desactivada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -664,7 +664,7 @@
       <Position>continue</Position>
       <TranslationSet>
         <base loc="en">continue</base>
-        <tran loc="es">continuar</tran>
+        <tran loc="es-419">continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -672,7 +672,7 @@
       <Position>request too large</Position>
       <TranslationSet>
         <base loc="en">request too large</base>
-        <tran loc="es">petición demasiado grande</tran>
+        <tran loc="es-419">solicitud demasiado grande</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -680,7 +680,7 @@
       <Position>Err-997</Position>
       <TranslationSet>
         <base loc="en">Lost connection to background transfer service</base>
-        <tran loc="es">Se ha perdido la conexión con el servicio de transferencia en segundo plano</tran>
+        <tran loc="es-419">Se perdió la conexión con el servicio de transferencia en segundo plano</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -688,7 +688,7 @@
       <Position>Err-1008</Position>
       <TranslationSet>
         <base loc="en">resource unavailable</base>
-        <tran loc="es">recurso no disponible</tran>
+        <tran loc="es-419">recurso no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -696,7 +696,7 @@
       <Position>unsupported version</Position>
       <TranslationSet>
         <base loc="en">unsupported version</base>
-        <tran loc="es">versión incompatible</tran>
+        <tran loc="es-419">versión incompatible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -704,7 +704,7 @@
       <Position>success</Position>
       <TranslationSet>
         <base loc="en">success</base>
-        <tran loc="es">acción realizada con éxito</tran>
+        <tran loc="es-419">acción realizada con éxito</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -712,7 +712,7 @@
       <Position>internal server error</Position>
       <TranslationSet>
         <base loc="en">internal server error</base>
-        <tran loc="es">error de servidor interno</tran>
+        <tran loc="es-419">error de servidor interno</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -720,7 +720,7 @@
       <Position>Err310</Position>
       <TranslationSet>
         <base loc="en">There was a problem communicating with the secure web proxy server (HTTPS).</base>
-        <tran loc="es">Se ha producido un problema de comunicación con el servidor proxy de web seguro (HTTPS).</tran>
+        <tran loc="es-419">Se presentó un problema de comunicación con el servidor proxy de web seguro (HTTPS).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -728,7 +728,7 @@
       <Position>KEYCHAIN_LABEL_FORMAT</Position>
       <TranslationSet>
         <base loc="en">%@ (%@)</base>
-        <tran loc="es">%@ (%@)</tran>
+        <tran loc="es-419">%@ (%@)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -736,7 +736,7 @@
       <Position>Password</Position>
       <TranslationSet>
         <base loc="en">Password</base>
-        <tran loc="es">Contraseña</tran>
+        <tran loc="es-419">Contraseña</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -744,7 +744,7 @@
       <Position>multiple choices</Position>
       <TranslationSet>
         <base loc="en">multiple choices</base>
-        <tran loc="es">selecciones múltiples</tran>
+        <tran loc="es-419">selección múltiple</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -752,7 +752,7 @@
       <Position>Err-1015</Position>
       <TranslationSet>
         <base loc="en">cannot decode raw data</base>
-        <tran loc="es">no se pueden descodificar los datos sin procesar</tran>
+        <tran loc="es-419">no se pueden decodificar los datos sin procesar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -760,7 +760,7 @@
       <Position>Enter the password for the HTTP proxy %@:%d in System Preferences.%@</Position>
       <TranslationSet>
         <base loc="en">Enter the password for the HTTP proxy %@:%d in System Preferences.%@</base>
-        <tran loc="es">Introduce la contraseña del proxy HTTP %@:%d en Preferencias del Sistema.%@</tran>
+        <tran loc="es-419">Ingresa la contraseña del proxy HTTP %@:%d en Preferencias del Sistema.%@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -768,7 +768,7 @@
       <Position>Err-1101</Position>
       <TranslationSet>
         <base loc="en">file is directory</base>
-        <tran loc="es">este archivo es un directorio</tran>
+        <tran loc="es-419">este archivo es un directorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -776,7 +776,7 @@
       <Position>Proxy Authentication Required</Position>
       <TranslationSet>
         <base loc="en">Proxy Authentication Required</base>
-        <tran loc="es">Autenticación de proxy requerida</tran>
+        <tran loc="es-419">Autenticación de proxy requerida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -784,7 +784,7 @@
       <Position>Would you like to connect to the server anyway?</Position>
       <TranslationSet>
         <base loc="en">Would you like to connect to the server anyway?</base>
-        <tran loc="es">¿Quieres conectarte al servidor de todos modos?</tran>
+        <tran loc="es-419">¿Quieres conectarte al servidor de todos modos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -792,7 +792,7 @@
       <Position>Err-3001</Position>
       <TranslationSet>
         <base loc="en">Cannot open file</base>
-        <tran loc="es">No se puede abrir el archivo</tran>
+        <tran loc="es-419">No se puede abrir el archivo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -800,7 +800,7 @@
       <Position>bad request</Position>
       <TranslationSet>
         <base loc="en">bad request</base>
-        <tran loc="es">petición incorrecta</tran>
+        <tran loc="es-419">solicitud incorrecta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -808,7 +808,7 @@
       <Position>CONNECTION_DOWN</Position>
       <TranslationSet>
         <base loc="en">This computer’s Internet connection appears to be offline.</base>
-        <tran loc="es">La conexión a internet del ordenador parece estar desactivada.</tran>
+        <tran loc="es-419">La conexión a Internet de la computadora parece estar desactivada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -816,7 +816,7 @@
       <Position>ROUTER_DOWN</Position>
       <TranslationSet>
         <base loc="en">This computer’s router is not responding.</base>
-        <tran loc="es">El router de este ordenador no responde.</tran>
+        <tran loc="es-419">El router de esta computadora no responde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -824,7 +824,7 @@
       <Position>Err-1019</Position>
       <TranslationSet>
         <base loc="en">A data connection cannot be established since a call is currently active.</base>
-        <tran loc="es">En estos momentos no puede establecerse una conexión de datos porque hay una llamada activa.</tran>
+        <tran loc="es-419">En este momento no se puede establecer una conexión de datos porque hay una llamada en curso.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -832,7 +832,7 @@
       <Position>SERVER_DOWN</Position>
       <TranslationSet>
         <base loc="en">The server this computer is attempting to connect to is not responding.</base>
-        <tran loc="es">El servidor al que trata de conectarse este ordenador no responde.</tran>
+        <tran loc="es-419">El servidor al que trata de conectarse esta computadora no responde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -840,7 +840,7 @@
       <Position>temporarily redirected</Position>
       <TranslationSet>
         <base loc="en">temporarily redirected</base>
-        <tran loc="es">redirigido temporalmente</tran>
+        <tran loc="es-419">redirigido temporalmente</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -848,7 +848,7 @@
       <Position>created</Position>
       <TranslationSet>
         <base loc="en">created</base>
-        <tran loc="es">creación</tran>
+        <tran loc="es-419">creación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -856,7 +856,7 @@
       <Position>Username</Position>
       <TranslationSet>
         <base loc="en">Username</base>
-        <tran loc="es">Nombre de usuario</tran>
+        <tran loc="es-419">Nombre de usuario</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -864,7 +864,7 @@
       <Position>Err-1202</Position>
       <TranslationSet>
         <base loc="en">The certificate for this server is invalid.</base>
-        <tran loc="es">El certificado de este servidor no es válido.</tran>
+        <tran loc="es-419">El certificado de este servidor no es válido.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -872,7 +872,7 @@
       <Position>Err-1206.w</Position>
       <TranslationSet>
         <base loc="en">The server “%@” requires a client certificate.</base>
-        <tran loc="es">El servidor “%@” requiere un certificado de cliente.</tran>
+        <tran loc="es-419">El servidor “%@” requiere un certificado de cliente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -880,7 +880,7 @@
       <Position>expectation failed</Position>
       <TranslationSet>
         <base loc="en">expectation failed</base>
-        <tran loc="es">error de expectativas</tran>
+        <tran loc="es-419">error de expectativas</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -888,7 +888,7 @@
       <Position>unimplemented</Position>
       <TranslationSet>
         <base loc="en">unimplemented</base>
-        <tran loc="es">no implementado</tran>
+        <tran loc="es-419">no implementado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -896,7 +896,7 @@
       <Position>informational</Position>
       <TranslationSet>
         <base loc="en">informational</base>
-        <tran loc="es">informativo</tran>
+        <tran loc="es-419">informativo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -904,7 +904,7 @@
       <Position>Err-1004</Position>
       <TranslationSet>
         <base loc="en">Could not connect to the server.</base>
-        <tran loc="es">No se ha podido establecer conexión con el servidor.</tran>
+        <tran loc="es-419">No se pudo establecer conexión con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -912,7 +912,7 @@
       <Position>Err-1203.w</Position>
       <TranslationSet>
         <base loc="en">The certificate for this server was signed by an unknown certifying authority. You might be connecting to a server that is pretending to be “%@” which could put your confidential information at risk.</base>
-        <tran loc="es">El certificado de este servidor ha sido firmado por una autoridad de certificación desconocida. Es posible que el servidor al que intentas conectarte simule ser “%@”, lo que podría poner en peligro tu información confidencial.</tran>
+        <tran loc="es-419">El certificado de este servidor fue firmado por una autoridad de certificación desconocida. Es posible que el servidor al que intentas conectarte simule ser “%@”, lo que podría poner en peligro tu información confidencial.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -920,7 +920,7 @@
       <Position>accepted</Position>
       <TranslationSet>
         <base loc="en">accepted</base>
-        <tran loc="es">aceptada</tran>
+        <tran loc="es-419">aceptada</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -928,7 +928,7 @@
       <Position>Settings</Position>
       <TranslationSet>
         <base loc="en">Settings</base>
-        <tran loc="es">Ajustes</tran>
+        <tran loc="es-419">Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -936,7 +936,7 @@
       <Position>requested URL too long</Position>
       <TranslationSet>
         <base loc="en">requested URL too long</base>
-        <tran loc="es">dirección URL solicitada demasiado larga</tran>
+        <tran loc="es-419">dirección URL solicitada demasiado larga</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -944,7 +944,7 @@
       <Position>Err306</Position>
       <TranslationSet>
         <base loc="en">There was a problem communicating with the web proxy server (HTTP).</base>
-        <tran loc="es">Se ha producido un problema de comunicación con el servidor proxy de web (HTTP).</tran>
+        <tran loc="es-419">Se presentó un problema de comunicación con el servidor proxy de web (HTTP).</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -952,7 +952,7 @@
       <Position>unacceptable</Position>
       <TranslationSet>
         <base loc="en">unacceptable</base>
-        <tran loc="es">inaceptable</tran>
+        <tran loc="es-419">inaceptable</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -960,7 +960,7 @@
       <Position>not modified</Position>
       <TranslationSet>
         <base loc="en">not modified</base>
-        <tran loc="es">no se ha modificado</tran>
+        <tran loc="es-419">no se modificó</tran>
       </TranslationSet>
     </TextItem>
   </File>

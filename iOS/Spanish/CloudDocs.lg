@@ -8,7 +8,7 @@
       <Position>DOWNLOAD_ITEM_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Downloading one item from iCloud</base>
-        <tran loc="es">Descargando un ítem de iCloud</tran>
+        <tran loc="es-419">Descargando un elemento de iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>PROGRESS_PROXY_FINAL</Position>
       <TranslationSet>
         <base loc="en">Finishing…</base>
-        <tran loc="es">Finalizando…</tran>
+        <tran loc="es-419">Finalizando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>PROGRESS_PROXY_INIT</Position>
       <TranslationSet>
         <base loc="en">Preparing…</base>
-        <tran loc="es">Preparando…</tran>
+        <tran loc="es-419">Preparando…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>iCloud Drive</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>CANCELLING_DOWNLOAD_ITEM_PROGRESS_WITH_FILENAME</Position>
       <TranslationSet>
         <base loc="en">Cancelling downloading of “%@” from iCloud…</base>
-        <tran loc="es">Cancelando descarga de “%@” de iCloud…</tran>
+        <tran loc="es-419">Cancelando la descarga de “%@” de iCloud…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>Documents</Position>
       <TranslationSet>
         <base loc="en">Documents</base>
-        <tran loc="es">Documentos</tran>
+        <tran loc="es-419">Documentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>CANCELLING_DOWNLOAD_ITEM_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Cancelling downloading of one item from iCloud…</base>
-        <tran loc="es">Cancelando descarga de un ítem de iCloud…</tran>
+        <tran loc="es-419">Cancelando la descarga de un elemento de iCloud…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>ICLOUD_SUFFIX</Position>
       <TranslationSet>
         <base loc="en"> — iCloud</base>
-        <tran loc="es"> — iCloud</tran>
+        <tran loc="es-419"> — iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>Desktop</Position>
       <TranslationSet>
         <base loc="en">Desktop</base>
-        <tran loc="es">Escritorio</tran>
+        <tran loc="es-419">Escritorio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>DOWNLOAD_ITEM_PROGRESS_WITH_FILENAME</Position>
       <TranslationSet>
         <base loc="en">Downloading “%@” from iCloud</base>
-        <tran loc="es">Descargando “%@” de iCloud</tran>
+        <tran loc="es-419">Descargando "%@" de iCloud…</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>PASSBOOK_APP</Position>
       <TranslationSet>
         <base loc="en">Wallet</base>
-        <tran loc="es">Wallet</tran>
+        <tran loc="es-419">Wallet</tran>
       </TranslationSet>
     </TextItem>
   </File>

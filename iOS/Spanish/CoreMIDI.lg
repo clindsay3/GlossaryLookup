@@ -8,7 +8,7 @@
       <Position>Port %d</Position>
       <TranslationSet>
         <base loc="en">Port %d</base>
-        <tran loc="es">Puerto %d</tran>
+        <tran loc="es-419">Puerto %d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Yamaha</Position>
       <TranslationSet>
         <base loc="en">Yamaha</base>
-        <tran loc="es">Yamaha</tran>
+        <tran loc="es-419">Yamaha</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>USB MIDI Device</Position>
       <TranslationSet>
         <base loc="en">USB MIDI Device</base>
-        <tran loc="es">Dispositivo MIDI USB</tran>
+        <tran loc="es-419">Dispositivo MIDI USB</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -35,7 +35,7 @@
       <Position>Port %d</Position>
       <TranslationSet>
         <base loc="en">Port %d</base>
-        <tran loc="es">Puerto %d</tran>
+        <tran loc="es-419">Puerto %d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -43,7 +43,7 @@
       <Position>Generic</Position>
       <TranslationSet>
         <base loc="en">Generic</base>
-        <tran loc="es">Genérico</tran>
+        <tran loc="es-419">Genérico</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -51,7 +51,7 @@
       <Position>USB MIDI Device</Position>
       <TranslationSet>
         <base loc="en">USB MIDI Device</base>
-        <tran loc="es">Dispositivo MIDI USB</tran>
+        <tran loc="es-419">Dispositivo MIDI USB</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -62,7 +62,7 @@
       <Position>LostConnectionErr</Position>
       <TranslationSet>
         <base loc="en">The connection to %@ was lost.</base>
-        <tran loc="es">Se ha perdido la conexión con %@.</tran>
+        <tran loc="es-419">Se perdió la conexión con %@.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>BadHostErr</Position>
       <TranslationSet>
         <base loc="en">%@ couldn’t be located. Make sure you entered the address correctly.</base>
-        <tran loc="es">%@ no se ha podido encontrar. Comprueba que has introducido la dirección correctamente.</tran>
+        <tran loc="es-419">%@ no se pudo encontrar. Asegúrate de haber ingresado la dirección correctamente.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>RefusedConnectionErr</Position>
       <TranslationSet>
         <base loc="en">%s refused the connection request.</base>
-        <tran loc="es">%s ha denegado la petición de conexión.</tran>
+        <tran loc="es-419">%s rechazó la solicitud de conexión.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>IncompatibleProtocolErr</Position>
       <TranslationSet>
         <base loc="en">Due to incompatible protocol versions, %s refused the connection request.</base>
-        <tran loc="es">%s ha rechazado la solicitud de conexión debido a versiones de protocolo incompatibles.</tran>
+        <tran loc="es-419">%s rechazó la solicitud de conexión porque las versiones de los protocolos son incompatibles.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>NoConnectResponseErr</Position>
       <TranslationSet>
         <base loc="en">%s didn’t respond to the connection request. Check the address and port, and any firewall or router settings.</base>
-        <tran loc="es">%s no ha respondido a la petición de conexión. Verifica la dirección y el puerto y los posibles ajustes del firewall o router.</tran>
+        <tran loc="es-419">%s no respondió a la solicitud de conexión. Verifica la dirección y el puerto, y cualquier configuración del firewall o router.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>NetworkDevice</Position>
       <TranslationSet>
         <base loc="en">Network</base>
-        <tran loc="es">Red</tran>
+        <tran loc="es-419">Red</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -113,7 +113,7 @@
       <Position>BT</Position>
       <TranslationSet>
         <base loc="en">Bluetooth</base>
-        <tran loc="es">Bluetooth</tran>
+        <tran loc="es-419">Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -121,7 +121,7 @@
       <Position>Manufacturer Unavailable</Position>
       <TranslationSet>
         <base loc="en">Manufacturer Unavailable</base>
-        <tran loc="es">Fabricante no disponible</tran>
+        <tran loc="es-419">Fabricante no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -129,7 +129,7 @@
       <Position>Bluetooth MIDI Peripheral</Position>
       <TranslationSet>
         <base loc="en">Bluetooth MIDI Peripheral</base>
-        <tran loc="es">MIDI por Bluetooth (periférico)</tran>
+        <tran loc="es-419">Dispositivo periférico MIDI por Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -137,7 +137,7 @@
       <Position>Bluetooth MIDI Driver</Position>
       <TranslationSet>
         <base loc="en">Bluetooth MIDI Driver</base>
-        <tran loc="es">Driver de MIDI por Bluetooth</tran>
+        <tran loc="es-419">Driver de MIDI por Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -145,7 +145,7 @@
       <Position>iOS</Position>
       <TranslationSet>
         <base loc="en">iOS</base>
-        <tran loc="es">iOS</tran>
+        <tran loc="es-419">iOS</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -153,7 +153,7 @@
       <Position>Apple Inc.</Position>
       <TranslationSet>
         <base loc="en">Apple Inc.</base>
-        <tran loc="es">Apple Inc.</tran>
+        <tran loc="es-419">Apple Inc.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -161,7 +161,7 @@
       <Position>Bluetooth MIDI Central</Position>
       <TranslationSet>
         <base loc="en">Bluetooth MIDI Central</base>
-        <tran loc="es">MIDI por Bluetooth (central)</tran>
+        <tran loc="es-419">Dispositivo central MIDI por Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -169,7 +169,7 @@
       <Position>Bluetooth MIDI</Position>
       <TranslationSet>
         <base loc="en">Bluetooth MIDI</base>
-        <tran loc="es">MIDI por Bluetooth</tran>
+        <tran loc="es-419">MIDI por Bluetooth</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -177,7 +177,7 @@
       <Position>Model Unavailable</Position>
       <TranslationSet>
         <base loc="en">Model Unavailable</base>
-        <tran loc="es">Modelo no disponible</tran>
+        <tran loc="es-419">Modelo no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -185,7 +185,7 @@
       <Position>macOS</Position>
       <TranslationSet>
         <base loc="en">macOS</base>
-        <tran loc="es">macOS</tran>
+        <tran loc="es-419">macOS</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -196,7 +196,7 @@
       <Position>Port %d</Position>
       <TranslationSet>
         <base loc="en">Port %d</base>
-        <tran loc="es">Puerto %d</tran>
+        <tran loc="es-419">Puerto %d</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -204,7 +204,7 @@
       <Position>IDAM MIDI Host</Position>
       <TranslationSet>
         <base loc="en">IDAM MIDI Host</base>
-        <tran loc="es">Host MIDI IDAM</tran>
+        <tran loc="es-419">Host MIDI IDAM</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -212,7 +212,7 @@
       <Position>Apple Inc.</Position>
       <TranslationSet>
         <base loc="en">Apple Inc.</base>
-        <tran loc="es">Apple Inc.</tran>
+        <tran loc="es-419">Apple Inc.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -223,7 +223,7 @@
       <Position> </Position>
       <TranslationSet>
         <base loc="en"> </base>
-        <tran loc="es"> </tran>
+        <tran loc="es-419"> </tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -231,7 +231,7 @@
       <Position>, </Position>
       <TranslationSet>
         <base loc="en">, </base>
-        <tran loc="es">, </tran>
+        <tran loc="es-419">, </tran>
       </TranslationSet>
     </TextItem>
   </File>

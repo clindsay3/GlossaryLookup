@@ -8,7 +8,7 @@
       <Position>auサポート_MYACCOUNTURLTITLE</Position>
       <TranslationSet>
         <base loc="en">au Support</base>
-        <tran loc="es">Asistencia técnica de au</tran>
+        <tran loc="es-419">Soporte para au</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>日本語ガイダンスへの切り替え_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Japanese Guidance</base>
-        <tran loc="es">Instrucciones en japonés</tran>
+        <tran loc="es-419">Instrucciones en japonés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>割込通話サービスの開始_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Call waiting Enable</base>
-        <tran loc="es">Activación de llamada en espera</tran>
+        <tran loc="es-419">Activación de llamada en espera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>お留守番サービスの開始_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voicemail Enable</base>
-        <tran loc="es">Activación del buzón de voz</tran>
+        <tran loc="es-419">Activación del buzón de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>応答メッセージの録音／確認／変更_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voicemail Configuration</base>
-        <tran loc="es">Configuración del buzón de voz</tran>
+        <tran loc="es-419">Configuración del buzón de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -54,7 +54,7 @@
       <Position>au iPhoneテクニカルサポート_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">iPhone Technical Support</base>
-        <tran loc="es">Asistencia técnica para iPhone</tran>
+        <tran loc="es-419">Soporte técnico para iPhone</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -62,7 +62,7 @@
       <Position>英語ガイダンスへの切り替え_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">English Guidance</base>
-        <tran loc="es">Instrucciones en inglés</tran>
+        <tran loc="es-419">Instrucciones en inglés</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -70,7 +70,7 @@
       <Position>割込通話サービスの停止_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Call Waiting Disable</base>
-        <tran loc="es">Desactivación de llamada en espera</tran>
+        <tran loc="es-419">Desactivación de llamada en espera</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -78,7 +78,7 @@
       <Position>お留守番サービスの停止_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">Voicemail Disable</base>
-        <tran loc="es">Desactivación del buzón de voz</tran>
+        <tran loc="es-419">Desactivación del buzón de voz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>auお客さまセンター_SERVICE_NAME</Position>
       <TranslationSet>
         <base loc="en">au Customer Center</base>
-        <tran loc="es">Centro de atención al cliente au</tran>
+        <tran loc="es-419">Centro de atención a clientes au</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -103,7 +103,7 @@
       <Position>Implicit_CALL_FORWARDING_CUSTOM_LABEL</Position>
       <TranslationSet>
         <base loc="en">Implicit</base>
-        <tran loc="es">Inaccesible</tran>
+        <tran loc="es-419">Inaccesible</tran>
       </TranslationSet>
     </TextItem>
   </File>

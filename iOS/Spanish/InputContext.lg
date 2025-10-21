@@ -8,7 +8,7 @@
       <Position>CHOOSE_PHOTOS_ACCESSIBILITY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Choose Photos</base>
-        <tran loc="es">Seleccionar fotos</tran>
+        <tran loc="es-419">Seleccionar fotos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>SEND_CURRENT_LOCATION_BUTTON_ACCESSIBILITY_LABEL</Position>
       <TranslationSet>
         <base loc="en">Current Location</base>
-        <tran loc="es">Ubicación actual</tran>
+        <tran loc="es-419">Ubicación actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -28,7 +28,7 @@
       <Position>SEND_CURRENT_LOCATION_BUTTON_CAPTION</Position>
       <TranslationSet>
         <base loc="en">%@ Current Location</base>
-        <tran loc="es">%@ Ubicación actual</tran>
+        <tran loc="es-419">%@ Ubicación actual</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -36,7 +36,7 @@
       <Position>CHOOSE_PHOTOS_CAPTION</Position>
       <TranslationSet>
         <base loc="en">%@ Choose Photos</base>
-        <tran loc="es">%@ Seleccionar fotos</tran>
+        <tran loc="es-419">%@ Seleccionar fotos</tran>
       </TranslationSet>
     </TextItem>
   </File>

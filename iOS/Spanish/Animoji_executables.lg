@@ -8,7 +8,7 @@
       <Position>sJFReplay</Position>
       <TranslationSet>
         <base loc="en">Replay</base>
-        <tran loc="es">Repetir</tran>
+        <tran loc="es-419">Ver otra vez</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>sJFPreviewMessage</Position>
       <TranslationSet>
         <base loc="en">Preview</base>
-        <tran loc="es">Previsualización</tran>
+        <tran loc="es-419">Previsualización</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>sJFAppDesc</Position>
       <TranslationSet>
         <base loc="en">Create custom animated messages that use your voice and reflect your facial expressions.</base>
-        <tran loc="es">Crea mensajes animados, personalizados con tu voz y las expresiones de tu cara.</tran>
+        <tran loc="es-419">Crea mensajes animados personalizados que usen tu voz y reflejen tus expresiones faciales.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>sJFARSessionWasInterrupted</Position>
       <TranslationSet>
         <base loc="en">Audio is in use by another app</base>
-        <tran loc="es">Otra app está usando el audio</tran>
+        <tran loc="es-419">Otra app está usando el audio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>sJFLaunchBody</Position>
       <TranslationSet>
         <base loc="en">Send a message using your favorite Animoji or create your very own Memoji.</base>
-        <tran loc="es">Envía un mensaje usando tu Animoji favorito o crea tu propio Memoji.</tran>
+        <tran loc="es-419">Envía un mensaje utilizando tu Animoji favorito o crea tu propio Memoji.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -48,7 +48,7 @@
       <Position>sJFNewMemoji</Position>
       <TranslationSet>
         <base loc="en">New Memoji</base>
-        <tran loc="es">Nuevo Memoji</tran>
+        <tran loc="es-419">Nuevos Memojis</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -56,7 +56,7 @@
       <Position>sJFSendingVideoMessage</Position>
       <TranslationSet>
         <base loc="en">Sending Animoji</base>
-        <tran loc="es">Enviando Animoji</tran>
+        <tran loc="es-419">Enviando Animoji</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -64,7 +64,7 @@
       <Position>sJFLaunchContinueButton</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -72,7 +72,7 @@
       <Position>sJFTrackingPausedMessage</Position>
       <TranslationSet>
         <base loc="en">Tap to Resume</base>
-        <tran loc="es">Pulsa para reanudar</tran>
+        <tran loc="es-419">Toca para reanudar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -80,7 +80,7 @@
       <Position>sJFLowLight</Position>
       <TranslationSet>
         <base loc="en">Low light</base>
-        <tran loc="es">Poca luz</tran>
+        <tran loc="es-419">Poca luz</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -88,7 +88,7 @@
       <Position>sJFAppName</Position>
       <TranslationSet>
         <base loc="en">Animoji</base>
-        <tran loc="es">Animoji</tran>
+        <tran loc="es-419">Animoji</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -96,7 +96,7 @@
       <Position>sJFContinue</Position>
       <TranslationSet>
         <base loc="en">Tap to Start</base>
-        <tran loc="es">Pulsa para empezar</tran>
+        <tran loc="es-419">Toca para empezar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -104,7 +104,7 @@
       <Position>sJFCameraCovered</Position>
       <TranslationSet>
         <base loc="en">Camera covered</base>
-        <tran loc="es">Cámara tapada</tran>
+        <tran loc="es-419">Cámara obstruida</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -119,7 +119,7 @@
       <Position>sJFLandscapeTrapMessage</Position>
       <TranslationSet>
         <base loc="en">To use Animoji, rotate iPhone to portrait.</base>
-        <tran loc="es">Para usar Animoji, pon el iPhone en vertical.</tran>
+        <tran loc="es-419">Para usar Animoji, coloca el iPhone en vertical.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>sJFUpsideDownFormat</Position>
       <TranslationSet>
         <base loc="en">Rotate %@</base>
-        <tran loc="es">Girar %@</tran>
+        <tran loc="es-419">Girar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -135,7 +135,7 @@
       <Position>sJFLookAtCameraMessage</Position>
       <TranslationSet>
         <base loc="en">Bring your face into view</base>
-        <tran loc="es">Enfoca la cámara a tu cara</tran>
+        <tran loc="es-419">Tu cara debe ser visible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -143,7 +143,7 @@
       <Position>sJFARSessionFailed</Position>
       <TranslationSet>
         <base loc="en">Tap to Retry</base>
-        <tran loc="es">Pulsa para reintentarlo</tran>
+        <tran loc="es-419">Toca para reintentar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -151,7 +151,7 @@
       <Position>sJFLaunchTitle</Position>
       <TranslationSet>
         <base loc="en">Welcome</base>
-        <tran loc="es">Te damos la bienvenida</tran>
+        <tran loc="es-419">Te damos la bienvenida</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -169,7 +169,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Animoji</base>
-        <tran loc="es">Animoji</tran>
+        <tran loc="es-419">Animoji</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -187,7 +187,7 @@
       <Position>sStickersLandscapeTrapMessage</Position>
       <TranslationSet>
         <base loc="en">To use Memoji, rotate iPhone to portrait.</base>
-        <tran loc="es">Para usar Memoji, pon el iPhone en vertical.</tran>
+        <tran loc="es-419">Para usar Memoji, coloca el iPhone en vertical.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -198,7 +198,7 @@
       <Position>sJFLaunchBody</Position>
       <TranslationSet>
         <base loc="en">Send a message using your favorite Animoji. To create your very own Memoji, use the Animoji app in Messages.</base>
-        <tran loc="es">Envía un mensaje usando tu Animoji favorito. Si quieres crear tu propio Memoji, usa la app Animoji en Mensajes.</tran>
+        <tran loc="es-419">Envía un mensaje utilizando tu Animoji favorito. Para crear tu propio Memoji, usa la app Animoji en Mensajes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>sJFLaunchContinueButton</Position>
       <TranslationSet>
         <base loc="en">Continue</base>
-        <tran loc="es">Continuar</tran>
+        <tran loc="es-419">Continuar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -221,7 +221,7 @@
       <Position>sJFLandscapeTrapMessage</Position>
       <TranslationSet>
         <base loc="en">To use Animoji, rotate iPhone to portrait.</base>
-        <tran loc="es">Para usar Animoji, pon el iPhone en vertical.</tran>
+        <tran loc="es-419">Para usar Animoji, coloca el iPhone en vertical.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -229,7 +229,7 @@
       <Position>sJFLaunchTitle</Position>
       <TranslationSet>
         <base loc="en">Welcome</base>
-        <tran loc="es">Te damos la bienvenida</tran>
+        <tran loc="es-419">Te damos la bienvenida</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -240,7 +240,7 @@
       <Position>f3j-bN-Xdn.text</Position>
       <TranslationSet>
         <base loc="en">Animoji hosting app.  Nothing to see here.</base>
-        <tran loc="es">App que contiene los Animoji. Nada que ver aquí.</tran>
+        <tran loc="es-419">App para almacenar Animoji.  Nada que ver por aquí.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -257,7 +257,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Animoji</base>
-        <tran loc="es">Animoji</tran>
+        <tran loc="es-419">Animoji</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -274,7 +274,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">Memoji Stickers</base>
-        <tran loc="es">Stickers de Memoji</tran>
+        <tran loc="es-419">Stickers de Memojis</tran>
       </TranslationSet>
     </TextItem>
   </File>

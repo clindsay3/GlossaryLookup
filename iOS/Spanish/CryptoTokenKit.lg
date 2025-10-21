@@ -11,7 +11,7 @@
       <Position>INVALID_PIN</Position>
       <TranslationSet>
         <base loc="en">PIN has invalid format</base>
-        <tran loc="es">El PIN tiene un formato no válido</tran>
+        <tran loc="es-419">El PIN no tiene un formato válido</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -22,7 +22,7 @@
       <Position>/VERIFY_TRY_LEFT:dict/tries:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">PIN verification failed, %d tries left</base>
-        <tran loc="es">La verificación con PIN ha fallado, quedan %d intentos.</tran>
+        <tran loc="es-419">Error al verificar el PIN, quedan %d intentos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -30,7 +30,7 @@
       <Position>/VERIFY_TRY_LEFT:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@tries@</base>
-        <tran loc="es">%1$#@tries@</tran>
+        <tran loc="es-419">%1$#@tries@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -38,7 +38,7 @@
       <Position>/VERIFY_TRY_LEFT:dict/tries:dict/zero:dict/:string</Position>
       <TranslationSet>
         <base loc="en">PIN verification failed, PIN blocked</base>
-        <tran loc="es">La verificación con PIN ha fallado, PIN bloqueado.</tran>
+        <tran loc="es-419">Error al verificar el PIN y ahora está bloqueado</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -46,7 +46,7 @@
       <Position>/VERIFY_TRY_LEFT:dict/tries:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">PIN verification failed, one try left</base>
-        <tran loc="es">La verificación con PIN ha fallado, queda un intento.</tran>
+        <tran loc="es-419">Error al verificar el PIN, queda un intento</tran>
       </TranslationSet>
     </TextItem>
   </File>

@@ -8,7 +8,7 @@
       <Position>CONFIRMATION_ALERT_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">Pressing stop will discontinue the installation of demo content.\nTo resume, restart device.</base>
-        <tran loc="es">Si pulsas Detener, se detendrá la instalación del contenido de demostración.\nPara reanudarla, reinicia el dispositivo.</tran>
+        <tran loc="es-419">Presionar detener interrumpirá la instalación del contenido de demostración.\nPara reanudar, reinicia el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>IN_PROGRESS</Position>
       <TranslationSet>
         <base loc="en">Demo update in progress. Do not disturb device.</base>
-        <tran loc="es">Actualización de demostración en curso. No interrumpas la actividad del dispositivo.</tran>
+        <tran loc="es-419">Se está actualizando la demostración. No interrumpas el dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Demo Setup</Position>
       <TranslationSet>
         <base loc="en">Demo Setup</base>
-        <tran loc="es">Configuración de demostración</tran>
+        <tran loc="es-419">Configuración de demostración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>CONNECTION_FAILED</Position>
       <TranslationSet>
         <base loc="en">Cannot connect to server.</base>
-        <tran loc="es">No se puede establecer conexión con el servidor.</tran>
+        <tran loc="es-419">No se puede establecer conexión con el servidor.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -47,7 +47,7 @@
       <Position>STOP_INSTALL</Position>
       <TranslationSet>
         <base loc="en">Stop Install</base>
-        <tran loc="es">Detener instalación</tran>
+        <tran loc="es-419">Detener instalación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -55,7 +55,7 @@
       <Position>CONTENT_UNLOCKED</Position>
       <TranslationSet>
         <base loc="en">Demo settings can be modified now.</base>
-        <tran loc="es">Ya se pueden modificar los ajustes de demostración.</tran>
+        <tran loc="es-419">Ahora se puede modificar la configuración de la demo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -63,7 +63,7 @@
       <Position>CONFIRMATION_ALERT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Are you sure you want to stop the installation?</base>
-        <tran loc="es">¿Seguro que quieres detener la instalación?</tran>
+        <tran loc="es-419">¿Seguro que quieres detener la instalación?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -71,7 +71,7 @@
       <Position>OK</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -79,7 +79,7 @@
       <Position>CANCEL</Position>
       <TranslationSet>
         <base loc="en">Cancel</base>
-        <tran loc="es">Cancelar</tran>
+        <tran loc="es-419">Cancelar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -87,7 +87,7 @@
       <Position>GENERIC_FAILUARE</Position>
       <TranslationSet>
         <base loc="en">An error has occurred.</base>
-        <tran loc="es">Se ha producido un error.</tran>
+        <tran loc="es-419">Ocurrió un error.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -95,7 +95,7 @@
       <Position>Cancel Install</Position>
       <TranslationSet>
         <base loc="en">Cancel Install</base>
-        <tran loc="es">Cancelar instalación</tran>
+        <tran loc="es-419">Cancelar instalación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -103,7 +103,7 @@
       <Position>NOT_VERIFIED</Position>
       <TranslationSet>
         <base loc="en">Device is not authorized for demo content.</base>
-        <tran loc="es">Dispositivo no autorizado para el contenido de la demostración.</tran>
+        <tran loc="es-419">El dispositivo no está autorizado para el contenido de demostración.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -111,7 +111,7 @@
       <Position>ITEM_FAILED</Position>
       <TranslationSet>
         <base loc="en">Some items could not be installed.</base>
-        <tran loc="es">No se han podido instalar algunos ítems.</tran>
+        <tran loc="es-419">No se pudo instalar ciertos elementos.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -119,7 +119,7 @@
       <Position>SETUP_COMPLETED</Position>
       <TranslationSet>
         <base loc="en">Demo setup completed.</base>
-        <tran loc="es">Configuración de demostración completada.</tran>
+        <tran loc="es-419">Configuración finalizada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -127,7 +127,7 @@
       <Position>STOP</Position>
       <TranslationSet>
         <base loc="en">Stop</base>
-        <tran loc="es">Detener</tran>
+        <tran loc="es-419">Detener</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -144,7 +144,7 @@
       <Position>PropertyClaim</Position>
       <TranslationSet>
         <base loc="en">Property of Apple Inc.\nDevice is disabled and not for sale.\nPlease return to any Apple Retail location.</base>
-        <tran loc="es">Propiedad de Apple Inc.\nEl dispositivo está desactivado y no está a la venta.\nDevuélvelo a cualquier tienda Apple Store.</tran>
+        <tran loc="es-419">Propiedad de Apple Inc.\nEste dispositivo está desactivado y su venta está prohibida.\nRegrésalo a Apple Retail.</tran>
       </TranslationSet>
     </TextItem>
   </File>

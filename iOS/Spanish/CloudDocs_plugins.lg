@@ -8,7 +8,7 @@
       <Position>iCloud Drive</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -16,7 +16,7 @@
       <Position>Sign in to iCloud</Position>
       <TranslationSet>
         <base loc="en">Sign in to iCloud</base>
-        <tran loc="es">Inicia sesión en iCloud</tran>
+        <tran loc="es-419">Iniciar sesión en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -24,7 +24,7 @@
       <Position>Sign in to iCloud to keep your documents safely stored in iCloud Drive.</Position>
       <TranslationSet>
         <base loc="en">Sign in to iCloud to keep your documents safely stored in iCloud Drive.</base>
-        <tran loc="es">Inicia sesión en iCloud para guardar tus documentos en iCloud Drive con seguridad.</tran>
+        <tran loc="es-419">Inicia sesión en iCloud para mantener tus archivos almacenados de manera segura en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -32,7 +32,7 @@
       <Position>Turn on iCloud Drive</Position>
       <TranslationSet>
         <base loc="en">Turn on iCloud Drive</base>
-        <tran loc="es">Activar iCloud Drive</tran>
+        <tran loc="es-419">Activar iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -40,7 +40,7 @@
       <Position>Turn on iCloud Drive to keep your documents safely stored in iCloud.</Position>
       <TranslationSet>
         <base loc="en">Turn on iCloud Drive to keep your documents safely stored in iCloud.</base>
-        <tran loc="es">Activa iCloud Drive para guardar tus documentos en iCloud con seguridad.</tran>
+        <tran loc="es-419">Activa iCloud Drive para mantener tus archivos almacenados de manera segura en iCloud.</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -51,7 +51,7 @@
       <Position>/.DICT.AVAILABLE.%@.%@:dict/availablewithunit:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%2$@ available on iCloud</base>
-        <tran loc="es">%2$@ disponible en iCloud</tran>
+        <tran loc="es-419">%2$@ disponible en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -59,7 +59,7 @@
       <Position>/.DICT.AVAILABLE.%@.%@:dict/availablewithunit:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%2$@ available on iCloud</base>
-        <tran loc="es">%2$@ disponibles en iCloud</tran>
+        <tran loc="es-419">%2$@ disponibles en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -67,7 +67,7 @@
       <Position>/.DICT.AVAILABLE.%@.%@:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%1$#@availablewithunit@</base>
-        <tran loc="es">%1$#@availablewithunit@</tran>
+        <tran loc="es-419">%1$#@availablewithunit@</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -78,7 +78,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">downloading %lu items</base>
-        <tran loc="es">descargando %lu ítems</tran>
+        <tran loc="es-419">descargando %lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -86,7 +86,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">uploading %lu item</base>
-        <tran loc="es">cargando %lu ítem</tran>
+        <tran loc="es-419">cargando %lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -94,7 +94,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Waiting to upload %lu item</base>
-        <tran loc="es">Esperando para cargar %lu ítem</tran>
+        <tran loc="es-419">Esperando a cargar %lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -102,7 +102,7 @@
       <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/minutes:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Last updated 1 minute ago</base>
-        <tran loc="es">Actualizado hace 1 minuto</tran>
+        <tran loc="es-419">Última actualización hace 1 minuto</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -110,7 +110,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Waiting to download %lu item</base>
-        <tran loc="es">Esperando para descargar %lu ítem</tran>
+        <tran loc="es-419">Esperando a descargar %lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -118,7 +118,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Downloading %lu item</base>
-        <tran loc="es">Descargando %lu ítem</tran>
+        <tran loc="es-419">Descargando %lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -126,7 +126,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Waiting to upload %lu items</base>
-        <tran loc="es">Esperando para cargar %lu ítems</tran>
+        <tran loc="es-419">Esperando a cargar %lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -134,7 +134,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Uploading %lu items</base>
-        <tran loc="es">Cargando %lu ítems</tran>
+        <tran loc="es-419">Cargando %lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -142,7 +142,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">uploading %lu items</base>
-        <tran loc="es">cargando %lu ítems</tran>
+        <tran loc="es-419">cargando %lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -150,7 +150,7 @@
       <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@minutes@</base>
-        <tran loc="es">%#@minutes@</tran>
+        <tran loc="es-419">%#@minutes@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -158,7 +158,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Downloading %lu items</base>
-        <tran loc="es">Descargando %lu ítems</tran>
+        <tran loc="es-419">Descargando %lu elementos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -166,7 +166,7 @@
       <Position>/CLOUD_DRIVE_LAST_UPDATED_N_MINUTES_AGO:dict/minutes:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Last updated %lu minutes ago</base>
-        <tran loc="es">Actualizado hace %lu minutos</tran>
+        <tran loc="es-419">Última actualización hace %lu minutos</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -174,7 +174,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADING_CAPITALIZE_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -182,7 +182,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -190,7 +190,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -198,7 +198,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -206,7 +206,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADING_LOWERCASE_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -214,7 +214,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADS_WAITING_DESCRIPTION:dict/NSStringLocalizedFormatKey:dict/:string</Position>
       <TranslationSet>
         <base loc="en">%#@items@</base>
-        <tran loc="es">%#@items@</tran>
+        <tran loc="es-419">%#@items@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -222,7 +222,7 @@
       <Position>/GLOBAL_PROGRESS_UPLOADING_CAPITALIZE_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Uploading %lu item</base>
-        <tran loc="es">Cargando %lu ítem</tran>
+        <tran loc="es-419">Cargando %lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -230,7 +230,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADING_LOWERCASE_DESCRIPTION:dict/items:dict/one:dict/:string</Position>
       <TranslationSet>
         <base loc="en">downloading %lu item</base>
-        <tran loc="es">descargando %lu ítem</tran>
+        <tran loc="es-419">descargando %lu elemento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -238,7 +238,7 @@
       <Position>/GLOBAL_PROGRESS_DOWNLOADS_WAITING_DESCRIPTION:dict/items:dict/other:dict/:string</Position>
       <TranslationSet>
         <base loc="en">Waiting to download %lu items</base>
-        <tran loc="es">Esperando para descargar %lu ítems</tran>
+        <tran loc="es-419">Esperando a descargar %lu elementos</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -250,7 +250,7 @@
       <Position>CFBundleDisplayName</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -258,7 +258,7 @@
       <Position>CFBundleName</Position>
       <TranslationSet>
         <base loc="en">com.apple.CloudDocs.MobileDocumentsFileProvider</base>
-        <tran loc="es">com.apple.CloudDocs.MobileDocumentsFileProvider</tran>
+        <tran loc="es-419">com.apple.CloudDocs.MobileDocumentsFileProvider</tran>
       </TranslationSet>
     </TextItem>
   </File>
@@ -269,7 +269,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">Este documento no se puede abrir por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -278,7 +278,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">Este documento no se puede abrir por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -286,7 +286,7 @@
       <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Keynote can’t open shared presentations because it’s a managed app.</base>
-        <tran loc="es">Keynote no puede abrir presentaciones compartidas porque es una app gestionada.</tran>
+        <tran loc="es-419">Keynote no puede abrir presentaciones compartidas debido a que es una app administrada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -294,7 +294,7 @@
       <Position>SHARING_APP_NOT_INSTALLED_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">%@ shared this spreadsheet. To start collaborating, install Numbers.</base>
-        <tran loc="es">%@ ha compartido esta hoja de cálculo. Para empezar a colaborar, instala Numbers.</tran>
+        <tran loc="es-419">%@ compartió esta hoja de cálculo. Para comenzar a colaborar, instala Numbers.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -302,7 +302,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido este documento. Accederás a él como\n“%@”.\n\nPodrás verlo en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Ingresarás como %@.\n\nPuedes encontrarlo después en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -310,7 +310,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido este documento. Accederás a él como\n“%@”.\n\nPodrás verlo en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Ingresarás como %@.\n\nPuedes encontrarlo después en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -318,7 +318,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora. Verifica tu conexión a Internet e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -326,7 +326,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora. Verifica tu conexión a Internet e intenta de nuevo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -334,7 +334,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Folder Unavailable</base>
-        <tran loc="es">Carpeta no disponible</tran>
+        <tran loc="es-419">Carpeta no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -342,7 +342,7 @@
       <Position>OLD_DOCUMENTS_FOLDER_NAME</Position>
       <TranslationSet>
         <base loc="en">Documents - %@</base>
-        <tran loc="es">Documentos - %@</tran>
+        <tran loc="es-419">Documentos: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -350,7 +350,7 @@
       <Position>OLD_DOCUMENTS_FOLDER_NAME_INSIDE_SYNCED_DOCUMENTS</Position>
       <TranslationSet>
         <base loc="en">Documents - %@</base>
-        <tran loc="es">Documentos - %@</tran>
+        <tran loc="es-419">Documentos: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -358,7 +358,7 @@
       <Position>SHARING_ICLOUD_DRIVE_SETUP_DEFAULT_BUTTON_IOS</Position>
       <TranslationSet>
         <base loc="en">Go to Settings</base>
-        <tran loc="es">Ir a Ajustes</tran>
+        <tran loc="es-419">Ir a Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -366,7 +366,7 @@
       <Position>SHARING_ICLOUD_SETUP_DEFAULT_BUTTON_IOS</Position>
       <TranslationSet>
         <base loc="en">Go to Settings</base>
-        <tran loc="es">Ir a Ajustes</tran>
+        <tran loc="es-419">Ir a Configuración</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -374,7 +374,7 @@
       <Position>NEEDS_OS_UPGRADE_ERROR</Position>
       <TranslationSet>
         <base loc="en">This document needs %@ (or later) to sync in iCloud Drive. Please upgrade or use a different device.</base>
-        <tran loc="es">Este documento necesita %@ (o posterior) para poder sincronizarse con iCloud Drive. Actualiza el dispositivo o utiliza uno distinto.</tran>
+        <tran loc="es-419">Este documento necesita %@ (o posterior) para sincronizarse en iCloud Drive. Actualiza o usa otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -382,7 +382,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">%@ shared this presentation. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta presentación. Accederás a ella como\n“%@”\n(⁠%@⁠)⁠.\n\nPodrás verla en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta presentación. Ingresarás como %@ (%@).\n\nPuedes encontrarla después en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -390,7 +390,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">%@ shared this folder. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta carpeta. Accederás a ella como\n“%@”\n(⁠%@⁠)⁠.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta carpeta. Ingresarás como %@ (%@).\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -398,7 +398,7 @@
       <Position>SHARING_APP_NOT_INSTALLED_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. To start collaborating, install Pages.</base>
-        <tran loc="es">%@ ha compartido este documento. Para empezar a colaborar, instala Pages.</tran>
+        <tran loc="es-419">%@ compartió este documento. Para comenzar a colaborar, instala Pages.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -406,7 +406,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Open folder in iCloud Drive?</base>
-        <tran loc="es">¿Abrir la carpeta en iCloud Drive?</tran>
+        <tran loc="es-419">¿Abrir la carpeta en iCloud Drive?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -414,7 +414,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">This presentation has a lot of participants. You can’t open it in Keynote, but you can still preview it.</base>
-        <tran loc="es">Esta presentación tiene muchos participantes. No puedes abrirla en Keynote, pero sí puedes previsualizarla.</tran>
+        <tran loc="es-419">Esta presentación tiene muchos participantes. No puedes abrirla en Keynote, pero puedes previsualizarla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -422,7 +422,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Open spreadsheet in Numbers?</base>
-        <tran loc="es">¿Abrir hoja de cálculo en Numbers?</tran>
+        <tran loc="es-419">¿Abrir la hoja de cálculo en Numbers?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -430,7 +430,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">%@ shared this spreadsheet. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta hoja de cálculo. Accederás a ella como\n“%@”.\n\nPodrás verla en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta hoja de cálculo. Ingresarás como %@.\n\nPuedes encontrarla después en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -438,7 +438,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Open Spreadsheet in Numbers?</base>
-        <tran loc="es">¿Abrir hoja de cálculo en Numbers?</tran>
+        <tran loc="es-419">¿Abrir la hoja de cálculo en Numbers?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -446,7 +446,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido este documento. Accederás a él como\n“%@”.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Ingresarás como %@.\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -454,7 +454,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido este documento. Accederás a él como\n“%@”.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Ingresarás como %@.\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -462,7 +462,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Open Folder in iCloud Drive?</base>
-        <tran loc="es">¿Abrir la carpeta en iCloud Drive?</tran>
+        <tran loc="es-419">¿Abrir la carpeta en iCloud Drive?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -470,7 +470,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">%@ shared this folder. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta carpeta. Accederás a ella como\n“%@”.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta carpeta. Ingresarás como %@.\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -478,7 +478,7 @@
       <Position>PREVIEW_BUTTON_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Preview Presentation</base>
-        <tran loc="es">Previsualizar presentación</tran>
+        <tran loc="es-419">Previsualizar presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -486,7 +486,7 @@
       <Position>CLOUD_DRIVE_LAST_UPDATED_WEEKDAY_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Last updated %@</base>
-        <tran loc="es">Actualizado el %@</tran>
+        <tran loc="es-419">Última actualización: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -494,7 +494,7 @@
       <Position>SHARING_APP_NOT_INSTALLED_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">%@ shared this presentation. To start collaborating, install Keynote.</base>
-        <tran loc="es">%@ ha compartido esta presentación. Para empezar a colaborar, instala Keynote.</tran>
+        <tran loc="es-419">%@ compartió esta presentación. Para comenzar a colaborar, instala Keynote.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -502,7 +502,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">You can’t open it in Keynote for Mac, but you can still open it on the web.</base>
-        <tran loc="es">Aunque no puedes abrirla en Keynote para Mac, sí puedes hacerlo en internet.</tran>
+        <tran loc="es-419">Aunque no se puede abrir en Keynote para Mac, se puede en Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -510,7 +510,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -518,7 +518,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -526,7 +526,7 @@
       <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Files can’t open shared documents because it’s a managed app.</base>
-        <tran loc="es">Archivos no puede abrir documentos compartidos porque es una app gestionada.</tran>
+        <tran loc="es-419">Archivos no puede abrir documentos compartidos porque es una app administrada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -534,7 +534,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -542,7 +542,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">This presentation can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -550,7 +550,7 @@
       <Position>CLOUD_DRIVE_LAST_UPDATED_AT_TIME_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Last updated at %@</base>
-        <tran loc="es">Actualizado a las %@</tran>
+        <tran loc="es-419">Última actualización a la(s) %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -558,7 +558,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Sorry, this spreadsheet can’t be opened right now.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -566,7 +566,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Esta carpeta no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir esta carpeta por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -574,7 +574,7 @@
       <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">%@ shared this folder. You need to turn on iCloud Drive before you can open it.</base>
-        <tran loc="es">%@ ha compartido esta carpeta. Para abrirla, es necesario activar iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta carpeta. Tendrás que activar iCloud Drive antes de que puedas abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -582,7 +582,7 @@
       <Position>SHARING_JOIN_HEADER_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Open “%@” in Numbers?</base>
-        <tran loc="es">¿Abrir “%@” en Numbers?</tran>
+        <tran loc="es-419">¿Abrir “%@” en Numbers?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -590,7 +590,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Open Document in Pages?</base>
-        <tran loc="es">¿Abrir Documento en Pages?</tran>
+        <tran loc="es-419">¿Abrir el documento en Pages?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -600,7 +600,7 @@
       <Position>ICLOUD_DRIVE_APP_INSTALLATION_NOTIFICATION_TITLE</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive</base>
-        <tran loc="es">iCloud Drive</tran>
+        <tran loc="es-419">iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -609,7 +609,7 @@
       <Position>SHARING_APP_NOT_INSTALLED_HEADER_IOS</Position>
       <TranslationSet>
         <base loc="en">Install %@</base>
-        <tran loc="es">Instalar %@</tran>
+        <tran loc="es-419">Instalar %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -617,7 +617,7 @@
       <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You need to turn on iCloud Drive before you can open it.</base>
-        <tran loc="es">%@ ha compartido este documento. Para abrirlo, es necesario activar iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Tendrás que activar iCloud Drive antes de que puedas abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -625,7 +625,7 @@
       <Position>SHARING_JOIN_HEADER_DEFAULT_APP_IOS</Position>
       <TranslationSet>
         <base loc="en">Open “%@” in Files?</base>
-        <tran loc="es">¿Abrir “%@” en Archivos?</tran>
+        <tran loc="es-419">¿Abrir “%@” en Archivos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -633,7 +633,7 @@
       <Position>SHARING_JOIN_HEADER_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Open “%@” in Files?</base>
-        <tran loc="es">¿Abrir “%@” en Archivos?</tran>
+        <tran loc="es-419">¿Abrir “%@” en Archivos?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -641,7 +641,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet is unavailable.</base>
-        <tran loc="es">Esta hoja de cálculo no está disponible.</tran>
+        <tran loc="es-419">Esta hoja de cálculo no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -649,7 +649,7 @@
       <Position>SHARING_JOIN_HEADER_DEFAULT_APP_OSX</Position>
       <TranslationSet>
         <base loc="en">Open “%@”?</base>
-        <tran loc="es">¿Abrir “%@”?</tran>
+        <tran loc="es-419">¿Abrir “%@”?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -657,7 +657,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet has a lot of participants. You can’t open it in Numbers, but you can still preview it.</base>
-        <tran loc="es">Esta hoja de cálculo tiene muchos participantes. No puedes abrirla en Numbers, pero sí puedes previsualizarla.</tran>
+        <tran loc="es-419">Esta hoja de cálculo tiene muchos participantes. No puedes abrirla en Numbers, pero puedes previsualizarla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -665,7 +665,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_DEFAULT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -673,7 +673,7 @@
       <Position>SHARING_GENERIC_ERROR_DEFAULT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -681,7 +681,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_DEFAULT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -689,7 +689,7 @@
       <Position>SHARING_NO_LONGER_SHARED_BUTTON</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -697,7 +697,7 @@
       <Position>SHARING_PROFILE_DISABLED_DEFAULT_BUTTON_IOS</Position>
       <TranslationSet>
         <base loc="en">OK</base>
-        <tran loc="es">OK</tran>
+        <tran loc="es-419">OK</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -705,7 +705,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">You can’t open it in Numbers for Mac, but you can still open it on the web.</base>
-        <tran loc="es">Aunque no puedes abrirla en Numbers para Mac, sí puedes hacerlo en internet.</tran>
+        <tran loc="es-419">Aunque no se puede abrir en Numbers para Mac, se puede en Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -713,7 +713,7 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Sorry, this folder can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Esta carpeta no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta carpeta por ahora. Intenta después.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -721,7 +721,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">%@ shared this spreadsheet. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta hoja de cálculo. Accederás a ella como\n“%@”.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta hoja de cálculo. Ingresarás como %@.\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -729,7 +729,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Spreadsheet Unavailable</base>
-        <tran loc="es">Hoja de cálculo no disponible</tran>
+        <tran loc="es-419">Hoja de cálculo no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -737,7 +737,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Open Document in iCloud Drive?</base>
-        <tran loc="es">¿Abrir el documento en iCloud Drive?</tran>
+        <tran loc="es-419">¿Abrir el documento en iCloud Drive?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -745,7 +745,7 @@
       <Position>CLOUD_DRIVE_LAST_UPDATED_ON_DATE_FORMAT</Position>
       <TranslationSet>
         <base loc="en">Last updated on %@</base>
-        <tran loc="es">Actualizado el %@</tran>
+        <tran loc="es-419">Última actualización: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -753,7 +753,7 @@
       <Position>PREVIEW_BUTTON_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Preview Spreadsheet</base>
-        <tran loc="es">Previsualizar hoja de cálculo</tran>
+        <tran loc="es-419">Previsualizar hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -762,7 +762,7 @@
       <Position>UNKNOWN_USER_GIVEN_NAME</Position>
       <TranslationSet>
         <base loc="en">Unknown User</base>
-        <tran loc="es">Usuario desconocido</tran>
+        <tran loc="es-419">Usuario desconocido</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -770,7 +770,7 @@
       <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Can’t open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -778,7 +778,7 @@
       <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Can’t open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -786,7 +786,7 @@
       <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Pages can’t open shared documents because it’s a managed app.</base>
-        <tran loc="es">Pages no puede abrir documentos compartidos porque es una app gestionada.</tran>
+        <tran loc="es-419">Pages no puede abrir documentos compartidos debido a que es una app administrada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -794,7 +794,7 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Este documento no se puede abrir por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -802,7 +802,7 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Sorry, this document can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Este documento no se puede abrir por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -810,7 +810,7 @@
       <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared spreadsheet.</base>
-        <tran loc="es">Para poder abrir esta hoja de cálculo compartida, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esta hoja de cálculo compartida, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -818,7 +818,7 @@
       <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Can’t open Presentation</base>
-        <tran loc="es">No se puede abrir la presentación</tran>
+        <tran loc="es-419">No se puede abrir la presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -826,7 +826,7 @@
       <Position>UPLOAD_PROGRESS_LOCALIZED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Uploading “%@”</base>
-        <tran loc="es">Cargando “%@”</tran>
+        <tran loc="es-419">Cargando "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -834,7 +834,7 @@
       <Position>NEEDS_OS_UPGRADE_ERROR_NO_OS_NAME_OSX</Position>
       <TranslationSet>
         <base loc="en">This document needs a newer version of macOS to sync in iCloud Drive. Please upgrade or use a different device.</base>
-        <tran loc="es">Este documento necesita una versión más reciente de macOS para poder sincronizarse con iCloud Drive. Actualiza el dispositivo o utiliza uno distinto.</tran>
+        <tran loc="es-419">Este documento necesita una versión más reciente de macOS para sincronizar en iCloud Drive. Actualiza o usa otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -842,15 +842,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Check your Internet connection, then try again.</base>
-        <tran loc="es">Comprueba la conexión a internet e inténtalo de nuevo.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_FOLDER</Position>
-      <TranslationSet>
-        <base loc="en">Check your Internet connection, then try again.</base>
-        <tran loc="es">Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Verifica la conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -858,7 +850,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Check your Internet connection, then try again.</base>
-        <tran loc="es">Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Verifica la conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -866,7 +858,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Check your Internet connection, then try again.</base>
-        <tran loc="es">Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Verifica la conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -874,7 +866,15 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">Check your Internet connection, then try again.</base>
-        <tran loc="es">Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">Verifica la conexión a Internet y reintenta.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Check your Internet connection, then try again.</base>
+        <tran loc="es-419">Verifica la conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -882,7 +882,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Presentation</base>
-        <tran loc="es">No se puede abrir la presentación</tran>
+        <tran loc="es-419">No se puede abrir la presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -890,7 +890,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Presentation</base>
-        <tran loc="es">No se puede abrir la presentación</tran>
+        <tran loc="es-419">No se puede abrir la presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -898,7 +898,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Presentation</base>
-        <tran loc="es">No se puede abrir la presentación</tran>
+        <tran loc="es-419">No se puede abrir la presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -906,7 +906,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Presentation</base>
-        <tran loc="es">No se puede abrir la presentación</tran>
+        <tran loc="es-419">No se puede abrir la presentación</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -914,7 +914,7 @@
       <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared folder.</base>
-        <tran loc="es">Para poder abrir esta carpeta compartida, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esta carpeta compartida, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -922,7 +922,7 @@
       <Position>SHARING_FALLBACK_SUCCESS_DEFAULT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Close</base>
-        <tran loc="es">Cerrar</tran>
+        <tran loc="es-419">Cerrar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -930,15 +930,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_FOLDER</Position>
-      <TranslationSet>
-        <base loc="en">There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -946,7 +938,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -954,7 +946,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -962,7 +954,15 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">There may be a problem with the server. Please try again later.</base>
+        <tran loc="es-419">Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -970,7 +970,7 @@
       <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Numbers can’t open shared spreadsheets because it’s a managed app.</base>
-        <tran loc="es">Numbers no puede abrir hojas de cálculo compartidas porque es una app gestionada.</tran>
+        <tran loc="es-419">Numbers no puede abrir hojas de cálculo compartidas debido a que es una app administrada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -978,7 +978,7 @@
       <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared presentation.</base>
-        <tran loc="es">Para poder abrir esta presentación compartida, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir esta presentación compartida, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -986,7 +986,7 @@
       <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared document.</base>
-        <tran loc="es">Para poder abrir este documento compartido, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir este documento compartido, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -994,7 +994,7 @@
       <Position>SHARING_ICLOUD_SETUP_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">You need to sign in to iCloud with your Apple ID before you can open this shared document.</base>
-        <tran loc="es">Para poder abrir este documento compartido, debes iniciar sesión en iCloud con tu ID de Apple.</tran>
+        <tran loc="es-419">Para abrir este documento compartido, inicia sesión en iCloud con tu Apple ID.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1002,7 +1002,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">%@ shared this spreadsheet. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta hoja de cálculo. Accederás a ella como\n“%@”\n(⁠%@⁠)⁠.\n\nPodrás verla en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta hoja de cálculo. Ingresarás como %@ (%@).\n\nPuedes encontrarla después en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1010,7 +1010,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Spreadsheet</base>
-        <tran loc="es">No se puede abrir la hoja de cálculo</tran>
+        <tran loc="es-419">No se puede abrir la hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1018,7 +1018,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Spreadsheet</base>
-        <tran loc="es">No se puede abrir la hoja de cálculo</tran>
+        <tran loc="es-419">No se puede abrir la hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1026,7 +1026,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Spreadsheet</base>
-        <tran loc="es">No se puede abrir la hoja de cálculo</tran>
+        <tran loc="es-419">No se puede abrir la hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1034,7 +1034,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Spreadsheet</base>
-        <tran loc="es">No se puede abrir la hoja de cálculo</tran>
+        <tran loc="es-419">No se puede abrir la hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1042,7 +1042,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Presentation Unavailable</base>
-        <tran loc="es">Presentación no disponible</tran>
+        <tran loc="es-419">Presentación no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1051,7 +1051,7 @@
       <Position>NEEDS_OS_UPGRADE_ERROR_NO_OS_NAME_IOS</Position>
       <TranslationSet>
         <base loc="en">This document needs a newer version of iOS to sync in iCloud Drive. Please upgrade or use a different device.</base>
-        <tran loc="es">Este documento necesita una versión más reciente de iOS para poder sincronizarse con iCloud Drive. Actualiza el dispositivo o utiliza uno distinto.</tran>
+        <tran loc="es-419">Este documento necesita una versión más reciente de iOS para sincronizar en iCloud Drive. Actualiza o usa otro dispositivo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1059,7 +1059,7 @@
       <Position>ICLOUD_DRIVE_APP_INSTALLATION_NOTIFICATION_UNLOCK_ACTION</Position>
       <TranslationSet>
         <base loc="en">Slide to View</base>
-        <tran loc="es">Deslizar para ver</tran>
+        <tran loc="es-419">Desliza para ver</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1067,7 +1067,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet can’t be opened right now.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1075,7 +1075,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet can’t be opened right now.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1084,7 +1084,7 @@
       <Position>ICLOUD_DRIVE_ARCHIVE_FOLDER_NAME_OSX</Position>
       <TranslationSet>
         <base loc="en">iCloud Drive (Archive)</base>
-        <tran loc="es">iCloud Drive (archivado)</tran>
+        <tran loc="es-419">iCloud Drive (archivo)</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1092,7 +1092,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1100,7 +1100,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1108,7 +1108,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1116,7 +1116,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1124,7 +1124,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1132,7 +1132,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1140,7 +1140,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1148,7 +1148,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Document</base>
-        <tran loc="es">No se puede abrir el documento</tran>
+        <tran loc="es-419">No se puede abrir el documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1156,7 +1156,7 @@
       <Position>SHARING_APP_NOT_INSTALLED_ALT_BUTTON_IOS</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1164,7 +1164,7 @@
       <Position>SHARING_ICLOUD_DRIVE_SETUP_ALT_BUTTON_IOS</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1172,7 +1172,7 @@
       <Position>SHARING_ICLOUD_SETUP_ALT_BUTTON_IOS</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1180,7 +1180,7 @@
       <Position>SHARING_JOIN_ALT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1188,7 +1188,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_ALT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Not Now</base>
-        <tran loc="es">Ahora no</tran>
+        <tran loc="es-419">Ahora no</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1196,7 +1196,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">This document has a lot of participants. You can’t open it but you can still preview it.</base>
-        <tran loc="es">Este documento tiene muchos participantes. No puedes abrirlo, pero sí puedes previsualizarlo.</tran>
+        <tran loc="es-419">Este documento tiene muchos participantes. No puedes abrirlo, pero puedes previsualizarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1204,7 +1204,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Open presentation in Keynote?</base>
-        <tran loc="es">¿Abrir presentación en Keynote?</tran>
+        <tran loc="es-419">¿Abrir la presentación en Keynote?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1212,7 +1212,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">This document has a lot of participants.</base>
-        <tran loc="es">Este documento tiene muchos participantes.</tran>
+        <tran loc="es-419">Este documento tiene muchos participantes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1221,7 +1221,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">This document has a lot of participants.</base>
-        <tran loc="es">Este documento tiene muchos participantes.</tran>
+        <tran loc="es-419">Este documento tiene muchos participantes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1229,7 +1229,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido este documento. Accederás a él como\n“%@”\n(⁠%@⁠)⁠.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Ingresarás como %@ (%@).\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1237,7 +1237,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido este documento. Accederás a él como\n“%@”\n(⁠%@⁠)⁠.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Ingresarás como %@ (%@).\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1245,7 +1245,7 @@
       <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Can’t open Spreadsheet</base>
-        <tran loc="es">No se puede abrir la hoja de cálculo</tran>
+        <tran loc="es-419">No se puede abrir la hoja de cálculo</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1253,7 +1253,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Item Unavailable</base>
-        <tran loc="es">Ítem no disponible</tran>
+        <tran loc="es-419">Elemento no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1261,7 +1261,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir este hoja de cálculo por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1269,7 +1269,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">%@ shared this folder. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta carpeta. Accederás a ella como\n“%@”.\n\nPodrás verla en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta carpeta. Ingresarás como %@.\n\nPodrás encontrarlo en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1277,7 +1277,7 @@
       <Position>ICLOUD_DRIVE_APP_INSTALLATION_NOTIFICATION_MESSAGE</Position>
       <TranslationSet>
         <base loc="en">The iCloud Drive app has been added to your home screen.</base>
-        <tran loc="es">La app iCloud Drive se ha añadido a la pantalla de inicio.</tran>
+        <tran loc="es-419">Se agregó la app iCloud Drive a tu pantalla de inicio</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1285,7 +1285,7 @@
       <Position>SHARING_ICLOUD_DRIVE_SETUP_HEADER_IOS</Position>
       <TranslationSet>
         <base loc="en">Turn On iCloud Drive</base>
-        <tran loc="es">Activar iCloud Drive</tran>
+        <tran loc="es-419">Activar iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1294,7 +1294,7 @@
       <Position>SHARING_JOIN_HEADER_PAGES</Position>
       <TranslationSet>
         <base loc="en">Open “%@” in Pages?</base>
-        <tran loc="es">¿Abrir “%@” en Pages?</tran>
+        <tran loc="es-419">¿Abrir “%@” en Pages?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1303,7 +1303,7 @@
       <Position>DOCUMENT_DEFAULT_NAME</Position>
       <TranslationSet>
         <base loc="en">Untitled</base>
-        <tran loc="es">Sin título</tran>
+        <tran loc="es-419">Sin título</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1312,7 +1312,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">Open document in Pages?</base>
-        <tran loc="es">¿Abrir documento en Pages?</tran>
+        <tran loc="es-419">¿Abrir el documento en Pages?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1320,7 +1320,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">You can still open it on the web.</base>
-        <tran loc="es">Puedes abrir el archivo en internet.</tran>
+        <tran loc="es-419">Se podría abrir en Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1328,7 +1328,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">You can still open it on the web.</base>
-        <tran loc="es">Puedes abrir el archivo en internet.</tran>
+        <tran loc="es-419">Se podría abrir en Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1336,7 +1336,7 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Sorry, this spreadsheet can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Esta hoja de cálculo no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta hoja de cálculo por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1344,7 +1344,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">This presentation is unavailable.</base>
-        <tran loc="es">Esta presentación no está disponible.</tran>
+        <tran loc="es-419">Esta presentación no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1352,7 +1352,7 @@
       <Position>SEARCH_SHORTCUT_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Search iCloud Drive</base>
-        <tran loc="es">Buscar en iCloud Drive</tran>
+        <tran loc="es-419">Buscar en iCloud Drive</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1360,7 +1360,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">This presentation can’t be opened right now.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1368,7 +1368,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">This presentation can’t be opened right now.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1376,7 +1376,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder has a lot of participants. You can’t open it but you can still preview it.</base>
-        <tran loc="es">Este carpeta tiene muchos participantes. No puedes abrirla, pero sí puedes previsualizarla.</tran>
+        <tran loc="es-419">Esta carpeta tiene muchos participantes. No puedes abrirla, pero puedes previsualizarla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1384,7 +1384,7 @@
       <Position>SHARING_PROFILE_DISABLED_MESSAGE_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Files can’t open shared folders because it’s a managed app.</base>
-        <tran loc="es">Archivos no puede abrir carpetas compartidas porque es una app gestionada.</tran>
+        <tran loc="es-419">Archivos no puede abrir carpetas compartidas porque es una app administrada.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1394,7 +1394,7 @@
       <Position>GLOBAL_PROGRESS_ADDITIONAL_DESCRIPTION</Position>
       <TranslationSet>
         <base loc="en">%@ of %@</base>
-        <tran loc="es">%@ de %@</tran>
+        <tran loc="es-419">%@ de %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1402,7 +1402,7 @@
       <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">%@ shared this presentation. You need to turn on iCloud Drive for Keynote before you can open it.</base>
-        <tran loc="es">%@ ha compartido esta presentación. Para abrirla es necesario activar iCloud Drive para Keynote.</tran>
+        <tran loc="es-419">%@ compartió esta presentación. Tendrás que activar iCloud Drive para Keynote antes de que puedas abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1410,7 +1410,7 @@
       <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">%@ shared this spreadsheet. You need to turn on iCloud Drive for Numbers before you can open it.</base>
-        <tran loc="es">%@ ha compartido esta hoja de cálculo. Para abrirla es necesario activar iCloud Drive para Numbers.</tran>
+        <tran loc="es-419">%@ compartió esta hoja de cálculo. Tendrás que activar iCloud Drive para Numbers antes de que puedas abrirla.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1418,7 +1418,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder can’t be opened right now.</base>
-        <tran loc="es">Esta carpeta no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta carpeta por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1426,7 +1426,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder can’t be opened right now.</base>
-        <tran loc="es">Esta carpeta no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta carpeta por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1434,7 +1434,7 @@
       <Position>SHARING_PROFILE_DISABLED_HEADER_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Can’t open Folder</base>
-        <tran loc="es">No se puede abrir la carpeta</tran>
+        <tran loc="es-419">No se puede abrir la carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1442,7 +1442,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">%@ shared this folder. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta carpeta. Accederás a ella como\n“%@”\n(⁠%@⁠)⁠.\n\nPodrás verla en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta carpeta. Ingresarás como %@ (%@).\n\nPodrás encontrarlo en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1450,7 +1450,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">Document Unavailable</base>
-        <tran loc="es">Documento no disponible</tran>
+        <tran loc="es-419">Documento no disponible</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1458,7 +1458,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">You can’t open it in Pages for Mac, but you can still open it on the web.</base>
-        <tran loc="es">Aunque no puedes abrirlo en Pages para Mac, sí puedes hacerlo en internet.</tran>
+        <tran loc="es-419">Aunque no se puede abrir en Pages para Mac, se puede en Internet.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1466,7 +1466,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Sorry, this folder can’t be opened right now.</base>
-        <tran loc="es">Esta carpeta no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">Esta carpeta no se puede abrir por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1474,7 +1474,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">This presentation can’t be opened right now. Check your Internet connection, then try again.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos. Comprueba la conexión a internet e inténtalo de nuevo.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora. Verifica tu conexión a Internet y reintenta.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1482,7 +1482,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">%@ shared this spreadsheet. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta hoja de cálculo. Accederás a ella como\n“%@”\n(⁠%@⁠)⁠.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta hoja de cálculo. Ingresarás como %@ (%@).\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1490,7 +1490,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder has a lot of participants.</base>
-        <tran loc="es">Este carpeta tiene muchos participantes.</tran>
+        <tran loc="es-419">Esta carpeta tiene muchos participantes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1500,7 +1500,7 @@
       <Position>DOWNLOAD_PROGRESS_LOCALIZED_TITLE</Position>
       <TranslationSet>
         <base loc="en">Downloading “%@”</base>
-        <tran loc="es">Descargando “%@”</tran>
+        <tran loc="es-419">Descargando "%@"</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1508,7 +1508,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">%@ shared this presentation. You will join as %@.\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta presentación. Accederás a ella como\n“%@”.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta presentación. Ingresarás como %@.\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1516,7 +1516,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">%@ shared this presentation. You will join as %@ (%@).\n\nIt will also be added to iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta presentación. Accederás a ella como\n“%@”\n(⁠%@⁠)⁠.\n\nTambién se añadirá a iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta presentación. Ingresarás como %@ (%@).\n\nTambién se agregará a iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1524,7 +1524,7 @@
       <Position>OPEN_IN_APP_SHORTCUT_SUBTITLE</Position>
       <TranslationSet>
         <base loc="en">Open in %@</base>
-        <tran loc="es">Abrir en %@</tran>
+        <tran loc="es-419">Abrir en %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1532,7 +1532,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Open document in iCloud Drive?</base>
-        <tran loc="es">¿Abrir el documento en iCloud Drive?</tran>
+        <tran loc="es-419">¿Abrir el documento en iCloud Drive?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1540,7 +1540,7 @@
       <Position>SHARING_JOIN_MESSAGE_PUBLIC_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">%@ shared this presentation. You will join as %@.\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido esta presentación. Accederás a ella como\n“%@”.\n\nPodrás verla en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió esta presentación. Ingresarás como %@.\n\nPuedes encontrarla después en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1548,7 +1548,7 @@
       <Position>SHARING_JOIN_HEADER_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Open “%@” in Keynote?</base>
-        <tran loc="es">¿Abrir “%@” en Keynote?</tran>
+        <tran loc="es-419">¿Abrir “%@” en Keynote?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1556,7 +1556,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">This document has a lot of participants. You can’t open it in Pages, but you can still preview it.</base>
-        <tran loc="es">Este documento tiene muchos participantes. No puedes abrirlo en Pages, pero sí puedes previsualizarlo.</tran>
+        <tran loc="es-419">Este documento tiene muchos participantes. No puedes abrirlo en Pages, pero puedes previsualizarlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1564,7 +1564,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">This presentation has a lot of participants.</base>
-        <tran loc="es">Esta presentación tiene muchos participantes.</tran>
+        <tran loc="es-419">Esta presentación tiene muchos participantes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1572,7 +1572,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">This item is unavailable.</base>
-        <tran loc="es">Este ítem no está disponible.</tran>
+        <tran loc="es-419">Este elemento no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1580,7 +1580,7 @@
       <Position>SHARING_JOIN_HEADER_NO_DOCUMENT_NAME_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Open Presentation in Keynote?</base>
-        <tran loc="es">¿Abrir presentación en Keynote?</tran>
+        <tran loc="es-419">¿Abrir la presentación en Keynote?</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1589,7 +1589,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">This document is unavailable.</base>
-        <tran loc="es">Este documento no está disponible.</tran>
+        <tran loc="es-419">Este documento no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1597,7 +1597,7 @@
       <Position>SHARING_ICLOUD_SETUP_HEADER_IOS</Position>
       <TranslationSet>
         <base loc="en">Sign In to iCloud</base>
-        <tran loc="es">Iniciar sesión en iCloud</tran>
+        <tran loc="es-419">Iniciar sesión en iCloud</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1605,7 +1605,7 @@
       <Position>SEARCH_SHORTCUT_TITLE</Position>
       <TranslationSet>
         <base loc="en">Search</base>
-        <tran loc="es">Buscar</tran>
+        <tran loc="es-419">Buscar</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1613,7 +1613,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_MESSAGE_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder can’t be opened right now. There may be a problem with the server. Please try again later.</base>
-        <tran loc="es">Esta carpeta no se puede abrir en estos momentos. Es posible que haya un problema con el servidor. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta carpeta por ahora. Es posible que haya un problema con el servidor. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1621,7 +1621,7 @@
       <Position>SHARING_NO_LONGER_SHARED_HEADER_OSX_FOLDER</Position>
       <TranslationSet>
         <base loc="en">This folder is unavailable.</base>
-        <tran loc="es">Esta carpeta no está disponible.</tran>
+        <tran loc="es-419">Esta carpeta no está disponible.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1629,7 +1629,7 @@
       <Position>CLOUD_DRIVE_LAST_UPDATED_YESTERDAY</Position>
       <TranslationSet>
         <base loc="en">Last updated yesterday</base>
-        <tran loc="es">Actualizado ayer</tran>
+        <tran loc="es-419">Última actualización: ayer</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1637,7 +1637,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido este documento. Accederás a él como\n“%@”\n(⁠%@⁠)⁠.\n\nPodrás verlo en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Ingresarás como %@ (%@).\n\nPuedes encontrarlo después en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1645,7 +1645,7 @@
       <Position>SHARING_JOIN_MESSAGE_PRIVATE_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You will join as %@ (%@).\n\nYou can find this later in iCloud Drive.</base>
-        <tran loc="es">%@ ha compartido este documento. Accederás a él como\n“%@”\n(⁠%@⁠)⁠.\n\nPodrás verlo en iCloud Drive.</tran>
+        <tran loc="es-419">%@ compartió este documento. Ingresarás como %@ (%@).\n\nPuedes encontrarlo después en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1653,7 +1653,7 @@
       <Position>PREVIEW_BUTTON_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Preview Folder</base>
-        <tran loc="es">Previsualizar carpeta</tran>
+        <tran loc="es-419">Previsualizar carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1661,15 +1661,7 @@
       <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_FOLDER</Position>
-      <TranslationSet>
-        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1677,7 +1669,7 @@
       <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1685,7 +1677,7 @@
       <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1693,7 +1685,7 @@
       <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1701,15 +1693,7 @@
       <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_FOLDER</Position>
-      <TranslationSet>
-        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1717,7 +1701,7 @@
       <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1725,7 +1709,7 @@
       <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1733,7 +1717,23 @@
       <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
-        <tran loc="es">El propietario ha dejado de compartir el ítem o no tienes permiso para abrirlo.</tran>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_NO_LONGER_SHARED_MESSAGE_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">The owner stopped sharing, or you don’t have permission to open it.</base>
+        <tran loc="es-419">El propietario dejó de compartir esto o tú no tienes permiso para abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1741,7 +1741,7 @@
       <Position>SHARING_ICLOUD_DRIVE_SETUP_MESSAGE_IOS_PAGES</Position>
       <TranslationSet>
         <base loc="en">%@ shared this document. You need to turn on iCloud Drive for Pages before you can open it.</base>
-        <tran loc="es">%@ ha compartido este documento. Para abrirlo es necesario activar iCloud Drive para Pages.</tran>
+        <tran loc="es-419">%@ compartió este documento. Tendrás que activar iCloud Drive para Pages antes de que puedas abrirlo.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1749,15 +1749,7 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_FOLDER</Position>
-      <TranslationSet>
-        <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1765,7 +1757,7 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1773,7 +1765,7 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1781,7 +1773,15 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">Please try again later.</base>
-        <tran loc="es">Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">Intenta más tarde.</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_GENERIC_ERROR_MESSAGE_OSX_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Please try again later.</base>
+        <tran loc="es-419">Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1789,7 +1789,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1798,7 +1798,7 @@
       <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1806,7 +1806,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1815,7 +1815,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_OSX_PAGES</Position>
       <TranslationSet>
         <base loc="en">This document can’t be opened right now.</base>
-        <tran loc="es">Este documento no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir este documento por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1825,15 +1825,7 @@
       <Position>CLOUD_DRIVE_LAST_UPDATED_JUST_NOW</Position>
       <TranslationSet>
         <base loc="en">Updated Just Now</base>
-        <tran loc="es">Actualizado ahora mismo</tran>
-      </TranslationSet>
-    </TextItem>
-    <TextItem>
-      <Description/>
-      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_FOLDER</Position>
-      <TranslationSet>
-        <base loc="en">Can’t Open Folder</base>
-        <tran loc="es">No se puede abrir la carpeta</tran>
+        <tran loc="es-419">Actualizado justo ahora</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1841,7 +1833,15 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Folder</base>
-        <tran loc="es">No se puede abrir la carpeta</tran>
+        <tran loc="es-419">No se puede abrir la carpeta</tran>
+      </TranslationSet>
+    </TextItem>
+    <TextItem>
+      <Description/>
+      <Position>SHARING_DEVICE_OFFLINE_ERROR_HEADER_IOS_FOLDER</Position>
+      <TranslationSet>
+        <base loc="en">Can’t Open Folder</base>
+        <tran loc="es-419">No se puede abrir la carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1849,7 +1849,7 @@
       <Position>SHARING_ICLOUD_NOT_REACHABLE_HEADER_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Folder</base>
-        <tran loc="es">No se puede abrir la carpeta</tran>
+        <tran loc="es-419">No se puede abrir la carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1857,7 +1857,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_IOS_FOLDER</Position>
       <TranslationSet>
         <base loc="en">Can’t Open Folder</base>
-        <tran loc="es">No se puede abrir la carpeta</tran>
+        <tran loc="es-419">No se puede abrir la carpeta</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1865,7 +1865,7 @@
       <Position>PREVIEW_BUTTON_DEFAULT</Position>
       <TranslationSet>
         <base loc="en">Preview Document</base>
-        <tran loc="es">Previsualizar documento</tran>
+        <tran loc="es-419">Previsualizar documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1873,7 +1873,7 @@
       <Position>PREVIEW_BUTTON_PAGES</Position>
       <TranslationSet>
         <base loc="en">Preview Document</base>
-        <tran loc="es">Previsualizar documento</tran>
+        <tran loc="es-419">Previsualizar documento</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1881,7 +1881,7 @@
       <Position>SHARING_FALLBACK_SUCCESS_HEADER</Position>
       <TranslationSet>
         <base loc="en">Saved to iCloud Drive.</base>
-        <tran loc="es">Se ha guardado en iCloud Drive.</tran>
+        <tran loc="es-419">Guardado en iCloud Drive.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1889,7 +1889,7 @@
       <Position>OLD_DESKTOP_FOLDER_NAME</Position>
       <TranslationSet>
         <base loc="en">Desktop - %@</base>
-        <tran loc="es">Escritorio - %@</tran>
+        <tran loc="es-419">Escritorio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1897,7 +1897,7 @@
       <Position>OLD_DESKTOP_FOLDER_NAME_INSIDE_SYNCED_DESKTOP</Position>
       <TranslationSet>
         <base loc="en">Desktop - %@</base>
-        <tran loc="es">Escritorio - %@</tran>
+        <tran loc="es-419">Escritorio: %@</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1905,7 +1905,7 @@
       <Position>SHARING_APP_NOT_INSTALLED_DEFAULT_BUTTON_IOS</Position>
       <TranslationSet>
         <base loc="en">Go to App Store</base>
-        <tran loc="es">Ir a App Store</tran>
+        <tran loc="es-419">Ir a App Store</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1913,7 +1913,7 @@
       <Position>SHARING_GENERIC_ERROR_HEADER_OSX_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Sorry, this presentation can’t be opened right now.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1921,7 +1921,7 @@
       <Position>ICLOUD_DRIVE_APP_INSTALLATION_NOTIFICATION_ACTION_BUTTON_TITLE</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1929,7 +1929,7 @@
       <Position>SHARING_JOIN_DEFAULT_BUTTON</Position>
       <TranslationSet>
         <base loc="en">Open</base>
-        <tran loc="es">Abrir</tran>
+        <tran loc="es-419">Abrir</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1937,7 +1937,7 @@
       <Position>SHARING_PARTICIPANT_LIMIT_REACHED_HEADER_OSX_NUMBERS</Position>
       <TranslationSet>
         <base loc="en">This spreadsheet has a lot of participants.</base>
-        <tran loc="es">Esta hoja de cálculo tiene muchos participantes.</tran>
+        <tran loc="es-419">Esta hoja de cálculo tiene muchos participantes.</tran>
       </TranslationSet>
     </TextItem>
     <TextItem>
@@ -1945,7 +1945,7 @@
       <Position>SHARING_GENERIC_ERROR_MESSAGE_IOS_KEYNOTE</Position>
       <TranslationSet>
         <base loc="en">Sorry, this presentation can’t be opened right now. Please try again later.</base>
-        <tran loc="es">Esta presentación no se puede abrir en estos momentos. Inténtalo de nuevo más tarde.</tran>
+        <tran loc="es-419">No se puede abrir esta presentación por ahora. Intenta más tarde.</tran>
       </TranslationSet>
     </TextItem>
   </File>
